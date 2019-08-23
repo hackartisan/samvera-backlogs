@@ -1,0 +1,87 @@
+[
+  {
+    "url": "https://github.com/pulibrary/figgy",
+    "base": "valkyrie",
+    "source": "wiki"
+  },
+  {
+    "url": "https://github.com/UNC-Libraries/hy-c/",
+    "base": "hyrax",
+    "source": "wiki"
+  },
+  {
+    "url": "https://github.com/nulib/donut",
+    "base": "hyrax",
+    "source": "wiki"
+  },
+  {
+    "url": "https://github.com/lbcclib/community_archive",
+    "base": "hyrax",
+    "source": "wiki"
+  },
+  {
+    "url": "https://github.com/UCLALibrary/californica",
+    "base": "hyrax",
+    "source": "wiki"
+  },
+  {
+    "url": "https://github.com/mlibrary/heliotrope",
+    "base": "hyrax",
+    "source": "wiki"
+  },
+  {
+    "url": "https://github.com/mlibrary/deepblue",
+    "base": "hyrax",
+    "source": "wiki"
+  },
+  {
+    "url": "https://github.com/uohull/hyhull",
+    "base": "hydra",
+    "source": "wiki"
+  },
+  {
+    "url": "https://github.com/ucsblibrary/alexandria",
+    "base": "curation-concerns",
+    "source": "wiki"
+  },
+  {
+    "url": "https://github.com/osulp/Scholars-Archive",
+    "base": "hyrax",
+    "source": "wiki"
+  },
+  {
+    "url": "https://github.com/OregonDigital/oregondigital/",
+    "base": "hydra",
+    "source": "wiki"
+  },
+  {
+    "url": "https://github.com/uvalib/Libra2",
+    "base": "sufia",
+    "source": "wiki"
+  },
+  {
+    "url": "https://github.com/duke-libraries/dul-hydra",
+    "base": "hydra",
+    "source": "wiki"
+  },
+  {
+    "url": "https://github.com/duke-libraries/ddr-public",
+    "base": "hydra",
+    "source": "wiki"
+  },
+  {
+    "url": "https://github.com/duke-libraries/rdr",
+    "base": "hyrax",
+    "source": "wiki"
+  },
+  {
+    "url": "https://github.com/curationexperts/laevigata",
+    "base": "hyrax",
+    "source": "wiki"
+  },
+  {
+    "url": "https://github.com/Digital-Repository-of-Ireland/dri-app",
+    "base": "hydra",
+    "source": "wiki"
+  }
+]
