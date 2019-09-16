@@ -25,3 +25,22 @@ the direction the project naturally takes. I will focus on applications in use
 or under development at institutions, as opposed to community-maintained engines
 and core gems. This talk will describe my process, results, and evaluate the
 success of the endeavor.
+
+## Project plan
+
+* Create the data set
+  * Collect repositories
+    * Identify repositories to get dependencies from
+      * hyrax
+      * sufia
+      * valkyrie
+      * hydra-head
+      * hydra
+    * Pull them via github API?
+    * At some point do we have too many? to effective analyze results?
+  * Pull the issues and PRs using the github api
+  * Tagging? Maybe do this later when relevant for a specific question
+* Ask for money from Esmé, Jon in case we need it
+* Choose a first question
+  * See what we can do using google's tools
+  * Analyze results and iterate
