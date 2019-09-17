@@ -7,17 +7,7 @@
     {
         "base": "hyrax",
         "source": "wiki",
-        "url": "https://github.com/UNC-Libraries/hy-c/"
-    },
-    {
-        "base": "hyrax",
-        "source": "wiki",
         "url": "https://github.com/nulib/donut"
-    },
-    {
-        "base": "hyrax",
-        "source": "wiki",
-        "url": "https://github.com/lbcclib/community_archive"
     },
     {
         "base": "hyrax",
@@ -28,16 +18,6 @@
         "base": "hyrax",
         "source": "wiki",
         "url": "https://github.com/mlibrary/heliotrope"
-    },
-    {
-        "base": "hyrax",
-        "source": "wiki",
-        "url": "https://github.com/mlibrary/deepblue"
-    },
-    {
-        "base": "hydra",
-        "source": "wiki",
-        "url": "https://github.com/uohull/hyhull"
     },
     {
         "base": "curation-concerns",
@@ -55,16 +35,6 @@
         "url": "https://github.com/OregonDigital/oregondigital/"
     },
     {
-        "base": "sufia",
-        "source": "wiki",
-        "url": "https://github.com/uvalib/Libra2"
-    },
-    {
-        "base": "hydra",
-        "source": "wiki",
-        "url": "https://github.com/duke-libraries/dul-hydra"
-    },
-    {
         "base": "hydra",
         "source": "wiki",
         "url": "https://github.com/duke-libraries/ddr-public"
@@ -72,17 +42,7 @@
     {
         "base": "hyrax",
         "source": "wiki",
-        "url": "https://github.com/duke-libraries/rdr"
-    },
-    {
-        "base": "hyrax",
-        "source": "wiki",
         "url": "https://github.com/curationexperts/laevigata"
-    },
-    {
-        "base": "hydra",
-        "source": "wiki",
-        "url": "https://github.com/Digital-Repository-of-Ireland/dri-app"
     },
     {
         "base": "hyrax",
