@@ -1,87 +1,187 @@
 [
-  {
-    "url": "https://github.com/pulibrary/figgy",
-    "base": "valkyrie",
-    "source": "wiki"
-  },
-  {
-    "url": "https://github.com/UNC-Libraries/hy-c/",
-    "base": "hyrax",
-    "source": "wiki"
-  },
-  {
-    "url": "https://github.com/nulib/donut",
-    "base": "hyrax",
-    "source": "wiki"
-  },
-  {
-    "url": "https://github.com/lbcclib/community_archive",
-    "base": "hyrax",
-    "source": "wiki"
-  },
-  {
-    "url": "https://github.com/UCLALibrary/californica",
-    "base": "hyrax",
-    "source": "wiki"
-  },
-  {
-    "url": "https://github.com/mlibrary/heliotrope",
-    "base": "hyrax",
-    "source": "wiki"
-  },
-  {
-    "url": "https://github.com/mlibrary/deepblue",
-    "base": "hyrax",
-    "source": "wiki"
-  },
-  {
-    "url": "https://github.com/uohull/hyhull",
-    "base": "hydra",
-    "source": "wiki"
-  },
-  {
-    "url": "https://github.com/ucsblibrary/alexandria",
-    "base": "curation-concerns",
-    "source": "wiki"
-  },
-  {
-    "url": "https://github.com/osulp/Scholars-Archive",
-    "base": "hyrax",
-    "source": "wiki"
-  },
-  {
-    "url": "https://github.com/OregonDigital/oregondigital/",
-    "base": "hydra",
-    "source": "wiki"
-  },
-  {
-    "url": "https://github.com/uvalib/Libra2",
-    "base": "sufia",
-    "source": "wiki"
-  },
-  {
-    "url": "https://github.com/duke-libraries/dul-hydra",
-    "base": "hydra",
-    "source": "wiki"
-  },
-  {
-    "url": "https://github.com/duke-libraries/ddr-public",
-    "base": "hydra",
-    "source": "wiki"
-  },
-  {
-    "url": "https://github.com/duke-libraries/rdr",
-    "base": "hyrax",
-    "source": "wiki"
-  },
-  {
-    "url": "https://github.com/curationexperts/laevigata",
-    "base": "hyrax",
-    "source": "wiki"
-  },
-  {
-    "url": "https://github.com/Digital-Repository-of-Ireland/dri-app",
-    "base": "hydra",
-    "source": "wiki"
-  }
+    {
+        "base": "valkyrie",
+        "source": "wiki",
+        "url": "https://github.com/pulibrary/figgy"
+    },
+    {
+        "base": "hyrax",
+        "source": "wiki",
+        "url": "https://github.com/UNC-Libraries/hy-c/"
+    },
+    {
+        "base": "hyrax",
+        "source": "wiki",
+        "url": "https://github.com/nulib/donut"
+    },
+    {
+        "base": "hyrax",
+        "source": "wiki",
+        "url": "https://github.com/lbcclib/community_archive"
+    },
+    {
+        "base": "hyrax",
+        "source": "wiki",
+        "url": "https://github.com/UCLALibrary/californica"
+    },
+    {
+        "base": "hyrax",
+        "source": "wiki",
+        "url": "https://github.com/mlibrary/heliotrope"
+    },
+    {
+        "base": "hyrax",
+        "source": "wiki",
+        "url": "https://github.com/mlibrary/deepblue"
+    },
+    {
+        "base": "hydra",
+        "source": "wiki",
+        "url": "https://github.com/uohull/hyhull"
+    },
+    {
+        "base": "curation-concerns",
+        "source": "wiki",
+        "url": "https://github.com/ucsblibrary/alexandria"
+    },
+    {
+        "base": "hyrax",
+        "source": "wiki",
+        "url": "https://github.com/osulp/Scholars-Archive"
+    },
+    {
+        "base": "hydra",
+        "source": "wiki",
+        "url": "https://github.com/OregonDigital/oregondigital/"
+    },
+    {
+        "base": "sufia",
+        "source": "wiki",
+        "url": "https://github.com/uvalib/Libra2"
+    },
+    {
+        "base": "hydra",
+        "source": "wiki",
+        "url": "https://github.com/duke-libraries/dul-hydra"
+    },
+    {
+        "base": "hydra",
+        "source": "wiki",
+        "url": "https://github.com/duke-libraries/ddr-public"
+    },
+    {
+        "base": "hyrax",
+        "source": "wiki",
+        "url": "https://github.com/duke-libraries/rdr"
+    },
+    {
+        "base": "hyrax",
+        "source": "wiki",
+        "url": "https://github.com/curationexperts/laevigata"
+    },
+    {
+        "base": "hydra",
+        "source": "wiki",
+        "url": "https://github.com/Digital-Repository-of-Ireland/dri-app"
+    },
+    {
+        "base": "hyrax",
+        "source": "dependency graph",
+        "url": "https://github.com/curationexperts/tenejo"
+    },
+    {
+        "base": "hyrax",
+        "source": "dependency graph",
+        "url": "https://github.com/emory-libraries/dlp-curate"
+    },
+    {
+        "base": "hyrax",
+        "source": "dependency graph",
+        "url": "https://github.com/uclibs/gdja"
+    },
+    {
+        "base": "hyrax",
+        "source": "dependency graph",
+        "url": "https://github.com/nycrecords/gpp-hyrax"
+    },
+    {
+        "base": "hyrax",
+        "source": "dependency graph",
+        "url": "https://github.com/digital-york/ncelp"
+    },
+    {
+        "base": "hyrax",
+        "source": "dependency graph",
+        "url": "https://github.com/DigitalWPI/digitalwpi"
+    },
+    {
+        "base": "hyrax",
+        "source": "dependency graph",
+        "url": "https://github.com/UB-Bern/solonline"
+    },
+    {
+        "base": "hyrax",
+        "source": "dependency graph",
+        "url": "https://github.com/marriott-library/newspaper_works"
+    },
+    {
+        "base": "hyrax",
+        "source": "dependency graph",
+        "url": "https://github.com/research-technologies/hyrax_leaf"
+    },
+    {
+        "base": "hyrax",
+        "source": "dependency graph",
+        "url": "https://github.com/LafayetteCollegeLibraries/spot"
+    },
+    {
+        "base": "hyrax",
+        "source": "dependency graph",
+        "url": "https://github.com/WGBH-MLA/ams"
+    },
+    {
+        "base": "hyrax",
+        "source": "dependency graph",
+        "url": "https://github.com/uclibs/ucrate"
+    },
+    {
+        "base": "hyrax",
+        "source": "dependency graph",
+        "url": "https://github.com/digital-york/oasis"
+    },
+    {
+        "base": "hyrax",
+        "source": "dependency graph",
+        "url": "https://github.com/UCSCLibrary/ucsc-library-digital-collections"
+    },
+    {
+        "base": "hyrax",
+        "source": "dependency graph",
+        "url": "https://github.com/OregonDigital/OD2"
+    },
+    {
+        "base": "hyrax",
+        "source": "dependency graph",
+        "url": "https://github.com/MPLSFedResearch/cypripedium"
+    },
+    {
+        "base": "hyrax",
+        "source": "dependency graph",
+        "url": "https://github.com/UW-Libraries/druw"
+    },
+    {
+        "base": "hyrax",
+        "source": "dependency graph",
+        "url": "https://github.com/dibbs-vdc/ccql"
+    },
+    {
+        "base": "hyrax",
+        "source": "dependency graph",
+        "url": "https://github.com/psu-libraries/cho"
+    },
+    {
+        "base": "hyrax",
+        "source": "dependency graph",
+        "url": "https://github.com/gwu-libraries/scholarspace-hyrax"
+    }
 ]
