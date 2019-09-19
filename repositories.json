@@ -137,11 +137,11 @@
     {
         "base": "hyrax",
         "source": "dependency graph",
-        "url": "https://github.com/psu-libraries/cho"
+        "url": "https://github.com/gwu-libraries/scholarspace-hyrax"
     },
     {
-        "base": "hyrax",
+        "base": "valkyrie",
         "source": "dependency graph",
-        "url": "https://github.com/gwu-libraries/scholarspace-hyrax"
+        "url": "https://github.com/psu-libraries/cho"
     }
 ]
