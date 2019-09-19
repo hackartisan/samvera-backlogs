@@ -10,6 +10,7 @@ Repositories were included in this analysis if they met the following criteria:
  * Code is not in a samvera github organization, i.e. is not already code that
    the community is manintaining collectively
  * Github repository contains 1 or more issues
+ * Has a commit in the past 6 months
 
 Consequences of these criteria:
 
