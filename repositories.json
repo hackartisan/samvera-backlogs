@@ -158,5 +158,9 @@
         "base": "sufia",
         "source": "dependency graph",
         "url": "https://github.com/psu-stewardship/scholarsphere"
+    {
+        "base": "curation_concerns",
+        "source": "dependency graph",
+        "url": "https://github.com/ucsblibrary/alexandria"
     }
 ]
