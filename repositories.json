@@ -143,5 +143,20 @@
         "base": "valkyrie",
         "source": "dependency graph",
         "url": "https://github.com/psu-libraries/cho"
+    },
+    {
+        "base": "sufia",
+        "source": "dependency graph",
+        "url": "https://github.com/sciencehistory/chf-sufia"
+    },
+    {
+        "base": "sufia",
+        "source": "dependency graph",
+        "url": "https://github.com/galterlibrary/digital-repository"
+    },
+    {
+        "base": "sufia",
+        "source": "dependency graph",
+        "url": "https://github.com/psu-stewardship/scholarsphere"
     }
 ]
