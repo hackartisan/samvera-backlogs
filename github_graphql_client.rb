@@ -1,4 +1,5 @@
 require "graphlient"
+require "json"
 
 token = ENV["GITHUB_TOKEN"] || "you_need_a_token"
 puts token
@@ -11,4 +12,14 @@ client = Graphlient::Client.new(api_url,
   }
 )
 
-puts client.schema
+class RepositoryList
+  def intialize(path:)
+    @path = path
+  end
+
+  def parse
+    JSON.parse(@path)
+  end
+end
+
+repos = RepositoryList.new(path: "repositories.json").parse
