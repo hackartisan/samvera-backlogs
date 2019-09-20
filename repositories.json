@@ -82,11 +82,6 @@
     {
         "base": "hyrax",
         "source": "dependency graph",
-        "url": "https://github.com/marriott-library/newspaper_works"
-    },
-    {
-        "base": "hyrax",
-        "source": "dependency graph",
         "url": "https://github.com/research-technologies/hyrax_leaf"
     },
     {
