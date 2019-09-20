@@ -30,12 +30,12 @@
         "url": "https://github.com/osulp/Scholars-Archive"
     },
     {
-        "base": "hydra",
+        "base": "hydra-head",
         "source": "wiki",
         "url": "https://github.com/OregonDigital/oregondigital/"
     },
     {
-        "base": "hydra",
+        "base": "hydra-head",
         "source": "wiki",
         "url": "https://github.com/duke-libraries/ddr-public"
     },
@@ -153,9 +153,35 @@
         "base": "sufia",
         "source": "dependency graph",
         "url": "https://github.com/psu-stewardship/scholarsphere"
+    },
     {
         "base": "curation_concerns",
         "source": "dependency graph",
         "url": "https://github.com/ucsblibrary/alexandria"
+    },
+    {
+        "base": "hydra-head",
+        "source": "dependency graph",
+        "url": "https://github.com/digital-york/arch1"
+    },
+    {
+        "base": "hydra-head",
+        "source": "dependency graph",
+        "url": "https://github.com/ucsdlib/damspas"
+    },
+    {
+        "base": "hydra-head",
+        "source": "dependency graph",
+        "url": "https://github.com/ndlib/curate_nd"
+    },
+    {
+        "base": "rubydora",
+        "source": "dependency graph",
+        "url": "https://github.com/cul/ldpd-hyacinth"
+    },
+    {
+        "base": "rubydora",
+        "source": "dependency graph",
+        "url": "https://github.com/sul-dlss/hydrus"
     }
 ]
