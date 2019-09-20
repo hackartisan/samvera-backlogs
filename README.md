@@ -44,3 +44,9 @@ success of the endeavor.
 * Choose a first question
   * See what we can do using google's tools
   * Analyze results and iterate
+
+# New potential questions that come up as we progress
+
+* Will it be helpful to bring in issues / PRs from community projects like
+  avalon or hyrax? Though they don't fit our data set criteria, a ticket in some
+  repo we're looking at might have a useful corrollary there.
