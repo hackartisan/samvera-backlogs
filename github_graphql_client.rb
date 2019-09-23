@@ -19,16 +19,20 @@ class GithubGraph
       organization(login: "pulibrary") {
         repository(name: "figgy") {
           issues(first:2) {
-            nodes {
-              comments
-              labels
-              number
-              title
-              bodyText
-              closed
-              milestone
-              createdAt
+            edges {
+              cursor
+              node {
+                comments
+                labels
+                number
+                title
+                bodyText
+                closed
+                milestone
+                createdAt
+              }
             }
+            totalCount
           }
         }
       }
@@ -93,9 +97,13 @@ class RepositoryList
   end
 end
 
+def repos
+  RepositoryList.new(path: "repositories.json").parse
+end
+
 def run
-  repos = RepositoryList.new(path: "repositories.json").parse
   puts repos.first
   github = GithubGraph.new(token: TOKEN)
-  github.download_issues(repository_url: repos.first[:url], dir: DATA_DIR)
+  # github.download_issues(repository_url: repos.first[:url], dir: DATA_DIR)
+  github
 end
