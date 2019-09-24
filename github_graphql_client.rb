@@ -9,51 +9,63 @@ puts TOKEN
 class Downloader
   BATCH_SIZE = 100
 
-  def initialize(client:, repository_url:, dir:)
+  def initialize(client:, repository_url:, base_dir:)
     @client = client
-    @repository_url = repository_url
-    @dir = dir
+    @organization, @repository = parse_repository_url(repository_url)
+    @base_dir = base_dir
   end
 
-  # parse out org and repo name
-  # return an array of json text objects?
   def download_issues
+    download_data(type: "issues")
+  end
+
+  def download_data(type:)
     cursor = nil
     loop do
-      response = download_issue_batch(cursor: cursor)
-      issues = response.data.organization.repository.issues.edges
-      puts "Number of issues: #{issues.count}"
-      issues.each do |issue|
-        puts "  #{issue.cursor}"
-        puts "  #{issue.node.number}"
+      response = download_batch(cursor: cursor, type: type)
+      documents = response.data.organization.repository.send("#{type}".to_sym).edges
+      puts "Number of documents #{documents.count}"
+      documents.each do |doc|
+        puts "  #{doc.cursor}"
+        puts "  #{doc.node.number}"
       end
-      break if issues.count == 0
-      cursor = issues.last.cursor
+      break if documents == 0
+      cursor = documents.last.cursor
     end
   end
 
-    # from then on we will have a cursor, which we need to pull out of the
-    #   response
-    # at some point the cursor will be some terminal value? so test for that?
-    # how do you know you're at the end?
+  # TODO: get from pullRequests to pull_requests, then use download_data
+  # also use it below, there's another place
+  def download_prs
+    cursor = nil
+    loop do
+      response = download_batch(cursor: cursor, type: "pullRequests")
+      prs = response.data.organization.repository.pull_requests.edges
+      puts "Number of prs: #{prs.count}"
+      prs.each do |pr|
+        puts "  #{pr.cursor}"
+        puts "  #{pr.node.number}"
+      end
+      break if prs.count == 0
+      cursor = prs.last.cursor
+    end
+  end
 
-  def download_issue_batch(cursor:)
+  # return a tuple of organization and repository
+  def parse_repository_url(url)
+    url.split("/")[-2, 2]
+  end
+
+  def download_batch(cursor:, type:)
     response = @client.query <<~GRAPHQL
     query {
-      organization(login: "pulibrary") {
-        repository(name: "figgy") {
-          issues(#{pagination_parameters(cursor: cursor)}) {
+      organization(login: #{@organization}) {
+        repository(name: #{@repository}) {
+          #{type}(#{pagination_parameters(cursor: cursor)}) {
             edges {
               cursor
               node {
-                comments
-                labels
-                number
-                title
-                bodyText
-                closed
-                milestone
-                createdAt
+                #{send("#{type}_fields".downcase.to_sym)}
               }
             }
             totalCount
@@ -65,38 +77,39 @@ class Downloader
     response
   end
 
-  def pagination_parameters(cursor:)
-    if cursor
-      'after: "' + cursor + '"'
-    else
-      "first: 100"
-    end
+  def pullrequests_fields
+    <<-FIELDS
+      number
+    FIELDS
+    #comments
+    #labels
+    #title
+    #bodyText
+    #merged
+    #milestone
+    #createdAt
   end
 
-  # parse out org and repo name
-  # return an array of json text objects?
-  def download_prs
-    response = @client.query <<~GRAPHQL
-    query {
-      organization(login: "pulibrary") {
-        repository(name: "figgy") {
-          pullRequests(first:2) {
-            nodes {
-              comments
-              labels
-              number
-              title
-              bodyText
-              merged
-              milestone
-              createdAt
-            }
-          }
-        }
-      }
-    }
-    GRAPHQL
-    response
+  def issues_fields
+    <<-FIELDS
+      number
+    FIELDS
+      #comments
+      #labels
+      #title
+      #bodyText
+      #closed
+      #milestone
+      #createdAt
+  end
+
+  def pagination_parameters(cursor:)
+    base = "first: 100"
+    if cursor
+      "#{base} after: \"#{cursor}\""
+    else
+      base
+    end
   end
 
 end
@@ -139,7 +152,7 @@ end
 
 def downloader
   github = GithubClient.new(token: TOKEN).client
-  Downloader.new(client: github, repository_url: repos.first[:url], dir: DATA_DIR)
+  Downloader.new(client: github, repository_url: repos.first[:url], base_dir: DATA_DIR)
 end
 
 # do something like this with it:
