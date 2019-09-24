@@ -19,15 +19,16 @@ class Downloader
   # return an array of json text objects?
   def download_issues
     cursor = nil
-    while cursor
+    loop do
       response = download_issue_batch(cursor: cursor)
-      issues = response.organization.repository.issues
+      issues = response.data.organization.repository.issues.edges
       puts "Number of issues: #{issues.count}"
       issues.each do |issue|
-        puts "  #{issue.edges.node.number}"
+        puts "  #{issue.cursor}"
+        puts "  #{issue.node.number}"
       end
-      empty_response = response.organization.repository.issues.count == 0
-      cursor = empty_response ? nil : response.organization.repository.issues.edges.last.cursor
+      break if issues.count == 0
+      cursor = issues.last.cursor
     end
   end
 
@@ -41,7 +42,7 @@ class Downloader
     query {
       organization(login: "pulibrary") {
         repository(name: "figgy") {
-          issues(#{query_parameters(cursor)}) {
+          issues(#{pagination_parameters(cursor: cursor)}) {
             edges {
               cursor
               node {
@@ -62,6 +63,14 @@ class Downloader
     }
     GRAPHQL
     response
+  end
+
+  def pagination_parameters(cursor:)
+    if cursor
+      'after: "' + cursor + '"'
+    else
+      "first: 100"
+    end
   end
 
   # parse out org and repo name
