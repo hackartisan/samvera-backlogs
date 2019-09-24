@@ -7,6 +7,8 @@ TOKEN = ENV["GITHUB_TOKEN"] || "you_need_a_token"
 puts TOKEN
 
 class Downloader
+  BATCH_SIZE = 100
+
   def initialize(client:, repository_url:, dir:)
     @client = client
     @repository_url = repository_url
@@ -16,13 +18,17 @@ class Downloader
   # parse out org and repo name
   # return an array of json text objects?
   def download_issues
-    # the first time we won't have a cursor
-    #cursor = nil
-    #while cursor
-    #  then run the thing
-    #  cursor = response_is_empty? ? nil : last_items_cursor
-    #end
-    download_issue_batch
+    cursor = nil
+    while cursor
+      response = download_issue_batch(cursor: cursor)
+      issues = response.organization.repository.issues
+      puts "Number of issues: #{issues.count}"
+      issues.each do |issue|
+        puts "  #{issue.edges.node.number}"
+      end
+      empty_response = response.organization.repository.issues.count == 0
+      cursor = empty_response ? nil : response.organization.repository.issues.edges.last.cursor
+    end
   end
 
     # from then on we will have a cursor, which we need to pull out of the
@@ -30,12 +36,12 @@ class Downloader
     # at some point the cursor will be some terminal value? so test for that?
     # how do you know you're at the end?
 
-  def download_issue_batch
+  def download_issue_batch(cursor:)
     response = @client.query <<~GRAPHQL
     query {
       organization(login: "pulibrary") {
         repository(name: "figgy") {
-          issues(first:2) {
+          issues(#{query_parameters(cursor)}) {
             edges {
               cursor
               node {
