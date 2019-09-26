@@ -19,35 +19,23 @@ class Downloader
     download_data(type: "issues")
   end
 
+  def download_prs
+    download_data(type: "pullRequests")
+  end
+
   def download_data(type:)
     cursor = nil
     loop do
       response = download_batch(cursor: cursor, type: type)
-      documents = response.data.organization.repository.send("#{type}".to_sym).edges
+      sc_type = type.gsub(/(?<!^)[A-Z]/) { "_#$&" }.downcase
+      documents = response.data.organization.repository.send("#{sc_type}".to_sym).edges
       puts "Number of documents #{documents.count}"
       documents.each do |doc|
         puts "  #{doc.cursor}"
         puts "  #{doc.node.number}"
       end
-      break if documents == 0
+      break if documents.count == 0
       cursor = documents.last.cursor
-    end
-  end
-
-  # TODO: get from pullRequests to pull_requests, then use download_data
-  # also use it below, there's another place
-  def download_prs
-    cursor = nil
-    loop do
-      response = download_batch(cursor: cursor, type: "pullRequests")
-      prs = response.data.organization.repository.pull_requests.edges
-      puts "Number of prs: #{prs.count}"
-      prs.each do |pr|
-        puts "  #{pr.cursor}"
-        puts "  #{pr.node.number}"
-      end
-      break if prs.count == 0
-      cursor = prs.last.cursor
     end
   end
 
