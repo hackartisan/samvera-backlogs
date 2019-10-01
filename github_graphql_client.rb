@@ -15,6 +15,30 @@ class Downloader
     @base_dir = base_dir
   end
 
+  # TODO: delete once everything's working; this is just for testing
+  def download_issue
+    response = @client.query <<~GRAPHQL
+    query {
+      organization(login: #{@organization}) {
+        repository(name: #{@repository}) {
+          issues(first: 1) {
+            edges {
+              cursor
+              node {
+                #{issues_fields}
+              }
+            }
+            totalCount
+          }
+        }
+      }
+    }
+    GRAPHQL
+    response
+    document = response.data.organization.repository.issues.edges.first.node
+    save_document(type: "issue", doc: document)
+  end
+
   def download_issues
     download_data(type: "issues")
   end
@@ -33,10 +57,22 @@ class Downloader
       documents.each do |doc|
         puts "  #{doc.cursor}"
         puts "  #{doc.node.number}"
+        save_document(type: sc_type, doc: doc.node)
       end
       break if documents.count == 0
       cursor = documents.last.cursor
     end
+  end
+
+  # sample desired directory structure:
+  # base_dir/open_issues/raw/issue_1405
+  # base_dir/recent_issues/raw/issue_3374
+  # base_dir/merged_prs/raw/pr_2
+  def save_document(type:, doc:)
+    # TODO: we need to determine directory path based on the type of document
+    # and other attributes.
+    filename = File.join(@base_dir, "raw", "#{type}_#{doc.number}")
+    puts filename
   end
 
   # return a tuple of organization and repository
@@ -65,30 +101,51 @@ class Downloader
     response
   end
 
+  # TODO: only get merged PRs
   def pullrequests_fields
     <<-FIELDS
+      title
+      bodyText
+      comments (first: 100) {
+        nodes {
+          body
+        }
+      }
       number
     FIELDS
-    #comments
-    #labels
-    #title
-    #bodyText
+      #labels (first: 100) {
+      #  nodes {
+      #    name
+      #  }
+      #}
     #merged
     #milestone
     #createdAt
   end
 
+  # setting pagination on comments and labels to max allowed;
+  # don't expect we'll ever see that many.
   def issues_fields
     <<-FIELDS
+      title
+      bodyText
+      comments (first: 100) {
+        nodes {
+          body
+        }
+      }
       number
+      closed
+      createdAt
     FIELDS
-      #comments
-      #labels
-      #title
-      #bodyText
-      #closed
+      # I worry that using milestone will end up clustering issues from the same repo
+      # together
       #milestone
-      #createdAt
+      #labels (first: 100) {
+      #  nodes {
+      #    name
+      #  }
+      #}
   end
 
   def pagination_parameters(cursor:)

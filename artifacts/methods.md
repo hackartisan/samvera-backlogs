@@ -42,16 +42,16 @@ cases?
   * Analyze all open issues
 * What solutions already exist that might advance open issues? Can I link open issues in one backlog to merged PRs in another repository?
   * Analyze open issues together with merged PRs
-* What have people been working on recently? Can we characterize the full set of issues that have been closed over the past
-    * Analyze closed issues -- use just the titles
-year?
+* What have people been working on recently? Can we characterize the full set of issues that have been closed over the past year?
+    * Analyze closed issues from the past year -- use just the titles, maybe
+      bodyText
 
 
 ## Filename conventions
 
 Since we'll have several different data sets for the various experiments we want
 to run, we'll create different directories for different batches of downloads.
-for example, `pull_requests`, `open_issues`, `closed_issues`, `recent_issues`,
+for example, `merged_prs`, `open_issues`, `recent_issues`,
 `issue_titles`. We'll try naming the files themselves after the repository and
 issue/pr number, e.g. `figgy_issue_2.txt`.
 
