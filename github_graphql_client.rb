@@ -36,15 +36,19 @@ class Downloader
     GRAPHQL
     response
     document = response.data.organization.repository.issues.edges.first.node
-    save_document(type: "issue", doc: document)
+    save_issue(doc: document, project: "#{@organization}_#{@repository}")
   end
 
   def download_issues
-    download_data(type: "issues")
+    download_data(type: "issues") do |doc|
+      save_issue(doc: doc, project: "#{organization}_#{repository}")
+    end
   end
 
   def download_prs
-    download_data(type: "pullRequests")
+    download_data(type: "pullRequests") do |doc|
+      save_pr(doc)
+    end
   end
 
   def download_data(type:)
@@ -55,9 +59,7 @@ class Downloader
       documents = response.data.organization.repository.send("#{sc_type}".to_sym).edges
       puts "Number of documents #{documents.count}"
       documents.each do |doc|
-        puts "  #{doc.cursor}"
-        puts "  #{doc.node.number}"
-        save_document(type: sc_type, doc: doc.node)
+        yield(doc)
       end
       break if documents.count == 0
       cursor = documents.last.cursor
@@ -68,11 +70,21 @@ class Downloader
   # base_dir/open_issues/raw/issue_1405
   # base_dir/recent_issues/raw/issue_3374
   # base_dir/merged_prs/raw/pr_2
-  def save_document(type:, doc:)
-    # TODO: we need to determine directory path based on the type of document
-    # and other attributes.
-    filename = File.join(@base_dir, "raw", "#{type}_#{doc.number}")
-    puts filename
+  def save_issue(doc:, project:)
+    open_path = File.join(@base_dir, "open_issues", "raw", "#{project}_issue_#{doc.number}")
+    recent_path = File.join(@base_dir, "recent_issues", "raw", "#{project}_issue_#{doc.number}")
+
+    binding.pry
+      #title
+      #bodyText
+      #comments (first: 100) {
+      #  nodes {
+      #    body
+      #  }
+      #}
+      #number
+      #closed
+      #createdAt
   end
 
   # return a tuple of organization and repository
@@ -101,28 +113,6 @@ class Downloader
     response
   end
 
-  # TODO: only get merged PRs
-  def pullrequests_fields
-    <<-FIELDS
-      title
-      bodyText
-      comments (first: 100) {
-        nodes {
-          body
-        }
-      }
-      number
-    FIELDS
-      #labels (first: 100) {
-      #  nodes {
-      #    name
-      #  }
-      #}
-    #merged
-    #milestone
-    #createdAt
-  end
-
   # setting pagination on comments and labels to max allowed;
   # don't expect we'll ever see that many.
   def issues_fields
@@ -138,14 +128,16 @@ class Downloader
       closed
       createdAt
     FIELDS
-      # I worry that using milestone will end up clustering issues from the same repo
-      # together
-      #milestone
-      #labels (first: 100) {
-      #  nodes {
-      #    name
-      #  }
-      #}
+  end
+
+  def pullrequests_fields
+    <<-FIELDS
+      title
+      bodyText
+      number
+      merged
+    FIELDS
+    #createdAt
   end
 
   def pagination_parameters(cursor:)
