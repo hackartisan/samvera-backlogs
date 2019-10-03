@@ -1,3 +1,9 @@
+# Run it like $ GITHUB_TOKEN=my_token pry -r './github_graphql_client.rb'
+# do something like this with it:
+# > download_all
+# or
+# > downloader.download_prs
+
 require "graphlient"
 require "json"
 require "date"
@@ -13,42 +19,23 @@ class Downloader
   def initialize(client:, repository_url:, base_dir:)
     @client = client
     @organization, @repository = parse_repository_url(repository_url)
-    @base_dir = base_dir
-  end
-
-  # TODO: delete once everything's working; this is just for testing
-  def download_issue
-    response = @client.query <<~GRAPHQL
-    query {
-      organization(login: #{@organization}) {
-        repository(name: #{@repository}) {
-          issues(first: 1) {
-            edges {
-              cursor
-              node {
-                #{issues_fields}
-              }
-            }
-            totalCount
-          }
-        }
-      }
-    }
-    GRAPHQL
-    response
-    document = response.data.organization.repository.issues.edges.first.node
-    save_issue(doc: document, project: "#{@organization}_#{@repository}")
+    @open_path = File.join(base_dir, "open_issues", "raw")
+    @recent_path = File.join(base_dir, "recent_issues", "raw")
+    @merged_path = File.join(base_dir, "merged_prs", "raw")
+    [@open_path, @recent_path, @merged_path].each do |path|
+      FileUtils.mkdir_p(path)
+    end
   end
 
   def download_issues
     download_data(type: "issues") do |doc|
-      save_issue(doc: document, project: "#{@organization}_#{@repository}")
+      save_issue(doc: doc, project: "#{@organization}_#{@repository}")
     end
   end
 
   def download_prs
     download_data(type: "pullRequests") do |doc|
-      save_pr(doc)
+      save_pr(doc: doc, project: "#{@organization}_#{@repository}")
     end
   end
 
@@ -58,9 +45,9 @@ class Downloader
       response = download_batch(cursor: cursor, type: type)
       sc_type = type.gsub(/(?<!^)[A-Z]/) { "_#$&" }.downcase
       documents = response.data.organization.repository.send("#{sc_type}".to_sym).edges
-      puts "Number of documents #{documents.count}"
+      puts "Downloading #{sc_type} #{documents.first.node.number} through #{documents.last.node.number}"
       documents.each do |doc|
-        yield(doc)
+        yield(doc.node)
       end
       break if documents.count == 0
       cursor = documents.last.cursor
@@ -75,37 +62,33 @@ class Downloader
     doc.body_text.gsub("\n", " ")
   end
 
-  # sample desired directory structure:
-  # base_dir/open_issues/raw/issue_1405
-  # base_dir/recent_issues/raw/issue_3374
   # base_dir/merged_prs/raw/pr_2
+  def save_pr(doc:, project:)
+    text = [doc.title, body_text(doc)].flatten
+
+    if doc.merged
+      path = File.join(@merged_path, "#{project}_pr_#{doc.number}.txt")
+      File.open(path, "w") { |f| f.write(text.join("\n")) }
+    end
+  end
+
   def save_issue(doc:, project:)
     last_year = Date.today.prev_year
     created_date = Date.parse(doc.created_at)
 
-    if doc.closed
-      open_path = File.join(@base_dir, "open_issues", "raw", "#{project}_issue_#{doc.number}")
-      text = [doc.title, body_text(doc), comment_bodies(doc)].flatten
-      File.open(open_path, "w") do |f|
-        f.write(text.join("\n"))
-      end
+    text = [doc.title, body_text(doc), comment_bodies(doc)].flatten
+
+    # for open issues, title, description, and comments
+    if !doc.closed
+      path = File.join(@open_path, "#{project}_issue_#{doc.number}.txt")
+      File.open(path, "w") { |f| f.write(text.join("\n")) }
     end
 
+    # for recent issues, just title and description
     if created_date > last_year
-      recent_path = File.join(@base_dir, "recent_issues", "raw", "#{project}_issue_#{doc.number}")
+      path = File.join(@recent_path, "#{project}_issue_#{doc.number}.txt")
+      File.open(path, "w") { |f| f.write(text[0, 2].join("\n")) }
     end
-
-    binding.pry
-      #title
-      #bodyText
-      #comments (first: 100) {
-      #  nodes {
-      #    body
-      #  }
-      #}
-      #number
-      #closed
-      #createdAt
   end
 
   # return a tuple of organization and repository
@@ -210,8 +193,14 @@ end
 
 def downloader
   github = GithubClient.new(token: TOKEN).client
-  Downloader.new(client: github, repository_url: repos.first[:url], base_dir: DATA_DIR)
+  downloader = Downloader.new(client: github, repository_url: repos.first[:url], base_dir: DATA_DIR)
 end
 
-# do something like this with it:
-#downloader.download_issues
+def download_all
+  github = GithubClient.new(token: TOKEN).client
+  repos.each do |repo|
+    d = Downloader.new(client: github, repository_url: repo[:url], base_dir: DATA_DIR)
+    d.download_issues
+    d.download_prs
+  end
+end
