@@ -45,11 +45,11 @@ class Downloader
       response = download_batch(cursor: cursor, type: type)
       sc_type = type.gsub(/(?<!^)[A-Z]/) { "_#$&" }.downcase
       documents = response.data.organization.repository.send("#{sc_type}".to_sym).edges
-      puts "Downloading #{sc_type} #{documents.first.node.number} through #{documents.last.node.number}"
+      break if documents.count == 0
+      puts "  Downloading #{sc_type} #{documents.first.node.number} through #{documents.last.node.number}"
       documents.each do |doc|
         yield(doc.node)
       end
-      break if documents.count == 0
       cursor = documents.last.cursor
     end
   end
@@ -199,6 +199,7 @@ end
 def download_all
   github = GithubClient.new(token: TOKEN).client
   repos.each do |repo|
+    puts repo[:url]
     d = Downloader.new(client: github, repository_url: repo[:url], base_dir: DATA_DIR)
     d.download_issues
     d.download_prs
