@@ -99,7 +99,7 @@ class Downloader
   def download_batch(cursor:, type:)
     response = @client.query <<~GRAPHQL
     query {
-      organization(login: #{@organization}) {
+      organization(login: \"#{@organization}\") {
         repository(name: \"#{@repository}\") {
           #{type}(#{pagination_parameters(cursor: cursor)}) {
             edges {
