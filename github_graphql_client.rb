@@ -1,5 +1,6 @@
 require "graphlient"
 require "json"
+require "date"
 
 DATA_DIR = "data"
 API_URL = "https://api.github.com/graphql"
@@ -41,7 +42,7 @@ class Downloader
 
   def download_issues
     download_data(type: "issues") do |doc|
-      save_issue(doc: doc, project: "#{organization}_#{repository}")
+      save_issue(doc: document, project: "#{@organization}_#{@repository}")
     end
   end
 
@@ -66,13 +67,33 @@ class Downloader
     end
   end
 
+  def comment_bodies(doc)
+    doc.comments.nodes.map { |n| n.body.gsub("\n", " ") }
+  end
+
+  def body_text(doc)
+    doc.body_text.gsub("\n", " ")
+  end
+
   # sample desired directory structure:
   # base_dir/open_issues/raw/issue_1405
   # base_dir/recent_issues/raw/issue_3374
   # base_dir/merged_prs/raw/pr_2
   def save_issue(doc:, project:)
-    open_path = File.join(@base_dir, "open_issues", "raw", "#{project}_issue_#{doc.number}")
-    recent_path = File.join(@base_dir, "recent_issues", "raw", "#{project}_issue_#{doc.number}")
+    last_year = Date.today.prev_year
+    created_date = Date.parse(doc.created_at)
+
+    if doc.closed
+      open_path = File.join(@base_dir, "open_issues", "raw", "#{project}_issue_#{doc.number}")
+      text = [doc.title, body_text(doc), comment_bodies(doc)].flatten
+      File.open(open_path, "w") do |f|
+        f.write(text.join("\n"))
+      end
+    end
+
+    if created_date > last_year
+      recent_path = File.join(@base_dir, "recent_issues", "raw", "#{project}_issue_#{doc.number}")
+    end
 
     binding.pry
       #title
