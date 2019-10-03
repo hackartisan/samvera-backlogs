@@ -100,7 +100,7 @@ class Downloader
     response = @client.query <<~GRAPHQL
     query {
       organization(login: #{@organization}) {
-        repository(name: #{@repository}) {
+        repository(name: \"#{@repository}\") {
           #{type}(#{pagination_parameters(cursor: cursor)}) {
             edges {
               cursor
