@@ -1,0 +1,2 @@
+Enable faceting for fields
+Similar to #361 this reworks the catalog controller to grab fields from the metadata definition and add them as facets. Includes #401, so I'll keep it draft until that's in Fixes #271 and part of #28

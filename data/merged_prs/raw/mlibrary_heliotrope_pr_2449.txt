@@ -1,0 +1,2 @@
+HELIO-2874 FileSetPresenter.parent is now more generic to allow
+for different kinds of Work types

@@ -1,0 +1,3 @@
+Collection Edit and create are missing help for title and description.
+The help icons for the collection page are missing on title and description.  The File edit screen has help for each item. This is an existing problem in production and may have been existing in all iterations
+File edit page with help for title: ![screen shot 2016-02-24 at 7 07 56 am](https://cloud.githubusercontent.com/assets/1599081/13284902/5e3b62f4-dac5-11e5-90dd-3c5aec0e54d4.png) 

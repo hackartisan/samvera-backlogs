@@ -1,0 +1,2 @@
+Change GeoNames username
+I created this account yesterday and put the login details in the in house wiki. Connected to #89

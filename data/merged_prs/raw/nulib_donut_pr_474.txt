@@ -1,0 +1,2 @@
+Only index collections of type NUL Collection in Elasticsearch Image documents
+Only indexes collection information on the Image document in Elasticsearch if the collection is of the type that matches the Settings.nul_collection_type

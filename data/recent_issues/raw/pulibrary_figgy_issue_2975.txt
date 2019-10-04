@@ -1,0 +1,2 @@
+Prevent user from adding a nil value in the pulfa ark report input box
+(https://app.honeybadger.io/projects/53391/faults/49060672)

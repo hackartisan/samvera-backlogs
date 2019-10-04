@@ -1,0 +1,2 @@
+Ensures that `<form>` markup is generated properly when creating new resources with duplicated metadata
+Resolves #1457 by ensuring that <form> markup is generated properly when creating new resources with duplicated metadata (ensures that Resource#persisted? checks if the "id" attribute is nil)

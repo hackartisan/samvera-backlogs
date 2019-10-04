@@ -1,0 +1,2 @@
+alerts sent to uploads when their summary is downloaded
+please give us an estimate of how long this will take a voluntary thing - they uploader chooses to receive alerts - like in IRIS

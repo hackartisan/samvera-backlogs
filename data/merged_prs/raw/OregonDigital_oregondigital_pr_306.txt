@@ -1,0 +1,2 @@
+Feature/fix links in sets footer
+For #305

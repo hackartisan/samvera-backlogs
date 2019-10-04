@@ -1,0 +1,2 @@
+Show ETD committee members on work show page
+Fixes #590 This fixes a bug that neglected to display the Committee Member field on work show pages (ETDs only).

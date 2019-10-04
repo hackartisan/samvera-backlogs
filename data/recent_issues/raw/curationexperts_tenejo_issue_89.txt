@@ -1,0 +1,2 @@
+Location lookup doesn't work
+ISSUE When I enter text in the location field for a new object, I get the message "No Matches Found" regardless of what text I enter - even something like "Los Angeles" says no matches. ACCEPTANCE   I can search for and enter a specific location and save it with my object.

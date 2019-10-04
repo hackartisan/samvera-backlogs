@@ -1,0 +1,2 @@
+Add Classics and Religion to  subfields JSON
+This commit associates Classics and Religion with the religion programs. Connected to #1696

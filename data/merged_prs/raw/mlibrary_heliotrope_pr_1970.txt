@@ -1,0 +1,2 @@
+HELIO-1882 Restrict chapter downloads to DIV TYPE="chapter"
+This is on staging

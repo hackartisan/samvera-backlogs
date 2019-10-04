@@ -1,0 +1,1 @@
+Update openseadragon gem to v0.3.0

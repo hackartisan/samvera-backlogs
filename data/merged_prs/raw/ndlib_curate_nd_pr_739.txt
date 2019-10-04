@@ -1,0 +1,2 @@
+Removing "My Collections" button
+Per DLTP-1537:  the 'Manage > My Collection' button is creating confusion amongst users that they can create their own collections. Per Don Brower, the user collection functionality was removed two years ago, and so this button should be removed.

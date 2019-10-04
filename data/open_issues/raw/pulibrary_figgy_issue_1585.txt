@@ -1,0 +1,3 @@
+Ingest "William Blake" (pudl0035)
+These materials don't seem to be in PUDL. Do we want to just manually ingest off the Isilon? Ping @jpstroop @joycebcat
+A lot of these are ingested already. Maybe all of them? Looks like @roelmoon did it.

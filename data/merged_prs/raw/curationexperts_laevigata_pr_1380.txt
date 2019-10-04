@@ -1,0 +1,2 @@
+displaying saved research fields
+This commit ensures that saved research fields are displayed (with their order preserved).

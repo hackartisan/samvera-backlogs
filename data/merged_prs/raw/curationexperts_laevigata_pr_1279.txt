@@ -1,0 +1,2 @@
+Add copyright questions to the form
+This adds the new copyright questions attributes to the form. Previously they were question_one,etc, but recently they changed to have more meaningful names.

@@ -1,0 +1,1 @@
+AMS2-341 inherit title from parent object

@@ -1,0 +1,3 @@
+Additional DOI options
+Moved from uclibs/scholar_uc_legacy#1081 and uclibs/scholar_uc_legacy#1308 Descriptive summary Explore minting/updating DOIs for  Collections Batch created works Batch edited works
+high priority for collections

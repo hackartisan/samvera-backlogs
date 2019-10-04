@@ -1,0 +1,2 @@
+thumbnail and title link to the same place on Search index and collection show
+refs #310 The wave tool bar alerts for the two identical links, the thumbnail and the title.

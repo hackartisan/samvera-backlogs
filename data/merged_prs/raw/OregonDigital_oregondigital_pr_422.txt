@@ -1,0 +1,2 @@
+Removes Bookmark Tools
+Closes #378

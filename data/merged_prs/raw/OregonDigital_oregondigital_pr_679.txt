@@ -1,0 +1,2 @@
+Changed label for OD Repository in facets and ingest form.
+Fixes #678

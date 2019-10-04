@@ -1,0 +1,2 @@
+Fix CSRF Disabling
+There were effectively two instances of CSRF protection, and only one was being skipped.

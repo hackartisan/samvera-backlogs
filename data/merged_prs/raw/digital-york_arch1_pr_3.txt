@@ -1,0 +1,2 @@
+Rake task for adding ALL registers and folios from pilot
+Includes changes to rake task, addition of json files for processing and minor changes to folio and register models. In order to run this a directory of xml files is needed. Not included here as LARGE.

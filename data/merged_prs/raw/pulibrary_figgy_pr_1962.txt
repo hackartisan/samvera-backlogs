@@ -1,0 +1,2 @@
+Add whitespace:pre-wrap CSS property to description list element
+Closes #1940

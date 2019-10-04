@@ -1,0 +1,2 @@
+Set AdminSet ids on create to allow better mapping during migration
+Descriptive summary Having custom IDs when creating AdminSets with task oregon_digital:create_admin_sets can help improve the mapping in the migrator when doing the crosswalk admin sets: https://github.com/OregonDigital/hyrax-migrator/blob/master/spec/fixtures/crosswalk_admin_sets.yml Expected behavior It should be able to create the AdminSet objects with the properties provided: id, title, and description. Related work

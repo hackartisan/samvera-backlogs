@@ -1,0 +1,2 @@
+increase max filesize
+Fixes #30

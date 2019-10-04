@@ -1,0 +1,2 @@
+Resolves #1465, and adds a webgl tab to monograph catalog page
+This is part of #1394

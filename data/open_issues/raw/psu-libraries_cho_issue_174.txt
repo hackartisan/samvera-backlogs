@@ -1,0 +1,4 @@
+Object Report
+As a repository manager, I would like to know the number of objects, by content type, by date(s), by collection (including those without a collection), by version status, and by workflow step status (mediation), So that I may include the information in other reports about CHO.
+Hyrax Analyticx Working Group will produce recommendations for item-level stats https://wiki.duraspace.org/pages/viewpage.action?pageId=87461330
+We also need a way to count the number of "preservation master" files within an object. Annual reporting often asks for things in terms of page-count or scan-count.

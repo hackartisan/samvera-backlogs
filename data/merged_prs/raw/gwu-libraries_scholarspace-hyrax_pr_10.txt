@@ -1,0 +1,1 @@
+Updates hyrax to 1.0.2 - Fixes #8

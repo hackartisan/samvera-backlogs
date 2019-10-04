@@ -1,0 +1,2 @@
+allow depositor to see work even if visibility is restricted
+Descriptive summary Depositors in SA@OSU should be able to see their own deposited work, even if the visibility of the work is set to Private or OSU. Expected behavior When the Depositor is authenticated, they should be able to see the work showpage for any of their deposited works, regardless of visibility. Actual behavior Depositor is refused access to their work if visibility is set to private.

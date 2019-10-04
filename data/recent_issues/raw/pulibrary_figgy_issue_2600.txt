@@ -1,0 +1,2 @@
+Free Up Space on Isilon Storage
+Blocked by #2556   Identify and stage content on Isilon that can be archived to cloud storage (PUDL, Archives, and Studio files that have already been ingested)  Transfer files to cloud storage (possibly using Snowball/Google Transfer Appliance)  Verify that content is available  Remove content from the Isilon

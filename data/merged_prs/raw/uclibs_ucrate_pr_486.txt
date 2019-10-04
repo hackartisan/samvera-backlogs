@@ -1,0 +1,2 @@
+Fixes description field doesn't persist on generic work
+Fixes #453

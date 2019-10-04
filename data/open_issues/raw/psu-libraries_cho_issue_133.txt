@@ -1,0 +1,4 @@
+Persistent URLs for Collections
+As a researcher, I would like to have a persistent URL for a digital collection, So that I have a working link, even if the resolving path changes. Related: #23, #132
+ARKs!
+Build off of work on in #22. May need a different predicate or difference options passed to the same service.

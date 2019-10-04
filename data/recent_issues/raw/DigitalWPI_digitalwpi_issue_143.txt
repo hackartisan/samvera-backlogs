@@ -1,0 +1,2 @@
+get info from TC
+ask iam for the folloring stuff app id - for their identity server idp

@@ -1,0 +1,2 @@
+Issue 71 add info to details page
+resolves #71 #72

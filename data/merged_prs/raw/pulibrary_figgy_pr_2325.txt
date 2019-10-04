@@ -1,0 +1,2 @@
+Use only the unit title for all finding aid resources
+resolves #2298

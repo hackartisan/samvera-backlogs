@@ -1,0 +1,2 @@
+display metadata value's language
+we're already storing this info in multiple fields. how should we display it? leftover from #155

@@ -1,0 +1,2 @@
+Fix grabbing UO SAML config from env
+Fixes some mistakes in PR #295

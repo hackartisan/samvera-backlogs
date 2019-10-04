@@ -1,0 +1,2 @@
+dor-services-app container needs passwords
+e.g. port this to hydrus: https://github.com/sul-dlss/argo/pull/1361/files

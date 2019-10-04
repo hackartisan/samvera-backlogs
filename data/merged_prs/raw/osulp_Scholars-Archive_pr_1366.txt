@@ -1,0 +1,2 @@
+Add Ruby and SPARQL files for HCT AdminSet and model change.
+Fixes #1092

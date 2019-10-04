@@ -1,0 +1,2 @@
+Batch Edit for Rights
+All other fields in batch edit are multi-value, so the form is expecting rights to be multi-value. Copies most of the single value code from the generic work form, per customization instructions, to be used exclusively for rights in batch edit form. Adds test for batch editing the rights. Fixes #1044

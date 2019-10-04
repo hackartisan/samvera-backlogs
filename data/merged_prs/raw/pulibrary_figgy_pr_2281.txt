@@ -1,0 +1,2 @@
+Fix cache default in music import service initializer
+also remove related unused line in spec

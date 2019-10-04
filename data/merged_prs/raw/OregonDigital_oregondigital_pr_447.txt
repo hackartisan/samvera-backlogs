@@ -1,0 +1,2 @@
+adding better handling for bnodes in QaRdf search
+Closes #445.

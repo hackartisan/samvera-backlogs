@@ -1,0 +1,2 @@
+Trigger read-only mode from the command line
+rake californica:read_only:on will put the system into read-only mode rake californica:read_only:off will return it to normal operations This will let us trigger read only mode from a cron job to automate nightly backups.

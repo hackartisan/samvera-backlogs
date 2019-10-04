@@ -1,0 +1,1 @@
+Add data-tables to display coins in a numismatic_issue

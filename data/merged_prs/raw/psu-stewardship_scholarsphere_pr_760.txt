@@ -1,0 +1,2 @@
+Default visibility to public, ref #729
+Defaults visibility to public at the form level. Also includes refactoring feature tests to accommodate the change.

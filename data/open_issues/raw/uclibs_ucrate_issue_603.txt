@@ -1,0 +1,5 @@
+Get Dropbox working properly with Browse Everything
+Descriptive summary Make the needed changes to get Dropbox working for cloud uploads.
+Browse Everything's master branch works with successfully for Dropbox, Google Drive, and S3. Although the current version of Hyrax is not prepared to support the changes needed to the ImportURL job. They are working on getting this PR (https://github.com/samvera/hyrax/pull/3652/checks) to pass Circle CI and merge into the samvera:2.x-stable branch.
+https://github.com/samvera/browse-everything/projects/1#card-21519733
+Tested this branch : https://github.com/samvera/hyrax/pull/3652 SUCCESSFULLY for DropBox. We will need to get to Hyrax 2.5.2 (BE 1.0.1) for this feature to work.

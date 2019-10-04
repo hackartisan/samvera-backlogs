@@ -1,0 +1,2 @@
+fixup for heliotrope press presenter test
+This relates to how a specific test works for #786

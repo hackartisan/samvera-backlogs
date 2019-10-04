@@ -1,0 +1,2 @@
+Resolves #540: More/less for book description not working on monograph…
+catalog page.  Added gem 'jquery-turbolinks'.

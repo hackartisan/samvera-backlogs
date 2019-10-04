@@ -1,0 +1,2 @@
+Update to Hyrax 2.4.1
+Descriptive summary Update the application to use Hyrax 2.4.1.  Also update our copies of the Hyrax feature specs in spec/features/hyrax/

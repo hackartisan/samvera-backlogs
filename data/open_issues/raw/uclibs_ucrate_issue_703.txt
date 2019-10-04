@@ -1,0 +1,2 @@
+Replace an existing file with a new file from the cloud
+(moved from uclibs/scholar_uc_legacy#412) Descriptive summary As a content editor, when I edit an existing file, I want to be able to replace it with a new file from the cloud, or replace it with one from my local workstation. Currently the user is only given the option, when editing a file, to replace it with one from their workstation.

@@ -1,0 +1,2 @@
+Resolves HELIO-2168: Checkpoint DB Controller and Views
+Standard rails with a sequel twist.

@@ -1,0 +1,2 @@
+Renaming WorkObject to Work
+After our meeting last week, work objects are now called works. This relates to #348 because I think having Work as a module namespace makes sense for classes such as Work::Deposit and Work::Type

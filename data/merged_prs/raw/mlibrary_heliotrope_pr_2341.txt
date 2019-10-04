@@ -1,0 +1,2 @@
+Not sure why this is any different, but it works.
+Fixes:  sudo -u heliotrope-preview RAILS_ENV=production bundle exec rails console

@@ -1,0 +1,2 @@
+Resolves HELIO-2909: Style FileSet Tombstone message
+Italic 1.5em

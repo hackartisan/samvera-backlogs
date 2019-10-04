@@ -1,0 +1,3 @@
+Search: is it possible to include pdf and free text metadata in searching terms
+Expanding search functionality. Is it possible to search the pdf for key terms? Is it possible to search free text response metadata? (e.g. information uploader enters for "type of instruction" (uploader provides data in free text box)
+In the current version, **I think** the full text in PDF is searchable.

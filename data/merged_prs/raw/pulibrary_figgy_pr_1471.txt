@@ -1,0 +1,2 @@
+Encode periods when sending to the save and ingest handler
+fixes #1451

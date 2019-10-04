@@ -1,0 +1,2 @@
+Import shapefiles from old geoportal
+Adds job to import shapefiles from old geoportal Forces directory removal during characterization to reduce error messages Display vectors and rasters should be projected in Web Mercator rather than WGS 84 for efficient processing in GeoServer.  Closes #996

@@ -1,0 +1,2 @@
+change date facet submit button styling
+Closes #467

@@ -1,0 +1,2 @@
+Feature/qa playing favorites
+This makes qa for generic RDF prefer certain label fields over other content when searching.  Some searches were hitting a lot of stuff from, e.g. dbpedia abstracts, and confusing the results.

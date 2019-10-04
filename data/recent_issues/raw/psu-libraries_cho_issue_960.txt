@@ -1,0 +1,2 @@
+Ensure Consistent Look-and-Feel to UI
+As of today we have a mix of styles for similar UI elements. Links vs buttons, styling of buttons, hovering, colors, etc. Before MVP launch we should take an inventory of all the remaining inconsistencies (some will be worked out through implementing existing tickets), ticket and plan the work.

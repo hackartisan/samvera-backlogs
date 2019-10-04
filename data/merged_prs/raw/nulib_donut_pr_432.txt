@@ -1,0 +1,2 @@
+Fixed deprecation warning: discard_flash_if_xhr
+Removes discard_flash_if_xhr Blacklight deprecation warning prior to upgrading to blacklight 7.x

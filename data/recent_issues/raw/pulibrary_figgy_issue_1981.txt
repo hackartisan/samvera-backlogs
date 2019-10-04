@@ -1,0 +1,2 @@
+enhance order manager for foliation
+It would be a great help if the Order Manager could be adjusted so that when a user selects the Foliate option, the default value in the label field changes to "f."  and the  front and back labels had the default values of "f" and "v" respectively.  Those are overwhelmingly the values used for foliation and I find I'm tying them in all the time.

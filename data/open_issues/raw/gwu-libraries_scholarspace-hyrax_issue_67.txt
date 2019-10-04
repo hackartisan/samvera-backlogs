@@ -1,0 +1,3 @@
+No thumbnail generated for CSV
+Although XSLX files do get a thumbnail. This is more a limitation of the Hyrax stack, but worth noting.  Consider a ticket for Hyrax after verifying that this hasn't been improved in Hyrax 2.0.x
+Bear in mind that there is no one particular appearance for rendering CSVs - it depends on the application chosen to view the CSV.

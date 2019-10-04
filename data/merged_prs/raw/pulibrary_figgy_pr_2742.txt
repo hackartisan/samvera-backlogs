@@ -1,0 +1,2 @@
+Set default index per_page to 20.
+Closes #2718

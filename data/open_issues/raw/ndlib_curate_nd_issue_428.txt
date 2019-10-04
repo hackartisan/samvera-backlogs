@@ -1,0 +1,4 @@
+Push CSV to Share
+See for further details on task (https://docs.google.com/document/d/1kD4hegjUyFcB6sqFzWOY_6hpRn3rkMi29IoXXWkRkxk/edit#) Related to #427 For each CSV row:   Expand into JSON format that is expected by  Share API  Post the JSON format to Share API  Capture any non 2XX HTTP requests  For the job:   If there are any non-2XX HTTP requests, Notify ERRBit of the exception
+Again I see this as a command line program. If you see it as needing to be more complicated (eg errbit), then ok..  Most of the difficulty here will be getting an endpoint set up with the COS people. 
+I started the branch https://github.com/ndlib/curate_nd/tree/share-push-gateway and have added a  command line utility to push a CSV file to SHARE.  This is blocked on the SHARE people changing their API and not giving me access to the old one. 

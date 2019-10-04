@@ -1,0 +1,1 @@
+DIGREPO-807: use FA icons for objects without thumbnails

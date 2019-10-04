@@ -1,0 +1,2 @@
+Adds replaces to edit form and show page. Adds rake task for mapping
+Fixes #571 Fixes #562

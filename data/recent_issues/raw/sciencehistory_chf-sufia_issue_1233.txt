@@ -1,0 +1,2 @@
+Relationships metadata edit screen: "Child Work" autocomplete dropdown is broken.
+Go to: https://staging.digital.sciencehistory.org/concern/generic_works/41687h49p/edit#relationships Under Other Works in this Work, the "Child work" autocomplete menu appears to be broken.

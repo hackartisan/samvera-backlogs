@@ -1,0 +1,2 @@
+Change "Film Studies" to "Film and Media Studies"
+Fixes #770

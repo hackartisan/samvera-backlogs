@@ -1,0 +1,2 @@
+Add mismatch handle between DSpace and Hyrax to redirect
+fix #1178

@@ -1,0 +1,2 @@
+Limit visibility
+Removed the UW-only option

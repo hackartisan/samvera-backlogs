@@ -1,0 +1,2 @@
+Issue 97 author writer text update
+fixed #97

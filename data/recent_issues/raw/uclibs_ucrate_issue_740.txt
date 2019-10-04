@@ -1,0 +1,2 @@
+Fix RedHat updates on scholar-dev solr/Feodra server
+Descriptive summary (Dennis needs to resolve this) Server libschdal1 hasn't been applying monthly updates because of a dependency problem.  It needs to be manually resolved so that monthly updates can happen on their own. This is also preventing the server from automatic reboots every month. Logged as ticket 9722411

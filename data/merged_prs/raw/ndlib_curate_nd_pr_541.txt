@@ -1,0 +1,2 @@
+DLTP-598 As a user, I would like to acknowledge I'm a postdoc in my Affiliation
+Requested by Tracy. I think I've found/fixed the place where it's set up. I used grep to find the places where it's spelled out in the settings. But if I missed something, let me know.

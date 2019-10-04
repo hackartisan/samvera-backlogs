@@ -1,0 +1,2 @@
+Rake tasks to detect and create missing batches
+This PR addresses RedMine ticket 9740 https://scm.dlt.psu.edu/issues/9740

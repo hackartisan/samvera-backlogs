@@ -1,0 +1,2 @@
+Removes bootstrap require
+Fixes #1207  an issue with bootstrap require

@@ -1,0 +1,2 @@
+Fix circular reference in BlindImporterMetadataWayfinder
+This made it so that staging couldn't boot up.

@@ -1,0 +1,2 @@
+Adds 'Batches' link to dashboard
+This overwritten Hyrax template gets generated into the host app from the hyrax-batch_ingest gem. However, there is no rake task to copy the template after the gem has already been installed, so here we do it manually.

@@ -1,0 +1,11 @@
+Fix issues with 'other' options
+There are three issues with the other options in the metadata fields:  For the Journal of publication and Language feature fields no free text box appears The Country / region field does not have an other option For Language feature the other option should appear at the bottom of the list to be consistent with the other fields. It is currently listed under O
+For Journal of publication the free text box doesn't appear.
+I've tested both in Chrome & Firefox but cannot see any problem. Which browser did you use? @IAlferink   ![image](https://user-images.githubusercontent.com/437701/46603808-21070180-caec-11e8-9882-0895d10ee856.png) 
+@yf508 Safari again.
+@yf508  <img width="813" alt="screen shot 2018-10-08 at 14 34 53" src="https://user-images.githubusercontent.com/40735172/46612028-59680900-cb07-11e8-9daa-51090207f46f.png"> 
+This issue may have the same cause as #241, due to the recent update of Safari on 17 Sep 2018.
+Yes, could be.  I've tried with Chrome as well and that's fine for me.
+@yf508 Related problem: When I tick the _other_ option for _Journal of publication_ the text box doesn't immediately appear. Weirdly, you have to click on something else and then back on the field for it to appear.
+@IAlferink @yf508 I have retested this on my Safari Version 12.0.1 (13606.2.104.1.2). The other option works on other field with select boxes and scroll lists. However, it will not work for drop down list. If we not fix this we need to add contextual text for those fields informing user about this Safari issue.
+Related to #277 and #245 

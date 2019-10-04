@@ -1,0 +1,2 @@
+Add extent to work model
+Add property to work Add test Connected to #48

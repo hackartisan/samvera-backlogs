@@ -1,0 +1,1 @@
+Add Rendered PDF to IIIF Manifest

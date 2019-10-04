@@ -1,0 +1,2 @@
+Reduce disk utilization on production web servers
+Descriptive summary libschpwl1 and libschpwl2 have disk utilizations above the 70% range.  We should see if there's a way to clean this up or make the disk larger. Dennis suspected that we have both 32-bit and 64-bit libraries taking up space. Logged as ticket 9722155

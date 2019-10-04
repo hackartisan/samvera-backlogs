@@ -1,0 +1,2 @@
+AASM state-machine workflow for ScannedResources
+Fixes #25

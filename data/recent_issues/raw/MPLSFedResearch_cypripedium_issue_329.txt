@@ -1,0 +1,2 @@
+Adjust fedora memory settings
+Fedora recently crashed with an out of memory error.   Check the current memory allocation for Fedora  Configure system so that it will restart fedora if it detects that it isn't running

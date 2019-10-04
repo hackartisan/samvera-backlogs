@@ -1,0 +1,2 @@
+enables multiple email addresses for embargoes lifting status
+fixes #312

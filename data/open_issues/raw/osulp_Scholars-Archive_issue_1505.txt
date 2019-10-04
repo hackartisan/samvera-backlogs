@@ -1,0 +1,3 @@
+Surface Hyrax 2.1 UI changes on Work Showpages
+UI changes in Hyrax 2.1 are (presumably) being overwritten by our local work. We would like to take advantage of Hyrax 2.1 UI changes in SA@OSU.
+Consider, now, Hyrax 2.2 as well (as seen on Nurax site)

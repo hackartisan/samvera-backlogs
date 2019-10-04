@@ -1,0 +1,2 @@
+Updating debugging gems
+Updates pry, pry-byebug, better errors, and binding of caller, which are used when debugging work in development and test modes.

@@ -1,0 +1,2 @@
+Add ProxyFile resource, change set, decorator
+refs #2080

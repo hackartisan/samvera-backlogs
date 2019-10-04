@@ -1,0 +1,2 @@
+authenticated vue posts
+This commit adds authentication to the Vue POST requests that create both InProgressEtds and a Hyrax Etds. It basically just grabs the user's CSRF token and adds it to the headers of these requests. The commit also adds an 'application/json' header to the post to the Hyrax Etd controller so that the controller will parse its json data.

@@ -1,0 +1,2 @@
+Resolves #1021 Import Monograph Should Use NOID
+Move ::Hyrax::Noid out of Monograph and into Importer.

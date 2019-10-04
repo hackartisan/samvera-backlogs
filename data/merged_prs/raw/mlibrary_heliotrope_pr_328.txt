@@ -1,0 +1,2 @@
+fixed 'more' link on keyword facets
+Fixes #283

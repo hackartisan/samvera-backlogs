@@ -1,0 +1,2 @@
+Remove hyrax orcid form field
+Fixes #302 Hyrax ships with a form field for the user to enter their Orcid ID but we rely on the Orcid gem for enhanced features around ORCID. We want to hide the form field and rely solely on the widget from the gem. Changes proposed in this pull request:  Remove form field from the edit view Add a test to the view spec

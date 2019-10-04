@@ -1,0 +1,2 @@
+Resolves #481: add ga event tracking
+This is all done in javascript, similar to the old blacklight_google_analytics gem: https://github.com/uohull/blacklight_google_analytics/blob/master/app/assets/javascripts/blacklight_google_analytics.js.erb

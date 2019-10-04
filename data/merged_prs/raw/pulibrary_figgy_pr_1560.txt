@@ -1,0 +1,2 @@
+Add rake task to delete collection and its members
+Useful for a/v demos fixes #1406

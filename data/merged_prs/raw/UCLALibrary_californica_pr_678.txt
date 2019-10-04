@@ -1,0 +1,2 @@
+Make ingest metadata-only.
+doesn't pass remote-files to the hyrax actor stack, so that no files will be imported into californica removes customized characterization logic removes command-line fits from Dockerfile and fits servlet from docker-compose.yml

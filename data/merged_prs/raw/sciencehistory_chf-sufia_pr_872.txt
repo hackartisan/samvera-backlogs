@@ -1,0 +1,2 @@
+Exhibition facet
+Needs a reindex, then recommit without show: false on facet Ref #811 close after reindex

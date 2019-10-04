@@ -1,0 +1,2 @@
+Enable the newrelic gem.
+Clean up the gemfile lock.

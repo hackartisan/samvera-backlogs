@@ -1,0 +1,2 @@
+Add missing label to Playlist type.
+Closes #2202

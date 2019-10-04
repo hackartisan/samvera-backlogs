@@ -1,0 +1,2 @@
+Local Collection Name form helptext is incorrect
+Descriptive summary Update the form help text for Local Collection Name. Current version on MAP is: "Use the collection name and ID, listed in the finding aid for archival collections." Related work Loosely related to #370

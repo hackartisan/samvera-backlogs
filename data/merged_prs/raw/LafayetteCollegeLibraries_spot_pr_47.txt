@@ -1,0 +1,2 @@
+Enable riiif
+adds and enables riiif and universalviewer support. also fixes a failing PublicationIndexer spec

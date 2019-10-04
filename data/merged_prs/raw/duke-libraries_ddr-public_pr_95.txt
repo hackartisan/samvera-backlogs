@@ -1,0 +1,2 @@
+Sort entries in Collection facet by collection title.
+Override BL #render_facet_limit_list method in Blacklight::FacetsHelperBehavior and provide custom sort for items in facet paginator if facet field is that used by the Collection facet.

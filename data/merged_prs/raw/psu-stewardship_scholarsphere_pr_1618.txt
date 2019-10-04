@@ -1,0 +1,2 @@
+Add Hydra::Derivatives config option
+Moves the initializer for configuring Hydra::Derivatives to a linked file so that we can change on the server to meet our needs. When ingesting large video files, the jobs will often timeout after 10 minutes, and we need them to be able to run longer.

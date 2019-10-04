@@ -1,0 +1,1 @@
+Show precise collection count in matches; Closes #382

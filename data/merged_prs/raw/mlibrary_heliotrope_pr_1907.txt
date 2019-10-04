@@ -1,0 +1,2 @@
+Purge Metadata Rack Task
+Rake task to purge unused metadata from fulcrum.org's fedora instance.

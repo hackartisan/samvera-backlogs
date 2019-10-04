@@ -1,0 +1,2 @@
+Get Google Drive working properly with Browse Everything
+Descriptive summary Make the needed fixes to get Google Drive working for cloud uploads See #417 and uclibs/scholar_uc_legacy#1379

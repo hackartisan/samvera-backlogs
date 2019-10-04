@@ -1,0 +1,7 @@
+Create user FAQ / documentation
+"What hapens if I’m ingesting and you deploy?" Also discussed with RBSC curators; check those notes for more examples of things to include in this documentation.
+"If there is a corrupt tiff can you catch that?"
+Same as #1575? Or two different pages?
+Curators asked for a "cheat sheet" with info such as:  *    What is a "slug"?  *   How to report bugs/problems?   *  How does Figgy relate to other systems?    * How ARKs work, and how various URLs are related (e.g. ARK shoulder in DPUL URL)    * Terminology — what things are called
+These should [ultimately be addressed in the interface rather than a FAQ](https://alistapart.com/article/no-more-faqs-create-purposeful-information-for-a-more-effective-user-experi) or "cheat sheet" as they are really shortcomings of the UI. If FAQs are needed, terms should not be defined in an FAQ but rather in a Glossary.  
+@sdellis I think we have a grab-bag now, and different items will require different solutions: * Some of these items should be addressed in the UI (e.g., the `slug` field should describe how we use it, and probably have a live-updating link saying your collection URL will be `https://dpul.princeton.edu/[slug]`) * Other items can definitely go in a glossary * Some items (e.g., "How do I report a problem?") probably need a user guide.

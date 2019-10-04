@@ -1,0 +1,2 @@
+Redirect to index view after save on managed numismatic resources
+Accessions Firms Monograms People Places References  after_update_success and after_create_success hooks?

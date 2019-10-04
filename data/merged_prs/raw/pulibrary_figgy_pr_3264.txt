@@ -1,0 +1,2 @@
+Ensures that ARK links, catalog links, or finding aid links are used within PDF cover pages
+Resolves #3130

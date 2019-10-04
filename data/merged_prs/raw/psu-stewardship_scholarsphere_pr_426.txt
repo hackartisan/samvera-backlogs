@@ -1,0 +1,2 @@
+Fluid container and spacing
+Fixes container on home page and 1 column layout from CC to be container-fluid.

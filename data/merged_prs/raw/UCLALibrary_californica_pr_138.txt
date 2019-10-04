@@ -1,0 +1,1 @@
+Added extent field to importer. Story #111

@@ -1,0 +1,2 @@
+Move Locations from TGN to Geonames vocab where possible
+Historic place names will remain TGN. All extant place names need to move to Geonames URIs. This is exclusively work for UO in the following collections:  aa-images building-or gb-warner-nosatsu

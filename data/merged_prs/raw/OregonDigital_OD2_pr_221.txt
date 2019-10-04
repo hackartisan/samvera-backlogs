@@ -1,0 +1,2 @@
+oEmbed error email notifications
+Creates new Hyrax notifications for depositor when a new error is added. @wickr The original ticket states it should be emails. Are we expecting depositors to rarely come back to OD unless they get an external ping? If so, I should expand this to use ActionMailer. fixes #77

@@ -1,0 +1,2 @@
+PDF text extraction for fulltext search
+Related to #2140 When ingesting a PDF, we should extract any text (page text, table of contents, etc.) for fulltext search.

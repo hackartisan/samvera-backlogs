@@ -1,0 +1,2 @@
+Renames QueryService to Statistics::QueryService
+In Hyrax-2.0.0 update, QueryService was renamed to Statistics::QueryService. This update in our file is necessary to make sure date_query executes as intended. Resolves emory-libraries/etd-issues#67

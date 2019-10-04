@@ -1,0 +1,2 @@
+Write up metadata repo management guidelines
+STORY We'd like a shared process for the team to manage and use metadata during ingest ACCEPTANCE   Draft an overview of the folder structure for a metadata repo  Draft an overview of the process for proposing and accepting changes to metadata  Draft an overview of the process for flagging metadata as ready-for-ingest  Draft an overview of the process for flagging metadata as ingested  Review with the team

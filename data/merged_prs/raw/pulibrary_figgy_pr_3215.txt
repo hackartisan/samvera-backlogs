@@ -1,0 +1,2 @@
+Open Items in GraphQL Response
+Closes #3206

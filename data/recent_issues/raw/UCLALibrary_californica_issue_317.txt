@@ -1,0 +1,2 @@
+Update loofah in californica
+See UCLALibrary/ursus#111 for how to do this. Basically copy in the new version into the Gemfile, then run bundle update loofah. Then commit the Gemfile and Gemfile.lock

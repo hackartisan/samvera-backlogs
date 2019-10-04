@@ -1,0 +1,2 @@
+Opened application to Penn State users
+Description All Penn State users can now access application, but not manage resources. Connected to #172 Changes  Create/edit/delete navigation links are hidden where appropriate Controllers are locked down, and will 403 if an unauthorized user should visit a route

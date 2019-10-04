@@ -1,0 +1,2 @@
+Improve the monograph catalog page display for mobile devices
+As a reader, I don't want to have to scroll far to get to the media/table of contents section of a EPUB monograph catalog page.   create wireframes for an improved view that reduces how far below the fold the media/toc tabs are on the monograph catalog page for EPUBs  implement necessary media queries to adjust the display for mobile devices.

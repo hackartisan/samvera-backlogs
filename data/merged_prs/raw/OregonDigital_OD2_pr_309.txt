@@ -1,0 +1,2 @@
+More closely match form spec to form-model relationship
+Fixes #308, increases amount of metadata covered, and narrows terms searched to only those that actually appear on the form.

@@ -1,0 +1,2 @@
+Publish new CCAS Joseph objects
+Descriptive summary We need to make ~36 objects that have been added to the CCAS Joseph collection publicly accessible (they are now curator-only). The exact ARK list is attached. damslog--1020446901-arkReport.xlsx Attempts to re-release the collection (via the Release tool) have not worked. Related work #200

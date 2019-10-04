@@ -1,0 +1,3 @@
+Attribue in use? choose_proquest_submission
+ISSUE We appear to have dead code related to an unused attribute ACCEPTANCE   Remove unused attribute choose_proquest_submission
+This is an artifact from an obsolete requirement that Laney Masters students could "optionally" submit their Master's theses to Proquest.  This requirement was never implemented and is no longer desired.

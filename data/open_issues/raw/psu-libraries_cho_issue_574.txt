@@ -1,0 +1,2 @@
+Collection Landing Page Enhancements
+Rotating representative imagery was requested by stakeholders, but deemed out of scope for MVP because of the javascript. Done looks like:   representative imagery carousel  Enhancement to: #483

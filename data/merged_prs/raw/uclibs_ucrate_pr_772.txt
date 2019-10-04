@@ -1,0 +1,2 @@
+Add Docker support
+Fixes #742 Adds Docker support for Scholar. The wiki is available at https://github.com/uclibs/ucrate/wiki/Docker-with-Scholar. Please note that the non-developer will not work until this branch is merged into develop.

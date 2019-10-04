@@ -1,0 +1,2 @@
+Remove properties from system
+Descriptive summary After further analysis by the Metadata Team, these properties are no longer needed and can be removed entirely. No records were found in OD1 that had any of these values.   boxName  hostItem  canzonierePoems  higherClassification  scribe  Expected behavior Remove all occurrences from property definitions, forms, indexing, etc.

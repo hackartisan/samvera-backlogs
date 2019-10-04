@@ -1,0 +1,2 @@
+adds NewRelic gem and configuration
+fixes #1163

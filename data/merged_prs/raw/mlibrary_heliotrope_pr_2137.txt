@@ -1,0 +1,2 @@
+HELIO-2372 update rails
+Minor release, not much different. Tested on staging.

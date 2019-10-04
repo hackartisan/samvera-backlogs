@@ -1,0 +1,2 @@
+Implementing an alternative validation option
+Description This utilizes the factory to look up the correct validator Adds errors to validator to allow for validation feedback This is an alternative way to run the validation.  It more closely matches what I was thinking about when I put the factory in. This change adds no new functionality, but I believe may be a better pattern when we start including more validators. Connected to #672

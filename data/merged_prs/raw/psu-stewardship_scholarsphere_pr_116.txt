@@ -1,0 +1,2 @@
+Prevent user profile page from crashing if a file listed as a trophy 
+does not exist in Fedora. We log the error instead. Fixes #108

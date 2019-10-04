@@ -1,0 +1,2 @@
+Switched Geonames config to APP_CONFIG.
+Closes #289

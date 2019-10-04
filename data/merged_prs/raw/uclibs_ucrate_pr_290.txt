@@ -1,0 +1,2 @@
+Change embargo release notification to fire 1 day prior to release
+Fixes #287 Change embargo release notification to fire 1 day prior to release job. The notification will be called with a cron job at the end of the day, one day prior to running the embargo release job. Changes proposed in this pull request:  add ONE_DAY constant to lib/tasks/embargo_manager.rake

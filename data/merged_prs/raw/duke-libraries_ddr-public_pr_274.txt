@@ -1,0 +1,2 @@
+added deep link from item page to row in finding aid
+NOTE: Uses aspace_id field, settable in staff UI under Administrative Metadata or via rails console. No items currently have this value on production (awaiting a METS reingest for Rush collection).

@@ -1,0 +1,3 @@
+ORCID integration not working
+Descriptive summary Both Hannah and I tried to connect our ORCID IDs to our profile in Scholar, but it didn't work. The process does allow you to authenticate your ORCID account, but then it returns you to Scholar without creating the association in the profile.  So something appears to have broken at some point.
+I can't recreate this issue in the sandbox. I have a help ticket open at Orcid to see if they have any more information on their end.

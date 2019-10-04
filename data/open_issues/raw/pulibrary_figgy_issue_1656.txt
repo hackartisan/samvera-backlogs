@@ -1,0 +1,2 @@
+Collection manifests are loading really slow
+https://app.datadoghq.com/apm/resource/figgy/rack.request/9d35212e3b635381?start=1533590121621&end=1534194921621&env=none&paused=false&traceID=3968344314415845361&spanID=3560391818623389533&graphType=span_list It looks like it's running a query for every object in a collection. Maybe to get thumbnails?

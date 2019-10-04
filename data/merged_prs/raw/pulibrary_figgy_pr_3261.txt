@@ -1,0 +1,2 @@
+Ensures that the ThumbnailHelper#iiif_thumbnail_path handles cases where thumbnails can only be retrieved from member resources
+Resolves #3236

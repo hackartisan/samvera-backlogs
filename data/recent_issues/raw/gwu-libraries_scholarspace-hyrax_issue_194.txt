@@ -1,0 +1,2 @@
+Bibliographic Citation attribute not accepting values for new objects & needs to display on work view
+Suggested solution: Add :bibliographic_citation to _attribute_rows.rb

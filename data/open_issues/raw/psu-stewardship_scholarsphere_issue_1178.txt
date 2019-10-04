@@ -1,0 +1,3 @@
+Batch Edit Setting Multiple Attributes fails
+When I choose multiple works from My works listing And I click on Batch Edit And I change Multiple attributes and click save quickly  so that multiple changes should be sent to the server at once Then the first item returns, but the other items just spin forever And the values do not get set on the works
+Check out the branch i#1178 for a failing tests that demonstrates the issue here.  We created the failing test during refactoring.

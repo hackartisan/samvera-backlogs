@@ -1,0 +1,2 @@
+in edit of an etd, legacy graduation date options are set to selected
+This commit makes the graduation date component respond to a savedData graduation date by setting its active property to true, which ensures it will not be skipped by the template guard clause skipping inactive options. Only in legacy cases will there be a savedData graduation_date that might be inactive. Since that property is never sent to the server in form submissions, it should be a benign change that provides the user the ability to see and change their legacy graduation data. Connected to #1094

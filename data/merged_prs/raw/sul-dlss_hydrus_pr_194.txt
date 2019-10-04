@@ -1,0 +1,1 @@
+Update Readme to show Java 8 is required for Fedora 3

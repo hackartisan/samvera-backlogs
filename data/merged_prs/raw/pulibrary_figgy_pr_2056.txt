@@ -1,0 +1,2 @@
+ Adds basic forms for numismatic issues and coins
+Closes #2002 Closes #2028

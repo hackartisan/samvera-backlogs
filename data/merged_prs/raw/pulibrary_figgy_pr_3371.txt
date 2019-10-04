@@ -1,0 +1,2 @@
+Pass on bad visibility values to facet, notify in Honeybadger
+Hopefully will help us diagnose #3370

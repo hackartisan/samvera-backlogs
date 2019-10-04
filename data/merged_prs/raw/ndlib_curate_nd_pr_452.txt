@@ -1,0 +1,2 @@
+Adding script to explode a file's modules
+See the script for details on what is happening.

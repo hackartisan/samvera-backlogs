@@ -1,0 +1,2 @@
+Ensure mime_type is not nil before calling content_type
+Closes #2720

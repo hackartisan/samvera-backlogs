@@ -1,0 +1,2 @@
+676 map admin data
+Map admin data to correct field names in pbcore_xml_mapper Don't include admindata in annotations field

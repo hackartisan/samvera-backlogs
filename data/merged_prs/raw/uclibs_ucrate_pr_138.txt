@@ -1,0 +1,2 @@
+Hide the lease visibility option
+Fixes #128

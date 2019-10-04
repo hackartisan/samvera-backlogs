@@ -1,0 +1,2 @@
+add task to restart sidekiq on each deploy
+see also #40, chatter on the samvera dev slack is that this is recommended practice to prevent weirdness

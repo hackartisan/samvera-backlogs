@@ -1,0 +1,2 @@
+Rake task to queue a random subset of PreservationObjects for Cloud Fixity
+Should create events in the appropriate Google Pub/Sub Topic

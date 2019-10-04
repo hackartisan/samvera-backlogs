@@ -1,0 +1,2 @@
+Full ARK should appear in logs
+When I re-import content, the full ark should appear in the logs. Right now it's being truncated.

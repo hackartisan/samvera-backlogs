@@ -1,0 +1,1 @@
+Update solr_wrapper to fix solr download problem

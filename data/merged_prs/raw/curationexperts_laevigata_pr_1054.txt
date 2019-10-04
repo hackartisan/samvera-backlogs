@@ -1,0 +1,2 @@
+Update WorkflowsController to fix Review Submissions page
+The WorkflowsController has changed in Hyrax 2.0, breaking our local overrides. This updates the controller to contain the current code. We keep the local workflow state name as "published". A feature test is included to catch regressions.

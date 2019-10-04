@@ -1,0 +1,2 @@
+add delete button to bulk ingest in errored state
+currently, there is no delete until all items have successfully ingested.

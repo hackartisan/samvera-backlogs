@@ -1,0 +1,2 @@
+Add READ_ONLY_MODE to Ability
+advances #2830

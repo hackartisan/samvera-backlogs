@@ -1,0 +1,2 @@
+Stop undoing workflow steps
+As part of opening a new version on a hydrus item, Hydrus::Processable.uncomplete_workflow_steps. This in turns calls update_workflow_status on each of the steps in the hydrus assembly wf, setting status to waiting. However, since a new version has been created, this results in new workflow steps being created. Instead, a new hydrus assembly wf should be created.

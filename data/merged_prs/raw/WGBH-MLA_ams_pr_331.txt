@@ -1,0 +1,1 @@
+Updates to lates hyrax-batch_ingest version

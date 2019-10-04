@@ -1,0 +1,2 @@
+depositor should not show up in the additional fields
+When I Edit a work And I click on Additional fields Then I should not see depositor at the bottom of the list When I create a new work And I click on Additional fields Then I should not see depositor at the bottom of the list

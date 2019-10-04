@@ -1,0 +1,2 @@
+add/edit Publisher - CarrierWave logo upload, validations
+Resolves #965

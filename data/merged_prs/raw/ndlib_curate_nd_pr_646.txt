@@ -1,0 +1,2 @@
+add luke plugin to  solrconfig dltp-1139
+#645

@@ -1,0 +1,2 @@
+Override show page partial
+Fixes #605 Fixes #606 Fixes #608  Removes work type heading from work show page Changes work title to h1 Remove citation dropdown from work show page Removes work description and sets it as the first attribute row, giving it a label

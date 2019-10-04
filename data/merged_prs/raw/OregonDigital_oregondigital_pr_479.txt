@@ -1,0 +1,2 @@
+Enable documents to be downloaded by everyone.
+Closes #477

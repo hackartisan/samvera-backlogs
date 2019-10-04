@@ -1,0 +1,2 @@
+Removed solr suggest sections from solr config.
+The hyrax upgrade notes strongly recommend disabling the suggest behavior because of performance issues.  For more info, see: https://github.com/samvera/hyrax/wiki/Troubleshooting-Migration-from-2.0.x-to-2.1.0#fix-performance-issue-caused-by-solr-suggest-after-200-objects-are-in-the-repository Connected to #195

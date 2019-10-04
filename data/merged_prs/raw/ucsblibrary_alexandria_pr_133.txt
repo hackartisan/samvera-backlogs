@@ -1,0 +1,2 @@
+Full-text indexing on imported objects
+This modifies the object_factory class used by the importer to perform a full text indexing job on the object. This is tested by a new spec that that imports a CSV with an attached PDF and performs a solr query to check for text that is inside the PDF. Closes curationexperts#48

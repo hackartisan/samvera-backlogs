@@ -1,0 +1,2 @@
+use jquery instead of straight dom js for identifying viewer next/prev
+For some reason straight dom JS on FF was going vertical, jquery equivs work right on FF too

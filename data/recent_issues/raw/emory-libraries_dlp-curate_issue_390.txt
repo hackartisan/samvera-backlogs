@@ -1,0 +1,2 @@
+Testing revision: NOIDs not being minted
+NOIDs do not appear to be minted in prod or test: the Fedora UUID shows instead. Example: https://curate.library.emory.edu/concern/curate_generic_works/38ddee16-d8b5-4754-b1b6-2333ea38f6c1.ttl http://fedora-cor.library.emory.edu/fcrepo/rest/prod/38/dd/ee/16/38ddee16-d8b5-4754-b1b6-2333ea38f6c1

@@ -1,0 +1,2 @@
+Optionally cc embargo expiration notifications
+By adding a uid to an environment variable EMBARGO_NOTIFICATION_CC the system will now send all embargo expiration notifications to that user as well as the author of the ETD whose embargo is expiring. Set this value in .env.production on the production server. Connected to #1851

@@ -1,0 +1,1 @@
+Hide the sticky sidebar when the user is not signed in

@@ -1,0 +1,2 @@
+Updated docker-compose to version 3
+I've updated docker-compose to use version 3. I tried updating solr and db to be similar to the history centre but it's throwing errors about config files. So I decided to do that in another PR. The docker setup here could do with more tlc. Will try to improve this tomorrow.

@@ -1,0 +1,3 @@
+Test MVP 7 for accessibility conformance
+run WAVE accessibility toolkit keyboard navigation voiceover  Child of #165
+- Link Color for searching does not pass color contrast (#007bff) for normal text - Manage, Create Collection, Create Resource do not highlight when tabbing through the menu

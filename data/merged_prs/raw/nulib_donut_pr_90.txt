@@ -1,0 +1,2 @@
+this release has binaries in it
+So it looks like we have to download the binaries from harvard's hosting, that github repo only contains source code. I ran into this ticket harvard-lts/fits#149 which explains it in more detail it does look like their hosting is up and running as of today though, i just tested it out and i'm not getting the error anymore

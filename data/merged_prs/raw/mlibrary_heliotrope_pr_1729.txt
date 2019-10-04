@@ -1,0 +1,2 @@
+Add free trial messaging for gabii/webgl titles
+Resolves #1695 Incorporates feedback from mockups. Adds message on monograph catalog page about free-trial access and a link to purchase (goes to press product page). Adds a dismissible message in the e-reader about free-trial access and a link to purchase (goes to press product page). Adds some custom styles to control display. These messages will be removed after June 2018.

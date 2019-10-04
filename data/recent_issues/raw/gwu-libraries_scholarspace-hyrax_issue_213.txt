@@ -1,0 +1,2 @@
+Loading of non-PDF files assumes .pdf temp file
+Ref gwu-libraries/batch-loader#19

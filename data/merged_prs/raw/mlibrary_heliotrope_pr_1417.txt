@@ -1,0 +1,2 @@
+Addresses #1386 messed-up logged-in Penn State banner.
+If I had my druthers I would not be using the !important CSS "feature" but oh well.

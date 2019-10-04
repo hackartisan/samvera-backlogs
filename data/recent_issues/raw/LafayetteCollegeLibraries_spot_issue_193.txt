@@ -1,0 +1,2 @@
+determine facet order
+honestly, i chose the current order on the fly and have just stuck with it.

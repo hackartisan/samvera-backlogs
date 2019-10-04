@@ -1,0 +1,2 @@
+Feature/fix css contrast
+Closes #345

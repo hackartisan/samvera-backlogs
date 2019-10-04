@@ -1,0 +1,2 @@
+Align Curate field names/property names vs. Lux display labels to support migration development 
+Identify strategies to reduce complexity if Lux display labels are significantly different than Curate filenames/model attribute names

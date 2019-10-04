@@ -1,0 +1,2 @@
+Layout committee chair and member information in a single row
+ISSUE Instead of displaying committee chair/member information stacked vertically, tighten up the page by displaying all of the info for each name in a single row.

@@ -1,0 +1,2 @@
+Add preservation policy to bulk edit
+Allow assigning a preservation policy in the bulk edit screen.

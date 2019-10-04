@@ -1,0 +1,2 @@
+Don't allow changes to school after selected
+This commit changes the select dropdown for school so that a user can't change it after they have initially selected it. Connected to #1562

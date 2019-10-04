@@ -1,0 +1,2 @@
+add ns to opns rights
+I'm having issues with using opaquenamespace.org/ns/rights/educational in folklore

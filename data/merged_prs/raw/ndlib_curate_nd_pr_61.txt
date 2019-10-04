@@ -1,0 +1,2 @@
+Normalizing Person#email and User#email
+Instead of the confusing email / preferred_email dichotomy, converge on the singular email.

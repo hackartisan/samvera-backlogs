@@ -1,0 +1,2 @@
+custom error pages
+500  404  passenger can't start app  maintenance page  ref #333

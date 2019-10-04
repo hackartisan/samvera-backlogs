@@ -1,0 +1,2 @@
+Delete file sets using the management search
+Description Enables search and retrieval of file sets via the management search interface so the user may select one or more file sets to delete. File sets could come from any work. Connected to #638 Changes Extracts out shared search behavior to the CatalogSearchBehavior module.

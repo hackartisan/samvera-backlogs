@@ -1,0 +1,2 @@
+Add support for preservation_policy to bulk:update_attrs
+Closes #2841

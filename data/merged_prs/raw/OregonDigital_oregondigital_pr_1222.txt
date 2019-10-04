@@ -1,0 +1,2 @@
+use ruby-vips with fix for centos
+updated ruby-vips and vips

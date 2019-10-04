@@ -1,0 +1,2 @@
+Feature/other option integration
+fixes #826

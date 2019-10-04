@@ -1,0 +1,2 @@
+Figaro
+get Figaro configured

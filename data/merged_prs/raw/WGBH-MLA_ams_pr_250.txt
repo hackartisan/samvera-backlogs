@@ -1,0 +1,2 @@
+Update transcript_status.yml
+I realized we updated AAPB's vocab for this, but never updated it in AMS.

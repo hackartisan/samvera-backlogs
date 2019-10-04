@@ -1,0 +1,2 @@
+Display Curate 503 page in maintenance mode
+The timeout error_page directive in the @app location was shadowing all the higher-level error_page commands, not just the 502 error. So copy all of them into the @app block. Now maintenance mode will display the 503.html page in the curate nd public directory. Addresses issue #194

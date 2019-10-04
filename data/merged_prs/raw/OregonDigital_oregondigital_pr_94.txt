@@ -1,0 +1,2 @@
+Remove persisted logic on change
+Fixes #92

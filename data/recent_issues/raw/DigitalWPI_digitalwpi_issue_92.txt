@@ -1,0 +1,2 @@
+Advisor searchable
+advisor name - make indexed in solr go into an iqp/mqp page, scroll down to advisor - click advisor name it SHOULD show all projects that person has advised BUT doesn't show up in search results

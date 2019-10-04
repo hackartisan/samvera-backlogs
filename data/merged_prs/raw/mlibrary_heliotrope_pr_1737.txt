@@ -1,0 +1,2 @@
+modify jumbotron for HEB theme, reducing font size
+Resolves #1727 Reduce font size for jumbotron on the publisher page for HEB theme, and reduce some of the margins as well to decrease the amount of screen space the publisher description takes up.

@@ -1,0 +1,4 @@
+Discipline "Other" input is missing
+Right now, we can choose multiple disciplines from a controlled vocabulary, but there's no way to enter an other option.
+From Grace:  This other discipline isn't necessary.
+Add Hint wording to select a discipline closest to those, if they don't see their discipline.

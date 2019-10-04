@@ -1,0 +1,2 @@
+Fix logger
+Fixes #572 Local Checklist   Rebased with master branch?  What does this PR do?  Fixes logger gem shenanigans where 1.28 version was pulled from rubygems Adds the deploy:migrations task after a new deploy is made, but before a restart  Why are we doing this? Any context of related work? References #572 Where should a reviewer start? @VivianChu - would you be up for helping me test this out on pontos? @ucsdlib/developers - please review

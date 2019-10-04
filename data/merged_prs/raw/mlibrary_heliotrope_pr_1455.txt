@@ -1,0 +1,2 @@
+disable Fulcrum survey
+Resolves #1445

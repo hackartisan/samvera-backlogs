@@ -1,0 +1,2 @@
+Confirm that all preservation workflows have similar metadata
+Workflow Note  Rights Basis (DAMS)  Rights Basis - Review Date (DAMS)  Rights Basis - Reviewer (DAMS)  Rights Basis Note (DAMS)  Rights Basis URI  Type (DAMS)  One-to-many relationship

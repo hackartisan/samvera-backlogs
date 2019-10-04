@@ -1,0 +1,2 @@
+Add collections method to scanned map decorator
+Closes #1139

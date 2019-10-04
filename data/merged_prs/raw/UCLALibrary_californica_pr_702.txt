@@ -1,0 +1,2 @@
+Fixes to Work and Collection forms
+Changes the 'Language' widget to a multiselect. Removes the field 'based_near', a hyrax default that we aren't using Moves preservation_copy and access_copy above the fold.

@@ -1,0 +1,2 @@
+Improve colors for fixed showcase boxes
+Improve column layout of homepage boxes. Fixes #599

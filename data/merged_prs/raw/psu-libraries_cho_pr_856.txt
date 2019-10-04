@@ -1,0 +1,2 @@
+Parse agents and roles in csv files
+Description Takes a correctly-formatted agent/role combination in the csv creator field and parses it so that it will be correctly linked in the application. Errors are reported in the dry run if the agent or role does not exist. Connected to #736

@@ -1,0 +1,2 @@
+Remove the group sharing option from works
+Fixes #260

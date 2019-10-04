@@ -1,0 +1,2 @@
+adding new model fields and specs
+fixes https://github.com/nulib/next-generation-repository/issues/392 i created a new schema that i called 'Workflow', since it seems like this metadata is specific to NUL's current workflow, but maybe there's a more appropriate name. I moved abstract from the image model to the Workflow schema as well since that's how it was requested on the speadsheet and it looks like it'll be a repeated field and it's more easily repeatable in the schema module

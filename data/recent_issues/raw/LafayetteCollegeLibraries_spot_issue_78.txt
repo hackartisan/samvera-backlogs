@@ -1,0 +1,2 @@
+upgrade solr
+we're currently pinning solr to 7.1.0 because of an issue that has since been resolved (the 'lucene' parser default needs to be explicitly provided, which it now is). solr is now at 7.5.0 and we should give an upgrade a shot

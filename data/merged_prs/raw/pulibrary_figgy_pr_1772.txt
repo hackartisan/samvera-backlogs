@@ -1,0 +1,2 @@
+Add a valkyrie resource TitleWithSubtitle
+It can read/write strings and rdf literals. it interpolates to "title: subtitle" fixes #1748

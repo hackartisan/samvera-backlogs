@@ -1,0 +1,2 @@
+Updated collections page (view) to support new collection images (DHH-706)
+Now with root relative links!

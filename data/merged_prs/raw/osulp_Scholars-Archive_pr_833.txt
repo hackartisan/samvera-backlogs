@@ -1,0 +1,2 @@
+enabled graduation_year to facet with blacklight range limit widget
+fixes #753

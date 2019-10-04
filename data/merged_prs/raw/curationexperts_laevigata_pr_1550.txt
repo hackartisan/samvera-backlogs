@@ -1,0 +1,2 @@
+Display abstract and TOC with formatting
+This removes a class that was used to filter out HTML when these are displayed on the submit tab. This caused a lot of confusion so I think we should get rid of it so that the student sees the same formatting on the submission tab. Closes #1538, #1525, #1523

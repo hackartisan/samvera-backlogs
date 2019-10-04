@@ -1,0 +1,2 @@
+fixes a sore looking style on the mainpage, and style related to issu…
+a few style updates and addresses issue, fixes #279

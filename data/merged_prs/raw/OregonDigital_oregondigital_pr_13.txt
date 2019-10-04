@@ -1,0 +1,1 @@
+Added restricting the default catalog view to reviewed items only.

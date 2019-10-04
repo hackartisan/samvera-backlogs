@@ -1,0 +1,1 @@
+Add an API feature for a random public object/collection. DHH-763

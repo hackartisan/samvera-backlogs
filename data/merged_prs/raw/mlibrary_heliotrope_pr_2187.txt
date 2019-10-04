@@ -1,0 +1,2 @@
+HELIO-2365 - add blog post about the EBC launch.
+Resolves HELIO-2365

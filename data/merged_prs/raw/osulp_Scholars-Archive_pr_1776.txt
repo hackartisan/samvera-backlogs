@@ -1,0 +1,2 @@
+updated input multi_value_ordered_input
+This updates the input class used in the forms to render existing ordered items properly Related to #1774 #1773

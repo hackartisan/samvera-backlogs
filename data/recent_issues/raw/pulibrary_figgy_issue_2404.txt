@@ -1,0 +1,2 @@
+Prepare LAE data for Year of Data Hackathon
+For each object:   JSON-LD metadata  TIFF page images  OCR text and hOCR

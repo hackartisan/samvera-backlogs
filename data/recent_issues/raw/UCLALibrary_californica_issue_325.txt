@@ -1,0 +1,2 @@
+Change the Californica header and footer color
+STORY As a library user, I want a clear visual signal to help me know when I'm working with the management application vs. with the discovery application. ACCETPANCE   Change the background color on the header and footer to an orange (matching the poppy in the readme) or yellow (matching ucla branding) color

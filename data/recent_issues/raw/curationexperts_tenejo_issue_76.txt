@@ -1,0 +1,2 @@
+SPIKE: how big an image can we handle?
+We know that with our current cantaloupe setup, a 30Mb TIFF works fine, but a 200Mb TIFF causes performance problems. Can we narrow down the size limits on TIFF processing by cantaloupe? What happens if we convert to JPEG2000 and use that instead?

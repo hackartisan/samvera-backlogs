@@ -1,0 +1,2 @@
+The Word "Work" Displayed Twice on Same Line in Menu
+Removes extra interpolated value for the type of curation concern. Old  New

@@ -1,0 +1,6 @@
+PDF generation enhancements ala jrock
+Look into what jrock did for science history foundation, including an in-browser progress bar and some caching. See if we would benefit from any of these features or implementation details. https://groups.google.com/forum/#!searchin/samvera-tech/jrochkind%7Csort:date/samvera-tech/yThEBMzA4_o/QTZUz-JYCAAJ
+note it seems we also have a use case for bulk pdf generation / download (cdh)
+Though I think the bulk approach was to work around slow/failing PDF generation.
+https://app.datadoghq.com/apm/resource/figgy/rack.request/9a4f9dab4643823?env=none&start=1527539368342&end=1530131368342&paused=false&traceID=1118904368320283124&spanID=3927259778413034468&graphType=span_list The VAST VAST majority of the time for building PDFs is downloading the derivatives off the image server for each page - something like 1-3 seconds a page. I decreased the quality a little and it looks readable to me, so I think we should still do that, but it doesn't seem to mean a significantly faster creation time.  So it looks like we need to pre-generate PDFs? It'd be a lot of disk space. Or we can go back to Plum's method of generating the first time it's requested?
+Is this ticket relevant now that we are caching PDFs like we did in Plum?

@@ -1,0 +1,2 @@
+Prevent redirection of requests to create new ETDs
+Shari would like to manually create records for some ETDs that were neither deposited in Sipity nor included in the legacy data import. She was encountering a 404 error.

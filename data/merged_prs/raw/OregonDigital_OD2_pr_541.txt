@@ -1,0 +1,2 @@
+adds new collection type code for new setting
+This adds the base code for creation of collection types with the new option of configurable facets. Fixes #533

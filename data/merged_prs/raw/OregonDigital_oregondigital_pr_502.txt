@@ -1,0 +1,2 @@
+Adds a capistrano task for opening a rails console.
+[ci skip]

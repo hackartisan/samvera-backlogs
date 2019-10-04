@@ -1,0 +1,1 @@
+Make the numbers in Dashboard -> 'Your Statistics' clickable

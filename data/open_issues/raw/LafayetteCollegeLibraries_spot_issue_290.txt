@@ -1,0 +1,2 @@
+fix collection-pagination urls
+not high-priority, but the paginated links on collection#show are built as /collections/:id and should be /collections/:slug see: https://github.com/samvera/hyrax/blob/v2.5.1/app/views/hyrax/collections/_paginate.html.erb

@@ -1,0 +1,1 @@
+fixed facet text wrapping bug; closes #232

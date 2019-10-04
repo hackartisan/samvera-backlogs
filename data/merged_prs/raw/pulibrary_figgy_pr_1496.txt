@@ -1,0 +1,2 @@
+Adding the <meta> element for domain verification by Google Cloud Identity
+Google Cloud Identity now requires that domains be verifiable in order to provide authentication into Cloud services

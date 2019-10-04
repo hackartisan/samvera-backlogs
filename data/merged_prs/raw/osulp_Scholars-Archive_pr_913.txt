@@ -1,0 +1,2 @@
+updated etd and oer forms including attribute rows to fix the ordering
+made remaining ordering changes for ETD and OER models on the ingest forms and show page as required in https://docs.google.com/spreadsheets/d/1MOMoLH_vfVDLNHri-yDDfFKOUo4dnomUfp9ntaXzX3E/edit#gid=0 updated visibility of :degree_discipline (it needed to be removed from the ingest form and show page  as required in MAP)  fixes #656

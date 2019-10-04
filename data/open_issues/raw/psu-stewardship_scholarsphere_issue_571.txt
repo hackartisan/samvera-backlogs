@@ -1,0 +1,2 @@
+external key should not show on content blocks
+The external key is only useful for the Featured Researcher.  The other content blocks should not display that field. samvera-deprecated/sufia#1185

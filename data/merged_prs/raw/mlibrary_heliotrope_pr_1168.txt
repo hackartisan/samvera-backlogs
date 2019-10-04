@@ -1,0 +1,2 @@
+turn off Turbolinks caching for Leaflet page
+Resolves #1127

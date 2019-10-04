@@ -1,0 +1,2 @@
+Change bag model to create multi-work bags
+This changes the Bag model so that it creates a single bag with a list of work ids. The bag contains the contents of the works in folders that have their work id. Connected to #191

@@ -1,0 +1,3 @@
+Allow RDF triples download for each object in Sufia
+
+Also allow display the IIIF viewer in various format.

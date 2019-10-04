@@ -1,0 +1,2 @@
+Cleaning up ChangeSetPersister
+Description Our change set persister had some methods that weren't being used or that we don't need anymore.

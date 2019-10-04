@@ -1,0 +1,2 @@
+Adding Citations to NumismaticAccessions
+Fixes #2221

@@ -1,0 +1,2 @@
+Standardizes attaching files in features.
+Always uses a within block, and adds visibility: false, wait: 10 to each #attach_file

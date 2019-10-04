@@ -1,0 +1,2 @@
+Run characterizejob on pmf
+Make sure only pmf is characterized and file metadata properties are not appended/overwritten with characterization results for different types of files

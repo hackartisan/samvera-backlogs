@@ -1,0 +1,2 @@
+Add Zizia UI
+This adds the Zizia UI to import records from a CSV. Right now this is based on the simple ModularImporter in the current code base. An example of the kind of CSV that can be imported is located in spec/fixtures/zizia_basic.csv To access the UI click on 'Import Content From a CSV' in the dashboard or go to /csv_imports/new

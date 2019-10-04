@@ -1,0 +1,2 @@
+Prevents "Apply Changes" from being hidden in OrderManager
+fixes #1294 Tightens up form so that "Apply Changes" is not hidden on smaller screens when using foliation options.

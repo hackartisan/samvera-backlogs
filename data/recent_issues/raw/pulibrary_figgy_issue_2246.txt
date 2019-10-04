@@ -1,0 +1,2 @@
+Add an image id to manifests
+it should be modeled after the canvas id and look like, e.g.: https://figgy.princeton.edu/concern/scanned_resources/[resource_id]/manifest/image/[fileset_id]

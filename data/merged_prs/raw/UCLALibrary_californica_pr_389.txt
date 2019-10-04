@@ -1,0 +1,2 @@
+Update README.md
+removed bit about git submodules, which we aren't using

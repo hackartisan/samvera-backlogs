@@ -1,0 +1,1 @@
+Add 'Ephemera box' field to folder edit form, fixes #1143

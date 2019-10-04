@@ -1,0 +1,2 @@
+Enable code coverage with Code Climate
+Description Enables code coverage reports via Code Climate.

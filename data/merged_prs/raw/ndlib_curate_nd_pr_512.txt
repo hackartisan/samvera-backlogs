@@ -1,0 +1,2 @@
+DLTP-379 DOI-Indexing-Type-Change
+DLTP-379 DOI-Indexing-Type-Change @7eb7f1588eb0767c9fa3365fc77438d9d68adeaa Adding facetable type to the identifier field to index as string Replace identifier stored_searchable with facetable, so that we search for exact match

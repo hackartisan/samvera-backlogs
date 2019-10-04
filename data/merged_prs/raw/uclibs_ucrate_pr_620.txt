@@ -1,0 +1,2 @@
+Refactors collections to use basic_collection_metadata mixin.
+Fixes #619 Present short summary (50 characters or less) This code allows Collections to use their own BasicMetadata mixin for establishing predicates.

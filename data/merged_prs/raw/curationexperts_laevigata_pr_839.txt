@@ -1,0 +1,2 @@
+separating primary and supplemental fileset view logic
+Fixes #728.

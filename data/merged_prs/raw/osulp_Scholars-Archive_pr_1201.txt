@@ -1,0 +1,2 @@
+removes jerk turbolinks
+Fixes #1136 Turbolinks once again causing unwanted side effects in our app.

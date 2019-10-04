@@ -1,0 +1,2 @@
+Feature/set up marmotta
+This sets up Marmotta for scholars archive. To download the proper version of jetty 'marmotta-jetty' run rm -rf /jetty rake jetty:clean rake sufia:jetty:config  Then bundle install. This also utilizes the marmotta gem for ease of use.

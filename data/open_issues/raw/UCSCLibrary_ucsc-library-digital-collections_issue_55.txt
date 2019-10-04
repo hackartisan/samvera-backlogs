@@ -1,0 +1,2 @@
+Old metadata not being indexed correctly for lectures and courses
+Lectures and courses that were ingested using the old metadata schema are now experiencing errors with the new schema (and scoobysnacks). Some important metadata elements (e.g. date_created) are not being indexed in Solr. The work show page cannot display the object's metadata, and the work edit page also shows an incomplete and confusing set of metadata elements. The solution is to implement ScoobySnacks on these work types, so that everything uses the same system.

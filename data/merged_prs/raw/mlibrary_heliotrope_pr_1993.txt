@@ -1,0 +1,1 @@
+minor fix for add_press_to_counter_report rake task

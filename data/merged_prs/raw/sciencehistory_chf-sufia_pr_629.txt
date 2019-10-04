@@ -1,0 +1,2 @@
+Fix characterization
+refs #624; before the issue can be closed we need to run the new task

@@ -1,0 +1,2 @@
+Add Search (Collections) to the landing page (to be added to Browse Collections) or just Search … Browse.
+Descriptive summary • put search bar on main home page below browse button • put browse button on header like in scholar

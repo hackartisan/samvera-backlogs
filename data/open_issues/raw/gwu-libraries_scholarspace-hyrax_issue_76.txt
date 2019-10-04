@@ -1,0 +1,2 @@
+Add author to items in featured works
+Ref. #74 - this is a followup, as author wasn't as easy to add

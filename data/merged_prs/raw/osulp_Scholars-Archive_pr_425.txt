@@ -1,0 +1,2 @@
+Adds default value to new form
+Fixes #371

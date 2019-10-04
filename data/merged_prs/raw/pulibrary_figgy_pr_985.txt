@@ -1,0 +1,2 @@
+Fixes seeAlso links in manifests.
+Closes #984

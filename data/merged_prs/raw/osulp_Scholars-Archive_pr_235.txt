@@ -1,0 +1,2 @@
+Feature/finished embargo
+This is all the necessary code to allow for embargoes in Scholars Archive. The system will automatically detect when an embargo has run out and flag it as needing to be processed. Then one can run a rake task to process said expired embargoes. This also does some various formatting as well as adds a date picker in for use. Fixes #227 Fixes #228 Fixes #229 Fixes #230 Fixes #232

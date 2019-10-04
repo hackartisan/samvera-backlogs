@@ -1,0 +1,2 @@
+Checkbox or pulldown for public domain or Creative Commons works filtering
+As a way to highlight our open content, a checkbox or pull down menu would be added at or near the top of the home page, advanced search, and search results page in addition to the Rights facet. It would provide functionality like the OD1 relevancy pull-down. It would need to limit the items returned by public domain, any CC license, or both.

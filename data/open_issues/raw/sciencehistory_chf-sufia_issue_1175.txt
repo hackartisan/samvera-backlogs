@@ -1,0 +1,6 @@
+Bug: attempting to delete a fileset when it's already in the process of being deleted
+Deleting a fileset takes some time — If the fileset is one of dozens attached to a work (e.g. Ramelli), it will often take well over a minute. Further requests to delete a fileset that is already in the process of being deleted should be handled gracefully. For instance, we might want to show an alert reassuring the user that the fileset is already on its way to the trash. However, at the moment, it's possible to trigger the following server error: https://app.honeybadger.io/projects/53196/faults/40841474
+Other allied bugs:  https://app.honeybadger.io/projects/53196/faults/40845087  https://app.honeybadger.io/projects/53196/faults/40845847
+Thanks for diagnosing. This is probably gonna be really hard to fix. 
+Likely.  Also worth noting: - the fileset does eventually end up getting deleted anyway in all cases - none of this affects the non-logged-in user
+Also I believe we very rarely if ever actually delete things in production, heh. 

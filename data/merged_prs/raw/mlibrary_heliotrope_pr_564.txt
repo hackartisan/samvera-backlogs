@@ -1,0 +1,2 @@
+Resolves #524: Fixed indentation on description copy field.
+When label is empty span 2 columns.

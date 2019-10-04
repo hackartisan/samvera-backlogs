@@ -1,0 +1,2 @@
+Adjust travis remove new ui false
+These commits remove the new_ui false builds from our Travis matrix and add a controller test for read-only mode, to replace the read-only feature test that can't run when new_ui is true.

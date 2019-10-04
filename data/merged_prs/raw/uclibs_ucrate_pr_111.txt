@@ -1,0 +1,2 @@
+Update to Hyrax v2.1.0.beta1
+Fixes #107 Update out version of Hyrax to version v2.1.0.beta1 I manually tested creation and editing a work and a collection and all seemed good. Changes proposed in this pull request:  Update Hyrax version

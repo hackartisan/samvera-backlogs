@@ -1,0 +1,2 @@
+Add layout and basic UI to preview page
+This adds alert styling to the preview page to make the warnings and errors more distinct. This adds basic bootstrap layouts to some of the forms. We can rearrange these later if need be, but this will get us some layout building blocks that we can rearrange. Connected to #87

@@ -1,0 +1,2 @@
+Document required CSV fields for californica
+Documentation is maintained in a markdown file It is rendered via a custom redcarpet method to create a linkable table of contents  Connected to #511

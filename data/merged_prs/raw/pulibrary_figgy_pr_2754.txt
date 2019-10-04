@@ -1,0 +1,2 @@
+Enables users to disable the downloading of resources within the Universal Viewer
+Resolves #2628 by addressing the following:  Providing downloadable behavior for ResourceDecorators Ensuring that the downloadable attribute is set to a controlled vocabulary Adding downloadable as a common attributes, as an attribute for EphemeraBoxes, EphemeraFolders, FileSets, MediaResources, NumismaticIssues, Playlists, RasterResources, ScannedMaps, Recording, VectorResources

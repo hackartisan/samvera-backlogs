@@ -1,0 +1,2 @@
+Add component to AWARE object (bb7068315z)
+Descriptive summary Add a new component to the object bb7068315z. Tasks The new component will be the 5th component, titled "FTIR Baselined Spectra". The file for this component is on staging at: //rdcp-staging/rdcp-0109-aware/Working_Files/Data from Lynn 2019-05-23/Baselined_spectra_AWARE.txt The new component order then will be:  FTIR Plot Data XRF Plot Data FTIR Baselined Spectra  Related work ucsdlib/dams-metadata/issues/132

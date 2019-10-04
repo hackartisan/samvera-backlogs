@@ -1,0 +1,2 @@
+Add favicon
+Requested by @rlskoeser:  Would be nice to have [Figgy] be recognizable in my browser tab list.

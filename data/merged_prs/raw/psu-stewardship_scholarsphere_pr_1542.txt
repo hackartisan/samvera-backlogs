@@ -1,0 +1,2 @@
+Added a class to process the Creator spreadsheet
+The class will read in a file and create a list of items to be processed, either split, combined, or modified.  It will also process each item from the list.

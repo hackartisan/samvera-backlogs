@@ -1,0 +1,1 @@
+update sinatra for CVE-2018-11627

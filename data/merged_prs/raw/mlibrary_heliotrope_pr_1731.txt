@@ -1,0 +1,1 @@
+Resolves #1604: Paywall REST API Implementation

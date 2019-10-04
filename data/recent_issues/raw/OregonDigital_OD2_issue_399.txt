@@ -1,0 +1,2 @@
+Create a minor but friendly offline (and lie-fi) experience. 
+Descriptive summary When offline or in a less-than-good wi-fi (lie-fi) experience, I'd like a friendly notice from Oregon Digital of my current status and how it might impact my use of OD. Expected behavior Build in paint order and cache use to create a helpful experience. Related work Link to related tickets or prior related work here.

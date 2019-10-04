@@ -1,0 +1,2 @@
+Remove therubyracer
+therubyracer doesn't play nicely with sidekiq and we should be relying on node.js these days

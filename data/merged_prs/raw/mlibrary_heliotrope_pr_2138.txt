@@ -1,0 +1,2 @@
+Resolves HELIO-2371 Checkpoint Upgrade
+Rake task to create 'individuals' from 'lessees' that are not 'institutions'.

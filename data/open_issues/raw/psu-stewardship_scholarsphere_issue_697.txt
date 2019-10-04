@@ -1,0 +1,3 @@
+Use CurationConcerns.config.working_path in VersionBuilder
+VersionBuilder uses the default tmp/uploads directory, which is the same as CurationConcerns.config.working_path. Should we use the config or create a separate directory?
+Change the hard coded 'tmp/upload' to use CurationConcerns.config.working_path which must be a shared directory.

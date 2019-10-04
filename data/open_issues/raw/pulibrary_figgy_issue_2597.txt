@@ -1,0 +1,2 @@
+UV errors if you select the first volume of a MVW right after it loads
+Reported by Tom V.  When the Universal Viewer first loads, if I click the volume currently displayed (redundant I know, but it is somewhat instinctive for me and perhaps other users), the viewer goes to black and loads indefinitely.  I have found this to be the case in both Figgy and Blacklight  You can see the behavior here: https://figgy.princeton.edu/catalog/07db554e-6588-4d55-951f-7643a5c9c463 Right after it loads just click "1"

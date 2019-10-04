@@ -1,0 +1,2 @@
+facet items update
+change which items to facet in hyrax creator contributor date (which is year) project center degreee publisher language department location (based near) collection resource type subject advisor sponsor REMOVE file format keyword series

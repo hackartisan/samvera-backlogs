@@ -1,0 +1,2 @@
+Cleanup after deploy
+Afterward:   Remove old solr collection (or rename it to hydrus-prod-green)  #140  decommission old test & prod servers.  Cert problem on stage: https://app.honeybadger.io/projects/49897/faults/34301033 sul-dlss/shared_configs#341  Add symlink from ./hydrus/shared/public/uploads to /data/hydrus-files  configure stage to show the test banner. sul-dlss/shared_configs#340  figure out SLA and checks soon

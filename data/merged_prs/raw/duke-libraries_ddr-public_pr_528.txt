@@ -1,0 +1,1 @@
+Add dropdown for item with documents; add sidebar hierarchy.

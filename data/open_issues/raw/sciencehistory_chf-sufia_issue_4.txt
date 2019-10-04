@@ -1,0 +1,3 @@
+Data validation: date
+Limit date entry to YYYY-MM-DD, YYYY-MM, or YYYY (TBD with committee) Questions exist beyond the straightforward examples given above, e.g. circa, unknown dates, ranges, etc.
+Other things we might want to disallow:  * A "finish" date before a "start" date * A "qualifier" without a date itself.  * A start date with a century/decade qualifier maybe requires a blank finish date? * "Undated" with a date * "Undated" in start date, with a finish date * More?  There are a variety of ways a cataloger could enter ambiguous or impossible to interpret data at present. 

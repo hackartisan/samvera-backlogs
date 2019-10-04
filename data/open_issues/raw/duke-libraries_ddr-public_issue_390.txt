@@ -1,0 +1,3 @@
+Download links should provide browser-specific instructions
+When using the download buttons for digital collections -- especially for audio or video items -- it'd be helpful to display browser-specific instructions for Right-Click > Save Target As and equivalents. E.g., in IE11, when you simply left-click a link to an MP3 or MP4 file, Windows tries to launch Windows Media Player, which is problematic. Related issue: #344
+Instructions would go somewhere in the dropdown box after someone clicked "Download"... ![screen shot 2016-05-16 at 2 12 47 pm](https://cloud.githubusercontent.com/assets/3933756/15299241/85732388-1b71-11e6-907e-625e0e77a937.png) 

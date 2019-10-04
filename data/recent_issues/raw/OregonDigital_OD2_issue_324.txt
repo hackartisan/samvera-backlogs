@@ -1,0 +1,2 @@
+Work on integrating Triplestore as tightly with hyrax as possible
+Descriptive summary Currently, on persist, the object being indexed will persist to a triplestore as well. we should try and adhere to this pattern to stick as closely with hyrax as possible.

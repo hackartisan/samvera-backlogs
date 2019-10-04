@@ -1,0 +1,2 @@
+Lookup recording bibs on user-provided csv
+resolves #2264

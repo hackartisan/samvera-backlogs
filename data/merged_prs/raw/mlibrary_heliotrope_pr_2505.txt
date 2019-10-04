@@ -1,0 +1,2 @@
+disable unneeded Hyrax features
+HELIO-2700

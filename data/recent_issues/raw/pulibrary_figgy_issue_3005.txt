@@ -1,0 +1,2 @@
+Stop Using jsdelivr.net ?
+We had an issue with the player failing to load that we think was related to the jsdelivr.net CDN. Could we easily cache and serve content out of figgy instead of using the CDN? Should we?

@@ -1,0 +1,2 @@
+Removing file uploads for resource edit forms
+Resolves #1261

@@ -1,0 +1,2 @@
+Introduces a SolrFacadeService for querying Solr for Collection Members and renders these on the View partial
+Resolves #592 by introducing a SolrFacadeService for querying Solr for Collection members and extending the Resource view partials for rendering these members (and linking to Collections from member Resource templates)

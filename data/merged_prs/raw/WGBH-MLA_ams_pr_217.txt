@@ -1,0 +1,2 @@
+Don't argue with !important
+My original PR for this removed an !important flag from this CSS. Adding it back to hopefully make it work on edge. Works locally without it, though.

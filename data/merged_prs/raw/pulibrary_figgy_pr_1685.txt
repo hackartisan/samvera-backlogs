@@ -1,0 +1,2 @@
+Providing the MODEL parameter for the bulk:ingest and bulk:attach_each_dir Rake tasks
+Resolves #1681

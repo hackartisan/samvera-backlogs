@@ -1,0 +1,3 @@
+Cap whenever schedule task links to scripts stored on the server
+These two lines break our current mold for keeping the scripts in git.  @informaticianme and I noticed this when updating for the new servers. Not sure if this was done for a reason, or it was just done before we ket the scripts in git.  We need to evaluate  this and determine if it is needed. https://github.com/psu-stewardship/scholarsphere/blob/develop/config/schedule.rb#L9 https://github.com/psu-stewardship/scholarsphere/blob/develop/config/schedule.rb#L17
+If the opportunity presents itself, I'd like to work on this ticket. Assigning myself for now, can be reassigned later if needed.

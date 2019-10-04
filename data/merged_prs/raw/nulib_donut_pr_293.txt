@@ -1,0 +1,1 @@
+Extract in-memory validation from object_factory

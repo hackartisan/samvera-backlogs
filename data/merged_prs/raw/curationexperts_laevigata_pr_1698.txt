@@ -1,0 +1,2 @@
+Add a no script tag in the form view
+Adds a noscript tag to inform users that JS is required. Wording taken from #1691. Connected to #1691

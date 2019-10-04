@@ -1,0 +1,2 @@
+Replace Fixes in Pull Request template
+Descriptive summary This is causing confusion since work with Stakeholders is often not vetted. Having the ticket automatically close when PRs are closed seems to often cause more trouble than it provides value. So, we shouldn't have this as a default anymore.

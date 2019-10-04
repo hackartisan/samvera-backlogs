@@ -1,0 +1,1 @@
+Add rake task clean:development:all, closes #308

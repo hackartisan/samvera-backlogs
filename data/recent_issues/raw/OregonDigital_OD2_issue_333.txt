@@ -1,0 +1,2 @@
+Remove zero step workflow from OD2
+Descriptive summary We are not planning to use zero step workflows for OD2 so they should be removed/suppressed from the system.

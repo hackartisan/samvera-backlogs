@@ -1,0 +1,2 @@
+Unicode characters not displaying in "Sort by date uploaded" dropdown in search results
+Expected behavior Should see the unicode characters, not the encoding Accessibility Concerns No known accessibility impacts Screenshot:

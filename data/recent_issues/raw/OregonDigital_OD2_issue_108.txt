@@ -1,0 +1,2 @@
+Configure Image Work Type
+Descriptive summary Metadata, presenter, indexer all working

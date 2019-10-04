@@ -1,0 +1,2 @@
+Resolves HELIO-29: search by ISBN
+added isbn_tesim and isbn_ssim to search added specs for catalog controllers

@@ -1,0 +1,2 @@
+Cloud files not attaching 
+Descriptive summary Cloud files not attaching to items. Expected behavior Cloud files show up in list, load within edit form, and are saved to the record. Actual behavior You can select any number of files but when you click Submit, it says Loading and nothing happens. The screen returns to the Files tab and no files are shown as being uploaded. Nothing shows up on the show page after saving. Steps to reproduce the behavior  Go into edit for any item. Click Files tab. Select Add cloud files ... Select a file and click Submit.

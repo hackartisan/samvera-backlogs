@@ -1,0 +1,2 @@
+Add pcdm_use to uploaded_file and copy it to file set
+This will allow us to mark primary and supplementary files when they are uploaded, and persist that information after the files are attached to the work.

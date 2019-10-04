@@ -1,0 +1,2 @@
+update hover and underline
+Fixes #597

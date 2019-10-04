@@ -1,0 +1,2 @@
+Extends the PlaylistsController and ChangeSetPersister support for Playlists
+Progresses towards resolving #2080 by addressing the following:  Ensuring that Playlist ProxyFiles have their labels overridden by their proxied resources Ensuring that Playlists use the DraftCompleteWorkflow Ensuring that Playlists can be added by users Ensuring that clients can add and remove ProxyFiles as members of Playlists in the PlaylistsController Ensuring that Playlists and ProxyFiles are suppressed from search results

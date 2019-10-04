@@ -1,0 +1,2 @@
+Install Niftany
+Description Uses the Niftany gem to lint our code, make changes to match the new style regulations. Excludes changes to sass, which will be part of a separate commit. Why was this necessary? Brings our linting and Rubocop process more aligned with our other projects. Changes Are there any major changes in this PR that will change the release process? No Checklist   i18n enabled  adequate test coverage  accessible interface

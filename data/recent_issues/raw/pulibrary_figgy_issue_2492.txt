@@ -1,0 +1,2 @@
+Collection owner report should not error if there are owners associated that are not currently in the database
+Backtrace line 5 of [PROJECT_ROOT]/app/mailers/collections_mailer.rb: block in owner_report line 5 of [PROJECT_ROOT]/app/mailers/collections_mailer.rb: map line 5 of [PROJECT_ROOT]/app/mailers/collections_mailer.rb: owner_report  View full backtrace and more info at honeybadger.io

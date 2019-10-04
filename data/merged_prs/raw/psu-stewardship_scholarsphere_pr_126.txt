@@ -1,0 +1,2 @@
+Change from table rows without a table to unordered list.  fixes #112
+The old:  The new:

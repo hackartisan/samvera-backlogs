@@ -1,0 +1,2 @@
+Homepage UI refinement
+Add following components to homepage:  and add NCELP.org to menubar Add legal statements under logo’s. Hide Upload Resource and Help for now.

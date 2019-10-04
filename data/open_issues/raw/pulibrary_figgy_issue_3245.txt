@@ -1,0 +1,2 @@
+Sanborn map GeoBlacklight records have no date value
+Date values from Sanborn records do not have solr_year_i or dct_temporal_sm values. Example: https://figgy.princeton.edu/concern/scanned_maps/a016787f-e524-4125-961f-fb48f92bb9d3/geoblacklight This makes filtering our Sanborn collection by date very difficult.

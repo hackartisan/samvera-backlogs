@@ -1,0 +1,1 @@
+return 403 on show request for unpublished object; closes #14

@@ -1,0 +1,2 @@
+Configure blacklight sharing tools
+Need to configure the blacklight email, SMS, and cite sharing tools.

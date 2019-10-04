@@ -1,0 +1,2 @@
+2535_debug_extract_again
+Catching NoMemoryError in extract method. Also fixed error handling when upload fails.

@@ -1,0 +1,2 @@
+Mgmt: Metadata in search results
+The following fields should appear in the Californica search results (and any others should be removed):   Title  Description  Normalized Date  Resource Type

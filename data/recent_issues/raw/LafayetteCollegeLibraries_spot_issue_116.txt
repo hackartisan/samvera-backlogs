@@ -1,0 +1,2 @@
+update RecordImporter logger
+we currently don't have an info/error stream setup for our darlingtonia implementation, resulting in the info being written to STDOUT (the default). a hitch is that we can't use something like RecordImporter.new(info_stream: logger.info, error_stream: logger.warn) because the streams are expected to receive the shovel (<<) operator. a possible solution might be to write a logger that defines a << method that writes to the appropriate stream?

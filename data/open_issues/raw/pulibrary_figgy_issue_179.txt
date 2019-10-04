@@ -1,0 +1,1 @@
+Structure editor lacks visual cues for how to drag/collapse/etc. sections

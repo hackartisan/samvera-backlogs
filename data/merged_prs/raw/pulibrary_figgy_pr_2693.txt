@@ -1,0 +1,2 @@
+Update bootstrap-sass
+Closes #2687

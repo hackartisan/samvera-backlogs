@@ -1,0 +1,2 @@
+Refine item ingest script to add items to a workflow
+Descriptive summary In the ingest script, when items are generated, they need to be added to the default workflow, so that when they are used by the system, they can display properly. If you ingest an item from the command line, it doesnt get added to a workflow automatically, so it needs to be done manually in the script.

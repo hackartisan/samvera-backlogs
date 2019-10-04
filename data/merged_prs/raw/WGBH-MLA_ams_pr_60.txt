@@ -1,0 +1,2 @@
+Adds rake task for resetting a clean dev env
+Resets database, clears out Fedora and Solr, and creates the default admin set.

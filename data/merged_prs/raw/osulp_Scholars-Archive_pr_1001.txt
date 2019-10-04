@@ -1,0 +1,2 @@
+Change to isPartOf_ssim for OAI Admin Set.
+Do solr lookup for Admin Set title. Fixes #1000

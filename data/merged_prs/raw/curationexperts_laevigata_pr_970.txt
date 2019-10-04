@@ -1,0 +1,2 @@
+Clear capistrano tasks before re-defining them
+Otherwise they run twice and we end up with extra copies of sidekiq running. Also, fix a typo and remove unused cap task.

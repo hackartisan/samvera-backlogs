@@ -1,0 +1,2 @@
+Search List view: Field rendering pipelines
+Fixes #683 Depends on #719 and will require conflict resolution.

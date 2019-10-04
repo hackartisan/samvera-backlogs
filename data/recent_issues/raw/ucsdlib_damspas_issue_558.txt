@@ -1,0 +1,2 @@
+Update DAMS to no longer use SecureToken
+Descriptive summary SecureToken removed from DMR which was causing problems. Since then we have had virtually no reports of videos not playing. To try to stay consistent with apps, remove SecureToken from DAMS PAS. Not sure why we were using it to begin with.

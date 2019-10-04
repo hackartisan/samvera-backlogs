@@ -1,0 +1,2 @@
+Tests for XML Generation
+Small fixes to xml generation code and a little clean up Test for the overall creation of a basic xml document Unit test for methods used within the larger recursive method

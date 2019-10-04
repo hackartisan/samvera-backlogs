@@ -1,0 +1,2 @@
+update cozy sun bear
+Update CSB to latest ref; updates include search UX improvements, jquery cleanup, and CSB now emits a resized event when the browser is resized.

@@ -1,0 +1,2 @@
+Ensures that numismatic controllers handle cases where persisted NumismaticMonograms cannot be retrieved
+Resolves #2573

@@ -1,0 +1,2 @@
+helper method for skipping specs in ci
+might want this method to use like this: scenario "Miranda previews, agrees to Emory submission policy and submits her ETD", js: true, unless: continuous_integration? do ... end

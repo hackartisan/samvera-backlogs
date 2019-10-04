@@ -1,0 +1,2 @@
+Update Attach/Detach UI for Coins/NumismaticIssues
+You should not be able to detach a coin from an numismatic issue — you should have to pick a new issue to attach it to, so a coin is never floating around without being linked to an issue.

@@ -1,0 +1,2 @@
+updated default_from in mailboxer initializer
+fixes #730

@@ -1,0 +1,2 @@
+Configures local controlled vocabs
+Closes #138

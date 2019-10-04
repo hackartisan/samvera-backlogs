@@ -1,0 +1,1 @@
+Fixes #1007 press dropdown font colors

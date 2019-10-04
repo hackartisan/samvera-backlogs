@@ -1,0 +1,2 @@
+Parameterizing CAS configuration
+Moving the CAS configuration parameters into application.yml allows us to deploy different configurations to each environment. It also sets us up to scrub ND-specific CAS information from the repo.

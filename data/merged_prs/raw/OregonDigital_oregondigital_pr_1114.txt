@@ -1,0 +1,2 @@
+Fix/docker again
+Adds some scripts for doing various cleaning tasks, ensures the test database is migrated, and makes "docker-compose up" automatically pull any necessary images, simplifying setup.

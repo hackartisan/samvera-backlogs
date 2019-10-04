@@ -1,0 +1,2 @@
+Update Curation Concerns or Hyrax for JQuery Vulnerabilities
+Unable to update the jQuery because we are on the latest Curation Concerns (1.7.8) that does NOT require a migration with reverse membership. Upgrading to CC 2.0 would require the relationship change and a migration to update jQuery. This is not ideal at this point in time. refs #1462

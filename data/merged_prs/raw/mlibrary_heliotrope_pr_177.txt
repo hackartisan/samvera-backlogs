@@ -1,0 +1,2 @@
+Section access rights 81
+Sections should have visibility controls the same ways monographs do. New sections will use this visibility, or if it doesn't have one, will default to the same visibility as it's monograph. This resolves #81

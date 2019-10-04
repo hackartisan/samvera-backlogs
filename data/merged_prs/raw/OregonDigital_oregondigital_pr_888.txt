@@ -1,0 +1,2 @@
+fixing translator field
+#887

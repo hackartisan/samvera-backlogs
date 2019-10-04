@@ -1,0 +1,2 @@
+after deleting a fileset redirect to the parent
+closes #3013

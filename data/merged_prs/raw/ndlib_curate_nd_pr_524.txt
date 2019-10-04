@@ -1,0 +1,2 @@
+DLTP-585 (Spatial/Temporal in Collections)
+Really basic, based on convos about contributions with Jeremy, reading code, and drawing inferences. Gearing up with a few small edits like these before big pushes on things like Articles.

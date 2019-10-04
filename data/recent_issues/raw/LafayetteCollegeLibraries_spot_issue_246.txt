@@ -1,0 +1,2 @@
+refactor/cleanup ingest code
+code related to ingesting items is kinda all over the place; we've got a range of importers/mappers/etc. for implementing darlingtonia, and two jobs, one that calls the other + is filled with setup code. maybe we can consolidate this down to an ingest service that the job calls (if memory serves, best-practices are to keep yr jobs simple + use services).

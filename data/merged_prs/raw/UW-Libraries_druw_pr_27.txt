@@ -1,0 +1,2 @@
+Add rake task for data import
+Import data from a DSpace export in zip format Run: bundle exec rake 'import:dspace[ZIPFILE, EXISTING_DRUW_USER_ID]

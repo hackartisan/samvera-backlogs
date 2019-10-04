@@ -1,0 +1,2 @@
+Update CSV Field Guide with Headers (from Langmuir)
+STORY As a Library Staff Depositor, I would like a place to lookup the proper field names to use in my CSV import file, so that I can construct a manifest that can be imported successfully. ACCEPTANCE   The field names for the importer (see PR #412) are listed in the CSV field guide linked to from the dashboard at /csv_imports/new by clicking on the "CSV Field Guide" button (which opening the document at the /importer_documentation/guide)

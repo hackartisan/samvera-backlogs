@@ -1,0 +1,2 @@
+Feature/add thumbnails
+UI is definitely not awesome.  Functionality seems to work though.

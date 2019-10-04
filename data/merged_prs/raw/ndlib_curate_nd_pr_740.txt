@@ -1,0 +1,2 @@
+Removing (+) icon for expanding read more
+Based on discussions for DLTP-1523, we're removing the expand/collapse javascript behavior. We already limit the abstract to 500 characters. The javascript behavior does not add much to the overall experience.

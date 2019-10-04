@@ -1,0 +1,2 @@
+Added list of SEO or Ad bots to block to robots file
+Closes #1271 This may take a few days from being pushed out until we see any notable changes.

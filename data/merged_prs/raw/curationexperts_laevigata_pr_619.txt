@@ -1,0 +1,2 @@
+Add the SVG logo / form styles
+Closes #584 Closes #590 Closes #591

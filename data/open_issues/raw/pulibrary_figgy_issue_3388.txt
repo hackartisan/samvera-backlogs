@@ -1,0 +1,2 @@
+I would like to add multiple collections to ephemera in figgy
+It will be essential to be able to associate an ephemera item with multiple collections, as one can with other title only/marc record/finding aid items in figgy.  @escowles I think this should be a high priority--do you agree?

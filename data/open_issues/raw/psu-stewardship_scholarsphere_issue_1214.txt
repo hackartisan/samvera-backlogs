@@ -1,0 +1,2 @@
+Remove Mustache
+with much thought (#1027) we have decided a singular way is better (easier to migrate).  We should remove the mustache templates and go with simple form.

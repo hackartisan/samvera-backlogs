@@ -1,0 +1,2 @@
+Rake task for granting access to all museum images to a new user.
+Because of this bug #1192 , plus the limitations of the Sufia UI, there's no practical way to grant mass edit access to a category of records to a new user. This is a band-aid intended to tide us over until we can switch to the new system and we have a sane permissions system again.

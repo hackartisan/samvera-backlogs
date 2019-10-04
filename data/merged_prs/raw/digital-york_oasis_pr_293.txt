@@ -1,0 +1,2 @@
+Reorder menu tabs
+Follow up to #291  reorder tab order add new menu template

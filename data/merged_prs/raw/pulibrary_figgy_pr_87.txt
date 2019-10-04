@@ -1,0 +1,2 @@
+Clean up membership associations on delete.
+Closes #85.

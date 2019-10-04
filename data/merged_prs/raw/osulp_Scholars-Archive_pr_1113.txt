@@ -1,0 +1,2 @@
+added sitemap gem
+fixes #1109

@@ -1,0 +1,2 @@
+Simplify DAMS Resource #can's
+@escowles This came up while I was doing a brief demo of the dams auth code last week, and I realized how identical these #can create methods were for the DAMS Resource models. Since I had this done locally, I figured I'd setup a PR to get your thoughts.

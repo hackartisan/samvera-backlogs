@@ -1,0 +1,2 @@
+Determine if server environment upgrades are needed
+Descriptive summary We rebuilt the Scholar servers over a years ago.  So we should check to see if updates are needed to the stack components.  Determine if "MINOR" updates are available. Open a separate issue for each component needing an upgrade.  Note what has changed in the updated version of the component.  Possible components needing updates:  Fedora (currently 4.7.1) Fits Redis (currently 2.8.3) ruby Solr (currently 6.6.1) LibreOffice (currently 5.4.2) ffmpeg ImageMagick (currently 6.9.9.18)

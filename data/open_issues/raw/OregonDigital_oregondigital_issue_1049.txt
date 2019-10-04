@@ -1,0 +1,2 @@
+Discuss possible logging options
+Discuss possible logging options for edits to items (logfile, DB, Papertrail, etc.) - a logfile would be pretty quick to add, with email and pid - database for quick filtering From 8/18/16 meeting at UO

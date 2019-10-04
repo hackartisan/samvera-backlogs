@@ -1,0 +1,2 @@
+gdal not loading on lib-proc2
+needs to be uninstalled / reinstalled?

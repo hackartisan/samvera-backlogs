@@ -1,0 +1,2 @@
+Updates `browse-everything` from upstream for ordering file entries
+Resolves #1184

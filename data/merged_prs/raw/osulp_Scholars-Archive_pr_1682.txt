@@ -1,0 +1,1 @@
+Adds back in creator and contributor as faceted fields

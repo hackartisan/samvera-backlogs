@@ -1,0 +1,4 @@
+derivatives/uploads folder not created during deploy
+This folder needs to be created for the banner upload functionality to work in Californica. The folder is: /opt/derivatives/uploads This folder should be created by the appropriate ansible role.
+@little9 the /opt/derivatives/uploads directory was created on prod/stage/dev/test in our environment to move /opt/uploads (via symlink) to a partition with more capacity (on the NetApp). The default location, however, is /opt/uploads.  Can you clarify why this needs to be to be in /opt/derivatives/uploads rather than /opt/uploads?
+@croft103 the banner upload code in Hyrax is using that path, if the symlink is working correctly and the process that's running Hyrax has permission to write to it, then it should work. I'll try logging in an uploading a banner and see if I run into any problems. 

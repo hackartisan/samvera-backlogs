@@ -1,0 +1,2 @@
+Makes notes visible
+Could you please make the notes field publicly visible in the summary details view? We are using it, for example, to inform people when authors weren't contactable and we therefore couldn't ask for their approval.

@@ -1,0 +1,2 @@
+Adding a comment to .ruumba.yml about unapplicable cops
+This is just a tiny PR that will hopefully make #1212 easier to work on.

@@ -1,0 +1,2 @@
+Update ddr-models to v3.0.4; Closes #447
+Run "bundle install" in ddr-public to update ddr-models. This update requires dul-hydra v5.0.8 or greater. To update your local development copy of dul-hydra: cd dul-hydra git fetch git checkout v5.0.8 bundle install rails c ActiveFedora::Base.reindex_everything

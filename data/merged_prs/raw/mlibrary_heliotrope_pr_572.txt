@@ -1,0 +1,2 @@
+consolidate labels, tidy FileSet form
+Resolves #561

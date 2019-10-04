@@ -1,0 +1,2 @@
+Remove temporary bag when retrying job
+This will remove the working bag when recovering from a bagging job error. If this isn't removed it could cause problems when trying to create the bag again. Connected to #266

@@ -1,0 +1,2 @@
+add ingest via unpaywall?
+jon m. introduced me to this site, which might be a useful way to harvest metadata for items via DOIs (where applicable)

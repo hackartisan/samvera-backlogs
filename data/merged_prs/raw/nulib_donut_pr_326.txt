@@ -1,0 +1,2 @@
+Add common_indexer gem and include CommonIndexer in Image model
+Use released version and update Image#to_common_index Remove SQSD; add Kibana to docker dev Move to_common_index to a mixin Support complex mappings Add common indexing service Use released browse-everything

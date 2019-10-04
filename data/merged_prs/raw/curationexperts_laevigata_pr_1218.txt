@@ -1,0 +1,2 @@
+Update datatable styling and embargo titles
+The css changes will apply to all data tables across the application. They reposition the sort controls to the immediate left of each column title. The localization changes provide shorter column titles for the embargo views. Connected to #1159

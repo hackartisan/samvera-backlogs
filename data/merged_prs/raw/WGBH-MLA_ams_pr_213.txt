@@ -1,0 +1,2 @@
+Finalizes player display on asset#show
+Stores frame_height and frame_width in DigitalInstantiationActor Adds top level empty range for iiif_av Only uses Hyrax::IiifAv::ManifestRange if we have media

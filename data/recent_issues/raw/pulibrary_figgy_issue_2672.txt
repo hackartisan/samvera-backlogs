@@ -1,0 +1,1 @@
+Remove Order manager button from monograms

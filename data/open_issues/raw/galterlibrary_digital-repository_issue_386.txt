@@ -1,0 +1,5 @@
+Dropbox api limits are reached
+Need to apply to increase user limit or something.
+User limit bumped to 100, applied for production. 
+Production was declined, have to create test account for Dropbox. Will re-apply if user limit is ever reached. 
+We can submit a screen-cast instead of allowing access. They don't do it for security. 

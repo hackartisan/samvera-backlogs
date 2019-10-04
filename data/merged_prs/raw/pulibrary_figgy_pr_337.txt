@@ -1,0 +1,1 @@
+Changing default rights statement, adding support for setting state of ingested items

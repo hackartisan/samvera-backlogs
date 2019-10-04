@@ -1,0 +1,2 @@
+Adding DAMS5 view to objects, cleaning up routes & auth, adding tests (DHH-584)
+Addresses https://lib-jira.ucsd.edu:8443/browse/DHH-584

@@ -1,0 +1,2 @@
+Consider switching to Puma and Nginx for servers
+Descriptive summary Hyrax 2.x has some problems with notifications under Passenger.  Sounds like the Samvera community is moving more towards Puma/Nginx instead of Passenger/Apache. See https://github.com/samvera/hyrax/wiki/Hyrax-Management-Guide#notifications "Puma is multithreaded, like Passenger Enterprise.  So it should handle more concurrency with the much less memory."

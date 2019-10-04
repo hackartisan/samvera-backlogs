@@ -1,0 +1,2 @@
+update travis rvm version and remove phantomjs
+Fixes #511 Update Travis configuration. Changes proposed in this pull request:  Remove obsolete phantomjs configuration Update rvm version from 2.5.1 to 2.5.3

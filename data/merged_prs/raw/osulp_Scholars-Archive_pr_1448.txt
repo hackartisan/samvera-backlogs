@@ -1,0 +1,2 @@
+reworks HTTP header based API authentication
+fixes #1603

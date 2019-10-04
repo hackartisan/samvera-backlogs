@@ -1,0 +1,2 @@
+added strikethrough markdown support, #326
+resolves #326

@@ -1,0 +1,2 @@
+New dropdown label for 'Exhibition' field 
+Label: "Object Explorer"

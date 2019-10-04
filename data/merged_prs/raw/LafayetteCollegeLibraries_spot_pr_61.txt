@@ -1,0 +1,2 @@
+add controller for handle/hdl requests
+adds a controller to redirect requests for /handle/<identifier> to their respective Publications, if exist. closes #34

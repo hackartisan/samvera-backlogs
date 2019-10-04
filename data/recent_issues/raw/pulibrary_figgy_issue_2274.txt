@@ -1,0 +1,2 @@
+BulkIngestService should handle Folders from cloud storage providers (e. g. Google Drive)
+Backtrace line 44 of [PROJECT_ROOT]/app/services/bulk_ingest_service.rb: attach_dir line 13 of [PROJECT_ROOT]/app/jobs/ingest_folder_job.rb: block in perform line 113 of [PROJECT_ROOT]/app/change_set_persisters/change_set_persister.rb: block (2 levels) in buffer_into_index  View full backtrace and more info at honeybadger.io

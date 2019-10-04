@@ -1,0 +1,2 @@
+Updating libv8 gem
+The previous locked version will not compile on El Capitan.

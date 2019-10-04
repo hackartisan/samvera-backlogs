@@ -1,0 +1,1 @@
+fix user email selection to use the method instead of hash lookup

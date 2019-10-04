@@ -1,0 +1,2 @@
+Resolve discard_flash_if_xhr deprecation warning
+See curationexperts/laevigata#1867

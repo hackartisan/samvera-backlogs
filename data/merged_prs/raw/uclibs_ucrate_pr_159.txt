@@ -1,0 +1,2 @@
+delete matrix in travis.yml
+Fixes #154

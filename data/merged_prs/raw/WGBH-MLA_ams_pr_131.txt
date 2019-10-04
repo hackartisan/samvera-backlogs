@@ -1,0 +1,2 @@
+448 search results
+Adds the desired data to catalog#index and fixes one bug with repopulating description fields when editing an asset and removes episode number from vocab for description types.

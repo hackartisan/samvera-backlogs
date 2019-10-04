@@ -1,0 +1,3 @@
+Improve Solr Indexing of Fuzzy Dates
+Currently, if a user enters a valid EDTF unknown date, such as 2002-11-uu, it is indexed by Solr as 2002-11-01. The exact date is unknown, but the month is known, Solr should cast this as a range for the entire month, e.g. 2002-11-01/2002-11-30. Enhancement to #267 Blocked by #723
+@rschenk, is this fixed in #1002?

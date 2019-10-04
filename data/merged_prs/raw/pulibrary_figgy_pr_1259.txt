@@ -1,0 +1,2 @@
+Don't run after commit change set handler on delete
+The after_commit handler runs a Characterize job for file sets and sends a file set created message. Neither of those are needed when deleting. Closes #773

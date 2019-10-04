@@ -1,0 +1,2 @@
+Turns off solr-suggest.
+Fixes #520 Present short summary (50 characters or less) Comments out suggestion search component in both of the solr config files.

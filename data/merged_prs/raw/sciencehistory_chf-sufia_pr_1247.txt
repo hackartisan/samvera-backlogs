@@ -1,0 +1,2 @@
+Display adjustments to provenance/provenance notes
+Several small changes to the feature in progress:  Added horizontal space under the show notes field Renamed the show notes link to read "Show notes" instead of Notes... Changed the html #id of the provenance notes div

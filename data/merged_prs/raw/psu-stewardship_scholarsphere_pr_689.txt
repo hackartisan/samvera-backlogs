@@ -1,0 +1,2 @@
+Update rubyzip to 1.2.1
+Patches due to https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2017-5946 Note: Duplicates 536529a because a hotfix merge was not possible.

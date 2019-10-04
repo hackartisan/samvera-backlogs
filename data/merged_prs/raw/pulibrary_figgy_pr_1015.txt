@@ -1,0 +1,2 @@
+Refactor geo thumbnail helper
+Rescue exception where thumbnail file set is missing Set max width for document thumbnail so default thumbnail displays properly  Closes #987

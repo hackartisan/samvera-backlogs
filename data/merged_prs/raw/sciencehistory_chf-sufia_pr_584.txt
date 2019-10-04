@@ -1,0 +1,2 @@
+Don't try to use custom collection media in admin, where apparently we don't have it yet.
+Fixes #582

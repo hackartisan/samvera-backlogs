@@ -1,0 +1,1 @@
+fixing incorrect path for collection in doc/sample_data.md

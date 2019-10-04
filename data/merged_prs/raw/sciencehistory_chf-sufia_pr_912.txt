@@ -1,0 +1,2 @@
+update tty-command gem
+piotrmurach/tty-command#37

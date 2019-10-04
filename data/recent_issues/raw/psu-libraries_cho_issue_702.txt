@@ -1,0 +1,2 @@
+Define some good abstractions for files in file sets
+We only store file ids in a file set, but we'll need to be able to pull a file, as well as it's content, from a file set. We could have methods such as files, original_file, or preservation, text, and so on to match the use types. But is that effective? It's also verbose. Maybe some metaprogramming might be useful here. See Work::FileSetIndexer for the current naive approach.

@@ -1,0 +1,2 @@
+Add a disabled default for department
+This adds a disabled default to the departments dropdown. Connected to #1695

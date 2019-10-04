@@ -1,0 +1,2 @@
+ignore OS X Directory Services files, RubyMine project dir
+ignore OS X Directory Services files, RubyMine project dir

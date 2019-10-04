@@ -1,0 +1,2 @@
+Investigate browser history
+adapt PDFReader to use epubcfi(page=N) as the internal "CFI" for PDFs notice that the next/previous buttons were actually firing multiple events because the Reader and PDFViewerApplication were binding to them; rework the controls so only PDFViewerApplication handles next/previous leverage monkeypatch to handle tracking contents navigation to handle when PDFViewerApplication was about to change the zoom by following a link

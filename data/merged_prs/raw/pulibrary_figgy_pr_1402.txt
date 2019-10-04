@@ -1,0 +1,2 @@
+Move bag validation from bag parser initializer to public method
+And use it in the ingest job, but not the barcode uniqueness validator; fixes #1393

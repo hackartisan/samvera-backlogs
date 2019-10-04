@@ -1,0 +1,2 @@
+Two-page PDF won't return to page 1 from page 2.
+For example: http://oregondigital.org/catalog/oregondigital:df66jb17r#page/1/mode/1up From the second page of a two-page PDF, one can't return to page one with the next and previous buttons.

@@ -1,0 +1,1 @@
+leverage bootstrap styles by moving button to last child

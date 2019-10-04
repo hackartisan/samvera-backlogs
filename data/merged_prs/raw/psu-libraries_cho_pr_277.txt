@@ -1,0 +1,2 @@
+Exempting view tests from Rubocop length restrictions
+This is to get master passing again. We can make this a default by adding these exemptions to our guides. I've put in a ticket to discuss if we want to make these changes standard: psu-stewardship/guides#7.

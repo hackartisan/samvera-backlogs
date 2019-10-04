@@ -1,0 +1,1 @@
+Re-order facets and adjust field names per spec in #308

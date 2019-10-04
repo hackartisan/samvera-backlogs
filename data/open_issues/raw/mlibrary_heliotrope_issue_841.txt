@@ -1,0 +1,4 @@
+Audit trail/tracking history
+As a platform admin, I should be able to see recent activity to any given publisher, monograph or asset. I should be able to see:   User name of person who made the change  The date of the change.  The area changed [publisher, monograph, or asset)  Would also be good to be able to see what field was changed, if possible.
+Research: what can we use from existing hydra projects (hyrax, blacklight, etc.) -- ie what database models exist in these projects that could be repurposed?
+See #897

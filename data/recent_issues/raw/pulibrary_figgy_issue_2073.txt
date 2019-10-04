@@ -1,0 +1,1 @@
+Add/Detach functionality does not work in Firefox

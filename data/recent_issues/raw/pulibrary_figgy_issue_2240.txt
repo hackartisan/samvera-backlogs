@@ -1,0 +1,2 @@
+number_in_accession missing
+Backtrace line 3 of [PROJECT_ROOT]/app/views/base/_form_metadata_inner.html.erb: block in _app_views_base__form_metadata_inner_html_erb__254820919640607498_96671980 line 2 of [PROJECT_ROOT]/app/views/base/_form_metadata_inner.html.erb: each line 2 of [PROJECT_ROOT]/app/views/base/_form_metadata_inner.html.erb: _app_views_base__form_metadata_inner_html_erb__254820919640607498_96671980  View full backtrace and more info at honeybadger.io

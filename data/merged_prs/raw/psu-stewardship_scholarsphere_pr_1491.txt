@@ -1,0 +1,2 @@
+Use mini_racer instead of therubyracer
+The mini_racer gem fulfils the same requirements as therubyracer for our needs, but is lighter-weight and easier to install.

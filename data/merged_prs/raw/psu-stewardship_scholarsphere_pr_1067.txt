@@ -1,0 +1,2 @@
+Upgrading to sufia 7.4.1
+Also Updating ActiveFedora to avoid a bug where removed resources were being reloaded from cache: samvera/active_fedora#1202

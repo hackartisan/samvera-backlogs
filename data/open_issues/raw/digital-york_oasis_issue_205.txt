@@ -1,0 +1,12 @@
+Search engine optimisation for OASIS
+Not for the current sprint (maybe autumn?). Investigate and implement search engine optimisation for the website? We want to be found! :-)
+@IAlferink what search terms a user might use to find OASIS?  Searching for [Open Accessible Summaries in Language Studies]( https://www.google.co.uk/search?ei=L-GMW8mTK8nUwAKF7564Dw&q=open+accessible+summaries+in+language+studies&oq=open+accessible+summaries+in+language+studies&gs_l=psy-ab.12...0.0.0.44568.0.0.0.0.0.0.0.0..0.0....0...1..64.psy-ab..0.0.0....0.weWlkWpReOA) gives good results [Oasis Database]( https://www.google.co.uk/search?ei=C-KMW9-pAoHJwAL2h7yYDg&q=oasis+database&oq=oasis+database&gs_l=psy-ab.3..0l8.2484.7966.0.9717.18.14.4.0.0.0.71.745.14.14.0....0...1.1.64.psy-ab..0.18.752...35i39k1j0i20i263k1j0i22i30k1j0i67k1j0i131i67k1j0i131k1j0i10k1.0.HsT385-r4EM) brings us in 3rd place. [OASIS language]( https://www.google.co.uk/search?ei=gOKMW-jUNtPlgQaRw7uYCw&q=OASIS+language+&oq=OASIS+language+&gs_l=psy-ab.3..0l2j0i22i30k1l8.14474.19909.0.22787.14.12.2.0.0.0.68.654.12.12.0....0...1.1.64.psy-ab..0.14.657...35i39k1j0i67k1j0i20i263k1j33i160k1.0.SFTt0NiDULA) brings 1st place.
+@paluchas That's really good! What about if people can't quite remember the name of the project and enter things like:  language learning summaries language teaching summaries etc.  Is there anything we can do for that?
+SEO optimization requires lots of work, e.g. [the list from this article](https://cognitiveseo.com/blog/12703/seo-tasks/)   @IAlferink For now, we certainly can add some meta tags to OASIS, please could you provide me with a full list of the OASIS keywords? 
+@paluchas You mean a full list of things people might search for?
+Yes @IAlferink 
+@paluchas Ok, thanks. I'll put a list together and check with Emma and Lisa-Maria to see if they have any additions.
+@paluchas We've send the list out to the wider project team for them to comment on. I'll will send it to you next week when they have had a chance to respond.
+@yf508 You can find the list [here](https://docs.google.com/document/d/1Ir5vnw15I-YvDUAXe_PE_yR0gufxtE2JzOmmVXgAQJI/edit?usp=sharing) 
+@IAlferink I'm trying to add more specific meta keywords for each summary detail page. What fields are the best source for these keywords, topic, participant type?
+@yf508 I'm not entirely sure what you mean. I think topic would be most informative as it's the most specific field we have.

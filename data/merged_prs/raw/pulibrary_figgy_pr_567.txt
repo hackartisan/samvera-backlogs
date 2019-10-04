@@ -1,0 +1,2 @@
+Setting depositor when a user uploads a work
+Fixes #563

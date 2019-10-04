@@ -1,0 +1,2 @@
+Adding in ldap results to agent query
+refs #1041

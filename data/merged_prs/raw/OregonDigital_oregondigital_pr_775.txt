@@ -1,0 +1,2 @@
+Allow for non-generic assets to be pulled via from_solr
+[ci skip]

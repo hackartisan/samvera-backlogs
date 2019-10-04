@@ -1,0 +1,2 @@
+added special case for Collection in oai_identifier
+fixes #1003

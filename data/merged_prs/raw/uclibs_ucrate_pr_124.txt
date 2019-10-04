@@ -1,0 +1,2 @@
+Add LICENSE
+Fixes #122

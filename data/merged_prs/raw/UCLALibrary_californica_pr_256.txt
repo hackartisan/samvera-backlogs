@@ -1,0 +1,2 @@
+Do not fail if masterImageName is empty
+This fixes a bug where the ingest fails when masterImageName is empty. Connected to #255

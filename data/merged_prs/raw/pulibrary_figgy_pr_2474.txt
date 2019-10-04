@@ -1,0 +1,2 @@
+Add confirm box to regenerate auth token for playlists
+fixes #2421

@@ -1,0 +1,4 @@
+Create static pages for service Privacy Policy and Terms of Service agreement
+These are encouraged for services which integrate with the Google Drive API (https://developers.google.com/drive/?hl=en_US) Please see the following criteria for verifying a service integrated with Google API's:  https://support.google.com/accounts/answer/7455163?p=app_notverified&visit_id=1-636573409598171649-2612818503&rd=1#notverified https://support.google.com/cloud/answer/7454865
+This can probably be a short paragraph explaining that Figgy is a staff tool for PUL staff, and linking to Princeton's policies: https://itpolicy.princeton.edu/
+Lower priority now that Google has authorized Figgy again, and no privacy policy is forthcoming from campus.

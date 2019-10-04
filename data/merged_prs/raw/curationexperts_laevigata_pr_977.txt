@@ -1,0 +1,2 @@
+Filenames must match when retrieving uploaded file metadata
+The file uploader re-names uploaded files to replace spaces with underscores. We need to do the same replacement when matching on uploaded_file_metadata, otherwise it won't retrieve the metadata. Fixes #976

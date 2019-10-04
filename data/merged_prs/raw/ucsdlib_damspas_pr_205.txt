@@ -1,0 +1,1 @@
+Update jwplayer config to support android devices. DHH-823

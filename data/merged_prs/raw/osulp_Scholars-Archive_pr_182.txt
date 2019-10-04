@@ -1,0 +1,2 @@
+Feature/dc elements subject
+Fixes #174 I took keyword out of the presenter and placed it in the overridden view so it appears where all other required fields appear.

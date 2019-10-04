@@ -1,0 +1,5 @@
+ScholarSphere should get the orcid id out of LDAP
+The user should not be able to type in the orcid on the user profile.  Instead we should be pulling that information directly from ldap when they login, or when we refresh their ldap information
+Need to understand how to technically do this.
+We can get a CSV file of ORCID to PSU login and run a rake task to populate the users in ScholarSphere.   We should write a stub task to gather the information when a user logs into scholarsphere for the first time, or when we update the ldap cahche to get the information from the CSV file that can eventually be traded out for the LDAP information
+1. Load CSV File into Mysql 1. create a rake task to populate the current users with the data in the table 1. Add a stub class to allow the User to get the ORCID from "LDAP" (our table)

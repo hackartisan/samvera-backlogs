@@ -1,0 +1,2 @@
+Prepend CollectionSeachBuilder to increase number of rows
+Prepends a new module to CurationConcerns::CollectionSearchBuilder to increase the number of rows returned. Adds the select2 features to the select box to enable searching of collections in the work edit form. Fixes #863 Co-authored by Carolyn Cole cam156@psu.edu Co-authored by Adam Wead amsterdamos@gmail.com

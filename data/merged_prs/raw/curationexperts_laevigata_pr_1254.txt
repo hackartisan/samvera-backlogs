@@ -1,0 +1,2 @@
+adding other validators
+This commit adds a validator for each of the new form tabs, minus the Files tab. It's intended to provide the bulk of what is needed to enforce an order through the tab submission process. It addresses #1184.

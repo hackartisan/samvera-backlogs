@@ -1,0 +1,2 @@
+Remove joined date from user profile page
+Descriptive summary In production Scholar we made a decision not to display the user's joined date on their profile page (see uclibs/scholar_uc_legacy#1753) We should remove it in ucrate as well.

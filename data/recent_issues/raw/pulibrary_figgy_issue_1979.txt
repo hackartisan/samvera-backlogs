@@ -1,0 +1,2 @@
+Bulk ingest SAE ephemera
+These have already been photographed, and should be bulk-loaded to circumvent required fields — they will be cataloged from the digital images.

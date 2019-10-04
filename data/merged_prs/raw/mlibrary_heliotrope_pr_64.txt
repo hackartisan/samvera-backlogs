@@ -1,0 +1,1 @@
+Exclude section from search results. Fixes #62

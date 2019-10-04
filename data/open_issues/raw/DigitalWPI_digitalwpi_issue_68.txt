@@ -1,0 +1,3 @@
+Enable/Disable default features
+Go through the feature matrix and enable, disable and configure various feature that we will be using in our application.   IIIF image server see #49  Banner Image  Transcoding of Audio and Video files see #69  Configure analytics and usage statistics see #33, this  Configure Geonames see #63
+[This](https://github.com/DigitalWPI/digitalwpi/commit/7ab53197a0846d7675e62c16f3713f4abc0e95ce) took care of iiif image server and partially enabled FFMPEG. 

@@ -1,0 +1,2 @@
+2404_aptrust_clean_up6
+The length of the following 'internal_sender_description' does not work with the current bagit gem so I shortened it.

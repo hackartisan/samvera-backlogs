@@ -1,0 +1,1 @@
+Cleanup of labels and help text - fixes #54

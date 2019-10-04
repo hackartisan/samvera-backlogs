@@ -1,0 +1,2 @@
+2404_aptrust_clean_up2
+Continued to simplify bag_update_monographs.rake task and improve error reporting.

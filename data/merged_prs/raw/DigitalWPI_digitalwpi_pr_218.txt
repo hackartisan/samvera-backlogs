@@ -1,0 +1,2 @@
+ActionView monkey patch
+Monkey patch as a work around for upgrading ActionView to 5.1.6.2 which breaks our app. Fixes #209

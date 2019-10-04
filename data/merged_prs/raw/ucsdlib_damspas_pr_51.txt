@@ -1,0 +1,2 @@
+Added support to display the hasTranslationVariant titles
+https://lib-jira.ucsd.edu:8443/browse/DHH-562

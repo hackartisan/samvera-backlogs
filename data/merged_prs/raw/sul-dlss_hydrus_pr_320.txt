@@ -1,0 +1,2 @@
+Remove the workflow fixtures.
+Workflows are all managed within the workflow-server-rails

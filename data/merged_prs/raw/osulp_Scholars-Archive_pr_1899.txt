@@ -1,0 +1,2 @@
+Update Readme.md
+This updates the readme to reflect the real way someone should fire up docker using docker-compose up web instead of docker-compose up. By running docker-compose up it essentially tries to fire up both the "web" and "test" environments. This causes solr to lock on itself and break.

@@ -1,0 +1,2 @@
+provenance tracking for all items
+Any administrative changes to an item in the repository should result in a provenance statement logged in the metadata.

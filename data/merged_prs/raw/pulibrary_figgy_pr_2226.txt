@@ -1,0 +1,2 @@
+Updating File Manager to link to parents like Order Manager does
+Fixes #2220

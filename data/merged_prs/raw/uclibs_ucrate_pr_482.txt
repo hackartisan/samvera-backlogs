@@ -1,0 +1,2 @@
+Port over Scholar 3 proxy removal feature.
+Present short summary (50 characters or less) This PR contains the feature test for the proxy CRUD and the code for the proxy removal job that removes edit access to works after removal of proxy. Note:  You may need redis and sidekiq running to test this code.

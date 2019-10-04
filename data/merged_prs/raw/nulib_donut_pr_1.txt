@@ -1,0 +1,2 @@
+36 aws
+AWS deployment configuration, mostly lifted from https://github.com/nulib/avalon/tree/deploy-aws-staging

@@ -1,0 +1,2 @@
+Sets select user profile fields to readonly.
+Fixes #301 Present short summary (50 characters or less) Includes the email field. Sets email, department, and affiliation to readonly in the edit view.

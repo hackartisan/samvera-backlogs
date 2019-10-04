@@ -1,0 +1,2 @@
+Fix/ingest redirect
+Fixes #1070

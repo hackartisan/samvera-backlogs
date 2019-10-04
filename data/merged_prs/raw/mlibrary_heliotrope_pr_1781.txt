@@ -1,0 +1,2 @@
+Created a rake task that will unpack all existing epub/webgls
+See #1692

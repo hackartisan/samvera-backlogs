@@ -1,0 +1,2 @@
+Display accession info in Coin form
+In the current numismatics database, an accession note displays as "Gift of: Antioch Excavation, Princeton, 1/1/1939" This is a concatenation of values found in the firm and accession table. The forms don't currently support this. For now we are using the "Accession ID" value to insert the full note in free text.

@@ -1,0 +1,2 @@
+Implementing the MissingThumbnailJob for linking MVWs to member thumbnails when `thumbnail_id` values are missing or deleted
+Provides a Rake task which resolves #781

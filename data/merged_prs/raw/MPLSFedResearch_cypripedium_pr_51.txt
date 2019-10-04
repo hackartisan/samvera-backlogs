@@ -1,0 +1,1 @@
+Changed application name and footer info.

@@ -1,0 +1,2 @@
+HELIO-2691 - update CSB
+to latest version, featuring hooks for hypothes.is annotation support and continued work for HELIO-2587 (hypothes.is integration in heliotrope).

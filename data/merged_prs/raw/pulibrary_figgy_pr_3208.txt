@@ -1,0 +1,2 @@
+UV Pre-Authentication Javascript
+This allows the viewer embed to provide a login button if it's possible for someone to login and see the content.

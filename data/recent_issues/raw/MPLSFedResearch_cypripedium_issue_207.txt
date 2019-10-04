@@ -1,0 +1,2 @@
+PAIRING: Sort within Collections by Issue Number
+As a researcher, I want to be able to sort search results by Issue Number Child of #189

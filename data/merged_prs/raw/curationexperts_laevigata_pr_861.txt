@@ -1,0 +1,2 @@
+replace resque with sidekiq
+Closes #786

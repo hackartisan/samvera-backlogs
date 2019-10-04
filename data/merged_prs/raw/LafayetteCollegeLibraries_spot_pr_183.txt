@@ -1,0 +1,2 @@
+split identifier display to standard/local
+when viewing a work, standard identifiers (issn, isbn, handles, doi) are displayed with the main metadata, but locally-assigned identifiers are restricted to the 'repository information' field.

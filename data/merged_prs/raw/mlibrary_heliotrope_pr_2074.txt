@@ -1,0 +1,1 @@
+HELIO-2249 Create COUNTER Book Usage by Access Type (TR_B3)

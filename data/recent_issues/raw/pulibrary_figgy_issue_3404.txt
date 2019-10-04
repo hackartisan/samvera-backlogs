@@ -1,0 +1,2 @@
+Update linked resource factory
+Use a more idiomatic factory construction like LinkedResource.for(resource:) instead of LinkedResourceFactory.new(resource:).new.

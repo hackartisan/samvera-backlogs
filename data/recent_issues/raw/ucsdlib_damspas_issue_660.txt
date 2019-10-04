@@ -1,0 +1,2 @@
+Allow for different sorting scenarios on a collection by collection basis
+Descriptive summary Kirk W. is requesting the option to be able to change the default sort on a collection by collection basis. Would this have to be hard coded or would we need to add a flag to the collection metadata for this purpose? Rationale The Holocaust Living History Workshop's default sort makes more sense to list as most recently added (sort by date created, descending). Related issues  #644

@@ -1,0 +1,2 @@
+Re-fetch if no authoritative label
+This re-fetches if it can't find an authoritative label (likely if there's only non-english labels in the repository being used.)

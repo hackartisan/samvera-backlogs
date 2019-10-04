@@ -1,0 +1,2 @@
+Adds custom icons
+Custom icons are for Asset, DigitalInstantiation, PhysicalInstantiation, and EssenceTrack. However, these do not cover the default thumbnails, which is probably what we'll want eventually. for now, closes AMS2-193

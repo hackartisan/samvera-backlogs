@@ -1,0 +1,2 @@
+411 only enforce future embargo dates for new records
+Closing issue 411 @3df4ade03d40ce24cf62e723924ecb6429f8b1f2 Closes #411 $ ./script/close-issue 411

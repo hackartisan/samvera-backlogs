@@ -1,0 +1,2 @@
+Set configurations for generic dc collections
+Also adds collection context to show views for the catalog controller.

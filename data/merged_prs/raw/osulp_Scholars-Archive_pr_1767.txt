@@ -1,0 +1,2 @@
+disables in-place migration since it is finished
+fixes #1760 I feel like leaving the migration service allows us to use it, in isolation, if we had to process something in particular.

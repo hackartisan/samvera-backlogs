@@ -1,0 +1,1 @@
+ideas: links to OASIS/IRIS - can this be API type call to Solr to bring required content?

@@ -1,0 +1,2 @@
+Links to Digital Collections in Hyrax from CONTENTdm
+Just noticed that the link on the Cdm landing page to the RMB-PJ collection in Hyrax directs to a login screen.  The Harry Mayo link is fine.

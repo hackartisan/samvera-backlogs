@@ -1,0 +1,2 @@
+Add component to dataMares object (bb3757060t)
+Descriptive summary Add a new component to object (bb3757060t). And reorder to two existing components. Tasks Component (add as 1 of 3):  Title: "Version 3, released April 2019" Filename: /rdcp-staging/rdcp-0041-dataMares/subjects/Batch 5/f_gc_trackers_fielddesc.xls File use: data-service File type: data  New component order: 2 - Fisheries Monitoring Program: Gulf of California artisanal fisheries data 3 - Version 1, released July 2017

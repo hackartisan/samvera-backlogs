@@ -1,0 +1,2 @@
+Ezid pull
+add #update_doi_metadata on Ezid concern.

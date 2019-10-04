@@ -1,0 +1,2 @@
+Display collection title and display only once.
+Fixes #9720

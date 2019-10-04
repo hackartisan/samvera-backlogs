@@ -1,0 +1,2 @@
+update solr_wrapper to 2.0
+To be able to succesfully download solr from apache or apache mirrors. https://groups.google.com/forum/#!topic/samvera-tech/sOnSa2NEZQg

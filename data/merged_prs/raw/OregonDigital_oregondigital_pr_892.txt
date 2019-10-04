@@ -1,0 +1,2 @@
+Fix log levels
+Changes production log to :warn instead of :info to save on log file space

@@ -1,0 +1,2 @@
+Remove extra space in Visibility box
+Descriptive summary There's an extra space before the bulleted terms begin. Expected behavior Space should not be there.

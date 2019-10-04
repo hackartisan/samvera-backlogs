@@ -1,0 +1,2 @@
+Fields Classification / Classification language
+Hochladen eines Artikels c. Klassifikation Es fehlt das Feld Klassifikation. Das Feld Classification language gehört weg. Bei der Eingabe sollte der Index der ISDC-Klassifikation auftauchen, je nach Sprache. Der Index gibt die verbale Bezeichnung der Klassifikation mit an. Eingespielt wird die Zahlen-Klassifikation und die namentliche Bezeichnung der Klassifikation. Diese kann auch extra in der Erweiterten Suche abgefragt werden.

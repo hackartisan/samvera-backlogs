@@ -1,0 +1,2 @@
+Add map set functionality
+Implements map set functionality using nested scanned maps. Analogous to scanned resources and multi-volume works. Closes #212

@@ -1,0 +1,4 @@
+Bottom Review & Approval bar ineffective
+Descriptive summary So there are two Review/Approval bars on item show pages, one at the top, another at the bottom. Clicking the bottom Review/Approval bar is supposed to send the user to the open top bar for action but it does not scroll the screen up all the way up. I'm not sure if we need Review/Approval at the top and bottom of the screen. Options:  One functional bar at top. One functional bar at bottom. Both bars, but clicking on either opens an action window. Both bars, but clicking on either send the user to the open action one.  Steps to reproduce the behavior  Go to a document, scroll down, click the Review/Approval bar. Scroll all the way up to view the open bar.
+@straleyb Looks like there's no bottom review bar in Nurax (2.4). I know we are running 2.3 but can you figure out if having one is a glitch on our end?
+stock Hyrax now has no review panel at the bottom of the work showpage. please implement as such.

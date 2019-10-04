@@ -1,0 +1,2 @@
+Problems with ScannedMap derivatives
+When a ScannedMap thumbnail derivative fails, the derivative job restarts, which then generates a new JP2 derivative. This cycle repeats. To fix this, the scanned map derivative service should rescue errors and cleanup derivatives.

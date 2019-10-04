@@ -1,0 +1,2 @@
+Submission Date on Review Submissions table needs timezone conversion
+Descriptive summary The Submission Date under the Review Submissions page in the Dashboard has a timestamp but needs converted to use the local timezone. Unconverted times appear to be from the future. Expected behavior Submission Date is in local timezone. Actual behavior Submission Date is in UTC format. Steps to reproduce the behavior  Submit new work (local or staging) On Dashboard, click Review Submissions Check 'Submission Date' column  Related work #1497

@@ -1,0 +1,3 @@
+ Stale object error for VectorResources derivatives
+Backtrace line 75 of [PROJECT_ROOT]/app/adapters/instrumented_adapter.rb: block in save line 48 of [PROJECT_ROOT]/app/adapters/instrumented_adapter.rb: block in trace line 44 of [PROJECT_ROOT]/app/adapters/instrumented_adapter.rb: trace  View full backtrace and more info at honeybadger.io  Stale object errors were fixed for scanned map derivatives (#3136), but not for vector and raster derivatives.
+Fix should be similar to https://github.com/pulibrary/figgy/pull/3136/files. We should test other derivative services that apply an error message too.

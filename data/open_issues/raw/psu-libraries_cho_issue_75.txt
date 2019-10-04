@@ -1,0 +1,2 @@
+Promote digital collection and library through live photomosaic visualization
+As Director of Public Relations and Marketing, I would like to to be able to set master images for each library/content-holder, from which a tiled photo-mosaic is dynamically generated from images in the repository, So that I can promote each library unique holdings in a live, dynamic way that can be displayed on large monitors/kiosks.

@@ -1,0 +1,2 @@
+add deploy status to footer
+Fixes #152

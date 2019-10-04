@@ -1,0 +1,2 @@
+Patch Mail to fix SMTP injection vulnerability
+2.6.6 is still in release candidate status, so this commit should be reverted of updated once 2.6.6 is out.

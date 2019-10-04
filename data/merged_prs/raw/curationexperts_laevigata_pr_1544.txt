@@ -1,0 +1,2 @@
+Update README with box.com key registration process
+Fixes #1527

@@ -1,0 +1,1 @@
+Use SolrService query instead of Item.where query

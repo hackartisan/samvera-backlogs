@@ -1,0 +1,2 @@
+escape HTML in embed code titles
+HELIO-2789

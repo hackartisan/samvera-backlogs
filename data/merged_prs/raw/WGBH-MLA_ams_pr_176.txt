@@ -1,0 +1,2 @@
+87 index thumbnails
+This creates an AssetThumbnailPathService that looks at an asset's digital_instantiations and applies the correct location for the source of that asset's thumbnail.

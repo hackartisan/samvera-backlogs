@@ -1,0 +1,2 @@
+added heading and description in proxy rights section under user profile
+fixes #885

@@ -1,0 +1,2 @@
+Ensures that users can sort the FileSets for any given EphemeraFolder
+Resolves #570 by ensuring that users can sort the FileSets for any given EphemeraFolder

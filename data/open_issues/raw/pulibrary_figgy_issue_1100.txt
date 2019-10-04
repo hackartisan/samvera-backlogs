@@ -1,0 +1,2 @@
+Query Solr for relating `ScannedMaps`, `RasterResources`, and `VectorResources`
+Discovered when attempting to resolve #1069 using PostgreSQL queries

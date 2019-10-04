@@ -1,0 +1,2 @@
+ETD field for committee members doesn't display on show page
+Descriptive summary The show page for ETDs doesn't display committee members. We probably need to add :committee_member to app/presenters/hyrax/etd_presenter.rb

@@ -1,0 +1,2 @@
+Shifting LibraryCollection representative object
+As a Librarian, I want a standard way to assign representative images to Library collections, so that I can use the batch ingester in a predictable way.  We want to normalize where the representative image is located (i.e. in the properties datastream). This aligns LibaryCollections with Documents, Images, etc. It also allows for the eventual migration to a more appropriate data model.

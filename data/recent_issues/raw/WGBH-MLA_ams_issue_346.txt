@@ -1,0 +1,2 @@
+Create new "Staging" env (to replace current "Staging") by copying "Edge" env.
+User Story As a Developer I have an up-to-date environment to run benchmarks in order to present at Samvera Connect (w/ poster) Additional Information Since we're still lacking fully functioning deployment deployment apparatus, the plan is to copy the "most correct" env, which is the "Edge" env. Done Looks Like A working copy of the "edge" environment that replaces current "staging" environment.

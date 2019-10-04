@@ -1,0 +1,2 @@
+Batch load errors and failures retry
+add batch loader code to generate a csv / json file containing all the failed to ingest works, and all the works which have yet to be ingested after critical error or Ctrl^C

@@ -1,0 +1,2 @@
+navigating form from left to right, keeping valid tabs enabled
+This commit provides client-server interaction that progresses a user through the form, validating each tab. The form loads with the current tab, and any previous tabs the user has completed are editable (their tabs are clickable), but all tabs that are not yet current are disabled. It is the valid save of the current tab that loads the next tab as current. Addresses #1185 It needs some tests, and there are comments specing out what those should be.

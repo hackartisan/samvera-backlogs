@@ -1,0 +1,2 @@
+Changed usernames / password to environment variables.
+Added env variable for devise.

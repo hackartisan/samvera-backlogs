@@ -1,0 +1,2 @@
+Make code base match our production solr setup
+Remove unused solr configs -- they are confusing. Edit solrconfig.xml to match what we expect in production, i.e., to remove the suggest feature. The suggest feature is memory heavy, is causing performance issues, and in cases of very heavy load can even crash solr. Connected to #938

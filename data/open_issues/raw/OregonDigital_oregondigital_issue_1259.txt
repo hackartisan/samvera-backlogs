@@ -1,0 +1,2 @@
+Create Date ranges to replace Earliest/Latest Dates
+Most of this work should have happened during EDTF compliance for collections submitted to MWDL/DPLA. QA necessary to check no Earliest/Latest dates remain. See also #1258

@@ -1,0 +1,2 @@
+Remove extraneous text and paren
+Fixes #677

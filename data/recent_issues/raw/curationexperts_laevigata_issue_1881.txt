@@ -1,0 +1,2 @@
+Fix embargo tab
+Embargo tab should work with latest master.  Make a feature test to prevent future regressions.

@@ -1,0 +1,2 @@
+Upgrade to Hyrax 2.4.1
+So that we stay aligned with the larger community, upgrade Californica to the latest 2.x release, which right now is 2.4.1. (We are currently on 2.3.3)

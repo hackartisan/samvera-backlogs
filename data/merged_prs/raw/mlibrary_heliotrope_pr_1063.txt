@@ -1,0 +1,2 @@
+update Hyrax to 1.0.2
+Resolves #1054

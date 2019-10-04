@@ -1,0 +1,1 @@
+Remove paging from all show pages

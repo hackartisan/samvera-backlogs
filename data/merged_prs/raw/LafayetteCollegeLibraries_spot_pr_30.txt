@@ -1,0 +1,2 @@
+Add travis ci
+only runs tests w/ rspec for now (rubocop integration forthcoming).   add spot:ci task  add .travis.yml file  add badge to README.md  closes #17

@@ -1,0 +1,2 @@
+Enable virus checking
+Add Clamav gem to Gemfile if it isn't already added and add file uploads to be scanned by clamav. Test with an infected file.

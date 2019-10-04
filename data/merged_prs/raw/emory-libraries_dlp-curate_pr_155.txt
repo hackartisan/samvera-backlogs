@@ -1,0 +1,2 @@
+Adds required fields for form
+Adds required metadata properties to hyrax form. Also edits selenium timeout method to read_timeout because of deprecation warning. Closes #136

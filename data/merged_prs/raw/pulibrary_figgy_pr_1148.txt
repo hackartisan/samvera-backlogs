@@ -1,0 +1,2 @@
+Update geo_works-derivatives to improve raster quality
+Updates geo_works-derivatives to improve the quality of raster derivativeses. Generates Cloud Optimized GeoTIFFs. Waiting on review of upstream PR: pulibrary/geo_works-derivatives#8   VS.  Closes #1061

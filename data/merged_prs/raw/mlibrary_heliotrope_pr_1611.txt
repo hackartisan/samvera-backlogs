@@ -1,0 +1,2 @@
+Resolves #1591: Display pop-up for Co-Sign users
+Since we have to lock down the interface for friends accounts anyway I changed the header authentication code so it can create a new user that cannot be saved to the users table. This side steps the issue of having to inform cosign users when they login to cosign they weren't logged in to the application because they are not in the user table. Now all that is left is locking down the interface for authenticated users that have no role a.k.a. privileges.

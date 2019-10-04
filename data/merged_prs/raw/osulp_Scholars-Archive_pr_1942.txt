@@ -1,0 +1,2 @@
+Social media: update button text, style, and alignment
+Fixes #1912

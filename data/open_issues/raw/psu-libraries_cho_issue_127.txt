@@ -1,0 +1,2 @@
+Controlled Terms Linked From Object Page
+As a curator I want certain metadata fields to have hyperlinks (local controlled vocabulary) so that users can search across the collection by clicking on a word(s). Related: #5 Catherine A.

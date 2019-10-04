@@ -1,0 +1,2 @@
+Add marc relator properties to Schemas::CommonMetadata and Image model
+Adds Schemas::CommonMetadata Refactor image model accepts_nested_attributes_for usage Consolidate separate ControlledVocabularies into ControlledVocabularies::Base Views, form, presenter, controlled vocabulary code for all MARC relator properties New shared example a_model_with_common_metadata

@@ -1,0 +1,2 @@
+Resolves #938 frozen_string_literal riiif bug
+Tested in staging, everything looks fine.

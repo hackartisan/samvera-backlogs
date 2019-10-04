@@ -1,0 +1,2 @@
+Restrict Additional Pages for Public Users
+Public users should not be able to access the following pages:  Select Resources List Agents  Related: #447, #912

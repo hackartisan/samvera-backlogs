@@ -1,0 +1,2 @@
+"sort alphabetically" and drag and drop functionality not working in file manager
+When clicking on "File Manager" then "sort alphabetically" and "save," when you return to the record, the changes are not saved.  This functionality also does not work when dragging and dropping the image into the correct order and clicking save. It seems something similar appeared in point #2 of this ticket that was closed: #896

@@ -1,0 +1,2 @@
+Stop create duplicate grants on workflow setup
+We used to create a new grant for deposit access to 'registered' on each workflow setup (i.e. every deploy). These duplicate entries are no longer allowed in Hyrax 2.0 breaking deployment. We also introduce a one-time rake task to clean up the duplicates.

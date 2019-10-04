@@ -1,0 +1,2 @@
+Fixes #1572, Non-privileged logged in users should have limited menus
+Also removed Embargo and Lease from the menu. In hyrax these are available in the dashboard, not the "my_actions" dropdown menu.

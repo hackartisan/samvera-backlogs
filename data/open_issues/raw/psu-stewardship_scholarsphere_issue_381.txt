@@ -1,0 +1,2 @@
+Verify Share Notify deletion after migration
+Using the log file created in #277 verify that the entries we expected to be deleted have in fact been deleted.  If they are not contact Share Notify to rectify the situation

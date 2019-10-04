@@ -1,0 +1,2 @@
+Don't display workflow state once it's been Approved
+Fixes #609

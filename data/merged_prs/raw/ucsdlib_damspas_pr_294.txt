@@ -1,0 +1,2 @@
+Fixes #293 - Upgrade Nokogiri to address security vulnerability.
+Fixes #293 ; refs #293 Upgrade Nokogiri to the latest 1.7.1 to address security vulnerability. Changes proposed in this pull request:  Upgrade Nokogiri to 1.7.1  @ucsdlib/developers - please review

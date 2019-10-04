@@ -1,0 +1,2 @@
+Add resource_type, file iiif urls, and id to image indexer
+updates common indexer to include fileset_iiif_urls, represetnative file iiif url (without dimensions), resource type and id. (all needed for front end display) Also implement a guard clause to prevent an error running to_common_index in case bad data www.geonames instead of sws.geonames is already stored in an existing record.

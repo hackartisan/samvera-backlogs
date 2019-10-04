@@ -1,0 +1,2 @@
+Immutable Downloads
+STORY As a librarian, I don’t want the content that I get from my download link to change over time DETAILS ACCEPTANCE   Bags don't change after they're exported  Links to bags always return the same thing they originally did (until exports are cleaned up / deleted) When I login and export a bag And then the work is updated And someone else exports the work to a bag My original bag (and download link) should not change

@@ -1,0 +1,2 @@
+Edit or remove committee members. Connected to stories #1616 and #1675.
+I cleared the committee members and chairs before passing the new params from the form to the actor. I fixed the methods that keep the committee_chair_name and committee_members_names in sync with the committee_chair and committee_members fields.

@@ -1,0 +1,2 @@
+handle route allows for dots in file parameter
+fixes #1068

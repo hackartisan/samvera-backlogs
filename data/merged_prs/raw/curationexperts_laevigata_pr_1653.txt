@@ -1,0 +1,2 @@
+Display legacy vocab terms for partnering agency and subfields
+This commit adds the ability to view legacy terms for partnering agency and subfields. This follows the same basic patterns used in the other commits. This also includes a fix for the InProgressEtd model which was turning the agency arrays into strings. Connected to #1094

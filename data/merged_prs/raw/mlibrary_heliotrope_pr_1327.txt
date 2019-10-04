@@ -1,0 +1,2 @@
+Add sitemap for SEO (#1107).
+Note to self: will need an update to the crontab via sudo -u heliotrope-XYZ crontab -e if and when site mapper is deployed.

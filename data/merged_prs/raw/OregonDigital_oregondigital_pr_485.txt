@@ -1,0 +1,2 @@
+Compound Object Support
+Work towards #86. Needs form support - should we be showing parent metadata on children?

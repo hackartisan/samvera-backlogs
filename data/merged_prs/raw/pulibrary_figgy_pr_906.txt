@@ -1,0 +1,2 @@
+Load folder data asynchronously.
+Closes #838.

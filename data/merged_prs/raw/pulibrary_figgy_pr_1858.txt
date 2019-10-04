@@ -1,0 +1,2 @@
+Add Template to search builder blacklist
+fixes #1857

@@ -1,0 +1,2 @@
+Simplify ability/permissions by replacing a bunch of roles with 'staff'
+Fixes #650

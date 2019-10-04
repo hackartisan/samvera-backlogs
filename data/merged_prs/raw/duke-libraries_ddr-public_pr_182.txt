@@ -1,0 +1,1 @@
+Limit query for showcase/highlight documents to Components

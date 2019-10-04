@@ -1,0 +1,2 @@
+alias capture_device to model, make it visible in the ui
+fixes https://github.com/nulib/next-generation-repository/issues/542 capture_device already exists in hydra works, so instead of creating another one, i've aliased model to capture_device and made model visible in the UI

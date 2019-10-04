@@ -1,0 +1,2 @@
+Extract title of track from wav file on characterization
+We can make the lives of the ingesters easier this way, I think.

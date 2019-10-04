@@ -1,0 +1,1 @@
+Resolves #566: Citable Link fallback - DOIs, then Handles

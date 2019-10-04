@@ -1,0 +1,2 @@
+[hydrus/stage] Dor::WorkflowException: Failed to retrieve resource: put https://sul-lyberservices-test.stanford.edu/workflow//dor/objects/druid:qv199sj1534/workflows/assemblyWF (HTTP status 500)
+Backtrace line 63 of [PROJECT_ROOT]/app/models/hydrus/processable.rb: start_assembly_wf line 53 of [PROJECT_ROOT]/app/models/hydrus/processable.rb: start_common_assembly line 241 of [PROJECT_ROOT]/app/models/hydrus/collection.rb: block in open  View full backtrace and more info at honeybadger.io

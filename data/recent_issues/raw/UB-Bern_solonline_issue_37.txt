@@ -1,0 +1,2 @@
+Show license in results list
+Lizenzen: Die Eingabe «Lizenz« soll bei der Anzeige eines Treffers ersichtlich sein;

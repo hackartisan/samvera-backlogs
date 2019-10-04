@@ -1,0 +1,3 @@
+Research date format
+(moved from uclibs/scholar_uc_legacy#831 - lots of discussion there) Dates should validate to standard ISO format. Errors in scholar 2.0, missing leading zeros, etc:
+Have year, month, and date fields.  year required.  year is only required if something is in this field  checkbox for circa

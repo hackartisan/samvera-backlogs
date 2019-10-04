@@ -1,0 +1,2 @@
+Removing add-to-collection icons
+None of the underlying collection and profile code has been altered or removed.  Trello card

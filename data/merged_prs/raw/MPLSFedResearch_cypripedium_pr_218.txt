@@ -1,0 +1,2 @@
+Add downloads for bags
+This adds the ability to download bags from the /bag/:file_name route. The bag file will be sent as long as it is present in the directory where bags are stored. Connected to #193

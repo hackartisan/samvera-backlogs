@@ -1,0 +1,2 @@
+Makes all fields available to admin
+Fixes #1504 The fields are unordered at this moment. If we want order, this will take a bit more work.

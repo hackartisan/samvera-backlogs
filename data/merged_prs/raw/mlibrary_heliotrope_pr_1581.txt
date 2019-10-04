@@ -1,0 +1,2 @@
+Resolves #1548: Network Error
+Looking for 'monograph_id' in params first then 'id' seems to fix the issue.

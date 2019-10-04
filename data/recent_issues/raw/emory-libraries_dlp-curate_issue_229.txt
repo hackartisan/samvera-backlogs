@@ -1,0 +1,2 @@
+Test Solr Cluster
+Test adding json data to solr, data should replicated through cluster  Test ingest job

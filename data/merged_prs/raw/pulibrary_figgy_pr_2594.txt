@@ -1,0 +1,2 @@
+Handles cases where clients do not select files to be ingested for the `BulkIngestController`
+Resolves #2493

@@ -1,0 +1,2 @@
+SystemStackError: stack level too deep error when generating ephemera manifests
+Backtrace line 174 of [PROJECT_ROOT]/app/adapters/instrumented_adapter.rb: block in find_references_by line 48 of [PROJECT_ROOT]/app/adapters/instrumented_adapter.rb: block in trace line 44 of [PROJECT_ROOT]/app/adapters/instrumented_adapter.rb: trace  View full backtrace and more info at honeybadger.io https://figgy.princeton.edu/concern/ephemera_folders/d3b43a85-6602-4826-b3cf-6e3dbfd0c118/manifest

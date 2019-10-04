@@ -1,0 +1,2 @@
+Restricted language support to Mandarin and Spanish 
+Fixes #195 Deleted yml files for hyrax and generic_work Changed 'available_translations' method in 'hyrax_helper_behavior.rb' Ported 'helper_behavior_spec.rb' from hyrax and changed some parts of it to increase to test coverage

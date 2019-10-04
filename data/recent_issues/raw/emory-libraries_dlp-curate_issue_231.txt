@@ -1,0 +1,2 @@
+Create Java Service Wrapper config for zookeeper
+Capture necessary flags and inputs needed for zookeeper to run  Integrate these flags and configs into the JSW ansible role  Test out the ansible role

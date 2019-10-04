@@ -1,0 +1,2 @@
+Embed metadata into derivative on download
+As a remote researcher, I would like to have descriptive metadata embedded into derivative downloads, So that the file is also self-identifying, should it ever become separated from my research files

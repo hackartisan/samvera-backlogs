@@ -1,0 +1,2 @@
+Modified page_datastreams to return sorted order
+Fixes #1023 Each page has it's own datastream, which is fed into leafMetadata, which is then passed on to the BookReader viewer via the JSON call. The leafMetadata had pages out of order, so while the pages displayed in order in the viewer, when it queried a page to get its height, it was returning the height from a different page, and the different height caused the calculations to be off and some images to be distorted. This changes page_datastreams to return order based on the page number in the datastreams hash key.

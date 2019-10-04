@@ -1,0 +1,2 @@
+add license to monograph form
+Resolves HELIO-2145

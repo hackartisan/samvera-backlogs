@@ -1,0 +1,2 @@
+Remove un-editable fields from CSV Template
+STORY As a new tenejo client, I don't want to fill out fields in the CSV that will never be displayed or editable, so that I don't spend unnecessary time gathering metadata I can't use. ACCEPTANCE Unless the following fields are required for a specific reason by the import process, remove them from the CSV template:   depositor (should be the user submitting the import job)  date_uploaded  date_modified  label  relative_path  import_url  bibliographic_citation

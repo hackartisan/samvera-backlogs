@@ -1,0 +1,2 @@
+updated host in prod env for emails
+updated host in prod env so that we can link the proper base url and protocol in emails

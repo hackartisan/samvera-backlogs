@@ -1,0 +1,2 @@
+Re-enable DOI in bulk ingest
+Fixes #626 Made the change to app/services/work_loader.rb, however I do not know how to test/check if it is behaving correctly. Any help/guidance is appreciated.

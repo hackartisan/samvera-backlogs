@@ -1,0 +1,2 @@
+Re-ingest corrupted LADNN master images
+ISSUE A number of LADNN works were ingested without corresponding images because the master tiffs were corrupted.  The master image files are being recreated.  Once they're available, we would like to re-attach the correct images. ACCEPTANCE Once the master images have been rescanned (see https://jira.library.ucla.edu/browse/DLG-709)   Any LADNN works with corrupted images are re-imported  The corresponding works appear with the correct images in ursus

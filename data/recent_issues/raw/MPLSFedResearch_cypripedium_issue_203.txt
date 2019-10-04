@@ -1,0 +1,2 @@
+BONUS: Upgrade to Hyrax 3.0
+BONUS: as a system owner I would like an estimate of how hard it will be to upgrade to 3.0.0

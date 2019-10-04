@@ -1,0 +1,2 @@
+Port over Scholar nav bar
+Fixes #273 Port over navbar style from scholar@uc. Changes proposed in this pull request:  Add logo assets Add styles

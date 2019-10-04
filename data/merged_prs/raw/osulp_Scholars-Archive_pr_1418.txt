@@ -1,0 +1,2 @@
+Feature/update paging logic
+Fixes #1349 Fixes #1153 This limits the max pages to the amount of records a user can see. It prunes out any records the user isnt allowed to view and stops the max pages at that value.

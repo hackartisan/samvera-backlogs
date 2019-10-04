@@ -1,0 +1,2 @@
+Feature: Rights Management
+MVP components:  Support for Emory-defined rights metadata (user facing and staff facing) Support for rightsstatements.org statements and Creative Commons licenses Support for preserving and relating content to administrative/donor agreements Ability to document rights determinations for administrative and preservation workflows Ability to monitor and report on rights statuses and access restrictions

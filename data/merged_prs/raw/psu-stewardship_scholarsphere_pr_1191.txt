@@ -1,0 +1,2 @@
+Removing unused traits and factories
+Work done during a Friday refactoring session.

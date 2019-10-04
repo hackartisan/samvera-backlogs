@@ -1,0 +1,2 @@
+Better fixity failure notification messages
+add Socket.gethostname to fixity check failure subjects Don't include internal only IPs. No hostnames at all for now, oh well. Do include the fedora bug workaround escaping the colons in fcr:versions

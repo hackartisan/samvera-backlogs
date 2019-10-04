@@ -1,0 +1,2 @@
+Solr 8 incompatible with current version of Hyrax
+Descriptive summary New docker builds use Solr 8 which currently breaks Hyrax.

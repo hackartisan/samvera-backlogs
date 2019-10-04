@@ -1,0 +1,2 @@
+Audio reserves ingest form: Add hint to title
+User observation revealed confusion about the relationship between title and source metadata identifier. Hint should clarify that title is only needed if source metadata identifier is not provided; if it is there title will be imported.

@@ -1,0 +1,2 @@
+only save collection_from_config if the attributes have changed
+we were getting some hanging db:seed calls when deploying because collections were having unnecessary #save! calls when there weren't changes to be made. this guards against that. it also fixes the docker-compose.yml file bc i forgot to push those changes before checking out this branch 😊

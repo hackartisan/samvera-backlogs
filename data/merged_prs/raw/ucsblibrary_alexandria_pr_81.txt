@@ -1,0 +1,1 @@
+Ezid: use test credentials on staging

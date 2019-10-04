@@ -1,0 +1,2 @@
+Refactor Stylesheet Syntax - SCSS Lint
+Breaks hex colors into variables, switches to Sass comments, and adds some skip declarations for the linter when you have to override very specific CSS from other gems. Reworks the application.css file to load files in a specific order so that the variables load first and then the rest of the files.

@@ -1,0 +1,2 @@
+Hide null exact_match and nested parent vocabs.
+Closes #448, closes #449, closes #447

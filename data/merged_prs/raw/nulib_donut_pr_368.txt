@@ -1,0 +1,2 @@
+Adds service to write iiif manifest to s3
+Adds IiifManifestService that provides aIiifManifestService.write_manifest(id) method to write a manifest to an s3 bucket for a given work.  Since we can't figure out the best place to put this at the moment, we're thinking we merge this, and make sure that the parts that actually write the manifest to the buckets work, and the service can be called directly.

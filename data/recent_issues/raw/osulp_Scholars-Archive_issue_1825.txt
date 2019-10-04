@@ -1,0 +1,2 @@
+Bulk Edits: Technicals
+Descriptive summary Bulk edits to clean up series fields. These are all on the same spreadsheet -- links to tabs below:   alt_title  in_series  subject  resource_type

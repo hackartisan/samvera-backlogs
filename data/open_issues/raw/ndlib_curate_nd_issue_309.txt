@@ -1,0 +1,2 @@
+puppet/modules/lib_curate, deploy, and script changes for migration to passenger
+These files have unicorn- deployment login that needed to be removed config/unicorn.rb: config/deploy.rb DEPLOY.md: Gemfile.lock These puppet files either have nginx logic that needs to change, or unicorn logic that needs to be deleted: puppet/modules/lib_curate/manifests/standalone.pp: puppet/modules/lib_curate/templates/curatend.conf.erb: I think we can delete these: script/start-unicorn.sh: script/stop-unicorn.sh script/reload-unicorn.sh

@@ -1,0 +1,2 @@
+Create placeholder add to shelf button on work show page
+Fixes #604 Adds button next to other actions. Only visible to logged in users.

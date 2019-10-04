@@ -1,0 +1,2 @@
+Feature/fix loading
+This fixes I18n labels not being pulled in for facets. #359 is a ticket which closes some issues this one opens.

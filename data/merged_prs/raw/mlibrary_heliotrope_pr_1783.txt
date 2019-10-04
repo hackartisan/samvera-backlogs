@@ -1,0 +1,2 @@
+First Part of #1669: Group management for auth
+Added groupings and groupings_lessees tables and scaffolding to support grouping of lessees.

@@ -1,0 +1,2 @@
+Map sync
+fixes #675 fixes #676 fixes #677 fixes #683 fixes #682

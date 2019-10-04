@@ -1,0 +1,2 @@
+Add college field to user profile page
+Fixes #701 Adds the College field to the user profile page

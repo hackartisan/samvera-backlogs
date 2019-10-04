@@ -1,0 +1,2 @@
+Add Blacklight facets to collections search page
+Fixes #532. Display facets exactly as catalog search page does, from Blacklight. _facets.html.erb isn't necessary yet, but will require changes once we can get a list of facets to display for the collection. Preview of collections search page:

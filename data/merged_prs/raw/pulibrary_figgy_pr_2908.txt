@@ -1,0 +1,2 @@
+Replace date_range with ce1 and ce2
+Closes #2907

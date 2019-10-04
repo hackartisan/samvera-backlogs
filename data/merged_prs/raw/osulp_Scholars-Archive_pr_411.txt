@@ -1,0 +1,2 @@
+integrates triplestore_adapter as the backend RDF cache, introduces tests, configuration, and circleci
+fixes #360

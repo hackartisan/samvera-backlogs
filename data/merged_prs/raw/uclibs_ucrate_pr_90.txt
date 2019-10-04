@@ -1,0 +1,2 @@
+Add Sidekiq
+Fixes #91 Add the sidekiq gem, the web interface, and configure queues

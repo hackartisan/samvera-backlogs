@@ -1,0 +1,2 @@
+Documenting how to exclude clamav from development
+Ideally, we WOULD install clamav in development. However, unless you are modifying the background workers, it is not needed. If/when we have a documented solution to building clamav with homebrew on a mac this block of the README can be altered/removed. [skip ci]

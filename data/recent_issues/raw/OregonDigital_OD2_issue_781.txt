@@ -1,0 +1,2 @@
+workType property is defined twice in GenericMetadata
+Descriptive summary @luisgreg99 noticed in OregonDigital/hyrax-migrator#144 that workType property is defined twice in Generic Metadata. Expected behavior workType property is only defined once. Includes CV declaration. Related work #422 Accessibility Concerns None.

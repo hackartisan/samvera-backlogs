@@ -1,0 +1,1 @@
+Adding basic twitter card/facebook open graph support (DHH-576)

@@ -1,0 +1,2 @@
+Disable BrowseEverything, ref #227
+Temporarily disables BrowseEverything when deploying because of a support issue in Hyrax.

@@ -1,0 +1,2 @@
+Remove related_url_label property from the Image model, forms, specs
+Fixes nulib/next-generation-repository#393  Removes related_url_label property from the Image model and references to the property in the solr_document model, presenter, forms and specs.

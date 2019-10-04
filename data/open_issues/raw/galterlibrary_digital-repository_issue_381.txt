@@ -1,0 +1,2 @@
+Add `year of creation' facet
+Use date uploaded if not specified.

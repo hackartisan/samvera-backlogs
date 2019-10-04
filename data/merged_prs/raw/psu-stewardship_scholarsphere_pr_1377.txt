@@ -1,0 +1,2 @@
+Removed the DirectoryController
+Removed the DirectoryController and it's tests becuase the UsersController is now being utilized. refs #316 Co-authored-by: Mike Tribone mtribone@psu.edu

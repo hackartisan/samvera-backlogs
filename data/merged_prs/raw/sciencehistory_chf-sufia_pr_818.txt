@@ -1,0 +1,1 @@
+Add checkbox for public domain facet to search, refs #709

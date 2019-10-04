@@ -1,0 +1,1 @@
+load fits path from Figaro

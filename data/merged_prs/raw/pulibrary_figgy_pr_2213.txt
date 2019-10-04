@@ -1,0 +1,2 @@
+Linked Accessions
+Coins link to NumismaticAccessions with the accession_number Removing department (use Collections instead)  Fixes #2158 Refs #2127

@@ -1,0 +1,2 @@
+Adding support to display the second non-xml data view - tree view.
+https://lib-jira.ucsd.edu:8443/browse/DAMSKEY-464 Esme, there are two style sheets in dams repo that are used for the data view tool: review.xsl and review-tree.xsl. Could you add them to the damsrepo-tomcat snapshot? Otherwise the related test may failed. Thanks.

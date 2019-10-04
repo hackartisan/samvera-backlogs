@@ -1,0 +1,2 @@
+Add a database for the workflow service to the docker build
+This is necessary because the workflow server image had been updated to require a database. We also turn off the STOMP notifications.

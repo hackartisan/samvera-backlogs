@@ -1,0 +1,2 @@
+"Share work with other users" does not work when batch editing
+When clicking on "edit selected" after selecting more than one work, then clicking on the permissions tab and granting a user edit access under "share work with other users," states that edits are saved but doesn't actually update the records with this permission status.

@@ -1,0 +1,1 @@
+Adding Rake task to promote user to admin

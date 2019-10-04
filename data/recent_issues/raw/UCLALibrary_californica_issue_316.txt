@@ -1,0 +1,2 @@
+Mgmt: Ingest: Replace `--` with em-dash
+Related to UCLALibrary/ursus#101 Subject headings in the DLCS export csv contain many dashes rendered as two hyphens. Not only does this look bad in itself, it also causes the browser to break lines at inferior locations:  Acceptance criteria.   The californica ingest tasks convert double hyphens (--) to em dashes (—, U+2014):   We could also consider spaces and en dashes, which results in slightly different line breaks:

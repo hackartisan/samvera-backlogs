@@ -1,0 +1,2 @@
+Don't pass change sets to persisters
+Description During our upgrade to Valkyrie 1.2.0, we discovered that we were using persisters incorrectly and passing change sets to them, instead of resources. In order to follow the prescribed practices, we're fixing it so that we send resources to our persisters instead of change sets.

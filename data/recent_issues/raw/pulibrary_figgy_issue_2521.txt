@@ -1,0 +1,2 @@
+Performance of downloading in production is worse than staging
+It seems like this is a problem with the load balancer. A couple options  Remove Figgy from the load balancer Create a download-only off-load-balancer VM and figure out auth pass-through for downloading. Try out an NGINX load balancer.  I think we'd like to try 3 first.

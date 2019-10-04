@@ -1,0 +1,2 @@
+Not present
+Fixing a few small issues from the last run. External text was not getting deleted or converted becuase the file was not nil, but also not present Original File is missing on a few items, so we want to keep going and just log the issue.

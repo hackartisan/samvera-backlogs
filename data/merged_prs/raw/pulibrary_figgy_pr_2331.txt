@@ -1,0 +1,2 @@
+Allow selecting multiple collection owners, and sort them
+Related to #2329

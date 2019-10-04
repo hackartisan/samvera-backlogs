@@ -1,0 +1,2 @@
+Change page title.
+Closes #31

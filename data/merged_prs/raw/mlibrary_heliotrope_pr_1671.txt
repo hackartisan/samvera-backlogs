@@ -1,0 +1,2 @@
+Resolves #1670: [BUG] Errors when creating Institutions
+Was trying to link to a nil lessee in fulcrum institution partial.

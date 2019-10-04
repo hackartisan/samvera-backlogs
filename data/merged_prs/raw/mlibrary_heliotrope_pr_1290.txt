@@ -1,0 +1,2 @@
+Resolves #1264 Add EPUB navigation slider
+I've tested this with a couple of epubs (nyupress and an heb book) and it seems fine, but it can have the problem that CSB ticket 69 (which isn't done yet), mlibrary/cozy-sun-bear#69, should solve.  I guess it doesn't matter if this is merged first, then CSB 69 is done, or the other way around.

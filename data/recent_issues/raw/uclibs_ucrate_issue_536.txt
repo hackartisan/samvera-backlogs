@@ -1,0 +1,2 @@
+Fix migrations to work with scholar_uc database
+Descriptive summary The existing migrations in db/migrate/ will not properly update the database on production Scholar when we deploy.  We need to tweak the migration files so the application understands which migrations have already been run and which have not.

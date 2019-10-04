@@ -1,0 +1,2 @@
+Implement Rack Attack
+Rack Attack is very useful in blocking malicious clients and prevent DDOS attacks.

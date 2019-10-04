@@ -1,0 +1,2 @@
+update accession_number in solr_document.rb
+Fixes: nulib/next-generation-repository#635

@@ -1,0 +1,2 @@
+Fix file labels in Create Work
+Fixes #698 After looking into why the file labels work for batch upload but not file upload, it started to look like it was due to the different ways that the app/views/hyrax/uploads/_js_templates.html.erb file was called. SO rather than messing with that, I decided that it would be simplier to check whether the page was batch_uploads. If it was then show the label, else don't.

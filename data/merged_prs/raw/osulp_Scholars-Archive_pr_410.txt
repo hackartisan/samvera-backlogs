@@ -1,0 +1,1 @@
+updates README to reflect how SA on Sufia7 works

@@ -1,0 +1,2 @@
+Test out aws_ec2 plugin to replace ec2.py in cor-cm
+Test out the aws ec2 plugin   Rewrite ansible dynamic roles to use aws ec2 plugin

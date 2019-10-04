@@ -1,0 +1,2 @@
+proxy for first and last
+Added a proxy object for the first and last in the sequence.

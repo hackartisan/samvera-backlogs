@@ -1,0 +1,2 @@
+Updating ref in Gemfile to reference updated Curate Gem.
+This update is needed to address ammended need to show text on "Add to Collection" button on show page, but not have it show on index or other pages. DLTP-52#

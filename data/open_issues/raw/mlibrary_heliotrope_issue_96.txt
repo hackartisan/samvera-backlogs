@@ -1,0 +1,3 @@
+Set a default press for a user
+STORY As a user with rights to multiple presses, I would like to be able to set a default press for myself, so that I don't constantly have to select a press for each action I perform. DETIALS This could be a session-level selection that I make when I log in, or a setting that I could change in my user profile - i.e. 'set "Indiana University" as my default press ' or 'Always prompt me for the press to use'. ACCEPTANCE   There is some kind of mapping that associates each press administrator or editor with a specific press  Platform admins can update or set the mappings as new users are created  When I create a new monograph or collection, my default press is selected
+Work on this when we are doing the platform admin (#727)

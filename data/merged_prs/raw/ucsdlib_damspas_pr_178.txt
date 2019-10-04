@@ -1,0 +1,2 @@
+Added subject facets like scientific name, lithology, series etc. DHH-793
+https://lib-jira.ucsd.edu:8443/browse/DHH-793

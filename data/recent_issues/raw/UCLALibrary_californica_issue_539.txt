@@ -1,0 +1,2 @@
+derivatives/uploads folder not created during deploy
+This folder needs to be created for the banner upload functionality to work in Californica. The folder is: /opt/derivatives/uploads This folder should be created by the appropriate ansible role.

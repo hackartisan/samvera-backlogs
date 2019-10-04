@@ -1,0 +1,2 @@
+Cannot add items to collection manually/individually
+Expected behavior Using the button on an item's show page OR the Relationships tab in an item's edit page, should be able to add an item to a collection by typing the name of the collection in the search box. This worked two weeks ago. Actual behavior No matter what I type, no collections are returned in the search.  Steps to reproduce the behavior Choose any item and attempt to add it to a collection, such as Pacific Northwest Insect Management Conference.

@@ -1,0 +1,2 @@
+Feature/additional metadata
+This adds a large swath of metadata to OregonRDF  for launch. Closes #230

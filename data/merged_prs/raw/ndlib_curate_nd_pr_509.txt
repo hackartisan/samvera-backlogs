@@ -1,0 +1,2 @@
+DLTP-561 correct related works presentation
+Claiming issue 508 @9fed3619095792c21d2cbfdb264f14593f97732a relates to #508 $ ./script/start-issue 508 [skip ci] Hide related works section if none are present @aa98044b93e5ec7031312b5cda91f60f8cba8082 Closes JIRA ticket: DLTP-561 Closing issue 508 @f5e660ee41bdbd96d3bea24f934963cdd94567b0 Closes #508 $ ./script/close-issue 508

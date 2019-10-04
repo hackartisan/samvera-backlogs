@@ -1,0 +1,2 @@
+front-end for ephemera ingestion instead of the rake task
+studio meeting 1/14/19 This would let more people ingest ephemera instead of only Roel.

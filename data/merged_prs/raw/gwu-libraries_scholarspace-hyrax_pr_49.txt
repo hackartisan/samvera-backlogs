@@ -1,0 +1,1 @@
+Updated hyrax gem to 1.0.5 - fixes #48

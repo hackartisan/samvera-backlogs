@@ -1,0 +1,2 @@
+Use updated method to access multires images; Closes #430
+This removes an older method of accessing multires_image_file_paths now that the performance of the method on SolrDocument performs well. Many of the changed lines are removed trailing spaces or tabs converted to spaces.

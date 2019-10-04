@@ -1,0 +1,2 @@
+Error when reindexing: Client error: Request Entity Too Large
+Even with a 500 record batch size, I'm seeing a lot of Client error: Request Entity Too Large errors.

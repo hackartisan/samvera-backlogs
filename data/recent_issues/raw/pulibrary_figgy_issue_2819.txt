@@ -1,0 +1,2 @@
+files stuck in "pending uploads" box
+User tried to upload some items and when they appeared stuck in pending uploads, tried again the next day. They uploaded successfully later so the images are there, but so is the pending uploads box. https://figgy.princeton.edu/concern/scanned_resources/2b25f02d-552c-480e-bd93-a7de3dadfbf9/file_manager Update Willow.

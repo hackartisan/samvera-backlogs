@@ -1,0 +1,2 @@
+Add clamav to Gemfile
+I have added the clamav gem into the Gemfile

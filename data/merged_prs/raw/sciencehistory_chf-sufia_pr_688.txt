@@ -1,0 +1,2 @@
+more reliable OSD spinner
+It was going away too early, now we wait until we have at least one actual tile draw before removing it.

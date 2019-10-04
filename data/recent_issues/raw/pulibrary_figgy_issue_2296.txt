@@ -1,0 +1,2 @@
+Scanned maps duplicate `label` field for cases where multiple maps are cataloged for a single sheet
+https://catalog.princeton.edu/catalog/6773431 exposes a Manifest generated containing identical labels for all maps which comprise a single sheet (please see https://figgy.princeton.edu/catalog/c39fcf59-aa14-4b09-8f03-eaee89400874/).  Perhaps the 856 entries in the MARC record can be used to generate better labels for disambiguating between these individual maps.

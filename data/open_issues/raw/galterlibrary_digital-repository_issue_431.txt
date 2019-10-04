@@ -1,0 +1,2 @@
+Add ability to chose various resolutions and formats when downloading images through IIIF
+This might be confusing to most regular users and should probably the hidden by default.

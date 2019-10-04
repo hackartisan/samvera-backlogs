@@ -1,0 +1,1 @@
+Fixes #7 via configuration. Also ref #27

@@ -1,0 +1,2 @@
+Wording change for asynchronous download button
+Suggested by @rickjohnson Rick was looking for a way to strongly indicate “click this button to download” while remaining concise. Thoughts @dbrower @ruthtillman?

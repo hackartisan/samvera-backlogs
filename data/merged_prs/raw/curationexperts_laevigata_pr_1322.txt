@@ -1,0 +1,2 @@
+adding the lodash js library
+This commit adds Lodash, a very lightweight js library, to the project. It greatly eases the limited syntax burdens inherent in plain JS, providing Ruby-like iterators like .each and .map, convenience methods like filter, flatten, reduce, etc. https://lodash.com/docs

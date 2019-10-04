@@ -1,0 +1,2 @@
+CI should fail a step if we don't add to release notes
+This step shouldn't block us from merging, but should force us to think about if something should be added there.

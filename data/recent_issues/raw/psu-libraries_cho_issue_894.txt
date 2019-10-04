@@ -1,0 +1,2 @@
+Browsing collections
+Child of #483 Button on a collection sends the user to a page showing a paginated list of all works in the collection.  facets all works, paginated no collection metadata

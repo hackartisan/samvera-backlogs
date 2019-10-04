@@ -1,0 +1,2 @@
+help test derivatives on AWS
+These changes will get rid of some of the issues we're seeing on AWS. We'll probably run into more, but we've got to clear these out to proceed.

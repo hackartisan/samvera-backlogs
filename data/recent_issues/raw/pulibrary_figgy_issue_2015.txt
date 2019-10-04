@@ -1,0 +1,2 @@
+Show page should display logical order hierarchy, with access-token links to each node
+Depends on #2013 Depends on #2010 Child of #1986

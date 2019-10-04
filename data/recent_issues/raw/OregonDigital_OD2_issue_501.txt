@@ -1,0 +1,2 @@
+Append language codes to labels in Language dropdown
+Descriptive summary It is helpful to have language codes appended to each language in the Language dropdown list. What this should look like is: English [eng] Abkhazian [abk] etc.

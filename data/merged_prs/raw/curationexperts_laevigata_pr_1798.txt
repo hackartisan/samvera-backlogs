@@ -1,0 +1,2 @@
+fix for displaying departments when editing an Etd
+This commit ensures departments display their selected values whether creating an or editing an Etd. It also removes some old code in the School component that has been obviated by us not allowing any editing of the school selection, which seemed to be causing bugs in the creation form. And it adds a template conditional in the Department.vue file that contributes to a bug fix, but has been marked as a todo for refactoring.

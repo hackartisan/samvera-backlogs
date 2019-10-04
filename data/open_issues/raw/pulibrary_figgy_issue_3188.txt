@@ -1,0 +1,5 @@
+Convert imaginary places from ScannedMap to ScannedResource
+https://figgy.princeton.edu/catalog/2512e369-1d09-4721-abbc-ce40f810d145 https://figgy.princeton.edu/catalog/0db7c7cb-d9d3-4f81-a89f-76bd7dbc221b https://figgy.princeton.edu/catalog/f700c84a-8499-46e3-abd2-3e601cdb6e65 https://figgy.princeton.edu/catalog/67cc248c-5ab2-451c-bd98-7271868ca1e6 https://figgy.princeton.edu/catalog/a7d2fe55-0449-43da-af4f-580a005d9684 Note: Ensure these get removed from the maps portal, and show up in the catalog.
+You just need to believe really hard @eliotjordan 
+they should probably be handled differently under a full moon
+Completed so they appear in the catalog. Should still be converted to ScannedResource so the ARK points to appropriate location.

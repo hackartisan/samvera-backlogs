@@ -1,0 +1,2 @@
+Work Show Page: Attach download functionality to work download links
+Descriptive summary Combine the work from #644 and #615. The download section should become a singular box without iteration per asset. We should feel safe removing action links for individual assets. Expected behavior Work show page download links should download the temporary files from #666 and #668 Related work Child of #644 Relies on #666, #668 Accessibility Concerns None

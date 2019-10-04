@@ -1,0 +1,2 @@
+Refactor collection feature tests
+Combines and reorganizes our collection feature tests for better efficiency. This saves about 13 seconds off the total time for all the collection tests. Connected to #1437

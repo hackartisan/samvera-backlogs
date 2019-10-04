@@ -1,0 +1,2 @@
+Copy more feature specs from Hyrax
+More work on #67.  Copies additional feature tests from Hyrax into UCrate. @changy66 Please review and merge when you get a chance.

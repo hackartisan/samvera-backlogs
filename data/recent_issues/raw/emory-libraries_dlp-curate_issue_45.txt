@@ -1,0 +1,2 @@
+Establish admin user group on production
+Figure out how users are created in Hyrax when logging in with shibboleth  Setup hydra-role-management  Add admin role to appropriate users  Connected to #36

@@ -1,0 +1,2 @@
+Improve logging 
+Before we do these long migrations, let's get the logging system cleaned up so we'll easily be able to measure performance metrics and track import jobs.  Upgrade to zizia 3.x, which uses the Rails logger instead of a custom logging solution Format the dlp-curate Rails logger so it includes a timestamp Turn logging level down to INFO for a better signal-to-noise ratio  Connected to curationexperts#16

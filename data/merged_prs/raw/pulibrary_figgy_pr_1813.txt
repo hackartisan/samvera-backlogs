@@ -1,0 +1,1 @@
+Adds title with nonsort tag, publisher and published_date

@@ -1,0 +1,2 @@
+Ignore RecordNotFound exception
+Right now when you try to access a record that does not exist it triggers a RecordNotFound exception and returns a 500 instead of 404. This adds some Rack middleware that will catch that exception and return a 404 instead. The code is also returning a 500 if you try to go to a patch that does not exist. This adds a route that will send you to a 404 page if you go to a non-existant route.

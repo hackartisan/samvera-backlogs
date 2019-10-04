@@ -1,0 +1,2 @@
+[SEE #155] Setup change password for user
+Descriptive summary A logged in user should be able to change their password.

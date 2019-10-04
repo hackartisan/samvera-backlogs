@@ -1,0 +1,2 @@
+Removing automatic drop index when reindexing
+If you want to obliterate the index, do it explicitly.

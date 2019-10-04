@@ -1,0 +1,2 @@
+Reinstall simpler-tiles every time.
+We think something changed in CircleCI and now the cached gem can't detect the simple-tiles shared library without this.

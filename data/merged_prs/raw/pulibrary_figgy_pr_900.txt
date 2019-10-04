@@ -1,0 +1,2 @@
+Handle nil value for fixity_last_success_date in fixity dashboard
+fixes #897

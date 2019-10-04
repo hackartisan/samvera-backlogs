@@ -1,0 +1,2 @@
+Add latitude and longitude to data model
+This adds the latitude and longitude attributes to the model. This does not include searching and faceting. Because these are one word terms, they do not need specific entries in the the locale files. Connected to #150 Connected to #148

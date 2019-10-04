@@ -1,0 +1,2 @@
+Added tip for template fields to Ingest Form. [ci skip]
+Fixes #470

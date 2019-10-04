@@ -1,0 +1,2 @@
+Embargo options for works
+As a collection curator, I want to be able to embargo access to some works, So that I can respect donor wishes and obey laws, but automate opening up access at a future date. Enhancement to #791

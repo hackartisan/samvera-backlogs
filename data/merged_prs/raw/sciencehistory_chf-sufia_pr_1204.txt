@@ -1,0 +1,2 @@
+Extra test for html in collection descriptions
+One extra test, per @jrochkind 's request.

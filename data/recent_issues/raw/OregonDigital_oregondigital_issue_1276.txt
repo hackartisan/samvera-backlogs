@@ -1,0 +1,2 @@
+Make Owner controlled (OSU only)
+Make Owner a controlled field like other Creator fields An export was done in February, with around 2000 existing values, from OSU collections.   Find or create URIs for existing values  Change Owner field to be controlled  Change text strings to URIs

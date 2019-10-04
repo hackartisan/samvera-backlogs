@@ -1,0 +1,2 @@
+Update Zizia for path fix
+This updates Zizia version to fix an issue where the CSV would be uploaded to a path that didn't exist.

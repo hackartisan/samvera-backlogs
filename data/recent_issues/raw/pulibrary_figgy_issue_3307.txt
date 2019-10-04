@@ -1,0 +1,2 @@
+Document how to run javascript tests
+yarn test runs everything in app/javascript/test

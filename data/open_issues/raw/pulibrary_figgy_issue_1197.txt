@@ -1,0 +1,2 @@
+Ephemera Project with folders but no boxes does not show in Facet list
+Only folders in boxes show up with the project facet in search results.

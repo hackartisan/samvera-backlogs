@@ -1,0 +1,2 @@
+Refining ETD search result view
+These changes were suggested by Matt Sisk.

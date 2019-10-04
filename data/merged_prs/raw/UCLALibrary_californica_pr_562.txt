@@ -1,0 +1,2 @@
+Styling and testing for CSV upload page
+This styling makes the CSV upload page less confusing -- there is only one upload button now, particularly. Connected to #504

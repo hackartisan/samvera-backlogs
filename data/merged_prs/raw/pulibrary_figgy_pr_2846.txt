@@ -1,0 +1,2 @@
+Convert artist to a nested property in NumismaticIssue
+Converts numismatic artist to a nested resource. Closes #2776

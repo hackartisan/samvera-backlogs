@@ -1,0 +1,2 @@
+Clean up Download page
+The download page has a lot of information that is not very useful for the teachers, so I'd like to clean it up. Can you please  Make the download button bigger Remove all the info in the square boxes

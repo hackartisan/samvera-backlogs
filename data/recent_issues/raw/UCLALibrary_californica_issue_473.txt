@@ -1,0 +1,2 @@
+Review Bennett CSV for any new metadata fields
+As a metadata expert, I would like to make sure all the metadata in the Bennett collection is already accounted for in our importer. If there are new fields, I would like to know and discuss with the team whether they need to be imported and what the correct mapping is. Acceptance Criteria   All columns in the Bennett CSV are covered by our mapping document  Lisa hasn't had time to complete writinng this ticket Child of #465 Requires #473

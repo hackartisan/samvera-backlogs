@@ -1,0 +1,2 @@
+Changes Recordings for Tracks in the PlaylistMembers component header
+This also introduces a feature test for this.  Resolves #2199

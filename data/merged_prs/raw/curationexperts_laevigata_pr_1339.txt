@@ -1,0 +1,1 @@
+Moved code from new form to form partial so that form can be shared between the new and edit actions.  This will be needed for both stories #1285 and #1286

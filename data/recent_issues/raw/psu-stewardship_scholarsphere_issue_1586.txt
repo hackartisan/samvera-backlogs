@@ -1,0 +1,2 @@
+Link to README Guide
+When a dataset has no README, the work's page includes a suggestion to add one:  How about adding a README file? ...  We should include a link to our new README guide. I suggest changing the text as follows:  How about adding a README file? Please see our guide for documenting your dataset with a README file

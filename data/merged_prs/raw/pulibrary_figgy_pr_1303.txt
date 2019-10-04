@@ -1,0 +1,2 @@
+Add collections to vector and raster wayfinders
+Closes #1302

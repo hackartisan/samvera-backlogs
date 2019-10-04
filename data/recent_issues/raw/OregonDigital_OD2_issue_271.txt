@@ -1,0 +1,2 @@
+[2] Display labels instead of URIs in faceting 
+Descriptive summary We need to change the system to look at the label of a field, rather than its uri, to display properly. The link should use the label to search instead of the URI as well. Expected behavior Facet is displayed using the label of a controlled field, and clicking it searches for the label. Related work Link to related tickets or prior related work here.

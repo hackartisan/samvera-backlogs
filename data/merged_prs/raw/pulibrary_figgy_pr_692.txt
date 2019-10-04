@@ -1,0 +1,2 @@
+Sorting collections and holding locations by title
+Fixes #666

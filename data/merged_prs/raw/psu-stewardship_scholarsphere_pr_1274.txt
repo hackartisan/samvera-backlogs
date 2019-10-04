@@ -1,0 +1,2 @@
+Delete Collection Message
+Reuses the same confirmation message for the delete action on the collection show page as the my collections listing page. Fixes #995 Collection Listing  Collection Show Page

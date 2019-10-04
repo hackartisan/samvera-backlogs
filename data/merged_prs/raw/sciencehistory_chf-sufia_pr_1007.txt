@@ -1,0 +1,2 @@
+new metadata field: source
+Closes #999

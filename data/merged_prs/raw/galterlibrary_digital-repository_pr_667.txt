@@ -1,0 +1,2 @@
+Release 1.16.0-remove_Original_Publisher-prefill_Publisher
+prefill Publisher field with "DigitalHub. Galter Health Sciences Library & Learning Center" update Publisher fields with "Galter Health Sciences Library" and "Galter Health Sciences Library & Learning Center" to be prepended with "DigitalHub. " add "DigitalHub. Galter Health Sciences Library & Learning Center" to non-private empty Publisher fields

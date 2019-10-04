@@ -1,0 +1,4 @@
+Ingest "GNIB" (pudl0066)
+
+Migrate as ephemera.
+MODS metadata records:  [GNIB.zip](https://github.com/pulibrary/figgy/files/2353164/GNIB.zip) 

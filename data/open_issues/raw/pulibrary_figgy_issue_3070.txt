@@ -1,0 +1,9 @@
+Recording Manifests should have download links for an MP3 if one is attached to it
+
+The manifests are addressed in #3107 but there is a UV bug preventing them from showing up in the download link area: https://github.com/UniversalViewer/universalviewer/issues/672
+There were some changes which were necessary to have the rendering links generated in the download dialogue for the Universal Viewer: https://github.com/UniversalViewer/universalviewer/compare/master...jrgriffiniii:issues-672-jrgriffiniii-renderings.  Unfortunately, I'm not finding that the renderings are being iterated through from the `Manifesto` package: https://github.com/UniversalViewer/universalviewer/blob/master/src/modules/uv-dialogues-module/DownloadDialogue.ts#L74
+It's actually failing to retrieve the Range here, which might render the previous observation irrelevant: https://github.com/UniversalViewer/universalviewer/blob/master/src/extensions/uv-av-extension/DownloadDialogue.ts#L77
+Download options are now generated from Manifest, Canvas, and Range `rendering` values: ![image](https://user-images.githubusercontent.com/1443986/59517877-876dcc00-8e92-11e9-80d1-005e2740496f.png)  I still need to resolve the bugs for the grouping of options and disable the "Entire file" option when `renderings` are found.
+This is now working with https://github.com/UniversalViewer/universalviewer/compare/master...jrgriffiniii:issues-672-jrgriffiniii-renderings, however the Manifests for Recordings with image FileSets (for associated thumbnails) still render a PDF for download:  ![image](https://user-images.githubusercontent.com/1443986/59535999-6de37900-8ec0-11e9-99ac-7c64d87579ae.png)  This needs to be removed.
+We need to implement these UV changes in Figgy to close this ticket. 
+The changes needed were merged upstream in https://github.com/universalviewer/universalviewer/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed, so I can proceed with this.

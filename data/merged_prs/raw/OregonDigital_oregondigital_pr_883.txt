@@ -1,0 +1,2 @@
+Added LCCN to Ingest form. Added label to facet field.
+Fixes #487

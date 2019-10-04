@@ -1,0 +1,2 @@
+Collection and files JSON representations
+Fixes #628

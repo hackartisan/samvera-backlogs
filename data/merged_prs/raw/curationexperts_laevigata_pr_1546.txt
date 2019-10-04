@@ -1,0 +1,2 @@
+Fix supplemental file type options
+We missed some of these. This adds them to the list. Closes #1534

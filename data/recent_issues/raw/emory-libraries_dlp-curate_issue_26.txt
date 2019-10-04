@@ -1,0 +1,2 @@
+Establish hosting location (AWS/other)
+Discussed at 12/12 release planning meeting for 0.1 This may involve producing a Decision Document

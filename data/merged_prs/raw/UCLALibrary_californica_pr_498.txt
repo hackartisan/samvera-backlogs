@@ -1,0 +1,2 @@
+Update New Work form to match required fields
+Remove creator and keyword Add Ark as a required form field Feature test needs to use javascript to adequately test that required fields are being populated as expected Update database truncation strategy to work with javascript enabled feature test  Connected to #452 Connected to #456

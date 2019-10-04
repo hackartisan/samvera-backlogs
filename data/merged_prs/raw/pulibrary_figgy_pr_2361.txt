@@ -1,0 +1,2 @@
+Update comment to reflect use case
+fixes #2334

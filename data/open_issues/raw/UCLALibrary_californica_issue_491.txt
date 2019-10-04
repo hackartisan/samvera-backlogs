@@ -1,0 +1,3 @@
+Add missing translations to localization files
+ACCEPTANCE We have Non-Jargon language (translations) for   en.hyrax.dashboard.my.heading.visibility - see https://github.com/samvera/hyrax/blob/v2.5.0/config/locales/hyrax.en.yml#L736  en.hyrax.dashboard.my.heading.collection_type - see https://github.com/samvera/hyrax/blob/v2.5.0/config/locales/hyrax.en.yml#L736
+I thought this was working locally, but on pushing it's not.

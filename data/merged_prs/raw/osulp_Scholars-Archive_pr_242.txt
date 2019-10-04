@@ -1,0 +1,2 @@
+Updated sufia and all libraries needed
+Updates to the newest version of sufia based on osulp/sufia

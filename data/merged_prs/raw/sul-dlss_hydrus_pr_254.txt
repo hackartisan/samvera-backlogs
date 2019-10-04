@@ -1,0 +1,2 @@
+Give a workflow an id
+This aligns Hydrus with the workflows that are retrieved from dor-services-app Fixes #255

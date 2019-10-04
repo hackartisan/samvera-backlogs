@@ -1,0 +1,2 @@
+Updating bundle installation protocol to https
+Instead of using git, use https. This commit removes warnings about insecure installation.

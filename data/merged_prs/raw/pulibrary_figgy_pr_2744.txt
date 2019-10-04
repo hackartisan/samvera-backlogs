@@ -1,0 +1,2 @@
+Move around Catalog Index View display to put thumbnails on left.
+Closes #131 New View:  Old View:

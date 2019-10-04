@@ -1,0 +1,2 @@
+View Only Parent Objects
+As an architectural historian, I want only “parent” images to appear in the results display, so that I can spot the right building before looking at the many “child” views of the building. This use story assumes that we catalog intellectual entities separate from digital objects, a la VRA/FRBR. For example, it assumes we have an intellectual entity called the Chrysler Building, which may have multiple views or images of the building, perhaps photographed by different agents. Henry P.

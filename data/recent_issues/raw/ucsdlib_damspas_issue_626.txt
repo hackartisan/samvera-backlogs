@@ -1,0 +1,2 @@
+Reorder components in Mexican Broadsides object (bb47828081)
+Descriptive summary We need the components reordered for a Mexican Broadsides object bb47828081, as it currently says "Back" then "Front". Order should be "Front" then "Back".

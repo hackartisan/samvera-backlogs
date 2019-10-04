@@ -1,0 +1,2 @@
+Updating webdriver gems used in feature tests
+Removes the chromedriver-helper gem because we don't seem to need it any more, and installs the webdriver gem as the generic replacement for all browser-based driver gems. This is based off of what's installed in CHO (see psu-libraries/cho@5a80dbb). The major difference that we'll see is running the suite locally will launch Chrome, and you'll see it open up during the test.

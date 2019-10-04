@@ -1,0 +1,2 @@
+MVW Support for Vue Filemanager
+Fixes issue #705 Fixes issue #703 Adds a few more cosmetic tweaks.

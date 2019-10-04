@@ -1,0 +1,2 @@
+Adding `edit_curation_concern_collection_path'
+Addressing an issue in which we don't have a named route for curation_concern collections, I'm adding a route. https://errbit.library.nd.edu/apps/5788e498d6c0ee0af0001123/problems/57b33e6dd6c0ee28ed0000fa

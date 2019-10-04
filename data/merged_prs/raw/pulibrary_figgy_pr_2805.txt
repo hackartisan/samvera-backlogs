@@ -1,0 +1,1 @@
+Updated install instructions on out-of-date README

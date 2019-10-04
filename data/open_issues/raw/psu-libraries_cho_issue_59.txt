@@ -1,0 +1,8 @@
+relate objects to more than one collection
+As a metadata specialist, I would like to assign more than one collection per object, so I can show all of the object's relationships within the repository and with the physical collections. [LB - I think the real problem is not making "collection" a thing that drives functionality (e.g. OAI-PMH harvesting), as CONTENTdm does.] [Blocked: #680]
+This is for display purposes.
+We need to support the original collection (Admin Set) and display collections for organization
+Background: http://bit.ly/dplaCollections
+@ntallman Works should be in only one home collection, either library or archival, and then multiple curated collections, or can their be multiple library and archival collections too?  @cam156 @mtribone we may want to distinguish the home collection id from the others. Right now, they're all getting lumped into one field, `member_of_collection_ids`.
+@awead Works _may_ be in multiple curated collections, but don't have to. Yes, this user story is about having works belong to secondary collections (archival, library, or curated) for display. Management comes from home collection only.
+TODO: * make a new field for secondary collection ids * rename member_of_collection_ids to home_collection_id and make it "singular," i.e. only contain one member  OUTCOMES * works need to display in each of its collections * facets need to display for each of a work's collections * work display should show all collections * work should allow for editing the home collection id and the additional collections the work is in  We might want to address #489 first and get the home collection field into the DD.

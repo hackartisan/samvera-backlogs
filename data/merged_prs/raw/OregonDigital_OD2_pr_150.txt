@@ -1,0 +1,2 @@
+Include generic terms in image form and presenter
+Add generic terms in image form and presenter references #146

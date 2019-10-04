@@ -1,0 +1,2 @@
+Support Markdown in Related URL field
+This commit adds an attribute renderer that will render markdown content that is entered in the Related URL field. The content is saved as an RDF::Markdown::Literal in Fedora. Closes #134

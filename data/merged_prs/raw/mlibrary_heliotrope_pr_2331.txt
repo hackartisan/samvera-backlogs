@@ -1,0 +1,2 @@
+JQuery event delegation to move CSB GA events
+Resolves HELIO-2647

@@ -1,0 +1,2 @@
+Moving README information into the wiki
+Description Why was this necessary? Remove development setup instructions from the README. They're in the wiki now. Changes Are there any major changes in this PR that will change the release process? No Checklist   i18n enabled  adequate test coverage  accessible interface

@@ -1,0 +1,2 @@
+Order Manager: Default when switching to foliation should be "f." instead of "p." and should pre-populate r and v
+Brought up at all-hands 1/19.

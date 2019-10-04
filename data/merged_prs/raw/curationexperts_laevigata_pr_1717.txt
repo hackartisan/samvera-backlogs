@@ -1,0 +1,2 @@
+Don't require user agreement on edit screen
+This commit will prefill the checkbox on the edit screen so those editing it don't need to check it again. Connected to #1688

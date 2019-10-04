@@ -1,0 +1,2 @@
+Feature/make other required
+Fixes #1434 This uses javascript to stop folks from ingesting items when they have chosen other in any of the fields that allow an other option.

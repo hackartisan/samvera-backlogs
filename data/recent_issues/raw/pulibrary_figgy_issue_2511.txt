@@ -1,0 +1,2 @@
+Link to catalog in the metadata panel for audio playlists
+The catalog has information about the playlist that Dan would like users to be able to easily access from the viewer that's going to be embedded in ARES.

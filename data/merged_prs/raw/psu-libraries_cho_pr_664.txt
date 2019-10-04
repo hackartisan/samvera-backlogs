@@ -1,0 +1,2 @@
+Test uploading a zip with file sets
+Description Ensures that uploading a zip containing multiple filesets, via the GUI, creates the required files and file sets in the application.

@@ -1,0 +1,1 @@
+Update .solr_wrapper.yml to test against Solr 7.4

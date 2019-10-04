@@ -1,0 +1,3 @@
+Request AWS Backup functionality for aws@emory account
+We need AWS Backup for snapshot and restore functionality of EFS mounts, this will be necessary for restoring thumbnails and derivatives to a certain point.   Initiate security review for AWS Backup  Reach out to security team for ETA on approval
+I've opened a ticket requesting this functionality be added to our aws@emory account.  [Link](https://emory.service-now.com/nav_to.do?uri=%2Fsc_task.do%3Fsys_id%3D450118541b94c890a8441f4ead4bcba5%26sysparm_record_target%3Dtask%26sysparm_record_row%3D2%26sysparm_record_rows%3D106%26sysparm_record_list%3Dopened_by%253Djavascript%253Ags.getUserID%2528%2529%255Esys_class_name%2521%253Dsc_request%255Esys_class_name%2521%253Dsc_req_item%255EORDERBYDESCsys_created_on)

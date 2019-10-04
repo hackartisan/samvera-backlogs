@@ -1,0 +1,2 @@
+Uses branch of batch ingest gem
+We need some modification that haven't been merged into master yet. Also, fixes broken sort column for 'Object Type' on batches#show page

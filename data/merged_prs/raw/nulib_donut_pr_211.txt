@@ -1,0 +1,2 @@
+revisions to image model from updated spreadsheet
+Fixes nulib/next-generation-repository#420  Location Property displays as "Place of Publication" nul_contributor and nul_creator predicates match spreadsheet custom citation property removed. bibliographic_citation labels/display are just "Citation". Add peices to display bibliographic_citation properly language predicate matches spreadsheet physical_description renamed to physical_description_size provenance predicate matches spreadsheet

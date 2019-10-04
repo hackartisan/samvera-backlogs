@@ -1,0 +1,2 @@
+Updating Niftany to use executable
+Run the included niftany executable which runs all the linters and exits if any of them fail. Now you can run bundle exec niftany and this will run all three linters: rubocop, erb-lint, and scss-lint.

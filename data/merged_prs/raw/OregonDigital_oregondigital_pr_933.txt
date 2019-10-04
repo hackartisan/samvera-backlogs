@@ -1,0 +1,2 @@
+Use cache store for sessions
+Closes #902

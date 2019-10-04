@@ -1,0 +1,2 @@
+Update Valkyrie-Sequel to fix symbol encoding
+Refs #2150

@@ -1,0 +1,2 @@
+HELIO-1861 toc link to CSB is broken for multi rendition epubs
+Instead of using the chapter's href to link into CSB, use the chapter's CFI. This "base" CFI should work for both renditions.

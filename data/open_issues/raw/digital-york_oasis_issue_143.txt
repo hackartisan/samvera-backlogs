@@ -1,0 +1,3 @@
+Upload form / search facets: Admin should be able to add a term to the authority list (data dictionary) for each multiple choice metadata field
+As discussed in #126, OASIS admin should be able to add a term to a multiple choice metadata field, when necessary. This functionality is needed for all multiple choice metadata fields in the upload form (and all search facets in the summary search results page). For example, OASIS admin should be able to add a new journal title to the "Journal of publication" field.
+We agreed that at this stage we will be updating the list on one-by-one infrequent request to technology team.  @yf508 we should document process how the new information can be added.

@@ -1,0 +1,2 @@
+add ga tracking code to CSB epub view
+Resolves #1418

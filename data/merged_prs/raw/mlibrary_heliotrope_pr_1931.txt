@@ -1,0 +1,2 @@
+Resolves HELIO-1966: Display complete TOC
+Minor refactor, Minor fix to cfi link, and Minor fix to toc

@@ -1,0 +1,2 @@
+Extract cache to a class.
+Makes it so we can test it.

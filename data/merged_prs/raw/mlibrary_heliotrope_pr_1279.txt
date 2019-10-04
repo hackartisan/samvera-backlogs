@@ -1,0 +1,2 @@
+Update to Rails 5.1.3
+Tests are passing and everything looks good on heliotrope-testing. This update doesn't change how we process javascript via the asset pipline, we're still doing it the pre Rails 5.1 way. We'll need to investigate if we want to try using webpack and yarn, but right now we're not.

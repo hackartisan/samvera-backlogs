@@ -1,0 +1,2 @@
+Update Zizia
+This removes the 'in Bytes' from the table headers. These columns are human readable sizes now and not bytes. This also changes a spec that tested a specific order for the rows. When you aren't running the jobs inline you can't guarantee the order currently.

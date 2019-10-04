@@ -1,0 +1,2 @@
+JSON/LD for records need to be accessible for all complete items that are not private
+So that dpul can index all records even though we lock down manifests.

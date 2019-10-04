@@ -1,0 +1,2 @@
+Display item record even if multires image doesn't exist
+I renamed the is_multi_image? helper method to has_two_or_more_multires_images? and added a test to clarify the purpose of the method.

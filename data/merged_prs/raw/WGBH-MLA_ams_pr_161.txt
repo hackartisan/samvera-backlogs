@@ -1,0 +1,1 @@
+AMS-541 removing per page param to get all results

@@ -1,0 +1,1 @@
+Resizing banner image for quicker load.

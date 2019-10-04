@@ -1,0 +1,1 @@
+basic routes for /dspace and /jspui

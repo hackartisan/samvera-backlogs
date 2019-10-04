@@ -1,0 +1,1 @@
+Adding missing spec for Index lib collection

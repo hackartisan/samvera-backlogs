@@ -1,0 +1,2 @@
+add ability to trigger fixity checks from fileset show view
+this was part of #170 but is a little more involved than necessary for parity. add a button on the fileset show_tools panel to trigger a synchronous fixity check.  needs ui (button + action) needs controller (maybe best to create a mixin and include it in the hyrax_overrides.rb initializer)

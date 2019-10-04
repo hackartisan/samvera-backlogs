@@ -1,0 +1,2 @@
+Don't merge until after #271 - Verify links work in static pages
+This is a follow-up PR after #271 is merged. I discovered the static pages feature test wasn't testing external links or anchor links. This fixes that and refactors things for clarity, removing the rubocop exceptions. Also, we can test for the presence of YouTube links with and without a current, logged-in user.

@@ -1,0 +1,2 @@
+Use SDR stemmed workgroups for new APOs
+Because with the change to Shibboleth authentication, Argo is only able to see SDR stemmed workgroup membership. Fixes #169

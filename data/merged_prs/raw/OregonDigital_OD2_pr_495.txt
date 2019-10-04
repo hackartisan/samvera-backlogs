@@ -1,0 +1,2 @@
+autoload the featureclassuritolabel class
+fixes #392

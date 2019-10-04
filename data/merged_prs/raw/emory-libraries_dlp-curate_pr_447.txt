@@ -1,0 +1,2 @@
+Create Langmuir collection on every system
+Ensure only one collection per call number is created If a collection object exists already, find it and update its metadata Run the collection creation script on deploy so we always have the expected collections in every environment  Connected to #403

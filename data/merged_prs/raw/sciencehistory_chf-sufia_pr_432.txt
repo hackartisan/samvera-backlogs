@@ -1,0 +1,1 @@
+Hack to monkey-patch MiniMagick to always add the 'quiet' arg

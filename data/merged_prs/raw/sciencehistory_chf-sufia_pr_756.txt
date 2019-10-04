@@ -1,0 +1,1 @@
+Only show 'my works' breadcrumb for logged-in users, fixes #746

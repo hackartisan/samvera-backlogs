@@ -1,0 +1,2 @@
+EDTF work on collections not harvested by MWDL
+Dates from collections not selected for inclusion in MWDL/DPLA have not been remediated to conform to the EDTF standard. Included collections:   Art and Architecture Images (UO)  JSMA (UO)

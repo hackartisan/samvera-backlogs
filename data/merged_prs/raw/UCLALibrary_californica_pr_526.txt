@@ -1,0 +1,2 @@
+Raise an error if importer finds unknown CSV headers
+I removed these columns from the CSV files in the fixtures, since the importer doesn't yet handle these fields.  Object Type Alternate Identifier.url Description.abstract Item Sequence Name.architect Relation.hasVersion Rights.permission thumbnailImageName  Connected to #481

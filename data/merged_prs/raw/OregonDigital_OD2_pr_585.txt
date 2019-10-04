@@ -1,0 +1,2 @@
+update label for human readable type
+Fixes #579

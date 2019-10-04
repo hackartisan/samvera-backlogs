@@ -1,0 +1,2 @@
+set visibility to private
+closes #2091

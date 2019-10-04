@@ -1,0 +1,2 @@
+ControlledVocabulary#all does not meet expected interface, should have an optional scope argument
+https://github.com/pulibrary/figgy/blob/master/app/models/controlled_vocabulary.rb#L33 If this ever got called in reality, it would error - every other implementation has a scope (https://github.com/pulibrary/figgy/blob/master/app/models/controlled_vocabulary.rb#L81)

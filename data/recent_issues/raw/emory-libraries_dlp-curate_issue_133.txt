@@ -1,0 +1,2 @@
+Prevent new users from getting an account
+Users that are not already registered with the system (done on the backend) should not be able to create an account, or log in.   Remove route to signup page.  Update User model to reject users unless already in db (or on the list)

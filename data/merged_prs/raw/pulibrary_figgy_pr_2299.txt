@@ -1,0 +1,2 @@
+Ignore Thumbs.db files during bulk ingest
+Closes #2297

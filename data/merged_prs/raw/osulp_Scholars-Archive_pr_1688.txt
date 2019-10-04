@@ -1,0 +1,2 @@
+added proper labels to search facets and tag
+Fixes #1684 It looks like we can set labels for custom field names used for query searching, so we can use nested_ordered_creator_label_ssim in the search_field param. The trick is to define them right below search > fields https://github.com/projectblacklight/blacklight/blob/v6.15.0/config/locales/blacklight.en.yml#L212

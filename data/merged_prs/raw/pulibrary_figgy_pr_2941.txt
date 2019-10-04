@@ -1,0 +1,2 @@
+Make author_id multivalued
+Closes #2940

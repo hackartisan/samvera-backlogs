@@ -1,0 +1,2 @@
+Collection report email improvements
+The collection report emails work, but could be improved:   Limit number of items listed to 10, and include a link to view the rest (this will prevent giant emails)  Add note to the bottom of the email saying they are receiving it because they are a collection owner, and a link to the collection page where they can remove themselves.

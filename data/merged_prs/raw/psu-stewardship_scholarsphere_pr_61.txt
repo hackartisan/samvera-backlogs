@@ -1,0 +1,1 @@
+Use hydra-jetty 8.1 unless ENV['MIGRATE'] is provided

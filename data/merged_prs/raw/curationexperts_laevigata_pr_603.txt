@@ -1,0 +1,1 @@
+make preview of pdf appear zebra-striped on review tab

@@ -1,0 +1,2 @@
+Refactor RSpec configuration, add factories, update specs
+This PR makes changes to the Gemfile, make sure to run bundle install locally.

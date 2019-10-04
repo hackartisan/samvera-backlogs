@@ -1,0 +1,2 @@
+Implement Repeating Fields on Metadata Forms
+Data dictionary allows fields to be defined as multi-valued. CSV ingest has the ability to accept multiple values/value-pairs, but our metadata edit forms do not have the ability to add repeating fields. #98 says we used an older rails method to do this until we were out of MVP, but if it was implemented, it doesn't seem to be working anymore.

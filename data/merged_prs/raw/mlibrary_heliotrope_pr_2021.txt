@@ -1,0 +1,2 @@
+remove Gabii payment messages
+Resolves HELIO-2179, HELIO-2180

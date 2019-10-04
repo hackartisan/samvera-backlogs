@@ -1,0 +1,2 @@
+Stimulus
+Description Re-implements the UI for managing multiple fields using the simulus.js package and Jest for testing. Accomplishes the same feature set with less code and without any reliance on additional css classes. The only classes used are from Bootstrap. Changes  creates FieldsController to do all the management uses Jest for unit tests linting and testing is done during add additional Travis build stage  Preview

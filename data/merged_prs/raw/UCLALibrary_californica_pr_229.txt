@@ -1,0 +1,2 @@
+Map `Publisher.publisherName` during CSV import
+Work setting up publisher object was done in #106 Connected to #107

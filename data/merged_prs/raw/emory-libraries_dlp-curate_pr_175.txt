@@ -1,0 +1,2 @@
+Ensures Hyrax supports multi-part objects
+Closes #84

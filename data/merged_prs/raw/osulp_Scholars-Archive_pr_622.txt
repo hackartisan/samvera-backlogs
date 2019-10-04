@@ -1,0 +1,2 @@
+Feature/update article metadata
+fixes #621

@@ -1,0 +1,1 @@
+Allow user to create/edit committee members on the ETD submit/edit form

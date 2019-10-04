@@ -1,0 +1,2 @@
+Field contents missing on edit
+When a work is edited some field contents are missing: Job advert work: publisher location Article work: journal title Possibly other non-required fields are missing as well

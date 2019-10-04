@@ -1,0 +1,2 @@
+Version names
+Fixes tickets #876 #874 and #873

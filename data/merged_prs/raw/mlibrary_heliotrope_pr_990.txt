@@ -1,0 +1,2 @@
+HEB branding
+Resolves #942 Adds branding for ACLS Humanities E-Book

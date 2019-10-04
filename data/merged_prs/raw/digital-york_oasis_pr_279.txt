@@ -1,0 +1,2 @@
+Correct search filter: Summary models only
+One more attempt to correct search filter. Follow Hyrax documentation -  filter records with Summary model only

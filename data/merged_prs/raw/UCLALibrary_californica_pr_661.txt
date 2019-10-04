@@ -1,0 +1,2 @@
+Additional spec for ChildWork manifest view
+There is a view spec for a work with a file attached. This adds another spec that describes a manifest for a work with ChildWorks. This also adds some transient properties in the Work factory to allow works with files or ChildWorks to be easily created.

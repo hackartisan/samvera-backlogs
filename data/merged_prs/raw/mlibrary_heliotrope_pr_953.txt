@@ -1,0 +1,2 @@
+Fixup/penn state
+Resolves #620 Modifications to Penn State theme:  Changes serif font to droid serif (same font as Northwestern) Modifies button text color to a dark gray for WCAG compliance Modifies pagination text color to dark gray for WCAG compliance Fixes external resources icon display in gallery view (increase size of icon, centers text)

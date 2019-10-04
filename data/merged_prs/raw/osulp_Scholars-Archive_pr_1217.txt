@@ -1,0 +1,2 @@
+updates featured works list to match recently uploaded for non-admin users
+fixes #1012

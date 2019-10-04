@@ -1,0 +1,2 @@
+Updates essence_track validations
+Updates the validations on essence_track so that the error messages get added to base for the hyrax form view.

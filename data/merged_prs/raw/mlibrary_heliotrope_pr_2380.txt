@@ -1,0 +1,2 @@
+fix handling of APTrust API response
+BUG FIX: Now checks the parsed APTrust response for parsed['count'].zero? and, if true, sets the db record APT_STATUSES to 'not_found'.

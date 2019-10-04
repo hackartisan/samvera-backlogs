@@ -1,0 +1,2 @@
+Add a record class for processing the record XML
+This commit adds a class that initialized with the XML from the <record> and has public methods for returning the properties from the XML. This abstraction will let us process the values from the XML more easily. For example, the title method will return the title with the author string removed. Closes #81 Add a record class for the importer

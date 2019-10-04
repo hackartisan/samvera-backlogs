@@ -1,0 +1,2 @@
+Multiple versions of Twitter Typeahead
+In production, we have 2 version of Twitter Typeahead. We use Typeahead for the creator autocomplete and user lookup for sharing works with others in the UI. remove old versions and update to newest version.

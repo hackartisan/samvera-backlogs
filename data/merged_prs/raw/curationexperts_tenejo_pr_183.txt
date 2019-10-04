@@ -1,0 +1,2 @@
+Date uploaded redux
+Previously, darlingtonia was writing over the Hyrax date_uploaded value by setting that field in the record metadata. This test ensures this isn't happening. It won't pass, however, until the PR to remove date_uploaded from darlingtonia has been merged and tenejo starts using it. Connected to #166

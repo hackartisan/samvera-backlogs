@@ -1,0 +1,2 @@
+Translate design for OD2 collections page
+Descriptive summary We need to translate the work @mccallum did on the collections landing page into code and get it in line with what is displayed here: https://sketch.cloud/s/mEz3z/xrz72b8 and https://sketch.cloud/s/mEz3z/ELAxjno. As long as we can get it "close enough" then thats all we need.

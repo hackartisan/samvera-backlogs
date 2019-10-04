@@ -1,0 +1,2 @@
+Show issue in breadcrumb when parent_id is not in the path
+closes #2342

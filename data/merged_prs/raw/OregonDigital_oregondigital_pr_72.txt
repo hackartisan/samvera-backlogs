@@ -1,0 +1,2 @@
+Feature/factories
+Implements factories to simplify our specs.  Closes #62

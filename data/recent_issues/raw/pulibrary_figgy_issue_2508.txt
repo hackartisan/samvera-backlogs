@@ -1,0 +1,2 @@
+Change GeoBlacklight document dct_source_sm field name
+Change GeoBlacklight document field dct_source_sm to dc_source_sm to match upstream GeoBlacklight schema. https://github.com/pulibrary/figgy/blob/master/app/services/geo_discovery/geoblacklight_document.rb#L63 https://github.com/geoblacklight/geoblacklight/blob/master/schema/geoblacklight-schema.md#source

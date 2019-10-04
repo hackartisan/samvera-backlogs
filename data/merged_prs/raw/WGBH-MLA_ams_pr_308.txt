@@ -1,0 +1,2 @@
+Destroys child Works when Parent is deleted
+The after_destroy hook is used for ActiveFedora models to destroy child object after parent is destroyed. This effectively is a 'cascade' delete.  Asset#destroy deletes PhysicalInstantiations, DigitalInstantiations, Contributions, and AdminData PhysicalInstantiation#destroy and DigitalInstantiation#destroy deletes Contributions and EssenceTracks  Also, updates factories to use ordered_members to be consistent with how models are associated in the app.

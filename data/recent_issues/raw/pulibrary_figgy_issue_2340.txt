@@ -1,0 +1,2 @@
+Maps entering public domain January 1, 2019
+The "Sonny Bono Copyright Term Extension" comes to a close at the start of 2019. The attached scanned maps published in 1923 (all of them Sanborn map sets) will move into the public domain, and we should update the visibility to public a result. out_of_copyright_maps_1923.json.zip There are 53 entries in the document, but because they are parent resources in a MapSet, over 600 scanned maps are affected by the change.

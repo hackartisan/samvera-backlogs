@@ -1,0 +1,2 @@
+Batch Download of Objects
+As a researcher, I would like to select individual digitized items as I browse and then download them as a batch at the end, so that I can fully review all selections before taking an action. Ben G. User should have the option to download only representative files or complete filesets for each object. [Added, NT 2019-01-31] Related: #90

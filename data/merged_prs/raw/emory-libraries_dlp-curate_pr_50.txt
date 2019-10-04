@@ -1,0 +1,2 @@
+Adds trackable columns to users table
+These columns are required when logging in via shib or local dev. Also updates readme to specify about database_auth environment variable.

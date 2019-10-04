@@ -1,0 +1,2 @@
+Add fields for transliterated creator, contributor, publisher
+Needed for Ukrainian and Middle Eastern Posters Implement this as nested resources: creator:  grouping:  creators with various language tags    Note: As soon as there are nested objects in this manner, sync will break for those resources in LAE and DPUL (ephemera objects).

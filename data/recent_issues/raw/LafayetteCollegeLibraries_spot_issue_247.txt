@@ -1,0 +1,2 @@
+add ability to facet by 'visibility'
+this field's already indexed (visibility_ssi) + the facet is available on the admin side. maybe we should add it to the 'admin facets' area of /catalog too?

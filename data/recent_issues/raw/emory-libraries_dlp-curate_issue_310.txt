@@ -1,0 +1,2 @@
+Testing revision - Rights Statement model properties incorrect on form
+Relates to form revisions tickets. The rights statement properties/labels are flip-flopped on the form. rights_statement_controlled property on the generic work model equates to D57 and should be a drop-down list using controlled terms on the form rights_statement property on the generic model equates to D56 and should be a free text (text area) field on the form

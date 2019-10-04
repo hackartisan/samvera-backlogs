@@ -1,0 +1,2 @@
+Add show ability
+Fixes #756 Does not provide any restriction as is, still needs checks for access Can easily be made to work with visibility from #775

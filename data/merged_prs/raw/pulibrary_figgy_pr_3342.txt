@@ -1,0 +1,1 @@
+FileSet tombstones should reference the parent they're leaving behind

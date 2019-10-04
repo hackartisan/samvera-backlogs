@@ -1,0 +1,2 @@
+Don't re-query for filesets in ManifestBuilder
+Should improve efficiency of manifest generation significantly. Discovered via datadog: https://app.datadoghq.com/apm/resource/figgy/rack.request/68b3ff7466d9457a?start=1537461404405&end=1537465004405&paused=false&env=none&traceID=694789138216265633&spanID=6994033335916105774&graphType=span_list

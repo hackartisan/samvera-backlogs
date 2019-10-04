@@ -1,0 +1,2 @@
+fix aspectratio for child works
+de-array-ify

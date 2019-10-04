@@ -1,0 +1,6 @@
+Non-work type fields in the data dictionary
+We should be able to define fields for file sets and files in the data dictionary. These would include terms for a file's original name, display name, use type (ex. thumbnail, original, service, etc.) as well as technical, rights, and administrative metadata. Currently, our configuration schema assumes that core fields are included by default. However, for files and file sets, these terms may not apply. We should be able to define a group of arbitrary fields for any schema, preferably in config/schema_fields.yml. These schemas could then control which fields are defined on non-work type resources such as file sets and files.
+Related to #512 and #550.
+Should this be closed or re-assigned? I think we decided not to add new fields to the data dictionary for files and file sets on 6/20, at least for now.
+Yes, let push this off until we need to administrative and technical metadata fields.
+Blocked by #66

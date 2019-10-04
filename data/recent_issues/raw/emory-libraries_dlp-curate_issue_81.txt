@@ -1,0 +1,2 @@
+Create/Validate workflow amd adminset for curate-generic worktype
+Create (or validate existing) 1-step deposit workflow  Create (or validate existing) adminset, with above workflow  Test

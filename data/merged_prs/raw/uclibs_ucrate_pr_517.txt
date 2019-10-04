@@ -1,0 +1,2 @@
+Add noid initializer
+Fixes #515 Add noid initializer to prevent LDP::Conflict error. Changes proposed in this pull request:  Add config/initializers/noid_rails.rb

@@ -1,0 +1,2 @@
+Update spec/features/create_work_with_fields_spec.rb
+Descriptive summary We should make a few changes to the existing spec/features/create_work_with_fields_spec.rb:   Change it to create a Generic Work instead of an Image.  We used image when this spec was created because generic works were not properly saving the description field.   Rename this file to spec/features/create_generic_work_spec.rb   Update the spec so it fills out and verifies all fields like the change we made in #513.  We don't currently have a spec that tests all fields for generic works.

@@ -1,0 +1,2 @@
+UniversalViewer support for audiovisual media
+Currently, there is support for streaming video and audio using the UniversalViewer 2.0.2: http://universalviewer.azurewebsites.net/#?c=0&m=0&s=0&cv=0&manifest=http%3A%2F%2Fwellcomelibrary.org%2Fiiif%2Fb17307922%2Fmanifest http://universalviewer.azurewebsites.net/#?c=0&m=0&s=0&cv=0&manifest=http%3A%2F%2Fwellcomelibrary.org%2Fiiif%2Fb20605055%2Fmanifest These might provide an embedded audio viewer for the audio reserves managed for the Mendel Music Library: #1986

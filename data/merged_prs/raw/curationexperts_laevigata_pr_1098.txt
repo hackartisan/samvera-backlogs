@@ -1,0 +1,2 @@
+New UI test filtering
+This commit adds test configuration that ensures new_ui view and feature tests only run when the new_ui flag is true, and vice-versa. It also adds some feature tests covering the find-or-create-by behavior, as a result of which users can only work on one in-progress-etd until they've published it.

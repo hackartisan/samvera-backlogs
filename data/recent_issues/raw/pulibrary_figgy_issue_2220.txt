@@ -1,0 +1,2 @@
+Coin File Manager should have parent Issue in breadcrumbs
+Child of #2025

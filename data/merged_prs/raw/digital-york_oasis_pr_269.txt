@@ -1,0 +1,2 @@
+Improve summary page view
+This change is to make summary page view more cleaner as discussed at #275.  Move licence icon in title space Add full licence text Make conditional display of Participants details section make conditional display of Study details section

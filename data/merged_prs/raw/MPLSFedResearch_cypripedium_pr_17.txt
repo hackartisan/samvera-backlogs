@@ -1,0 +1,2 @@
+Adding publication work type
+Closes #8

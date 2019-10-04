@@ -1,0 +1,2 @@
+Model/ChangeSet/Controller/Decorator shared specs; adding SimpleResource model
+Re-rebasing #1043 Fixes #1026

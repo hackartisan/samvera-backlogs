@@ -1,0 +1,2 @@
+Feature/update logo
+fixes #845 fixes #905 fixes #848 full screen:  mobile:

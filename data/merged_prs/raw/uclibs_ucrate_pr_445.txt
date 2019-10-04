@@ -1,0 +1,2 @@
+Fix collection license persistence
+Fixes #438 Collection license form values weren't persisting due to single/multi value issue. Add property override to local collection model and the problem is resolved.

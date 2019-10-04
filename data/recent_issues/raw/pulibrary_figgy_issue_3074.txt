@@ -1,0 +1,1 @@
+Rake task to set all current Recordings to be unable to be downloaded.

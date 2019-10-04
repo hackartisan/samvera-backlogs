@@ -1,0 +1,2 @@
+Creating a bulk add feature for assigning collections to already ingested items?
+is this possible? Example: adding another collection (ex: Edith Wharton) to items within an already assigned collection: https://figgy.princeton.edu/catalog?utf8=✓&q=Edith+Wharton+Manuscripts+C0118

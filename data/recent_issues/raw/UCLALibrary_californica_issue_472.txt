@@ -1,0 +1,2 @@
+Obtain CSV for Bennett Collection
+As a team member preparing the Bennett Collection for import into Californica, I need a CSV of the metadata Acceptance Criteria   A JIRA ticket exists for the DL Legacy Apps team to provide the CSV, link provided  A CSV for Bennett collection is uploaded to ucla.box.com, link provided  Child of #465

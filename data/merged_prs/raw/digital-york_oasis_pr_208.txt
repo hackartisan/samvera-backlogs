@@ -1,0 +1,2 @@
+[WIP] Correction to #207 disable resque
+Disable use of Redis asynchronous job in staging/production environment. Include production env as it was accidentally omitted in #207

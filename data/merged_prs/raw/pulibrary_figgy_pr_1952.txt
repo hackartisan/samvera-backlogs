@@ -1,0 +1,2 @@
+Avoid querying for every thumbnail in Structure
+Closes #1951.

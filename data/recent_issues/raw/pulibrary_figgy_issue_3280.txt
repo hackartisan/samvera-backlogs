@@ -1,0 +1,2 @@
+Change Slug field to say "DPUL URL"
+Field should be like https://dpul.princeton.edu/<inputboxhere> @hackmastera recommended having a hint or something to say "If you're not planning to create a DPUL collection it's okay, just put in a filler value here."

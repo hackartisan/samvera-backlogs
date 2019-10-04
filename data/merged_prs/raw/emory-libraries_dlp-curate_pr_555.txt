@@ -1,0 +1,2 @@
+Handle JSON format requests for metadata_details
+Adds support for requests to /importer_documentation/guide.json. Redirects any unrecognized request formats to .html

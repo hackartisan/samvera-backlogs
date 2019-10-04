@@ -1,0 +1,2 @@
+Allow mulitple collection assignments in batch
+Allow repeating collection_id fields in batch speadsheet Remove aiblity to send collection_title to create a new collection

@@ -1,0 +1,2 @@
+CC Fran for emails
+Fran (fpici@emory.edu) would like to be CC'd on emails generated from ETDs. I believe DCE has set up an environment variable to allow for this. Freshdesk: https://curationexperts.freshdesk.com/a/tickets/114

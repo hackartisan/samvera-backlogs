@@ -1,0 +1,2 @@
+Indexing Bugs
+Filenames and identifiers (alternate_ids) don't seem to be indexing anymore. All of the folloing should but do not return this work  Identifier: pstsc_09844_e15ca556987b120ed80a50444194464a Identifier: pstsc_09844_e15ca556987b120ed80a50444194464a_00003_001 Filename: pstsc_09844_e15ca556987b120ed80a50444194464a_00003_001_text.txt

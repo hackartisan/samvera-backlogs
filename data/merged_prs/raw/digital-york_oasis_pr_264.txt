@@ -1,0 +1,2 @@
+Issue 44 download survey ror form
+Implement new downloader survey as requested at #44  define downloader model as Hyrax works define survey controller as plain Rails (no authentication required) use Rails form to build survey use session to store information about user  Session Issues  Summary page need to be refreshed to recognised that the survey has been completed. After that the user can download again the summary without filing the survey. Session will expire after one month of not using the site. User will require to fill the survey again.

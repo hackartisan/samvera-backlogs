@@ -1,0 +1,2 @@
+updated select inputs to display all options for admin users
+Updated dropdown options in the following fields to display all options available (active and inactive for admin users)  academic_affiliation degree_field degree_level language license peerreviewed  fixes #733

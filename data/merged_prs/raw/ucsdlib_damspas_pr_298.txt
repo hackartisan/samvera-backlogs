@@ -1,0 +1,2 @@
+Feature/home page update
+Updated home page as requested. Modified design of lower half of the page to better suit current content. Updated <title> text. Updated HTTP links to HTTPS.

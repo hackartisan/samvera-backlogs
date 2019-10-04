@@ -1,0 +1,2 @@
+adding series title and description and refactoring code
+Fixes  AMS2-507 AMS2-508 also refactor code for typed fields.

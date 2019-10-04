@@ -1,0 +1,2 @@
+500 error for show route
+The URL https://curate.nd.edu/show/bc386h4644w causes a 500 error. I think it is because the item is a collection object.

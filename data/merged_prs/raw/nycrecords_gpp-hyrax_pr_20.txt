@@ -1,0 +1,2 @@
+Feature/GPP-288: Create Collection not working
+This PR sets visibility of work to be public by default.

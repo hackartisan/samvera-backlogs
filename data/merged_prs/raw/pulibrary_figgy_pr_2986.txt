@@ -1,0 +1,2 @@
+Adds Numismatics UI
+Updates the home-screen with the numismatics home url Adds the numismatics home UI The numismatics UI includes -> button for each managed numismatic resource. Updates drop-down _add_content Adds method for querying and counting the managed numismatics in the wayfinders  closes #2929

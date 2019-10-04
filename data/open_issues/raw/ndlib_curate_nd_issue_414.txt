@@ -1,0 +1,2 @@
+Typo in relationship between groups and the objects which they can edit
+Currently: hydramata-rel:isiEditorGroupOf Should be: hydramata-rel:isEditorGroupOf Before remediating, @dbrower and I need to figure out if it's even being used, whether it's a good idea to continue use, etc. The solution may be to eliminate this inverse relationship and just use the relationship on the child, which is the object being edited anyway.

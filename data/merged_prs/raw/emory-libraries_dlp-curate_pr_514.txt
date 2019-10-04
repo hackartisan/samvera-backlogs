@@ -1,0 +1,2 @@
+Add a downloadable CSV to the metadata guide
+This provides a link to a CSV representation of the information displayed in the guide.

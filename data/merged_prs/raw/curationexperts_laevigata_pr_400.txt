@@ -1,0 +1,2 @@
+uses Emory Shib authN, ppid as primary user handle
+This allows users to log in from Emory's Shibboleth server or from the devise login screen (which we are keeping for testing purposes). For both authN methods, the key field is ppid.

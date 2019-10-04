@@ -1,0 +1,2 @@
+Consistently index arks
+Ensure arks are indexed the same way for Works and Collections, and that they're indexed via the standard process as other fields. In other words, remove now deprecated special ark indexing behaviors. Connected to #456

@@ -1,0 +1,2 @@
+Display facets on collections landing page
+Fixes #550

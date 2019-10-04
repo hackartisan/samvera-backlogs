@@ -1,0 +1,2 @@
+Setup smtp for OD2
+Descriptive summary Since OD2 will be sending out emails to people, it will need its own email set up. This means that a unique email username and password will be needed and will be the email username that sends out emails to people in situations like a user needed to request their email address from OD2 because it was forgotten. This means we need: Email Username Email Password Configuration in OD2

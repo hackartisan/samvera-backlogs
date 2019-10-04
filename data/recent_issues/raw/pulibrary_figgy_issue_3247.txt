@@ -1,0 +1,2 @@
+Hidden files still ingesting
+See https://figgy.princeton.edu/concern/scanned_resources/b8c1de10-8688-4b7b-a108-9d1057438762/file_manager This happened when ingesting from Browse Everything.

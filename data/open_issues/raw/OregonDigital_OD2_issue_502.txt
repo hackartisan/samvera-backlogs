@@ -1,0 +1,2 @@
+Failed Loading for URIs should not prevent URI from saving
+Descriptive summary If a URI is entered in a URI enabled field, but does not return a result, OD should still allow the user to save the URI for that field. Currently, the form rejects the URI entirely (when there is No Match, the URI disappears and cannot be saved). Rather, allow the form to store the URI even if a label is not returned (label field stays blank). The job that manages fetching unfetched labels will take care of the unmatched URI at a future date (#312 ) Related #312 #500

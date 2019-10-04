@@ -1,0 +1,2 @@
+adjust nup description per nup request
+Resolves #443 Don't forget to run rake db:seed in deployment if it is important to see this change in staging and preview.

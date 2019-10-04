@@ -1,0 +1,5 @@
+IIIF Manifests
+Generate IIIF manifests for images, works, and (potentially) collections. These manifests would be consumed locally by the universal viewer to display resources within CHO, as well as published as links to be consumed by outside users and services.
+https://github.com/iiif-prezi/osullivan can be used to create the manifests https://github.com/samvera-labs/iiif_manifest might be more up-to-date
+This is a component of the epic #3 
+Generating the manifests isn't going be as interesting unless there's a viewer to show them. Now that CHO is using Webpacker for Javascript, we could install the Universal Viewer to display the content from these manifests.

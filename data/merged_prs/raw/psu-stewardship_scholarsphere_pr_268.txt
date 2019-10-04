@@ -1,0 +1,2 @@
+Delete documents from SHARE Notify
+Supports deleting documents from SHARE Notify if the file either becomes private, or is deleted from Scholarsphere.

@@ -1,0 +1,2 @@
+Unable to tab to "Add Another X" when creating Collections and Resources
+Tab through the interface and select 'Create Collection' and choose a collection type from the dropdown menu. When creating a new collection and tabbing through the form, tabbing from the input jumps the cursor over the 'add another x' to the next input. this is a problem for people who navigate using only the keyboard when creating new collections and resources. Tested in both Chrome and Firefox

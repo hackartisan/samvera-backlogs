@@ -1,0 +1,2 @@
+excluding subfields from validation
+This commit excludes subfields from My Program tab validation.

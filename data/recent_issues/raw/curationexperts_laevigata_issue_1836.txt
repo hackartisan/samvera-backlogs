@@ -1,0 +1,2 @@
+Fix school metadata
+While editing two ETDs, Fran noticed that their School had changed. https://etd.library.emory.edu/concern/etds/rr171z280, is Laney, should be Emory College https://etd.library.emory.edu/concern/etds/zs25x9505, is Emory College, should be Laney

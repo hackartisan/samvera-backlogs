@@ -1,0 +1,2 @@
+Static attributes will be removed in FactoryBot 5.0
+This avoids a deprecation warning in FactoryBot

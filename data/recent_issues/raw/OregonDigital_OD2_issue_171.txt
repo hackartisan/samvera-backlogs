@@ -1,0 +1,2 @@
+[SEE #155] CAS Authentication for OD2
+Descriptive summary OD2 needs to be able to login people using CAS. This means that when a new user clicks the login via cas link, they will be brought to the CAS page, put in their credentials, and then have an account created for them in OD2 and logged in. If the user already has an account in OD2 and they login via CAS, it should sign them in to their account per usual. NOTE: This needs to exist along side Devise. Not a replacement for it.

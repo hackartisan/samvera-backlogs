@@ -1,0 +1,2 @@
+Update sorting options in catalog view
+The Sorting needs to be changed to: (by) Subject, Title, Date. “Date Modified” and “Date Updated” need to be removed (at least from public view). • this is the relevancy dropdown • doesn’t need to be functional

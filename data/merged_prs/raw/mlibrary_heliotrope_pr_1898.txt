@@ -1,0 +1,2 @@
+Resolves HELIO-1910: Remove properties from models
+Simple clean up.

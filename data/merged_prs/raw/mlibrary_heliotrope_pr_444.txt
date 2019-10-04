@@ -1,0 +1,2 @@
+add google analytics for fulcrum and per press
+Resolves #348

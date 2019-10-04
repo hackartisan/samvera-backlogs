@@ -1,0 +1,2 @@
+Fixes #1497 3-d model reload issues.
+Also updated a javascript fix in workflow_actions_affix.js from a curation concerns fix to a hyrax one, comments in that file.

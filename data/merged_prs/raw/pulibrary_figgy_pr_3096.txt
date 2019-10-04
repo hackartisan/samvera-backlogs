@@ -1,0 +1,2 @@
+Recordings instead of MediaResources
+I got a little ahead of myself. This PR does three things: IngestArchivalMediaBagJob ingests Recordings instead. Regenerating HLS derivatives works when there's an intermediate file. Initial Manifest generation works Closes #3079

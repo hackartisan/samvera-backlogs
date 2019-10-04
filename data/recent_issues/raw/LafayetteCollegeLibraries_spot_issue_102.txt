@@ -1,0 +1,2 @@
+add ingest handling for rights-statements
+we're using uris for rights-statements, so we'll need to map the csv values to rights_statement_attributes and all that jazz.

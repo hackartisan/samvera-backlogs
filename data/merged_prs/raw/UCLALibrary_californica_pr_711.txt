@@ -1,0 +1,2 @@
+Precreate manifests
+Builds IIIF manifests for all works in an ingest (not ChildWorks or Collections), caching them to the filesystem.

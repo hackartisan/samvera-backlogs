@@ -1,0 +1,2 @@
+Add client side validation for custom elements
+fixes #1362  Adds HTML5 validation on "Save" to 'Other value' inputs so that a form reload is not required when validating these custom elements. The update applies to degree_field, degree_name, degree_level, degree_grantors, other_affiliation

@@ -1,0 +1,2 @@
+solrize to uri for rdf_resource; keep label for bnodes
+This closes #90

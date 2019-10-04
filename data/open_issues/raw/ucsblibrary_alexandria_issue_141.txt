@@ -1,0 +1,2 @@
+refactor view logic around images, pdfs, and newspapers
+It's a bit complicated, helper methods might go a long way here. And I think we might have a few unused partials as well, it'd be good to confirm we are using everything we have and get rid of the ones we aren't.

@@ -1,0 +1,2 @@
+HELIO-2657 Add a UI that shows the crossref submission log
+Here's what it will look like:  Clicking on one of the "file" links will open the whole xml in a new page (because they're obviously too big for the table)

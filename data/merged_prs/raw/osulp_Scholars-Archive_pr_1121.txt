@@ -1,0 +1,1 @@
+set default public_path to point to shared folder

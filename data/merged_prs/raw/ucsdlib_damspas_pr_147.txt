@@ -1,0 +1,2 @@
+Changed to use equal sign (=) for parameter default value assignment. DHH-605
+https://lib-jira.ucsd.edu:8443/browse/DHH-605

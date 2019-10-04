@@ -1,0 +1,2 @@
+added mailboxer_email method for messaging
+fixes #707

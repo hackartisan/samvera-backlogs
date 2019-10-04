@@ -1,0 +1,2 @@
+Changing to eager load for rails 5 compatibility
+Also needed to check for capistrano availability since it is not loaded in production This was tried on QA and solved the issues with FileSet download.  The lib classes are no longer getting loaded without this change.

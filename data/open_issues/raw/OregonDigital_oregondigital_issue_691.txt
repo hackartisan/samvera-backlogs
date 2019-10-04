@@ -1,0 +1,2 @@
+hasFindinfAid not displaying
+@lsat12357 Probably because it is a link acting like a string.

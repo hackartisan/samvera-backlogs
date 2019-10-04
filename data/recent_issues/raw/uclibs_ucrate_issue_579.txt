@@ -1,0 +1,2 @@
+Create a What's New page
+Descriptive summary Create a "What's New in Scholar@UC 4.0?" (static) page that highlights the changes users can expect to see in 4.0. Link to the page with a "What's New" link in the masthead (to the left of the language selector) We can remove or update this page in a future release

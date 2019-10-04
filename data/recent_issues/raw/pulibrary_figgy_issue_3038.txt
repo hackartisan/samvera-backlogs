@@ -1,0 +1,2 @@
+Research UV transcript support
+Decide how to include transcripts  Format: HTML, PDF, plaintext Encoding: UV has an example manifest: https://wellcomelibrary.org/iiif/b16748967/manifest (http://universalviewer.io/examples/#?c=&m=&s=&cv=&manifest=https%3A%2F%2Fwellcomelibrary.org%2Fiiif%2Fb16748967%2Fmanifest)

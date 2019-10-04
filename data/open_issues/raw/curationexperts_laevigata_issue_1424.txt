@@ -1,0 +1,2 @@
+Show all works in all workflows to admins
+Admins should see all works in all workflows when they look at the Review Submissions dashboard. Currently, they only see works in some workflows.  We believe this is a bug in Hyrax. Tracking it at samvera/hyrax#3171

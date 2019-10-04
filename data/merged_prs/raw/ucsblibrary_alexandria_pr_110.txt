@@ -1,0 +1,2 @@
+pin simple_form, upgrade other deps 
+Sinatra: https://nvd.nist.gov/vuln/detail/CVE-2018-7212

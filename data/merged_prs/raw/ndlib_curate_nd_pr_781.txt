@@ -1,0 +1,2 @@
+Route show pages through iiif_image_viewer partial.
+Preparatory work for adding embedded iiif image viewer.

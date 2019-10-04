@@ -1,0 +1,2 @@
+remove monkey-patch to ActiveFedora now present in version of AF we are using
+I noticed the warning we had put in there when opening up a rails console, to check if still needed since we are on AF >= 11.3.0 I diff'd our overridden file to the version of the file in the version of AF we are using -- they are indeed identical but for the dependency version check warning. So we no longer need this override monkey patch.

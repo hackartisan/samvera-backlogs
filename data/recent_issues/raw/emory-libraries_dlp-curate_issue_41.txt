@@ -1,0 +1,2 @@
+Shibboleth Implementation For Curate
+Implement Shibboleth into Curate. https://curationexperts.github.io/playbook/authentication/shibboleth_and_hyrax.html

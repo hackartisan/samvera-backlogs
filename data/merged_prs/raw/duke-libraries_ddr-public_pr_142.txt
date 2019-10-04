@@ -1,0 +1,1 @@
+Made multiple images sort by structmap order as integer. Closes #140

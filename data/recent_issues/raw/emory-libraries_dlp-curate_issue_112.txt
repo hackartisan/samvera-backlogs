@@ -1,0 +1,2 @@
+Implement production logging solution
+Scrum team has decided on using CloudWatch for monitoring purposes. Create ansible role that manages cloudwatch on ec2s

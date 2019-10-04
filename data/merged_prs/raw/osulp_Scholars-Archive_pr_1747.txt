@@ -1,0 +1,2 @@
+Uses creator_sim for facets
+Fixes #1745 This indexes creators on the creator_ssim index field that are unindexed and unique. This is to resolve the issue of duplicate creator labels based on different ordering. Since facets dont need any concept of order, removing the order and just indexing labels allows for the paring down of the length of results and should allow for the searching of creators again.

@@ -1,0 +1,1 @@
+update solr.yml for server configuration

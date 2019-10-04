@@ -1,0 +1,2 @@
+Adding Apache 2.0 license
+Description Adds Apache 2.0 license to the repository. Why was this necessary? We are required to have licenses on all our repos. Typically, Penn State uses MIT licenses, but because this is derivative work from Samvera, we're using Apache 2.0.

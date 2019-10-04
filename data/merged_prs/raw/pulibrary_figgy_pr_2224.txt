@@ -1,0 +1,2 @@
+Don't show an 'Attach Child' menu unless there are multiple choices
+Also, DRY up forms a bit  Fixes #2218

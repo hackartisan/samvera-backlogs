@@ -1,0 +1,2 @@
+Edit Items During Import
+As a digital production specialist, I would like to be able to correct errors during the import process, so that I don't have to fix the error, re-create the bag, and re-upload to CHO. CHO MVP requires re-bagging and re-uploading to fix errors. This is a drag in real life.

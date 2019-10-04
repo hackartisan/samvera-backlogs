@@ -1,0 +1,2 @@
+Adds integration test for changing password
+Also,  Adds avatar upload location to gitignore.  Closes AMS2-69.

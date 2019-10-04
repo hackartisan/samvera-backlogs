@@ -1,0 +1,2 @@
+Fix Solr download in CircleCi
+Force Circle to use Solr 7.7.1, rather than 8.0.0.

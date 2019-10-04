@@ -1,0 +1,1 @@
+updates rubocop and fixes offenses

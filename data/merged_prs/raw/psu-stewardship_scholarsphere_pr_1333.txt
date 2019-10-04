@@ -1,0 +1,2 @@
+Updating Sprockets to 3.7.2
+Addresses CVE-2018-3760

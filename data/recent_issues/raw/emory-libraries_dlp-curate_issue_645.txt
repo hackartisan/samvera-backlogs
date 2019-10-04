@@ -1,0 +1,2 @@
+Create ansible role that automates EFS snapshot and restore
+I do not see an ansible module for AWS Backup. We will have to call the aws cli with ansible. AWS Backup CLI   Create role that restores and snapshots efs volumes

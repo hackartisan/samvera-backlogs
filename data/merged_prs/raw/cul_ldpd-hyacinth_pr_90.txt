@@ -1,0 +1,2 @@
+Publish Targets API
+Basic endpoint to CRUD a publish target. Note:  This does not include permissions. This also does not include priority of publish target

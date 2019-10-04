@@ -1,0 +1,2 @@
+Issues 54 and 40 - Redesign Homepage
+fixed #54 #40

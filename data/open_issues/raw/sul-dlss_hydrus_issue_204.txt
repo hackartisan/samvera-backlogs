@@ -1,0 +1,2 @@
+confusing dates displayed on item view page
+Same date value is shown for "published" and "initial ver. published", even if there is one more versions published subsequent to the initial version.

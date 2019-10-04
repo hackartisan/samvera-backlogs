@@ -1,0 +1,2 @@
+Use vipsthumbnail to create PDF thumbnails
+This is ready for a next round of review. Vipsthumbnail + vips sharpen create derivatives comparable to the ImageMagick ones. Need to verify that these do in fact reduce load significantly on the server when used in batch PDF ingests. (They should.) I can imagine spending more time to remove some repetition in the thumbnail creation code by creating a couple functions, but not necessarily as part of this PR.

@@ -1,0 +1,2 @@
+Scheduled cleanup of temp files
+ACCEPTANCE CRITERIA   A cron job runs nightly that deletes temp files  A cron job runs nightly that deletes saved searches from the blacklight database  We do both these things for Laevigata and we should do them in tenejo too.

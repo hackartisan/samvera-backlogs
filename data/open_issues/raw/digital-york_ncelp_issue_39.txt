@@ -1,0 +1,2 @@
+File type issues
+SP's idea: can this be automated with Fits characterization? Otherwise we are going to have some misconfiguration.  Other issue is that we have icons such as jpg, ping how this is going to work for the image file. We need to have modified icons?

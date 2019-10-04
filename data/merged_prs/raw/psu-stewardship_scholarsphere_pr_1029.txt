@@ -1,0 +1,2 @@
+Adding rake task to migrate titles
+I believe this code is correct, but I double checked what to do with many subtitles on #1011 and want to see the response before this is merged. That said I took the tact of throw away code here, since it will be run once and then can be tossed.   That means I just wrote a two rake tasks: dry_run & run.  Dry_run is the test to see if it will do the expected thing and also the test to be certain the task ran correctly.  Run is the actual execution.

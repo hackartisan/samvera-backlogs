@@ -1,0 +1,3 @@
+Upload rake task should set date uploaded to local date, not UTC date
+See                scholarspace-hyrax/lib/tasks/gwss.rake                   Lines 93 to 94       in       7cb7ad7                                                     now = Hyrax::TimeService.time_in_utc                                           gwe.date_uploaded = now
+Try `gwe.date_uploaded = now.localtime.to_date`

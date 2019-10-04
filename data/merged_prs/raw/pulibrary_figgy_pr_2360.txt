@@ -1,0 +1,2 @@
+Do not add null licenses
+Fixes #1289

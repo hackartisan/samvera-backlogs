@@ -1,0 +1,2 @@
+remove TrusteeDocument work type
+we'll get around to adding this work type later on. in the mean time, it's really just taking up space.

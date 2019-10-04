@@ -1,0 +1,2 @@
+Proxied user is the depositor in BaseActor, #895
+This is a reattempt of the solution that was first tried (unsuccessfully) in f5cadae. It also refactors the actor code slightly to account for future changes that will need to occur when #948 and #949 are closed.

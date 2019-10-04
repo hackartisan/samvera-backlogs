@@ -1,0 +1,1 @@
+Use local_id as :id for digital collection items with local_id defined

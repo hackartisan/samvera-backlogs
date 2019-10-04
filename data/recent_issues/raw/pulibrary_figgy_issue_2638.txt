@@ -1,0 +1,2 @@
+Numismatics orangelight document incorrect
+The technique property in the numismatics orangelight document should be technique_t. https://github.com/pulibrary/figgy/blob/master/app/resources/coins/orangelight_coin_builder.rb#L43

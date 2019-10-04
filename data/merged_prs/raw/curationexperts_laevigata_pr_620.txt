@@ -1,0 +1,2 @@
+fixes suppl files metadata file type bug, better styles
+This branch builds on work in PR #617, if that gets merged I'll rebase against master and re-submit this.

@@ -1,0 +1,2 @@
+GwWork defaults to ETD administrative set
+When uploading a GwWork via the web UI it is being assigned to the ETD admin set by default rather than the GwWork admin set.

@@ -1,0 +1,2 @@
+Add descriptive MD to curate-generic worktype, pt 4
+Add descriptive MD fields 31-40, following notes from #61  Test for presence of MD  Test number of accepted terms (multiple: true/false)  Test indexing in Solr (searchable, facetable, etc.)  Test for requirement (required, optional, etc.)

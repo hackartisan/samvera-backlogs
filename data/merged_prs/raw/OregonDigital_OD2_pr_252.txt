@@ -1,0 +1,1 @@
+sets authentication for amazon SES

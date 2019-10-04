@@ -1,0 +1,2 @@
+Add crawl-delay of 5 seconds, fixes #692
+I was going to make it lower but considering we have some objects with poor load times I changed my mind.

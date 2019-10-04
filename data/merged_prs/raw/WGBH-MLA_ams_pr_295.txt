@@ -1,0 +1,2 @@
+Remove rescue clause that doesn't work
+this is just leftover cruft from an implementation that never happened.

@@ -1,0 +1,2 @@
+Stop licenses and rights statements from opening in new tabs
+Fixes #611

@@ -1,0 +1,2 @@
+Sort Gemfile alphabetically to make it easier to navigate
+Connected to #456

@@ -1,0 +1,2 @@
+Adding in Hydra derivatives configuration for timeouts and ffmpeg codec flags
+refs #583

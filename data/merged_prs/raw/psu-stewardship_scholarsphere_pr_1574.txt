@@ -1,0 +1,2 @@
+Verify that emails are sent for monthly stats
+Rspec expectations were hiding a bug in the job parameters. This corrects the issue and tests that the email is actually queued for delivery. Connected to #1520

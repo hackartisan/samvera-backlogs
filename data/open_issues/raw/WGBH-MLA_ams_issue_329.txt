@@ -1,0 +1,2 @@
+"Running" jobs need to be switch to failed
+We need a query for finding batch items with a  false "running" status - If no jobs are enqueued or busy, find all batches with status of Running, and find all batch items with status of running. We need to update those batch items - For those batch items, update the status to failed and report error of prematurely killed during processing, or something like that.

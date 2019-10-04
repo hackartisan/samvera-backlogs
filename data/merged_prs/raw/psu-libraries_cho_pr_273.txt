@@ -1,0 +1,2 @@
+Create specific object types in the system, ref #239
+Creates a generic WorkObject class to represent still images, maps, documents, audio-visual sources, or any other generic type of object in a collection. Assumes that each object will have a title, and allows for creating and editing objects, as well as searching for them via Blacklight.

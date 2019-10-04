@@ -1,0 +1,2 @@
+Create JP2 Derivatives on Ingest
+Closes #17

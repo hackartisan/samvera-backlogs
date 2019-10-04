@@ -1,0 +1,2 @@
+Refactor Generic Metadata controlled vocab options
+Descriptive summary Refactor Generic Metadata controlled vocab options to cut code duplication. Update Properties in same way.

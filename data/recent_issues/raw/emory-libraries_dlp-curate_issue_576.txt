@@ -1,0 +1,2 @@
+Transfer Yearbooks files to Cor staging
+Yearbooks files are stored on lsdi or lsdi2 (same shares as Yellowbacks). See this Box note.    Base directory paths for Oxford Yearbooks    Base directory paths for Emory Yearbooks   Expected file size to copy: 292,570 MB Oxford Yearbooks 434,354 MB Emory Yearbooks 726.924 GB total Estimated file counts: 27,293 Oxford Yearbooks 103,846 Emory Yearbooks 131,139 total* *there may be additional files in the directories which are not needed for ingest, so the count could be higher

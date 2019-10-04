@@ -1,0 +1,2 @@
+Adds ability to attach multiple files to a single fileset
+This PR uncomments failing tests in attach_files_to_work_job_spec.rb

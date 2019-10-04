@@ -1,0 +1,3 @@
+Upgrade Figgy boxes to Bionic
+Check on Vagrant  Test on staging  Bring down figgy2  Provision figgy2  Bring down figgy1  Provision figgy1  Bring down lib-proc machines  Provision lib-proc machines.
+``` vagrant box remove princeton_box vagrant box add --name princeton_box /path/to/downloaded/ubuntu-18.04.virtualbox.box vagrant up ```

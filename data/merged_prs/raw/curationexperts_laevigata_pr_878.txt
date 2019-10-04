@@ -1,0 +1,2 @@
+Updates error message for unpublished ETDs
+Our workflow finishes with publishing, rather than approval, and this new message reflects that. Fixes emory-libraries/etd-issues#23

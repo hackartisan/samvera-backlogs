@@ -1,0 +1,2 @@
+Deploy with capistrano and puma
+Uses mysql and puma for production deployments, allows cap deploy to michigan staging server as well as DCE sandbox.

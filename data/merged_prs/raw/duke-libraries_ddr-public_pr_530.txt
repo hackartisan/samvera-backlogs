@@ -1,0 +1,2 @@
+Add configuration for DOI resolver and helper method for linking DOI.
+Note for deployment: add to local_env.yml DOI_RESOLVER: "https://dx.doi.org/"

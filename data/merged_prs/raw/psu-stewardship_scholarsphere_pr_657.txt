@@ -1,0 +1,2 @@
+Capturing errors when downloading from fedora
+refs #642 Before we were not looking at the response code and assuming the response was good.  This was causing stack traces to be stored as content.

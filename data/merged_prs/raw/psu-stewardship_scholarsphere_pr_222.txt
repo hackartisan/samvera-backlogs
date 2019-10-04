@@ -1,0 +1,2 @@
+Adding Rubocop
+My 🎄 🎁 to you... @cam156 @hectorcorrea. Some of the files in the exclude list of rubocop.yml, especially those under Metrics/CyclomaticComplexity and PerceivedComplexity would be good candidates for refactoring. For now, I've put them on the exclusion list to get us to a passing state.

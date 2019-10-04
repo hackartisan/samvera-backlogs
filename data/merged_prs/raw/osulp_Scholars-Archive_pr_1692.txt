@@ -1,0 +1,2 @@
+updated browse_everything JS
+fixes #1691 After looking in the browse-everything gem examples section, it looks like we can load it on the document to fix the error: https://github.com/samvera/browse-everything/blob/v0.15.1/spec/support/app/views/file_handler/main.html.erb#L16

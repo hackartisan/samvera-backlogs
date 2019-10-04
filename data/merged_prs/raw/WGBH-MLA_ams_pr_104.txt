@@ -1,0 +1,2 @@
+Adds user role 'aapb-admin'
+This role is used for adding and updating admin data specific to AAPB website functionality.

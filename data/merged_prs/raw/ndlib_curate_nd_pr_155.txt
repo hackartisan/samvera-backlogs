@@ -1,0 +1,2 @@
+Adjusting Account Settings Rendering
+Crafting a two column solution for rendering both account settings and orcid profile settings.

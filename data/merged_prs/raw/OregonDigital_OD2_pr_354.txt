@@ -1,0 +1,2 @@
+URI validation for Controlled Vocabularies
+Fixes #335 Originally 20135c0 was going to add typical validation behavior, but ActiveFedora doesn't seem to validate properties on works. Enter f1d6651 to run validation on controlled vocabulary properties, but then ActiveTriples doesn't support validation on ActiveTriples::BufferedTransaction. I still think above is the preferable way to approach this, but d2ac188 just implements it similar to how OD1 did, w/ throwing an exception when a term is being fetched.

@@ -1,0 +1,2 @@
+[Figgy/production] Notice: Bad visibility value: private
+Backtrace line 38 of [PROJECT_ROOT]/app/helpers/catalog_helper.rb: rescue in render_visibility_label line 35 of [PROJECT_ROOT]/app/helpers/catalog_helper.rb: render_visibility_label line 3 of [PROJECT_ROOT]/app/views/catalog/index.html.erb: _app_views_catalog_index_html_erb___2839165531120621716_85093160  View full backtrace and more info at honeybadger.io

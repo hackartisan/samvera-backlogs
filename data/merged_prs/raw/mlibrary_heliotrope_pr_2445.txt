@@ -1,0 +1,2 @@
+stop Mozilla reader click event on #download
+HELIO-2869

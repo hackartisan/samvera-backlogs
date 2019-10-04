@@ -1,0 +1,2 @@
+Adds producing_organization facet to CatalogController
+Also bumps down h3 facet font on catalog#index to accomodate length

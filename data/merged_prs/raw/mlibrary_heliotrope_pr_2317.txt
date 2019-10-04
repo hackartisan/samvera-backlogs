@@ -1,0 +1,2 @@
+Sighrax Hyrax Presenter Support
+Refactor Sighrax to seperate Hyrax from Sighrax by making request for a Hyrax presenter an explicit 'factory' call, see Sighrax.hyrax_presenter(entity) class method. Also added explicit press factory: Sighrax.press(entity).

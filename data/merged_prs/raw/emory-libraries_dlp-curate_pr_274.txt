@@ -1,0 +1,2 @@
+Edits form to enable adding multiple filesets
+Adds a field for selecting if fileset is primary or supplementary Edits job to save the selection for fileset use as a metadata property Adds ability for cloning fileset inputs with unique element ids

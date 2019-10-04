@@ -1,0 +1,2 @@
+Bulk Edits: Articles & DOIs
+Bulk edits to clear up in_series metadata from migration and make DOIs clickable. Articles:   has_journal  has_volume  has_number  in_series  DOI:   Article worktype  Default worktype

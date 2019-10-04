@@ -1,0 +1,2 @@
+Update Loofah
+Addresses CVE-2018-8048 - Loofah XSS Vulnerability

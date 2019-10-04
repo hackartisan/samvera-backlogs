@@ -1,0 +1,1 @@
+Remove turbolinks from application; closes #207

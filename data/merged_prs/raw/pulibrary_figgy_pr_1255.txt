@@ -1,0 +1,2 @@
+Change quotes to doubles
+Fix build broken when a PR from before the rule change was merged

@@ -1,0 +1,2 @@
+Search Results: List View: Move thumbnail up and title over to the side
+Descriptive summary On Search Results, List View, move the work thumbnail up to the 'top' and move the work title over to the side of it. Wireframe mockup, List View: https://www.lucidchart.com/documents/edit/517560ad-afba-41c5-a2c5-d3ff2b16f2bf/0 (Information compiled by POSM group from updated wireframes) Expected behavior Thumbnail is top-left aligned, Title is top-aligned but to the right of thumbnail. Accessibility Concerns Work title should probably still remain first in the tab index order.

@@ -1,0 +1,1 @@
+Resolves #1284: EPubs Search Service To Lib

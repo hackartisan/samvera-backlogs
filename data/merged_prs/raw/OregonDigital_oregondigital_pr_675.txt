@@ -1,0 +1,2 @@
+Allow grey 16
+Fixes problems with UO Athletics Derivative Generation.

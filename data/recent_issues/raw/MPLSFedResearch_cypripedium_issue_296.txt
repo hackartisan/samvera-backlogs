@@ -1,0 +1,2 @@
+Data Migration
+ACCEPTANCE   Make s snapshot of production  Export all data from a snapshot of production  Import it all into newly built system  There should be the same number of objects  Swap out new system for production system

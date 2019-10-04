@@ -1,0 +1,2 @@
+embed-specific js/css, responsive video, https URL
+Resolves #1067 Resolves #1082 Resolves #1083

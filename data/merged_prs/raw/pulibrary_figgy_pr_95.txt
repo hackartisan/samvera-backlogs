@@ -1,0 +1,2 @@
+ARK minting
+Mint ARKs when records are completed Update ARK metadata when remote metadata is updated  Fixes #54

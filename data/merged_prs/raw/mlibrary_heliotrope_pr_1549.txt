@@ -1,0 +1,2 @@
+stats graphs for FileSet page
+Resolves #575

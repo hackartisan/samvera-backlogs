@@ -1,0 +1,2 @@
+Write Spec Tests
+For anything we've customized/configured For the ingest tasks  Also figure out how to run the base Hyrax spec tests

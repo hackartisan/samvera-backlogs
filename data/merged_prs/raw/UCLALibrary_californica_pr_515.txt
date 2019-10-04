@@ -1,0 +1,2 @@
+Update docs to explain /opt/data/Masters mount.
+connected to #483

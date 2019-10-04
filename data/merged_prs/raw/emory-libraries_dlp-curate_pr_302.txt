@@ -1,0 +1,2 @@
+Fixes a warning from the Passenger logs
+WARN -- : Cannot enable realtime notifications atop Passenger + Apache. Coercing Hyrax.config.realtime_notifications to false. Set this value to false in config/initializers/hyrax.rb to stop seeing this warning.

@@ -1,0 +1,2 @@
+ClamAV >0.101 breaks ClamAV gem
+Descriptive summary 0.101.0+ of ClamAV has changed their API and ClamAV gem no longer compiles. Right now this only affects Circle builds for us, but is blocking tests from running. Specifying 0.100.3 (the current version in local containers) should be enough to solve this for now Expected behavior CircleCI can install and compile the clamav gem and will continue to run tests Related work samvera/hyrax#3538 is open with Hyrax for them to deal with the bigger question of finding a solution or replacement. Accessibility Concerns N/A

@@ -1,0 +1,2 @@
+New IP for solr prod
+Closes #806

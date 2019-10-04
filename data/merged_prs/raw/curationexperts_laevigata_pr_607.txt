@@ -1,0 +1,2 @@
+Add a border around etd thumbnails
+Closes #604

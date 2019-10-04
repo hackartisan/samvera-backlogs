@@ -1,0 +1,2 @@
+Refactored a feature spec to speed it up. Story #673
+I was able to slightly speed up this spec by making 2 changes:   Create the Monograph and Section records in let blocks instead of creating them by interacting with the UI in the body of the spec.  (Avoid extra routing and rendering work)   Instead of using Monograph.first.id (which reloads the record), just use the monograph that we already have in memory to find the ID.

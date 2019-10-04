@@ -1,0 +1,2 @@
+Consistent look for buttons
+Updates the partials with buttons to follow a primary, secondary, tertiary pattern to unify the look and feel of the user interface. Description Updating the interface to use buttons consistently based on Bootstrap. primary buttons for primary actions like create, secondary outline buttons for things like delete if on a create page, and make link buttons look like links for things like show. Connected to #960 Changes  whole lotta CSS class refinement

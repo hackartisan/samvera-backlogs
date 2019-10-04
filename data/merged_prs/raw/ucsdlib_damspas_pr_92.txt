@@ -1,0 +1,2 @@
+Fixed the status 404 error caused by referer controler handling with local access.
+https://lib-jira.ucsd.edu:8443/browse/DHH-653

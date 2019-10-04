@@ -1,0 +1,2 @@
+Overrides predicate defined in Hyrax for license
+Fixes nulib/next-generation-repository#627  changes license predicate from http://purl.org/dc/terms/rights  to http://purl.org/dc/terms/license per spreadsheet: https://docs.google.com/spreadsheets/d/1PBvp9FJAvG6JIP6RZwmiZSDhgYLQ6VRSknUnkodEH8Q/edit#gid=39640035

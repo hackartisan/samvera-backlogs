@@ -1,0 +1,2 @@
+ARK is available to blacklight as single-value field
+Our existing ARK identifiers are currently being imported as a multi-valued field. In order to use it in e.g. URLs, it should instead be imported as a single-value field. Q: Do any items have multiple ARKs? If so, perhaps use both "identifiers" and "primary identifier"??? Criteria:   ARKs are available as a single-valued field for blacklight  child of #336

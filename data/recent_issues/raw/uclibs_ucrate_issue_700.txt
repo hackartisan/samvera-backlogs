@@ -1,0 +1,2 @@
+Image view download option for "Current view" is broken
+Descriptive summary When using the download option on the image viewer, clicking on "Whole image" works fine to download the image, but the default "Current view" option generates a 400 error

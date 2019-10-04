@@ -1,0 +1,2 @@
+adds a hack during migration to allow setting date_uploaded and date_modified
+fixes #690

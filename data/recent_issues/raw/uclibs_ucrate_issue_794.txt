@@ -1,0 +1,2 @@
+Use Kaltura Player for Video Playback
+(moved from uclibs/scholar_uc_legacy#1788) Descriptive summary Use the Kaltura embed codes for Video show page. Create Kaltura ID Metadata field for Video work. Expected behavior When a user visits a video with a Kaltura ID the Kaltura Video player will provide a streaming experience from the Video show page. Actual behavior Nothing yet. Steps to reproduce the behavior  Do this Then do this...  Related work Link to related issues or prior related work here.

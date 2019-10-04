@@ -1,0 +1,2 @@
+Resolves HELIO-2075: Default EPubs policy restricted
+Changed from a default of open access.

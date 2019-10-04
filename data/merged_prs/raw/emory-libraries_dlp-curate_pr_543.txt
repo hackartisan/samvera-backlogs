@@ -1,0 +1,2 @@
+Adds a method that appends three types of checksums to original_checksum
+Adds append_original_checksum method in characterization_service which will add md5, sha1, and sha256 hash values to the original_checksum Cleans up fits responses in characterization_service_spec

@@ -1,0 +1,2 @@
+fix Exporter::monograph_row()
+HELIO-2692

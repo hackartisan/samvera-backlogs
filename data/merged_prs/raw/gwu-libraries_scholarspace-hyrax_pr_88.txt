@@ -1,0 +1,1 @@
+Fixes #60 by making base url an app config

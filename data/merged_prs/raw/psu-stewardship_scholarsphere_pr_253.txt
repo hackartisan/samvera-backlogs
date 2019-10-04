@@ -1,0 +1,2 @@
+First round of adding content policy to upload screen
+Followed the maximum upload restrictions in terms of translation file and alignment to add content policy to the upload screen

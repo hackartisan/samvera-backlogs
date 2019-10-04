@@ -1,0 +1,2 @@
+Change Collection Indexer to match new terms
+This changes the indexers for the Collection model to match the chosen terms. This is tested with a system spec that creates a Collection in the UI and checks to see if it was successful. Without these indexer changes the process will fail because it will try to index terms that don't exist on the Collection model.

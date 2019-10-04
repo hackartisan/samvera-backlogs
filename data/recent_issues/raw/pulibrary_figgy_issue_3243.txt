@@ -1,0 +1,2 @@
+Archival Media Bag Ingest didn't migrate JPGs for C1557
+@kellybolding suspects it's because the extension is '.JPG' instead of '.jpg'.

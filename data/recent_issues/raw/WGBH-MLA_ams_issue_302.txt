@@ -1,0 +1,2 @@
+Fix video thumbnails to pull based on id with dash rather than underscore
+When we had ids converted to look like cpb-aacip_138-22v41tw5 the thumbnails were appearing. After the normalization to all ids being converted to having hyphens rather than underscores, the video thumbnails, which get pulled from AAPB's S3, stopped appearing. Done when:   thumbnails for video appear again in the AMS

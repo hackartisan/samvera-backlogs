@@ -1,0 +1,2 @@
+[#464, #654] Batch update for Publisher field and prefill it.
+for GenericFile and Collection, only on new, prefill Publisher update bubble text update ALL records with "Galter Health Sciences Library" or "Galter Health Sciences Library & Learning Center" to include "DigitalHub. " ALL non-private records with empty publisher field closes #464, closes #654

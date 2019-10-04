@@ -1,0 +1,2 @@
+Preparing for 0.5 release
+Description These changes were necessary to get MVP 5 deployed to production. Changes  removing config_update cap task updating data dictionary config loading mime types dependencies where needed

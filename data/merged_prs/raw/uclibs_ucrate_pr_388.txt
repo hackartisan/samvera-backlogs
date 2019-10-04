@@ -1,0 +1,2 @@
+Update agreement checkbox on new work form
+Fixes #369 Fixes the agreement checkbox on new work form by changing the text above the box, and the link for the Distribution License.

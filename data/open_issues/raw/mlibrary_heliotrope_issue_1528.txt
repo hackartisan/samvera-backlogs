@@ -1,0 +1,2 @@
+Add Donate links
+As a user, I want a way to pay authors voluntarily for using their Open Access work.  As an admin/editor, I want to be able to set a different Donate URL for each [Monograph-level Work. Assets would be okay too but not required.]  This can behave just like the "Buy Book" button but with a different label.

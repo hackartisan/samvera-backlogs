@@ -1,0 +1,1 @@
+Bring rights_statement partial back in line on show page, fixes #727

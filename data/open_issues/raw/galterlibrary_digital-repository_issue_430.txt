@@ -1,0 +1,2 @@
+Look into moving the navigation bar outside the canvas in the OSD viewer
+Also look into how this will affect full-screen viewing.

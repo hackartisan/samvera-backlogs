@@ -1,0 +1,2 @@
+Minimal formatting
+Remove all formatting options except bold and italic. None of the others can be consistently preserved and displayed. Connected to #1540

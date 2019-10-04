@@ -1,0 +1,2 @@
+Require hydrus to avoid a NoMethodError
+This is already required in the spec_helper, so it didn't show up as a test failure.  Also switch to eager_load_paths for Rails 5 Fixes #287

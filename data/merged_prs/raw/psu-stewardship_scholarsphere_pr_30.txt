@@ -1,0 +1,2 @@
+updated select2 dropdown version
+fixes https://scm.dlt.psu.edu/issues/9511

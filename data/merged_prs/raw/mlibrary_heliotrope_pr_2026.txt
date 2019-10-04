@@ -1,0 +1,2 @@
+HELIO-2170 Create Book Requests (TR_B1) COUNTER Report
+The code is still green and procedural but that will change as more counter reports are added.

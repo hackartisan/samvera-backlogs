@@ -1,0 +1,2 @@
+Silence cron and switch email forwording to galter-is
+Tested on staging, works ok. Also tested the stats gathering task and it works fine.

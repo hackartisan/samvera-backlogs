@@ -1,0 +1,2 @@
+Update ffi to latest, fixing bundle install error
+Fixes the error described in this issue: ffi/ffi#608

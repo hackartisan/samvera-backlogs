@@ -1,0 +1,2 @@
+Remove links to getting started pages
+DLTP-1516

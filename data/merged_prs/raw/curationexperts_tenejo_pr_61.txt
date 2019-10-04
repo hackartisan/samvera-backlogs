@@ -1,0 +1,2 @@
+A CSV template for future CSV importer work. Story #41
+Since this is just a static file to download, I put it in public directory.

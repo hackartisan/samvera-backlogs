@@ -1,0 +1,2 @@
+Showing OASIS titles rather than links
+Related to (or same as?) #23 Currently, the resource details page show the links to OASIS. We would like the titles to be shown instead (still linking to the summaries). In a previous discussion SP also suggested creating a summary selection system.

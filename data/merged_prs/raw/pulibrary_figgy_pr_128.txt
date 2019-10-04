@@ -1,0 +1,2 @@
+Add deploy configuration for Staging
+Includes:  Cantaloupe path generation BrowseEverything parallelization Capistrano deploy files.

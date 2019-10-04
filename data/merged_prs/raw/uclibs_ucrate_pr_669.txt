@@ -1,0 +1,2 @@
+fix Time Period field on Media work form is not left aligned
+Fixes #657

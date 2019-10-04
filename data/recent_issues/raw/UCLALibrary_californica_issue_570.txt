@@ -1,0 +1,2 @@
+Index `earliest year` && `primary title`
+Index earliest year && primary title for Solr searches in the Sort by Relevance  dropdown.

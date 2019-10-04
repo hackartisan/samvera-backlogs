@@ -1,0 +1,1 @@
+When importing a bag, if a related resource is newer than the current resource in Figgy, override it with what's in the bag.

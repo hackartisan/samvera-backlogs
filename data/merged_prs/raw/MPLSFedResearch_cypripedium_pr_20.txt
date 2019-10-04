@@ -1,0 +1,2 @@
+Generate Conference Proceeding work type
+Closes #10

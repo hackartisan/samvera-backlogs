@@ -1,0 +1,1 @@
+Adds spinner to Vue Filemanager while the manifest is loading

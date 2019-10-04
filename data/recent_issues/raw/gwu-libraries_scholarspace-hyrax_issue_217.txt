@@ -1,0 +1,2 @@
+Allow works to be viewed in browser rather than download only
+See: samvera/hyrax#3149

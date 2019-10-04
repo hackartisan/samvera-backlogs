@@ -1,0 +1,2 @@
+[Figgy/staging] NoMethodError: undefined method `members_with_parents' for #<NumismaticMonogramWayfinder:0x00007f43ad18fb80>
+Backtrace line 104 of [PROJECT_ROOT]/app/controllers/concerns/resource_controller.rb: file_manager  View full backtrace and more info at honeybadger.io

@@ -1,0 +1,2 @@
+Add path and identifier to import work
+Description Connects to #549 Allows one to access the path to a work within a bag, and refer to its identifier, which is the name of its directory. Why was the necessary? In order to import works in a bag, we'll need to know where on the file system the work is, and if the work's identifier matches the one in the CSV file.

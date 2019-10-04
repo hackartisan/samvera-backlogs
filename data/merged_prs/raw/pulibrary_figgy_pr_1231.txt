@@ -1,0 +1,2 @@
+Implements PlumChangeSetPersister::PropagateRemoteMetadata in order to propagate imported metadata to MediaResources members of ArchivalMediaCollections
+Resolves #1150

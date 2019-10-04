@@ -1,0 +1,2 @@
+Using documentation output for RSpec
+Description Make RSpec's output a little more informative, showing the particular test that is being performed at the time. This could help with identifying errors in the test suite sooner.

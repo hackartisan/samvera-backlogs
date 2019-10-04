@@ -1,0 +1,2 @@
+Make fixity dashboard viewable only by admins
+fixes #899

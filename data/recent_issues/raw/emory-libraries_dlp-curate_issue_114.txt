@@ -1,0 +1,2 @@
+Update ActionView
+This gem has a critical CVE. It should be updated to 5.1.6.2

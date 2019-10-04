@@ -1,0 +1,2 @@
+Feature/handle bad set 3
+the code that was throwing the error doesn't get run because the asset gets removed from the results beforehand.

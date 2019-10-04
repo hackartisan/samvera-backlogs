@@ -1,0 +1,2 @@
+Update capistrano
+This commit should allow for the developers to deploy to test and production from their development machines.

@@ -1,0 +1,2 @@
+add breadcrumbs to monograph show page
+Resolves #1790

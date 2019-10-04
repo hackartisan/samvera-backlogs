@@ -1,0 +1,2 @@
+Changes license to 'single-value' same way rights-statements are
+Fixes #342

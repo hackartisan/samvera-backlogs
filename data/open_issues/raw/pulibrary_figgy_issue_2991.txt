@@ -1,0 +1,6 @@
+Image 8330O.TIF can't be converted to JP2
+Backtrace line 99 of [PROJECT_ROOT]/app/derivative_services/jp2_derivative_service.rb: create_tiff_derivative line 95 of [PROJECT_ROOT]/app/derivative_services/jp2_derivative_service.rb: rescue in run_tiff_derivatives line 92 of [PROJECT_ROOT]/app/derivative_services/jp2_derivative_service.rb: run_tiff_derivatives  View full backtrace and more info at honeybadger.io
+``` RuntimeError: Unable to execute command "kdu_compress -quiet -i /tmp/sufia20190508-24362-l22ngb.tif -o /tmp/sufia20190508-24362-6596jw.jp2 -rate 2.4,1.48331273,.91673033,.56657224,.35016049,.21641118,.13374944,.08266171 -jp2_space sRGB -double_buffering 10 -num_threads 1 -no_weights Clevels=6 Clayers=8 Cblk=\{64,64\} Cuse_sop=yes Cuse_eph=yes Corder=RPCL ORGgen_plt=yes ORGtparts=R Stiles=\{1024,1024\} ". Exit code: pid 26274 exit 255 Error message: Kakadu Error: The number of colours associated with the colour space specified using `-jp2_space' are not compatible with the number of supplied image components and/or colour palette. ```
+/numismatics/set08/8330O.TIF (corrupted)
+1402463645 2180160 ./numismatics/set08/8330O.tif (this is the corrupted one) 1323413690 252061 ./import/coin_jpegs/8330O.JPG (uploaded in staging this jpg which is ok) 
+It's possible that the TIFF can be fixed. I've done it with others before.

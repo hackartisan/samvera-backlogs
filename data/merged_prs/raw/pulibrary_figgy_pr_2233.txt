@@ -1,0 +1,2 @@
+Extends ApplyAuthToken to support the manual regeneration of authorization tokens for Playlists
+Also integrates a form on the catalog show view for regenerating the authorized links.  Resolves #2053 As an authenticated user, the following is rendered:  As an anonymous user, only the link itself is rendered:

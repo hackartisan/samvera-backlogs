@@ -1,0 +1,2 @@
+Add CRUD and Attribute Display for Scanned Resource
+There's a LOT to this PR - sorry about that. Much of it's copied from Hyrax or the Valkyrie MVP, or a result of running the engine generator for Valhalla.

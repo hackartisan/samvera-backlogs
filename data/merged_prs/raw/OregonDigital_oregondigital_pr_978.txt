@@ -1,0 +1,2 @@
+raised limit to 100
+fixes #954

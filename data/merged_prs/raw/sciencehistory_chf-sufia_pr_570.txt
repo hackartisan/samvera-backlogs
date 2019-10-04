@@ -1,0 +1,2 @@
+dev sufia data path is in app local tmp
+So it's not shared between different dev apps. And so MacOS doesn't delete all your derivatives from '/tmp' on reboot.

@@ -1,0 +1,2 @@
+Investigate how much data we could rely on Ares for
+Can we reduce duplication of effort in some way by integrating more tightly with areas? child of #1986

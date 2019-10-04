@@ -1,0 +1,2 @@
+View work page error when filesets attached
+As of testing on 7/19 and 7/22, the majority of filesets created and uploaded through the UI returns an error when trying to view a work. This may be related to epic #119 (Edit AIP/Filesets) Was "Files and Filesets are not attached to works created through Curate UI" : Revised after retesting in Fedora navigating tree through ns006: hasMember instead of children: members. All works contain FileSets, and all FileSets appear to contain files.

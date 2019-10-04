@@ -1,0 +1,2 @@
+618 physical instantiation ingest mapping
+Builds xml factories for PBCore Instantiations and maps Instantiation data from PBCore to AMS attributes.

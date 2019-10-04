@@ -1,0 +1,2 @@
+Implemented collection metadata crosswalks via ActiveFedora::Crosswalks.
+ActiveFedora::Crosswalks makes OregonDigital::Crosswalkable obsolete.

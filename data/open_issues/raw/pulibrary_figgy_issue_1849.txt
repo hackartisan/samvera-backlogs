@@ -1,0 +1,2 @@
+Add WCS service reference for RasterResource
+GeoBlacklight document should have WCS reference. Might also need to add a ref type to GeoBlacklight.

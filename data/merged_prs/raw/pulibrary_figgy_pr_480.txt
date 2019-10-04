@@ -1,0 +1,1 @@
+Handle CanCan::AccessDenied with redirect, fixes #430

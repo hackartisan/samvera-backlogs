@@ -1,0 +1,2 @@
+Don't pass "None" values from `InProgressEtd` to the ActorStack
+Acceptance   When calling #create into the actor stack and no embargo is requested, attributes does not contain a 'embargo_length' key  The PregradEmbargo#handle_malformed_data method is removed from the ActorStack.  The InProgressEtd model populates the embargo request field properly when reloading an existing item with no embargo.

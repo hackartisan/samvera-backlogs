@@ -1,0 +1,1 @@
+Adding Honeycomb integration with libhoney and honeycomb-rails

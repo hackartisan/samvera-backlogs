@@ -1,0 +1,2 @@
+Build an abstraction for S3
+Descriptive summary We need an easy way to hit a preconfigured S3 setup to just quickly grab things like derivative files.  This might be useful for the migrator, too. Expected behavior Some object / class uses the environment vars to set up S3 configuration for easy use so each S3 use doesn't have to reinitialize everything (I've got a working prototype of this in my external derivatives service stuff) Related work #526 Accessibility Concerns N/A - backend only

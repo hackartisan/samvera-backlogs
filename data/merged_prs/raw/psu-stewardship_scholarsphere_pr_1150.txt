@@ -1,0 +1,1 @@
+Adds help text paragraph and adds translation to yml file.

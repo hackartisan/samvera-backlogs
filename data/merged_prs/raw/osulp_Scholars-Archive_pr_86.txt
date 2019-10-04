@@ -1,0 +1,2 @@
+updated devise to authenticate on username
+fixes #66

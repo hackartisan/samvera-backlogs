@@ -1,0 +1,2 @@
+T118 etd type
+This also requires changing all the ETDs' resource_type.  Recommend the following at the rails console: etds = GwEtd.all etds.each do |etd|    etd.resource_type = ['Thesis or Dissertation']    etd.save end

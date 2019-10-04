@@ -1,0 +1,2 @@
+Webgl/keyboard hogging
+Resolves #1589 Requires using the latest WebGL build from March 14.

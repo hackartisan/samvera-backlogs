@@ -1,0 +1,2 @@
+Updating Rails to 5.1.7
+This addresses CVE-2019-5418, the vulnerability with actionview.

@@ -1,0 +1,2 @@
+Add and configure new fields for OCFRP.
+Fixes #1164

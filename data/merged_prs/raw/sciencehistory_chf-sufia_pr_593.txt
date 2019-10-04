@@ -1,0 +1,2 @@
+Correct searchbox element heights in ff / safari
+fixes #590

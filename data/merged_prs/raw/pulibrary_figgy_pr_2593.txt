@@ -1,0 +1,2 @@
+Handes cases where the FileSet derivative cannot be retrieved for Playlists in the ManifestBuilder
+Resolves #2497

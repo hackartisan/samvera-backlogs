@@ -1,0 +1,1 @@
+Configure Shibboleth to send email on errors

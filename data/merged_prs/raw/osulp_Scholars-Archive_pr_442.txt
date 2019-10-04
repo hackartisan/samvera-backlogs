@@ -1,0 +1,2 @@
+added stats item level osu style and js
+added style css and js changes for pr #424

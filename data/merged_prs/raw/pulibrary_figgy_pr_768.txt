@@ -1,0 +1,2 @@
+Check for the derivative path before deleting it to avoid error
+and fix the build

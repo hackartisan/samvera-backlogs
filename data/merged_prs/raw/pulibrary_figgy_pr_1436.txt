@@ -1,0 +1,2 @@
+Propagate visibility, not just read_groups
+fixes #1429

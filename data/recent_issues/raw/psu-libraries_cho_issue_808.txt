@@ -1,0 +1,2 @@
+Brief Metadata Display in Search Results
+Search results should display all publicly visible core metadata fields.

@@ -1,0 +1,2 @@
+add indexing of english-language dates
+during a check-in with @noraegloff this morning we discussed the adding the ability to search with English dates/seasons in the full text, so that an item with a date_issued of 1971-11-01 could be found with "november 1971" or "fall 1971". this is a stab at that. note to self: don't merge until you play with this on dev 👍 looks like it works, though i can imagine some tweaking coming down the road

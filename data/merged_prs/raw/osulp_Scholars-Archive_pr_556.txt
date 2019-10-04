@@ -1,0 +1,2 @@
+Construct page title for work and file stats page
+fix #452

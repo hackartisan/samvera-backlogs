@@ -1,0 +1,2 @@
+Dashboard should display the footer
+ISSUE As a tester, I would like the standard version footer to display on dashboard pages, so that I don't have to always go back to the homepage to confirm what release of the application I'm looking at when I'm testing things in the dashboard. ACCEPTANCE   Dashboard pages display the same footer as displayed on the homepage and item-level pages

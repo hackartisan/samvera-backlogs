@@ -1,0 +1,2 @@
+Copy new and modified Hyrax feature specs
+Fixes #130 This copies feature specs from Hyrax that have been added or modified over the past few weeks. These tests make it more likely we will know if our app has broken something in Hyrax. Since these specs come straight from Hyrax, the reviewer probably doesn't need to examine the code in detail.  I only made very slight tweaks to some of the specs to get them to run properly in our app.

@@ -1,0 +1,2 @@
+Replace "City of" and "Town of" geonames URIs
+A small number of geonames URIs point to the Administrative Division rather than the Populated Place URIs and pull labels with the prefixes "City of" or "Town of". Replace the ADIMs with the equivalent PPL URIs. ca. 250 entries in Location. @lsat12357 Spreadsheet with old and new URIs is in DigitalProjects/Metadata/OD2_Remediation/CityTownOf_replacements.xlsx

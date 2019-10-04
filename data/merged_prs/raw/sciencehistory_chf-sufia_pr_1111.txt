@@ -1,0 +1,2 @@
+update sprockets to 3.7.2
+https://groups.google.com/forum/#!topic/ruby-security-ann/2S9Pwz2i16k

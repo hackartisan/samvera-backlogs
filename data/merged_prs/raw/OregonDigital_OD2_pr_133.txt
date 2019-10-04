@@ -1,0 +1,2 @@
+add audio model and model specs
+fixes #109 Customize metadata given Metadata Application Profile   1. Generate Audio work type  2. Define model (with custom metadata if any) and model spec  3. Set labels and help text  4. Modify the Edit Form and add spec  5. Define presenter and spec  6. Define controller and spec  7. Modify the Show Page  8. Configure a property or properties to be shown in the search results for a work

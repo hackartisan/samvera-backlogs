@@ -1,0 +1,2 @@
+Passing fq parameters through to solr (DHH-622)
+Allows passing arbitrary fq parameters to solr using the fq[] parameter. Fixes: https://lib-jira.ucsd.edu:8443/browse/DHH-622

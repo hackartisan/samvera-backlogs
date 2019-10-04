@@ -1,0 +1,2 @@
+HELIO-2263 - 'fix' divs
+HELIO-2263

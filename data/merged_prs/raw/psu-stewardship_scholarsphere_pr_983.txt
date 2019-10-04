@@ -1,0 +1,2 @@
+Updating to use ScholarSphere rake task
+The ScholarSphere rake task is configured to retry and is more stable than the sufia rake task which is not configured to retry I believe this change should have happened when I created the rake task, since I change the error output, but the actual command was missed.

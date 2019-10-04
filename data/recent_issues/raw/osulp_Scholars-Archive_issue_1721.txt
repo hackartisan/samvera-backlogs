@@ -1,0 +1,2 @@
+Verify migrated works
+Descriptive summary Query SOLR to see if there are any works that do not have ordered creator (to verify that the migration has occurred). Address any outliers if we find them.

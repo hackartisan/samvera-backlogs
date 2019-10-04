@@ -1,0 +1,2 @@
+Added default values to model
+Fixes #1174

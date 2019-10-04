@@ -1,0 +1,2 @@
+EPub refactor to follow rails convention over configuration
+Public Interface: open, read, close (These could possibly become methods of the EPub object.)

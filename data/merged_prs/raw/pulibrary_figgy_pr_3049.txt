@@ -1,0 +1,2 @@
+Rake task to refresh remote metadata on all resources
+Work towards #2441

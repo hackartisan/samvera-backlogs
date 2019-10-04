@@ -1,0 +1,2 @@
+Sign Elasticsearch requests
+fixes nulib/next-generation-repository#910

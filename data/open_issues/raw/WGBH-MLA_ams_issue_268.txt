@@ -1,0 +1,2 @@
+reset_data rake task is eating errors
+As a developer and I'm running the reset_data rake task and ActiveFedora::Cleaner.clean! we're not getting errors when Fedora isn't working.

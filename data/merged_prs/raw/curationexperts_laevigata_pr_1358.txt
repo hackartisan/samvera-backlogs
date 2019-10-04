@@ -1,0 +1,2 @@
+populate the selects, form inputs with saved data after tab save
+This commit ensures we re-populate the form inputs after saving tabs, and also that the school component always loads with saved value displayed, if it has one. Components load at a later point in the DOM cycle and schools needed to try to get its selected data slightly after mounting, using a hook Vue provides called nextTick. https://vuejs.org/v2/api/#vm-nextTick. It is the first component to meet the criteria in #1301.

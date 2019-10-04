@@ -1,0 +1,2 @@
+Add press configs for additional presses
+Update subdomain names for PSU & UMich Add configuration for Indiana, Northwestern, and Minnesota

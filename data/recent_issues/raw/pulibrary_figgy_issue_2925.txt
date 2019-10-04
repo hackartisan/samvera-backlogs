@@ -1,0 +1,2 @@
+Create NumismaticFirm resource
+Managed, not nested.

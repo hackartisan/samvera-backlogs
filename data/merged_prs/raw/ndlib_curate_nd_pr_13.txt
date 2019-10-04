@@ -1,0 +1,2 @@
+Adding multi-field composite field input
+Render a composite field (i.e. Contributor > First Name, Last Name) This will eventually be extracted to the curate gem.

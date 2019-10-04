@@ -1,0 +1,2 @@
+You should be able to select a specific track to add to a playlist
+Right now picking one track from 15 means adding all 15 tracks and then individually deleting 14 from the playlist.

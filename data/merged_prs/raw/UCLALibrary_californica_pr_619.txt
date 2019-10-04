@@ -1,0 +1,2 @@
+CsvManifestValidator: make 'Rights.copyrightStatus' column optional CAL-631
+This has not been entered for some collections, so it doesn't end up in the csvs. We already map missing values to 'unknown', so requiring the header isn't necessary.

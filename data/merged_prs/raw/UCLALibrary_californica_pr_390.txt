@@ -1,0 +1,2 @@
+docker fixes
+this gets the Travis build working, among other tweaks

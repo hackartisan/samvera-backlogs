@@ -1,0 +1,2 @@
+load times for Review Submissions page is too slow
+wait time of up to 15 seconds is too long. please check to see if performance can be enhanced!

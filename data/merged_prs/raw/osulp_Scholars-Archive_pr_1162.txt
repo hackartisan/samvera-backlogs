@@ -1,0 +1,2 @@
+Move Dataset form fields above fold.
+Fixes #1159 Also copy in updated _form_metadata.html.erb changes from Hyrax, which doesn't show 'Additional Fields' if there are no secondary terms in a form.

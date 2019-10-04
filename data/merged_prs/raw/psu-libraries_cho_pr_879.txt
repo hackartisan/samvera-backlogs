@@ -1,0 +1,2 @@
+Update UI labels
+Description Updating various UI labels. Connected to #791 Changes  Changing all references of work to resource Changing visibility to access level, clarifying label text for options Fixing capitalization in a few places Changing destroy to delete Changing batch delete labels from items to resources or in some cases dropping the object-type to avoid ambiguity.

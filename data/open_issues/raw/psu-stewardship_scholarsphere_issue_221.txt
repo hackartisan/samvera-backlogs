@@ -1,0 +1,2 @@
+Admin task to handle files with sensitive data
+Implement an "admin function" to allow librarians to mark files as private and to delete older versions of files. Tickets #219 and #220 document how to handle this via rake tasks.

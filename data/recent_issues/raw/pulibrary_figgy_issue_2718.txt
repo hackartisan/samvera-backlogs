@@ -1,0 +1,2 @@
+Default search result option should be "20 per page"
+Requested by Dan

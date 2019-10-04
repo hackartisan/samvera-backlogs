@@ -1,0 +1,1 @@
+Adds styles for the homepage header image

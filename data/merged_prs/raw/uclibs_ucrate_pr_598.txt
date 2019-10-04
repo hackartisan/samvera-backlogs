@@ -1,0 +1,2 @@
+Bug/#597 default collection visibility
+Fixes #597 Two fixes in two different commits for this PR:   Hides a "Collection Export" link that was missed in a previous PR.   Refactors the way we default new collections to Open Access visibility.  The previous method prevented visibility from ever being changed.

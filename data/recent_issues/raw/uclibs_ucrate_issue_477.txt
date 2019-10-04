@@ -1,0 +1,2 @@
+Re-enable the Collections facet
+Descriptive summary PR #462 disabled the "Collections" facet at the bottom of the facets list, but we want it back.  See https://github.com/uclibs/ucrate/pull/462/files#diff-1 Re-enable the line in the catalog controller and add a test to verify the facet shows.

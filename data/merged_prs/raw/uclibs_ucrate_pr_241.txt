@@ -1,0 +1,2 @@
+Refactor shibboleth spec to avoid flaky tests
+Fixes #240 Shibboleth tests flaky. Changes proposed in this pull request:  Removed most conditionals from examples Prefer set config variables over static yaml

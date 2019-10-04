@@ -1,0 +1,2 @@
+Sets new collection visibility to public
+Fixes #465 Sets new collections to Open Access (Public) by setting the value in the collection_form.

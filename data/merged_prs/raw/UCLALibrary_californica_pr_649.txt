@@ -1,0 +1,2 @@
+Fix for translation missing errors
+There was an error in the yaml locale file that was causing translation missing errors in the admin interface. This removes the bad char and checks that the admin interface isn't saying 'translation missing'

@@ -1,0 +1,2 @@
+"Project" metadata field
+A "Project" metadata field for GenericWorks. Fixes #1240. Includes tests, including for the export. Note: I discovered we didn't have tests for the exporters, so this PR includes a minimum of exporter test functionality-- just enough to be able to assert that the new field is in fact included in the export. I'll flesh it out soon in another PR.

@@ -1,0 +1,3 @@
+Display Transcripts Prominently
+As a student/instructor, I need reliable transcriptions, In order to facilitate the use of the primary source materials for students who struggle reading 19th century handwriting. I will know this is done when legible transcriptions appear prominently alongside the original source documents Eric N. Related: #24, #76, #8
+https://github.com/UniversalViewer/universalviewer/pull/424 https://dspace-glam.4science.it/explore?bitstream_id=1877&handle=1234/11&provider=iiif-image#?c=0&m=0&s=0&cv=0&xywh=-6181%2C-390%2C17460%2C7798  highlight zone matching and everything!  Related: #187 

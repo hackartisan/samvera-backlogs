@@ -1,0 +1,2 @@
+Provide a mechanism to configure logging level by environment
+Note, this change takes advantage of the fact the the logger will accept either a symbol or a string to set the level, so the following two lines are equivalent: config.log_level = :debug config.log_level = 'debug'

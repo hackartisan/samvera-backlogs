@@ -1,0 +1,2 @@
+make sure file_set is persisted before reload
+AddressActiveFedora::ObjectNotFoundError: Can't reload an object that hasn't been saved that this override caused in batch

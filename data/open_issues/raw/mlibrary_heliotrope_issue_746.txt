@@ -1,0 +1,5 @@
+Check mobile aspect of AblePlayer
+Check back in early April 2017 to see if there is a new version for mobile.
+It looks like the master branch (which we're using) hasn't been updated in quite awhile.  Let's check back on this in July.
+The current version latest/release (3.0) hasn't changed yet. WIll check back later.
+The latest release is still 3.0.

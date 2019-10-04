@@ -1,0 +1,2 @@
+Simple changes to config/application.rb
+Adding a 'Figurines' genre fixes #1210 Adding an 'Object Explorer' exhibition fixes #1212 Sorting the 'Exhibitions' field alphabetically and using double-quotes for all strings.

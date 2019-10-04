@@ -1,0 +1,2 @@
+Fixed the collection facets crashing if the collection isn't in solr.
+Fixes #155

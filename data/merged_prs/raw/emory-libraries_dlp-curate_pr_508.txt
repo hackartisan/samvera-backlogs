@@ -1,0 +1,2 @@
+Get valid CSV headers directly from CurateMapper
+Use Zizia config to determine what Mapper class to use Look at that mapper class and get the allowed headers instead of maintaining a separate list of valid headers Set newly required config for webdrivers  Connected to curationexperts/in-house#229

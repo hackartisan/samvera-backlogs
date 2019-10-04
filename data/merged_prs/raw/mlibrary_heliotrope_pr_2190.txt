@@ -1,0 +1,2 @@
+Addresses HELIO-2443 Edit Monograph should redirect back.
+YAHO (Yet Another Hyrax Override) that redirects back to monograph page on edit cancellation.

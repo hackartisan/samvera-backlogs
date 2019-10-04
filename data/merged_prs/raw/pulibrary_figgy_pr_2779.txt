@@ -1,0 +1,2 @@
+Import/Export Dependent Objects into Bags
+This does a few things:  Adds a test for Ephemera with Vocabularies Stores all referenced objects, recursing deep, into the bag of the parent on export. This bag is considered a preservation artifact, so the hope is that it's self-contained. Don't overwrite objects on import if they already exist.

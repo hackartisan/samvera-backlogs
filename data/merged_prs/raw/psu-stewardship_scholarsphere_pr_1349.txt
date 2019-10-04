@@ -1,0 +1,2 @@
+Display admin stats page without errors
+Enables the admin. statistics page to render correctly if there is a term query without any results. Additionally, updates our solr config to include a /terms request handler so we can respond correctly to term queries, and updates to Solr to version 7.4, matching our current version in production. Fixes #1175

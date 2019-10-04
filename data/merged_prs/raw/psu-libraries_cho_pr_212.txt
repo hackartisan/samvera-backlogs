@@ -1,0 +1,2 @@
+Changing pending tests to really basic tests
+Just adding some really basic tests instead of having all pending tests.

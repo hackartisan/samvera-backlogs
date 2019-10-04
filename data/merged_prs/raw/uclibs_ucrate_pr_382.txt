@@ -1,0 +1,2 @@
+Rename descriptions tab to metadata
+Fixes #368 Fixes #380 Override Hyrax en/es locale to rename Descriptions on new work form to Metadata. Also added Spanish translation for top of workform help. Changes proposed in this pull request:  Update config/locales/hyrax.en.yml Update config/locales/hyrax.es.yml Feature spec checking for presence of 'Metadata' on new work creation.

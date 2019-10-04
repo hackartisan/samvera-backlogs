@@ -1,0 +1,2 @@
+diagnostics on batch loader.
+time stamps. log things to get performance

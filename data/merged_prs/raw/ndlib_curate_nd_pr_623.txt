@@ -1,0 +1,2 @@
+Display publication date before create_date when available
+Currently publication date is applicable to article, audio, video, dataset and documents only. changes involve only in associated work type.

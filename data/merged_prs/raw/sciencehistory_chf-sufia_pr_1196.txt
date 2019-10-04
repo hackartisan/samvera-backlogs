@@ -1,0 +1,2 @@
+Allow HTML in collection descriptions.
+Sanitizes HTML on the way in and out, using the same mechanism used for GenericWork descriptions ( app/helpers/description_formatter_helper.rb ). Fixes #1183 .

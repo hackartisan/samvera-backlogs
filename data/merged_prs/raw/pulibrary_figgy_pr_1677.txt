@@ -1,0 +1,2 @@
+Add a test for the case when find_by_string_property has no results
+refs #1676 There wasn't a bug (just a mock that was throwing off my other test) but do we still want this test?

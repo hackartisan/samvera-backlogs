@@ -1,0 +1,2 @@
+Importer::CSV: update encoding for Ruby 2.5
+bom no longer supported.

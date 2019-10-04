@@ -1,0 +1,1 @@
+Resolves #1574: Add support of friends accounts

@@ -1,0 +1,2 @@
+Feature/generic file cleanup
+This should replace #156 as it fixes keyword and uses the schema. Fixes #131.

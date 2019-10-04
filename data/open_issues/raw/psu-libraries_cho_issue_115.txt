@@ -1,0 +1,3 @@
+Geographic Discovery
+As a community member, I would like to see search results pinned to a map, So I may discover objects by their geographic relevance. Depends on geo-coordinates in the metadata. Tara L.
+What happens to works without coordinates in the metadata?

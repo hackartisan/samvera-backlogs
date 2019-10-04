@@ -1,0 +1,2 @@
+Whenever fixes
+Fix to allow whenever to deploy correctly Update frequency of fixity and graduation service runs. Collin says graduation data won't be updated more than once / week, and a daily fixity check is overkill.

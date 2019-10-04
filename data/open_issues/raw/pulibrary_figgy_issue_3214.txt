@@ -1,0 +1,3 @@
+GraphQL Resources should have an Authorization Code and Authorization Message
+These will return what kind of access the user has to these resources. Codes: OK, UNAUTHORIZED, FORBIDDEN  Messages: '' 'Princeton Users may log in to view this resource' 'Digital Copy available on request.'  Above messages are drafts.
+Maybe something that hedges a bit more like "Contact us for more information about accessing this item"?

@@ -1,0 +1,2 @@
+Add workflow gated search.
+Closes #78.

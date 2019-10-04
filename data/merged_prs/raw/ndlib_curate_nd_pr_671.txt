@@ -1,0 +1,2 @@
+Bugfix deploy seeds to pprd
+Fix for build failing on "NoMethodError: undefined method `pp' for main:Object" 8e5b249 Remove added seeds 07f7519  Apparently db:seed is run in production deploys as well. Pulling all of this out until I figure out a better way to handle development seeds.

@@ -1,0 +1,1 @@
+Use GW Carver stamp on front page as well, fixes #771

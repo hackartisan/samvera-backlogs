@@ -1,0 +1,2 @@
+Enable facets on collections search
+Fixes #531 Facets work similar to catalog controller, but may need to be altered further once we figure out how to display facets on the search page. In particular, https://github.com/samvera/hyrax/blob/master/app/controllers/concerns/hyrax/collections_controller_behavior.rb#L105 may need to include merging a new facets query string

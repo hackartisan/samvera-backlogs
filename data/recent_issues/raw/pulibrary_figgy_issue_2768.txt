@@ -1,0 +1,2 @@
+[Figgy/staging] TypeError: can't convert String into Hash
+Backtrace line 186 of [PROJECT_ROOT]/app/adapters/instrumented_adapter.rb: block in find_inverse_references_by line 48 of [PROJECT_ROOT]/app/adapters/instrumented_adapter.rb: block in trace line 44 of [PROJECT_ROOT]/app/adapters/instrumented_adapter.rb: trace  View full backtrace and more info at honeybadger.io

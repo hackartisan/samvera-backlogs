@@ -1,0 +1,2 @@
+Resolves #1012: Cache EPubs
+For this first pass at caching just unzip the epubs.

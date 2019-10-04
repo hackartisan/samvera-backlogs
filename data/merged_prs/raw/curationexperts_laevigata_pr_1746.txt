@@ -1,0 +1,2 @@
+Changes fa-check-circle color to green
+This PR changes the check circle color from blue to green and is supposed to be against master.

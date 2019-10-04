@@ -1,0 +1,2 @@
+Keep baseurl/hostname digital.sciencehistory.org in Env for re-use
+It was starting to proliferate, seemed to make sense to centralize, even though we don't expect a name change again anytime soon! Also lets us have the proper hostnames for staging, and test/dev while we're at it.

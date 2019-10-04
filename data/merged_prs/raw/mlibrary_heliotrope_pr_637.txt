@@ -1,0 +1,2 @@
+Sort monograph catalog by chapter/format/year
+Resolves #261

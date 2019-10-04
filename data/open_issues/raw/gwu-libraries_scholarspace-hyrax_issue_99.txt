@@ -1,0 +1,2 @@
+Deployment is tedious, try again to dockerize
+This can also improve reproduceability of deployments. Partial solutions may be useful as well, for example a container just for the rails app, and/or a container just for solr

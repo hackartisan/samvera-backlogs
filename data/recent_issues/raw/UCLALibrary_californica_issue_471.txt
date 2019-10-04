@@ -1,0 +1,2 @@
+Check Bennett TIFF images for corruption
+As a project team member, I want to prepare a good data set for importing and make sure that we don't waste time loading corrupt TIFF files. Acceptance Criteria   Provide a list of any corrupt TIFF files in the collection.  child of #465

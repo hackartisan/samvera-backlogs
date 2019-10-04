@@ -1,0 +1,2 @@
+Added our own code to parse a large report from Google
+No longer individual queries for each Work or FileSet Fixes #929 refs #1020 becuase with this change we should be able to get at the FileSet downloads for each page when the page loads.

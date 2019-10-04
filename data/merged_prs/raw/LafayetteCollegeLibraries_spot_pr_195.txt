@@ -1,0 +1,2 @@
+update to hyrax 3 (beta 2)
+no real use in us waiting until this goes live if we're expecting to launch on 3. this should also pave the way for us being able to update to rails 5.2 (the long-term support version)

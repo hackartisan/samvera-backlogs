@@ -1,0 +1,2 @@
+Add visibility badge to show page.
+Closes #58.

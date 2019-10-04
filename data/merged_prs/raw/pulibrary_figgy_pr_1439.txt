@@ -1,0 +1,2 @@
+Add additional metadata to schema.
+Work towards pulibrary/pomegranate#360 Adds text_language, provenance, binding_note, and source_acquisiton.

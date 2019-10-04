@@ -1,0 +1,2 @@
+Research and determine three complimentary fonts for OD (serif, sans-serif, mono) with support for full Latin encoding as well as macrons for Pinyin. 
+Descriptive summary Across a wide variety of collections (including some presenting characters in languages other than english), a versatile set of fonts will be needed. Expected behavior Our font requirements include a sans-serif, serif (for body text) and monospaced for code and all complimenting each other. Stakeholders emphasized a modern tone as well. Related work Link to related tickets or prior related work here.

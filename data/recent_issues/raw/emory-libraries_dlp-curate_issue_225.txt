@@ -1,0 +1,2 @@
+Edit form to add uploader for files
+Add uploader for files  Call AttachFilesToWork job once work is saved and make sure files are passed along with their pcdm_use, and saved under a single fileset  Write feature test to show multiple files are attached to a single fileset through the uploader

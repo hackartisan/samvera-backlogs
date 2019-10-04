@@ -1,0 +1,2 @@
+Save and Ingest should ignore hidden files (starting with .)
+It's easy to miss these on the staging server, which can ruin a perfectly good ingest.

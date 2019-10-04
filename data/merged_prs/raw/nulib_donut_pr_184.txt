@@ -1,0 +1,2 @@
+Replace minio with localstack
+Replaces minio with localstack Removes minio workaround in lib/importer/factory/object_factory.rb

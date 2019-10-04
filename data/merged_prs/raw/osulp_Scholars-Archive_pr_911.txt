@@ -1,0 +1,2 @@
+Feature/show page expose nested fields
+fixes #907   Updated catalog controller and solr document to index and expose nested_related_items in the show page Added ScholarsArchiveNestedAttributeRenderer to render nested attributes in the show page instead of using a partial, which was being rendered at the end of the attributes table. Having a renderer was useful to allow the special ordering of attributes as requested in #656

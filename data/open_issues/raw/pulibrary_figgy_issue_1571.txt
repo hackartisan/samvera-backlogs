@@ -1,0 +1,3 @@
+Ingest Religious lectures
+Born digital collection. mp3s, windows media, more.
+We'll need to get or create (in collaboration with users) a sample data set / folder structure

@@ -1,0 +1,2 @@
+sets nil if the property has no remaining values
+fixes a bug with bulk updating ActiveTriple::Relation fields

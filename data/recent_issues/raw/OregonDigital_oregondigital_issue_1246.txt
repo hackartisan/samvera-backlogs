@@ -1,0 +1,2 @@
+Move Caption Title property values to Alternative Title, remove predicate 
+Move Caption Title values to Alternative Title. For Historic Sheet Music Collection items only. Remove predicate from system (including ingest form).

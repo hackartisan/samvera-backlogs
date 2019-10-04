@@ -1,0 +1,2 @@
+Fixup/fulcrum/indiana
+fixes typo in book title on homepage and adds subtitle to be consistent with other book titles.

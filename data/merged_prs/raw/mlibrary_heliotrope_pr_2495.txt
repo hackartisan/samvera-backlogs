@@ -1,0 +1,1 @@
+move unused Able Player image from app/assets/images

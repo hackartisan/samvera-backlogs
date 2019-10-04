@@ -1,0 +1,2 @@
+add qa task to check our cleanup work on creators
+Related to #1796  QA task to check our work. The goal is to check both parents and members to see if we missed any in our previous tasks.  bundle exec rake scholars_archive:qa_for_unclean_creators   Task to find child members in Manual  bundle exec rake scholars_archive:get_json_of_handles_manual_with_creators_and_children

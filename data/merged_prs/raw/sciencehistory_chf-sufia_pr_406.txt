@@ -1,0 +1,2 @@
+cap tasks for running tasks, including with maintenance mode
+TASK=chf:data_fix:library_division REASON="testing things" UNTIL="12pm Eastern Time" bundle exec cap staging invoke:rake:with_maintenance Will turn maint mode on for you, run task, turn it back off -- even if task fails. If you want to leave it on if task fails, SAFE_MAINT=false. Or to just run a rake task on a remote server without maint mode: cap staging invoke:rake TASK=chf:data_fix:whatever

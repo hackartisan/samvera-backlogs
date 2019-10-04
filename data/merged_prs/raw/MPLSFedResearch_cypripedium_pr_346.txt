@@ -1,0 +1,2 @@
+Update to latest capistrano version
+Connected to curationexperts/in-house#280

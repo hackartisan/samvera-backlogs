@@ -1,0 +1,2 @@
+Graceful failure for deployment info page
+There is some issue with the deployment IAM role not having access to one of the CodeDeploy api methods. I hope to figure that out soon, but in the meantime, I don't want the deployment info page failure to fail the whole deployment. Instead log the message to STDERR, replace the deployment info page with a readable error, and continue without failing.

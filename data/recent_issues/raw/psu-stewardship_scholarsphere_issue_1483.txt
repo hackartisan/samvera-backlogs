@@ -1,0 +1,2 @@
+Remove accept_confirm when supported by Capybara
+The copied accept_confirm method from Sufia can be removed once Capybara supports it under Chrome.

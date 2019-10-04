@@ -1,0 +1,2 @@
+Add derivative service to extract external geo metadata
+Adds a derivative service for external geo metadata. Extracts metadata elements into parent vector or raster resource as soon as the file is characterized. Closes #1308

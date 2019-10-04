@@ -1,0 +1,4 @@
+support for mime types
+As a metadata specialist, I would like files to receive characterization upon ingest, with the resulting data stored as PREMIS, So that I can search for content based on MIME-TYPE for digital preservation actions. Child of #637
+This doesn't stored as PREMIS for MVP.
+Extract mime type from fits output and update property.  Blocked #637

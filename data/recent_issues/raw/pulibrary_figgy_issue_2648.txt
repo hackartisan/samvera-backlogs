@@ -1,0 +1,2 @@
+part_of should be an editable field on playlist
+Dan wants it on both recording and playlist. He will manage each independently as-needed.

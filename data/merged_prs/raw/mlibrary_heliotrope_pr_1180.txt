@@ -1,0 +1,2 @@
+Resolves #941: Monograph EPub indexing bug
+Was using 'existing_fileset_order' which didn't include the recently added fileset. Now using 'existing_filesets' which includes the recently added fileset.

@@ -1,0 +1,2 @@
+committee_member display in edit bug fix
+This commit fixes a bug that was preventing the committee member data from being returned to the InProgressEtd edit form. Connected to #1619

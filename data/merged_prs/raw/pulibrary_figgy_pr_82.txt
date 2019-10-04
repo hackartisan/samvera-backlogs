@@ -1,0 +1,2 @@
+Adds Append Scanned Resource Functionality
+Closes #15, Closes #14

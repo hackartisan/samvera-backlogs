@@ -1,0 +1,2 @@
+CSB-220, update CSB with tables within modals
+I've tested this in a variety of browsers and it seem fine. It's currently on preview.

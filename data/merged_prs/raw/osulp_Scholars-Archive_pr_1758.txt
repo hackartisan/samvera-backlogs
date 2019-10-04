@@ -1,0 +1,2 @@
+Fixes collection searching
+Fixes #1739 The issue was that it was doing a solr search for the title, which on collections is still indexed under title_tesim, but we removed it from the all fields query so it wasnt searching for the proper title. Ill provide a screenshot and gif of it, then after that it should be good to go.

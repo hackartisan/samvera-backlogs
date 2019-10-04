@@ -1,0 +1,2 @@
+Fix intermittent CI failure
+This fixes an intermittent CI failure that was throwing this error: ActiveRecord::RecordNotFound: Couldn't find Hyrax::CollectionType matching GID 'gid://californica/hyrax-collectiontype/9'

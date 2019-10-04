@@ -1,0 +1,2 @@
+Non-PSU CHO Users
+As a visual resources librarian at another university, I would like to be able to collaborative build collections with a PSU colleague, So that we may publish collections together. Dependent on #195

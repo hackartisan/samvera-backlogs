@@ -1,0 +1,2 @@
+Change tab Articles to Journals
+k. Wäre es möglich ein eigenes Feld zu kreieren für «Journals» und unter diesen die einzelnen Artikel abrufbar sind? Under the tab [Journals] is a listing of the journals, on clicking each journal the articles are displayed.

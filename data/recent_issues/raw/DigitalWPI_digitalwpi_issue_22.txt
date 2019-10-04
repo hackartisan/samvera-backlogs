@@ -1,0 +1,2 @@
+finish setting up QA servers
+set up hyrax-qa.wpi.edu and data-qa.wpi.edu servers and get things running, using ansible blocks #23 blocks #24

@@ -1,0 +1,2 @@
+Use token to authenticate request
+ChangeItemsController inheritance to CommonObjectsController Change items route to resources Retrieve X-Api-Token from request header. Retrieve token from ApiAccessToken table. Set current_user = token table user, and use to validate request. Return item in json format.

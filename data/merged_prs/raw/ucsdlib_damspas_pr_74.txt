@@ -1,0 +1,2 @@
+Fixed the object viewer to display full title with non filing characters
+See https://lib-jira.ucsd.edu:8443/browse/DHH-629.

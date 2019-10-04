@@ -1,0 +1,2 @@
+updated form visibility component
+fixes #860 fixes #872 fixes #861

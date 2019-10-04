@@ -1,0 +1,2 @@
+Add hint for slug.
+Closes #1523

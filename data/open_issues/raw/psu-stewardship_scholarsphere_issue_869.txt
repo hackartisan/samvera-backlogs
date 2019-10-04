@@ -1,0 +1,3 @@
+Size of Help Boxes
+When I select the "?" icons in my user profie for more information, the box containing the information is too narrow.
+![screen shot 2017-05-23 at 3 10 23 pm](https://cloud.githubusercontent.com/assets/4163828/26371909/34904580-3fca-11e7-8f85-41f2c2aebe47.png) 

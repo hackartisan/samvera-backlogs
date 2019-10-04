@@ -1,0 +1,2 @@
+Removing Ldp patch, fixes #226
+@cam156 this fixes the issue, and removes the test. I'm not how if we would test this otherwise since I'm not as familiar. Does this look right?

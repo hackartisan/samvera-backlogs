@@ -1,0 +1,2 @@
+fixes string saving and minimum 4 number
+Closes #257

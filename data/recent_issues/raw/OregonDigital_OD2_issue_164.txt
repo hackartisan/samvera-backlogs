@@ -1,0 +1,2 @@
+Review OAI mapping in MAP
+Review current mapping and revise as per MWDL, DPLA and Alliance best practices.

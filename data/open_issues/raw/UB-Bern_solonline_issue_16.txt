@@ -1,0 +1,2 @@
+Pressing ENTER on the depositing works form opens removal popup
+When an input field in the "Add New Article Work" form has focus pressing ENTER causes the popup to appear: Removing this work will not remove it from the repository, only from this collection. Are you sure you want to remove this work from the collection? [Cancel][Remove] This should not happen. Browser: Firefox 65.0

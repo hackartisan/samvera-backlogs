@@ -1,0 +1,2 @@
+Disable citation features until author ordering is fixed
+Descriptive summary Port over the change we recently made on scholar_uc to disable the citation features for now.  Incorrect citations may be created until we can get ordered authors working See the changes made to scholar_uc here: uclibs/scholar_uc_legacy@2b923fa

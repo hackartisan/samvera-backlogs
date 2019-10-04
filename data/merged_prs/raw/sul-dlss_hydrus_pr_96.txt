@@ -1,0 +1,2 @@
+more updates to the readme
+fixes #7 and more general cleanup

@@ -1,0 +1,2 @@
+Multiple value fields not sorting alphabetically
+From dams-metadata created by GregReser: ucsdlib/dams-metadata#43 Description It appears that there is no sort logic for many fields in the DAMS 4 UI. Several project managers and data providers have requested that this be changed to default to alphabetic sort, if a specific order is not specified. Example of random sort:  Request For all fields that allow multiple values, if the display order is not specified, display alphabetically

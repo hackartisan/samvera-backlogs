@@ -1,0 +1,2 @@
+Resolves HELIO-1885 Purge Representative Manifest
+There are no representative manifest in production so nothing needs to be purged from Fedora.

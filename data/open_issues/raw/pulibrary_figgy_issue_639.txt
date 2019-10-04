@@ -1,0 +1,2 @@
+New fields on index results view 
+depositor job status number of files number of child resources  Child of #99 Depends on #638

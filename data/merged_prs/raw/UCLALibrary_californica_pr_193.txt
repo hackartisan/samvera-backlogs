@@ -1,0 +1,2 @@
+Added location field to a Work. Connected to #101
+Connected to #101

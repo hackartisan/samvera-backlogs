@@ -1,0 +1,2 @@
+Remove the 3ruby-version file
+Ruby version support is supplied by the Gemfile. We want to be able to support multiple Rubies since we will deploy the application to multiple environments. We won't want to be forced to upgrade Ruby for those environments similtaneously.

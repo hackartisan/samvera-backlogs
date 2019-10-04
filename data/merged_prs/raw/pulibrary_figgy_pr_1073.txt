@@ -1,0 +1,1 @@
+Add rake task to bulk-update state

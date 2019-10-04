@@ -1,0 +1,2 @@
+move full-text indexing to ObjectIndexer
+Otherwise re-indexing will not update all_text_timv

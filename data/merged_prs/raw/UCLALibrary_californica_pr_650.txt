@@ -1,0 +1,2 @@
+Use a separate key for caching manifests
+Don't use the primary key for storing the key used to cache the manifests in the db.

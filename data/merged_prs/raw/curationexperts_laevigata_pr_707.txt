@@ -1,0 +1,2 @@
+Always send Submit My ETD clicks to the submission form
+Closes #703

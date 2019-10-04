@@ -1,0 +1,2 @@
+Review Californica Edit page to use the MODS resource type values
+As a metadata expert, I would like to be able to correct the resource type values for Los Angeles Daily News Collection record. The default Hyrax behavior only allows a pick menu of resource types that are not the resource types UCLA uses.

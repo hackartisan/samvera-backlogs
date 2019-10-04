@@ -1,0 +1,2 @@
+FindModel custom query; group shared queries for resources
+This borrows another Rails-ism that would allow us to do Model.find(id) type type queries. Combines the other existing common Rails-type queries such as ::all and ::count into a module that is included in our Valkyrie resources.

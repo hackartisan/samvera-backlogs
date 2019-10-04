@@ -1,0 +1,2 @@
+Order Manager errors for thumbnails need to be isolated
+Otherwise invalid thumbnail properties (e. g. missing iiifServiceUrl in the response to GraphQL queries for https://figgy.princeton.edu/concern/scanned_resources/2ad03c65-1303-4009-8689-ee474dc41ade/order_manager) will break the Order Manager

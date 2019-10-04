@@ -1,0 +1,2 @@
+move lib/spot files into services
+this moves our three lib/spot files into app/services. apparently, rails in production doesn't respect the autoload_paths config and this should be in the eager_load_paths. but honestly, i think we can use app/services to accomplish the same aim without having to hack the load paths any further. fixes a uninitialized constant Spot::Identifier error that was being raised by Spot::BasePresenter

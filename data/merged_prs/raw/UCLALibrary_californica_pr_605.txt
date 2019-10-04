@@ -1,0 +1,2 @@
+Add metadata field for architect's role
+Connected to CAL-566 Add metadata field for architect's role     property architect     label Architect   predicate http://id.loc.gov/vocabulary/relators/arc   required no   multiple yes   type string (english tokenization)   import from Name.architect   searchable yes   faceted no   search results hide   item view show   grouping Item overview

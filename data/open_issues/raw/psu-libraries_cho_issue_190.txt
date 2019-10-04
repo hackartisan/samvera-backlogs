@@ -1,0 +1,2 @@
+Progress on Batch Actions
+As a repository manager, I would like to track progress of batch actions (uploading bag, import previews, extracting bags, importing metadata, re-indexing), So that I can easily know where I am in the process each time.

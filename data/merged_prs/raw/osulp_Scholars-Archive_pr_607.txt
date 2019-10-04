@@ -1,0 +1,2 @@
+Feature/nested geo
+fixes #300 #514 #455 #457 #460 closes #600 #601 #602 #603 New Edit Form  Screenshots:  New/Edit form     Show page:    Search results view     Added facet fields and solr configuration for geo fields (points, bounding boxes) Updated the presenter to render geo fields (points, bounding boxes) in the edit/new form Added nested models for geo points bounding boxes attributes Added proper js to handle dynamic add/remove actions for each geo field (points, bounding boxes, and geonames)

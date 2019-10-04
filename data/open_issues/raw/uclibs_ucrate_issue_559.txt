@@ -1,0 +1,14 @@
+Works not saving when a virus is found in one of the files
+Descriptive summary (tested on scholar-qa) When creating a work and using the test virus string, Scholar detects the virus, but when the user clicks the Save button an HTTP ERROR 400 is returned. Not sure if this is isolated to scholar-qa, or production mode, or is present in all environments.
+Confirmed this is on local.
+https://github.com/curationexperts/mahonia/commit/b0e97638ed7a3c0047bcff7e57f010e8549d4d7f#diff-efd9b867ddcf2a9b806b94ca24c2f72f 
+https://github.com/eagleas/clamav/issues/11  https://github.com/uclibs/ucrate/pull/163/files
+https://github.com/samvera/hyrax/issues/3538
+https://github.com/kobaltz/clamby 
+https://github.com/duke-libraries/ddr-antivirus
+I am able to bundle with ClamAV 0.100.2.
+The 404 error occurs when trying to add multiple files with one of them being a virus and the other clean.
+Invalid or incomplete POST params Started POST "/concern/generic_works?locale=en" for 127.0.0.1 at 2019-02-20 12:28:18 -0500    Rack::QueryParser::ParameterTypeError (expected Hash (got Array) for param `title'):
+We chose to use the save_work form validation to catch any virus error messages displayed by the FileUploader.  If the FileUploader is displaying an error message, then the user will not be able to hit the SAVE button.  It will be greyed out until the user manually deletes the infected file from the uploader interface.  I started a branch: https://github.com/uclibs/ucrate/tree/fix/antivirus  This branch demonstrates the starting principles of this strategy.    We still need to: - [ ] Overwrite the save_work_control from hyrax in our application.   - [ ] Introduce safe_file into the application. - [ ] Get them both in the asset pipeline successfully. - [ ] Make sure the javascript code is good. - [ ] Adjust the labels. - [ ] Test for batch upload - [ ] Write test.    
+There is also another branch where I tried to extend the java classes and not do a full overwrite.  https://github.com/uclibs/ucrate/tree/fix/559_antivirus_multiple
+Useful links:  https://zellwk.com/blog/css-values-in-js/ https://github.com/UNC-Libraries/hy-c/commit/0387e2aaa0e6bb34f97e3331d081b579550de003#diff-24be0e76ddb3fbf7ccda6089337d3b85 

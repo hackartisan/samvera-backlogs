@@ -1,0 +1,2 @@
+Tweak alignment for featured content
+Fixes #295 Tweak styles to for uniform size and alignment of featured elements. Changes proposed in this pull request:  app/assets/stylesheets/scholar.scss

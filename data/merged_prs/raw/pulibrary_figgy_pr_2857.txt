@@ -1,0 +1,2 @@
+Link NumismaticAccessions by reference
+Closes #2856

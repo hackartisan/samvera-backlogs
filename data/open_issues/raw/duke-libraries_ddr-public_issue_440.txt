@@ -1,0 +1,2 @@
+Specify a range of images from an item for download
+A user should be able to specify a range of images when downloading a multi-image item, especially for  a PDF export. E.g., an item may have 250 pages but a researcher may only want 10 of them. Would be more likely in manuscripts digitized/described at folder level. Noted in stakeholder feedback RLMT MSS1 6/7/16.

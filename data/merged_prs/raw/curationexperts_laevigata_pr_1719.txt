@@ -1,0 +1,2 @@
+Return files as the default embargo type
+This removes the blank option in the embargo type dropdown and selects the first option, 'Files', by default. Connected to #1683

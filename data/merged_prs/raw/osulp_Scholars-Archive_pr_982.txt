@@ -1,0 +1,2 @@
+fetch all labels for mult-value fields
+fixes #973  It looks like we were fetching only the top label with fetch_top_label which works for single value fields. Added fetch_all_labels (instead of fetch_top_label) to get an array of label entries instead for multi-value fields likeother_affiliation

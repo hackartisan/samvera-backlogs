@@ -1,0 +1,1 @@
+Remove Shre notify cron job

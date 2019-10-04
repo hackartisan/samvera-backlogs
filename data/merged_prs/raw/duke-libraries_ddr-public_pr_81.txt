@@ -1,0 +1,1 @@
+display Login to Download for duke.* downloader groups; closes #80

@@ -1,0 +1,2 @@
+Update jettywrapper
+Fixes #37

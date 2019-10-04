@@ -1,0 +1,2 @@
+Change collection id to noid in unauthorized page
+fixes #261

@@ -1,0 +1,2 @@
+Redirect to parent instead of box after ephemera folder completion
+fixes #1342

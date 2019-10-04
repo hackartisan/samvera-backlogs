@@ -1,0 +1,2 @@
+remove mysql.cnf
+Commit 6417a74 added this config in order to reduce memory usage from the database. Recently we have been having intermittent database errors and would prefer to use the default configuration and simply give docker more memory.

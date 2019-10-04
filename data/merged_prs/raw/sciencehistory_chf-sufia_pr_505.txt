@@ -1,0 +1,2 @@
+Only an admin can delete things
+closes #267

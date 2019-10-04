@@ -1,0 +1,2 @@
+Added link to Oregon Digital A to Z List in transition message.
+Closes #392

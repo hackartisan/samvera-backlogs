@@ -1,0 +1,2 @@
+Fix for #999 removing unwanted header whitespace.
+Resolves #999.

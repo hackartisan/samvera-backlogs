@@ -1,0 +1,1 @@
+Improving the behavior for PDF based collection. DHH-461

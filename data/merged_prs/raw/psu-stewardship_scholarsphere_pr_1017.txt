@@ -1,0 +1,2 @@
+Sync solr config and version with production
+Our local solr version is later than the version being used in production. This happened back when we were testing the latest Solr prior to 3.0. After the decision to stick with a less-than-recent version in our server environment, the decision wasn't carried over to our local repo.

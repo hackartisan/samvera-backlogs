@@ -1,0 +1,2 @@
+Configures file attachment requirement for batch create.
+Fixes #638 The use case required that the batch create require a file to be attached while the work submission page without the file requirement.  To do this, I added a param check to see if we were coming from batch create.

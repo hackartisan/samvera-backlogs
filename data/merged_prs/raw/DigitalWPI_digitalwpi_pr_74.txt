@@ -1,0 +1,2 @@
+Added seed file
+This PR resolves #42

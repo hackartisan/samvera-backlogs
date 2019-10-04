@@ -1,0 +1,2 @@
+[WIP] Get scholars-test working on Beavernetes
+Descriptive summary As the first step towards moving staging to Beavernetes, we need to get sa-test up and running. https://rancher.library.oregonstate.edu

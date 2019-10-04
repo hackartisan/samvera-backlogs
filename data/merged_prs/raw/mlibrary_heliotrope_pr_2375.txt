@@ -1,0 +1,2 @@
+fixup gabii CSS
+Remove gabii specific rule that overrode positioning of altmetric/dimensions badges. Change this:  To this:

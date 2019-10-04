@@ -1,0 +1,2 @@
+FeaturedRepresentatives CSV column
+Resolves HELIO-2085

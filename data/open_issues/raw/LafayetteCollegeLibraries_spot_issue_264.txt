@@ -1,0 +1,2 @@
+use preferred name / display name field from CAS
+i know this field exists, but i'm not sure what the key for it is. we should be using preferred names for our users.

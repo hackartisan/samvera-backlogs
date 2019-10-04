@@ -1,0 +1,2 @@
+Use original_file instead of files.first for FileSet representative file
+After deploying a solution for nulib/next-generation-repository#779, we discovered you cannot use file_set.files.first to obtain the id of the .tif as described here: nulib/next-generation-repository#797  use file_set.original_file.id instead offile_set.files.first.id

@@ -1,0 +1,2 @@
+add etd_genre test to ETD feature spec
+Fixes #521 Include check for :etd_genre persistence in create ETD feature spec Changes proposed in this pull request:  add :etd_genre check to spec/features/create_etd_feature_spec.rb

@@ -1,0 +1,2 @@
+Periodic Table home page category.
+Don't merge this yet: still need a description before this is ready to go live. Fixes #1218.

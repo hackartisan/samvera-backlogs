@@ -1,0 +1,2 @@
+Avoid false-positives when checking for errors
+RSpec was complaining about tests that check for exceptions. This specifies which errors should be raised when they're supposed to, and specifies that any error shouldn't be raise when it's not supposed to.

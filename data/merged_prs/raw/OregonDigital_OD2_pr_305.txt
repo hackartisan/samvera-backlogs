@@ -1,0 +1,2 @@
+Add missing base metadata to generic
+Work forms were not using the same pattern to display terms. They now all use GenericForms primary_terms definition, which has been generalized to work for all inherited forms. :date_created and :related_url were added as base metadata from Hyrax Work forms now make sure metadata terms are uniq, before we had doubled up on some base Hyrax metadata  fixes #290

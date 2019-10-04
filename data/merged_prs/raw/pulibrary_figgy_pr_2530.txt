@@ -1,0 +1,2 @@
+Disable all Track detach buttons when one is clicked
+closes #2528

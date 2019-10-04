@@ -1,0 +1,2 @@
+Numismatic discovery
+Fixes #2003

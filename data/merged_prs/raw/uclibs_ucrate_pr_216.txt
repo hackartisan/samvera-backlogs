@@ -1,0 +1,2 @@
+Feature/#199 port over scholars static pages
+Fixes #199 The link 'data dictionary examples' in 'documenting data' page is broken. it is also broken in 'https://scholar-dev.uc.edu/documenting_data?locale=en' There is no ucrate blog. All blog links are still scholar blog in static pages.

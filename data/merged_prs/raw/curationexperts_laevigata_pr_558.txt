@@ -1,0 +1,2 @@
+Set embargo_length, not embargo_release_date
+We are really setting an embargo_length, not an embargo_release_date, so I re-named it throughout to be less confusing. This will also make it easier to later implement a form widget for Fran and Bethany that really does set "embargo release date" with a date.

@@ -1,0 +1,2 @@
+Disable spellcheck to fix slow solr query in collections lookup. DHH-802
+https://lib-jira.ucsd.edu:8443/browse/DHH-802

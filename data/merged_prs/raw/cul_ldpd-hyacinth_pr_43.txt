@@ -1,0 +1,1 @@
+Add mint_and_store_doi(IDENTIFIER_STATUS[:reserved]) call

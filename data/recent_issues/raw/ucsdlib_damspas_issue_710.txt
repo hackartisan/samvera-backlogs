@@ -1,0 +1,2 @@
+Add bcc to the authorization email sent from the VRR
+Descriptive summary Add a bcc sent to spcoll-request@ucsd.edu to the email sent by the VRR system when a work is authorized for a user. Rationale Invariably, users often have emails go missing or lost in spam and don't realize a work has been authorized. This would provide a way to track that the email was actually sent, and give us a way to forward their login token to them without having to renew the work that would send them an email, that might also disappear into their spam system.

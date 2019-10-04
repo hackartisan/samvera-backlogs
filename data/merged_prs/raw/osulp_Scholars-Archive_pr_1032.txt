@@ -1,0 +1,2 @@
+change wording for "Other Content"
+changed wording for Other Content to make it more sensical for users. addresses: #1018 nb. review this carefully please, i'm an amateur.

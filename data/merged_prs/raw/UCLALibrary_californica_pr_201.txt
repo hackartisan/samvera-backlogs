@@ -1,0 +1,2 @@
+Log ingest output to a file
+The log file is time stamped It records how long the ingest process took The rake task uses the new importer Keep logic out of the rake task and in a class where it can be tested  Connected to #200

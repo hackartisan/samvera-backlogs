@@ -1,0 +1,2 @@
+Get Department from LDAP and put it in the author profile and meta
+We have got a few questions relating to this and now that we are doing a fine job at creators, this makes sense. It will help get better data, and also help departments know who is depositing etc.

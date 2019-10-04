@@ -1,0 +1,2 @@
+Resolves HELIO-1874: SUSHI support for requesting COUNTER reports
+SwaggerClient SUSHI API CustomersController CounterReportsController SushiService CounterReportService

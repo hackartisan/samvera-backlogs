@@ -1,0 +1,2 @@
+Added beta badge
+First pass at beta badge and accompanying text. Styles based on: https://github.com/simonwhitaker/github-fork-ribbon-css Thanks @simonwhitaker!

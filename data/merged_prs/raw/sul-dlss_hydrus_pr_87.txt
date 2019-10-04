@@ -1,0 +1,2 @@
+link config/secrets.yml on a deploy
+rails-secrets was added in a previous commit, but the deploy was not adjusted to link that file.

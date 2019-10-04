@@ -1,0 +1,2 @@
+Convert from EZid api - Needed by March 2020
+Production release of the JSON api should be stable in the fall.

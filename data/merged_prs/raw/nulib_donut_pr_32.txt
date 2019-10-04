@@ -1,0 +1,2 @@
+remove accession number from required fields
+Fixes: nulib/next-generation-repository#216 batch upload form just includes the default fields.

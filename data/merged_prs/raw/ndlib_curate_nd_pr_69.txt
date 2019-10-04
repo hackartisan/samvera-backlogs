@@ -1,0 +1,2 @@
+Falling back on curate for more views
+Instead of relying on the override for whitelisted?, pushing that decision down a level in the partials.

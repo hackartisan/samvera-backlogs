@@ -1,0 +1,2 @@
+Only display file sets in the file manager
+Closes #1167

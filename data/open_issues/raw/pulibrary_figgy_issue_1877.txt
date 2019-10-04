@@ -1,0 +1,2 @@
+Research UV/Avalon caption support
+What caption formats are supported?

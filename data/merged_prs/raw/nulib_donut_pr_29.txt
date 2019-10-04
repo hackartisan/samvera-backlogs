@@ -1,0 +1,2 @@
+Metadata updates on Image model for v1 spreadsheet
+Fixes: nulib/next-generation-repository#179

@@ -1,0 +1,2 @@
+Dead code cleanup
+Removed the environment variable for adding works to a collection.  Now that the importer uses the "Parent ARK" field in the CSV file to set the collection, the environment variable should no longer be used. Connected to #432.

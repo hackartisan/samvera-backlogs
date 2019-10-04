@@ -1,0 +1,2 @@
+Enable feature tests in Blacklight
+Creates a small feature test to ensure Blacklight is working as expected. Includes some and additions and refactoring of the test suite to ensure Solr is working in Travis.

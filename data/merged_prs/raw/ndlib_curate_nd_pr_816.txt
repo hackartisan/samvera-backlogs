@@ -1,0 +1,2 @@
+Update mini_magick vulnerability
+Update mini-magick to >= 4.9.4 due to vulnerability.

@@ -1,0 +1,2 @@
+Issue 41 remove static aboutpage
+Resolves #41

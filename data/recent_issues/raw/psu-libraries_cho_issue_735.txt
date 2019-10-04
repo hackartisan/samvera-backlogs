@@ -1,0 +1,2 @@
+Batch ingesting works with Agent resources
+Currently the batch ingest will behave the same way as the UI and reject any works that specify a Agent who does not exist. However, we may want to create new Agent resources if they don't exist, which could lead to a proliferation of duplicate agents. The dry-run could be used to inform the user of agents that are not found and would be created, or we can looks for other solutions. Also, specifying either the full name of the creator or its resource identifier in the csv would help. Related to #87

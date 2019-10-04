@@ -1,0 +1,2 @@
+removing refrences to GenericFile
+Also removing foxml since we have not used since Fedora 3

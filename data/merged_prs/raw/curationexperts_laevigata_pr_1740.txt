@@ -1,0 +1,1 @@
+Enable feature specs for new ui. Connected to #1736

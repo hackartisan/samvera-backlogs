@@ -1,0 +1,2 @@
+Continuous deploy with Travis-CI
+Following this guide: https://curationexperts.github.io/playbook/production/continuous_deployment.html Use an encrypted ssh key to auto-deploy to dce_cd after every green merge to the master branch. Connected to #222

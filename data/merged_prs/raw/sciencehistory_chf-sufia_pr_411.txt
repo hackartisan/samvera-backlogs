@@ -1,0 +1,2 @@
+Hint update for medium field
+Closes #368

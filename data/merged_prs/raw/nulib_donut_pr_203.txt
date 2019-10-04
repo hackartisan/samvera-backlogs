@@ -1,0 +1,2 @@
+Log batch item errors
+Write full error to worker log so we can troubleshoot Display error to user about model missing or incorrect

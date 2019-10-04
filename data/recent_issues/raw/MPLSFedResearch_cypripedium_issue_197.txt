@@ -1,0 +1,2 @@
+Upgrade dry-run
+STORY As a system owner I would like to dry-run the upgrade on a staging environment DETAILS ACCEPTANCE   Set up our own DCE instance of the current live application  Populate the sample instance with   Works in collections  Works not in collections  Collections  One Admin set    Apply the upgrade  Document the upgrade process (if anything other than deploy)  Walkthrough snapshot process with Janelle

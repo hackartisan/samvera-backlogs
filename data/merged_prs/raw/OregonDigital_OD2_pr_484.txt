@@ -1,0 +1,1 @@
+refactor generation of singleton variable to a method

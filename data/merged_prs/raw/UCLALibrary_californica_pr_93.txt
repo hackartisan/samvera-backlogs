@@ -1,0 +1,2 @@
+Finish basic setup for CSV importer
+Sets works imported via the CSV parser to PUBLIC/"open" by default. Adds an integration test checking that the CSV importer rake task is working as expected. We setup the task and use example.csv to ensure it runs on a healthy example and maps the title as expected. Connected to #78.

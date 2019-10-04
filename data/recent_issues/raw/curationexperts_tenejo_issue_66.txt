@@ -1,0 +1,2 @@
+Display Hi-Res Images
+ISSUE When I try to display a really big image, RIIIF crashes ACCEPTANCE   Tenejo does not crash when panning or zooming really large images  There are sample images on the server in the /opt/uploads/big-files/ folder - especially Mississippi 4th dist 1.tif and Mississippi Pano 2.tif Child of #37

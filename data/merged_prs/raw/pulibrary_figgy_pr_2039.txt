@@ -1,0 +1,2 @@
+Extends auth. tokens for Playlists
+Resolves #2010

@@ -1,0 +1,2 @@
+Specifying a display label during file upload has no effect
+Descriptive summary When users are on a work's file upload tab, each file that is added offers the ability to set a "Display label".  That label should then be used to set the title for the fileset.  However, the custom labels appear to never be used. Expected behavior Putting custom text in the "Display label" field should cause the fileset's title field to be set to that text after the work/files are saved. If that behavior cannot be achieved, we should remove the "Display label" field from the file upload screen.

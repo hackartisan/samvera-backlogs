@@ -1,0 +1,2 @@
+Fix RDF::URI deprecations using class method instantiation
+Fixes deprecation warning [DEPRECATION] URI#to_hash is deprecated, use URI#to_h instead. with solution described in ruby-rdf/rdf#341

@@ -1,0 +1,2 @@
+Round zoomify image dimensions up to even multiple of 256 (DHH-628)
+Addresses https://lib-jira.ucsd.edu:8443/browse/DHH-628  Do not merge until new tilesets are finished being generated

@@ -1,0 +1,6 @@
+Enable Browse Everything
+Currently, the presence of browse_everything_providers.yml breaks the upload process. I have removed the config file for now so we can upload files, but we need to re-enable this feature. I believe it is not working in Hyrax yet. See: samvera/hyrax#1139
+Do we really need browse everything? What does it bring to the table?
+@ntallman It's up to you. It would allow a user to upload contents from their (or any configured) Box, Google Drive, or other enabled account. Since Penn State does use Box a fair amount, it might be worth it for that, but you would know the use cases more than I. Browse Everything does allow for a single "locally" configured location, which could point to a networked NFS or Samba share that's attached to the server. We've did this with Archivesphere, and it proved useful for uploading large files via the GUI.
+We will need an NFS/SMB mount to stage batch loads, so I guess this is more critical than I was thinking originally. (We're not likely to immediately have people loading via Box, though it could be used long-term, just no immediate need.) For MVP, batch loading can be initiated by developers, I'll put this in the production release milestone.
+A SMB share is established for batch loading, moving this to the backlog.

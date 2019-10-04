@@ -1,0 +1,3 @@
+Create DOIs in batch upload?
+Creating DOIs is not an option in batch upload. Should we add it?
+We may not want to implement this, we can think about this.

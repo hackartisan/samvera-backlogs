@@ -1,0 +1,2 @@
+add sections to the output of the file_set_urls rake task
+This is in support of #13.

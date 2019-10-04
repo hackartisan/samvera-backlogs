@@ -1,0 +1,2 @@
+Index IIIF urls for thumbnails
+Indexes IIIF urls for thumbnails into the new thumbnail_url_ss, but does not yet configure catalog_controller to actually use this field. This will allow us to populate the index before we make the change.

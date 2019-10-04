@@ -1,0 +1,2 @@
+Resolves HELIO-2510
+Removes absolute positioning and inline-block display of download/read buttons, changes them to use flexbox and adds max-widths for title block elements to ensure they don't run over buttons. Small accessibility fix to EBC message so that links in the message are visible.

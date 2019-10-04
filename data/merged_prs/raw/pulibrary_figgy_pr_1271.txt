@@ -1,0 +1,2 @@
+Revert "Fix original file and derivative deletion"
+Reverts #1270

@@ -1,0 +1,2 @@
+Reindex resources when collection/project they belong to changes title
+resolves #293 resolves #1886

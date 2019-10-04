@@ -1,0 +1,2 @@
+Increase tests coverage
+Fixes #54

@@ -1,0 +1,2 @@
+AAPB Admin can push records to AAPB for reindex
+Description: As an AAPB Admin, I can see an option on the search results page to push my found set to be reindexed on AAPB. Requires #264 Done when:   A button or choice in a dropdown appears only for AAPB Admins  When the option is chosen, AMS kicks off the process to export all records in the current found set and push the export to AAPB for reindex.

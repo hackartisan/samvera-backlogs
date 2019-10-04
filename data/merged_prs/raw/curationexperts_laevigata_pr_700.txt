@@ -1,0 +1,2 @@
+Collection objects should not appear in search results
+Fixes #699

@@ -1,0 +1,2 @@
+Job to run Fixity Checking Service
+Hyrax::RepositoryFixityCheckService is a service available in Hyrax 2.0.  We'll want to create a job to run Hyrax::RepositoryFixityCheckService.fixity_check_everything on a recurring basis (TBD in consultation with SPEC) See https://github.com/samvera/hyrax/wiki/Hyrax-Management-Guide#fixity-checking

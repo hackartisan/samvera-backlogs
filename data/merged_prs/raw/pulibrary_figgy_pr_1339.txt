@@ -1,0 +1,2 @@
+Implementing the `EphemeraFolderMigration` Rake Task (for ensuring that completed Boxes have fully completed Folders)
+Resolves #1279

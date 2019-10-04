@@ -1,0 +1,1 @@
+Change division 'Othmer...' to just 'Library' fixes #356

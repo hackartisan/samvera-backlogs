@@ -1,0 +1,2 @@
+Normalize case sensativity in keywords/word-cloud
+Redundant entries result from differences in capitalization.

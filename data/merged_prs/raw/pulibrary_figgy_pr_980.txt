@@ -1,0 +1,2 @@
+ Add geoserver message generation
+Closes #961

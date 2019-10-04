@@ -1,0 +1,2 @@
+Ensures that the PlaylistDecorator does not display the members attribute
+Resolves #2203

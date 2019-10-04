@@ -1,0 +1,2 @@
+Resolves issues related to the selection of multiple file entries in the BrowseEverything selection dialogue
+This also ensures that directory file entries are sorted by file name, and as such, advances #2836

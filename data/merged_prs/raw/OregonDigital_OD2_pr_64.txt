@@ -1,0 +1,2 @@
+Hydra role management
+adds hydra-role-management to allow for user roles merge after #63

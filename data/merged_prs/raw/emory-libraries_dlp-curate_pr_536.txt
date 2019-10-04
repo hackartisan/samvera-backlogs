@@ -1,0 +1,2 @@
+Check for number of fields in all rows
+Raise a warning if there are too many or too few rows for each line in the CSV Connected to curationexperts/in-house#252

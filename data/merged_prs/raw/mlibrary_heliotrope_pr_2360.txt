@@ -1,0 +1,2 @@
+Resolves HELIO-2703: Add toggle to Publisher's edit page for watermarks
+Added boolean 'watermark' field to presses table.

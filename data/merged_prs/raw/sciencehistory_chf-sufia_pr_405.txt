@@ -1,0 +1,2 @@
+Remove turbolinks
+http://blog.steveklabnik.com/posts/2013-06-25-removing-turbolinks-from-rails-4 Fixes #359

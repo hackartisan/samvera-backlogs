@@ -1,0 +1,9 @@
+Bookmark counter incorrect
+The bookmark nav element indicates there is 1 bookmark, however the bookmark page shows no bookmarks.
+We can't reproduce this. Can you give more information about how you encountered this?
+I've just encountered this issue with MPV 4. I previously had zero bookmarks. I did an empty title search and selected 2 collections to bookmark. Bookmarks link in the UI shows 2, but bookmarks page is empty.   ![screen shot 2018-10-23 at 3 30 52 pm](https://user-images.githubusercontent.com/4163828/47385667-aee01080-d6d8-11e8-9479-56432699317e.png)  
+Can't reproduce error, closing.
+To reproduce: * add a bookmark for a record (Valkyrie ID) that doesn't exist * add a bookmark for a resource that does exist  To Fix: * Bookmark should use PSU "alternate" id.  Blocked by #816 
+Not sure why this was closed, reopening. The Blackcat team is having similar issues and interested in working on a solution together.
+We couldn't reproduce the error. Is that still the case?
+Either that, or we figured out how to reproduce it, but never reopened it.

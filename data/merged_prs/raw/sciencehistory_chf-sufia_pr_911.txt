@@ -1,0 +1,2 @@
+add genre value 'Medical equipment & supplies'
+closes #824

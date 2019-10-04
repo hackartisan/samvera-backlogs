@@ -1,0 +1,2 @@
+681 CSV Updates
+This PR builds out our CSV ingester update infrastructure. It adds the regular CSV update ingester that will overwrite any Asset or associated AdminData attribute with data from a spreadsheet. It also adds an Asset and AdminData multivalue attribute addition ingester that will add a new value to a multivalue attribute while keeping the existing saved data.

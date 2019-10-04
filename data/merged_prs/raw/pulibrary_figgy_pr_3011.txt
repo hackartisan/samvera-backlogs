@@ -1,0 +1,2 @@
+Remove UI functionality to create MediaResources
+closes #2432

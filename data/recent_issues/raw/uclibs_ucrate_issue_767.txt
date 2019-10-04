@@ -1,0 +1,2 @@
+New Collection does not auto-populate Creator field
+Descriptive summary As a user when I create a new collection from the dashboad or navigation menu, the creator is blank. Expected behavior It is expected that this field be populated by last name, first name when the form is loaded. Steps to reproduce the behavior  Create New Collection. Examine the Creator field in the form.

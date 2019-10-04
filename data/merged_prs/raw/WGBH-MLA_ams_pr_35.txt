@@ -1,0 +1,1 @@
+moving deployment script to bin/install

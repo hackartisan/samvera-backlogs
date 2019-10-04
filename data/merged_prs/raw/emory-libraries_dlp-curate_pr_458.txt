@@ -1,0 +1,2 @@
+Update UV installation method
+On Hyrax master UV is installed like in Ursus, but this app was not generated from master so these files need to be manually added.

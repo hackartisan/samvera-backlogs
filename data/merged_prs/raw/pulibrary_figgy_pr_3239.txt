@@ -1,0 +1,2 @@
+Don't add @princeton.edu to UIDs when they are email addresses already
+Fixes #1482

@@ -1,0 +1,3 @@
+Support for web archives
+As a curator of web archives, I would like to import copies of web archive files (WARCs) from Archive-It into CHO Access, so that derivative versions of web archive collections can be made discoverable and accessible locally.
+As a curator, I would like the ability to preserve the content of digital exhibits as a digital object in the CHO.  Jennie K.

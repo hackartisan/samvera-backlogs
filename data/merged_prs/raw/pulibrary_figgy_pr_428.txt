@@ -1,0 +1,1 @@
+Add rake task to ingest mets files, fixes #268

@@ -1,0 +1,2 @@
+Added support for N-Triples and Turtle RDF formats.
+Hi Esme, As we discussed during our standup meeting last Thursday, I assume that damspas will be retrieve the N-Triples and Turtle RDF formats from damsrepo for now: https://lib-jira.ucsd.edu:8443/browse/DHH-626

@@ -1,0 +1,2 @@
+Issue 82 no method error in admin workflows
+fixed #82

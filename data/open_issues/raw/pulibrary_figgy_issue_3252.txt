@@ -1,0 +1,3 @@
+Extract replaces out of METS
+This is most important for items that are not ingested with source_metadata_identifier, but would be good for all imported objects.
+Make sure to reprocess everything with attached METS to populate these values.

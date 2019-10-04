@@ -1,0 +1,2 @@
+sets docker-compose for developer work
+bring docker-compose in line with typical development environment

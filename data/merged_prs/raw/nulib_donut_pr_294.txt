@@ -1,0 +1,2 @@
+update hyrax to 2.1.0 rc3
+Fixes nulib/next-generation-repository#524

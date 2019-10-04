@@ -1,0 +1,2 @@
+Adding Matomo tacking code
+Description Adds the Motomo tracking code to the javascript asset pipeline, and cleans up the existing application.js file. Fixes #427 Changes Removes some unused files and removes the tree option from application.js because we want to selectively run the Matomo tracked only in production.

@@ -1,0 +1,2 @@
+Explore the hyrax-batch_ingest gem
+Descriptive summary The hyrax-batch_ingest gem (https://github.com/samvera-labs/hyrax-batch_ingest) was demonstrated at Virtual Connect and it looks like a potential robust replacement for our current command line ingest solution.  It includes a way to ingest from .csv via the GUI.  Add the gem to Scholar and configure it appropriately Become familiar with the features Demo the features to the rest of the team and decide if it's a keeper Create some wiki documentation for how to use it.

@@ -1,0 +1,1 @@
+Upgrading to rails 4.2.2 and adding coveralls badge. (DHH-696, DHH-695)

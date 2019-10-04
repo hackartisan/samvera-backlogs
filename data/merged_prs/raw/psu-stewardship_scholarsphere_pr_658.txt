@@ -1,0 +1,2 @@
+Remove masonry view, ref #631
+Provides additional testing and refactoring to improve speed. Test also ensures slideshow view is not displayed either.

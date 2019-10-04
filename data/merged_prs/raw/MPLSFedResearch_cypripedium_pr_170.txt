@@ -1,0 +1,1 @@
+Updating for rails-html-sanitizer and loofah.

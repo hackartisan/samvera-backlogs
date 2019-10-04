@@ -1,0 +1,2 @@
+Better mass index
+Uses batch and progress bar. Indexes permissions objects first, should eliminate double-index need  Based on code already in active-fedora master. Closes #348 @hackmaster.a I'm not sure how to test to confirm it eliminates need for double-index. Do you want to do that, or tell me how (what the problem case looked like before)?

@@ -1,0 +1,2 @@
+Ensuring that when adding Recordings as Tracks for Playlists, the table does not have headers rendered when it is empty
+Also ensures that cases where Recordings without a title_ssim retrieved by the track search form are handled properly.  Resolves #3035

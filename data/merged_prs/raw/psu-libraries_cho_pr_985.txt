@@ -1,0 +1,2 @@
+Search Criteria are Core Fields Only 
+Updates the catalog controller to use only the core fields in the dropdown menu for the search bar. Description Solves the problem of the All Fields criteria not working correctly and targets the core fields for the search. The dropdown was being populated by everything in the Data Dictionary. Connected to #804 Changes  store search field config in an array for usage later outside of the Data Dictionary loop adds the All Fields as the first search option uses the stored search array as and additional search field after the All Fields

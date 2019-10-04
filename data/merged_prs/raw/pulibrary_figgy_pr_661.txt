@@ -1,0 +1,2 @@
+Visibility Open by default.
+Closes #655.

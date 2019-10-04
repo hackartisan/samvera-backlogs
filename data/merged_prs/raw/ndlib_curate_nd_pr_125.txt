@@ -1,0 +1,2 @@
+Clear the content-length header when not sending the body
+The body is not sent for 502 errors, but unicorn was waiting for data since the content-length header was set. Deadlock ensures, and then someone (unicorn master?) terminates the request after 30 seconds. DLTP-184.

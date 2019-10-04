@@ -1,0 +1,2 @@
+Remove duplicate extent field from the attribute_rows template
+Connects #199

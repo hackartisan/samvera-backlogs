@@ -1,0 +1,2 @@
+Fix notifications
+Fixes #398

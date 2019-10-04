@@ -1,0 +1,2 @@
+Use Apache 2.0
+Adds the license and appropriate README additions.

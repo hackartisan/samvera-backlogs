@@ -1,0 +1,2 @@
+Change default IngestFolder location to "studio_new/DPUL"
+fixes #1549

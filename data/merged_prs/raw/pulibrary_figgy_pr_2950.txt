@@ -1,0 +1,2 @@
+Use webdrivers instead of chromedriver-helper
+Closes #2943

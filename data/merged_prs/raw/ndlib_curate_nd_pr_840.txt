@@ -1,0 +1,2 @@
+Image Viewer UI Modifications
+remove duplicate spinner modify image viewer url

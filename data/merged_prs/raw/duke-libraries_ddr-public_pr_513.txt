@@ -1,0 +1,1 @@
+Sort related items by title; Code cleanup.

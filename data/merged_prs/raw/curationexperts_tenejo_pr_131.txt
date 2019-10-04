@@ -1,0 +1,2 @@
+Let the user know that the csv file name is escaped
+If a user uploads a file with spaces they will see the file displayed with escaping when first uploading their csv. In that notification, they will get a note about what's happening. Connected to #111

@@ -1,0 +1,2 @@
+Responsive Penn State mark and larger ScholarSphere based on browser width.
+So I decided to slice it a little finer and really dictate what the sizes are for things based on browser width up to 1024 pixels. If we need moar logo past that number we'll need to tweak some more. Refs #330

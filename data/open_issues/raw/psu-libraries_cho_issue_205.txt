@@ -1,0 +1,3 @@
+Configuration Option to Make Preservation Files (TIFF) Public
+As a collection curator, I want to make as many high-res tiffs available for download as possible, so that collections with permissible rights can be shared as widely and broadly as possible. This would need to be configurable by collection, depending on the rights situation, although individual objects may occasional need to override the default for the collection. TIFFs are used here as a surrogate for any digital master preservation file.
+Will need a way to still be able to restrict unredacted TIFFs. Might need to have two classes of TIFF: master and redacted. If redacted is present only allow it to be downloaded/seen. If there is no redacted present, offer the master for download.

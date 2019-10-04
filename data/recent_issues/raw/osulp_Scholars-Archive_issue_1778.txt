@@ -1,0 +1,2 @@
+Additional fields button needs padding
+Descriptive summary After an item has been deposited, the Additional fields button on the edit page shows as being squashed up against the rendering box.  Steps to reproduce the behavior  Click edit on any deposited item. Scroll to bottom of edit page.

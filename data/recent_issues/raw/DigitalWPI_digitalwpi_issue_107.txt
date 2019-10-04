@@ -1,0 +1,2 @@
+remove description field from view
+in the index (search result) view page, remove description

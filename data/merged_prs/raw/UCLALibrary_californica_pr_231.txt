@@ -1,0 +1,2 @@
+added name.subject to metadata mapping and related testing
+I used the same set of edits that Val taught me a week or two ago to add the testing and mapping for the Name.subject metadata field from our source metadata csv. Connected to #140.

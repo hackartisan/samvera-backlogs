@@ -1,0 +1,2 @@
+Ensures that local identifiers are indexed
+Resolves #304

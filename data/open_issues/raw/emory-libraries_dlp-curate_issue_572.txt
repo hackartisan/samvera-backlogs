@@ -1,0 +1,3 @@
+Refresh PDFs for Yellowbacks on AWS staging
+Kyle is doing some compression/optimization work on Yellowbacks PDFs which will need to be re-transferred before final ingest.
+Discussed on 9/23 - we can use the original file list to target PDFs if needed

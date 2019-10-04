@@ -1,0 +1,2 @@
+Data backup and restore
+Instead of system/DB backup and restore, we need a light way to:  Backup/restore metadata (OASIS, Fedora, Hyrax) and associated files Backup/restore initial settings, e.g. workflows, roles, users etc Sync data across servers  The process/tool should be as light as possible, but capable of restoring/cloning data from its original states, e.g. ONLY the original metadata entered and original files uploaded by user.

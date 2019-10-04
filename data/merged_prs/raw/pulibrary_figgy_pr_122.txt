@@ -1,0 +1,2 @@
+Add File Set viewing hint to file manager.
+Closes #110

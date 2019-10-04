@@ -1,0 +1,2 @@
+'Representative Kind' column description
+HELIO-2272

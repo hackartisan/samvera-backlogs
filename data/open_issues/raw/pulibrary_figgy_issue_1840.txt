@@ -1,0 +1,2 @@
+Warn users of IE that some features may not work.
+Recommend Firefox or Chrome as alternatives

@@ -1,0 +1,2 @@
+FUTURE SCOPE: automate AWS backups
+Currently cypripedium backups are happening manually, and only the volume is being backed up. We have found that an AMI snapshot, performed while the system is turned off, is the easiest most reliable way to recover in the event of emergency. We should automate AMI snapshots for cypripedium-prod

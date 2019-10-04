@@ -1,0 +1,2 @@
+Investigate adding a new work type: Journal
+Journal work types require unique metadata that the GwWork type does not support well.  It would be worth exploring adding a work type for this kind of content.

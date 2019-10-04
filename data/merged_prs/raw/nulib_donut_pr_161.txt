@@ -1,0 +1,2 @@
+Use Cantaloupe for IIIF
+This is a pretty big PR to support the use of Cantaloupe for IIIF. In addition to adding a pyramid TIFF derivative (stored to an S3 bucket or local derivative storage), it rearranges some of the configuration settings under the Settings.aws key and eliminate the Settings.s3 key.

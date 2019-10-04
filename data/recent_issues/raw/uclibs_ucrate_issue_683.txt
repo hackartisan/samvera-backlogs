@@ -1,0 +1,2 @@
+Display "Date Modified" & "Date Uploaded" on the work show page
+Moved from uclibs/scholar_uc_legacy#1906 Descriptive summary Date Uploaded and Date Modified are showing in the Catalog Browse but not on the work show page. In the context of Hyrax 2.1, review with P.O.s where these system provided fields should display - on the Catalog Browse, and/or the Work Show page.

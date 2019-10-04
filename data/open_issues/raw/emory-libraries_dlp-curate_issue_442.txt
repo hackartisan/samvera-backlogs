@@ -1,0 +1,3 @@
+Display Preferred Image for filesets
+ACCEPTANCE   Given a fileset with one or more files attached, display the following files in order of preference  display the Service File if no Service File exists, display the Intermediate File if no Service or Intermediate File exists, display the Preservation Master if none of the above files exist, display the default hyrax work icon e.g.https://github.com/samvera/hyrax/blob/master/app/assets/images/work.png    Use the same preferred image when displaying thumbnails for the work in file lists or search results
+@alexBLR Is this your issue, if so can you assign it to yourself and estimate the work?

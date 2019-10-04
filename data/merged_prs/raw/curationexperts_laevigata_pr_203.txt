@@ -1,0 +1,2 @@
+deploys to emory-stress-test box
+Enables deployment to emory-stress-test.curationexperts.com with BRANCH_NAME=mybranch bundle exec cap stresstest deploy.

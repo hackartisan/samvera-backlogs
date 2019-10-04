@@ -1,0 +1,2 @@
+Open application to the public
+Description Public, non-PSU users can access the read-only portions of the app but cannot manage resources. Connected to #447 Changes  remove blanket devise authorization ...that's essentially it, thanks to the work done in #172

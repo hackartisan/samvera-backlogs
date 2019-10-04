@@ -1,0 +1,2 @@
+Editing an item
+Descriptive summary Check to see if a user is an admin or collection curator, they can edit anything. If the user is a depositor, they can only edit THEIR deposited items. Otherwise, no editing.

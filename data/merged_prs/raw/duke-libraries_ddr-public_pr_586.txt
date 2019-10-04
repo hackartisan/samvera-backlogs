@@ -1,0 +1,1 @@
+Update rails-html-sanitizer gem for improved security. Closes DDR-1459.

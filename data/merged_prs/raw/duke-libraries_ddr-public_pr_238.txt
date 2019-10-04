@@ -1,0 +1,2 @@
+Extract and refactor portal configurations and related methods
+This refactor extracts configurations for digital collections portals to a separate repository, ddr-portals. View overrides, blacklight configurations, and other settings are defined in this repository and included in ddr-public via a rake task.

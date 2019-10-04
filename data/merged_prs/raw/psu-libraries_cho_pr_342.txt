@@ -1,0 +1,2 @@
+Collection models
+This is the collection model with three different Valkyrie resources for each collection type (library, archival, curated).

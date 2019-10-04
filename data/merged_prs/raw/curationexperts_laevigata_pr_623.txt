@@ -1,0 +1,2 @@
+Fix scrolling
+This fixes the scrolling issue. I was trying to get rid of the blank space on the right side of the page that causes a horizontal scroll, which I'll need to look into again later. 😵

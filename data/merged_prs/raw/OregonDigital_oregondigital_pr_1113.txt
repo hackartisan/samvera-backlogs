@@ -1,0 +1,2 @@
+add rake task
+fixes #1050 basic rake task to grab all of the assets/sets urls and print xml. also an update task, grabs new assets/sets and appends. method of appending might be a little wonky though.

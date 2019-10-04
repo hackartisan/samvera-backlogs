@@ -1,0 +1,2 @@
+Change label "Subject" to "Subjects" on item view
+As a user, I think it is strange to see a bunch of subjects with the field label "subject". The plural would be more appropriate. Acceptance Criteria   On Californica when looking at the item view each record uses the label "Subjects" instead of "Subject"

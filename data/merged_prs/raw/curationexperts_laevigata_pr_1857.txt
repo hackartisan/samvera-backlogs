@@ -1,0 +1,2 @@
+Disambiguate between multiple registrar entries
+When a user has multiple entries in the registrar data, find the record that matches the degree code of the etd that is eligible for graduation. This should solve the issue where students seeking multiple degrees from Emory were not having ETDs published properly.

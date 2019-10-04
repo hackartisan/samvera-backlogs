@@ -1,0 +1,2 @@
+218 Assets Only Creation from Create Work
+Need to merge after PR for 181 A few notes on this PR:  It removes specs that simply created objects other than an Asset from the "Add new work" button in favor of create other objects through the Asset. It overwrites select_type_list_presenter to limit model creation. This removes create_contribution_spec.rb as it is outdate since it creates the contribution from the general "Add new work button." We will rewrite this test in the next sprint to complete AMS2-181.

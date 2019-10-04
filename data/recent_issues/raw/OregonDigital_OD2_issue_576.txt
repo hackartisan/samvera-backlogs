@@ -1,0 +1,2 @@
+Update the indexing for Collections
+Descriptive summary This will have to be a follow up PR for the collection metadata overhaul. The PR is already getting large and we'll have to split this into multiple tickets. Ill make sure that everything works without erroring in #569 and work on extending the indexing to index the controlled vocabularies as well.

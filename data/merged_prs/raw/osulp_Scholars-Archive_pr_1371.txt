@@ -1,0 +1,2 @@
+Feature/advanced search
+Sets up Advanced Search with some customization to facets and search fields. Fixes #1280 Fixes #888

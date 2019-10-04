@@ -1,0 +1,2 @@
+Redis should start on server reboot
+Ensure redis starts on server reboot  Child of #298

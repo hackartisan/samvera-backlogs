@@ -1,0 +1,2 @@
+Adds text to explain work vs collection.
+This needs to be reworked post 3.0. I gots ideas to simplify and inform.

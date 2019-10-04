@@ -1,0 +1,2 @@
+Transfer Lux to AWS at Emory (as a test) 
+change Cor-cm to use AWS at Emory  Run script to rebuild Lux in AWS at Emory  Test Lux functionality in new AWS environment

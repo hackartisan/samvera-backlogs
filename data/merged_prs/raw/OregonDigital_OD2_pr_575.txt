@@ -1,0 +1,2 @@
+Various facetable collections fixes
+Fixes #571

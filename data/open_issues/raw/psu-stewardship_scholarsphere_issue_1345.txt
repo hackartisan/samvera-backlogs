@@ -1,0 +1,2 @@
+Permissions on Binary File was wrong
+The permissions have been updated, but there were two files that were not ingested and the FileSet has been deleted 2009_Kenneth_Burke_s_Jungle_Book_Minnesota_Review.pdf - dhw112 - DEBRA HAWHEE mxs6188.pdf - mam1201 - MEGAN ANN MAC GREGOR I put the files into ~cam156/bad_upload to be certain we still have access to them later

@@ -1,0 +1,2 @@
+Add redis for streaming notification
+Fixes #215. Jobs were failing with couple of errors. 1. Redis Gem not found and 2. ActiveJob Deserialization Error. After some research, I uncommented redis Gem in Gemfile. After fixing this, I encountered few more error. Had to change redis host for cable from localhost to Redis Host and since we enabled Eager Load, we also need to load the libraries. I had to run sudo bundle install to fix the second issue, because there were many missing gems. Probably because of our recent upgrade to rails 5.1.6.1.

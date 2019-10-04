@@ -1,0 +1,2 @@
+SCSS Linting for CHO
+Adds a cho.scss file and imports the partials. Updates css for syntax errors. Description Moves the CHO-specific and venodr overrides into a CHO folder and imports those CSS files into the application.css. Fixes all issues reported by the SCSS Linter. Why was this necessary? Updates CSS and SCSS styles according to current best practices. Changes Are there any major changes in this PR that will change the release process? Moved SCSS files into a CHO folder. Checklist   i18n enabled  adequate test coverage  accessible interface

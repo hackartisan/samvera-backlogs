@@ -1,0 +1,2 @@
+Infer Emory affilliation for committee members & chairs in migration
+Committee members with no affiliation in legacy are to be inferred as Emory affiliated. This hard codes that information into the mapper. Connected to #1734.

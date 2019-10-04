@@ -1,0 +1,2 @@
+Feature/fix sets bug
+Fixes display of deep indexed controlled vocabularies. Also adds a vagrant file and fixes the deploy for thumbnails.

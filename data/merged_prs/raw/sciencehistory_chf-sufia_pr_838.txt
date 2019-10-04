@@ -1,0 +1,2 @@
+WIP holding branch for all visual/UX refresh work
+This branch starts with some application of more consistent and universal chemheritage.org brand elements, using bootstrap scss variables where possible. We will make additional PR's INTO this branch.

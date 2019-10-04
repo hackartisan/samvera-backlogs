@@ -1,0 +1,2 @@
+Changing production to use resque
+Forgot to add resque configuration to the production adapter.

@@ -1,0 +1,2 @@
+updated style on the 'last three months button
+fixes #249

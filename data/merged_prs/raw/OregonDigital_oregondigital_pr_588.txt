@@ -1,0 +1,2 @@
+Add truncation to errors.
+Errors were getting too big for the database to hold - mostly due to full text columns.

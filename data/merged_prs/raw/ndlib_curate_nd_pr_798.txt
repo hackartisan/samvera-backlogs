@@ -1,0 +1,2 @@
+Override enforce show
+Attempt to fix permission issue where submitting user is unable to view work that just submitted, due to permission caching issue.

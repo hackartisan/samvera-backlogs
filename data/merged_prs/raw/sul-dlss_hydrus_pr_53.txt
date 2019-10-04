@@ -1,0 +1,2 @@
+All tests passing (on the campus network)
+Finished in 6.3 seconds (files took 10.61 seconds to load) 444 examples, 0 failures, 1 pending ... Finished in 11 minutes 23 seconds (files took 10.44 seconds to load) 120 examples, 0 failures, 8 pending

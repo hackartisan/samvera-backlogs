@@ -1,0 +1,2 @@
+Refactor ingest jobs
+I wanted to change the expected Bag format and ended up refactoring a bunch of the ingest code. woops! closes #94

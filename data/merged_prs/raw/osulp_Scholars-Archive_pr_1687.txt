@@ -1,0 +1,2 @@
+fixes Sidekiq administration functions
+A recent update of Sidekiq (or Rails?) caused the delete and retry functionality to stop working a return an HTTP 403 Forbidden. This has fixed it, but will require a modification for Rails >= 5.2 eventually. mperham/sidekiq#2560

@@ -1,0 +1,2 @@
+mounts browse-everything route, adds sample config
+This will get the master branch working with browse-everything. The shared production config is set up already on both sandbox machines. This work should have been included with the shared files change - mea culpa.

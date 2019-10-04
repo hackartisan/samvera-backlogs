@@ -1,0 +1,2 @@
+Refactors duplicate code into behaviors
+Fixes #689

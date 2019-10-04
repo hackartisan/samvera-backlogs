@@ -1,0 +1,2 @@
+Aligns Fieldset Permission Tab with Work Permission Tab
+Refactors the permissions tab for fiieldsets to more closely resemble the permissions, visibility, sharing section of the work form. Addresses accessibility concerns for the ticket, but not overall for the page. Additional tickets need to be created for the bootlint and WAVE errors. Fixes #1062

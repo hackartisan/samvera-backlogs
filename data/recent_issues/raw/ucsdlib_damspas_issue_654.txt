@@ -1,0 +1,2 @@
+Disable download and embed buttons for authorized works view in VRR
+Descriptive summary In the authorized user view of a VRR object, remove the download and embed buttons from the object view so authorized VRR users cannot download files or try to generate embed links that won't work due to the restricted nature of the materials. Related work  ucsdlib/damsmanager#332 ucsdlib/damsmanager#331 ucsdlib/damsmanager#320

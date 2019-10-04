@@ -1,0 +1,2 @@
+Jekyll rake task for production deployments
+adds special jekyll rake task for production deployment -- when deploying jekyll site to production, tell jekyll it is production using the deploy_production rake task;add google analytics tracking to jekyll pages if it environment is production

@@ -1,0 +1,2 @@
+Added index necessary for faceting on rights
+Closes #660

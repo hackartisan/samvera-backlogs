@@ -1,0 +1,2 @@
+Support synonyms
+Similar to IRIS, searching for synonyms should return the relevant resources.

@@ -1,0 +1,1 @@
+Turn off turbolinks for link to edit ETD record. Connected to #1731

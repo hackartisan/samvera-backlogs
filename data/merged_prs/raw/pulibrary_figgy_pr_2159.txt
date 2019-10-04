@@ -1,0 +1,2 @@
+Notify honeybadger and return 404 in downloadscontroller
+fixes #2018

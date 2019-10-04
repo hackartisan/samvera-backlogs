@@ -1,0 +1,3 @@
+Tombstones for Removed Content
+As a public user, I would like to see a tombstone record for objects removed from CHO, So that I know the object used to be available.
+Perhaps not a traditional tombstone, need to say more about what was there, when deleted, etc.

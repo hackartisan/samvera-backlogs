@@ -1,0 +1,2 @@
+add text to login buttons
+Fixes #591

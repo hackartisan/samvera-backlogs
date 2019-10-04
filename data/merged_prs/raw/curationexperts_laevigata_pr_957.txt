@@ -1,0 +1,2 @@
+Show `false` for embargo types when value is empty
+Empty values previously displayed as true. When an Etd's #toc_embargoed, #abstract_embargoed, or #files_embargoed is an of '', nil, false, or 'false', we want to display false as the metadata value. To do this, we need to send include_empty: true to the #attribute_to_html options. Also, because the indexers treat empty strings as nil when generating JSON for Solr, we need to treat the nil case for all related fields as false in the presenter. The feature test is updated to catch the previously untested cases. Closes #926.

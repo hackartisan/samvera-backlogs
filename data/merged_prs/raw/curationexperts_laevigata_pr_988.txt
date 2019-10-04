@@ -1,0 +1,2 @@
+Upgrade to Hyrax 1.1 and turn off full text extraction
+We believe this should fix the issue where solr crashes when it encounters certain PDF content. Connected to #983

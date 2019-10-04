@@ -1,0 +1,4 @@
+Works aren't Part of a Collection  When Adding New Works to a Collection
+When I navigate to my Collections and select a collection from the list, I am taken to the show page of the collection. When I select the button "Add New Works" and follow the process for adding new works to the collection, my works are created but are not attached to the work.
+duplicate of #665 
+The solution to #665 should also solve this issue, but let's make sure they do.

@@ -1,0 +1,2 @@
+Using the latest Sufia from master
+There will be some, or maybe many, failures here, so this is a question. Do we want to roll with the latest and greatest in Sufia for our upcoming sprint? 7.2 should be released in a week or less, so it's likely it'll come out during the sprint. So I'm think we should just start working against it now to minimize surprises.

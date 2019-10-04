@@ -1,0 +1,2 @@
+adds authentication bypass for D2H
+fixes #574

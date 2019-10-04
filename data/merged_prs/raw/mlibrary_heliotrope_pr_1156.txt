@@ -1,0 +1,2 @@
+add survey info block to asset and monograph catalog views
+Resolves #1092  adds survey info block to asset and monograph catalog views link to survey passes book or book and asset titles to the survey and is displayed on survey survey is hidden by default and shown only if a survey cookie does not exist cookie is registered if user closes survey info block or clicks survey button cookie length for taking survey is 30 days; cookie length for closing survey is 15 days fixed typo in README :)

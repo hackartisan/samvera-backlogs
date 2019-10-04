@@ -1,0 +1,2 @@
+Update to Valkyrie 2.0 (for real this time)
+Description Now that Valkyrie 2.0 is officially out, we can use the released gem and not the release candidate.

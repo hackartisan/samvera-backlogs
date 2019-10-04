@@ -1,0 +1,2 @@
+Minify our js
+Updates the production config to minify assets. Fixes #1459

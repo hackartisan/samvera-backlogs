@@ -1,0 +1,1 @@
+Addresses HELIO-2761 fix placement of watermark.

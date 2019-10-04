@@ -1,0 +1,2 @@
+Search Gallery view: Truncate titles to 5 words
+Fixes #686 Depends on #723

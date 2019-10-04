@@ -1,0 +1,2 @@
+Add notice about ProQuest submission
+Closes #881

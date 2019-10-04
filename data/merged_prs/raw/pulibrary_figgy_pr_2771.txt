@@ -1,0 +1,2 @@
+Handles invalid change_set parameters for new ScannedResource forms
+Resolves #2724 by ensuring that, for cases where users try to create ScannedResources with invalid ChangeSets, the client is redirected to create a new ScannedResource and an error is flashed

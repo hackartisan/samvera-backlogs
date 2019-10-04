@@ -1,0 +1,2 @@
+add ingest task for publications
+adds a spot:ingest:publication task to cut down the number of ENV values needed to invoke the task abstacts out ENV checking so that tasks can be created for future work types removes capistrano ingest task since we've never actually used it

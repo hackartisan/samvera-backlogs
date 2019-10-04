@@ -1,0 +1,2 @@
+Fix conflicts between master and develop
+This is the result of merging master into develop. Since develop is a protected branch, I can't push the merge commit directly to develop, so I created this branch from which to make a PR into develop. Once that is merged, then the PR that merges develop into master shouldn't have any conflicts. 🤞

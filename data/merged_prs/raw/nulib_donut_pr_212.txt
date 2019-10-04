@@ -1,0 +1,2 @@
+Add nul_use_statement, subject_geographical and subject_temporal
+Additions to CommonMetadata:  Adds nul_use_statement free text property Adds subject_geographical controlled vocabulary property Adds subject_temporal free text property Updates shared_example for a_model_with_common_metadata

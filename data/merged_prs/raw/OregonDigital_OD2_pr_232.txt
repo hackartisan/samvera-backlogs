@@ -1,0 +1,2 @@
+Add OSU MediaSpace provider
+Fixes #191 As discussed in #191, whitelisting is a part of ruby-oembed. Adding the OSU MediaSpace as a provider adds the last identified (#190) provider to the whitelist.

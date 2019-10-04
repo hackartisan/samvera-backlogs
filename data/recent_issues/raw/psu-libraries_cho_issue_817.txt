@@ -1,0 +1,2 @@
+Collection CSV Metadata Export Doesn't Include Work Type
+When exporting a CSV of metadata for a collection of works (and their file sets) the work type is not included in the CSV and should be. Related: #752

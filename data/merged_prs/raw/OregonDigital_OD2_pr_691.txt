@@ -1,0 +1,2 @@
+Zip work files
+Fixes #668 Grabs first file from each file_set, stringifies the bytes, zips those together with csv metadata

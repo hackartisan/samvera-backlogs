@@ -1,0 +1,2 @@
+Place facet
+Copies four place-related properties over into a solr field for facet Closes #346

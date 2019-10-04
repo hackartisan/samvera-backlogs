@@ -1,0 +1,2 @@
+Change first and last name methods
+First and last name methods did not match the application's view of the terms. Methods and names for "first" name were changed to "given" name; "last" name was changed to "sur" name.

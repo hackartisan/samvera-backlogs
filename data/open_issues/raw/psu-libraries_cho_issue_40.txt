@@ -1,0 +1,5 @@
+browse indexes
+As an end user I would like to select specific indexes to browse, so I can start with more relevant results, but also see results that would be near my search term. (E.g., I would like to limit my browse search to just creator names, but also see the nearby results, in case there are variants I didn't think of.)
+Are browse indexes necessary with facets? 
+@lmballinger Is this the same as Issue #34?
+Duplicate of #79, closing.

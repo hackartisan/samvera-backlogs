@@ -1,0 +1,2 @@
+Datasets should not require the Required Software field
+Fixes #527 Removes the Required Software field from the required fields in the form, and added a spec test to check that it is optional

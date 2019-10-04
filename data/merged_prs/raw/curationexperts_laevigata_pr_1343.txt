@@ -1,0 +1,1 @@
+removing a hardcoded boolean in the js used for testing

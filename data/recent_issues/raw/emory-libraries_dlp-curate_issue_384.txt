@@ -1,0 +1,2 @@
+Integrate Universal Viewer into Curate display
+Integrate/configure Universal Viewer into View Work, View Fileset and other appropriate view pages so that we can start to test access controls. Use IIIF 3.0 if possible to enable future AV deposits

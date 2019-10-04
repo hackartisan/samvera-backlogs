@@ -1,0 +1,2 @@
+embed: -caption +video poster
+Resolves #1094

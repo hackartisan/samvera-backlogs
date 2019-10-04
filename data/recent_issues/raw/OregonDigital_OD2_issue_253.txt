@@ -1,0 +1,2 @@
+App routes to login page when not logged in
+Descriptive summary Currently the app is routing to the login page no matter what and forcing a user to login before they check out the app. The app should be accessible by anyone. Expected behavior When a user is a guest, they can still look at the app.

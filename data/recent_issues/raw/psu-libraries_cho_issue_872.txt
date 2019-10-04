@@ -1,0 +1,2 @@
+HTML5 Required Attributes for Inputs and Accessibility
+Using the HTML5 required attribute for inputs may have some accessibility issues. The error messages floats above the form and may not be tied programatically to the input. Also the error says,"Please fill out this field" and doesn't state which form field is required in the message. Needs more review.

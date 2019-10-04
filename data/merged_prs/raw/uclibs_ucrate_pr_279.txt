@@ -1,0 +1,2 @@
+Fixes user search bug with trailing whitespace
+Fixes #277  ; Previously, searching with trailing whitespace broke search.  Now, trailing and leading whitespace is stripped before being sent to the search method. I wrote a controller test for this one, but I think it'll need some extra Changes proposed in this pull request:  Strip trailing and leading whitespace in search string.

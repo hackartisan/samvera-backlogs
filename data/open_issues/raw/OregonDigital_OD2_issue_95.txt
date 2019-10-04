@@ -1,0 +1,2 @@
+Rights compliance
+Confirm all items have a rights statement in OD1  Map Europeana statements to RS/CC  Add Rights Notes predicate and populate  Determine CC license versions and mapping  Other

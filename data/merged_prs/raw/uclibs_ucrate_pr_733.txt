@@ -1,0 +1,2 @@
+Enable notifications for editor removal
+Fixes #724 Enable email notifications for editor removal. Unfinished work was commented out--fixed the params and logic so that it works, removed skip on the specs. Changes proposed in this pull request:  Add name param for permissions removal Uncomment notification Add spec

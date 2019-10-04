@@ -1,0 +1,2 @@
+Scale down PDF image sizes.
+Tests show that it's still readable, and the PDFs are smaller.

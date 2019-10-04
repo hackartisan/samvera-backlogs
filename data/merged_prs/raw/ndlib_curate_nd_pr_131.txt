@@ -1,0 +1,2 @@
+Updating secrets screams if a file is missing
+Previously this may not have been a loud and noisy failure; but I believe we need to scream if it is not there. [skip ci]

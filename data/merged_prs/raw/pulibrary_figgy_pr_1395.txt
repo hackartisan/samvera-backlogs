@@ -1,0 +1,2 @@
+Handling and logging errors encountered when attempting to download PDFs in `PDFGenerator#render`
+Resolves #1316

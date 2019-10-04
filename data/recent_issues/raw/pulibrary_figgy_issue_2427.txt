@@ -1,0 +1,2 @@
+Add a part-of facet for Recordings
+or will be it be enough to just make it searchable?

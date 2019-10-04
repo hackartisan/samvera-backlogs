@@ -1,0 +1,2 @@
+Rescue from all access-denied errors to avoid generic 'something went wrong' errors for users
+Fixes #740

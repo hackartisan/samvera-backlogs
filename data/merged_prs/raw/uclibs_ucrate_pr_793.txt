@@ -1,0 +1,2 @@
+Set flash message for publisher/doi validation
+Fixes #770 We need to set base message for failed publisher validation when minting dois. Changes proposed in this pull request:  Add custom publisher validation to app/models/concerns/remotely_identified_by_doi.rb Add validation test to spec/support/shared/doi_request.rb

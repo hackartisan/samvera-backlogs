@@ -1,0 +1,2 @@
+Made /resource routes redirect appropriately.
+Closes #352

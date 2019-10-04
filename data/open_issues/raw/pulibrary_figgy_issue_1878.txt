@@ -1,0 +1,4 @@
+Research captioning/transcription vendors
+UXO can recommend some captioning vendors Maybe digitization vendors can do captioning? Cornell is doing a pilot on in-house captioning with student workers
+Don Skemer and Kelly Bolding recommended looking at temi.com (automated but apparently very good) — though they are English-only.
+General searching, ask on mailing lists, slack channels. We've had trouble getting the list from UXO.

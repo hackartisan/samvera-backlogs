@@ -1,0 +1,2 @@
+Make active form tab agree with content
+Fixes #409 Bootstrap js tabs can get out of sync with their content. Sometimes links with anchors are not acknowledged by the nav and won't show the correct tab as active. I added a small script to watch for changes to the anchor and and click correct tab when a change is detected. Changes proposed in this pull request:  Add app/assets/javascripts/form-tab-nav.js Add feature spec spec/features/form_tab_nav_js_spec.rb

@@ -1,0 +1,2 @@
+Add perf gems
+adding rack-mini-profiler adding rails profiling for admin user

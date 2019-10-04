@@ -1,0 +1,3 @@
+Select an Action Dropdown Jumps Left
+When I am browsing with a smaller window or device and select an action from the listing of my works, the dropdown menu makes the whole action jump left to cover other data.
+![screen shot 2017-05-23 at 3 15 35 pm](https://cloud.githubusercontent.com/assets/4163828/26372213/14fefa58-3fcb-11e7-811a-e4ae3ee7e2c4.png) 

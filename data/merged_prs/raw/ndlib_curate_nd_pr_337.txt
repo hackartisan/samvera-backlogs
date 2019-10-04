@@ -1,0 +1,2 @@
+Track ruby version
+Tracking the ruby version in .ruby-version allows us to programmatically provision the project dependencies. [skip ci]

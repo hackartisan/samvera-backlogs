@@ -1,0 +1,2 @@
+Cleaning of the IQP and MQPS
+a process of cleaning is needed to finalize all of the IQP and MQP data in our library database on FS.ECE.WPI.EDU. each work needs to be looked at and title page referenced to ensure there is no typos

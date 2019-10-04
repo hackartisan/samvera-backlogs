@@ -1,0 +1,2 @@
+always refresh disadis executable when puppet is run
+#472

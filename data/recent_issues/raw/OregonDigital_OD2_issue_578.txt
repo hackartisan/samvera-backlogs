@@ -1,0 +1,2 @@
+Worktype fetched labels from Getty are not in English
+Descriptive summary Worktype Labels being fetched are not in English. Example: http://staging.oregondigital.org/concern/images/w0892992w?locale=en#?c=0&m=0&s=0&cv=0&xywh=-1124%2C476%2C4294%2C987 Expected behavior Labels should be in English

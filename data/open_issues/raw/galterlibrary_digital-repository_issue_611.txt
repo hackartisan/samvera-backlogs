@@ -1,0 +1,2 @@
+Set up Continuous Integration
+Set up ci with jenkins to run for PR's

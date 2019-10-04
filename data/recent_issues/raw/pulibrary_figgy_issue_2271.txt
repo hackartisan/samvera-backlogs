@@ -1,0 +1,2 @@
+Add lib-proc7 and 8 to figgy configs
+once they're ready depends on pulibrary/princeton_ansible#397

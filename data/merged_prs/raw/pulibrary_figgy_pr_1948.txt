@@ -1,0 +1,2 @@
+Make resource save box sticky
+Closes #1544

@@ -1,0 +1,2 @@
+Switching to rspec 3
+With changes to the curate gem, CurateND now runs under rspec 3

@@ -1,0 +1,2 @@
+recreate a pristine californica-stage
+After changes to our id structure, we need to reingest everything from a blank slate. Criteria:  californica-stage is recreated in a pristine state, without any existing data  blocks #528

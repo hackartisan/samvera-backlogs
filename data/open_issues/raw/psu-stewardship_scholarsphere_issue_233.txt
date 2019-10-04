@@ -1,0 +1,2 @@
+Use a link checker
+Checking static links in the About and other pages is a bit tedious. How about using some kind of link checker that does it automatically?

@@ -1,0 +1,2 @@
+Rename "Order Manager" button?
+Continuous confusion about when to hit order vs file manager. Maybe we need to name the buttons by verb instead of noun? "Upload Files" and "Rename/Reorder Files"?

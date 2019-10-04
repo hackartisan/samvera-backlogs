@@ -1,0 +1,2 @@
+Refactor InputField
+Description Delegates different field types to partials, placing the logic for determining options, display names, and controlled vocabulary lists on the input field. The partials allow more complex rendering which will be needed in forthcoming field types, such as the creator which has multiple inputs. Connected to #730

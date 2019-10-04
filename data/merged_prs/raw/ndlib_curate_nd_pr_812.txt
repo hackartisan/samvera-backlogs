@@ -1,0 +1,2 @@
+Ensuring Array passed to `render_filter_element`
+In reviewing exceptions, I noticed a case where an unexpected URL (eg. https://curate.nd.edu/catalog?_=1522360201810) raised an exception. I don't believe this should be a hard-fail (see exception below). By wrapping the value in an Array, we ensure that we don't raise the given exception. NoMethodError: undefined method `map' for nil:NilClass   app/controllers/catalog_controller.rb:102:in `block in render_constraints_filters'     content << render_filter_element(facet, values, localized_params)

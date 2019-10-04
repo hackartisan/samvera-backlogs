@@ -1,0 +1,2 @@
+Limit video's width to its container
+Prevents the video from taking up the entire page. Fixes #1519

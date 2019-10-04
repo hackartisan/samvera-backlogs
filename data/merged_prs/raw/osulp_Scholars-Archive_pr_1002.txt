@@ -1,0 +1,2 @@
+Add other_affiliation_label method and specs.
+Fixes #994

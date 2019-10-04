@@ -1,0 +1,2 @@
+VoyagerUpdateJob isn't recognizing there are events that are processed.
+It's storing an integer for event ID, but then using FindByStringProperty.

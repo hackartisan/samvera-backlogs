@@ -1,0 +1,2 @@
+Revert the change to conditionally common index collections
+This approach doesn't work

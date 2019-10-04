@@ -1,0 +1,2 @@
+Fixing a bug in the common query
+Fixes #389. Description Becuase all values are enclosed in quotes boolean values can never match the database Changes  Bug fix to allow for non string parameters to find_using  Are there any major changes in this PR that will change the release process? No Checklist   i18n enabled  adequate test coverage  accessible interface

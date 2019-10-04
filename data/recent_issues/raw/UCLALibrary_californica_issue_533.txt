@@ -1,0 +1,2 @@
+Update importer to accept and expect 'File Name'
+As a project team member interested in increasing our speed of migration, I would like to have the importer expect a generic field name "File Name" as the column header for the master asset file name (so that it won't matter if it is an image or a sound file or a PDF or other) Acceptance Criteria   The importer works with a column header with the column name 'File Name'

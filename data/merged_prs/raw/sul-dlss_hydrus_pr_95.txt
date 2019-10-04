@@ -1,0 +1,2 @@
+text change in edit item page and replace logo
+fixes #46 and #65

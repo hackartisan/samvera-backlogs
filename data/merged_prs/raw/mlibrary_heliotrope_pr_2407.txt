@@ -1,0 +1,2 @@
+HELIO-2766 Update to Hyrax 2.5.1
+This is on staging. All tests pass. I was able to add a monograph, delete a monograph and import a monograph (w/ filesets and an epub), https://heliotrope-staging.hydra.lib.umich.edu/concern/monographs/xw42n8388?locale=en

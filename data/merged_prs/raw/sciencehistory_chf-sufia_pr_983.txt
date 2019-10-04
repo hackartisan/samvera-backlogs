@@ -1,0 +1,2 @@
+WIP Full search features on collection page for search-within
+By creating separate controller, and basing our collection show and synthetic category controllers on blacklight catalog controllers, instead of sufia collection controllers. Still need to make the collection show controller have some of the func of sufia collection controller, copied that in. Override routing to route to new controller for collection show. Will close #975 once complete This alternative approach ended up working better than what I tried in #976, which I will abandon.

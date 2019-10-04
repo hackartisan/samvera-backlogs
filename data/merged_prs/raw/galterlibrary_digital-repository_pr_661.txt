@@ -1,0 +1,2 @@
+Remove Original Publisher
+and rename Digital Publisher to Publisher. closes #656

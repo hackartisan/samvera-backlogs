@@ -1,0 +1,2 @@
+Rewrite IngestArchivalMediaBagJob and related classes
+Implement new hierarchical model structure as per #3021 closes #3020 Generally clean up and refactor IngestArchivalMediaBagJob and ArchivalMediaBagParser We tried this out, and it ingests correctly, but there's no way to get from the descriptive proxy to the MediaResource with the FileSets. We expect we'll fix this as part of converting to using Recordings (#3080)

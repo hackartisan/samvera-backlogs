@@ -1,0 +1,2 @@
+Ensuring that PDFGenerator errors are logged with the URL used in the request
+This should assist with tracing the root of the cause for #2153

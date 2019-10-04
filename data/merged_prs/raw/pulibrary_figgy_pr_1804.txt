@@ -1,0 +1,2 @@
+Fix PUDL0017 when there's no extra series info
+Closes #1803

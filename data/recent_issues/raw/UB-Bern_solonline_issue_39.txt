@@ -1,0 +1,1 @@
+Manual input of data leads to error when saving

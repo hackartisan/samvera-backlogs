@@ -1,0 +1,2 @@
+Create favicon.
+Descriptive summary As a regular user of Oregon Digital, I'd like to quickly find it among browser tabs, bookmarks, and browser homepage quick menus. Expected behavior For easy identification in browser tabs and across browser homepage quick menus, Oregon Digital should carry a favicon of all the standard dimensions. Related work

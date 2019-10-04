@@ -1,0 +1,2 @@
+Resolves#730: Embed code for video
+bare bones  using asset handles

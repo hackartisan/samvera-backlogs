@@ -1,0 +1,2 @@
+Comments out the link to the admin stats from the dashboard
+I've decided to comment out the code that links to the admin stats in the dashboard from the greeting instead of remove it completely, so that we can uncomment it out when the code has been fixed. Fixes #1246

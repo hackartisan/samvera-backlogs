@@ -1,0 +1,2 @@
+Required Designation on Display Name Field for New/Edit Works
+Adds the label for display name to the sufia.en.yml file and adds the required designation to the mustache template for additional creators.

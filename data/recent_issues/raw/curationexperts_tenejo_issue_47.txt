@@ -1,0 +1,2 @@
+Report out on AWS Offerings
+REQUEST As a manager, I would like the team to have a basic understanding of available AWS technologies that might be used as part of a hosted repository solution. ACCEPTANCE    Provide a 15-25 minute overview of   EBS  S3  Glacier  AWS Import/Export Disk  Snowball  Snowmobile

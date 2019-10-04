@@ -1,0 +1,2 @@
+Add Spanish and Portuguese labels to Ephemera Term
+For translating the controlled vocabulary terms into Spanish and Portuguese, ultimately to improve the localization of the LAE application.

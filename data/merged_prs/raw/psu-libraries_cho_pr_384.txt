@@ -1,0 +1,2 @@
+Don't use work type for edit button, ref #377
+Fixes #377 Description The work type's id was inadvertently being used as the edit button. This changes the button to a i18n value for easier configuration. It also includes i18n values for delete buttons, as well as create views. Changes Are there any major changes in this PR that will change the release process? No. Checklist   i18n enabled  adequate test coverage  accessible interface

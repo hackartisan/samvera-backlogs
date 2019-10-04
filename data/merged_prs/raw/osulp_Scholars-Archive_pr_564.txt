@@ -1,0 +1,2 @@
+Blazegraph enabled for Scholars Archive
+Fixes #552 This adds all the necessary work to have blazegraph as a triplestore backend. It fetches and caches and accepts URI's and indexes the labels in solr.

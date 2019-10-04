@@ -1,0 +1,2 @@
+Fixed a problem where supplemental files uploaded from Box were improperly marked as primary files.  Connected to 1743
+Connected to #1743

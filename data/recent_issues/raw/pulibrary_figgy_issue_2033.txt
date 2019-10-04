@@ -1,0 +1,2 @@
+Analyze Numismatics data for fields and types
+Child of #2025

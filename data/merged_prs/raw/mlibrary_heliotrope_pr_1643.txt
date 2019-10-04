@@ -1,0 +1,2 @@
+Resolves #1641 3D Model links to text in 'standalone' mode
+shouldn't link to the epub paragraph (for now) but to a handle

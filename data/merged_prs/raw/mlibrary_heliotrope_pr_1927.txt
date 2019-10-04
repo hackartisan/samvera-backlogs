@@ -1,0 +1,2 @@
+add blog post announcing launch of HEB
+Resolves HELIO-2002 Adds blog post and images to Fulcrum blog.

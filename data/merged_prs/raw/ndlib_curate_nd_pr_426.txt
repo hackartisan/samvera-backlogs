@@ -1,0 +1,1 @@
+395 increase size of the thumbnail image on the show page

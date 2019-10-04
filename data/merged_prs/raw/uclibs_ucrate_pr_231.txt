@@ -1,0 +1,2 @@
+Set the creator field to the current user when creating works
+Fixes #210 Added 'name_for_works' in user.rb and added test of it. Port over 'set_creators.js' and  '_guts4form.html.erb' from Scholar Changed 'features/create_work_spec.rb' so the default creator show up before the field is filled.

@@ -1,0 +1,2 @@
+Cache the manifest in a file
+Instead of caching the file in the database this caches it on the filesystem in the tmp directory. This will make it easier to clean out and is potentially less memory intensive.

@@ -1,0 +1,2 @@
+deploy restarts resque-pool with --hot-swap
+Closes #226.

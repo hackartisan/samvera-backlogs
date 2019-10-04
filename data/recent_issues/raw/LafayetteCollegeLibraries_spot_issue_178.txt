@@ -1,0 +1,2 @@
+file_set display has empty well when user isn't an editor
+probably just need to wrap the _show_tools partial in an @presenter.editor? block

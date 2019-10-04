@@ -1,0 +1,2 @@
+Removing collections from solr document
+This method is untested and unused

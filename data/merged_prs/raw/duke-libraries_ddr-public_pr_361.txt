@@ -1,0 +1,2 @@
+Use solr_name method for field names
+Also fixes rows bug in digital_collections controller

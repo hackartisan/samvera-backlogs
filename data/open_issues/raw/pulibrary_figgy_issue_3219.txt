@@ -1,0 +1,2 @@
+save and ingest multi-volume should work with a single sub-directory
+Save and ingest won't treat a single directory as a volume when added to a multi-volume work

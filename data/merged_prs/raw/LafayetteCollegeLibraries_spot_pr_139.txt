@@ -1,0 +1,2 @@
+add rights statement icons to work view
+disregard the branch name 😅 this adds icons for rights statements   add tests  closes #136

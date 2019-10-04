@@ -1,0 +1,2 @@
+Departments and Units Locabulary update
+DLTP-1323: Bumping version of locabulary  Bumping version of locabulary to get the new ND Research heading in Departments and Units. Moved to an explicit version of locabulary so that we can better track associated changes to Curate  b994115

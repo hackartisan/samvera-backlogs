@@ -1,0 +1,2 @@
+Design options for OD2 homepage
+Descriptive summary It would be nice to start getting some design options in front of PMOP and Service Managers for what the OD2 homepage could look like. These don't need to be finalized 100% soon, but if we could possibly have a new landing page up at the end of Workcycle2 that would make an impact for a demo. Expected behavior Nice looking homepage ###Current behavior Hyrax homepage

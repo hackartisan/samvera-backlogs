@@ -1,0 +1,2 @@
+Feature/oaiqdc
+Adds Qualified Dublin Core response format, finishes up field mapping.

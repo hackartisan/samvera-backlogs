@@ -1,0 +1,2 @@
+Indicate that a manifest has been selected
+ACCEPTANCE When I select a CSV file for import   The form shows me the filename

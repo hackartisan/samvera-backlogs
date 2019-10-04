@@ -1,0 +1,2 @@
+Allowing the display name to be show on the edit page or work and collection
+Description Connected to #437 Why was this necessary?  The display name was not being used for a label. Changes Use the display name on the edit form. Update the test data dictionary to have  a display name for title to test this further. Are there any major changes in this PR that will change the release process? Checklist   i18n enabled  adequate test coverage  accessible interface

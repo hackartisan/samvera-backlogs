@@ -1,0 +1,2 @@
+Fixity count should take into account child_property
+Closes #3220

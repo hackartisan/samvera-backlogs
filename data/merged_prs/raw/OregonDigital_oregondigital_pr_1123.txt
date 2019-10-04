@@ -1,0 +1,2 @@
+Sort Set dropdown by title. Add set pid.
+Fixes #1122

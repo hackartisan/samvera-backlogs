@@ -1,0 +1,2 @@
+Fix deploy
+Both of these changes are necessary to fix our capistrano deploy.  Wrap entire CI task in a block that excludes it from production (because rspec etc aren't installed in production) Explicitly declare the database adapter for production. Not sure why this is necessary, but it's probably a good idea since we wouldn't want to accidentally override our production database adapater.

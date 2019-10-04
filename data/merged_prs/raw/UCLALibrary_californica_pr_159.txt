@@ -1,0 +1,2 @@
+Move repository term into model
+This commit moves the repository out of an external schema and back into the the model. It also removes the schema and the required setup files needed to add it that way. Connected to #141

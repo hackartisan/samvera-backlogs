@@ -1,0 +1,2 @@
+license replaces rights_granted_creative_commons
+Resolves most of HELIO-2147

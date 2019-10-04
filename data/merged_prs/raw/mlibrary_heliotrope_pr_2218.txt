@@ -1,0 +1,2 @@
+HELIO-2500
+Resolves HELIO-2500 Adds preservation statement link to fulcrum mobile menu; adds preservation statement link to the fulcrum footer

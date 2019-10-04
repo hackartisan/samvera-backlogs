@@ -1,0 +1,2 @@
+setting up robots to disallow search engine crawling
+Fixes #27

@@ -1,0 +1,2 @@
+Add boolean `preservation_flag` field to resources
+Initially this should not be available from a form. Child of #911 Related to #1286

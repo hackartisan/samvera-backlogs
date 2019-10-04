@@ -1,0 +1,2 @@
+Do not display user info
+Err on the side of privacy and do not display any user info on the public user page. Closes #920

@@ -1,0 +1,2 @@
+Determine modeling for audio reserve objects
+So far we're assuming that a course is a collection and a selection is a type of work/resource. One challenge is that selections have sort fields, which are collection-specific. For example, if a selection belongs to two courses it could be sorted into week one in course A but week 4 in course B. Need to figure out how to accommodate this. child of #1986

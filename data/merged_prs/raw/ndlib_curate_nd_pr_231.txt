@@ -1,0 +1,2 @@
+217 resolve lint issues with sass files
+We are about to make, potentially substantial, front-end changes to CurateND. I did several things to help facilitate this process:  Imported all the SCSS files from the curate gem Imported all the views from the curate gem Edited all the SCSS files and associated views so that scss-lint can successfully pass  If this is too heavy-handed I can dial it back a bit.

@@ -1,0 +1,1 @@
+Retain search facets in advanced search.

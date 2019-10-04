@@ -1,0 +1,2 @@
+change application name to "Oregon Digital"
+Closes #255.

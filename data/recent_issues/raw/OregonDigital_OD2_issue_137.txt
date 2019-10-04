@@ -1,0 +1,2 @@
+Routing for communications/emails
+Descriptive summary When users seek to contact OD to gain access to a work that is restricted (e.g. high resolution image) the email should be routed based on some concept of ownership (not defined at this point). I suspect this ownership will be related to the primary collection the work belongs to and the institution that owns that content. Expected behavior If i send a request to OD and institution X owns the work in question, the email should be routed to the institution X email address. @petersec  @jsimic chime in to clarify.

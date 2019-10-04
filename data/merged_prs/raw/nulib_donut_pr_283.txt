@@ -1,0 +1,2 @@
+fixes bug finding relative file path
+Fixes nulib/next-generation-repository#505  .csv file can be uploaded anywhere in the bucket, as long as paths in 'file' are relative to the csv file

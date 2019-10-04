@@ -1,0 +1,2 @@
+UI enhancements
+kind of a catch-all for a handful of ui tweaks locales  updates PublicationPresenter#page_title to display as "#{work_title} || Lafayette Digital Repository"  html  adds contact link to the footer / updates the layout used adds text for the 'about' page  closes #223 closes #227

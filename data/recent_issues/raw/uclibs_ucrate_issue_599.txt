@@ -1,0 +1,2 @@
+Use Datacite for DOIs
+Descriptive summary The DOI feature needs to be updated to use Datacite as a provide instead of EZID. The first step for this task is to review the approach that has been discussed in the past.  See @hortongn Existing DOIs will need to be migrated to Datacite as well.  That needs to be done at the same time this enhancement is deployed.

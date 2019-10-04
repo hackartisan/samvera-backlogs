@@ -1,0 +1,2 @@
+Add specs for methods without test coverage
+Stubbing bunny in CreateDerivativesJob and CleanupDerivativesJob revealed some methods without test coverage. The resulting decrease in coverage was small enough to not trigger a failure. This PR adds specs to bring Figgy back up to 💯. Closes #1011

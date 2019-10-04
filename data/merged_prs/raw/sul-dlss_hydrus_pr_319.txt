@@ -1,0 +1,2 @@
+Creates hydrusAssemblyWF instead of creating steps by updating.
+closes #308

@@ -1,0 +1,2 @@
+Source field not working in OAI record response
+When :source is included in the OAI fields it pulls an unexpected value and causes an error: undefined method `empty?' for #<Image:0x007f857f5bad40> lib/oregon_digital/oai/concern.rb:87:in `block in value_for'

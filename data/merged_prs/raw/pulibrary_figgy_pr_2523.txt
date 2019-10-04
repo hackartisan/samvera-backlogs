@@ -1,0 +1,2 @@
+Add clipboard.js and use it for "copy to clipboard" button on auth_link
+fixes #2429

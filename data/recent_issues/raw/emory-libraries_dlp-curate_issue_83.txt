@@ -1,0 +1,2 @@
+Validate fileset use metadata against controlled vocab
+Validate FileSet.pcdm_use so it is set to only one of the terms in the controlled vocab from #82  Test that validation happens correctly

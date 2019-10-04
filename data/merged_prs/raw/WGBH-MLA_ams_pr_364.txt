@@ -1,0 +1,2 @@
+Removes 'pg' gem from bundle
+We needed the 'pg' gem for vaccuuming the PostgreSQL database that Fedora was using. But we changed Fedora to use MySQL instead, precluding the need for vacuuming the DB, and the need for the 'pg' gem. Also,  Fix indentation in appspec.yml

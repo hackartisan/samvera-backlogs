@@ -1,0 +1,2 @@
+Add ability to set GA code with ENV variable
+This allows you to set the GA tracking code with an environment variable. This can be set during deployment with the ansible scripts. Connected to laevigata#749

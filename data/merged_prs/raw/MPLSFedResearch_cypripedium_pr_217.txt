@@ -1,0 +1,2 @@
+Server-side bag implementation
+This uses the Bag class that was introduced in a new bag job that is used in a rake task for creating bags. To use the rake task: bundle exec rake bag:create[work_id1, work_id2] This will create a bag containing the works that you supply ids for. They will be located in the path set by the Rails.application.config.bag_path variable, which can be manually set, or using the env varible: ENV['BAG_PATH'] Connected to #191

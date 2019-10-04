@@ -1,0 +1,2 @@
+Move metadata extraction script to this project
+Currently, the script is just living on the server in a folder. It should be a part of this project's repository, with instructions to run it. Related to #536

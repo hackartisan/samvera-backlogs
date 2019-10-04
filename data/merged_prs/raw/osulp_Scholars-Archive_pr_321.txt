@@ -1,0 +1,2 @@
+Using Preferred label on show page and in form
+Fixes #302 Sadly, most of the time an array of multiple different labels gets returned on the show page and in the form. Now, instead of using the first option which may not be the english label, we are now using the uri and its preferred label after it is cast to a triple powered resource. This should guarantee the label we have to always be the preferred language which is english.

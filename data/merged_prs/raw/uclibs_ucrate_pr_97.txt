@@ -1,0 +1,2 @@
+Increase default 500MiB limit to 3GiB
+Fixes #75 Override JQuery file upload validation script to increase the file size limit from 500MiB to 3GiB per uploaded file. Tested it locally with various file sizes. Throws "File is too large" for files larger than 3GiB.

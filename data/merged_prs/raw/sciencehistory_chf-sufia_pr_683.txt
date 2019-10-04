@@ -1,0 +1,2 @@
+Sort out google analytics semantics, pass desired data; fixes #668
+Variable names in the generalized javascript have been changed to match google analytics. The generalized js now requires a class, and looks up the element's hierarchy to find it if it's not on the target element. This allows the container div to hold the ga data, but still use the generalized javascript.

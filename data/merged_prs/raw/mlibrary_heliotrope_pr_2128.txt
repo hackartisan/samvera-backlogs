@@ -1,0 +1,1 @@
+Addresses HELIO-1427 EPUB event tracking.

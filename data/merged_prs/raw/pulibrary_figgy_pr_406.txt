@@ -1,0 +1,2 @@
+Ensures that Collections properly generate IIIF Manifests
+Resolves #405

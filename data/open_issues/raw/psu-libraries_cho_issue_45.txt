@@ -1,0 +1,5 @@
+understand use/re-use conditions
+As an end user, I need to be able to understand the use/re-use conditions associated with an object, So I can be confident that I am using the materials appropriately.
+provide proper copyright and use conditions. 
+@lmballinger I assume you mean something other than a rights statement? Such as having rights statements auto-link to rightstatements.org to clarify?
+Display transformation on rights_statement field. URI to string and button that links to rightstatement.org page https://rightsstatements.org/en/documentation/assets.html

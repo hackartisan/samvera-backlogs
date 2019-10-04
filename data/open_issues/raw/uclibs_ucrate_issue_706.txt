@@ -1,0 +1,2 @@
+Log exception details and send notifications
+(moved from uclibs/scholar_uc_legacy#1301) Descriptive summary Port over the code from Scholar 2.x that logs exceptions and sends alert emails. Ref: uclibs/scholar_uc_legacy@0dfcbf7

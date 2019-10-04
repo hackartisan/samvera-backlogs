@@ -1,0 +1,2 @@
+Fix coverage check
+Fix #3296

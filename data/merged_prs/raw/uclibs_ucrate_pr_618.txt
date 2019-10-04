@@ -1,0 +1,2 @@
+Fix Solr reindex_everything timeout
+Fixes #617 Fixes the timeout problem when running a Solr reindex from the console. This exact code has already been run successfully on scholar.uc.edu.

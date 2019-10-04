@@ -1,0 +1,2 @@
+Setup consistent test accounts across environments
+administrator account systems@curationexperts.com  regular user account contact@curationexperts.com

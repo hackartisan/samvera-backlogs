@@ -1,0 +1,2 @@
+Add LICENSE [ci skip]
+Closes #721 Couple edits we may need - is identifying our collaboration as Oregon Digital warranted? I've back-licensed all of OD under Apache until the year of the first commit of this repo. @kestlund, @evvivaweinraub @boockm Any complaints?

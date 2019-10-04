@@ -1,0 +1,2 @@
+Turn off search history when in read-only mode
+This allows people to search in read-only mode without getting errors due to blacklight creating Search objects. fixes #2875

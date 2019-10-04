@@ -1,0 +1,2 @@
+Resolves Issues 166 Download Survey and 169 Clean up download page
+Changes to #166 Download Survey  Add two new options fields Alter "country" field description Set 1 month expiration time for cookies Make some fields mandatory  Changes to #169 Clean up download page  Remove File Fixity and Characterization information Remove user activity information Make download link as button

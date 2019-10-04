@@ -1,0 +1,2 @@
+Improve `copyable` documentation in IngestableFile
+Closes #1744.

@@ -1,0 +1,3 @@
+User Story: Number of librarians having content in ScholarSphere
+As a service manager, I want to know how many faculty librarians have content in ScholarSphere, so that I can promote the service more to librarians who don’t yet have content in ScholarSphere.
+@patriciahswe @mahirakgun What is the definition of a Librarian?  Is that a title, or a department or some other marker that makes then a librarian?  Are you looking for a number, or a list of Users as the output?  The story asks for a number, but the reason makes me believe you would really need to know the who and a number.  Also just to clarify have content would be indicated by having deposited one or more files?  

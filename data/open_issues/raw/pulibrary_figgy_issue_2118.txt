@@ -1,0 +1,2 @@
+Use sequences for auto-incrementing item numbers
+https://www.postgresql.org/docs/11/sql-createsequence.html

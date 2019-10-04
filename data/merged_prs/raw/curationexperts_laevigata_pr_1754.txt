@@ -1,0 +1,2 @@
+Fixed a problem where when you delete all the partnering_agencys from the form
+the old values are cached in the InProgressEtd record, so when you reload the form, the old values still show up. If you submit blank strings from the front end, you can effectively delete the old values.

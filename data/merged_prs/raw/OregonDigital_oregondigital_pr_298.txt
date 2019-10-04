@@ -1,0 +1,2 @@
+Implement clever sturctuerd labels for GeoNames
+This is to address #241.  Please see commentary there.

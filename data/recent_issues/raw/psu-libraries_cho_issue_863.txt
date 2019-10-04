@@ -1,0 +1,2 @@
+Trim CSV Fields during Batch Metadata Import/Update
+CSV fields may accidentally include leading or trailing spaces that need to be trimmed before performing import/update previews and actions. Also, we should allow for spaced surrounding delimiters in repeating fields to increase readability--these will also need to be trimmed to prevent the spaces from becoming part of the values. This issue includes updating the wiki metadata page.

@@ -1,0 +1,2 @@
+Fix up RDA metadata
+Fixes #469 Noticed a lot of RDA* namespaced metadata was still using OD1 predicates. Updated the ones I saw on the MAP.

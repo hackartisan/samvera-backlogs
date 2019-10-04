@@ -1,0 +1,2 @@
+Feature/searchable full text work
+Closes #601

@@ -1,0 +1,2 @@
+Add .coveralls.yml
+Needed for full Coveralls functionality.

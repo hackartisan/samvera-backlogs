@@ -1,0 +1,2 @@
+Use random order with seed for specs
+This changes the RSpec config to use random order with a seed. Connected to #232

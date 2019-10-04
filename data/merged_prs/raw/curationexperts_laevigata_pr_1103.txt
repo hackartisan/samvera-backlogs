@@ -1,0 +1,2 @@
+ Add factory support for creating with the actor stack
+Introduces Hyrax::Spec via the hyrax-spec gem, and sets up the :etd factory for use with the actor_create build strategy. This simplifies setup for many general use cases where a realistic ETD needs to exist.

@@ -1,0 +1,2 @@
+Crop area of interest
+This PR includes both the code to crop/rotate derivatives to a particular area of interest, and also a lookup service to pre-populate a database with known areas of interest based on filename/identifier. This is everything we need to make Winterton work, and we can use it for other images, too, if the crop data is available.

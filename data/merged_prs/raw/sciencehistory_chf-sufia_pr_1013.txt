@@ -1,0 +1,2 @@
+upgrade webmock dependency
+newer webmock is needed to work under ruby 2.4+, found when accidentally trying to run tests under ruby 2.5. We're still using 2.3 in production but might as well preemptively upgrade.

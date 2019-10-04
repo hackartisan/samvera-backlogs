@@ -1,0 +1,2 @@
+Resolves #810: Download doesn't work.
+Having the link open a new tab solved the problem.

@@ -1,0 +1,3 @@
+Update Servers to contain a sufia6.rb for connecting with the sufia6 fedora
+For importing content from the sufia6 fedora we need to configure the sufia 7 servers with the user information. Create a symbolic link in cap to put the configuration into the config/initializers directory The file should have ScholarSphere::Application.config.fedora_sufia6_user = ... ScholarSphere::Application.config.fedora_sufia6_password = ...
+Mistake! 

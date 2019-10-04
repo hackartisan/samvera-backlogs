@@ -1,0 +1,2 @@
+fixes bugs with handle controller redirects
+fixes #996

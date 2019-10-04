@@ -1,0 +1,2 @@
+add banner text to all pages
+Fixes #14 Add banner text to all pages with homepage layout override.

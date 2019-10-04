@@ -1,0 +1,2 @@
+Update tinymce.yml
+adds linking ability in tinymce fixes #1156 moreso

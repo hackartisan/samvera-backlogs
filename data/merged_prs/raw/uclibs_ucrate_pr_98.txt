@@ -1,0 +1,2 @@
+add uclibs browse_everything gem and config for Kaltura and Box
+Closes #86  Added uclibs/browse-everything gem from our github fork Ran generator: rails g browse_everything:install --skip-assets Added config/initializers/kaltura.rb Tested with localhost credentials for Kaltura and Box.com  Does this need any spec coverage? Do we have a test script I should add to?

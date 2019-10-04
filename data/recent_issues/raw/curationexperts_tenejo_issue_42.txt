@@ -1,0 +1,2 @@
+Make the CSV Template Downloadable
+Add a link to left dashboard bar "Download CSV Template" that links to the CSV from #41  The template should have correct headers, but no sample data*  Wrap this in a feature flipper (so we can turn it off on prod)  `* We'll provide some sample completed example CSVs on a support wiki later.

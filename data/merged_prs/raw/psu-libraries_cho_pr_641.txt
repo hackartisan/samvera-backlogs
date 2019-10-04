@@ -1,0 +1,2 @@
+Import zip files as bags when uploaded via the GUI
+Description Process zip uploads in the GUI as we do when we run csv import: import the zip files as bags and create the file sets and files contained within them. Connected to #553

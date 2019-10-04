@@ -1,0 +1,2 @@
+503 error page with all assets inlined
+I wanted to have this file tracked in source control. We will need to copy it into the right location on our servers.

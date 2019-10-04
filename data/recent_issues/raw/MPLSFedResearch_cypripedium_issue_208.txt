@@ -1,0 +1,2 @@
+PAIRING: Sort by Date Created
+STORY As a researcher, I would like to be able to sort search results by their creation date, so that I can search for recent and historical information easily. ACCEPTANCE   The "Sort by" dropdown on search results includes "Date Created" ascending and descending as options  child of #189

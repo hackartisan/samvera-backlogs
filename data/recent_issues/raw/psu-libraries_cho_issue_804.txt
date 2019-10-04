@@ -1,0 +1,2 @@
+Configure Basic Search in Blacklight
+When searching, the query matches on all fields, regardless of what dropdown is selected. This should be configured to search the field selected in the dropdown. For basic search, dropdown should be limited to core fields. All fields should be the default selection.

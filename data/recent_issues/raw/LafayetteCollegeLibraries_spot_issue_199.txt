@@ -1,0 +1,2 @@
+add 'Feature collection' button to dashboard form
+this one was an oversight

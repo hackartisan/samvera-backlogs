@@ -1,0 +1,2 @@
+Dltp 720 remove etd from self deposit op
+Claiming issue DLTP-720 @fead7e2e886b99fbcc588733961e3da3cd276685 $ ./script/start-issue DLTP-720 [skip ci] removing etd from self deposit @50007102ba2b229541116a9143b59b13833db05b Closing issue DLTP-720 @7ee0b353fd7f010f6ebe775d608647bc65bd991c $ ./script/close-issue DLTP-720

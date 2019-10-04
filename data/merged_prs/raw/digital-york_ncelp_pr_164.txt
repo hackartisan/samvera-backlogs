@@ -1,0 +1,2 @@
+fix collection edit form error
+resolves #163

@@ -1,0 +1,2 @@
+PDFs should work in read-only mode
+Currently, PDFs are generated, attached to the resource, and then users are forwarded to the download URL for the new file.  In read-only mode, this won't work, because we can't attach the generated PDF. We should be able to generate a PDF and just send it to the user instead of attaching/redirecting.

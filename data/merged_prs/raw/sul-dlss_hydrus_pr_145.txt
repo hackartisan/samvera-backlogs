@@ -1,0 +1,2 @@
+Set facet.limit to -1 (unlimited) for getting item counts via pivot facets
+Fixes #144

@@ -1,0 +1,2 @@
+Create ChildWork object type
+It has the same metadata attributes as a Work Refactor to share metadata examples It subclasses Work where ever possible It has an additional field, in_works_ids, containing its parent Work object

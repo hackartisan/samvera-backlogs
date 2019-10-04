@@ -1,0 +1,2 @@
+Implementing private access on resources
+When a user select "private access" on a resource, then only they will be able to read and edit it. TODO:  follow Hyrax paradigm and use a "private" to control this level of access capture the person who created the resource in the resource's metadata the attribute for the creator would not be stored in the data dictionary

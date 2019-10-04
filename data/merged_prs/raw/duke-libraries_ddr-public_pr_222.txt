@@ -1,0 +1,1 @@
+add name of collection to html title, closes #201

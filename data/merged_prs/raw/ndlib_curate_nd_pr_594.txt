@@ -1,0 +1,2 @@
+Added the field Speaker to the appropriate files.
+Determined that we needed a field for speakers who were not necessarily performers. Added Speaker.

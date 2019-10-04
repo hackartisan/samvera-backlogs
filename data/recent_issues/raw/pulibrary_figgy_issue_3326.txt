@@ -1,0 +1,2 @@
+Move the NestedStoragePath into its own file from the initializer?
+It's small / simple but it might be good to have test coverage on it. Also, it's relevant to both saving and recovering preserved resources, so it may be nice to have it more visible in that preserver directory.

@@ -1,0 +1,2 @@
+Don't raise error on cascade delete
+The 'cascade delete' is an after_destory hook that calls #destroy! on an ActiveFedora record's #members. If one of those members had already been deleted for some reason, an LDP::Gone error was getting raised. We want to quietly rescue from that instead.

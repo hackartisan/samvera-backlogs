@@ -1,0 +1,2 @@
+Query parent and display on show page
+Fixes #887 This hacks in a VERY not hyraxy fix for bringing the parent work info to the show page of a title. it simply shows the parent titles for a child.

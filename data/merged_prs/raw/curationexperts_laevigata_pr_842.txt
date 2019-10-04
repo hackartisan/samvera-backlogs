@@ -1,0 +1,2 @@
+Add an okcomputer check ensure smtp connection is working
+Make it easier to monitor whether mail connections are working in production.

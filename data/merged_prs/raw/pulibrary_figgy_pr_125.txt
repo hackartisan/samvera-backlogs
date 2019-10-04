@@ -1,0 +1,2 @@
+Add timepicker to Navigation Date.
+Closes #55

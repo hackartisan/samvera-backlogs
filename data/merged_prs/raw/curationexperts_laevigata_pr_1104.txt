@@ -1,0 +1,2 @@
+Adds support for legacy graduation dates using inactive QA terms
+A new input type is added to handle addition of values using the vocabulary helper method supplied in #1095 (see also: samvera/hyrax#3122). Using this input on a field-by-field basis allows single-value select inputs to support inactive terms. This closes #1094, with the caveat that there are currently only inactive terms for graduation_date. When other inactive terms are added, action is needed to change the simple_form input type for the relevant fields.

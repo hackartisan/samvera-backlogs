@@ -1,0 +1,2 @@
+Fixes #446 - Add integration test to replicate the object counts issue and fix the problem.
+Fixes #446 Fix the issue with the objects count that is the same for public user and curator with gated discovery not working. @ucsdlib/developers - please review

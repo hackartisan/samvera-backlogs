@@ -1,0 +1,2 @@
+add information on how to select multiple options
+resolves #88

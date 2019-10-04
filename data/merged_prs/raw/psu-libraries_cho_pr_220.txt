@@ -1,0 +1,2 @@
+Resque
+Added configuration files for Redis and resque. Then I remembered to run rubocop -a (got to get Travis setup to keep me inline)

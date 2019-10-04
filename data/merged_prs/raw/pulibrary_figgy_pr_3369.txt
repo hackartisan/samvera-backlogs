@@ -1,0 +1,2 @@
+Adjust theme for center UV box.
+This fixes the issue where the dropdown was off-center or would push buttons to a new line.

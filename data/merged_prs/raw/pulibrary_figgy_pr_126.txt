@@ -1,0 +1,2 @@
+Export records as RDF
+Closes #51

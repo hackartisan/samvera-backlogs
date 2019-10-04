@@ -1,0 +1,2 @@
+Add members relation to FileSetWayfinder
+ScannedMaps are unable to generate a manifest without this in production.

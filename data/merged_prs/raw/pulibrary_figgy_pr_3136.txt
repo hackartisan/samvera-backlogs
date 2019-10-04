@@ -1,0 +1,1 @@
+Fix stale object error for ScannedMap derivatives.

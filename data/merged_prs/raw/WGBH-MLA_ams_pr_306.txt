@@ -1,0 +1,2 @@
+Updates Solr config and schema
+Remove all 'suggest' features. The 'suggest' thing slows things way down, and we think it's also causing stack overflows. NOTE: the Solr config and schema are not used directly from this repo, but are intended to be copied to, and used in, the Solr instance used by AMS.

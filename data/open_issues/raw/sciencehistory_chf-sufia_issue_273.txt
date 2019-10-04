@@ -1,0 +1,1 @@
+move nested objects to be hash URIs instead of full objects.

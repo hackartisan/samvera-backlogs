@@ -1,0 +1,3 @@
+Login via OAuth
+Similarly to IRIS, OASIS supports OAuth login. As user needs to save their preferences in the profile, a user model needs to be defined.
+What information would we like to ultimately collect from users?

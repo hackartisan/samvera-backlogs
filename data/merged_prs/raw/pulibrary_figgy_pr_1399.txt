@@ -1,0 +1,2 @@
+Add reindexing service for geo resources
+Service for reindexing GeoBlacklight, GeoServer, and OpenGeoMetadata. Closes #1385

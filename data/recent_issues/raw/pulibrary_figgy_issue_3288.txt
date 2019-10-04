@@ -1,0 +1,2 @@
+MVWs shouldn't show a "plus" in UV table of contents if there's no structure for a volume
+This changed after a UV update recently.

@@ -1,0 +1,1 @@
+Changes to README and docker-compose for running dev and rake correctly.

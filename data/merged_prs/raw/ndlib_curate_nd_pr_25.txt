@@ -1,0 +1,2 @@
+Switching to poltergeist driver
+With the update to Firefox, my webdriver was not working. This required an update for JS related tests.

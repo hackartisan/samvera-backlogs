@@ -1,0 +1,2 @@
+Serve up n-triples when asking for .nt.
+Closes #369

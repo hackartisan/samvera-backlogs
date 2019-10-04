@@ -1,0 +1,2 @@
+If metadata is a pid, display as show URL
+When building json show results, convert pids into URLs. This will show access persons & groups, "isPartOf" relationships, etc as api show URLs, creating links to LibraryCollection, Hydramata_Groups, and Person models. Use the requested URL as the base for building all URLS in the show view so all URLS are valid in staging environments.

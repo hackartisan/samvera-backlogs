@@ -1,0 +1,1 @@
+add hint popup window for exposure (hours of prior instruction

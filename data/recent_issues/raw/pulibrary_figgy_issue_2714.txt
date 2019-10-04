@@ -1,0 +1,2 @@
+Remove artist property from numismatic issue
+We now add artists as nested resources. https://github.com/pulibrary/figgy/blob/master/app/resources/numismatic_issues/numismatic_issue.rb#L14

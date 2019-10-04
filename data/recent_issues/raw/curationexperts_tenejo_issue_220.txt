@@ -1,0 +1,2 @@
+Typo in iiif urls
+iiif urls have the region and the size swapped They say: "https://tencan.curationexperts.com/cantaloupe/iiif/2/0p0966899%2Ffiles%2Fc802e048-473a-4ee2-9277-6bd030dd53ed/600,/full/0/default.jpg", But they should say: "https://tencan.curationexperts.com/cantaloupe/iiif/2/0p0966899%2Ffiles%2Fc802e048-473a-4ee2-9277-6bd030dd53ed/full/600,/0/default.jpg", (note that in the correct one, the full is before the default size of 600)

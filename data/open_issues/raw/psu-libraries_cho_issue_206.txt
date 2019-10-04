@@ -1,0 +1,3 @@
+Search by Synonym for Controlled Terms
+As a researcher (graduate student/faculty), I want to be able to identify collections using terminology from the 19th century (e.g. "temperance") In order to discover collections using language I am familiar with. I will know this is done when the collection descriptions contain historical and modern subject terms. Eric N.
+Solr has built-in synonym capabilities but we would need the ability to manage this via the GUI, without directly editing YAML config file.

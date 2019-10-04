@@ -1,0 +1,2 @@
+Edits to make prod shib ready
+This commit disables database_auth on prod and makes it shib ready. Database_auth will only be available on dev now on. This commit also updates gem versions. Connected to #132

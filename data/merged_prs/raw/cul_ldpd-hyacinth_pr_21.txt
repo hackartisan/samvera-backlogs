@@ -1,0 +1,2 @@
+Hyacinth 152 - Hide menus based on permissions when viewing an item
+The following menus show up when a user with read-only permission on a project is viewing an Item: -) Manage Child Assets -) New Child Asset -) Manage Parents These menus should be hidden if the user does not have the proper permissions.

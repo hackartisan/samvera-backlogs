@@ -1,0 +1,2 @@
+Fix metadata spacing
+Closes #315

@@ -1,0 +1,2 @@
+Hotfix/fr work id n embedded leaflet fullscreen bug
+Release 2.46.1 hot fix commits

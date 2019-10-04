@@ -1,0 +1,2 @@
+Update Splunk to include Tenejo import logs
+ACCEPTANCE    I can see newly imported content in Splunk

@@ -1,0 +1,2 @@
+Add non-embedded Viewer page.
+This viewer will update the URL with settings for canvas and shouldn't change locations even if the UV install method changes. Closes #2037

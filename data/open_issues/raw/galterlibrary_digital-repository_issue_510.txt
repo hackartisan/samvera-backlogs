@@ -1,0 +1,3 @@
+Enable IIIF links at GenericFile/Page level
+
+Related to #432  Depends on implementing mirador. Basically, it should link to a specific page in mirador collection.

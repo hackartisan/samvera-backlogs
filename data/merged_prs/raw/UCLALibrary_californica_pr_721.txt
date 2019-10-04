@@ -1,0 +1,2 @@
+Include viewingDirection in IIIF manifest
+viewingHint is not being included at this time, as Universal Viewer does not correctly match paired pages when there are extra initial images (e.g. an exterior photo).

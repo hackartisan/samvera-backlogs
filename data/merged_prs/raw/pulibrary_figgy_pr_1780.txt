@@ -1,0 +1,2 @@
+Adds ScannedMap type to GraphQL query
+Even though this adds the ScannedMap type, the server still responds with an Action Controller: Exception caught error message for ScannedMaps. This PR also fixes some minor bugs in the OrderManager.

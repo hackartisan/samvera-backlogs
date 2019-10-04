@@ -1,0 +1,3 @@
+IIIF Image Viewer (IV): Application breaks when JP2 images are attached
+Descriptive summary When a JP2 image is attached to a given work, application breaks with an error identify: no decode delegate for this image format 'JP2' Related work #60 #115 #116
+https://www.btmash.com/article/2014-05-12/installing-imagemagick-jp2-support-centos

@@ -1,0 +1,2 @@
+HELIO-2803 - add branding for bar
+Add a theme for BAR publishing

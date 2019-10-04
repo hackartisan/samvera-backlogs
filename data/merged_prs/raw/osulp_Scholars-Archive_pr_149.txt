@@ -1,0 +1,2 @@
+updated gemfile to use hydra-editor to handle uris
+fixes #127

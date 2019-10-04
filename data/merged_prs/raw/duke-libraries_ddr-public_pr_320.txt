@@ -1,0 +1,1 @@
+Enable custom thumbnail from ddr-portals for collections

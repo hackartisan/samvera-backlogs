@@ -1,0 +1,2 @@
+Adjusting default rake task to be travis task
+This unifies the building process for new developers.

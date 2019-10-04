@@ -1,0 +1,2 @@
+Allow visibility in batch manifest
+References nulib/next-generation-repository#567 Fixes nulib/next-generation-repository#584 Description Allows users to add the header 'visibility' to the batch spreadsheet with one of these values:  'open' for Public 'authenticated' for Institution 'restricted' for Private  Changes  Add visibility to valid headers in csv_parser.rb Add visibility to list of single valued fields in csv_parser.rb

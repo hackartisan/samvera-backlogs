@@ -1,0 +1,1 @@
+Test on Solr 6 using solr_wrapper

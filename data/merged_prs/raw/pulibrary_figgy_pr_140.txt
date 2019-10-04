@@ -1,0 +1,2 @@
+Display original_file's tech metadata on FileSet show page
+Fixes #63

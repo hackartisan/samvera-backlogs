@@ -1,0 +1,2 @@
+Update subfield JSON file to include all options from /schools
+This updates the file that used by the UI to detemine which department options are associated with a subfield/program vocab. Related to #1696

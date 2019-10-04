@@ -1,0 +1,2 @@
+fix typo on permitted params
+Fixed typo that prevented language fields from being removed in edit form

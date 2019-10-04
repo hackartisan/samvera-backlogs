@@ -1,0 +1,2 @@
+Remove capistrano deployment logic
+Deploy logic has been moved to separate project.

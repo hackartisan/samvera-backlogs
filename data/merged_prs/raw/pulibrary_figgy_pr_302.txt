@@ -1,0 +1,2 @@
+Add start & end dates to form.
+Closes #280. This is a little more complicated than needs be, but it creates a nested object for date ranges so we could potentially add multiple pairs later on. It's a need we've recognized before when talking about Visuals stuff, so I thought it'd be a good idea to see what it looks like to implement.

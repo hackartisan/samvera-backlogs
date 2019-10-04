@@ -1,0 +1,4 @@
+Can the A/V reorganization work for ScannedResources too?
+We have the ability to automatically reorganize A/V resources when the finding aid changes.  Can we use the same approach to allow reorganizing ScannedResources when finding aids change?
+ADAPT+ meeting - this is something they really want
+We thought about reorganizing the DAOs and using those as the keys for reorganization instead of a barcode. We'd have to try it out, and we'd probably end up having to fix up a bunch of currently existing objects to use a descriptive proxy appropriately.

@@ -1,0 +1,2 @@
+updated form progress view to correct current version
+use partial from version of 2.0.0 for now

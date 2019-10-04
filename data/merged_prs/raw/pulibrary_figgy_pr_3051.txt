@@ -1,0 +1,2 @@
+Remove File manager from numismatic issue
+closes #3046

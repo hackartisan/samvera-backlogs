@@ -1,0 +1,2 @@
+Social media widget remove language parameter
+Fixes #415 Remove language parameter from urls for social media sharing widgets. Ported from Scholar prod. Hat tip @flutterflies :)

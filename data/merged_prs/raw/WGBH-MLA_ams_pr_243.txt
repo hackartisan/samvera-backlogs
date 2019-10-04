@@ -1,0 +1,2 @@
+Adds new migration from batch ingest gem
+New migration changes hyrax_batch_ingest_batch_items.source_data field from varchar to text because it needs to be able to hold more data.

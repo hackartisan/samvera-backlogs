@@ -1,0 +1,2 @@
+Users: allow user to set up 'alerts' for individual terms
+User should be able to receive alert for particular key terms when new summary is uploaded and tagged with that term.

@@ -1,0 +1,2 @@
+Decide on ordering of metadata for the forms. 
+Descriptive summary Now that we have all the metadata in place, we need to decide what order we want it all in. Do we want terms above and below the fold? How do we want to organize them? Do we want them in bigger chunks in the form? An order needs to be established for the way the metadata lays on the form.

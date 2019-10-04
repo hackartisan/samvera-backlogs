@@ -1,0 +1,2 @@
+Edits predicate for extracted_text files
+Also, sets extract_full_text config to false since we will be providing our own extracted_text file. So this stops Hyrax from generating extracted_text for us.

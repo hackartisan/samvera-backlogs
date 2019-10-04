@@ -1,0 +1,2 @@
+Moving where legato is required to allow for the rake tasks to have access
+This moves the require into the path or the app.  When testing on the server this change made the rake tasks work, but the requires in the rake tasks did not.

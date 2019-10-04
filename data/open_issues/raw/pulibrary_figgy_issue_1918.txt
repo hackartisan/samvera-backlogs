@@ -1,0 +1,5 @@
+Failed characterization - file not found
+https://app.honeybadger.io/projects/53391/faults/38688155#notice-summary record in question is a scanned resource from the historical photo collection: https://figgy.princeton.edu/catalog/be474a92-01da-4ee6-9a78-e303a3133252 title: Computer Science, Department of -- Courses -- Student computer operator prepares a box of IBM cards for processing. Princeton at present (June 1967) has two large machines at the heart of its computing facility: an IBM 7094 and IBM Model 67.
+I think this has to do with the file having a pound sign in the name of the file.
+so should we ask the person to change the filename and try again? not sure what we can do on tika.
+We might be able to just pass the argument better - I dunno, we'll have to look into it.

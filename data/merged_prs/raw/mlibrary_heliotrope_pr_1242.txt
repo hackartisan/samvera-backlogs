@@ -1,0 +1,2 @@
+Resolves #1241: Unzip EPUB in the foreground
+Almost perfect.   The unzip is monitored but it is still possible for readers to try to read a file before it is unzip.  In this instance the reader gets nothing and a file not found in epub is logged.  But much better than the previous state of affairs.

@@ -1,0 +1,1 @@
+purged book_needs_handles and use_crossref_xml

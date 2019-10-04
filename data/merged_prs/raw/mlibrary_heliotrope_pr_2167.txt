@@ -1,0 +1,1 @@
+Addresses HELIO-2407 ShareLinkLog bug for 'subdomain'

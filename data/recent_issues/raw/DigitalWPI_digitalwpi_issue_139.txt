@@ -1,0 +1,2 @@
+create backup strategy
+Find best back up solution for the Prod servers: solr fedora mysql and rails content Blocks #138

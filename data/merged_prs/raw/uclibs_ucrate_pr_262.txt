@@ -1,0 +1,2 @@
+Changed links to match scholar, added test.
+Changed navigation bar links, added test, changes verbage in yaml from Users to People. Fixed broken test. Fixes #257  ; Changed links in navigation bar to match the links on scholar, ported over tests. It looks like the new version of Hyrax renamed the profiles routes and objects to users.  I overwrote that to match the naming on Scholar in the hydrax.en.yml from users to people. Changes proposed in this pull request:  Change controls links Change wording to People from users.

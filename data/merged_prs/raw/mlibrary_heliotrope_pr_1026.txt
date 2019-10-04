@@ -1,0 +1,2 @@
+hyrax changes how file_sets are added to monographs
+We used to be able to simultaniously upload a file for a file_set and add it's metadata.  With the "hyrax way" this is no longer the case. Now you first upload the file from the work (monograph) edit/create page, then later add metadata to the uploaded file_set from the file_set edit page. This PR gets us more "hyrax like" with that workflow. That's probably right, but maybe we want to diverge from hyrax with this feature(?)

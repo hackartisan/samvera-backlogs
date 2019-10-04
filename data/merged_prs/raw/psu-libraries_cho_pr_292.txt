@@ -1,0 +1,2 @@
+Adding display transformation base
+Here is another way to do the Factory. Not sure if this better or worse than the validation pattern.  The is a single factory for the system, which can have the transformations set on it.

@@ -1,0 +1,2 @@
+Audio Icon
+Replaces Sufia's default folder with musical notes icon with the volume icon.

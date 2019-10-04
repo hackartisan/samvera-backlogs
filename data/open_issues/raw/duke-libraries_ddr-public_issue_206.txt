@@ -1,0 +1,2 @@
+open seadragon UI behaves awkwardly on mobile touch devices
+At narrow resolutions, the buttons in the open seadragon UI wrap awkwardly. Also, when you tap the seadragon container, the buttons only appear for as long as you hold your finger on the container, making it difficult to press any of the nav buttons. Following screenshot is iPhone 6S portrait mode, iOS9.

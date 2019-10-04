@@ -1,0 +1,2 @@
+Remove conference fields from secondary terms.
+Fixes #1213

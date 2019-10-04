@@ -1,0 +1,2 @@
+Decrease gap between featured and recent works
+When adding the rounded corners the space between the Featured works and Recently added works  has increased. Can we keep the rounded corners, but decrease the space?

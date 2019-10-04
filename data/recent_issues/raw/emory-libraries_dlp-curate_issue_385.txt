@@ -1,0 +1,2 @@
+CSV ingest template should use Curate-based columns
+This will greatly simplify the mapping and QA process. For CSV loading, should we focus on a legacy source agnostic loading template using CSV column names that align with Curate fields, as opposed to column names from our legacy sources? The DAMS-exported column names are long and cumbersome, but we don't have to use them... ACCEPTANCE CRITERIA   CSV ingest template should use Curate-based columns (not DAMS etc.). I.e., each CSV header should match a fieldname in Hyrax.

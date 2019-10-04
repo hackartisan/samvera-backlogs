@@ -1,0 +1,2 @@
+added rubycas client and config options
+fixes #358

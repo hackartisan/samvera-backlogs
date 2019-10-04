@@ -1,0 +1,2 @@
+Hotfix/gabii fulcrum home
+Resolves #1704 Resolves #1706 Adds Gabii to Fulcrum homepage and fixes bug when navigating from monograph catalog page to e-reader after clicking on the 3D model tab.

@@ -1,0 +1,2 @@
+Check for nil in MyFilesValidator
+This class is used to validate that there is a primary file attached. It was not being triggered because the check it is doing needs to be for nil Connected to #1741

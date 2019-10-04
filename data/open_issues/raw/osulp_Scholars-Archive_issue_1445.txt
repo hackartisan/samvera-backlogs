@@ -1,0 +1,4 @@
+File not carrying over after failed save.
+
+@straleyb can you offer a little more detail?
+When you are ingesting a work that has a file attached. Attach the file and fill out the metadata. Make the page error and the file should still be attached, but it isnt.

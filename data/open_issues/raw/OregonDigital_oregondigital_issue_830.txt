@@ -1,0 +1,4 @@
+Try to handle circa dates better in Decade processing function
+Some(all?) circa dates aren't handled by the Decade processor. Try stripping out: ca. circa \d\d\d\d circa  (OHBA has these) before sending the date through.
+We've been trying to use the earliestDate and latestDate predicates for circa dates instead. When we catch them, that is. 
+Good point. I don't think most OSU collections have them (yet). It would be nice to have the Decade code pull from those too if they exist. 

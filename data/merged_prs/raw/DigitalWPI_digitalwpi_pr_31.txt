@@ -1,0 +1,2 @@
+#29/active fedora noid
+Resolves #29  and also added gems required for test suite and modified the rails helper to use capybara and device.

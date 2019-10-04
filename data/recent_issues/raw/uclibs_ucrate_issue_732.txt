@@ -1,0 +1,2 @@
+Export a copy of content for APTrust
+Descriptive summary Put a copy of Fedora files, Fedora database, and Rails database on Isilon for upload to APTrust. This is just a quick and dirty way of getting a fresh copy of our content backed up for now.

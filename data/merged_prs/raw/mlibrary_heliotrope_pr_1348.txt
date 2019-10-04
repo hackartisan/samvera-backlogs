@@ -1,0 +1,1 @@
+Resolves #1326 Better alt text for thumbnails

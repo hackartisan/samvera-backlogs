@@ -1,0 +1,2 @@
+Create Fixity Event in response to Google Pub/Sub
+Should be able to just implement UpdateFixityJob

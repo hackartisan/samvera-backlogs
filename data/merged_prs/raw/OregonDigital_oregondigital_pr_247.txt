@@ -1,0 +1,2 @@
+Feature/contact
+This is for #229 Contact Page. I know Karen's email hardcoded isn't ideal, but I'll create a ticket for enhancing the form later and pulling that out into an environment variable.

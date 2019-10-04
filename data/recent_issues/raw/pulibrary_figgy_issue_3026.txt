@@ -1,0 +1,1 @@
+sequence 0 causes the viewer not to display when deleting the FileSet from the first coin-child that was attached to the numismatic issue.

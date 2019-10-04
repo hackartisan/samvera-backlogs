@@ -1,0 +1,2 @@
+Contrast Errors for Total Size Progress Bar
+Created additional classes for the total size progress bar, so that we wouldn't affect other progress bars in the system with our changes for better color contrast. Fixes #1230

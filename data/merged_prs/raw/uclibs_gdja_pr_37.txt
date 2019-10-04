@@ -1,0 +1,2 @@
+update prod docker-compose
+Fixes #35 Fixes #36

@@ -1,0 +1,3 @@
+Search results page - sort by relevance dropdown
+Options under “sort by relevance” Remove “date modified” and replace with “author of study”
+The sort fields can be configured in catalog_controller.rb, e.g. config.add_sort_field "publication_author_all_tesim desc", label: "author of study \u25BC" config.add_sort_field "publication_author_all_tesim asc", label: "author of study \u25B2"  However, even publication_author_all has been declared as 'multiple: false', it is still indexed as multivalued field in Solr, which preventing it to be a sort field:  "error":{"msg":"can not sort on multivalued field: publication_author_all_tesim","code":400}  Need more investigations on this issue.

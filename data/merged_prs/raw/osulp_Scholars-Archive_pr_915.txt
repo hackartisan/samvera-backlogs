@@ -1,0 +1,2 @@
+added honors college thesis to admin set map and resource type list
+the model for Honor's College Theses already exists, it only needed to be added in config/admin_set_map update HonorsCollegeThesisForm so that it inherits from DefaultForm and include the proper required terms needed for this model added college thesis to resource type list options  closes #893 fixes #876

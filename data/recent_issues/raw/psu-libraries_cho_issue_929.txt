@@ -1,0 +1,2 @@
+Validate role and agent
+https://github.com/psu-libraries/cho/blob/master/app/cho/data_dictionary/creator_field_type.rb#L6 There is a todo for validating the creator and role when they get linked together.  Should we be doing that?

@@ -1,0 +1,2 @@
+Test collection with empty works
+Performs a test where n number of empty works are added to a collection. The test can be run as a rake task: bundle exec rake bundle exec rake cho:collection_test[100] This creates a collection with 100 items in it. If no number is provided, it defaults to 10. A report with the most recent test results is available at: /collection_test Example:

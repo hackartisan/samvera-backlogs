@@ -1,0 +1,1 @@
+fixed the color of the bell icon for notifications

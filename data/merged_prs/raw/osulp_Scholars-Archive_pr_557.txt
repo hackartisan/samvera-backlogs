@@ -1,0 +1,2 @@
+Display filename on the file stats page
+fix #453

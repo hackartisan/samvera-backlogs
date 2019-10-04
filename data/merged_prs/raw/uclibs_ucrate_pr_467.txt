@@ -1,0 +1,2 @@
+Implement accessibility violation fixes
+Fixes #201 This commit is based on the results of the accessibility scan performed by UCIT. It includes fixes for several violations found by the scan, and SHOULD NOT BE MERGED until another scan is completed to check that it fixes all mistakes. Fixes  Changed color of backgrounds to be more drastic for visibility Removed duplicate id's in several places Fixed missing labels in Batch Upload

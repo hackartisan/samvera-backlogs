@@ -1,0 +1,1 @@
+AMS2-497 add new property option index_to_parent and custom index parent class

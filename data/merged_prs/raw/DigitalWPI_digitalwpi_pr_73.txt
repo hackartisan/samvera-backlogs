@@ -1,0 +1,2 @@
+updated rack gem
+resolves #72

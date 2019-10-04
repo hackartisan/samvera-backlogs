@@ -1,0 +1,4 @@
+[10] Design for Work Showpage
+Descriptive summary Current implementation of showpage on Hyrax may or may not be acceptable for OD2. Please:  Evaluate the current showpage determine whether changes should be made Mock up new showpage  Related work #45
+@mccallum can you link to the sketches here please?
+From POSM  - Simple Object: https://www.lucidchart.com/invitations/accept/f06a8909-489f-43cb-b2c7-36b97b260d37  - Books and Docs: https://www.lucidchart.com/invitations/accept/4fb5d2ee-db3b-4e51-b08b-081ae5c8d36a  - Archival Folders: https://www.lucidchart.com/invitations/accept/43325d40-aaf3-40b3-90f8-b253c1efe181  - Oral Histories: https://www.lucidchart.com/invitations/accept/7ae20c32-729d-4acf-8513-93077b60a1ee 

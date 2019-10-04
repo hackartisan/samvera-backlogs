@@ -1,0 +1,2 @@
+Add buttons to collection show and edit pages
+Follow-up PR to #695 which should be merged first before this is. This PR addresses #593.

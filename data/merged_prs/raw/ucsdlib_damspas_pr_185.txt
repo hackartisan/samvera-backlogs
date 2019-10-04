@@ -1,0 +1,1 @@
+Converted test suits from rspec 2 to rspec 3 syntax.(DHH-792)

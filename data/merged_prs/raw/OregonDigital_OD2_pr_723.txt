@@ -1,0 +1,2 @@
+Search Gallery view: Metadata field labels
+Fixes #687

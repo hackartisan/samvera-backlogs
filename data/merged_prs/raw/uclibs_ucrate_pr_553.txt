@@ -1,0 +1,2 @@
+Remove git sha initializer
+Fixes #549 Remove git sha initializer. Changes proposed in this pull request:  rm config/initializers/git_sha.rb

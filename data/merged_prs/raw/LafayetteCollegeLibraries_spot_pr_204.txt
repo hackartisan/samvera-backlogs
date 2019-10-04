@@ -1,0 +1,2 @@
+add an ingest queue to sidekiq
+this should help boost the priority hyrax/generic jobs while also allowing ingests to preempt low-priority tasks like fixity checks closes #197

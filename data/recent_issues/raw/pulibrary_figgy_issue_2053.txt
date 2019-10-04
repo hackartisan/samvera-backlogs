@@ -1,0 +1,2 @@
+Ensure that users can regenerate authorization tokens
+Currently, #2039 does not provide a mechanism for generating new authorization tokens; it simply deletes them permanently when a resource has been deleted, or renders them temporarily invalid when a resource is taken down. There should be such a mechanism (perhaps simply a button) which could be used to regenerate a new token (should the old token be compromised or the user wish to invalidate the current token). Child of #1986 Depends on #2010

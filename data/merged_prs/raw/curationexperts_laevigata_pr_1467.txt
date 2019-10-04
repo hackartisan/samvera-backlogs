@@ -1,0 +1,2 @@
+Never create a blank user object
+Empty user objects cause problems on many display screens. They can get created by accident if Shibboleth sends us empty or malformed data, which seems to happen occasionally. Guard against this and just make the user log in again if this happens. Log that the error occurred so we can provide feedback to Emory systems about how often this is happening. Fixes #1152

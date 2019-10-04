@@ -1,0 +1,2 @@
+Create Bennett Collection in all environments
+Using the Californica Web Application and as an authenticated admin, create the Bennett collection in all 4 environments:   Dev  Test  Stage  Prod    Child of #465 Requires #458

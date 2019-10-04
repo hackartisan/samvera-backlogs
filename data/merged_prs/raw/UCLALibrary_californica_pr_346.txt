@@ -1,0 +1,2 @@
+Update Rack to rack (>= 2.0.6)
+Connected to #347

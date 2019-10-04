@@ -1,0 +1,2 @@
+1.17.0-throttle_catalog-institutionalize_work
+Track requests by the subnet of its ip Throttle limits are set based on:  user signed in? request is to '/catalog?'  For non-signed in users, limits to all paths are strict, while limits to '/catalog?' paths are extreme. For signed in users, all limits are at least 10x looser.  Institutionalize Collections work Add new sub-collections for:  Mason: 7 new sub-collections Conner: 5 new sub-collections  New Institutional collection:  The Department of Psychiatry and Behavioral Sciences

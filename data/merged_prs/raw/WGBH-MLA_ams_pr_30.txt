@@ -1,0 +1,1 @@
+AMS2-16 Test for Admin Set Viewer permissions

@@ -1,0 +1,2 @@
+Adding first_published_at. HYACINTH-196
+Added first_published_at field to dynamic object record Added to serialization methods Displaying field in GUI Field can be set via CSV import first_published_at date is set when object is first published to its primary target  MISSING: Adding first_published_at to MODS serialization. We'll need to do more research on this, but should move forward with this code, so we can start populating the field.

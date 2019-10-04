@@ -1,0 +1,2 @@
+ci: remove hound ci service
+This was causing confusion as it returned different results than rubocop Rubocop itself is not useful anymore for this project. Running it returns ~13k errors  NOTE: I've already disabled Hound in the UI and from the branch protection rules. Fixes #587 Local Checklist   Rebased with master branch?  @ucsdlib/developers - please review

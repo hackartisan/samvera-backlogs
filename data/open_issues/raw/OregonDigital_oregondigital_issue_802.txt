@@ -1,0 +1,3 @@
+N-triples output doesn't include unmapped fields
+If a field is unmapped (a.k.a. Raw Statements) it's not included in the N-triples output. Finishing mapping of fields ( #769 ) may negate this issue.
+We aren't just rendering the raw metadata?  I'd strongly advise we fix this even after mapping all fields.  One of the big needs early on was to be able to store unknown metadata even if that meant we could only edit or delete it from a console. 

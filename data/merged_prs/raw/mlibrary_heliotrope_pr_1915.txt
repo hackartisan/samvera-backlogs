@@ -1,0 +1,2 @@
+Addresses HELIO-1991 Citation tool capitalization inconsistencies.
+Hyrax built-in functionality copied and minimally patched to correct some brain-dead behavior.

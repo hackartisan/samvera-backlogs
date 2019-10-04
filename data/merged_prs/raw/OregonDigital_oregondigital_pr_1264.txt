@@ -1,0 +1,2 @@
+Remove iso639-1 and MARC Languages vocab definitions.
+Fixes #1257 Removes the iso639-1 and MARC language vocabulary definitions from the system, leaving iso639-2 as the only option for the Language CV.

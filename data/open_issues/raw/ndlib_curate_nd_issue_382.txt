@@ -1,0 +1,2 @@
+Sufia-Models Lifeboat
+Analogue to the Curate lifeboat project, move all of the relevant Sufia-Models code into CurateND.   Datastreams   Concerns  Specs    Models   Concerns  Specs    Lib   Concerns  Specs    Initializers  Rake tasks  Gem dependencies

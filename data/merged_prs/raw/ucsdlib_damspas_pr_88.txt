@@ -1,0 +1,2 @@
+Refactored codes to make all other components to use the full title with non-filing characters consistently.
+https://lib-jira.ucsd.edu:8443/browse/DHH-629

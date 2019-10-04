@@ -1,0 +1,6 @@
+AD95 compliance
+CHO data compliance for AD95 AWS can't use level 4 (credit cards), and possibly level 3 (HIPA). I don't think CHO will have any data  like that?
+CHO shouldn't have HIPA, but it may have PII. Access derivatives will have it redacted, but the digital masters won't.
+This also affects AWS cloud service storage, if we elect to store files in S3 for example.
+We need to keep @lindak716 updated on this, she's involved in coordinating library information security per [AD95](https://policies.psu.edu/policies/ad95).
+We need to get more information from PSU-involved groups and find out what the correct course of action is.

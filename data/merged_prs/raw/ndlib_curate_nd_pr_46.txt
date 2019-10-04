@@ -1,0 +1,2 @@
+Define default build identifier
+Closes planning/issues/95

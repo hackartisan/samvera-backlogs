@@ -1,0 +1,2 @@
+Move feature specs to JS-free when possible.
+Locally this shaves off ~ 50 seconds from the test suite.

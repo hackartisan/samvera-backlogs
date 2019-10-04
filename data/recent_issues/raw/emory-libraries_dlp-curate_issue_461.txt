@@ -1,0 +1,2 @@
+Date Created: investigate alternatives to storing "XXXX" string in Fedora
+The string XXXX may not be fully machine readable in EDTF. Date Created requires an entry on the form, but dates can be truly unknown. We have a convention of entering in XXXX in the form UI to indicate an unknown date, but may want to consider alternatives such as a UI option that lets user check a box that says "Unknown", but not storing that value in metadata.

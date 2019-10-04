@@ -1,0 +1,2 @@
+HELIO-2813 - Implement fulcrum enhanced resources display for EBC
+Adds an external stylesheet to the fulcrum public folder that can be referenced by CSB; modifies CSB to inject stylesheet if the EPUB is from Michigan/EBC

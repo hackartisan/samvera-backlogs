@@ -1,0 +1,3 @@
+Undo resque fixes that were addressed upstream
+
+Well, the issues were not really addressed upstream. When I apply their fixes things still don't work on production. 

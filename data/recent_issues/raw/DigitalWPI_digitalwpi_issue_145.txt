@@ -1,0 +1,2 @@
+Make changes to reflect QA
+There are few changes that need to made to the repo for it work in production mode on QA. Make these changes in our repo and push the code instead of changing them on QA.

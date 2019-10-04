@@ -1,0 +1,2 @@
+Add a field for the File's use at upload
+File upload form has a dropdown per file that is the file's pcdm_use.  Create a system test for the upload form that uploads many files, and assigns them different uses.

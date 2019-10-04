@@ -1,0 +1,2 @@
+enable entry of multiple values for degree_name
+fixes #1291 TODO:   add/update specs for actor, controllers, presenters, and views  update validation for degree_name to take into account multiple values from a local authority  expose multiple degree_name values in the show page  fix/add specs

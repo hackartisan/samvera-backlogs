@@ -1,0 +1,2 @@
+Activity Streams
+CHO should generate W3C compliant activity streams for each  collection work-type library creator  Users should be able to subscribe to the streams through:  email RSS MMS social media  Activity stream notifications should be configurable for:  new objects edited objects

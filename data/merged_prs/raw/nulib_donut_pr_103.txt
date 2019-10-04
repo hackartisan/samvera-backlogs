@@ -1,0 +1,2 @@
+ignore the hyrax override file
+the create_with_remote_files_actor file is taken from hyrax so we could change the settings on one line, but it's causing rubocop to throw up some errors. We should probably just ignore it for now (and until we can figure out a better, long term fix for overriding this file) Fixes #102

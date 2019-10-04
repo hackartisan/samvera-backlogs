@@ -1,0 +1,2 @@
+Remove transition
+This is jumpy. I think we should remove it until a later data when we can focus on it being smoother.

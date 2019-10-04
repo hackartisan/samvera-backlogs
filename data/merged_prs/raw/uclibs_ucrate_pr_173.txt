@@ -1,0 +1,2 @@
+Add scholar user profile fields
+Fixes #172 Add user's identity and contact fields on profile editing page Add the attributes to the profile controller, factories user file and create a new file in db migrate file to add columns for the attributes. Changed view test and feature test for the profile edit page.

@@ -1,0 +1,2 @@
+Label spatial property as place name
+Close #1192

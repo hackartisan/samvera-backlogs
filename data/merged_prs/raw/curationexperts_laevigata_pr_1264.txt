@@ -1,0 +1,2 @@
+Clear out subfields when changing school
+This commit clears out the subfields when you change the school. Changing the department does this, but the user might change the school as well.

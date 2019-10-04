@@ -1,0 +1,2 @@
+Fix GeoBlacklight titles for imported scanned maps
+Closes #1725

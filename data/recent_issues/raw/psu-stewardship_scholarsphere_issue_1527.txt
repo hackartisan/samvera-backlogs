@@ -1,0 +1,2 @@
+Breadcrumbs have contrast issues
+Bread crumbs are dark gray on light gray and have contrast issues. refs #1526 - Likely the same solution

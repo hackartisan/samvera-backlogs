@@ -1,0 +1,2 @@
+when coin is in a draft state event generator publishes a delete message
+closes #2818

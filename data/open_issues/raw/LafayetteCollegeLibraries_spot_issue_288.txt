@@ -1,0 +1,2 @@
+add "maintenance mode"
+i've seen this on a few apps: display a message on the front page when there's some maintenance happening. kind of a fall-back when services fail.

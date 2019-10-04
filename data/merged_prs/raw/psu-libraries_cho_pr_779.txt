@@ -1,0 +1,2 @@
+Prefer rm_f over unlink
+Description Calling .unlink on tempfiles was causing some failures because sometimes the file will have been deleted by another process. Using rm_f ignores any errors, and ensures the file is deleted.

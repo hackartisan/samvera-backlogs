@@ -1,0 +1,2 @@
+Work Edit form needs to (show/edit) which fileset is used as reprenstative
+ACCEPTANCE When a work has one or more filesets attached   I can see which fileset is selected as the representative for the work When a work has more than one fileset attached  I can edit which fileset is used as the representative for the work in search results, collection listings, etc.

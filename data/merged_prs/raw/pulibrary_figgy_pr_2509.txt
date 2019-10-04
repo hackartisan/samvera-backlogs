@@ -1,0 +1,2 @@
+Adding visibility badge without verbose note, using in tabular member lists
+Fixes #2507

@@ -1,0 +1,2 @@
+Fix saving logical structure.
+Closes #3166

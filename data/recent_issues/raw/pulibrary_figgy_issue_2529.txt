@@ -1,0 +1,2 @@
+Create Playlist button should migrate `part_of` of the Recording to the Playlist
+Dan was expecting to be able to search AMS315 and have it pop up, but it wouldn't because it doesn't migrate that to the playlist.

@@ -1,0 +1,2 @@
+Add custom ability for Hydra role management
+Descriptive summary Need to add custom ability in our code for admins to be able to manage users and their roles via the hydra-role-management gem. https://github.com/samvera/hyrax/wiki/Making-Admin-Users-in-Hyrax#add-new-abilities Expected behavior Admin users can access localhost:3000/roles Actual behavior Admin user gets 'not authorized' error at localhost:3000/roles

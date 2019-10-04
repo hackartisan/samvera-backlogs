@@ -1,0 +1,2 @@
+Fix file set cloud fixity display.
+For IDs which aren't in a PreservationObject it was returning all events.

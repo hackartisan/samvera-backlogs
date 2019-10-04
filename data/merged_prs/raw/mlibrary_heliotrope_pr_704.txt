@@ -1,0 +1,1 @@
+Resolves #678: Deleted app/views/layouts/application.html.erb

@@ -1,0 +1,2 @@
+Update UV config
+Fixes location of UV config file Addes branchNodesSelectable option for when UniversalViewer/universalviewer#606  is resolved  Fixes  #1470 Refs #859

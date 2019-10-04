@@ -1,0 +1,2 @@
+Assign admin set according to subfield when necessary
+Sometimes it isn't possible to know the admin set just from the school and department, we must also look at the subfield. Fixes #844

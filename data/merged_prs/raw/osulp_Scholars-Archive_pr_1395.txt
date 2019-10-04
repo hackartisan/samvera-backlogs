@@ -1,0 +1,2 @@
+Feature/update batch upload object
+Fixes #1392 This adds the set_default piece of code to the batch upload of items.

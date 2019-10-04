@@ -1,0 +1,2 @@
+update cozy-sun-bear
+Pointing gem file to latest version of CSB

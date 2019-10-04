@@ -1,0 +1,2 @@
+added missing terms in dataset form behavior
+fixes #1086

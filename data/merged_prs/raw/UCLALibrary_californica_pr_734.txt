@@ -1,0 +1,2 @@
+fix ingest process
+Refactors parts of the ingest process to fix a bug that prevented finalization tasks from being performed.

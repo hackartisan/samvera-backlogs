@@ -1,0 +1,2 @@
+set umask in umich deploy to staging to allow for group read/write
+When deploying from a UM server to nectar this week, I continually ran into permission issues when cap wanted to read or write to tmp and other directories. I found you can set the umask in the cap config file: http://stackoverflow.com/questions/21465706/set-umask-for-remote-commands It would be good if Seth and Conor could test this first before merging.

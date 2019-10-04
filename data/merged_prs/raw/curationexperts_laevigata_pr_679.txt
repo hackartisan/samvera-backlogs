@@ -1,0 +1,2 @@
+Add paragraphs to home page
+Closes #608

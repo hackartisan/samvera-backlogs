@@ -1,0 +1,2 @@
+Improve download survey logs
+Why Correcting this behaviour help with tracking errors similar to this one #158. How this behaves at present At present  the survey error are directed to Apache error.log See this code pushes error to STD that is captured by passenger and send to apache error.log file. How this could be reimplemented I think we should rather use default application RAILS logger see for example this approach.

@@ -1,0 +1,2 @@
+Jobs are failing
+Jobs are failing on QA server. There are 8 failed jobs in sidekiq with the error 2019-05-01T16:03:06.859Z 871 TID-1lyi1z WARN: ActiveJob::DeserializationError: Error while trying to deserialize arguments: uninitialized constant Etd I suspect ActiveJob is breaking because of our recent gem upgrades. Will need to dig deeper

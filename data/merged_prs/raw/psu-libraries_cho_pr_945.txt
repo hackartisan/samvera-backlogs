@@ -1,0 +1,2 @@
+Enable detection of hard-coded strings in partials
+Description Check for, and disallow, hard-coded strings in partials via erb-lint. This ensures our i18n file is always current. Connected to #507

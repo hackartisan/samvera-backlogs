@@ -1,0 +1,2 @@
+Add generic thumbnail and restricted view info to search objects view
+Fixes #411  ; refs #411 Add grey generic thumbnails and restricted view access info for objects of metadata data-only visibility collections. @ucsdlib/developers - please review

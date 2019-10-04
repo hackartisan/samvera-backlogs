@@ -1,0 +1,2 @@
+Resolves HELIO-2211: Allow Press Admins access to Reports on dashboard
+can :read, :admin_dashboard

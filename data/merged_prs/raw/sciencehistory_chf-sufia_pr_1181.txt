@@ -1,0 +1,2 @@
+update rack version
+For possible vulnerabilities https://rubysec.com/advisories/rack-CVE-2018-16470 https://rubysec.com/advisories/rack-CVE-2018-16471

@@ -1,0 +1,3 @@
+Change or Recover password should not be an option for UO/OSU authenticated users
+Descriptive summary On current implementation of authentication, UO and OSU authenticated users are presented with an option to change their password. This should not be an option if a user is authenticated  in these ways, as OD is not responsible/empowered to make password changes in these contexts. Expected behavior UI should not allow these options if the user is logged in via UO or OSU auth.
+Link off to help for each in this matter.... either directly, or through a help/FAQ maintained by OD.  Example: https://oregondigital.gitbook.io/help/

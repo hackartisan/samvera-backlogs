@@ -1,0 +1,2 @@
+Dltp 955 formatted abstracts don t displ
+Claiming issue DLTP-955 @af8cd0a9212f377abfe49d6cb60096aa08039ba8 $ ./script/start-issue DLTP-955 [skip ci] rich_text formating on abstract in catalog listing @fc14a1dbc70c485d15bfe83e1f1d46636903a3bc Closing issue DLTP-955 @21fdd27c98f82d7e80245c5e3477820eb8170136 $ ./script/close-issue DLTP-955

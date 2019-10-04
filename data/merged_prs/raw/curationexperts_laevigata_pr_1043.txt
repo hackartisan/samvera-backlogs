@@ -1,0 +1,2 @@
+Add a rake task for re-creating derivatives
+This adds a rake task for re-creating derivatives. It is based on the rake tasks that was created for the epigaea project: https://github.com/curationexperts/epigaea/blob/master/lib/tasks/recreate_derivatives.rake

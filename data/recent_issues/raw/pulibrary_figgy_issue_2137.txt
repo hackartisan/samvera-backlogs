@@ -1,0 +1,2 @@
+Recording show page should have links to all playlists containing tracks from that recording
+child of #1986

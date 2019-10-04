@@ -1,0 +1,2 @@
+Remove duplicate solr config files
+Code cleanup:  We have solr config files in 2 different directories:  solr/conf and solr/config.  From what I can tell, only solr/config is really being used, so I deleted the other directory.

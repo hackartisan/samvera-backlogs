@@ -1,0 +1,2 @@
+check cpds for deleted children
+I just found a cpd that has a deleted child. At the moment, this means that the child is still showing up on the list in the show page, and if the user clicks on it she will get a login page. Deleted children need to be removed from the parents before migration otherwise the parents will fail.

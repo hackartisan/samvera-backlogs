@@ -1,0 +1,2 @@
+purge problematic plaintext posting of peoples passwords
+Fixes #188

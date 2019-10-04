@@ -1,0 +1,1 @@
+Turn import_from_s3 command line tool into a wrapper around an ActiveJob

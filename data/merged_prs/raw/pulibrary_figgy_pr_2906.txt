@@ -1,0 +1,2 @@
+Google Cloud Fixity Checking
+Implements cloud fixity checking via the following workflow:  Figgy queues up jobs to be checked in a Google Pub/Sub Topic Cloud function (deployed via cap staging deploy:google_cloud_function) runs and publishes status to a different Google Pub/Sub Topic rake fixity:run_worker picks up status jobs on pub/sub and forwards them to Sidekiq for processing.  Closes #2895

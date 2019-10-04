@@ -1,0 +1,2 @@
+Refactors the PlumSchema into Schema Modules
+Resolves #20 and #7 by addressing the following:  Refactoring metadata within PlumSchema into Schema::* Modules Adds explicitly defined "suppressed" attributes for decorated Valkyrie Resources

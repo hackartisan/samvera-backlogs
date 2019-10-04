@@ -1,0 +1,2 @@
+Add icon for Simple Resource
+Maybe just an image icon, like the one for ScannedResource but without the book part

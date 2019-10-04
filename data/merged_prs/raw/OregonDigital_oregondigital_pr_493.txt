@@ -1,0 +1,2 @@
+General CSS cleanup
+Fixes various CSS bugs Fixes #391 Fixes #412 Fixes #413 Fixes #481 Fixes #482 Fixes #483

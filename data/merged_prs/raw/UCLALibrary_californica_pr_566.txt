@@ -1,0 +1,2 @@
+Use exact case in create_new_work spec
+Depending on the environment you run tests in (and the drivers used by capybara), tests for text on pages may or may not be case sensistive. I've been getting the error: Failures:  Create a Work a logged in user should text "Add New Work" Failure/Error: expect(page).to have_content "Add New Work" expected to find text "Add New Work" in v"Californica Switch language... ". (However, it was found 1 time using a case insensitive search.)  The text actually rendered to the page is "Add new work" instead of "Add New Work"

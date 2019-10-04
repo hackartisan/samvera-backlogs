@@ -1,0 +1,2 @@
+Ensures that `BulkIngestService#attach_dir` can only parse directory content using an absolute path
+Resolves #741

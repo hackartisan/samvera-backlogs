@@ -1,0 +1,1 @@
+Additional caching of methods and views

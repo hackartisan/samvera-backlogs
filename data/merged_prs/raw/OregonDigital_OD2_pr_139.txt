@@ -1,0 +1,2 @@
+makes entrypoint more dynamic and allows for production or staging builds
+This gives the build server the ability to generate Docker images for staging and production environments (without dev/test gems which can cause problems, like having spring in the mix). .env automatically sets the RAILS_ENV to development locally, otherwise to build production (docker build --build-arg RAILS_ENV=production .)

@@ -1,0 +1,2 @@
+Fix truncated embargo notification message
+This fixes a bug where the embargo notification message was being truncated. Fixes #1859

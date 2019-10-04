@@ -1,0 +1,2 @@
+delete any subject field entry with value ab8236da-b222-4d4f-aedb-555456d10401
+this term has been deleted and reindexing errors if it comes up.

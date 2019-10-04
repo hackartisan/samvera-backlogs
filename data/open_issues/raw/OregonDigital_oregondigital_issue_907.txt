@@ -1,0 +1,7 @@
+Fix mirrored/rotated images
+From OD meeting on 11/16: We need to figure out what we’re going to do about mirrored or rotated images (problem with derivatives) Once @jechols gets a list together, try to get the bulk of them with image magic flags (will require diving into code to see how we’re using image magic)
+I just exported a bunch of pids that need to be rotated / mirrored, and noticed OSU just started looking at their collections.  I guess I'll update with a new file once they're done, but for now here's pids if anybody has time to try and figure out what to do with them. [rotatepids.txt](https://github.com/OregonDigital/oregondigital/files/44264/rotatepids.txt) 
+Final items to deal with: - "oregondigital:df70c1314" - "oregondigital:df70bz928" - "oregondigital:df70db23g" - "oregondigital:df70c455b" - "oregondigital:df70c4542" - "oregondigital:df70c049c" - "oregondigital:df70c185f" - "oregondigital:df70c0793" - "oregondigital:df708z81d" - "oregondigital:df709420w" - "oregondigital:df70d6477" - "oregondigital:df70d648h" - "oregondigital:df70d591k" 
+New complete list:  [rotatepids.txt](https://github.com/OregonDigital/oregondigital/files/61896/rotatepids.txt) 
+One item just added: - "oregondigital:w0892b31c"  New full list:  [rotatepids.txt](https://github.com/OregonDigital/oregondigital/files/64694/rotatepids.txt) 
+Linda will take a look at this. 

@@ -1,0 +1,2 @@
+Add support for reindexing to another Solr Core.
+Provide the core URL via CLEAN_REINDEX_SOLR_URL

@@ -1,0 +1,2 @@
+Added Format to responses and mappings.
+Fixes #930

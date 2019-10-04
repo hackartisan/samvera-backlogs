@@ -1,0 +1,2 @@
+Rename 'identifier' field to 'legacyFileName' in the import XML.
+This is in preparation for work on story #83.  We want to use the DC identifier to store the DOI.

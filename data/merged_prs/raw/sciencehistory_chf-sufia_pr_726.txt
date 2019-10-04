@@ -1,0 +1,1 @@
+Pull riiif's new graphicsmagic functionality into our app

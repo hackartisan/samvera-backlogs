@@ -1,0 +1,2 @@
+trap nil numismatic issue for pub_created_display
+trap nil numismatic issue for pub_created_display when a coin is not attached to a numismatic issue closes #2788

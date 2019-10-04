@@ -1,0 +1,2 @@
+Playlists have tracks
+Tracks can be added or removed Tracks are ordered Removing a track from a playlist does not delete the FileSet Track titles should default to the FileSet label, but should be able to be customized to the playlist context without updating the FileSet Tracks should not show up in search results  Child of #2066

@@ -1,0 +1,2 @@
+Wrap manifest creation in job
+Right now it's executed synchronously with "perform_now" so that its timing will be tracked as part of the parent job. In the future it will be executed asynchronously.

@@ -1,0 +1,2 @@
+Only return Asset work types in search results.
+Modifies SearchBuilder#models to only return Asset model. Temporarily tells Gemfile to fetch Hyrax from WGBH-MLA/hyrax fork in Github. Once the patch to Hyrax is backported to 2.x and published, we can fetch Hyrax from rubygems.org again.  Also,  Fixes Create Asset with Digital Instantiation spec.

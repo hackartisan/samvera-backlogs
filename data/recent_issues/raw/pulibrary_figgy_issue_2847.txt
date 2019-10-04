@@ -1,0 +1,2 @@
+Manage numismatic place as a non-nested resource
+NumismaticPlaces are currently nested resources within NumismaticIssues. They should not be linked in that manner, but instead as manageable resources.

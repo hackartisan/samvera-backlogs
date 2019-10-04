@@ -1,0 +1,2 @@
+Fix ingest error: wrong number of arguments (given 1, expected 0) 
+Background: this started happening after #333 got fixed and merged. So I guess something bad got introduced. Not sure what. Done when: batch item's don't fail with that error anymore.

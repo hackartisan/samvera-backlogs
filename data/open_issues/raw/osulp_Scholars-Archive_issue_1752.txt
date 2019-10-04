@@ -1,0 +1,2 @@
+Make language metadata on collections user-friendly
+Descriptive summary Language metadata lists URI.  Expected behavior Should reflect the value of the URI instead as it does at the item level (English [eng]) and not be clickable. Actual behavior Lists a URI and if clicked, searches the repo for other items with that URI.

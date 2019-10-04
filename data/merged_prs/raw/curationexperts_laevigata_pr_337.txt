@@ -1,0 +1,2 @@
+About me save js
+This PR has About Me save and validation working with the dynamic School fields and committee affiliations. I altered the UI a bit for the committees, I think it's more comfortable and obvious this way (and was the most straightforward way for me to code and test), but want to hear what others think, especially @shanitajohn.

@@ -1,0 +1,2 @@
+HELIO-2934, HELIO-2220
+Add ga event tracking to Work tabs Added dynamic ga event tracking for facets

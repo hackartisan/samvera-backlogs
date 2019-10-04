@@ -1,0 +1,2 @@
+Agent resource
+Create a Valkyrie resource that identifies a person. The person would be used as a creator, collaborator, or other, and can be related to multiple works and collections. Child of #87

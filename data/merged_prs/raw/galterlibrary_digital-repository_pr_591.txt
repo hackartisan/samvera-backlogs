@@ -1,0 +1,1 @@
+md doc explaining user stats. closes #564

@@ -1,0 +1,2 @@
+Issue 3985 raises an error when importing
+Backtrace line 7 of [PROJECT_ROOT]/app/change_sets/dynamic_change_set.rb: new line 367 of [PROJECT_ROOT]/app/services/numismatics_import_service.rb: block in create_issue line 116 of [PROJECT_ROOT]/app/change_set_persisters/change_set_persister.rb: block (2 levels) in buffer_into_index  View full backtrace and more info at honeybadger.io

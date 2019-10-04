@@ -1,0 +1,2 @@
+Include a test for non-repeatable title field overwrite.
+Descriptive summary Since we are explicitly overwriting title from repeatable to singular, this should have some test coverage.   Test coverage will probably need to be in the spec test. Expected behavior On the create and edit form Title should be a singular field.  There needs to be test coverage for this. Actual behavior No test coverage.

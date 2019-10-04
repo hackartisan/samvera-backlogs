@@ -1,0 +1,2 @@
+Resolves HELIO-1826: Remove Monograph Form Share Tab
+Copied _guts4form.html.erb from Hyrax and commented out "Share" tab code.

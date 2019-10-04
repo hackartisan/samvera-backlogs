@@ -1,0 +1,2 @@
+Issue 150 author display order
+fixed #150

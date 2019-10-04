@@ -1,0 +1,2 @@
+unencoding an encoded url
+fixes #77 so here's a deceptively simple fix to a weird issue. Basically the AWS gem's presigned url call returns an encoded URL, but later on in the actor stack in hyrax the url gets encoded again and messes with the url and it no longer resolves. The proper, long term fix would be to handle both encoded and non-encoded urls in hyrax, but that would require more time and work. So for right now i just decode the url and pass it along the actor stack, which seems to work fine.

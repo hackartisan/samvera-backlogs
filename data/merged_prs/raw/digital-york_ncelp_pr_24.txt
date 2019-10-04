@@ -1,0 +1,2 @@
+get customized indexer working
+index all authority texts in solr

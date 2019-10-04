@@ -1,0 +1,2 @@
+Restore the Manage Users option to admin dashboard
+Fix the user profile path link Add the Manage Users link to the admin dashboard Add a feature test Fixes #1237 Fixes #1175 Fixes #1243

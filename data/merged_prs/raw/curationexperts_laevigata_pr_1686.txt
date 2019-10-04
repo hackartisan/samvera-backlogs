@@ -1,0 +1,2 @@
+Remove unused show actions
+Do not give the user buttons for actions we don't want them clicking. Remove Add to Collection, Add Child Work, etc. Per request from Mark

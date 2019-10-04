@@ -1,0 +1,2 @@
+First pass at show view, using migrated legacy data
+Addresses #166 and #306

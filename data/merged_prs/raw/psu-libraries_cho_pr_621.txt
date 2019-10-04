@@ -1,0 +1,2 @@
+Nicer validation error messages
+Overrides ActiveModel::Errors defaults to create custom error messages using locale files.

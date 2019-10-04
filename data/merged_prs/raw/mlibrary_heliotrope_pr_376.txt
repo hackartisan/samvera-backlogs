@@ -1,0 +1,2 @@
+Custom navbar to match Elderberry wireframes
+Closes #315 In addition to modifying partials to bring the header, navigation, and press header inline with Elderberry wireframes, this PR:  Introduces a class based approach to handle "press themes" in Fulcrum. Search is removed from the top-level now and only available at the Press level and below. Maintains the parent press navigation at the Monograph and Asset level

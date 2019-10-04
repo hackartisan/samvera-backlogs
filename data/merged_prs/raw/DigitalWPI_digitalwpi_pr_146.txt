@@ -1,0 +1,2 @@
+#145/qa changes
+This PR resolves #145 and #128. Also, added tests related to collections.

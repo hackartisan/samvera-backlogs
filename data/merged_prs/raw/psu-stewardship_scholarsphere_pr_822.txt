@@ -1,0 +1,2 @@
+Display Penn State institution label, ref #811
+Registered works' visibility was displaying as "Institution Name" instead of Penn State in certain views. An updated locales file solved the problem, but refactoring some of our feature tests expanded test the test coverage.

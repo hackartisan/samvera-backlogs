@@ -1,0 +1,2 @@
+Invalid PhysicalInstantiations are not getting saved; but their BatchItem's are "completed"
+Done when: validation errors on PhysicalInstantiations, or any other model, show up on batch items as failures, with the error message displayed. Background: if a model has validation errors (and was not saved) after going through the actor stack, we need to re-raise an exception to be caught by the batch ingest gem.

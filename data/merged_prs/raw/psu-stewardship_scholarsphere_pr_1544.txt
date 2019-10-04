@@ -1,0 +1,2 @@
+Overriding blacklight to allow for blank values in the resource type
+Added a view helper, a search builder override and a render helper ref #1396 Before with blank:  After with 'unspecified'  Unspecified selected as a filter

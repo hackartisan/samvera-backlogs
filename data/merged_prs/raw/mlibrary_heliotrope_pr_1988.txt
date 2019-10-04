@@ -1,0 +1,2 @@
+fix monograph single/batch forms
+Resolves HELIO-2066

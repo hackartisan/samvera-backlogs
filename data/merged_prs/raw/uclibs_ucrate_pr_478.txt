@@ -1,0 +1,2 @@
+Enables the collection facets
+Fixes #477 Add the collection facet back to the catalog controller. Adds the test back.

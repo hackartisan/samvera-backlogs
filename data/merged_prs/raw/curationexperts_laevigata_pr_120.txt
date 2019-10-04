@@ -1,0 +1,2 @@
+Use correct path to dashboard in homepage
+Use the Hyrax 1.0 path to the dashboard, rather than the Hyrax 2.0 path. Fixes #117

@@ -1,0 +1,2 @@
+Propose cloud storage strategy
+Child of #1551 Blocks #912 Create a proposal for cloud storage preservation, and get agreement from stakeholders and finance.

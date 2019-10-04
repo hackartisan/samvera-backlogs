@@ -1,0 +1,2 @@
+Removing css from precompiled assets so the deploy will complete
+Allows Capistrano to deploy correctly.

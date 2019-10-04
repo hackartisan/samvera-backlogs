@@ -1,0 +1,1 @@
+allows web console to be used in development environment in docker

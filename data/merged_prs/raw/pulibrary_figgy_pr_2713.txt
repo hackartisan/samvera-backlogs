@@ -1,0 +1,2 @@
+Cicognara MARC export improvements
+Manifest 856 should include a subfield q declaring it to be JSON/IIIF Close XML write to ensure valid XML DCL Number 024 should have "8" for first indicator  Fixes #2684

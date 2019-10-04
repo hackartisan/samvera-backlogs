@@ -1,0 +1,2 @@
+Resource details page looks strange
+The resource details page looks a bit odd, e.g. all the label have underscores in them. Is this still being worked on?

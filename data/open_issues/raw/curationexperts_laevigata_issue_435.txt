@@ -1,0 +1,9 @@
+Pull faculty names and NET IDs from ESD
+Data from ESD is being exported to a JSON file  Emory Committee Member field should populated from this file  Emory Committee Chair/Thesis Advisor field should be populated with this file
+One piece of additional acceptance criteria is captured in ticket #483
+Blocked by work on committee member and committee chair fields in story #474.
+This story will be unblocked after this PR is merged into master:  https://github.com/curationexperts/laevigata/pull/621
+We should know how this work needs to be implemented, but this functionality is not required for launch.
+@shanitajohn and @rotated8  I understood we were putting this on hold for awhile while Emory creates a local authority for these. Is that right? If so, can we move this back to the backlog?
+@bess Yes, that was my understanding, but I would love confirmation from @rotated8, too. 
+Yep, sounds good! 

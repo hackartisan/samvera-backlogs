@@ -1,0 +1,1 @@
+Add admin set creation details to README

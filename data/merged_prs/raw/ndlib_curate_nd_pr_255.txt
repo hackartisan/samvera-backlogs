@@ -1,0 +1,2 @@
+Three minor fixes
+Adding guidance explaining where files come from Fixing detail view style collision Refinements to content licence help

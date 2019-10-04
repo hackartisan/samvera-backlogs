@@ -1,0 +1,2 @@
+Remove UPLOAD_PATH from test environment settings
+These are keeping tests from passing in my local environment now that we've updated how they're set.

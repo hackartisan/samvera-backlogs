@@ -1,0 +1,2 @@
+differentiate between uploaded files
+files submitted via the primary pdf form should be marked 'primary' files submitted via the supplemental files form should be marked 'supplementary' ensure the controller knows how to handle that

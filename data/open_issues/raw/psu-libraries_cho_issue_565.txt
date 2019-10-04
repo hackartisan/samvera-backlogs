@@ -1,0 +1,2 @@
+Remove requirement for service files in import bags
+For MVP, all _service files must be supplied and the bag validation looks for them (#561). CHO 1.x will generate derivatives and this validation requirement will need to be removed. Dependent: #548

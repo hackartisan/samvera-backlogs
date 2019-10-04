@@ -1,0 +1,2 @@
+Administrative metadata
+Adds Schema::Administrative module, which is included in the Image model Adds hyrax-spec gem to Gemfile Adds Vocab::Donut module for local RDF property definitions Adds 'a model with admin schema' shared example Updates Image form and presenter to include administrative metadata

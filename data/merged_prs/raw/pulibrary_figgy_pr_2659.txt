@@ -1,0 +1,2 @@
+Track file sets being created on ChangeSet
+The change_set_persister is re-used for multiple interactions with a variety of ChangeSets. As such, tracking it there was leading to the created_file_sets getting wiped, resulting in no characterization being run. Closes #2654

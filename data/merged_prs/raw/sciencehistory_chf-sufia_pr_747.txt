@@ -1,0 +1,2 @@
+use response.body=stream rails api to get quicker HTTP headers
+samvera/hydra-head#421

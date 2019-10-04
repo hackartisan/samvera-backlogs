@@ -1,0 +1,2 @@
+Collection PNG File for Masonry and Slideshow Views
+Fixes #408 Removes a lot of old images, creates a service for the collection thumbnail, adds new collection png. Adds indexer and refs image path, fixes rubocop errors. Collection indexer inherits from CC Indexer, namespace Sufia for better compatibility, updates collection.rb for new collection indexer. Fixes the test by using ensuring that the thumbnail path starts with assets/collection

@@ -1,0 +1,2 @@
+Ensures that updating EphemeraFolders publishes RabbitMQ messages
+Resolves #244   Cover cases where RabbitMQ messages for updating EphemeraFolders (and FileSets)  Cover cases where RabbitMQ messages for creating FileSets in EphemeraFolders  Cover cases where RabbitMQ messages for deleting EphemeraFolders

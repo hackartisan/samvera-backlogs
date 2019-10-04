@@ -1,0 +1,2 @@
+Upgrade yarn packages to address security issues
+https://nvd.nist.gov/vuln/detail/CVE-2018-16492 https://nvd.nist.gov/vuln/detail/CVE-2018-14732 https://nvd.nist.gov/vuln/detail/CVE-2018-16469 https://nvd.nist.gov/vuln/detail/CVE-2018-1000620 https://nvd.nist.gov/vuln/detail/CVE-2018-3728

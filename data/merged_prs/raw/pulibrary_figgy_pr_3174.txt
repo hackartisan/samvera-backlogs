@@ -1,0 +1,2 @@
+Use an instance instead of a class for RemoteRecord
+Will later allow us to delete MediaResource

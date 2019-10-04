@@ -1,0 +1,2 @@
+Add old FileSet IDs to Canvases
+Closes #687.

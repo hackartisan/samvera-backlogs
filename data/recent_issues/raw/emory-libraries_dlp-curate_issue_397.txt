@@ -1,0 +1,2 @@
+See that a persistent identifier has been generated for the work and files I deposited 
+Additional notes:   Can use ETD example for 0.3 and enhance in 0.5  Discuss persistent ID minting and impact on testing (Can we do a test prefix?)  Functional test on IDs being minted

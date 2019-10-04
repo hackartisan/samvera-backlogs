@@ -1,0 +1,1 @@
+Stop using the invalid audio/wav mime type, use audio/x-wav instead

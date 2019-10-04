@@ -1,0 +1,2 @@
+Restructure work show page overall
+Fixes #610 Fixes #607 Start two-column design from wireframes.

@@ -1,0 +1,2 @@
+File uploader not working with Safari 12.0
+It shows an internal error on Safari 12.0 (13606.2.11)

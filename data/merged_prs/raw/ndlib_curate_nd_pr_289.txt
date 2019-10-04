@@ -1,0 +1,2 @@
+Download error page
+As pointed out by @cdeluca495 the downloads controller does not benefit from the error handling present in much of the rest of the application. I added a simple capture for Hydra::AccessDenied and a little logic to make the views aware if an access token involved in the request.

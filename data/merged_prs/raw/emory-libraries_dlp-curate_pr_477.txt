@@ -1,0 +1,2 @@
+Fix for Collection visibility not saving
+The visibility property needs to be present in the Form class.

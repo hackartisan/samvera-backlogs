@@ -1,0 +1,2 @@
+Initial Shibboleth integration
+Added PPID to User model Added FactoryBot and FFaker for tests Added omniauth to user model Created a simple devise view for login testing Integrated Shibboleth Into Curate Local environment still relies on email and password Closes #41

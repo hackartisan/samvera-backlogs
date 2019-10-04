@@ -1,0 +1,1 @@
+HELIO-2293 Add press to Platform, require Platform for reports

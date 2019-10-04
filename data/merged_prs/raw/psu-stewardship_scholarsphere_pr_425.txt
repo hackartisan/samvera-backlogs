@@ -1,0 +1,2 @@
+Remove Slideshow View
+Comment out the slideshow config in the catalog controller to remove it from the viewing options.

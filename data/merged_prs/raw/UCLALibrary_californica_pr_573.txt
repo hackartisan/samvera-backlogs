@@ -1,0 +1,2 @@
+add terms to hyrax.en.yml
+connected to #491

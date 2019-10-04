@@ -1,0 +1,2 @@
+Speed up IIIF Manifest Generation
+This brings a 1140 page manifest from 11 seconds to 2.6 seconds to generate.

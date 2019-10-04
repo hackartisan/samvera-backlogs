@@ -1,0 +1,2 @@
+Adjust margins and fix Admin layout.
+Fixes #1126 Fixes #1127 Reduced left margin on OSU logo. Added left padding to ScholarsArchive@OSU to match the logo and other elements. Changed .dashboard masthead to have position:relative to match main layout. This also uncovered the lower-masthead-border-banner and fixed the overhang on the little menu collapse arrow and the Edit Work sidebar. Changed OSU logo link to be https://oregonstate.edu

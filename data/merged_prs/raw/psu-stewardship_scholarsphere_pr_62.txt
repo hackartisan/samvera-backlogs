@@ -1,0 +1,1 @@
+Fixes button size, input spacing, colors. refs #9732

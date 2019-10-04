@@ -1,0 +1,2 @@
+Adds issues & coins to a collection during import
+Co-authored-by: Nikitas Tampakis nikitas.tampakis@gmail.com

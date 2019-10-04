@@ -1,0 +1,2 @@
+Resolves HELIO-2797: Ingest and display a Leaflet map package
+def map?   /^map$/i.match?(resource_type.first) end

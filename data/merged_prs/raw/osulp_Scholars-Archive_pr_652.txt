@@ -1,0 +1,2 @@
+Updated undergrad thesis to not require degree info
+Fixes #643

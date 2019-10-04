@@ -1,0 +1,6 @@
+Citation export
+As a researcher, I would like to export standard citations for objects in the repository to my citation management software, so that I can easily reference the material in my research later.
+Metadata question not functionality. 
+Similar to WorldCat functionality.  Desired exports: Mendeley, RefWorks, EndNote, EasyBib, Zotero
+@lmballinger What metadata would we use for works/objects vs collections?
+This functionality already exists in Blacklight to allow us to export citations.

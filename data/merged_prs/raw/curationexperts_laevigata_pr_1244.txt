@@ -1,0 +1,2 @@
+Separate school and departments dropdowns
+This commit creates a new component for Departments. Previously the School component contained the department dropdown. Having them in different components allows us to display them in separate tabs.

@@ -1,0 +1,2 @@
+Sync change set with model before saving
+Closes #394

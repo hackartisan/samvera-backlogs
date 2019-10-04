@@ -1,0 +1,2 @@
+Fix for copyright questions
+These will now reload properly when you refresh the page (based on the savedData) and when you click around the tabs (based on the values in the formStore). The questions are displayed in the order on the Keyword and submission tabs. For #1583, #1569

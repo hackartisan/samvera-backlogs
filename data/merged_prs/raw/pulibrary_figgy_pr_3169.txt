@@ -1,0 +1,2 @@
+Generating Manifests with Recordings for ArchivalMediaCollections
+Resolves #3156 by addressing the following:  Generating Manifests with Recordings for ArchivalMediaCollections Integrating Universal Viewer support for ArchivalMediaCollections Ensuring that Manifest Range labels are retrieved from FileSets Ensuring that ArchivalMediaCollection manifests exclude image FileSets from Ranges

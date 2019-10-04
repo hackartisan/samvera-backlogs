@@ -1,0 +1,2 @@
+Prepare report for Dan to manually select bib id in cases where we retrieved 2
+We've gotten this set as small as we could and the rest need human intervention Send a spreadsheet where they can fill in the desired value in a given column child of #2043

@@ -1,0 +1,2 @@
+Removed the _new from the capistrano stage name
+This allows us to run cap qa deploy instead of cap qa_new deploy.  This does not change any server names or server directories

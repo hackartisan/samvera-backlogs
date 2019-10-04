@@ -1,0 +1,2 @@
+Issue 204 - improve notification emails
+Fix #204  Define oasis_host variable used with document_url to construct full URL in notification emails. Improve notification messages readability Correct bug with "Review and Approve" section jumping form bottom to middle page.

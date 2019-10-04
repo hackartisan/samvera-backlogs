@@ -1,0 +1,2 @@
+Feature/allow external set content
+Adds task for automating the set content/assets integration

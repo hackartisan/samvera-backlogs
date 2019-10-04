@@ -1,0 +1,2 @@
+Speed up full text
+Uses fast vector highlighting for full text in documents.

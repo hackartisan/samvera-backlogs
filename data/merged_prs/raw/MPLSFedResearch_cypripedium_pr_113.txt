@@ -1,0 +1,1 @@
+Use identifier field for DOI. Story #83

@@ -1,0 +1,2 @@
+Override on the fly url generation of db url to point to s3 instead of fedora
+Descriptive summary Hydra generates a fedora url on the fly based on some information about the work (id?) and then makes a get request to fedora to grab the data and then use it in hydra. We need to set this mechanism up to generate a proper s3 url instead of a fedora url, so that we can hit s3 to pull items instead of fedora.

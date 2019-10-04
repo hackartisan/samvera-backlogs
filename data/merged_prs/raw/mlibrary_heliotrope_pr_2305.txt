@@ -1,0 +1,2 @@
+Recalculate stats only for publishers partial
+Reduce calls to determine if stats should be recalculate by only checking when publisher partial is being viewed by the user.

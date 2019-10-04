@@ -1,0 +1,2 @@
+change to match apache configs
+Tiny change to match the Apache config for x-sendfile enabled downloads

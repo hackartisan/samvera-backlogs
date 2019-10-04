@@ -1,0 +1,2 @@
+Write six submitter user tasks.
+Descriptive summary Increasing the number of submitters at each institution is a goal. Performing some user testing on those in that role will show us some places to add "help" functionality. Expected behavior Perform some user testing on "submitters" to determine any spots where "help" functionality can be placed. Related work Link to related tickets or prior related work here.

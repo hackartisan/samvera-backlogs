@@ -1,0 +1,1 @@
+Replace `*_embargoed` methods with `Embargo#visibility_during_embargo`

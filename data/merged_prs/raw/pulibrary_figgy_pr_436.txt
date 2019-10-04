@@ -1,0 +1,2 @@
+Separate CAS host and URL for the Omniauth config.
+This attempts to resolve #265

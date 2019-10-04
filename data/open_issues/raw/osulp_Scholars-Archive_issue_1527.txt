@@ -1,0 +1,3 @@
+Configure the RIIIF in Hyrax to use memcached and do testing
+
+Configured on staging and dev environments. Closed after it is setup and running on production.

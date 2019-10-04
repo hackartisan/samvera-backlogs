@@ -1,0 +1,2 @@
+Disable contact form
+This disables the contact form. Right now it is not submitting because email has not been setup. If email is turned on there isn't a captcha to prevent this from being used for spam and there are 500+ attempts to use the contact form in Honeybadger. Because these routes come from an Engine you can't just put an override in routes.rb which is why I did it this way. This removes the link to the contact form and redirects you to a 404 if you try to access it directly. Fixes #230

@@ -1,0 +1,2 @@
+very basic analytics with matomo
+renders Matomo in every page on the application, but i double the downloads will be tracked. more work needed for that

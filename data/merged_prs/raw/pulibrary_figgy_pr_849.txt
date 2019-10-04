@@ -1,0 +1,2 @@
+Test date method rescue value in cicognara_csv service
+Brings test coverage to a pleasing 💯 percent. Closes #848

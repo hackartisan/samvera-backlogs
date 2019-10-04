@@ -1,0 +1,2 @@
+Fixity dashboard
+Still needs a test for the controller.

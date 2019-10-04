@@ -1,0 +1,7 @@
+Make parsing DOI more robust
+Currently we're only getting rid of doi: when trying to figure out what the DOI is. We should use something more robust. See #583 for discussion.
+Could I maybe ask you to keep this open until July? I might be giving a [Library Carpentry](https://librarycarpentry.github.io/) lesson then and this makes for a nice real-world-example to demo the [GitHub Flow](https://guides.github.com/introduction/flow/).  But if that's too long, please feel free to go ahead and I'll then prepare the demo in my fork.
+Fine by me. @sharpattack?
+just to clarify, do you mean keep this issue open @katrinleinweber? i'm okay with that, thanks for the help. 
+Not just this issue, but also keep the reg-ex as it is now. But as I said: If you want/need to fix earlier, please don't wait on my account.
+no problem @katrinleinweber, we'll leave it to you. 

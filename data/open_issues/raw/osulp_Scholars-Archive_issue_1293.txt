@@ -1,0 +1,2 @@
+Assess purpose of Identifier field 
+Keep & use or delete?

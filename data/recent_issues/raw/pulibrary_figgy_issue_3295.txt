@@ -1,0 +1,2 @@
+Upgrade to Ruby 2.5
+Current versions of ActiveSupport no longer support 2.4, so it's time to upgrade.

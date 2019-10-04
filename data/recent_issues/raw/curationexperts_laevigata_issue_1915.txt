@@ -1,0 +1,2 @@
+Remove checks for new_ui and NEW_UI_ENABLED
+For curationexperts/laevigata#1988

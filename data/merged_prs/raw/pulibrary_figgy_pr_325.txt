@@ -1,0 +1,2 @@
+Add transaction safety to vocab import.
+This way if solr fails it won't import.

@@ -1,0 +1,2 @@
+Implements the IngestIntermediateFileJob and BulkIngestIntermediateService for appending intermediate files
+Resolves #1711

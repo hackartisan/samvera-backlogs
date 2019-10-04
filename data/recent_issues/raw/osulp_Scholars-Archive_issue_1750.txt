@@ -1,0 +1,2 @@
+Make depositor viewable by admin on show pages
+It would be very helpful if the depositor was a viewable field on show pages for admin.

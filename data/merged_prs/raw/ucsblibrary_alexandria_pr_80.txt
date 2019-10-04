@@ -1,0 +1,2 @@
+CollectionFactory: fix #find
+I'm honestly not sure how this ever worked.

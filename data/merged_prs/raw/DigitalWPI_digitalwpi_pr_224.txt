@@ -1,0 +1,2 @@
+dev sidekiq?
+maybe we should update this so that our local boxes use sidekiq also

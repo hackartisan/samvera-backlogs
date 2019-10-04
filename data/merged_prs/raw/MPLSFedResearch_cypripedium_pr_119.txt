@@ -1,0 +1,1 @@
+Changed importer to not assume collection name in path to data files.  Story #97.

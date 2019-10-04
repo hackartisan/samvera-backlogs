@@ -1,0 +1,1 @@
+views/deep_zoom: guard against documents with no filesets

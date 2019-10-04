@@ -1,0 +1,2 @@
+Location appears twice on search facets
+Descriptive summary Location facet appears twice on the main search interface. One of these facets shows location labels, the other shows URIs. Expected behavior Location facet appears once Related work #271

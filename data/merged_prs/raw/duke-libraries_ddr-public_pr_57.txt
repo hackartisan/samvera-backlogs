@@ -1,0 +1,1 @@
+put favicon in asset pipeline; closes #56

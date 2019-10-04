@@ -1,0 +1,2 @@
+Date uploaded and date modified are stamped in different time zones
+Date modified is stamped in server time zone while uploaded in UTC(?). This only happens if metadata is modified after uploading.

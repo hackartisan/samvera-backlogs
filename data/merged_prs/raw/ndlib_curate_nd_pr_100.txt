@@ -1,0 +1,2 @@
+Use noids server as identity service
+Would like a code review. The way the configuration is handled is not great. Is there a preferred way? This way adds another yaml file. Don't merge yet, since the correct config files have not been added to the secret repos.

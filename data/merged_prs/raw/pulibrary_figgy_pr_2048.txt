@@ -1,0 +1,2 @@
+updates voyager updater tasks to process refactored bibdata dump format
+Closes #2042. Because of the refactored Voyager Dump jobs, we have combined create_ids and update_ids into a single array of bib ids in update_ids. The job has been failing since the refactored bibdata events were deployed on Friday. Looking at the code it seems like the rake task is set up to process all of the Bibdata events and process them unless they have been previously processed. I think the failed jobs will be captured in the next nightly update after this branch is deployed

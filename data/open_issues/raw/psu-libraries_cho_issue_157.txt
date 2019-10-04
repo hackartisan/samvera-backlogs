@@ -1,0 +1,4 @@
+Reuse Metadata from Catalog
+As a metadata creator, I would like to import records from the catalog, So that I can repurpose existing descriptive metadata. Related: #142
+Initially -- offer lookup on work input form to pull in metadata Enhancement -- ability to do this in batch, spawning empty records in a staging area Enhancement -- Download CSV of staged empty works for metadata refinement and eventual batch load.
+The easiest way to do this may be via Blackcat, the new Blacklight based catalog, rather than use the ILS directly as there is no easy integration point other than Z39.50, which is not easy. Blackcat will support JSON exports for catalog records that could be used to pull data in if queried by control number found in the PSU Identifier.

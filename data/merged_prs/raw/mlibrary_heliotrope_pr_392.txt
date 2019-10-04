@@ -1,0 +1,2 @@
+Press branding for Northwestern
+Closes #346 Customizes Northwestern pages (press, monograph, asset) according to NW style guide and fonts currently used at Northwestern University Press website. Adds fulcrum brand stylesheet, but does not apply them (will happen in #373). Loads NW specific typekit fonts on only NW pages. Changes the NW logo in the db/seeds.rb file to use an app specific logo in the asset pipeline, rather than hosted at an external URL.

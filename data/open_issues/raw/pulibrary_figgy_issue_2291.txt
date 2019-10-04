@@ -1,0 +1,4 @@
+Use case to create a figgy record for an object with suppressed bib record
+Sometimes the studio is asked to photograph something brand new. When they're ready to add it to figgy, the marc record isn't done / published yet for the catalog. So figgy can't pull it from bibdata. Use case came via Beth.
+This is why title is optional instead of bibid. What do they need? 
+Oh, do they want to save and ingest? That makes sense. 

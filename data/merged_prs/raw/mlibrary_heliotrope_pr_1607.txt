@@ -1,0 +1,1 @@
+Fixes #1539 uncaught type js error from a workflow related hyrax js file

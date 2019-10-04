@@ -1,0 +1,2 @@
+adds local QA hack, fixes development caching
+fixes #794 fixes #778 With wildcard  Current without the wildcard

@@ -1,0 +1,2 @@
+Fix blank single-value fields dislplaying upstream
+Related to #198 It's an upstream bug that I don't have a time for now.

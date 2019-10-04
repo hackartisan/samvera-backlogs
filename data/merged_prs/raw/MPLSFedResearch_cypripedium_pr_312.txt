@@ -1,0 +1,2 @@
+Update QA deploy target
+Connected to #298

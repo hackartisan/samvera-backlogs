@@ -1,0 +1,2 @@
+#659 Generate all work types with content in all fields for testing
+Fixes #659  ; This PR adds eight works with complete metadata added.  These works are assigned to the user manydeposits@example.com.

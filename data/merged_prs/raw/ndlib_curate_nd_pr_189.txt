@@ -1,0 +1,2 @@
+Adding container caching for Bundler
+So long as we are not running sudo commands, we can cache the container for later reference. http://blog.travis-ci.com/2014-12-17-faster-builds-with-container-based-infrastructure/

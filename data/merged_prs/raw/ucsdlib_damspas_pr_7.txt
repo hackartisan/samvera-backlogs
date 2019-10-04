@@ -1,0 +1,1 @@
+Update "Browse by Creator" text. DHH-459

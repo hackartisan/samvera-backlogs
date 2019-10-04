@@ -1,0 +1,2 @@
+uses CircleCI to build and push application images to AWS ECR
+Includes CCI orb for building and pushing docker images to ECR. This depends on some credentials setup in CCI "Environment Variables" for the project, and only builds the image on merges to master or a deploy branch. The current thinking is that a new image pushed to the ECR repositories that hold these images will trigger a fresh deploy to staging or production environments.

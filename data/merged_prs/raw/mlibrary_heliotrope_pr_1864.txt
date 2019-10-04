@@ -1,0 +1,1 @@
+Addresses HELIO-1878 change free trial expiration language on Gabii.

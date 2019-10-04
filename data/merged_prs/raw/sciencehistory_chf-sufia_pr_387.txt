@@ -1,0 +1,2 @@
+Truncate description in search results
+Closes #331 This is a totally insane way to do this, but I think might be the bet we've got? When/if we overhaul our front-end, I would anticipate possibly doing the front-end templates in a different way, cause this architecture is wacky. We'll see.

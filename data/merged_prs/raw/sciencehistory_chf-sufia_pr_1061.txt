@@ -1,0 +1,1 @@
+only show whole-work download links if more than one image

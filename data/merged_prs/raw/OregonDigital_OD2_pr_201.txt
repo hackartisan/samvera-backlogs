@@ -1,0 +1,2 @@
+Run bundler (in image) prior to adding all code
+This ensures that the gems are only having to do a full rebuild when the Gemfile* changes, rather than on every data change

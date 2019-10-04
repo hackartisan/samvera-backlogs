@@ -1,0 +1,2 @@
+Fixing Import::File
+Description Files in bags will have ids with multiple underscore-delimited segments. In order to determine the use type and file set id, the parent directory name can be used to remove the first N number of segments and the remaining segments can be used to determine file set id and use type. Fixes #655

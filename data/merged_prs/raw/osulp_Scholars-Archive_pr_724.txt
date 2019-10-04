@@ -1,0 +1,2 @@
+added other input for degree_field and degree_level select
+Added add_other js and updated the form partials to allow the user to enter custom values when selecting "Other" for "degree_field" and "degree_level": fixes #719   Implemented the ScholarsArchive::Actors::AddOtherFieldOptionActor that is used to persist "other" values provided by the user in the form into the OtherOption table: closes #727

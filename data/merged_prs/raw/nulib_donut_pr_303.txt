@@ -1,0 +1,2 @@
+temporarily hides collection branding form
+Temporarily disable collection branding form so as not to cause confusion. Provide message linking to 'Discovery' tab with instructions to choose representative thumbnail for the collection instead.  Co-authored-by: Brendan Quinn brendan-quinn@northwestern.edu

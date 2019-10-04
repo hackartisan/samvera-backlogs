@@ -1,0 +1,2 @@
+Field license should be required
+Hochladen eines Artikels a. Es soll zwingende und nicht zwingende Eingabefelder geben. Zwingend sollen sein: Autor – Titel – Journal/Gesamtwerk – Jahr – Rechte Diese Felder sollen zuoberst stehen.

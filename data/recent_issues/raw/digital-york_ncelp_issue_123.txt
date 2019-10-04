@@ -1,0 +1,2 @@
+Featured works - Remove depositor & key words
+In the Featured works box can we remove the depositor and key words and add the one line description and type / purpose of resource

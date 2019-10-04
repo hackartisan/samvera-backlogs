@@ -1,0 +1,2 @@
+add Coveralls
+closes #201

@@ -1,0 +1,2 @@
+Resolves 1367 Remove E-book Reader's Footer.
+Following Jon's advice on locating by search widget, and adding Roger's suggested border.

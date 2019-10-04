@@ -1,0 +1,2 @@
+Collections must have metadata
+Addition was required after the update to CurationConcerns 0.10.0 Added a feature test for creating a collection. Removed unnecessary db maintenance from ci.rake

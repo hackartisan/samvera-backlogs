@@ -1,0 +1,2 @@
+creating new publication with form adds an empty location
+at least, it's presumed to be empty, what's added is the output of Spot::ControlledVocabularies::Location.to_s:  not entirely sure what's happening here

@@ -1,0 +1,2 @@
+Do not load all objects into memory during migration
+In order to use memory more effectively, don't load all objects into memory during external files migration. Instead, work from an array of string ids. Connected to #1369

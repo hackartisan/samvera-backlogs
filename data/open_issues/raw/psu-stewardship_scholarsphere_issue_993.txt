@@ -1,0 +1,3 @@
+Allow for querying on Orcid
+
+Allow the user to enter an ORCID into the ScholarSphere search block and retrieve all deposits by that creator.  We need to index the ORCID as part of the work

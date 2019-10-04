@@ -1,0 +1,2 @@
+Fix finding Library Collection members
+Refers to #749 The prior changes were too inefficient for large collections due to the loading of every Fedora record. This change processes only the solr responses, one page at a time until all responses are loaded, to ensure complete data without the efficiency issues.

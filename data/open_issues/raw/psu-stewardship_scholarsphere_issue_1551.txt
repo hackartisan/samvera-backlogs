@@ -1,0 +1,1 @@
+Removing the blank resource type if there is another one specified

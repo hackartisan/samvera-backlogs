@@ -1,0 +1,2 @@
+Add GraphQL query to lookup by Orangelight slug 
+This is to support numismatics in Orangelight. A more general query that runs a regex on the slug pattern to find the correct property to query on.

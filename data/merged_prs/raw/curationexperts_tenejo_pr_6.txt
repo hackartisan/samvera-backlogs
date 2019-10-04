@@ -1,0 +1,2 @@
+Add some basic marketing info to README.md
+Just in case.

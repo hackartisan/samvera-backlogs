@@ -1,0 +1,2 @@
+short circuit to false if checking basic editor permissions on a nil controlled vocabulary
+This is to clarify the otherwise confusing server error when metadata editors look at the controlled_vocabularies index view.

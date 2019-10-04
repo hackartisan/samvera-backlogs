@@ -1,0 +1,2 @@
+fields with authority drop downs update correctly now
+fixes https://github.com/nulib/next-generation-repository/issues/330 new pr because squashing

@@ -1,0 +1,2 @@
+Fix existing "expired embargoes"
+Descriptive summary There are some number of works that are listed as having been expired and visibility changed, but having not actually been updated because of issue #1857. We need to inspect the expired works and validate that their expected visibility matches what they are currently set to.

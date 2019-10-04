@@ -1,0 +1,2 @@
+Search by title & ARK
+Closes #248, closes #250

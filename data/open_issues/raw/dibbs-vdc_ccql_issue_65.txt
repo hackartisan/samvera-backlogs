@@ -1,0 +1,2 @@
+Modify Sign-in/Sign-up to be similar to Video Mosaic
+The current application sign-in and sign-up functionality isn't as intuitive as we'd like it to be.  We'd like to change the application to be more like the Video Mosaic in this respect. See: https://videomosaic.org Also: https://rucore.libraries.rutgers.edu/account/

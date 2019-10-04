@@ -1,0 +1,2 @@
+remove samvera notif from template
+Fixes #3

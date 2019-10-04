@@ -1,0 +1,2 @@
+Image Viewer - Use small representative on show view
+Displays the representative image to the left of the metadata, and uses click to expand links to open either the iiif viewer or the original viewer. Also changes to use title: true to insure that titles appear on the catalog search results list.

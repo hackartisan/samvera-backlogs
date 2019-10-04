@@ -1,0 +1,2 @@
+Fix locale fallback to work with latest i18n release
+See https://github.com/svenfuchs/i18n/releases/tag/v1.1.0 for details.

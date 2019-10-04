@@ -1,0 +1,2 @@
+Update Newrelic client
+Description Updates client to latest version Why was this necessary? Bring all clients that we have up to date. Changes Should not affect application Checklist   i18n enabled  adequate test coverage  accessible interface

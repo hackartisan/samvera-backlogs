@@ -1,0 +1,2 @@
+Spontaneous embargo reason but no embargo
+Descriptive summary A grad student emailed that she noticed an embargo reason on her deposit even though she had not selected an embargo.  The deposit is currently in grad school review queue: f1881s168 I added and then removed an embargo to see if that would override the settings but it did not. The Embargo reason field is not editable by admin.

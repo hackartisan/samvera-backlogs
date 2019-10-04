@@ -1,0 +1,2 @@
+Remove dcmi_type property from GenericMetadata
+Descriptive summary We will be sticking with Resource Type set to DC.type, and updating the authority values as desired. We don't need a separate property of dcmi_type, and removing it will eliminate the predicate conflict. Resource Type can stay required. Related work #233 Resource Type changing to DCMI values

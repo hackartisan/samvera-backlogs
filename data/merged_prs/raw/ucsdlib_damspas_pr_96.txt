@@ -1,0 +1,1 @@
+Fixing the download issue for CEO content in curator mode. DHH-654

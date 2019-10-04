@@ -1,0 +1,2 @@
+Add SHA256 to file metadata
+Calculate the SHA256 during file characterization  Add the value to Solr as in ticket #484  Add the value to Fedora as in ticket #484

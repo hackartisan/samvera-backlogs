@@ -1,0 +1,2 @@
+Load California Postcards Collection
+As a Samvera project team member, I would like to load as many collections as possible as quickly as possible. Loading collections that are similar to LADNN are the best targets for loading (in DLCS, simple image collections)

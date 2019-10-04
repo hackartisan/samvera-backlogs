@@ -1,0 +1,1 @@
+Add count_all_of_model custom query.

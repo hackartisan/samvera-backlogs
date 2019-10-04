@@ -1,0 +1,2 @@
+HELIO-2104 - add doi or handle, whichever is present, to the meta tags.
+Resolves HELIO-2104

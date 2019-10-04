@@ -1,0 +1,2 @@
+PDF bulk ingest
+Allow ingesting PDF files with bulk ingest Rake task

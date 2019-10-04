@@ -1,0 +1,3 @@
+Relax allow_embed? platform admin restriction.
+app/presenters/hyrax/file_set_presenter.rb def allow_embed?   current_ability.platform_admin? end
+Blocked:  Needs uses case describing when the '< html / >' (embed button) appears on the asset (file_set) page.

@@ -1,0 +1,2 @@
+Make only one resource type choice possible in DigitalHub
+Allow users to assign only one resource type to a DigitalHub deposit.

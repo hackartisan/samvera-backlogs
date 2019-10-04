@@ -1,0 +1,2 @@
+Updating to Solr 7.1.0
+cherry picked the commit from ScholarSphere refs #432

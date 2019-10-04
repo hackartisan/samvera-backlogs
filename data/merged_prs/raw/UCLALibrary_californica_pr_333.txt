@@ -1,0 +1,2 @@
+Rename app from Samvera to Californica
+Connected to #324

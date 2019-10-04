@@ -1,0 +1,2 @@
+update aws-sdk to new version
+Which also requires updating browse_everything to be willing to use it. I was having some concurrency-related problems with threads in dzi_push and aws-sdk, which this new version should take care of by no longer using ruby autoload. And just seems a good idea to use the new improved version. https://aws.amazon.com/blogs/developer/announcing-the-modularized-aws-sdk-for-ruby-version-3/

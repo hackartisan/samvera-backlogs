@@ -1,0 +1,2 @@
+"Save and Ingest" type functionality for Coins
+Adds a button on the Coin file manager to automatically ingest files discovered based on a naming convention. Fixes #2101 Depends on #2116

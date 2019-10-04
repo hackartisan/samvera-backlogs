@@ -1,0 +1,2 @@
+redirects a work to its proper route
+fixes #1696 See slack channel for video demonstrating it in action

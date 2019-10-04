@@ -1,0 +1,2 @@
+Revise copyright statements to match UCLA LADNN values
+Connects to #243 Remove default Hyrax copyright statements Add UCLA LADNN copyright statement value

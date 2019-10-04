@@ -1,0 +1,2 @@
+Use Figaro for google analytics id
+Use configure/application.yml to pass information about Google Analytics tracker ID.

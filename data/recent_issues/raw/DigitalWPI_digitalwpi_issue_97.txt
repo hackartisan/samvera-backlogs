@@ -1,0 +1,2 @@
+re generate sandbox thumbnails / gs version
+the sandbox thumbnails are very ugly, we need to update the version of the software that generates them and call the rake task that re-generates

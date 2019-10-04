@@ -1,0 +1,2 @@
+Display file uploaded
+This displays the file after selecting it. This will need to be changed slightly in the future if we want to support older browsers. Connected to #98

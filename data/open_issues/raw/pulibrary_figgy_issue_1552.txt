@@ -1,0 +1,2 @@
+Ensure Characterization Failures display in UI
+Child of #99

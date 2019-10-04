@@ -1,0 +1,2 @@
+Upload form - add information on how to select multiple options
+For the Pedagogical focus and  Topic fields can we add info on how to select multiple options.

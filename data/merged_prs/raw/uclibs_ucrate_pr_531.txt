@@ -1,0 +1,2 @@
+Fix Hyrax migrations
+When I ran rails hyrax:install:migrations it generated two new migrations that we already had because the migrations were not in files that the script was expecting. This fixes the migration naming so that we won't run into problems down the road when we need to run rails hyrax:install:migrations for future Hyrax upgrades.

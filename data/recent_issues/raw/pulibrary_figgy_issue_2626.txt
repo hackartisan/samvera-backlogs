@@ -1,0 +1,2 @@
+archival_collection_code doesn't extract when source_metadata_identifier is exactly the collection id
+e.g. MC001

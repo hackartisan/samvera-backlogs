@@ -1,0 +1,1 @@
+HELIO-1960 press_catalog sort by relevance

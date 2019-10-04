@@ -1,0 +1,3 @@
+Invalid ORCID at registration causes error screen upon approval
+Validation error -- In general, validation is lacking across the application.
+As an admin, I attempted to approve the user, but got an error about a bad url.  (I forgot to take a screenshot.) There was originally a space inside the orcid url when I attempted to update the registration.

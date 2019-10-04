@@ -1,0 +1,2 @@
+Config check on deploy occurs really late
+We should run the config check much earlier so that the deploy fails early instead of failing after doing almost every step.

@@ -1,0 +1,2 @@
+Customise contact form and configure email notification
+Add SMTP configuration as required by #42

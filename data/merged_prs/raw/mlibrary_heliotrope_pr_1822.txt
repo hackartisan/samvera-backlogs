@@ -1,0 +1,2 @@
+Searches should not return duplicate snippets
+Duplicate snippets happen if the search term is in a sentence multiple times. We don't want to display those, so we'll make those blank. We do however still need to send the CFI so that cozy-sun-bear can highlight all search results.

@@ -1,0 +1,2 @@
+Removed Hydra initializer b/c not used.
+See duke-libraries/dul-hydra#1289.

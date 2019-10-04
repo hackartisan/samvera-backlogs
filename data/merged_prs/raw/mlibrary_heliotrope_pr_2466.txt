@@ -1,0 +1,2 @@
+Resolves HELIO-2910: EntityPolicy.download? needs to be tombstone-aware
+Inserted tombstone check between user can edit and allow download.

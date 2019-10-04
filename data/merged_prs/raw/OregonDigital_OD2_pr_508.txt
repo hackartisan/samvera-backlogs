@@ -1,0 +1,2 @@
+update to only add known indexed items
+This is to dial back the changes to the catalog controller so that we arent changing too many things at once. Then we can further refine the catalog controller as we get closer to knowing exactly what we want to search for

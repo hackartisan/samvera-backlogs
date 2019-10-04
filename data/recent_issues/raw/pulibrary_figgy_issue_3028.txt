@@ -1,0 +1,2 @@
+Improve error handling for controlled vocabulary term dropdown fields in the resource edit view
+Backtrace line 327 of [PROJECT_ROOT]/app/models/controlled_vocabulary.rb: [] line 327 of [PROJECT_ROOT]/app/models/controlled_vocabulary.rb: block in all line 326 of [PROJECT_ROOT]/app/models/controlled_vocabulary.rb: each  View full backtrace and more info at honeybadger.io

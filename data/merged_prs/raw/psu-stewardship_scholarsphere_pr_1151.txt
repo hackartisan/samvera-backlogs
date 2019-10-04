@@ -1,0 +1,2 @@
+Pass current_ability to form instead of current_user, ref #1038
+BatchEditsController was passing the current_user to the form instead of the current_ability, which the form expects. This wasn't causing any errors since the two classes responded similarly enough, but we want to be consisted and conform to the form's interface expectations.

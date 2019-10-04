@@ -1,0 +1,2 @@
+Fix links on the help page
+The links to files on the help page seem to be broken. Could you please fix them?

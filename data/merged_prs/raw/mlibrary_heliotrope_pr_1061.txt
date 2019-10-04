@@ -1,0 +1,1 @@
+Resolves #922, refactor author display logic from views to presenters

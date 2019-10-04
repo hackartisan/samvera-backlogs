@@ -1,0 +1,2 @@
+Adds the Contents of a README file to the Work Show
+Adds a readme method that selects files from the file_set_presenter that start with some form of readme. Tests the readme method for txt, md, and blank files, and updates the work show view so that if there is a presenter.readme display the contents of the readme using the redcarpet gem otherwise print a statement asking for a readme.

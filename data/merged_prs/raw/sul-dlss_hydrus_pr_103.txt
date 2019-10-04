@@ -1,0 +1,2 @@
+remove travis badge and reference to private sul-chrome gem
+sul_chrome gem no longer private and travis not working

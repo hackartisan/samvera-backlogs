@@ -1,0 +1,2 @@
+Update active-job
+Fixes #637 Update active-job and related requirements. Changes proposed in this pull request:  Updated uclibs rails gem to rails-5.1.6.1 Updated uclibs orcid gem to rails-5.1.6.1 In ucrate Gemfile, point orcid gem to rails-5-1-6 branch of uclibs fork Pin sqlite3 in ucrate Gemfile to '1.3.13' (was throwing error at 1.4, don't know why)

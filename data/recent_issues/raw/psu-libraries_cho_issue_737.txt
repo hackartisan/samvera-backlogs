@@ -1,0 +1,2 @@
+Batch creation of Agent resources
+In order to seed CHO with Agent resources, we need to be able to create many Agents. This is done when:  I can upload a CSV of agent resources and they will all be created I can update a CSV of existing Agent resources When creating new resources, duplicates will cause validation errors, i.e. agents are unique  Child of #87

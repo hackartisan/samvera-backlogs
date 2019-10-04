@@ -1,0 +1,2 @@
+replacing removed fields (including partnering) from about me form
+I'm adding form partials to our local project, which will overwrite their originals in the hyrax gem if they exist. This PR fixes the accidental removal of some fields in the about_me partial, and removes content from the about_my_etd partial for the time being.

@@ -1,0 +1,2 @@
+Link root collections in index, fixes #441
+Separate button for expendable collections.

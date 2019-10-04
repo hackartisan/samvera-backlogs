@@ -1,0 +1,1 @@
+AMS2-145 adding asset type vocabulary

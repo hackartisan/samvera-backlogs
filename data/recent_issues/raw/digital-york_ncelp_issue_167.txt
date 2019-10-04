@@ -1,0 +1,2 @@
+Text change Resource Details page
+@paluchas This is the other text change On the Resource Details page please change Items to Items to download.

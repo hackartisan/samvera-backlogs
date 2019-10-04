@@ -1,0 +1,2 @@
+Update ruby versin in sidekiq restart script
+Fixes #547 Update restart-sidekiq script to use ruby-2.5.0. Changes proposed in this pull request:  script/restart-sidekiq.sh

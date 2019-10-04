@@ -1,0 +1,2 @@
+Restrict Manage Embargoes to users who can index embargoes
+Students and other users who can deposit items have edit rights to the embargoes for the items they have deposited. However, we don't want these users to have access to the 'Manage Embargoes' dashboard item. It turns out, in this case, that :index is more restrictive than :edit, and is the appropriate control for access to this page. Fixes #1766

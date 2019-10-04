@@ -1,0 +1,2 @@
+adds facets to blacklight search view
+fixes  AMS2-195 AMS2-403 AMS2-404

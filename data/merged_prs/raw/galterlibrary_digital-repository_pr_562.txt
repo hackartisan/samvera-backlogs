@@ -1,0 +1,2 @@
+script to create institutional students collection, closes #559
+Moves "Masters in Public Health CE Papers" collection to "Students' Collection" collection before converting to institutional collection.

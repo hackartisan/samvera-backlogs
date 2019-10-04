@@ -1,0 +1,2 @@
+Adds ability to download files in a fileset
+Changes original_file symbol to preservation_master_file for default_content Adds use param to link_to for additional_files that should be passed along with filesetID

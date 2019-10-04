@@ -1,0 +1,2 @@
+Speed up METS Document Spec
+This is a representative sample without it being a huge METS file to parse.

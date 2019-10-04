@@ -1,0 +1,2 @@
+Add more metadata fields
+We have finished creating work types. Need to add relevant properties for each work type.

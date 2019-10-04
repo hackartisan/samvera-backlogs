@@ -1,0 +1,2 @@
+Add PendingUploads
+This also refactors how ChangeSets & buffer_into_index interacts.

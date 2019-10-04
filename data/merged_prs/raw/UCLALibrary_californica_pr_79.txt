@@ -1,0 +1,2 @@
+Add CSV metadata fixture
+Adds a skeleton metadata fixture file with some of the initial metadata fields we'll be importing. Closes #66

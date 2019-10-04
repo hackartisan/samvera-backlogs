@@ -1,0 +1,2 @@
+fix order of fields on results page
+Closes #890

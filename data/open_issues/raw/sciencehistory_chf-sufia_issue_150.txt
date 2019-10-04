@@ -1,0 +1,2 @@
+refactor names of opac vars and classes
+They're kinda all over the place :\

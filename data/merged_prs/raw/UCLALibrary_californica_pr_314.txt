@@ -1,0 +1,2 @@
+ Index the years from the normalized_date field. Story UCLALibrary/ursus#69
+Added an entry to the solr index for the integer years that correspond to the normalized_date field.   This solr field will be used by Ursus to implement a date slider facet.   Added a YearParser class that knows how to turn the normalized_date field into a list of integer years.   Connected to UCLALibrary/ursus#69

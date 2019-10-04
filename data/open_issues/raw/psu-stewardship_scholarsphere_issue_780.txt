@@ -1,0 +1,2 @@
+Collections should use form object to edit and create visibility
+Unlike works, the collection edit and create pages are using the collection model record for visibility changes when it ought to use the form. This will probably be fixed in Hyrax, but when it does, we can revert some of the changes we made in the collection model to the private_access? and open_access? methods.

@@ -1,0 +1,2 @@
+Add provenance attribute to ephemera folders, refs #374
+Indexing piece to follow

@@ -1,0 +1,2 @@
+Ensures that Dublin Core attributes are exposed for `SimpleResource` forms
+Resolves #1027

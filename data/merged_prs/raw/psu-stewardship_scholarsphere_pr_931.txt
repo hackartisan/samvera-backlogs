@@ -1,0 +1,2 @@
+Revert "Adds the proxied user as the depositor in BaseActor, #895"
+This reverts commit f5cadae. It was causing the file upload process to break completely.

@@ -1,0 +1,2 @@
+[SEE #155] Devise Authentication Preservation
+Descriptive summary We need to preserve a way for users to login to the system through the application. This is separate from CAS and UO login. This is for anonymous users who wish to share public works through the system.

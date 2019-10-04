@@ -1,0 +1,2 @@
+Remove one of the "Figgy" links from header/s
+Now that we're using lux we should probably remove the Figgy link from the search bar area.

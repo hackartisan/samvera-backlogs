@@ -1,0 +1,1 @@
+Use helper in ga tracking template

@@ -1,0 +1,2 @@
+Support for the Downloading of Large Data Files
+DevOps element. We will need to access the PSU only directory. Need the path and protect the path. We have /public so perhaps a /psu. Need to know the limitations of Rails and where files live. Needs some experimentation for the best process. Works or Collections above 5GB perhaps? Config bit. Consider a smaller threshold? Manually at first and test how long it takes to process. One at a time.

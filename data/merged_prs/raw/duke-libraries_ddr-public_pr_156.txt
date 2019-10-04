@@ -1,0 +1,1 @@
+Render multi_image components in native order if missing struct_map. Fixes #155.

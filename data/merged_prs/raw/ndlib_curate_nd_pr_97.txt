@@ -1,0 +1,2 @@
+Setting XML to be downloaded as an Attachment
+All other mimetypes are treated normally. Closes DLTP-28

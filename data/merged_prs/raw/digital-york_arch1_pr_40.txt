@@ -1,0 +1,2 @@
+parse entry id properly before saving relationships
+fix the errors with missing places, person

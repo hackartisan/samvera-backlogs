@@ -1,0 +1,1 @@
+HELIO-2546 422 Unprocessable Entity on EPUB's included JS files

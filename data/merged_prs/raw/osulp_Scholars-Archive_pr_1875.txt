@@ -1,0 +1,2 @@
+Bulk ingest
+This sets up the ability to create a work from a spreadsheet in the format of a CSV. The format is derived from this https://docs.google.com/spreadsheets/d/1jIEXGgSJTiXVis9y3Uu93bJtYsVnC6_TVHJsF2e-gGc/edit?pli=1#gid=261789307 and requires that all other permutations of ingest csv adhere to this style. Work still needing to be done:   Create a file set and kick off derivative job  Add work to collection and save collection

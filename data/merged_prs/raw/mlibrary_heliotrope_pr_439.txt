@@ -1,0 +1,2 @@
+add fulcrum logo and indicate beta in the header and footer
+Closes #350 Adds fulcrum logo to header (if not logged in, which, pretty much all users will not be logged in) and adds fulcrum logo to footer. Both have beta next to the logo, which links to http://fulcrum.org/beta (#404). In header:  In footer:

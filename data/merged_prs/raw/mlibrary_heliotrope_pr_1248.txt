@@ -1,0 +1,1 @@
+Resolves #1233, moving (some of) epub search from services to lib

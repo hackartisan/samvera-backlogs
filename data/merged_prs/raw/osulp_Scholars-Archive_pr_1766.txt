@@ -1,0 +1,2 @@
+Removes fields from collections
+This is the first step in fixing #1751 There is some more work to be done to fix that ticket completely. A separate ticket for adding nested related items to the collection model.

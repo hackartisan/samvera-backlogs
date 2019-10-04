@@ -1,0 +1,2 @@
+Add a modal window for starting over
+This implements the UI described in #1630. This also fixes the problem where the select box for school is non-editable after making the first selection. Now it will only be non-editable after saving. Connected to #1631 Connected to #1630 Connected to #1651

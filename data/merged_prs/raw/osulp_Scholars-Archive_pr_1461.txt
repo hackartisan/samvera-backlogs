@@ -1,0 +1,1 @@
+eliminates filtering to behave with default catalog search builder

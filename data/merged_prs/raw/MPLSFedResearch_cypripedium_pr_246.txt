@@ -1,0 +1,2 @@
+Communicate Bagit export error to user
+This commit uses the ActiveJob's rescue_from callback to send an error message to the user as a notification. Connected to #211

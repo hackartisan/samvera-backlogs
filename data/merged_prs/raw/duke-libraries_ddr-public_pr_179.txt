@@ -1,0 +1,2 @@
+search results gallery grid view restyling
+Partially addresses #177 -- at least for search results view.

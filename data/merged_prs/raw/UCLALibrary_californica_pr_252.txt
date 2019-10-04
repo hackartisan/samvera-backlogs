@@ -1,0 +1,2 @@
+Ingest log
+Write any missing files to a log file during ingest. Connected to UCLALibrary/amalgamated-samvera#97

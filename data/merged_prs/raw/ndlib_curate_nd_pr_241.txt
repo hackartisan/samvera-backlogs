@@ -1,0 +1,2 @@
+Fix for tile view
+Collections didn’t render correctly in #225.

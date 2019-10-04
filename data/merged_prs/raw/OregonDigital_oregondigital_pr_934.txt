@@ -1,0 +1,2 @@
+Fix test output
+Removes multiple deprecation warnings (OD2 is a completely rewritten codebase, and OD1 won't be updating to the newest Hydra/Rails, so I see no value in these) and adds an option to skip coverage reporting when running tests. Makes tests a bit faster, and output significantly more readable, especially when just trying to run a handful of tests.

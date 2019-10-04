@@ -1,0 +1,2 @@
+add access_master derivative creation service
+currently stores alongside generated thumbnail. to be used for the iiif server to circumvent having to retrieve the file from fedora each time

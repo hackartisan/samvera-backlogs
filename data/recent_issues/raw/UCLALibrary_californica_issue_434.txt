@@ -1,0 +1,2 @@
+Add a link to the same item in ursus
+STORY As a librarian viewing a work in californica, I'd like an easy way to find the same work in ursus, so that I don't have to cut and paste IDs into URLs ACCEPTANCE   there is a link to "View this work in ursus" underneath the viewer and before the metadata on the work and collection level show page

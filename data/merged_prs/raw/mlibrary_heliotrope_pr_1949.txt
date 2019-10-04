@@ -1,0 +1,2 @@
+Resolves HELIO-1923 Display deeper nesting TOCs on catalog page
+Uses old flat view.  Outline view coming soon.

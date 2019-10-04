@@ -1,0 +1,2 @@
+Display embargo info for approvers
+Fixes #905

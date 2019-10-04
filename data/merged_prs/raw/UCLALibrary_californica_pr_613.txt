@@ -1,0 +1,2 @@
+remove all validators from CalifornicaCsvParser
+Validation at this level largely duplicates validation done in CsvManifestValidator. CsvManifestValidator errors, however, are properly interpreted as non-blocking warnings (when appropriate), and errors are made visible to users. Validate errors from CalifornicaCsvParser, on the other hand, always cause ingest to fail without user-visible messages.

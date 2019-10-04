@@ -1,0 +1,2 @@
+Proquest::Metadata#parse_embargo: fix Metrics/PerceivedComplexity
+Split the two case statements into separate methods.

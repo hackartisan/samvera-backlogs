@@ -1,0 +1,2 @@
+fixes docker dependencies for development and test
+NOTE : Remove or comment out from local_env.yml: SCHOLARSARCHIVE_SOLR_URL SCHOLARSARCHIVE_FEDORA_URL SCHOLARSARCHIVE_DB_HOST

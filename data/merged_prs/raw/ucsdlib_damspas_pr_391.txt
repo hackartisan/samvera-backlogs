@@ -1,0 +1,2 @@
+Bump nokogiri from 1.8.1 to 1.8.2
+Bumps nokogiri from 1.8.1 to 1.8.2.  Changelog Commits   Dependabot will resolve any conflicts with this PR as long as you don't alter it yourself. You can also trigger a rebase manually by commenting @dependabot rebase. If you'd like to skip this version, you can just close this PR. If you have any feedback just mention @dependabot in the comments below.

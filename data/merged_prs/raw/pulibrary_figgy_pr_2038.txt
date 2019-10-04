@@ -1,0 +1,2 @@
+Adding models/change_sets/decorators for NumismaticIssue and Coin
+Fixes #2001

@@ -1,0 +1,2 @@
+Extending IIIF Manifest Support for Resource Metadata
+Addresses #18 by:  Exposing metadata in implementing the MetadataBuilder and locally overriding the ManifestServiceLocator Exposing the license restrictions for the resource Exposing links to other resources (using see_also)

@@ -1,0 +1,2 @@
+Change label for named_subject to Names, revise tests to match
+Connected to #322

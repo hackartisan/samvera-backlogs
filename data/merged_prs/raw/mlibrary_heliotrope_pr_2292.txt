@@ -1,0 +1,2 @@
+add demo or repo url to aptrust.yml.sample
+When using the aptrust api to check on the status of ingesting/ingested bag, you can contact the demo or production urls. Demo: https://demo.aptrust/member-api/v2/ Repo: https://repo.aptrust/member-api/v2/ These have various end points as described here: https://wiki.aptrust.org/Member_API#Object_Resource

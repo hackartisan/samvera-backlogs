@@ -1,0 +1,2 @@
+RIIIF and IIIF Manifest Generation
+Does a few things:  Loads RIIIF in for Development (TODO: Configurable for Loris in production) Uses iiif_manifest gem to build a Manifest. Adds the viewer to the page if appropriate. Makes sure jobs aren't queued until after a transaction closes (there were a LOT of failed jobs because the job would run before the object existed in postgres)

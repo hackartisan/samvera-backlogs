@@ -1,0 +1,3 @@
+Stemming words for searching
+Solr should stem words properly so that search terms like "test" and "parse" would return resources that have "testing" and "parsing" in them. Some combination of tokenizing, stemming, and pluralizing should solve the problem. Research Solr magic as needed. See https://lucene.apache.org/solr/guide/6_6/language-analysis.html
+Investigate current behavior: * if a field has the word "parsing" then the search term "parse" should return the result * searching stemmed variants should _not_ work in a phrase search with quotes, ex. `"title with parse"` should not return the result, but `"title with parsing"` should  See https://www.drupal.org/project/search_api_solr/issues/1879274 for using Snowball stemmer

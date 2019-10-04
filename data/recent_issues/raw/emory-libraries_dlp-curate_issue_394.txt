@@ -1,0 +1,2 @@
+Automate creation of "Library Collection" Type
+See epic #383 Collection Type settings documented here.   Document Collection Type settings for Library Collection from Emily's manual configuration  Automatically recreate this Collection Type when application is rebuilt

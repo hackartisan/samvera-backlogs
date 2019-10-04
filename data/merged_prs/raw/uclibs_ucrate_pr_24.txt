@@ -1,0 +1,2 @@
+add title and description to workgroups and update specs
+closes #7

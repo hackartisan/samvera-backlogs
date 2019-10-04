@@ -1,0 +1,2 @@
+Fixes broken specs for date range
+The facet was defaulting to closed, so added some logic to open it.

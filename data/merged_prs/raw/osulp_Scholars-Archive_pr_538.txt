@@ -1,0 +1,2 @@
+links to analytics.yml on the server side
+server side setup for GA api

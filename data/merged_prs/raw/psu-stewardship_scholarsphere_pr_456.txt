@@ -1,0 +1,1 @@
+Messages when attaching files to works, fixes #311

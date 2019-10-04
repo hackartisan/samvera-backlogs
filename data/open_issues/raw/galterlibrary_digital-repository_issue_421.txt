@@ -1,0 +1,2 @@
+Downloads still not working when changing versions from a image to a document
+Thumbnails are not affected Related to #397 and #401 This doesn't seem like a big deal because content will hardly ever change from an image to a doc but should be addressed anyway.

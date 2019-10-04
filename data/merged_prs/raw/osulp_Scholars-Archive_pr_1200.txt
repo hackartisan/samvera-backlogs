@@ -1,0 +1,2 @@
+adds all rights reserved and customizes HonorsCollegeTheses licenses
+fixes #1199

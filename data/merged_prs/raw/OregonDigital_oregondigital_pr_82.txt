@@ -1,0 +1,2 @@
+Feature/derivatives on file system
+Closes #73 Allows pyramidal derivatives to be external if needed - uses the control group to determine whether to store the file in Fedora or on the file system.

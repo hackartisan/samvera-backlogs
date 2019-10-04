@@ -1,0 +1,2 @@
+Jenkins deploy
+Includes changes to the .travis.yml file to enable continuous delivery of the master branch to the californica-test server here at UCLA. Connects UCLALibrary/amalgamated-samvera#102

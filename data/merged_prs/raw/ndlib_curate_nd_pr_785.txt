@@ -1,0 +1,2 @@
+Make description box size relative
+Class input-xxlarge was causing an overrun when screen was resized. Fixes issue related to #784

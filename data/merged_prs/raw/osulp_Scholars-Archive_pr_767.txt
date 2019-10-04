@@ -1,0 +1,2 @@
+Add Blacklight onload to flot.js
+fix #734

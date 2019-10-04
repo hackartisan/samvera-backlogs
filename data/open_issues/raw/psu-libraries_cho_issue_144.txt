@@ -1,0 +1,2 @@
+Provide Temporary Access to Hidden/Private Object
+As a collection curator, I want to provide one-time access to a remote researcher using a URL & Token, So that I do not have to transfer the file via another platform.

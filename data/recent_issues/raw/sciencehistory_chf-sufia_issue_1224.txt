@@ -1,0 +1,2 @@
+New dropdown label for 'Genre' field
+Label: "Photomechanical print" - alphabetical order like existing labels, so after "Photographs"

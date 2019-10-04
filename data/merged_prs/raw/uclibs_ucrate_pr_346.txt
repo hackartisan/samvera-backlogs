@@ -1,0 +1,2 @@
+#317 Modifies Concern Show to Have Scholars Fields and Ordering
+refs #317 Changes the order and presence of fields on the concern show page. Changes proposed in this pull request:  Changes the order and presence of fields on the concern show page.

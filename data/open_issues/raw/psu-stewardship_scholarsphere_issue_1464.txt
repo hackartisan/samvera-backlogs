@@ -1,0 +1,6 @@
+Multiple versions of Twitter Typeahead
+In production, we have 2 version of Twitter Typeahead. We use Typeahead for the creator autocomplete and user lookup for sharing works with others in the UI. remove old versions and update to newest version.
+Remove  what is being utilized for the collaborators, user profile , and dashboard (select2) and use what is being utilized for the creator lookup on the work edit form.
+Is this a duplicate of  #1307? Can we do HTML5 datalist?
+With the number of users and the security aspects we do not want to load all PSU people into the page.  This whould remain Twitter Type ahead.
+Won't fix. Check on this for the new version of ScholarSphere.

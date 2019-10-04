@@ -1,0 +1,2 @@
+Add indexes for HighestValue query.
+Should significantly improve performance of numismatics ingest in Production.

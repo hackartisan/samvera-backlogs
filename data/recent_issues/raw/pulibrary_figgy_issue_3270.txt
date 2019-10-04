@@ -1,0 +1,2 @@
+Wrap `read_groups.empty?` in a method called `private?` or similar
+for code readability.                figgy/app/models/ability.rb                    Line 183       in       d4f9890                                                     obj.decorate.public_readable_state? && !obj.read_groups.empty?

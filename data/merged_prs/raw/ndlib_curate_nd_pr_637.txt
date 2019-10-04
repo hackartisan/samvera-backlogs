@@ -1,0 +1,2 @@
+Updating CurateND to include Locabulary update
+Adding new program names and degrees  Related to DLTP-1071 DLTP-1073 # QA

@@ -1,0 +1,4 @@
+Change DOIs so they do not search internally when clicked
+DOI links should be external, not internal - ie submitting a search query, which is not helpful.
+If you put a complete address (such as https://doi.org/10.1186/s12864-018-4519-y) in the field and click the external link button, it resolves to the site. But clicking on the address itself does an internal search.  Example: https://ir.library.oregonstate.edu/concern/articles/vh53x1868  So, what is the best use of this field? If it is to just hold the DOI, it should not be searchable. 
+FYI: All of the DOIs now have the https prefix and external link pop-out buttons.

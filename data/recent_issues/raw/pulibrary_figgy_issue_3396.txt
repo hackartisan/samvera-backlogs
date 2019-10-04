@@ -1,0 +1,2 @@
+Automate DAO to SVN
+Blocked by #3170 Should run monday mornings. Requirements:    SVN checked out (on shared_data mount?)  Ability to send email on server that executes it

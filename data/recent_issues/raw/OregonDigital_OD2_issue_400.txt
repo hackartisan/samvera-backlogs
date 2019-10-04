@@ -1,0 +1,2 @@
+Implement refactor on all CVs from #395
+Descriptive summary We will have to take a swing back around and implement the multiple vocabulary stuff on the other single vocabulary CVs. Vocabulary is added but is just nil and is not being used.

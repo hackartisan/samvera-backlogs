@@ -1,0 +1,2 @@
+Contact page - Reposition send button
+On the contact page can we reposition the send button? I would like some space between the button and the orange line and for the button to be under the message box (see arrow below).

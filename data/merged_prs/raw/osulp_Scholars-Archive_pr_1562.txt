@@ -1,0 +1,1 @@
+updated model behavior to enable the attributes to be persisted

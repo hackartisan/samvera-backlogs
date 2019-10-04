@@ -1,0 +1,2 @@
+Searching within collections
+Provide a search box in the collection's landing page that displays search results for works within the collection. Uses the same UI framework as the browse page, which includes a title element with the name of the collection, as well as an additional search bar to refine the within-collection search. Includes facets. See #894 Child of #483

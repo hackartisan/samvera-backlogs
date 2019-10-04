@@ -1,0 +1,2 @@
+Check site CSS in Dark Mode.
+Descriptive summary As a user that prefers Dark Mode in my OS and browsing life, I'd like Oregon Digital to respect that and remain usable. Expected behavior When I've set a Dark Mode world, I want a Dark Mode life: https://caniuse.com/#search=prefers-color-scheme  Now in Safari, coming to Firefox and Chrome. Related work Link to related tickets or prior related work here.

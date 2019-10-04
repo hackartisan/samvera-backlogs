@@ -1,0 +1,3 @@
+Human readable dates on the index view
+Dates should be in the format September, 05 2015; HH:MM:YYYY
+YYYY-MM-DD format

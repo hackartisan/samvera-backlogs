@@ -1,0 +1,2 @@
+Fixed the flatten/repeated component tree display issue when component tree depth > 2.
+https://lib-jira.ucsd.edu:8443/browse/DHH-660

@@ -1,0 +1,7 @@
+Press landing page should use subdomain
+Extracted from #93 and Blocked by #56 Acceptance criteria   There's a page at <subdomain>.<main-press-fqdn>  We may also need to host a press completely under its own domain (e.g. leverpress.org).
+Updated #56. Is that all we need to unblock this story? 
+Yes, this is now unblocked.  
+AC: When a user is on a press subdomain, search works only within that subdomain. 
+To have a press under its own domain (not a subdomain of fulcrum.org), would the same solution apply?
+We need to raise this for HEB, Lever, UMPRE though.

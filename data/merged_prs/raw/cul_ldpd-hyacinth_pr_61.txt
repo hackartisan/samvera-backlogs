@@ -1,0 +1,1 @@
+Adding .ruby-version and .ruby-gemset to gitignore list for repository.

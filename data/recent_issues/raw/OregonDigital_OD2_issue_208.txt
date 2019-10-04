@@ -1,0 +1,2 @@
+[3] Add validation to allow oEmbed media or regular media, but not both
+Descriptive summary Media added to a work and oEmbed media should not both exist on the same work. Expected behavior Add validation to check that if media is already added to a work, oEmbed is not able to be added. If oEmbed is specified for a work, regular adding of media files is disabled for that work. Related work #207

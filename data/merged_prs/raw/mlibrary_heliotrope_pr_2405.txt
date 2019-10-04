@@ -1,0 +1,2 @@
+HELIO-2796 - update csb 
+Update CSB to use current master which includes a patch for displaying tables in modal on safari

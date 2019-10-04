@@ -1,0 +1,2 @@
+Customize link and button colors
+Fixes #274 Hyrax 2.x > has admin appearance form to set colors in the app; such as button and link colors. To set these colors to UC red, etc, add an initializer to update the appearance form object at startup. Changes proposed in this pull request:  Add appearance.rb initializer Add feature test to check that the colors have persisted in the form

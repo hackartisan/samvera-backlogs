@@ -1,0 +1,1 @@
+fix work indexer for representatives, when representative is a work

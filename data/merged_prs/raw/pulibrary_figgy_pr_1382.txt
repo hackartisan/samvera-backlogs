@@ -1,0 +1,2 @@
+Restructuring FileAppender in order to raise exceptions when a file cannot be created or updated
+Resolves #1366

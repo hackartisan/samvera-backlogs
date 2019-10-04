@@ -1,0 +1,2 @@
+Feature/triplestore
+fixes #360

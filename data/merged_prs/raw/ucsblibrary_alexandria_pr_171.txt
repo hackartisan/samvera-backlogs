@@ -1,0 +1,2 @@
+Collections: remove thumbnail
+The random thumbnail chosen was often worse than nothing at all.

@@ -1,0 +1,2 @@
+Set Ruby Version for development environments
+Setting .ruby-version nudges development environments toward the Ruby used in production (MRI 2.5.1).

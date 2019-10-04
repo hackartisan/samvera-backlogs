@@ -1,0 +1,2 @@
+Removing external download behavior as it is no longer needed
+Also fixed up comments in an actor override refs #1443

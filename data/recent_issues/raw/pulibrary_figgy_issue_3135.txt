@@ -1,0 +1,2 @@
+Manifest support for PDFs
+IIIF 2 or 3?

@@ -1,0 +1,2 @@
+keep collection show image from overflowing it's place
+until we get to redesigning this page entirely, keep it working. before change:

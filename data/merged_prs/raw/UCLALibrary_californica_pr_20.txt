@@ -1,0 +1,2 @@
+use more UCLA-specific placeholder branding, fixes #13 and #14
+Changed application name to "Samvera", replaced the DCE placeholder logo with the UCLA Library logo, styled top navigation to match, replaced the banner image with a UCLA banner image.

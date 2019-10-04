@@ -1,0 +1,5 @@
+Change which collections appear on homepage
+Can we change which collections appear in the box on the homepage? At the moment it looks like you see the 5 collections that were created first (i.e. the oldest). Would it be possible for us to specify which ones appear there (like the feature option)?
+@yf508 Does Hyrax support displaying _modified last_ instead of _created first_? If it does that could maybe be an interim solution
+@IAlferink I don't think Hyrax directly support the displaying order but I think it won't be hard to implement that.
+@yf508 Ok, so eventually I would like it if we could choose what appears there. We have a nested structure and it would be good if the top levels would show there. In the meantime if you can easily implement _modified last_ that would be good.

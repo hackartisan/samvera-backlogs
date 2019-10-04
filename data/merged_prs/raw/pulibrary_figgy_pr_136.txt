@@ -1,0 +1,2 @@
+Use faster jQuery UI
+The newer version of jQuery UI has some performance problems that make it so the file manager doesn't render when there's many pages.

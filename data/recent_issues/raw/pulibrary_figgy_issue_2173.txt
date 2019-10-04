@@ -1,0 +1,2 @@
+Coin form reorg
+Reorganize the coin forms and show page to match the order from the existing application:  coin number collection location issue Description: counter stamp analysis public information private information find: region/state/city find date feature locus number find description images accession provenance and references  Child of #2025

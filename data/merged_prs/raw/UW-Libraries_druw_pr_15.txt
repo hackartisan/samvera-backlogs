@@ -1,0 +1,2 @@
+Static page consolidation
+I was going to wait to merge these initial changes, but making the über policies page is going to be more involved than expected. Please specifically take a look at: config/locales/hyrax.en.yml  I had to manually merge the changes from PR #14. Also, the changes to config/role_map.yml occurred at build time due to the command that copies all *.yml.template files to their corresponding *.yml file.

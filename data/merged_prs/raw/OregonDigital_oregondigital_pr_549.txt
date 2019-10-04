@@ -1,0 +1,2 @@
+Update bookreader fullscreen button when using the ESC key
+Fixes #548

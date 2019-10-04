@@ -1,0 +1,1 @@
+adding tests to confirm users must be logged in to submit etds

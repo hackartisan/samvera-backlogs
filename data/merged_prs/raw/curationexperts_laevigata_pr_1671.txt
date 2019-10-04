@@ -1,0 +1,1 @@
+Fixed a problem where supplemental file metadata wasn't properly being saved. Connected to #1445

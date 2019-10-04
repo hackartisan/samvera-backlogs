@@ -1,0 +1,2 @@
+Remove member_ids from accessions
+Closes #2216

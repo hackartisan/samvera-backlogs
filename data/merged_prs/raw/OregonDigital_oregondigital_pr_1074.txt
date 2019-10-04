@@ -1,0 +1,1 @@
+pins to devise 3.x for the production servers ruby version

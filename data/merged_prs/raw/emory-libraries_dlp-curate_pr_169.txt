@@ -1,0 +1,2 @@
+Adds file upload limit 2.5 gb
+Closes #143

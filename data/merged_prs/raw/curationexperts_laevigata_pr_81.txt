@@ -1,0 +1,2 @@
+Changing predicates per request from Emily Porter
+Addresses #16

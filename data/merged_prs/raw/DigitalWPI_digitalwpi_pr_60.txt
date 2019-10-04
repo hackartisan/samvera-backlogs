@@ -1,0 +1,2 @@
+added fedora configuation to look at the environment variables
+connects to #56

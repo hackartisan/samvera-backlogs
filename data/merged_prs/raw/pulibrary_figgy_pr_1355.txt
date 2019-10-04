@@ -1,0 +1,2 @@
+Insert download url into FGDC file after vector derivatives are created
+Closes #1283

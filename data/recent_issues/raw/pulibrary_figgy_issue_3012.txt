@@ -1,0 +1,2 @@
+update import - Issue thumbnail will not display with the numismatics import
+With the numismatics import the issue thumbnail will not display even if I update and save the issue again. If I create a new issue and attach a coin with an image, the issue will have a thumbnail.

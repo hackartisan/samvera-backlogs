@@ -1,0 +1,2 @@
+Rate limiting
+STORY As a repository manager I want users to be able to access the site without being negatively impacted by bots or other automated services crawling the site. Note: We still want to allow Google etc to index the site. ACCEPTANCE   Interactive response time does not degrade when the site is being indexed  Content in the site is still accessible to crawlers

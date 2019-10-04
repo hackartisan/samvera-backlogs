@@ -1,0 +1,2 @@
+System Checkups
+Based on a talk at 2018 RailsConf https://rofreg.com/talks/railsconf2018 These are a suite of tasks that check on the system's overall health and identify any anomalies or anything that's "not supposed to happen." An example would be an orphaned work without a parent collection, or other states that the application should guard against, but for some unforeseen reason, has not. The tasks can be run at specified intervals, when requested, or around other actions, such as deploying.

@@ -1,0 +1,2 @@
+Make Location Copy--Shelf Location uncontrolled
+Remediate Location Copy--Shelf Location URIs to strings

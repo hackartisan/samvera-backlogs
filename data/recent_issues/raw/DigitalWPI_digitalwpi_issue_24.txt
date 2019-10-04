@@ -1,0 +1,1 @@
+set up Capistrano to deploy code to dev, qa, and prod.

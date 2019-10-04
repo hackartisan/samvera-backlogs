@@ -1,0 +1,2 @@
+Use the schools.yml file to decide what AdminSets to create.
+Also, remove nursing school from config until we're ready to incorporate them.

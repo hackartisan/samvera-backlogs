@@ -1,0 +1,2 @@
+Implements CleanupDerivatives change set persister handler and CleanupDerivativesJob
+Updating Valkyrie to samvera/valkyrie@dfcf195 Resolves #147 by extending the derivative services and implementing the CleanupDerivatives handler for the PlumChangeSetPersister

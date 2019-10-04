@@ -1,0 +1,2 @@
+Use honeybadger.io for exception tracking
+I would like to try using honeybadger.io to track exceptions in production. Right now we are trying to diagnose Emory submission problems and grepping through the log files feels like a time sink. Let's give this a try.

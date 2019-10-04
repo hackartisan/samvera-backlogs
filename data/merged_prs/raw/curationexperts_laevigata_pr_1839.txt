@@ -1,0 +1,2 @@
+Delete embargo when user updates the record to no embargo
+From Fran: "as an Approver requested changes to un-embargo, I un-embargoed the files and re-submitted and chose "Request Review" but the changes to the embargo were NOT saved."

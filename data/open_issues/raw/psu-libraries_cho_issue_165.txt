@@ -1,0 +1,2 @@
+Web Accessibility
+As a disabled person, I would like CHO to be compliant with web accessibility standards (such as W3C WCAF 2.0 and Section 108), So that I may access CHO and it's content.

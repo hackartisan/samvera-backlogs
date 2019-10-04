@@ -1,0 +1,2 @@
+Account for records with nil identifiers
+Closes #1043

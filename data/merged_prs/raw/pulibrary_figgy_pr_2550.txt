@@ -1,0 +1,2 @@
+Add bulk complete UI
+Bulk edit button displays on search results page when a collection facet is selected. search params are passed around so we can retrieve the same results set Bulk edit controller queues 1 update job per 50 resources  Closes #1860 Closes #2494 Closes #697 Other functionality moved to #2586

@@ -1,0 +1,2 @@
+ensure language is multi-valued
+Resolves #646

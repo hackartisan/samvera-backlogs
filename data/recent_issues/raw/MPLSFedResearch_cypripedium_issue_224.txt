@@ -1,0 +1,2 @@
+Add persistent directory for bag export
+We need either  server provisioning to create a directory where bags get exported to and and appropriate ENV variable set  or  The directory to be created by the application if it doesn't already exist

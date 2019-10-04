@@ -1,0 +1,2 @@
+Update helptext on edit page
+Descriptive summary Review and improve helptext to encourage self-depositors to include appropriate information in the correct formats, particularly for the fields listed below:  Contributor DOI Non-academic affiliations

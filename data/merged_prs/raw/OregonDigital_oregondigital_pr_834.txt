@@ -1,0 +1,2 @@
+Spatial Search Indexing
+This indexes latitude/longitude fields in solr for spatial searches.

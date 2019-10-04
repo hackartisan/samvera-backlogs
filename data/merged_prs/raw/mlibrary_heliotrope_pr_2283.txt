@@ -1,0 +1,2 @@
+Resolves HELIO-2579: Download page-image epub chapters only for 'heb'.
+heb book https://heliotrope-staging.hydra.lib.umich.edu/concern/monographs/xg94hp96x?locale=en heliotrope book https://heliotrope-staging.hydra.lib.umich.edu/concern/monographs/7w62f8676?locale=en Open the above links in incognito windows do see the difference between the TOC on different presses.

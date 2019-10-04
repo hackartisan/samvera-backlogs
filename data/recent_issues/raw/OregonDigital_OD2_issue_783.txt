@@ -1,0 +1,2 @@
+Images arent being characterized/derivativeized 
+Descriptive summary This may have to do with some old code lingering around s3 derivative work or around the new k8s setup, but when you ingest any work with a file, the file doesn't actually get "uploaded" You can add as many files as you can as many times as you can and it wont add them.

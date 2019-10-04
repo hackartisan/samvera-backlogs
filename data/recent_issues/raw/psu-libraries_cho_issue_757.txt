@@ -1,0 +1,2 @@
+Validate bags with nested works
+When bags contain nested works, and one of the child works has an error, the errors needs to be "surfaced" along with any other errors in the parent work or its file sets. Child of #408

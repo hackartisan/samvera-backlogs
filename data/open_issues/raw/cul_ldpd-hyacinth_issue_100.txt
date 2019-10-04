@@ -1,0 +1,2 @@
+Primary Publish Target for a Project
+Need to be able to se a primary project publish target for a project. We talked about having a doi_priority field for each publish target. doi_priority will be a number that will probably be mapped to a more user friendly term in the front end. The lowest number would represent the highest priority.

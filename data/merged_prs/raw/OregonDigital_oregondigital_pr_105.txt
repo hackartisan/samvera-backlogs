@@ -1,0 +1,2 @@
+Feature/allow custom module in qa
+Probably overkill with the array of patterns, but I'm not sure our needs, and it works ... and I originally thought we needed it :P

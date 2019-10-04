@@ -1,0 +1,2 @@
+Configuring to use resque
+fixes #333

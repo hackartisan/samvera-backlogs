@@ -1,0 +1,2 @@
+Moves revision text to inside of the link
+Description Accessibility test revealed that the revision text outside of the link doesn't give the link enough context. Connected to #902 Changes  link_to block for revision text and revision number

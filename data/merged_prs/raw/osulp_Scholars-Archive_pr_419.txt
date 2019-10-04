@@ -1,0 +1,2 @@
+Adds date dropdown and js associated
+Fixes #369 Fixes #370

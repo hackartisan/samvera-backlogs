@@ -1,0 +1,1 @@
+Don't display an empty UV when attaching a resource with no FileSet

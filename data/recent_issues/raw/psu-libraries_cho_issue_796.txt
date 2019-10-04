@@ -1,0 +1,2 @@
+File Set Landing Page Enhancements
+As a Chromebook user, I would like to know more information (filename, file format, and size) about the files available for download, So that I can choose a file appropriate to my need and available storage. Enhancement: #63, #649 Blocked by #649

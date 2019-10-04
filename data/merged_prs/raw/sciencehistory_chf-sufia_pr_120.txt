@@ -1,0 +1,2 @@
+Change file creator authority, fixes #117
+Changed 'Penn Libraries' to 'The University of Pennsylvania Libraries'. Also took the opportunity to reorder a genre term.

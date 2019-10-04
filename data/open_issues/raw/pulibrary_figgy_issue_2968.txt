@@ -1,0 +1,3 @@
+Bulk Download Functionality for Fulfillers
+Existing download functionality is cumbersome to use for more than a few images or items.  Fulfillers sometimes need to download many items at once, e.g.:  TIFF files for several pages in a book, up to an entire book TIFF files for several items in a collection, up to an entire collection PDF files for several items in a collection, up to an entire collection
+Some ideas: * Add a button to the bulk edit screen for "download these items as TIFF images" or "download these items as PDF" * Add a button to the order manager for "download these pages as TIFF images" or "download these pages as JPEG images"  These would stage the items to disk somewhere accessible by the user, and send an email with the location when done

@@ -1,0 +1,2 @@
+rescue errors during bulk updates
+fixes #1961

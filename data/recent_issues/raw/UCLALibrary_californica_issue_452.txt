@@ -1,0 +1,2 @@
+Do not require Creator and Keyword fields in edit screen
+Currently, the Californica edit screen requires that the Creator and Keyword fields have values filled in before you can save the object. This doesn't work for UCLA, because many objects don't have any values for those fields and so the edit form can't be used to update them. ACCEPTANCE CRITERIA   Keyword is not required on the edit screen  Creator is not required on the edit screen

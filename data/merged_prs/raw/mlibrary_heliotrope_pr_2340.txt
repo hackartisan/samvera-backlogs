@@ -1,0 +1,2 @@
+2404_aptrust_clean_up4
+Changes:  No longer prepending 'fulcrum.org.' since all fulcrum SIPs are in the APTrust fulcrum domain. Create the Settings.aptrust_bags_path directory if it doesn't exist. Added 'Internal-Sender-Description' and 'Internal-Sender-Identifier' to the bagit-info.txt file since they are shown in the a Pharos interface. Fixed bug in display of the monograph title in the Pharos interface. Use solr only as opposed to solr and ruby select to get published solr docs.

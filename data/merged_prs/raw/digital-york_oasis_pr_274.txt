@@ -1,0 +1,2 @@
+Fixes unexpected search behaviour
+Correct misuse of default solr search parameter in Oasis search builders.  Resolves #271 and #273.

@@ -1,0 +1,2 @@
+Add archival_collection_code during mods import
+refs #1978 but doesn't close the issue because once this is merged the mods needs to be re-imported to add the new value.

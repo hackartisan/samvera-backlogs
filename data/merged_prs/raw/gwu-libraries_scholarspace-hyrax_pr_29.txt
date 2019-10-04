@@ -1,0 +1,1 @@
+Removes Explore Collections/Featured Researcher area. Fixes #6

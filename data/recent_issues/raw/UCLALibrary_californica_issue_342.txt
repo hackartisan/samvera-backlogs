@@ -1,0 +1,2 @@
+document how to troubleshoot ingest problems
+The ingest process sometimes fails, we need to document the troubleshooting process, so team members can resolve any issues that may come up. Related to #192

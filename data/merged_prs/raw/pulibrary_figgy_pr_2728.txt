@@ -1,0 +1,2 @@
+Don't pass change_set if it's edit
+Closes #2727

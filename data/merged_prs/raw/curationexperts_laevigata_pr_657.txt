@@ -1,0 +1,2 @@
+Remove linked data views because they expose embargoed data
+Fixes #562

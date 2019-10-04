@@ -1,0 +1,2 @@
+Change Citeable URL to https, update spec.
+Fixes #1416

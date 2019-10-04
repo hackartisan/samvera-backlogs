@@ -1,0 +1,2 @@
+Stop using publish_metadata_remotely, use Dor::Services::Client.object(pid).publish
+Backtrace line 120 of [PROJECT_ROOT]/app/models/hydrus/generic_object_stuff.rb: publish_metadata line 76 of [PROJECT_ROOT]/app/models/hydrus/collection.rb: save line 81 of [PROJECT_ROOT]/app/controllers/hydrus_collections_controller.rb: update  View full backtrace and more info at honeybadger.io

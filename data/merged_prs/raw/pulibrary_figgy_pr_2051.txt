@@ -1,0 +1,2 @@
+Ensuring that the ScannedResourcesController test suite expects both the original file and MP3 derivative for audio reserve resources
+ScannedResources with audio files attached to their FileSets now have MP3 derivatives generated.  This accounts for those derivatives.

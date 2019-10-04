@@ -1,0 +1,3 @@
+student type work selection 
+See #1426 Render the work type selection modal in the context of what type of student or employee is viewing the page. If the user is an administrator, render everything. For students; depending on what type of student they are, render the appropriate work type selections in the modal. For employees; render the selections in a somewhat different order to give preference near the top of the modal to works they are most likely to ingest?
+we don't have a way to test this on staging given integration with onid authentication. @revgum if you've run a local qa test, let me know and we can move it over the qa complete.

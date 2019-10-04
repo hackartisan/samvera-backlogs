@@ -1,0 +1,2 @@
+Add sitemap
+Fixes #180 Copied over Kyle's sitemap code from uclibs/scholar_uc_legacy#1612 Changes proposed in this pull request:  Add sitemap controller, route, view and spec

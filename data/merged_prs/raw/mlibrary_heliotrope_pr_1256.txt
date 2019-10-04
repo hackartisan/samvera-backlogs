@@ -1,0 +1,2 @@
+platform admins can always download files
+Resolves #1215

@@ -1,0 +1,2 @@
+added NestedOrderedCreator model
+fixes #1544 usage: > d = Default.new(title:["test"],nested_ordered_creator_attributes:[{index:"0", creator:"Greg Luis"}]).save > d.nested_ordered_creator.first.id => "http://fcrepo:8080/rest/dev/vx/02/1f/08/vx021f082#nested_ordered_creatorg47002074968760" > d.nested_ordered_creator.first.index => ["0"] > d.nested_ordered_creator.first.creator => ["Greg Luis"]

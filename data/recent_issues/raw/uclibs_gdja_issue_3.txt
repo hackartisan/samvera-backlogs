@@ -1,0 +1,2 @@
+Remove samvera group addresses from templates
+Descriptive summary Issue and PR templates have addresses for samvera dev groups. Take them out.

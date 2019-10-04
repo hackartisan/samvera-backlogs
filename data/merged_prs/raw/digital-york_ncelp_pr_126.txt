@@ -1,0 +1,2 @@
+decrease gap between featured and recent works
+resolves #118

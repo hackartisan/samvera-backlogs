@@ -1,0 +1,2 @@
+refactor projects subresources, import_job and csv_exports controllers
+move projects actions to subresources add routing tests add spec for dynamic_field_controller edit and update correct save logic for a new ImportJob in #create correct helper method calls in views, test edit views

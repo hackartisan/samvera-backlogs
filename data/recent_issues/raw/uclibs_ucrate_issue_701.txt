@@ -1,0 +1,2 @@
+Add College field to user profile pages
+Descriptive summary When viewing a user's profile page their Department is displayed, but not their College. We should add College directly above Department and use the contents of user.college (this gets automatically generated from user.ucdepartment).  In your local environment, set your ucdepartment field to "UCL My Department" as an example. If the College field is blank, we don't want to display the College label.

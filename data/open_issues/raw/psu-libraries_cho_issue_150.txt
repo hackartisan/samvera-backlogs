@@ -1,0 +1,3 @@
+Rotate Images
+As repository manager, I want to rotate misoriented images and save the new orientation, So that I don't have to reupload an image. Ann P.
+NOT a universal viewer concern

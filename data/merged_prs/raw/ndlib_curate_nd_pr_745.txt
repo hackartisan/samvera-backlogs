@@ -1,0 +1,2 @@
+Adding form validation for attachments
+By adding the "required: true" attribute to the f.input :file, when I go to click the Submit button for the form, if I have not attached a file, then the the HTML 5 required attribute renders a "! Please select one or more files" warning pointing to the file input element. DLTP-1530

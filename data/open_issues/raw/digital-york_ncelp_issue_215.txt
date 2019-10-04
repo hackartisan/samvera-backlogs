@@ -1,0 +1,2 @@
+Make video streaming available
+Make video streaming available on the resource details page.

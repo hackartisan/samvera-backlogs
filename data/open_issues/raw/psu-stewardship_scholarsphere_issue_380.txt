@@ -1,0 +1,4 @@
+Publication and Curation Services' library page moved 
+The help page refers to the old publication and curation page. Created a one line code change 75962ea @olendorf @kestlund I believe the page moved from http://www.libraries.psu.edu/psul/pubcur.html to https://libraries.psu.edu/about/departments/publishing-and-curation-services Did I find the correct page?
+I am deploying this fix tomorrow morning. 
+That page is good for now. It will likely change as we vamp up the services on Libraries' website. 

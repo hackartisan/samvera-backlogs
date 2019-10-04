@@ -1,0 +1,2 @@
+Add helper to generate derivative URLs for audio and video items
+Adds two partials for audio and video items (app/views/catalog/_show_audio_item.html.erb and app/views/catalog/_show_video_item.html.erb) New helper method (derivative_urls) to return an array of derivative URLs for the current item. See example of use in the above partials. Minor refactoring of portal.rb initializer for clarity and to make it not required.

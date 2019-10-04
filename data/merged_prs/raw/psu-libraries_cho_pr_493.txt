@@ -1,0 +1,2 @@
+Adding csv export 
+Adds .csv format to show for work and collection Adds method name to field Changed field methods defined on SolrDocument to not conflict with existing methods. resource field vs resource method existing on solr document Changes indexer to use new method name  Description References ticket: (if any) refs #17 Why was this necessary? Adding export as requested by users Changes Are there any major changes in this PR that will change the release process? no Checklist   adequate test coverage

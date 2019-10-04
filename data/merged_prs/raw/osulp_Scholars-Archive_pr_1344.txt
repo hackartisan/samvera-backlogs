@@ -1,0 +1,2 @@
+Change Thesis Resource Type to valid one
+fix #1097

@@ -1,0 +1,2 @@
+Add cron job via whenever to clean up /tmp
+This uses the same method as laevigata to cleanup the /tmp directory. It doesn't remove files from the upload directory. It also empties the blacklight searches table nightly. Connected to #117

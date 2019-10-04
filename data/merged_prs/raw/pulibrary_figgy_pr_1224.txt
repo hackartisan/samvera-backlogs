@@ -1,0 +1,2 @@
+Removing worker role from production webservers
+Fixes #1223

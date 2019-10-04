@@ -1,0 +1,2 @@
+fix nil error for work auth w/o user, make sure queue counts are not cached in dashboard
+This fixes a nil exception when viewing the errors page. The issue here is that "Notch8" is not a valid email address, thus no user gets created, but the view was counting on the user when displaying the work authorization error.

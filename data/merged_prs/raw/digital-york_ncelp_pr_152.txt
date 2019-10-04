@@ -1,0 +1,2 @@
+load GA info from Fagaro
+resolves #151

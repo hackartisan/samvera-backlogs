@@ -1,0 +1,1 @@
+Constrain collection portal routes to configured portals

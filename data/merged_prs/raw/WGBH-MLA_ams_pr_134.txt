@@ -1,0 +1,2 @@
+AMS2-468 Adding search fields
+Also fix, minimally catalog facet.

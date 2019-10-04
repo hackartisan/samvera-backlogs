@@ -1,0 +1,2 @@
+Establish Administrator user group for Hyrax
+Discussed in 12/12 release planning meeting for 0.1   Add Emily (eporter@emory.edu)  Confirm additional members to add: Nik Dragovic, Alex Cooper, Cari Lovins, Collin Brittle

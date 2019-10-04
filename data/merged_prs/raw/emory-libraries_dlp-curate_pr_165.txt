@@ -1,0 +1,2 @@
+Makes factory traits dynamic
+Rubocop complains that the current factories use static traits, which will be removed in a upcoming version of FactoryBot. This changes them to be dynamic, and removes those warnings.

@@ -1,0 +1,2 @@
+Add custom terms to form
+This commit adds the custom terms to the WorkForm object. By adding these terms to that object, they become editable on the work's form in the editing interface. This also adds additional locale config so that they show up on the edit screen with the correct labels.

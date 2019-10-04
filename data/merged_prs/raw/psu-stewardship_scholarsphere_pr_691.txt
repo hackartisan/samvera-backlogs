@@ -1,0 +1,2 @@
+Do not let the user choose collection if it is already selected
+Addresses #678 by renaming the "Add to Collection" button to the collection that the user has navigated from. Creates a presenter from the collection in order to get the name, but could also be used in the future to display additional UI elements such as description, thumbnail, or anything else that was in the previous collection display page. Note: renaming the spec file for My::WorksController is in a separate commit so we can better see what changes we made to the original spec test.

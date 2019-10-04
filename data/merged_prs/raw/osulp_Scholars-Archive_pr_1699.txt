@@ -1,0 +1,2 @@
+Add alt_title to All Fields search
+Fixes #1698

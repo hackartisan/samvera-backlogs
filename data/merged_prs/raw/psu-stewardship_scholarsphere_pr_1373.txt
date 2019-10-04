@@ -1,0 +1,2 @@
+Update Retired UMG Link
+Updated the link to manage your UMGs to the new service URL. Fixes #1355

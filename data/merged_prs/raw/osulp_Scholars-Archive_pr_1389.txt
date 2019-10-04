@@ -1,0 +1,2 @@
+Revert "updated logic for sending notifications on other options"
+Reverts #1388

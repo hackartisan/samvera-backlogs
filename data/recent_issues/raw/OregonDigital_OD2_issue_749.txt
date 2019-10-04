@@ -1,0 +1,2 @@
+Check on and resolve CVE-2015-9284
+Descriptive summary CVE-2015-9284 has security implications with OmniAuth authentication. We need to look at https://github.com/omniauth/omniauth/wiki/Resolving-CVE-2015-9284 and identify any mitigations that need to be applied. Extra credit: Exploit the vulnerability to help identify if fixes worked. Expected behavior OD2 authentication is not vulnerable to CVE-2015-9284 Related work https://github.com/omniauth/omniauth/wiki/Resolving-CVE-2015-9284 Accessibility Concerns N/A

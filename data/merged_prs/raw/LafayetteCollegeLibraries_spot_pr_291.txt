@@ -1,0 +1,2 @@
+move download primary file to button; export to dropdown
+changes around the download/export button on the Publication show page  now the green button offers to download the item (traditional hyrax behavior), and the additional options include exporting as a zip as well as the metadata. closes #281

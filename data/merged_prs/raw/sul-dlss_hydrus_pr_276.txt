@@ -1,0 +1,2 @@
+Use Jquery 3 to avoid CVE-2015-9251
+See https://nvd.nist.gov/vuln/detail/CVE-2015-9251

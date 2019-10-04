@@ -1,0 +1,3 @@
+Set Solr Service rows
+The Sufia logs are filled with WARN -- : Calling ActiveFedora::SolrService.get without passing an explicit value for ':rows' is not recommended. You will end up with Solr's default (usually set to 10) This isn't a real problem, but makes sorting through the logs a bit more of a pain to find actual useful info. Setting the rows might remove this.
+yeah, we haven't figured out how to fix that, but are annoyed by it too. It's not as easy as "setting the rows", got to figure out where in the stack is issuing the solr query and get that part to 'set the rows'. It's likely this is fixed in hyrax, but may not be.  It's not our code doing it, we think, but some code deep in the stack. 

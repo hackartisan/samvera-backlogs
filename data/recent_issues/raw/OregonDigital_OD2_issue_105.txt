@@ -1,0 +1,2 @@
+fcrepo_wrapper, solr_wrapper and solr configs
+Descriptive summary fcrepo_wrapper and solr_wrapper are not used by OD2 and only clutter the codebase with invalid files. Solr configs should be moved to the config directory for consistency sake.   remove fcrepo_wrapper and solr_wrapper gems  remove fcrepo_wrapper and solr_wrapper files from project root  move /solr into /config  update docker-compose and circleci configs to point at /config/solr

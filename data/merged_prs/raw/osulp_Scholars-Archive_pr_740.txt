@@ -1,0 +1,2 @@
+Feature/sa notification emails
+fixes #708

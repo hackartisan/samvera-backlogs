@@ -1,0 +1,2 @@
+Fixes #526 - Remove markdown in Twitter share link.
+Created TitlePresenter concern and added concern to File_Set, Section, and Mongraph Presenters.

@@ -1,0 +1,2 @@
+Remove "masters thesis" from type of work
+It duplicates "thesis or dissertation"

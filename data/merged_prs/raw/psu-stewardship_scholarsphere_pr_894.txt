@@ -1,0 +1,2 @@
+Reset FileSet permissions when transferring works, ref #893
+When transferring works, the contained file sets were not getting the permissions changed in the same way as the works. The original depositor was still retaining edit rights and the visibility was not getting changed. Resetting the permissions on the file set, when the flag is used, fixes the issue.

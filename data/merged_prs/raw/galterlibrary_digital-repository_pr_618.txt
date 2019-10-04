@@ -1,0 +1,2 @@
+add COAR logo to footer. closes #535
+deploying to staging to get feedback on location of coar logo before merging.

@@ -1,0 +1,2 @@
+Add separate form/ChangeSet for Sammelband components
+Like the current "Add Child Volume", except:  Display Collection and Source Metadata Identifier fields Sync to DPUL as its own object (if Source Metadata Identifier is populated)  As part of this, don't allow source_metadata_identifier on child volumes. Child of #247

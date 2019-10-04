@@ -1,0 +1,3 @@
+Move the 'Apply Changes' button?
+The 'Apply Changes' button in the Vue file manager is in the contextual pane, so it's not really clear that it's for the entire page, not for each individual page.  Maybe it should be at the top of the page, or somewhere else?
+Labeled. I'd rather user test the Vue file manager to see if it's a problem.

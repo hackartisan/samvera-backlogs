@@ -1,0 +1,2 @@
+install brakeman to app and add config file.
+closes #11

@@ -1,0 +1,2 @@
+Do not re-try box attachment jobs
+If a file fails to attach from box.com, it isn't going to recover and succeed next time -- do not keep re-trying it. Instead, log the id of the ETD that had a problem and be able to track down whether it eventually got all it's files. Connected to #992

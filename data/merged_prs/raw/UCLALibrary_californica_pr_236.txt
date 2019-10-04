@@ -1,0 +1,2 @@
+Clean `PermissionTemplate` instances when clean task destroys AdminSets
+When destroying an AdminSet, the attached PermissionTemplate in the relational database need to be cleaned up. If this is neglected, recreating the default AdminSet (or any other admin set with a previously existing id). The californica:ingest:clean task is changed to destroy existing permission templates after running ActiveFedora::Cleaner.clean!. This should restore the functionality of nightly ingest. Closes UCLALibrary/amalgamated-samvera#101

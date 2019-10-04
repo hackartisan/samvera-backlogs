@@ -1,0 +1,2 @@
+Rename 'access_copy' to 'iiif_access_url'
+This matches bucketeer usage and is a better description.

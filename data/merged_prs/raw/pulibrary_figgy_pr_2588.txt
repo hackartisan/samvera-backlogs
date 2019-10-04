@@ -1,0 +1,2 @@
+Implement IIIF search-within.
+Closes #225.

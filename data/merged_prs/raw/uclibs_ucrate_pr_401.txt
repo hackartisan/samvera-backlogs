@@ -1,0 +1,2 @@
+Customize note at top of batch upload form
+Fixes #397 Change note and link at top of batch upload form for single work creation. Make the link dynamic so that it reflects the current work type. Changes proposed in this pull request:  Add hyrax override for app/views/batch_uploads/_form.html.erb.rb Add view spec

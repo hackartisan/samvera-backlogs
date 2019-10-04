@@ -1,0 +1,2 @@
+add the monograph's id to its section(s) for #187
+Makes the edit section page's monograph dropdown be set to the section's monograph. Resolves #187

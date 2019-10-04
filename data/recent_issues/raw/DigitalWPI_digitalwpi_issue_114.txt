@@ -1,0 +1,2 @@
+analyze weblog
+storage.wpi.edu:/ifs/archive/logs/weblog web.wpi.edu logs.

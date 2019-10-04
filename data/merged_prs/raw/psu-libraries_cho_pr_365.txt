@@ -1,0 +1,2 @@
+Refactoring the controllers to remove duplicate code dealing with changeset
+ref #298 This does not answer the question related to the changeset, but there was some duplicate code I noticed.

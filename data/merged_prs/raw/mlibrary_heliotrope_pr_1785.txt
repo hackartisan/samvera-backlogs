@@ -1,0 +1,2 @@
+citations: pub year and location
+Resolves #1776 Resolves #1777

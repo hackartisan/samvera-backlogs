@@ -1,0 +1,2 @@
+Works not saving when a virus is found in one of the files
+Descriptive summary (tested on scholar-qa) When creating a work and using the test virus string, Scholar detects the virus, but when the user clicks the Save button an HTTP ERROR 400 is returned. Not sure if this is isolated to scholar-qa, or production mode, or is present in all environments.

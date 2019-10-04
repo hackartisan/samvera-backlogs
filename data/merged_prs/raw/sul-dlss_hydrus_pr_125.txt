@@ -1,0 +1,2 @@
+Redirects terminate the request cycle
+Fixes https://app.honeybadger.io/projects/49897/faults/34240992#notice-summary.

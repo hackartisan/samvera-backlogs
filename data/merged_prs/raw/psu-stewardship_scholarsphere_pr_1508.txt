@@ -1,0 +1,2 @@
+Fixing sample so it points at the correct directory for test and dev
+Causes LDPNot Found and 404 errors if the Filestore and the Host does not match up

@@ -1,0 +1,2 @@
+includes cleanup script for posterity sake
+fixes #1165

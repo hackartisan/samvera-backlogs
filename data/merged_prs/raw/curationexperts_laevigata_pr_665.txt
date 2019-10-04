@@ -1,0 +1,2 @@
+Display git commit in footer
+Fixes #659

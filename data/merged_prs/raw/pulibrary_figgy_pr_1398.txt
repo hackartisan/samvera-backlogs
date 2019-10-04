@@ -1,0 +1,2 @@
+Implementing IngestArchivalMediaBagJob#add_thumbnail and IngestArchivalMediaBagJob#create_image_file_set for ingesting JPEGs in AV bags
+Resolves #1390

@@ -1,0 +1,2 @@
+Fixes search history facets
+This removes the previous hack that was causing the search history problems and replaces it with a shim on Blacklight's facet labelling. This also fixes an issue with testing where the ntriples mime-type wasn't registered Closes #380

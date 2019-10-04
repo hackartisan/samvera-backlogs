@@ -1,0 +1,2 @@
+Update metadata import for ArchivalMediaCollection
+Fixes fixture to use the ?scope=record format, updates PulMetadataServices to a version that can handle it, and adds a test to ensure metadata is extracted.

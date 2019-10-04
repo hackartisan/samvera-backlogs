@@ -1,0 +1,2 @@
+Remove production environment variables from README
+These are now managed and documented in ansible. Fixes #1127

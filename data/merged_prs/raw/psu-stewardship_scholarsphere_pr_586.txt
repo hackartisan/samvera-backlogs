@@ -1,0 +1,2 @@
+Adding the ability to set the system to read only mode
+This will allow users to continue to view the system while not allowing for new Files & Collections, and updates to existing Files & Collections The read only page will either show a default message, or show the announcement block from the home page. Default:  Home Page Announcement:

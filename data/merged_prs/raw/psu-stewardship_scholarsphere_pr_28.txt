@@ -1,0 +1,2 @@
+fix for blacklight PR #960
+Putting this into Scholarsphere because it looks like it will be a while before projectblacklight/blacklight#960 gets into Blacklight.

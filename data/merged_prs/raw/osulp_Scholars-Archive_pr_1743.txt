@@ -1,0 +1,2 @@
+Revert "force a secure cookie on production or staging"
+Reverts #1734

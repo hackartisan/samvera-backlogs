@@ -1,0 +1,2 @@
+Media not playing on Edge
+User Story As a user, I need to be able to play and download proxy files from Sony Ci on Edge, so that I can have access to them through the system. Additional Information  I know we had this working on Staging, but maybe the final handshakes with Sony Ci never got put in place on Edge.  Done Looks Like  Media plays back on an record page User can download media using the download media button.

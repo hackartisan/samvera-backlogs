@@ -1,0 +1,3 @@
+Dashboard Registered User
+STORY As a registered user without any roles I'm in limbo. DETAILS What does it mean to be a registered user without any roles? ACCEPTANCE   TBD
+Until reg. users with no roles have the ability to build their own collections of items, acceptance criteria might be something like  - [ ] a registered user with no roles should not have access to the dashboard - [ ] this user sees they are logged in, but has no options to get to the dashboard in the user drop down menu.

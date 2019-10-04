@@ -1,0 +1,2 @@
+Confirm parent identifier strategy for migration mappings  
+In the DAMS mapping, we initially looked at Legacy Identifier, but this may contain other identifiers in some cases. In the DAMS spreadsheets, Digital Object - Parent Identifier may be the best option, but we should discuss any mapping implications.

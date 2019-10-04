@@ -1,0 +1,2 @@
+404 errors are ugly
+Rails default 404 errors are ugly:  An error page that stays within the layout/frame of the application would be less shocking to users.

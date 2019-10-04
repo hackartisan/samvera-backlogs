@@ -1,0 +1,2 @@
+replace turbolinks load with blacklight load in all javascript
+Descriptive summary Replace all JS calls depending on turbolinks:load to use Blacklight load callbacks to load Javascript. https://github.com/search?l=&q=turbolinks+repo%3Aosulp%2FScholars-Archive&type=Code

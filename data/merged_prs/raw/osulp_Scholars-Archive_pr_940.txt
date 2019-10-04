@@ -1,0 +1,2 @@
+Feature/update deploy hook
+this update fixes the ArgumentError in our deploy:published hook that failed during our last deploy: ArgumentError: wrong number of arguments (given 1, expected 0)  Tasks: TOP => deploy:restart_monit (See full trace by running task with --trace) ... ** DEPLOY FAILED ** Refer to log/capistrano.log for details. Here are the last 20 lines:

@@ -1,0 +1,2 @@
+Retry Derivative Jobs on Failure
+Closes #659

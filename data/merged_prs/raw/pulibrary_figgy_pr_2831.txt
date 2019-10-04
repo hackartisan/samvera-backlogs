@@ -1,0 +1,2 @@
+Strip spaces from incoming form data
+closes #2828

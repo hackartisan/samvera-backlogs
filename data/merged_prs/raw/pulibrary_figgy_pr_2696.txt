@@ -1,0 +1,2 @@
+Remove order manager button from monogram show page
+closes #2672

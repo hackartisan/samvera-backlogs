@@ -1,0 +1,3 @@
+Bulk (csv) upload: Add logging to work and collection loaders
+Moved from uclibs/scholar_uc_legacy#1687 Descriptive summary  Improve logging for work loader Add logging for collection loader
+Replace with API ingest

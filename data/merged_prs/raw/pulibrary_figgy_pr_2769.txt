@@ -1,0 +1,2 @@
+Handles errors raised when querying for resources during search result thumbnail generation
+Resolves #2765 by ensuring that errors raised from the QueryService when generating thumbnail markup on search result views are handled by rendering the default thumbnail image

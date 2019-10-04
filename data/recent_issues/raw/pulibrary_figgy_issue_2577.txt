@@ -1,0 +1,2 @@
+Improve handling of updates to resources with finding aid ARKs
+[Figgy/production] IdentifierService::RestrictedArkError: Unable to update ARK ark:/88435/z316q554p: it points to a Finding Aid URL. Change the identifier before marking this item complete.  Backtrace line 28 of [PROJECT_ROOT]/app/services/identifier_service.rb: update_metadata line 7 of [PROJECT_ROOT]/app/services/identifier_service.rb: mint_or_update line 22 of [PROJECT_ROOT]/app/change_set_persisters/change_set_persister/mint_identifier.rb: mint_identifier  View full backtrace and more info at honeybadger.io

@@ -1,0 +1,1 @@
+tell fcrepo_wrapper to use the same fedora version we have in production currently

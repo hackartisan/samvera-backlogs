@@ -1,0 +1,2 @@
+User type stats
+This could be in the admin stats for sufia, but seem institutional specific so putting in ScholarSphere As an admin I would like to be able to view the types of users: (student, grad student, faculty, staff) to report back on our effectiveness for targeted communications.

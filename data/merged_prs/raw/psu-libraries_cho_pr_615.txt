@@ -1,0 +1,2 @@
+Reporting dry-run results from bag import
+Description Fixes #562 Displays errors from a bag used in the CSV import process. Changes Are there any major changes in this PR that will change the release process? No Checklist   i18n enabled  adequate test coverage  accessible interface

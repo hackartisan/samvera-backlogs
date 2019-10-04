@@ -1,0 +1,2 @@
+#449 Correct Proxy Delete Path
+Fixes #449  ; Previously, the JSON returned to the proxy management page returned a path to the delete function that contained dots.  Rails wants emails in paths to use -dot- instead of a ..  Now it replies in the correct format.

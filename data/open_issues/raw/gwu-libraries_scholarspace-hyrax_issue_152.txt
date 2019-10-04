@@ -1,0 +1,2 @@
+Consider using Workflows and not overriding Share Your Work button
+Research whether the Share Your Work button can [be configured to] allow a non-logged-in user to upload an item If so, do we want to allow users to upload items through the app, and have those items drop into a mediated deposit workflow?

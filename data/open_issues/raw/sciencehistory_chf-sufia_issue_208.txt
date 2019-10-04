@@ -1,0 +1,1 @@
+these fields allow you to add more fields when there are blank ones: date, genre, description, inscription, additional credit, admin note

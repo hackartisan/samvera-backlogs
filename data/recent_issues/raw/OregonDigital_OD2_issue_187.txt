@@ -1,0 +1,2 @@
+Stop devise from submitting plaintext password when logging in.
+Descriptive summary The app is posting the password for the user in the form. This is VERY bad. If you login, look at the developer tools under network. Click all, and check sign_in?locale=en, scroll down to the bottom and you can see the plain text password in the form data. We need to make sure this doesnt happen.

@@ -1,0 +1,2 @@
+update hyrax-migrator
+update hyrax-migrator to get latest updates (ingest service)

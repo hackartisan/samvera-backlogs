@@ -1,0 +1,2 @@
+Set config.iiif_image_server to false
+Temporarily disabled while derivative issue is sorted out via nulib/repodev_planning_and_docs#132

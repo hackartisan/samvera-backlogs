@@ -1,0 +1,2 @@
+Changed URIs to rdf-vocab, cleaned up comments.
+Changed URI definitions to use rdf-vocab where possible. Added links to MAP in each file. Removed old comments. Changed bibo peerReviewed back to URI

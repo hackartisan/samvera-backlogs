@@ -1,0 +1,2 @@
+Allows invalid users to complete signin flow
+Before, a RecordNotFound error was raised and not caught, leading to users getting an error page instead of redirecting to root. Now, the error is caught and logged, and the users should be redirected properly.

@@ -1,0 +1,2 @@
+Refactor excluded licenses into behaviors
+Fixes #773

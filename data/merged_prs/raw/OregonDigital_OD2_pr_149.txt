@@ -1,0 +1,2 @@
+updates yaml files with labels and help text, required, multiple
+Fixes #142

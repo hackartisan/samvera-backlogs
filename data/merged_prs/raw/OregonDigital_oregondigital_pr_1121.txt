@@ -1,0 +1,2 @@
+check for rdf_label
+fixes #1119

@@ -1,0 +1,2 @@
+Attach monogram file in a numismatic monogram
+closes #2583

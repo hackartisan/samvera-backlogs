@@ -1,0 +1,2 @@
+Update some npm packages
+Tested the file manager on staging a bit and it seems fine fixes #881 Add a note to README about yarn vs. npm Update webpacker from 3.2.0 to 3.3.1 Resolve ajv peer dependency by upgrading from 5.3.0 to 6.2.1

@@ -1,0 +1,2 @@
+dependency updates
+upgrade mini_magick to 4.9.5 to patch CVE-2019-13574 downgrade faraday to 0.12.2 to match the locked version from hyrax updated dependencies using bundle update

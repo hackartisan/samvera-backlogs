@@ -1,0 +1,2 @@
+Makes adding children to parent threadsafe
+Uses redlock to ensure that when ingested objects are added as children to other objects in background jobs, that one job won't overwrite the changes made by another.

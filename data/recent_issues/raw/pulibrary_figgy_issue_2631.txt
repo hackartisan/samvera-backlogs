@@ -1,0 +1,2 @@
+Permanent URLs for collection and item manifests
+Collection manifests should use the URLs based on ARKs, e.g., https://figgy.princeton.edu/iiif/lookup/ark:/88435/p2677017n instead of the URLs that use Figgy IDs There should be a lookup function for collection manifests, either by assigning them ARKs or something similar

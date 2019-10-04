@@ -1,0 +1,2 @@
+Add parent box to ephemera folder edit form
+resolves #842

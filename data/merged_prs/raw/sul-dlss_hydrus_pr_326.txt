@@ -1,0 +1,2 @@
+Pass on the dor-services-app token auth
+Fixes #322 Merge these first: sul-dlss/shared_configs#940 sul-dlss/shared_configs#941

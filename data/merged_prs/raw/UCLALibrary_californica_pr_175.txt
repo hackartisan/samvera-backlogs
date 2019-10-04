@@ -1,0 +1,2 @@
+Add medium term to model
+This commit adds the medium term to the model and allows the medium term to be facetable. Because this is a one word term, there isn't an entry in the locales. Connected to #166

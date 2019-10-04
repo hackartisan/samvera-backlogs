@@ -1,0 +1,2 @@
+Feature/GPP-286: Submitter Dashboard - Redesign
+This PR changes the dashboard to hide certain elements if a user doesn't belong in a certain role. This is mostly done through erb template conditionals such as: <% if current_user.admin? %> <% if current_user.library_reviewers? %> etc. Public users are also redirected back to the homepage if they try to access the dashboard. The buttons to go to the dashboard and check notifications are removed from the navbar. This is done by checking if the user has_nyc_account.

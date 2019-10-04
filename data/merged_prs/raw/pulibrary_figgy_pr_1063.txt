@@ -1,0 +1,2 @@
+Don't generate thumbnail without derivative.
+Work towards fixing #1060.

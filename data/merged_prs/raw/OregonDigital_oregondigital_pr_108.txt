@@ -1,0 +1,2 @@
+Added missing resque task.
+Was missing from previous implementation. Rake tasks aren't tested, just needs merged. [ci skip]

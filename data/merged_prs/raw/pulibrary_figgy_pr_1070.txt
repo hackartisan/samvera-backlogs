@@ -1,0 +1,2 @@
+Ensures that links for editing and deleting resources are only rendered for users with the appropriate permissions
+Also encompasses permissions for:  file management editing the logical structure downloading derivative files in FileSets  Resolves #795

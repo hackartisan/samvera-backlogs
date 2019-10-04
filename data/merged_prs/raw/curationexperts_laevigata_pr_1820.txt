@@ -1,0 +1,2 @@
+Changes default ordering of user notifications
+This commit orders user notifications by date (descending) to show most recent first. Closes emory-libraries/etd-issues#57

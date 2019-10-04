@@ -1,0 +1,2 @@
+Build New Systems
+ACCEPTANCE    Use latest Ansible Samvera  Use latest Fedora 4.x  Sidekiq is a system service  Apache restarts on redeploy  Fedora runs on Postgres  Configure ssh timeout  Named users can run Sudo  Time-bounded effort to upgrade systems libraries in Ansible Samvera (e.g. Ruby, Postgres, Apache, Passenger, etc.)  Make an AMI snapshot once built  Use Mpls.Research.Info.Svcs@mpls.frb.org for the system server email  Ensure geonames is connected. Their username is mplsfedris  Ensure new servers report to honeybadger. The honeybadger API key is 1b38373d.

@@ -1,0 +1,2 @@
+Ensure Filesets have a human-readable label
+This should be covered by Hyrax   Create a system test to set and read a label for a Fileset

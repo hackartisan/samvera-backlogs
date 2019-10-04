@@ -1,0 +1,2 @@
+Add thumbnails to Catalog/File Manager/Structure
+This does a maybe-slow-if-postgres-wasn't-so-fast recursive lookup to find the derivative FileMetadata resource ID, so it can generate a IIIF path to it. Right now it seems fast enough - we'll have to keep an eye on it.

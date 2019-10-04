@@ -1,0 +1,2 @@
+No Turbolinks cache for EPUB reader
+Resolves #1228

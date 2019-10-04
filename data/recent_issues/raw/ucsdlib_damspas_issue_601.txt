@@ -1,0 +1,2 @@
+Update the DOI mint function to prevent from updating DAMSPAS object/collection records
+From damspas created by lsitu : #599 Descriptive summary Update the DOI mint function to prevent it from potentially updating DAMSPAS object and collection records. See #599

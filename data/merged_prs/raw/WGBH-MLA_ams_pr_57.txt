@@ -1,0 +1,2 @@
+Adds additional Asset fields
+Closes #AMS2-225

@@ -1,0 +1,2 @@
+Add holding location to geo resources
+Closes #259

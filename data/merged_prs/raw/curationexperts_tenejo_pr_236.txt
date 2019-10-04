@@ -1,0 +1,2 @@
+Add email config
+This adds the config block for smtp email delivery to the prod env. The credentials need to be set using the env variables in the sample & config.

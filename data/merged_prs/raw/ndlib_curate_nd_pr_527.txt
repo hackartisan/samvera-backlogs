@@ -1,0 +1,2 @@
+Show OSF archive
+This change adds the ability to view existing OSF archives. Summary of changes:  Created a controller/routes to handle OsfArchive actions Changed the CurateHelper to handle date fields from a data stream Added identifier, Administrative Unit, and Affiliation to the model since these are fields required in the design doc Added views to handle rendering of an OSF archive in search results, and to show a detailed view of an archive

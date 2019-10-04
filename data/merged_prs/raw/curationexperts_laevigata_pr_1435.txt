@@ -1,0 +1,2 @@
+Fix committee members
+This commit refactors the committee members functionality. After this commit, adding, removing, and re-loading members and chairs should be working correctly.

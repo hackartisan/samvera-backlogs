@@ -1,0 +1,2 @@
+Ensures that users can manage resources which they have bookmarked within search results
+Resolves #932

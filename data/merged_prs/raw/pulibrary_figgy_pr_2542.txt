@@ -1,0 +1,2 @@
+Handle thumbnail returning nil in GraphQL
+Closes #2540

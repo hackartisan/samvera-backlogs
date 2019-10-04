@@ -1,0 +1,2 @@
+Check permissions on configured directories
+Description Expanding on a previous commit that verifies our server-side configuration files, this checks the permissions on any directories in the config file and raises errors if they are not readable or writable depending on the requirements. This will help avoid problems when reading and extracting bags.

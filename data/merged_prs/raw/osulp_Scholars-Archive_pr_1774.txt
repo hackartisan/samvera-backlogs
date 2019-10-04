@@ -1,0 +1,2 @@
+Change sort by to use integer values.
+Fixes #1773 Currently seeing weird behavior on the added spec.

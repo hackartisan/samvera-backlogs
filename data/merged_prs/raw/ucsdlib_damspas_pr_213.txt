@@ -1,0 +1,1 @@
+Update jwplayer config to play video using html5. DHH-832

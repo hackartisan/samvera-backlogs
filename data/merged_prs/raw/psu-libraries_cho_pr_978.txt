@@ -1,0 +1,2 @@
+Retry click actions
+With updated versions of chromedriver, clickable actions were causing WebDriverError exceptions. Simply retrying the action solves the problem.

@@ -1,0 +1,1 @@
+HELIO-2224 Cache graph points for stats graphs

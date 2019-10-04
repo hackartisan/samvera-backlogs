@@ -1,0 +1,2 @@
+index work representative_file_set_id
+Turns out we actually need this to properly display thumbs for a work even with multiple levels of nesting. didn't run into the bug in production cause we don't have those. But in results refresh, we run into it attmepting to make thumbs. This commit just establishes the indexing, nothing uses it. Index only commit to master, so we can reindex before we have anything that uses it. Requires reindex after deploy.

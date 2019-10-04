@@ -1,0 +1,2 @@
+Refactor duplicated upload code into a module?
+There is a fair amount of code duplication around handling uploads between:  https://github.com/pulibrary/figgy/blob/master/app/controllers/base_resource_controller.rb https://github.com/pulibrary/figgy/blob/master/app/controllers/bulk_ingest_controller.rb  Do we want to refactor that out into a module?

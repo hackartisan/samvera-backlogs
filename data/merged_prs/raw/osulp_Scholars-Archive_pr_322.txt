@@ -1,0 +1,2 @@
+Fix itemtype for tag and rights
+Fixes #305 Fixes #306 I looked into what itemtype is but didn't quite understand. Can someone shed some light on why you would want to use an itemtype?

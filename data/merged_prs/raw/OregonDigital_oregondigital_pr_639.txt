@@ -1,0 +1,1 @@
+Made erroring without child objects work

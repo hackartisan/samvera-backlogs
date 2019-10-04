@@ -1,0 +1,2 @@
+Solr Cloud Implementation 
+As a Repository Administrator, I want to implement a robust, preservation-grade indexing solution, so that the repository's preservation metadata index is highly available, stable, and durable Notes This epic was written retroactively in order to manage multiple implementation tickets.

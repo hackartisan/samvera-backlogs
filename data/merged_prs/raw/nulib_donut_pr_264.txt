@@ -1,0 +1,2 @@
+validates rights_statement and license
+Fixes: nulib/next-generation-repository#481   validates that rights_statement is present and in this list of active id's here: https://github.com/nulib/donut/blob/master/config/authorities/rights_statements.yml   validates that license is in the list of active id's here: https://github.com/nulib/donut/blob/master/config/authorities/licenses.yml

@@ -1,0 +1,2 @@
+robots.txt files to allow or disallow web crawling
+I created two different robots.txt files, in addition to the default (empty) file, that will allow us to specify a configuration based on the server environment we're running the site in. This can be managed manually or via Ansible.

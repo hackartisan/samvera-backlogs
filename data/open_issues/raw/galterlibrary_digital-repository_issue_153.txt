@@ -1,0 +1,2 @@
+External tripple store
+Currently we store our RDF data in Fedora but we don't have to. I'd allow for things like SPARQL endpoint etc.

@@ -1,0 +1,2 @@
+Need to allow collections to have additional supporting pages
+Descriptive summary Collection pages in OD2 need to allow for linking to additional supporting pages, as seen on OD1: https://oregondigital.org/sets/herbarium/page/acknowledgements need to have an interface to:  create these pages as subpages in a collection allow a text editor for subpages (maybe similar to the content blocks in the admin dashboard) place in the dashboard or on the collection homepage that indicates where/how to create these subpages

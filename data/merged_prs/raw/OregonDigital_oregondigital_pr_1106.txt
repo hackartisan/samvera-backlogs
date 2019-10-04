@@ -1,0 +1,2 @@
+update bookreader search url to remove leading/trailing spaces
+fixes #970

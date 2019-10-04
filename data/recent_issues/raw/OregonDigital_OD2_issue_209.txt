@@ -1,0 +1,2 @@
+[2] oEmbed player placement on showpage
+Descriptive summary In our current implementation, oEmbeds live in the metadata field for the oEmbed. Questions:  Is this the placement we want? Do we want oEmbed to live in the place of the universal viewer? Do we want oEmbed to override any other media that might appear in the universal viewer? (ie if my work has an image and an embedded video, does the embedded video show in the UV?)  related: #207

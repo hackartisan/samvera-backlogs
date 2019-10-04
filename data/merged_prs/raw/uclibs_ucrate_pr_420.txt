@@ -1,0 +1,2 @@
+Redirect to new_classify_concern_path after login
+Fixes #408 Modifies the behavior of the login to redirect to the new_classify_concern_path (What are you uploading? page) if the user has modified their profile and has accepted to skip the welcome page.

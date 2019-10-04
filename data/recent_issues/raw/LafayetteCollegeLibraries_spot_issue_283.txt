@@ -1,0 +1,2 @@
+revert back to using hyrax's second navbar
+we want to bring the links to "about ldr" above the fold, as well as unclutter the top navbar (things get messy when a user's logged in and the screen is resized (see screenshot 👇 )). so we should bring back the second navbar + clean it up a bit (no need for a "home" link when the logo does the same job; add a link to advanced-search here)

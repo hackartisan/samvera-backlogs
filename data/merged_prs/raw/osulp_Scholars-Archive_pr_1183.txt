@@ -1,0 +1,2 @@
+Add CSS to use smaller facet label size.
+Fixes #1182 Showing same CSS change:

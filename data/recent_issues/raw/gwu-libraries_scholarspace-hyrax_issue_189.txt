@@ -1,0 +1,2 @@
+Add --skip-file-updates flag to gwss:ingest_work task
+Currently, when ingest_work does an update (when --update-item-id is present), it deletes all file attachments, then attaches any files specified by --primaryfile and --otherfiles.  However, there are cases when we need to be able to only update metadata without having to re-ingest files, i.e. when we wish to skip the file updates.  This is needed in order to complete gwu-libraries/batch-loader#15 Hence, implement a --skip-file-updates flag.

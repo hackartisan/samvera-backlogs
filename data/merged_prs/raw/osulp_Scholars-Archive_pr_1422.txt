@@ -1,0 +1,2 @@
+makes academic affiliation a required field
+fixes #1421

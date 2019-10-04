@@ -1,0 +1,1 @@
+Configure derivatives path to use EFS tmp path or Rails tmp

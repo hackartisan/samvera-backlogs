@@ -1,0 +1,2 @@
+Updated XSD location for Qualified Dublin Core response format.
+Fixes #984

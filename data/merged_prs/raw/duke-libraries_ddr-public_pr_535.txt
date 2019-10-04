@@ -1,0 +1,1 @@
+Add bibliographCitation and isPartOf to all_fields search

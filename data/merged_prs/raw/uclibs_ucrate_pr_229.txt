@@ -1,0 +1,2 @@
+Port over Scholar's collection boost in search results
+Fixes #208 Add "{!terms f=has_model_ssim}Collection^2000" in 'solrconfig.xml'

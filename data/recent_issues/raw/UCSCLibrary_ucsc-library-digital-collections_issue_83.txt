@@ -1,0 +1,2 @@
+Unable to "edit" records in Hyrax
+When I attempt to edit a record in the DAMS, right now I get the error message: We're sorry, but something went wrong. If you are the application owner check the logs for more information. Here's an example of the url that returns the error: http://digitalcollections.library.ucsc.edu/concern/works/z603qx948/edit?locale=en I'm trying to unpublish the problematic Hitchcock audio files so can delay fixing the player and files for that collection for now.

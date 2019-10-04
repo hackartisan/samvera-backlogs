@@ -1,0 +1,2 @@
+reverting to old way of getting formData for uploader temp bug fix
+hey @little9 I doubt this is what you want to do, but getting the formdata in the old way for the uploader fixes the post bug.

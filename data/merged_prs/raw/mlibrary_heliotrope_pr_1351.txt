@@ -1,0 +1,1 @@
+Resolves #1345 links must have discernible text for glyphicons

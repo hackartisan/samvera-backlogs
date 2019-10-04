@@ -1,0 +1,2 @@
+yard for doc
+$ bundle exec yardoc ./doc $ cd lib; bundle exec yardoc; cd .. ./lib/doc

@@ -1,0 +1,2 @@
+Port over the recent changes to Scholar's People page
+Fixes #181

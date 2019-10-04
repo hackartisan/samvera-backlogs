@@ -1,0 +1,2 @@
+Update jettywrapper so it doesn't require the logger gem
+That gem was yanked from rubygems

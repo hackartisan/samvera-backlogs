@@ -1,0 +1,2 @@
+UO Login link on login page is mislabelled
+Descriptive summary on the login page (see screencap) the UO login link is labelled as OSU. Expected behavior UO Login link labelled as UO

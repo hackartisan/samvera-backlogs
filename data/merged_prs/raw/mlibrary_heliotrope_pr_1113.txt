@@ -1,0 +1,2 @@
+style negated if enabled
+By removing the following lines from the ./ruumba/.rummba.yml file Style/NegatedIf: Enabled: false Style checks for negated if are enabled. NOTE: Not everything in the .rummba.yml should be re-enabled since rummba strips all html before calling rubocop, hence context is lost and false positives are possible.

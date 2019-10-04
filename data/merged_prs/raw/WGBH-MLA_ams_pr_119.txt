@@ -1,0 +1,2 @@
+Fixes bug where episode number wasn't saved as a title type.
+Fixes AMS2-477.

@@ -1,0 +1,2 @@
+Only allow specific filepaths on CSV upload form
+When a user enters a filepath on the CSV upload form, they should not be allowed to enter an arbitrary file path.   Only content in /opt/data is valid, so this can't be used for hacking attempts

@@ -1,0 +1,2 @@
+Export new ETDs in BagIT
+Descriptive summary Create a rake task to export ETDs by graduation year in BagIT. Expected behavior  take graduation year in argument export files in fileset and metadata at work level export all work level metadata one Bag for every work  Related work https://github.com/mlibrary/deepblue/blob/master/lib/tasks/yaml_populate.rb

@@ -1,0 +1,2 @@
+Import sul_chrome assets and remove gem
+This brings the sul_chrome assets into hydrus in order to remove the dependency on the sul_chrome gem. @jcoyne and @mjgiarlo not sure if this is the best approach here or if there should be a good bit of cleanup, so very open to suggestions.

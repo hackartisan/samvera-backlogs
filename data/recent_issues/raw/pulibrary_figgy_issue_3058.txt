@@ -1,0 +1,1 @@
+Make sure depositor is set during numismatics batch import

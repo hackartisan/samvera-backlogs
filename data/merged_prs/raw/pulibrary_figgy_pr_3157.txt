@@ -1,0 +1,2 @@
+Add Rights Statement and OCR Language to Bulk Edit
+Partially addresses #2586

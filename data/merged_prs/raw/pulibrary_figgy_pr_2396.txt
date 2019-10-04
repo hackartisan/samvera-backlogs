@@ -1,0 +1,2 @@
+Add link back to recording on playlist members
+fixes #2315

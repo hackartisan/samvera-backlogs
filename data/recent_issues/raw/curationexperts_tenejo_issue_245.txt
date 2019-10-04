@@ -1,0 +1,2 @@
+Tenejo build includes cantaloupe on the same box
+Tenejo systems have cantaloupe installed on the same system  Universal Viewer works with the self-contained cantaloupe installation

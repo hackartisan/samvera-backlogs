@@ -1,0 +1,2 @@
+license is single-valued
+Last part of HELIO-2145

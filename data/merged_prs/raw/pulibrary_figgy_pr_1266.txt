@@ -1,0 +1,2 @@
+Removing the unnecessary post_save_resource param from `ChangeSetPersister#after_update_commit`
+Resolves #516

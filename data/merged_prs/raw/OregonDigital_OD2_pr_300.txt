@@ -1,0 +1,2 @@
+Persist bundled gems
+Ensures that gems are the same in dev and test, and "docker-compose run" gets the same gems as "docker-compose exec"

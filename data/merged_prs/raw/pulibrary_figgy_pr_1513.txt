@@ -1,0 +1,2 @@
+Fix FileSet IDs in Canvas Resources.
+It was displaying them as {    "@id": {"id": "bla"} } instead of {   "@id": "bla" } and this fixes that.

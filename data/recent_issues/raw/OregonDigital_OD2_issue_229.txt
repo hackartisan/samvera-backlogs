@@ -1,0 +1,2 @@
+Draw up a high-fidelity homepage screen for presentations.
+Descriptive summary If only for aspirational purposes, pull together a pixel-perfect homepage for presentations. Expected behavior For sharing with the team only at this point. It can be nice to see something. Related work

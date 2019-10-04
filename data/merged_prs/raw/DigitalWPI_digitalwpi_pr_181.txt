@@ -1,0 +1,2 @@
+Enabled single sign on
+The UC's implementation of Shibboleth Single Sign On works in our case too! Fixes #4

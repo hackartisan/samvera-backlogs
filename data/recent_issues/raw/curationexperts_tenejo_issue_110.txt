@@ -1,0 +1,2 @@
+Download CSV template instead of displaying in browser
+ISSUE When I click on the "Download CSV Template" link from the dashboard, the text displays in my browser instead of downloading as a .csv file. ACCEPTANCE   When I click on the "Download CSV template", import_manifest.csv downloads to my local system instead of displaying in my browser.

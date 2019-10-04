@@ -1,0 +1,2 @@
+Issue 114 ui refinement
+resolves #114

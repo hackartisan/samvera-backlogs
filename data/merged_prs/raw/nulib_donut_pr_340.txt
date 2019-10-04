@@ -1,0 +1,2 @@
+Add keyword to collection indexing for front end
+Partially fixes nulib/next-gen-front-end-react#90

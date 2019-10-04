@@ -1,0 +1,2 @@
+Downloading an entire collection, ref #624
+Using WorkZipService as a basis, create a zip file from a collection containing individual zip files of each work. Refactors the work zip service so the two can share more code, and renames the spec test to match the Ruby file name.

@@ -1,0 +1,2 @@
+Remove index_type for field dc:source
+As Don requested, I took out index.type :text because this is a URL.

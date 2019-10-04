@@ -1,0 +1,2 @@
+Make the cop happy
+Fixes Rubocop issues.

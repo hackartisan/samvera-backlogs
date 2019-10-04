@@ -1,0 +1,2 @@
+Super fast reindex_works tasks
+Only does works to prevent the slower find all fedora ids task batches solr adds uses a progress bar

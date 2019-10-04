@@ -1,0 +1,2 @@
+school dropdown on embargo tab contains each school as unique option
+Closes #553

@@ -1,0 +1,2 @@
+updated parser services to escape char $ in label
+fixes #1681

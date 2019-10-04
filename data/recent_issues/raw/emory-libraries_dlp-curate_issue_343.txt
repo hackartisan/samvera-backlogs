@@ -1,0 +1,2 @@
+Add additional FileSets to an existing work
+Ability to add more FileSets to a work that has already been created (part of epic #119)

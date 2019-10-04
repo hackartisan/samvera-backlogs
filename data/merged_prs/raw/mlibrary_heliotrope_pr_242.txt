@@ -1,0 +1,2 @@
+updated to curation concerns 14.0
+Resolves #230

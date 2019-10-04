@@ -1,0 +1,2 @@
+Add Use Permissions text
+https://jira.library.nd.edu/browse/DLTP-1583 Add permission metadata field to add, show, and edit views for document, article, and dataset work types.

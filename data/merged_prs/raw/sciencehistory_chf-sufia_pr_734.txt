@@ -1,0 +1,2 @@
+Add example invocations to many rake tasks
+use rake -D to see full descriptions; it takes a pattern so you can do, e.g. bundle exec rake -D chf

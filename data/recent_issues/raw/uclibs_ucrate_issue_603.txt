@@ -1,0 +1,2 @@
+Get Dropbox working properly with Browse Everything
+Descriptive summary Make the needed changes to get Dropbox working for cloud uploads.

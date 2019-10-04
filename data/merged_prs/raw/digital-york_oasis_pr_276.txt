@@ -1,0 +1,2 @@
+Correct params hash name
+Fix email params misconfiguraiton

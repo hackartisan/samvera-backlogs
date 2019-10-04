@@ -1,0 +1,2 @@
+Refactor to override as little of the BaseActor as possible
+@mark-dce This is the refactor we discussed. LMK if this looks okay to you.

@@ -1,0 +1,1 @@
+Add committee_member factory and use it in tests

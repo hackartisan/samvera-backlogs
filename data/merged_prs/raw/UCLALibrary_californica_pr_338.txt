@@ -1,0 +1,2 @@
+Remove the background for the facet-panel-collapse div
+Connected to #337

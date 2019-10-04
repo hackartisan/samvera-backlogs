@@ -1,0 +1,2 @@
+Search results and Resource details page - Make fields clickable
+This is not urgent, but can we make the fields on the search results and resource details pages clickable like on OASIS? So, clicking on German below would lead to all resources tagged with German.

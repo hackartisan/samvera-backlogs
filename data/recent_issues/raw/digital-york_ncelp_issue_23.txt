@@ -1,0 +1,2 @@
+Customized small model for Oasis Summaries
+The multiple oasis_summary field includes both title and url, so the best way is to model it seperately

@@ -1,0 +1,2 @@
+Add a task to clean and re-ingest in one command
+This will let us set this to run when we leave for the day and hopefully, now that the timeout issue is fixed, come back the next morning to fresh clean data. Connected to UCLALibrary/amalgamated-samvera#166

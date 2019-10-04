@@ -1,0 +1,3 @@
+Routing Error in analytics_spec.rb test
+When running analytics_spec.rb, the test will raise Routing Error uninitialized constant Sufia::SingularSubresourceController::DenyAccessOverrideBehavior However the error only occurs when the test is run with the rest of the features, ex: bundle exec rspec spec/features
+find the smallest set of tests that cause the failure and then look to see what is causing the issue in the other test 

@@ -1,0 +1,2 @@
+Testing unmapped LCSH subjects in import.
+A request to drop LCSH from subjects was made, so I unmapped the LCSH subjects in XML file. Wiped Fedora on QA and am going to rerun import to see if it works.

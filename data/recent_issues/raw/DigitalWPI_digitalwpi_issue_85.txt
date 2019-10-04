@@ -1,0 +1,2 @@
+refactor Ingest Controller classes
+Add common methods - prepare for a world of restful ingesting as best as possible  reader / iter methods error handling logging / change init for log

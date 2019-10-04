@@ -1,0 +1,2 @@
+Remove   gem "selenium-webdriver"
+It is installed with the gem webdrivers as a dependency

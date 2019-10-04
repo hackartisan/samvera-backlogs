@@ -1,0 +1,1 @@
+HELIO-2330 Titles in COUNTER reports should not have markdown/up

@@ -1,0 +1,2 @@
+Show page consistency
+This PR accomplishes two things:  Provides a meaningful title for the common objects viewer (which is now the only way to see ETDs) Moves the page action area of the common objects viewer from a form-style line of actions at the bottom of the page to just beneth the title. This means that patrons will not have to scroll to see if/what actions are available to them on that page.  Action area before:  Action area after:  It should be more visable.

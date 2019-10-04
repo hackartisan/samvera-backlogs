@@ -1,0 +1,2 @@
+Avoid tmp files for IngestMETSJob
+Copying directly should result in far fewer disk operations and a faster ingest.

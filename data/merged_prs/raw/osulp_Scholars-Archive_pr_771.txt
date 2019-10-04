@@ -1,0 +1,2 @@
+implemented validate function for add_other_field_option actor
+fixes #768

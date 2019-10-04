@@ -1,0 +1,2 @@
+De-dup ProxyFileSets.
+Closes #2201

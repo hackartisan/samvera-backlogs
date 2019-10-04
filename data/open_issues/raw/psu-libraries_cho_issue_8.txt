@@ -1,0 +1,3 @@
+Crowdsourcing OCR/transcription of digitized objects
+As a community user, I want to contribute to improving audio or video transcripts/captions and OCRd text, So that the body of knowledge is more accurate. Additional user story from John R. As an instructor of an undergraduate U.S. History course, I want my students to transcribe historical manuscripts and then upload the transcriptions to share along with the manuscript images. So that I can share my work with scholars.
+https://transcription.si.edu/

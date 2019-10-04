@@ -1,0 +1,2 @@
+Upgrade to FactoryBot
+Description Replaces the FactoryGirl gem with FactoryBot. Same functionality, just a better name. Fixes: #400 Why was this necessary? The old gem name was problematic. The new gem name is less controversial. Changes Are there any major changes in this PR that will change the release process? No Checklist   i18n enabled  adequate test coverage  accessible interface

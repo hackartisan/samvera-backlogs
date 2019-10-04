@@ -1,0 +1,2 @@
+collection form only displays first letter of collection
+this is coming from app/forms/spot/forms/collection_form.rb#L154-L159, where we're limiting the title to one item. we'll need to copy + update the partial: https://github.com/samvera/hyrax/blob/c2e41aa/app/views/hyrax/dashboard/collections/edit.html.erb#L3-L5

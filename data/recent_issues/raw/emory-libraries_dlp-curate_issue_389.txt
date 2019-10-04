@@ -1,0 +1,2 @@
+Decide where to store migrating metadata to be mapped to Preservation Workflows in preservation log
+Relates to Preservation Log epic #242. For human-supplied notes and rights review context related to why an object has been ingested to the repository, should this be stored in work-level metadata/RDF, at least temporarily? This will also potentially need to be edited at the work level as noted in Preservation UI mockups. If we use XML for the audit trail, where and how do we store data that is migrating in from spreadsheets for Phase 1 migrations?

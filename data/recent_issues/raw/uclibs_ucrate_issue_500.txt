@@ -1,0 +1,2 @@
+Create a list of collections with avatars - notify owners
+Descriptive summary We need to make a list of the collections that have avatars added to them.  We then need to create a note that we can send to those collection owners shortly before we deploy letting them know about the changes to collections avatars/banners.

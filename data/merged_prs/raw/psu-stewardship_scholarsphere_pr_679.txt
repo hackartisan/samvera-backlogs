@@ -1,0 +1,2 @@
+Updating to the latest hydra-works to pick up a change to utilize less memory
+This update to hydra-works does not read the entire file contents into memory before passing it on to fits. I tested it out on qa by making the modification inline and it allowed a 15GB file to be characterized. This may fix #451 in addition to #563

@@ -1,0 +1,2 @@
+Removes dup preds and fixes some metadata stuff
+This PR contains some of the fixes from #216. They had to be included, to test the form for proper configuration of properties and making sure we could still ingest works. Fixes #211

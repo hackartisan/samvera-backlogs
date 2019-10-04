@@ -1,0 +1,2 @@
+Generate Work types
+We agreed to define three student work types.  Etd Student Work Generic Work  Please check this for properties.

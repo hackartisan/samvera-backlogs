@@ -1,0 +1,8 @@
+Create Nested Works
+As a collection manager, I would like to upload a work with multiple components, So that I can describe the work as a whole and describe each component.  Nested Works  Nested works are works with subcomponents, where each subcomponent can each have additional metadata. Nested works may represent an individual item, like a book where each page is a nested work or an audio recording that spans 3 cassettes. Nested works may also represent aggregate materials, such as a digitized manuscript folder where each page is a nested work or collection where each folder is a nested work. Whether something should be a simple work or a nested work is a curatorial call. Related: #62 CONTENTdm migration  notes
+Implementation notes: * parent work type is a compound work and the contained works are generic, still image, etc. * metadata may need be aggregated * displaying search results should account for the contained works
+#63 is a related issue that represents the last paragraph in this issue (first comment). E.g. a collection of photographs that document construction of a new building, with item-level descriptions for each photographs -- mixed levels of metadata within a single option.
+@ntallman will gather workflow requirements and options and we can revisit this ticket at the next backlog refinement.
+Regular compound works have one level of nesting. A folder with some items, in an order.
+Re-defining compound works as nested works for simplification. Changing definitions of simple and nested works to allow more flexibility and curatorial control.
+For purposes of MVP, nesting will only be one level deep and will be accomplished with ordered file sets. Deep nesting or works, or works instead of file sets, will be done after MVP.

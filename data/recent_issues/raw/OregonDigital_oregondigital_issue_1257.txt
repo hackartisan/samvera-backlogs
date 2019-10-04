@@ -1,0 +1,2 @@
+Remove iso639-1 and marc languages vocab definitions and remove from Language CV
+Now that data is cleaned up, #1242, we can remove the vocabularies and their definitions from the system.

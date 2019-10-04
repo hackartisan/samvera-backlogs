@@ -1,0 +1,2 @@
+Change of works list display
+Bei der Anzeige steht nicht der «Autor», sondern der «Depositor». Der «Depositor» sollte aber gar nicht ersichtlich sein (weil zum Beispiel oft eine Sekretärin für einen Professor die Datei hochlädt und jeder fragt sich dann wer die Susi Fuzziwuzzi ist). Ersichtlich sollte also sein: Titel, Autor, Keywords und wenn möglich der übergeordnete Titel (Bspl. Zeitschrift) Bei der «Characterization»: Ist ja nur Optik, aber zweispaltig kann man das abstract leider nicht lesen.

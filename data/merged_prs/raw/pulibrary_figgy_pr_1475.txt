@@ -1,0 +1,2 @@
+Convert bounding box selector to ES6 and remove script tags
+Converts bounding box selector to ES6 class Removes the bounding box script tags that conflict with LUX.  Closes #1467

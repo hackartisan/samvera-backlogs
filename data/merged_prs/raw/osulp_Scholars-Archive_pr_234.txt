@@ -1,0 +1,2 @@
+Feature/add graph label
+The PR includes two commits: I run bundle update and commit the GemFile.lock as a separate commit, both passes the tests.

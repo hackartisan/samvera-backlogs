@@ -1,0 +1,2 @@
+Only run layer 0 in derivative jobs, refs #288
+Not closing the issue because we'll also need to regenerate derivatives to fully resolve the bug.

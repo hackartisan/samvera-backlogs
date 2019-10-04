@@ -1,0 +1,2 @@
+Required csv fields
+Connected to curationexperts/in-house#213

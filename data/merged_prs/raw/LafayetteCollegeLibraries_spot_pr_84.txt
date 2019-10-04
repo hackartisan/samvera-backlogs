@@ -1,0 +1,2 @@
+update rack (CVE-2018-16470/CVE-2018-16471)
+see:  https://nvd.nist.gov/vuln/detail/CVE-2018-16470 https://nvd.nist.gov/vuln/detail/CVE-2018-16471

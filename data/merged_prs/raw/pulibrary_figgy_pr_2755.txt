@@ -1,0 +1,2 @@
+Add nested numismatic place to numismatic issue
+Creates a numismatic place resource Adds nested numismatic place to numismatic issues Ensures that all nested resources are populated during changeset syncing. Creates a common populator populate_nested_properties in ChangeSet for all single-valued nested properties to use. Creates a common prepopulate! method in ChangeSet so that it doesn't have to be re-implemented in each changeset with a nested resource.  Closed #2741

@@ -1,0 +1,2 @@
+Add a notification after bag creation
+This commit changes the bag job so that it will send a notification containing a link to the bag to the user who created the job, when the bag is done being created. Connected to #192

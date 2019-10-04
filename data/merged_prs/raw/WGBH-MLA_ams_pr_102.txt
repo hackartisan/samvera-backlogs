@@ -1,0 +1,2 @@
+AMS2-212 Adds AAPB Admin data to Asset
+AMS2-212

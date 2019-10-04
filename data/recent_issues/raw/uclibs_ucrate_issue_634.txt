@@ -1,0 +1,2 @@
+Retain language choice when clicking all links
+Descriptive summary Scholar remembers the user's language selection by appending ?locale= to the end of URLs. However, some of the links in our application don't include ?locale= and the user's choice gets reset back to English. Some of those links are:  Clicking on the big "scholar@uc" link at the very top of the page Clicking on the link for an attached file on a work  Those links (and any others that drop the ?locale=) should be tweaked to preserve the language choice.

@@ -1,0 +1,2 @@
+Generate controller, presenter, and model specs for coverage
+Descriptive summary Write specs to cover Generic, Image, and Video models, controllers, and presenters.

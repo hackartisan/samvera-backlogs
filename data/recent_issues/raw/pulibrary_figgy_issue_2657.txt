@@ -1,0 +1,2 @@
+intermittent order manager save problems
+Report from Tom: The past two days, if I go into Order Manager for an item and order-paginate or otherwise rename images, I find that the changes do not hold for several (seemingly random) images.  It usually takes a few iterations for me going back in and manually renaming the images for the changes to hold.  I am clicking "Apply Changes" after each individual name change and waiting until the change is confirmed before moving on

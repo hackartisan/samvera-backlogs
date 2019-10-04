@@ -1,0 +1,2 @@
+Fix subject and scientific controlled vocabularies
+Fixes #379 again

@@ -1,0 +1,4 @@
+Investigate visibility of expired embargoes 
+Investigate whether SA will set visibility for expired embargo items based on visibility_after_embargo:  Whether this PR is merged in Hyrax and installed to SA: curationexperts/laevigata#1123 Whether SA has embargo service like: https://github.com/curationexperts/laevigata/blob/master/app/services/embargo_expiration_service.rb
+what is the status of this work, @zhang4952 ?
+The PR#1757 of "bugfix for embargo release logging" could be the solution of this issue, will wait for a week or so before close the issue.

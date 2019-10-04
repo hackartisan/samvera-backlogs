@@ -1,0 +1,2 @@
+Add cron job to delete saved blacklight searches
+Closes #768

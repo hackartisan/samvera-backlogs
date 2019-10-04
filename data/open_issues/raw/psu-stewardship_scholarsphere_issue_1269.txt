@@ -1,0 +1,7 @@
+Update Fedora from 4.7.2 to 4.7.5
+The DCE box will begin using 4.7.5 immediately to remedy timeout issues with MariaDB. Very soon, we will need to update our remaining Fedora instances to this latest version. There are improvements to performance which make this release a priority. Because DCE is developing new external content features against the newer version, it would be best to wait to use the new feature (as a flagged option) until the new Fedora version is deployed everywhere. A separate JIRA will be linked here to track the update progress.
+Details for the original issue discovered with Fedora, can be found at: https://servicedesk.css.psu.edu/browse/APPINT-2286  Details for the Fedora upgrade which will be the resulting action, can be found at: https://servicedesk.css.psu.edu/browse/APPINT-2287
+Related to #1128  
+@informaticianme is the current version on production 4.7.2?
+The current DCE fedora box is at 4.7.2, whcih was reverted back becuase it was not needed to solve the current issue.  We will still want to perform the upgrade becuase 4.7.5 is likely to be more performant than 4.7.2 based on observed  timing.  Actual timing tests should be performed.
+Hold for now. Could be something that would be a separate release to ONLY upgrade Fedora. Prep for migration while working on SS4.

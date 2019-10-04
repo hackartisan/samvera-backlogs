@@ -1,0 +1,2 @@
+Don't report metadata errors to Rollbar
+Connected to #393

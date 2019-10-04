@@ -1,0 +1,2 @@
+Ordered Creators
+fixes issue #1500 This is the beginnings of the input to generate the fields in creator that will be swappable. It uses the featured works html and a new custom input to do this.

@@ -1,0 +1,2 @@
+Added DCE to our admins.yml file 
+DCE is getting an error on Emory's test servers,“Could not authenticate you from Shibboleth because "you aren't authorized to use this application ( Mark,Bess, Jamie)

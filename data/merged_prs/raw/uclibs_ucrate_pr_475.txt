@@ -1,0 +1,2 @@
+Disable citation features
+Fixes #460 Implements the changes from uclibs/scholar_uc_legacy@2b923fa in Ucrate until it is viable to reintroduce the citation feature.

@@ -1,0 +1,2 @@
+When a file is versioned and goes from a file with a thumbnail, to a file without, it doesnt update the index.
+Descriptive summary When a file is ingested and has a thumbnail, like a jpg, it gets indexed proper. But when you version that work to a file that doesnt have a thumbnail like a pdf, the index doesnt get updated with the proper thumbnail. It should be updated to a blank string or "no thumbnail" but it displays the previous thumbnail instead.

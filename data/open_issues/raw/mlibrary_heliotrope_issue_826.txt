@@ -1,0 +1,2 @@
+Create a generic publisher stylesheet template
+Create a generic template for publisher stylesheets called _subdomain-template.scss(?). The template should include:   variables for five different colors  variables for typography  variable for the subdomain (ie, publisher name)  a basic outline of selector overrides as already documented by current publishers in themes.scss  the variables for colors and typography should be used the selector overrides.

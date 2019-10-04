@@ -1,0 +1,2 @@
+Improve density of structure editor
+It would be nice to see more pages at once when organizing hierarchy

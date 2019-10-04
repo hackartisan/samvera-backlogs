@@ -1,0 +1,2 @@
+Fixed the missing general notes issue. 
+https://lib-jira.ucsd.edu:8443/browse/DM-97

@@ -1,0 +1,2 @@
+Introduces rack-cors in order to permit cross domain queries for GraphQL
+Resolves #1834

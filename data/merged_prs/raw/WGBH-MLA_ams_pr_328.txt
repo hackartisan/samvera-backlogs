@@ -1,0 +1,2 @@
+325 failure finder
+@afred - is this all we need at this point for getting the failed batch items? i feel like this might not be exactly what you were looking for.

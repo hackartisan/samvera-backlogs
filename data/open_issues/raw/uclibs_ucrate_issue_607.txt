@@ -1,0 +1,4 @@
+Enhance bulk ingest feature
+Descriptive summary Bulk ingest was ported to ucrate here: #361 We need to get the following working (if not already):  Ability to ingest all work types with all fields (including repeatable fields) Ability to add works to collections at time of ingest Works with child-works Ingest works with existing DOIs  Let's standardize on calling this "bulk ingest" so it doesn't get confused with the other batch upload feature.  We should change any references to "batch" in this code to "bulk" We also need to document in the wiki how to use this feature.  Docs should include how to structure the .csv file. REFS: uclibs/scholar_uc_legacy#1875
+We also want to track down whether or not something in the bulk ingest is effecting the empty string vs nil bug.
+@chuckgreenman Please add this to your todo list for this issue: https://github.com/uclibs/scholar_uc_legacy/issues/1934   You'll need to verify if the bug still exists or not.

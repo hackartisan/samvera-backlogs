@@ -1,0 +1,2 @@
+Form submission agreement well styling
+Closes #610

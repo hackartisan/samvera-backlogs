@@ -1,0 +1,2 @@
+Enable public file server for production mode
+Fixes #544 This is required for the Universal Viewer to work in production There isn't an easy way to test this locally, but I've implemented this fix on scholar-qa and it did work.

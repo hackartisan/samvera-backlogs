@@ -1,0 +1,2 @@
+Replace marc fields with double dashes on import
+Some of our sample data contains marc relator fields, e.g., $d, $z. This is a fairly common library data practice and I think a reasonable response is to replace them with double dashes, so: "Interior design $z California $z Los Angeles" becomes "Interior design--California--Los Angeles"

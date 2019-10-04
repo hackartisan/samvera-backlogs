@@ -1,0 +1,2 @@
+index the text of the rights statement
+fixes https://github.com/nulib/next-generation-repository/issues/604

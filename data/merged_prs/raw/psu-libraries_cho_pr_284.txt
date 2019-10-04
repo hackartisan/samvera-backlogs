@@ -1,0 +1,2 @@
+Added Validation Factory
+Adding the factory for validations to allow for additional validations to be plugged into the system. The thought would be that each validator could validate a field, and the validationFactory could lookup the validator based on the name. If we like this pattern I was thinking about using the same one for Auto Complete and Display Transformations.

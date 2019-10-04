@@ -1,0 +1,2 @@
+fixes #707
+just a quick fix to get rid of item before big Bootstrap3 re-write

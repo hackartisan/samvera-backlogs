@@ -1,0 +1,1 @@
+adding guard clauses to parse_data validator methods

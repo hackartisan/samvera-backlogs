@@ -1,0 +1,2 @@
+Tagging releases with revision hash and timestamp
+Fixes #129

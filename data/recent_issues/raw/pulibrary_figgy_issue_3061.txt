@@ -1,0 +1,2 @@
+Convert "Attach Child" button to be a drop-up instead of dropdown.
+With the bar stickied at the bottom the options don't display if they dropdown, so it should go up instead.

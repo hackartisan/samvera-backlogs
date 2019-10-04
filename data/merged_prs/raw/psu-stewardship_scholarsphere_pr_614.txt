@@ -1,0 +1,2 @@
+Better Heading Hierarchy for Search Results
+Swaps the order of the columns visually, adds H1 and H2 values in yml, hard codes page title. Updates the work header for better hierarchy, adjusts H3 weight, makes H1 and H2 sr-only. Hops onto the catalog search feature test to check for the presence of new HTML for better accessibility. Fixes #582

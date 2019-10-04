@@ -1,0 +1,2 @@
+Update staging config to account for broken-out solr machine
+fixes #600

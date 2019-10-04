@@ -1,0 +1,2 @@
+CSV import logging - startup
+ACCEPTANCE   At the start of an import, the logger logs a line that has batch id, collection id, and user id in a single log line that can easily be machine parsed.  i.e. INFO -- : event_type: import_start, batch_id: 44, user_id: systems@curationexperts.com, collection_id: 8k71nh08w

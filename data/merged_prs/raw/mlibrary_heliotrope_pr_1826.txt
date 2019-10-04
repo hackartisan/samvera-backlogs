@@ -1,0 +1,2 @@
+Resolves HELIO-1812: Metadata Download/Upload/Update Cycle
+First iteration of updating an existing monograph's metadata via the importer.

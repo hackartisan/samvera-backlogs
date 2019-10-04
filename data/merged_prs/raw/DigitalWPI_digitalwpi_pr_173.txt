@@ -1,0 +1,2 @@
+#169 add manuscript resource type
+closes #169 added manuscript resource type. very simple, aaron asked for this to be done

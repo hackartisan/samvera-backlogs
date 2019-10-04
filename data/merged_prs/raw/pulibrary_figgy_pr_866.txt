@@ -1,0 +1,2 @@
+Add new font icon for media resource
+Updates media resource icon. We can easily change the icon, but I thought this one was a good compromise. It looks like it might be both a film camera or a reel-to-reel audio recorder.  Closes #864

@@ -1,0 +1,2 @@
+Set refresh_remote_metadata to correct value to fix VoyagerUpdateJob
+Closes #2568

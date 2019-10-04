@@ -1,0 +1,2 @@
+Indexing Event ID notes and linking to them like facets (DHH-597)
+Fixes https://lib-jira.ucsd.edu:8443/browse/DHH-597

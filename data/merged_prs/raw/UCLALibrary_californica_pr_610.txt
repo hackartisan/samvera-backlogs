@@ -1,0 +1,2 @@
+ Order Pages that are attached to a manuscript
+After a CSV has been processed, go through all Work objects that have had ChildWorks attached and ensure those ChildWorks are ordered as expected. Ensure multipage import works when Pages are defined first

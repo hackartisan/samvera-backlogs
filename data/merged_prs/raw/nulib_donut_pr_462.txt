@@ -1,0 +1,2 @@
+Add member_ids to Elasticsearch index for Images
+partially fixes nulib/repodev_planning_and_docs#213

@@ -1,0 +1,4 @@
+Demo DOI generation for embargoed works once Hyrax 2.0.0 is released
+Once Hyrax 2.0.0 is released, we should revisit the DOI generation for embargoed works. We need to make sure that DOI is generated properly if the visibility of a work is open/public once the embargo ends. This is related to Issue #49.
+NOTE: In Hyrax 2.0.0, the embargo and lease management pages are not linked to the UI. However, you can find them in the dev environment here:  localhost:3000/embargoes localhost:3000/leases
+Note with Grace and Ron:  We need to look at embargoes and leases and understand what a user experiences.

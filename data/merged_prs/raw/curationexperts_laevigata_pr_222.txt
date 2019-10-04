@@ -1,0 +1,2 @@
+Adding degree_granting_institution to ETD metadata
+ETDs should always have a degree_granting_institution field and it should always be set to Emory University. This isn't displayed in a UI, just recorded on the object. When a new ETD object is initialized, set this as a default value. Also, put the fields in etd.rb in alphabetical order so they will be easier to read as we get more of them.

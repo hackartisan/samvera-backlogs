@@ -1,0 +1,2 @@
+Ensures that the "Index" tab is expanded within the UniversalViewer
+Resolves #734

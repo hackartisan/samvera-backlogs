@@ -1,0 +1,2 @@
+Playlist tracks should display what recording they're from
+Right now it's real hard to see what's going on

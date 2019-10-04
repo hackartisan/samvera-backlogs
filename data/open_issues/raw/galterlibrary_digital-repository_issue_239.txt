@@ -1,0 +1,2 @@
+select_with_modal_help input shows up as a select input with an add button
+Should match select_with_help_input.rb where we get a multi-select instead.

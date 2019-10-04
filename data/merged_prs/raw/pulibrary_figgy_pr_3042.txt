@@ -1,0 +1,2 @@
+Keep Track of and display status of FileSet derivative creation
+After browse everything attached, but files not moved to repository:  Before derivatives done being created:  Wanted to add a note: I benchmarked this query for production. On a MVW with 1300 total filesets it takes ~ 70 ms to count them. Closes #2447

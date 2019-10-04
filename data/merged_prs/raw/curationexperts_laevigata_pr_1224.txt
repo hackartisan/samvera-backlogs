@@ -1,0 +1,2 @@
+Add dynamic dropdown for degree
+This commit adds a component that renders the the degree dropdown on the form. It does an XHR request to the QA endpoint to accomplish this. There is a basic spec in place, but to fully test the component, there will need to be an Axios mock in place. The spec currently triggers a node warning. Related to #1195

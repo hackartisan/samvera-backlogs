@@ -1,0 +1,2 @@
+Clarifying downloads controller
+Adding a method to better express intent of a conditional logic. Catching a problem with DLTP-28 and a missing commit.

@@ -1,0 +1,2 @@
+Update metadata for everything
+Requires #2440 The job for automatically refreshing Voyager metadata has been broken (fixed when #2440 is fixed), so we need to refresh the metadata on all the voyager items.

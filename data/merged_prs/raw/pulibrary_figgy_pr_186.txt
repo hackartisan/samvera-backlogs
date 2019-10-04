@@ -1,0 +1,2 @@
+Option #2
+This hard-codes the various handlers. We'd have to add a line or two, but we'd at least KNOW which handlers are registered at any given time.

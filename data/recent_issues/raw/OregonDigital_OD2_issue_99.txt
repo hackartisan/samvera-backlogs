@@ -1,0 +1,2 @@
+[10] Design for Work Showpage
+Descriptive summary Current implementation of showpage on Hyrax may or may not be acceptable for OD2. Please:  Evaluate the current showpage determine whether changes should be made Mock up new showpage  Related work #45

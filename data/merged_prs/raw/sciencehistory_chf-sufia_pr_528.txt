@@ -1,0 +1,1 @@
+Add data for download events back into view, fixes #526

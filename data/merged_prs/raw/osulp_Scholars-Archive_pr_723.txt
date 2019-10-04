@@ -1,0 +1,2 @@
+Adds revoking and granting edit to depositor upon transition
+Fixes #686

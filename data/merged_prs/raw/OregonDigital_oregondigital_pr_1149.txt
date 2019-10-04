@@ -1,0 +1,2 @@
+use solr for labels in build_wrapped
+fixes #1147 (or rather, this PR plus two others)

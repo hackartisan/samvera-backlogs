@@ -1,0 +1,2 @@
+Work CSV Export Should be Roundtrip-able
+When exporting work-level metadata by appending ".csv" to the URL, it needs to include header information. It should be possible to import work and fileset metadata updates using the current UI (batch update). Blocked by #686

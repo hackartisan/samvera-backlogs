@@ -1,0 +1,2 @@
+Ensures that ResourceDecorator#downloadable? handles cases where the "downloadable" attribute is nil
+When the downloadable attribute is a nil value, ResourceDecorator will then delegate to the visibility and workflow state of the resource.

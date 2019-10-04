@@ -1,0 +1,2 @@
+Implements Ephemera Models
+Resolves #168

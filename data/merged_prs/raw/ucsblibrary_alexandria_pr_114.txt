@@ -1,0 +1,2 @@
+OAI: namespace settings, move some to application.yml
+Followup to #102

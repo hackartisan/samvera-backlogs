@@ -1,0 +1,3 @@
+Use Controlled Vocabulary Subsets for Specific Collections
+As someone supervising lower-level metadata workers, I want to be able to require use of my custom SUBSET of a standard controlled vocabulary, so that training and quality control are easier AND because the goal of some fields is to bring useful groupings together, rather than to uniquely identify items. Henry P. Related: #5 #103
+Not sure if this is possible anymore with the switch to work-type based metadata templates. Might be possible via mediated workflows? Local vocabularies?

@@ -1,0 +1,2 @@
+Ingest log / error reporting for librarians
+As a librarian, I want to be able to view a log of metadata errors, missing files, and other problems that arose during an ingest, without sorting through software-related errors intended for the developers. ACCEPTANCE   The ingest process produces a log of errors actionable by librarians  The log initially reports 1 type of concrete error we've seen in existing collections (either date error #239 or malformed tiffs)

@@ -1,0 +1,2 @@
+Homepage - Featured work box - add line
+On the homepage in the featured works box can we add a line between the one-line description and the type / purpose of resource? Can we also make the type /purpose of resource a hyperlink?

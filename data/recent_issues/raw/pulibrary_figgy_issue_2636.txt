@@ -1,0 +1,4 @@
+[Figgy/production] Sequel::DatabaseError: PG::SyntaxError: ERROR:  syntax error at end of input
+LINE 2: 
+        ^
+Backtrace line 23 of [PROJECT_ROOT]/config/initializers/sequel_active_support_notification.rb: block in log_connection_yield line 17 of [PROJECT_ROOT]/config/initializers/sequel_active_support_notification.rb: log_connection_yield line 11 of [PROJECT_ROOT]/app/queries/find_many_by_string_property.rb: run_query  View full backtrace and more info at honeybadger.io

@@ -1,0 +1,2 @@
+Update user model with info from shibboleth
+Fixes bug where ppid and display_name aren't being updated for pre-created approver accounts

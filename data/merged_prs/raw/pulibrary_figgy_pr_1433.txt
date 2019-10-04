@@ -1,0 +1,2 @@
+Set visibility on archival media collection, propagate to members during ingest
+fixes #1417

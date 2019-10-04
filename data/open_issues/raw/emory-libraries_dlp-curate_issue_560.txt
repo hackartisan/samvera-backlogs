@@ -1,0 +1,6 @@
+ARCH environment Setup
+3 SOLR, Curate, Lux, Cantaloupe, Fedora   Add Arch env to ansible scripts  Request DNS for arch environments  Add new rules to f5 and internal Elastic Load Balancer for arch envs  Request new fedora user from AWS@emory team for new arch fedora bucket
+@SolomonHD I need an update on this work when you get a chance. 
+I'm still waiting on the fedora-arch user to be created. I contacted Paul Peterson and hopefully he'll get it to me today.
+I received the fedora-arch user credentials a few days ago and Gerry updated the shibboleth metadata for curate-arch a few hours ago. I will proceed with building out the environments today.
+I've got the arch environment up at https://curate-arch.library.emory.edu. Currently it's giving an invalid SSL name, not a big deal but I'll double check the cert on it.  @rotated8 I made changes to capistrano. I created another role for the collection steps called :collection and create a minimal deploy namespace for each environment that does not include the collection step. This will give us a quick way to bypass the collection steps in case they are not working. I'm going to release a PR for this 

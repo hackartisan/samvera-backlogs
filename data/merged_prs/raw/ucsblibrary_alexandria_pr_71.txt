@@ -1,0 +1,2 @@
+[deps] upgrade blacklight_range_limit to 6.2.x
+Fixes DIGREPO-850.

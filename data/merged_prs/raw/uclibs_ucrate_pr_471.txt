@@ -1,0 +1,2 @@
+Removed search label, and resized to match production scholar
+Fixes #468 Removes the unnecessary search Scholar@UC label that was added in Hyrax (between 2.1.0 and 2.3.3). Also resizes to match production Scholar.

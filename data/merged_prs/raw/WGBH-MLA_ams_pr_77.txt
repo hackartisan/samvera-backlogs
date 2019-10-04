@@ -1,0 +1,2 @@
+Updates 'configuraiton' section of sidebar
+Update to Hyrax includes an update to this view to include link to edit Collection Types. Also adds wgbh_admin@example.org to admin role.

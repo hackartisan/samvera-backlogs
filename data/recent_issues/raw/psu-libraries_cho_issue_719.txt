@@ -1,0 +1,2 @@
+Collection::WithMembers needs to search alternate_ids
+When listing works in collections, if the work is referencing the collection's alternate id, aka. the identifier field, the work is not listed because the find_inverse_refernces_by method does not search on alternate_ids.

@@ -1,0 +1,2 @@
+removed tests that have been moved to sufia
+fixes #9488 ability_spec.rb: all different; not changed batch_spec.rb: all the same; deleted checksum_audit_log_spec.rb: all the same; deleted collection_spec.rb: removed 1 test file_content_datastream_spec.rb: many duplicates; removed most of the tests fits_datastream_spec.rb: all the same; deleted generic_file_spec.rb: all different; not changed local_authority_spec.rb: all the same; deleted properties_datastream_spec.rb: all different; not changed user_spec.rb: a few tests were removed

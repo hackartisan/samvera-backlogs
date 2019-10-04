@@ -1,0 +1,2 @@
+When I look at Ethiopic manuscripts, Id like to see all finding aid fields mapped to figgy
+This came up in a meeting this morning from a scholar. There is a lot of information that can be pulled from PULFA site on the Ethiopic manuscripts that would be useful to see in DPUL site as well. Could we do this? Example: https://findingaids.princeton.edu/collections/C0744.03/c0002 and https://figgy.princeton.edu/catalog/7d9e690b-0590-4138-9a5d-9fe99b9a3d2b

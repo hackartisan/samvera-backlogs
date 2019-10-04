@@ -1,0 +1,2 @@
+Add support for SPAR Ontologies Mediatype URIs
+Add the SPAR Ontologies Mediatype URIs as a vocabulary and add to Format controlled vocabulary. Use custom fetch method to go straight to the RDF/XML file. The redirects from https://w3id.org/spar to http://www.sparontologies.net break content negotiation with our current setup. Fixes #1084 Also related to #940

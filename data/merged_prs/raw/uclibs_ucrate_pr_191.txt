@@ -1,0 +1,2 @@
+Update to Hyrax gem version 2.1.0.rc1
+Fixes #183 Whoever takes this on, I can explain the changes and how best to review this. Includes updated feature specs to match changes in Hyrax. These changes are based on the changes in Hyrax between versions v2.1.0_beta1b_qa and v2.1.0.rc1 See samvera/hyrax@v2.1.0_beta1b_qa...rc1

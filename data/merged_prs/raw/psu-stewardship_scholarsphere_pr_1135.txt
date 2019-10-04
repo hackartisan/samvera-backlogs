@@ -1,0 +1,2 @@
+Adds required label to Display Name for Creator
+Adds the required label by switching the label to a do end block. Handled slightly differently for creator than other default fields in the form because creator is a special thing.

@@ -1,0 +1,2 @@
+added missing indexer to collection model
+fixes #1735  It turns out that hyrax now has a separate indexer for the Collection model. See the new collection template: https://github.com/samvera/hyrax/blob/v2.3.0/lib/generators/hyrax/templates/app/models/collection.rb#L6 The metadata for collections in the template is now based on https://github.com/samvera/hyrax/blob/v2.3.0/app/models/concerns/hyrax/basic_metadata.rb

@@ -1,0 +1,2 @@
+Item Ark -> Item ARK in csv header mapping CAL-629
+Changes the expected csv header from 'Item Ark' to 'Item ARK', to match current DLCS export practice

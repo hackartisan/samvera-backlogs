@@ -1,0 +1,2 @@
+Downloader reports
+Add rake taks that generate some downloader statistics per user selected survey status and month of download.

@@ -1,0 +1,2 @@
+Investigate use of a metrics/assessment tool other than Google Analytics - Piwik or Open Web Analytics
+Google Analytics requires us to give non-anonymized patron data to Google, who then gives us our data back to us, visualized and anonymized. Alternative options would visualize our data for us without sending it to a commercial or other entity. Some things to look at: Piwik - https://piwik.org/ Open Web Analytics http://www.openwebanalytics.com/

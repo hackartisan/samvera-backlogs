@@ -1,0 +1,2 @@
+remove/hide 'Feature work' button on works
+we're not featuring works at the moment, but we don't want to have to pull them out of the code. so  let's just hide the button that appears.

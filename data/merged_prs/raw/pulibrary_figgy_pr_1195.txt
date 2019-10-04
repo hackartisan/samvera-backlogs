@@ -1,0 +1,2 @@
+Change bounding box color from white to blue
+Makes bounding box easier to see.  Closes #1190

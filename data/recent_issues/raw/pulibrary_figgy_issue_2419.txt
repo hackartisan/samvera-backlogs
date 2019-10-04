@@ -1,0 +1,2 @@
+Timespan of the viewer should reflect length of individual tracks
+Currently it's all tracks together

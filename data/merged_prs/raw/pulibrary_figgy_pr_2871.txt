@@ -1,0 +1,2 @@
+Add capistrano switch to read only mode
+requires provisioning of pulibrary/princeton_ansible#479 fully resolves #2830

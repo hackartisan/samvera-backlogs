@@ -1,0 +1,2 @@
+Handle `degree_awarded => false` case in admin embargo display
+When degree_awarded is false, but embargo_length is nil, the EtdPresenter#toc_for_admin method failed with NoMethodError. This causes a problem for some migration objects. This refactors the method to support ETD. Closes #928

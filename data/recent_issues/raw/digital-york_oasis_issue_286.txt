@@ -1,0 +1,2 @@
+Change footer text of Summary deposit needs review notification
+Related to #282 Can we please change the text of the notification a depositor receives? This is the current version:  Please, change it to this text. I'm hoping this will be a bit clearer for depositors.

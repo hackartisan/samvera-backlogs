@@ -1,0 +1,2 @@
+Remove database_auth
+Closes #440

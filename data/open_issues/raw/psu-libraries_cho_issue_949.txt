@@ -1,0 +1,3 @@
+Creator Labels are no longer connected, Work Edit, FileSet Edit, Collection Edit
+The labels for role and creator are no longer attached to their input field.  I Wave errors for no label and orphaned label  inspection showing label-for and actual id are not the same  refs #310
+When hovering over the "add another x" with the mouse, the cursor doesn't turn into a hand indicating that it is a clickable link. Also there aren't any hover or active states when clicking the "add" link.

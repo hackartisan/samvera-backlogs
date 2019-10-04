@@ -1,0 +1,1 @@
+fixes admin workflow bug with work title for link generation

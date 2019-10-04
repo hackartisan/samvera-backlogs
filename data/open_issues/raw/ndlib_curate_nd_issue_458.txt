@@ -1,0 +1,3 @@
+"Project 29": Change label for "Affiliation" in Curate.
+User story I would like to be able to see only Faculty publications. I don’t realize that "Affiliation" is how I would facet that in search. Action items  Change label of "Affiliation" facet to "Academic Status" Change label on submission forms for Article, Dataset, Document, and Image from "Affiliation" to "Academic Status."  This is an issue-level project as the behavior is in place and we are not changing how the data is stored or handled. Since I didn't realize we actually had this in place, I had technically made it a project.
+DLTP-578 tracks this. 

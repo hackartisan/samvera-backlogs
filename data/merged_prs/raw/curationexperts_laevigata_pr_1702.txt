@@ -1,0 +1,2 @@
+Take user to main page after logging in
+Fixes #1690

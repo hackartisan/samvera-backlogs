@@ -1,0 +1,1 @@
+delete extraneous policies erg from vagrant directory

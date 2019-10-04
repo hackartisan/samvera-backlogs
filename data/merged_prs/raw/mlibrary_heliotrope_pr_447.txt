@@ -1,0 +1,2 @@
+allow non-breaking spaces, disallow code block formatting
+Resolves #446

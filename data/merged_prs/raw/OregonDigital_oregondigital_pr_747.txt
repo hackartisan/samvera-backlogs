@@ -1,0 +1,2 @@
+Make date sorting less flexible
+DateTime.parse was reading 20th Cent. as "year 20", which broke a lot.

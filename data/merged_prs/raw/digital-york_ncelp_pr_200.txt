@@ -1,0 +1,1 @@
+remove unnecessary info in collection search result page

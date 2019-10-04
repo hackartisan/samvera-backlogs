@@ -1,0 +1,3 @@
+IIIF Presentation API 2.*
+As a digital humanist, I want to retrieve image metadata using the IIIF API, So that I may integrate the content into digital scholarship and other research projects. Done looks like: Implementation of the IIIF Presentation API2.*.
+Full implementation should also allow us to provide API access to collection metadata.

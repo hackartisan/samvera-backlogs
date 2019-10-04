@@ -1,0 +1,2 @@
+Use Blacklight's type filter for members.
+Works better than a branch in the default view.

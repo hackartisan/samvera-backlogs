@@ -1,0 +1,2 @@
+custom visibility options for depositors on GTD forms
+fixes #1491 It hides the Oregon State University and Private option under Visibility for the GraduateThesisOrDissertation model and non admin users only:

@@ -1,0 +1,2 @@
+Collection banners are only uploaded to one web server
+Descriptive summary When a banner is added to a collection, the image is uploaded into public/branding.  However, it only shows up on the one load balanced server the user is on. We need to fix this the way we have for other image uploads.  The branding directory should exist on /mnt/common/branding so both web servers can see it.  public/branding will then be a symlink to /mnt/common/branding I've changed this on scholar.uc.edu so it works for now.  But Bamboo will need to be tweaked to keep it that way.

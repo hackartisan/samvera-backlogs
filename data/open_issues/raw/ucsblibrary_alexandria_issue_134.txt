@@ -1,0 +1,2 @@
+Update ansible script to fix errors
+Update ansible script for provisioning to include correct path to fits, and correct permissions on opt/riiif/derivatives/BBB

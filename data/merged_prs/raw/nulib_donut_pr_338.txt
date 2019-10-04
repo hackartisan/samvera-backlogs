@@ -1,0 +1,2 @@
+Override label for Description
+Fixes: nulib/next-generation-repository#636  Override Hyrax default label for description in the new/edit form - change from "Abstract or Summary" to "Description" Show NU's abstract field to the show view.

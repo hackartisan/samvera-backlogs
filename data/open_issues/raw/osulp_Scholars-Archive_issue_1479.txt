@@ -1,0 +1,2 @@
+[Advanced Search] Make Decade facet work with multiple selection
+The Decade facet renders ok on Advanced Search, at least on dev and staging, but uses a different partial, and does not have the multiple selection capability that the other facets have. The Decade facet caused a template not found error when deployed to production. It was disabled by PR #1478.

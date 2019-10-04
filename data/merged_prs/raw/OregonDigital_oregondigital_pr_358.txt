@@ -1,0 +1,2 @@
+Feature/advanced search fixes
+Adds specs for advanced search and the necessary overrides to properly display advanced search facets with our Controlled Vocab facets.

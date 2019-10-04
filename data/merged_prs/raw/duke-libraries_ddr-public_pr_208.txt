@@ -1,0 +1,2 @@
+Use DUL fork of blacklight_range_limit
+The patch-controller-override branch of our fork of blacklight_range_limit changes the Solr request from a get to a post and passes the params as :data, which resolves the broken pipe error we were seeing with the large queries in production. This pull request adds the histogram functionality and points to the patched fork/branch of blacklight_range_limit.

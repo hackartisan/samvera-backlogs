@@ -1,0 +1,2 @@
+HELIO-2175 - change lever press link
+modifies homepage link to lever press to point to fulcrum instance of lever press.

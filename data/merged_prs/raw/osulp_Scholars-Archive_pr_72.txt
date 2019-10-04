@@ -1,0 +1,2 @@
+Override footer to add custom info
+Fixes #48 Overrides the footer partial just in case more needs to be added to the footer overtime.

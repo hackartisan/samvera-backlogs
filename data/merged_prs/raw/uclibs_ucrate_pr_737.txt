@@ -1,0 +1,2 @@
+replace chromedriver with webdrivers for capybara tests
+Fixes #736 Chrome driver gem is broken, preventing capybara tests from running on Travis. Replace with webdrivers gem.  Remove chromedriver-helper gem Add webdrivers gem pin to stable version of chromedriver in rails_helper

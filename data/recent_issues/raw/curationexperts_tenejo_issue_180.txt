@@ -1,0 +1,2 @@
+Confirm behavior of file-related fields
+For the file related items, I'm assuming that the valid list is any of the filenames from the files field, but want to confirm this assumption for: Representative Media Thumbnail Rendering If they don't behave as we want we will take these out of the csv and documentation.

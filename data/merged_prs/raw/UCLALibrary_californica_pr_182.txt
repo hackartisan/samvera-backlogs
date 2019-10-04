@@ -1,0 +1,2 @@
+Add caption term
+This commit adds the caption vocab term to the data model and allows it to be facted. Connected to #178

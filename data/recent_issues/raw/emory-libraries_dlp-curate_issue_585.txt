@@ -1,0 +1,2 @@
+Term(s) missing from Content Type vocab definition
+Our vocab for content_type is missing one or more terms in the Edit form. LC Resource Type vocab terms are:   Artifact (is missing: will be needed for the Kobe and Medical Artifacts collections)  Audio  Cartographic  Collection  Dataset  Digital  Manuscript  Mixed material  Moving image  Multimedia  Notated music  Still Image  Tactile  Text  Unspecified

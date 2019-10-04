@@ -1,0 +1,2 @@
+fixes JS date validation
+Closes #320

@@ -1,0 +1,2 @@
+Log successful imports
+When a work is successfully imported   The timestamp is logged  The work ID is logged  The batch ID is logged

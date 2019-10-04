@@ -1,0 +1,2 @@
+Change "Browse by Topic" navigation menu
+Descriptive summary Replace << Previous | >> Next browse by buttons with page navigator used by "Browse by Collections"   This ticket needs a bit of investigation to see if the navigator makes sense. Might have to re-write the pager.

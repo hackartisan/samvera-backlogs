@@ -1,0 +1,2 @@
+json 1.8.6 and Bundler cannot continue
+I'm trying to build out scholarsphere but it is failing for me every time at the "build install" command.  I'm not able to "bundle install" because json 1.8.6 fails every time.  I'm running ruby 2.3.1p112 on Ubuntu 16.04.4 LTS (Xenial). Not sure where else to ask about this.

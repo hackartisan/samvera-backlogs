@@ -1,0 +1,2 @@
+Rewrite Python script for watermarking PDFs in Ruby
+Descriptive summary Since our DAMS code is in Ruby, rewrite the Python watermarking script for PDFs in Ruby. Work is expected to be done by the end of Summer 2019  Related work  ucsdlib/damsmanager#299 ucsdlib/damsmanager#320

@@ -1,0 +1,2 @@
+updates to permission handling
+adds a depositor role limits creation to depositor and admin roles only hides the dashboard from users who aren't able to deposit  closes #265 closes #257

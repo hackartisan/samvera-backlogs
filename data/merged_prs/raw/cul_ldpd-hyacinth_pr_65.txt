@@ -1,0 +1,2 @@
+XML Generation Refactor and HYACINTH-210
+Refactored XML rendering code into two classes. Broke-up rendering code into smaller method Fixed/added test after refactor Added not_equals as a conditional that can be used Checking render_if statement before rendering attributes Resolves HYACINTH-210

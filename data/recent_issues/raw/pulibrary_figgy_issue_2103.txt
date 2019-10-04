@@ -1,0 +1,2 @@
+Manage Coin IDs
+The existing CoinIDs should be migrated from the old database, and we need to continue to mint short identifiers for using on coin box labels. Child of #2025

@@ -1,0 +1,2 @@
+Expand bulk complete functionality
+Add additional collections  Set rights statement and note  OCR Language  See #697 and #2550

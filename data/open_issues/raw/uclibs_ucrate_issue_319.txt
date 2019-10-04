@@ -1,0 +1,6 @@
+Provide contextual help for the rights_statement
+Descriptive summary We need some contextual help for the Rights field. This should be set in the config/locales files for each work type. We will have to reference a product owner for the exact wording. Expected behavior That we have some contextual help. Actual behavior  Steps to reproduce the behavior  Do this Then do this...  Related work Link to related issues or prior related work here.
+I'm noticing that on develop we have both `rights statement` field and `license` field. Rights statement is redundant, no? Was supposed to be overriden by license maybe?   <img width="688" alt="screen shot 2018-07-31 at 3 41 06 pm" src="https://user-images.githubusercontent.com/1069588/43482999-500d7634-94d8-11e8-8b86-593acd7ea635.png"> 
+@hortongn do we need to draft some language for this? 
+@crowesn Yes, we do.  I'll look into it.  Might need to run it by the POs.  Hyrax has this field, but they don't provide contextual help text for it.  I'm marking this blocked until we develop text.
+We don't have a rights statement anymore

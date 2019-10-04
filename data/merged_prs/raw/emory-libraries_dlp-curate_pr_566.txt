@@ -1,0 +1,2 @@
+Match file structure on server
+When attaching files, we have to locate them within the filesystem layout on the curate servers. Connected to curationexperts/in-house#262

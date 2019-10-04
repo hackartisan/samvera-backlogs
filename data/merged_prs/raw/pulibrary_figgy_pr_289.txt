@@ -1,0 +1,2 @@
+Description as a text box.
+Closes #282.

@@ -1,0 +1,2 @@
+Adding uniqueness validation for data dictionary field label
+refs #333

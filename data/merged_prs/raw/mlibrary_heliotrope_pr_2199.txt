@@ -1,0 +1,1 @@
+HELIO-1499 cleanup featured representative on file_set delete

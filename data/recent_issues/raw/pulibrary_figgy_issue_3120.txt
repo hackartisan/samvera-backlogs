@@ -1,0 +1,2 @@
+"On Campus" Content
+For Princeton Performance Archive:  If a user is logged into Figgy with staff or admin role, display digital content If a user's IP address is in the campus IP ranges, display digital content Otherwise, do not display digital content

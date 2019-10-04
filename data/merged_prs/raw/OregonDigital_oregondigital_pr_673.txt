@@ -1,0 +1,2 @@
+Don't create compound statements for a blank compound list
+Closes #668

@@ -1,0 +1,1 @@
+Fix capybara clone clicking in JS specs

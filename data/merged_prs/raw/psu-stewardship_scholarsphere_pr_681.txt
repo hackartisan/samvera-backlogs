@@ -1,0 +1,2 @@
+Update BrowseEverything to 0.12.0, ref #598
+Supports using checkboxes to select files for upload.

@@ -1,0 +1,2 @@
+Fixes #1291 Dupe titles in the toc.
+Needed more specific xpath to get chapter titles from the toc and not duplicate titles.

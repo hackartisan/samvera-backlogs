@@ -1,0 +1,2 @@
+Resolves #1384, modify breadcrumbs for child publisher's views
+Did some refactoring. Breadcrumbs are more complicated now 😞 but are tested.

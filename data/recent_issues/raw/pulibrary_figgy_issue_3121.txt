@@ -1,0 +1,2 @@
+Prompt To Login
+If a user is not logged in, and there is digital content that might be shown if they logged in, we should prompt them to login so they can see the digital content. Related to #3118: if the content is restricted, maybe we don't want to display the prompt, or display a prompt to request the material instead?

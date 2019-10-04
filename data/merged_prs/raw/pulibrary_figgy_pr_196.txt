@@ -1,0 +1,2 @@
+Rename project `name` to `title`
+Fixes the header.

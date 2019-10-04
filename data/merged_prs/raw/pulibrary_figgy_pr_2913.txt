@@ -1,0 +1,2 @@
+Assign to the coin the parent numismatic issue when first created
+Assign to the coin the parent numismatic issue when first created Edit the coin to assign to a new numismatic issue

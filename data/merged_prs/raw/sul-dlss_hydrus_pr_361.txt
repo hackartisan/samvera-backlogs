@@ -1,0 +1,2 @@
+docker-compose: hook up dor-servcs-app to db
+based on the same fix needed for Argo:  PR sul-dlss/argo/pull/1653 per excellent steer from Mike.

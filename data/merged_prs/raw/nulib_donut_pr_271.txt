@@ -1,0 +1,2 @@
+updates to latest Hyrax 2.1.0 rc1
+Fixes nulib/next-generation-repository#496  updates to latest Hyrax for collections extensions updates

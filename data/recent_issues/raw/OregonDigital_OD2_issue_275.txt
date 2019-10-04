@@ -1,0 +1,2 @@
+[1] Verify emails for password recovery are correct.
+Descriptive summary Verify that all the information provided in the password recovery are correct. This email needs to be useful enough to allow a person to reset their password easily. Expected behavior Emails for password reset are functional and looking correct.

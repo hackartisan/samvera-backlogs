@@ -1,0 +1,2 @@
+Downgrade qa to avoid withdrawn version
+Fixes #115

@@ -1,0 +1,2 @@
+Grant depositor read on their own submission
+Fixes #482 @val99erie I think this fixes the bug you found. It should leave embargo or other visibility measures in place, but grant the depositor the ability to see their own work. It should have been this way from the start. Good catch.

@@ -1,0 +1,2 @@
+Clean up unnecessary yml files
+No usage was found for the deleted files, so they are being removed. Fixes DLTP-1601

@@ -1,0 +1,2 @@
+Update stale comment
+This comment is no longer accurate since we backed out the FindMembersWithInverseRelationship approach to loading resources and their parents: https://github.com/pulibrary/figgy/blob/master/app/graphql/types/resource.rb#L22

@@ -1,0 +1,2 @@
+Feature/oai rights
+fixes #961

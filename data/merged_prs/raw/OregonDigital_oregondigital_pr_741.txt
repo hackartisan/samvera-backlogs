@@ -1,0 +1,2 @@
+Add date sorting.
+This adds support for dates of the following formats: 2011-01-01 2011-01 2011-2014 2011nonsensehere Closes #652 and #650

@@ -1,0 +1,2 @@
+Adding controllers, routes, and configurations to support custom portals
+This points to a specific commit of ddr-models. It will require a configuration file (/ddr-public/config/portal_controllers.yml) in order to function -- available on box (https://duke.box.com/s/192xovrl1n2pe7vg5hw790maux6aayeu). Some functionality requires that identifier and admin_set values be set on Collections.

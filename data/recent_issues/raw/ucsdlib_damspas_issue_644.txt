@@ -1,0 +1,2 @@
+Sort collections view by most recently added, by default
+Descriptive summary Collections view for RDC (https://library.ucsd.edu/dc/rdcp/collections) should sort, by default, by most recently added collections, rather than the current alphabetic sort. Rationale This is a nearly ubiquitous practice in research data repositories, and emphasizes the most recently added collections rather than those beginning with "A". Alphabetic sort by title can remain an option under Sort. Note  ONLY for RDCP collections.

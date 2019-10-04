@@ -1,0 +1,2 @@
+Supports relations between geospatial resources (`ScannedMaps`, `RasterResources`, `VectorResources`)
+Resolves #989 and builds upon https://github.com/samvera-labs/geo_works Closes #1082 and #1088

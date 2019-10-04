@@ -1,0 +1,2 @@
+update to latest hyrax
+Fixes #44 Giving the PR to Travis to churn on for a bit.

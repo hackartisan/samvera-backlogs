@@ -1,0 +1,2 @@
+Mysql vs Sqlite
+We are running the tests currently with sqlite.  This runs 564 examples when you run rspec.  If you run the same test suite with mysql then you run 775 examples sqlite output 564 examples, 3 failures, 4 pending mysql output 775 examples, 13 failures, 8 pending

@@ -1,0 +1,2 @@
+adjusting research and keyword validator for array values
+This commit adjust the validation code for the keyword tab to fit the supplied values, arrays. Fixes #1707.

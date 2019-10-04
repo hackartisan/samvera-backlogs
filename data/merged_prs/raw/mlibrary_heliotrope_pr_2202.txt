@@ -1,0 +1,2 @@
+Resolves HELIO-29: isbn solr spec
+Solr Core Spec

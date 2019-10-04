@@ -1,0 +1,1 @@
+Riiif: keep thumbnails forever, on separate mount

@@ -1,0 +1,2 @@
+Converting 'content' key to an array and creating a hash out of every value
+This prevents a bug where we end up interpolating a string.

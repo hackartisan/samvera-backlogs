@@ -1,0 +1,2 @@
+Don't allow `staff` role to delete published items
+This will likely involve a new method on workflows, checked in Ability#staff_permissions

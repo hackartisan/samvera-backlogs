@@ -1,0 +1,1 @@
+Fixes #868 dashboard crashes if a monograph has no files

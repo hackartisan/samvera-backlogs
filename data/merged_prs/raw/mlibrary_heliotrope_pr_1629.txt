@@ -1,0 +1,2 @@
+Resolves #1625: Install new Authentication System (Keycard)
+NOTE: ./db/keycard-test.sqlite3 was added to the git repository to support Travis CI integration a.k.a. the database needs to exists for Travis to run. https://github.com/mlibrary/heliotrope/wiki/Keycard-Integration

@@ -1,0 +1,2 @@
+Remove extra descriptive metadata
+Set repository to multiple: false That's more difficult than this ticket. Will open a new issue about it. Fixes #452 Fixes #366

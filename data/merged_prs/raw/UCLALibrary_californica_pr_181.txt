@@ -1,0 +1,1 @@
+Added latitude, longitude fields to importer. Connected to #149 and #151

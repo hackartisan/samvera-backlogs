@@ -1,0 +1,3 @@
+Pull together a list of log file locations
+From the OD meeting on 11/16: Make this into a separate document and send out to everyone: What are all of the logs located? fedora, solr, apache, nginx, rails, tomcat, resque, production, new relic, mongo, free NAS, passenger, system logs, derivatives stack, iip, memcached, tomcat, redis
+Log doc now available, please give input: https://docs.google.com/document/d/1LMgJ5gq_SMi49ocJrwmFDZK4VTaTtHeKiCk5AV5GYEY/edit?usp=sharing  

@@ -1,0 +1,2 @@
+Add a log msg to reindexer
+saying when records start being indexed individually

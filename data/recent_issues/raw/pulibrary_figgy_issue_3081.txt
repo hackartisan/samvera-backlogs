@@ -1,0 +1,2 @@
+Periodically failing numismatic_places_controller test
+https://github.com/pulibrary/figgy/blob/master/spec/resources/numismatic_places/numismatic_places_controller_spec.rb#L39

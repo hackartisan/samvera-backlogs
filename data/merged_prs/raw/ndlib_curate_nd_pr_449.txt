@@ -1,0 +1,2 @@
+410 do not pull title from pdf metadata
+Claiming issue 410 @dfee9a97c94015008effb4baa6a820745530c31e relates to #410 $ ./script/start-issue 410 [skip ci] Replacing the usage of Title with Filename @d2ca72ad41999a869a51341535c3cce3f1e44393 In reviewing the behavior with Don, we don't want to show the extracted title from fits. But instead show the filename. Closing issue 410 @775f87d12e5c6301ba5ce3b95f4841a85bdbeaec Closes #410 $ ./script/close-issue 410

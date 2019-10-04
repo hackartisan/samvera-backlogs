@@ -1,0 +1,2 @@
+Feature/docker deepzoom
+Adds a deep-zoom service to the stack so we can test without the obnoxious "404" in the image viewer

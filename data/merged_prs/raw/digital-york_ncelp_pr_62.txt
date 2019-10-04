@@ -1,0 +1,1 @@
+add search box into search result page

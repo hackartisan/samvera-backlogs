@@ -1,0 +1,2 @@
+Adds proper human readable names/descriptions to ingest form and item record page
+Fixes #135 Fixes #140 Fixes #137 Fixes #81 Fixes #84

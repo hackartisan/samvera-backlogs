@@ -1,0 +1,2 @@
+real count of public works on home page
+Closes #829

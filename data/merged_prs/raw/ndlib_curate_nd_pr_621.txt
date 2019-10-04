@@ -1,0 +1,2 @@
+Dltp 280 orcid in search results displ
+This commit address issue 280 and actual code changes is in ndlib/orcid

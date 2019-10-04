@@ -1,0 +1,2 @@
+Check that the `Etd` model can load objects with `OkComputer`
+Adds a model integration check for the Etd model. This check will fail if no Etd exists, or if a connection to Fedora/Solr fails.

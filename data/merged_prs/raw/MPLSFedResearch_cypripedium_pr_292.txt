@@ -1,0 +1,2 @@
+Change notification text for bag creation
+This changes the wording of the bag notification to match the wording of #282. It introduces a method to the WorkBag class that is used to count the number of works in a bag. Connected to #282

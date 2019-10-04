@@ -1,0 +1,2 @@
+Mixed ontologies for description
+As a linked data strategist/metadata librarian, I want to design metadata application profiles which take advantage of the best and most common ontologies available to provide accurate description. Ruth K-T

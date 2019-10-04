@@ -1,0 +1,2 @@
+Log to file and console
+This commit adds a class that will log to the console and a file at the same time. Closes #99

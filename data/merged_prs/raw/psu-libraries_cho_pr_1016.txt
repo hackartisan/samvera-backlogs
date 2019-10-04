@@ -1,0 +1,2 @@
+Rename Repository::Access to Repository::AccessControls
+Description In keeping with the transaction operation namespace, the Access module is renamed to AccessControls. Access levels are now contained within that namespace, as well as ResourceControls is renamed to just Fields which better correlates with other similar classes. This keeps the naming conventions more consistent throughout the application.

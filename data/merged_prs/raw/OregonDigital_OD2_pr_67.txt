@@ -1,0 +1,2 @@
+adds basic work types for Generic and Image
+fixes #66

@@ -1,0 +1,2 @@
+CSV Ingest detects multivalue fields incorrectly
+Miranda had an issue with a CSV ingest that tried to include a PhysicalInstantiation.generations column - the ingest threw back an error stating that she had passed single-value data into a multivalue field. The CSVReader uses PhysicalInstantiation.properties[attribute].multiple? to detect the type of field. Generations seems to be set correctly in the PhysicalInstantiation model, so not totally sure where the problem is yet.

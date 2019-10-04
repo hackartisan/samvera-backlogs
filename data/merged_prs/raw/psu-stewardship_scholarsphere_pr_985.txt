@@ -1,0 +1,2 @@
+Updates published sitemap to reflect Works  
+The sitemap was reflecting works as files with the /files/ directory. The code is fine we just needed to uncomment and re-enable the code for the published sitemap in deploy.rb.

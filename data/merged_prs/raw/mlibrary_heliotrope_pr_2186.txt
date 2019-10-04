@@ -1,0 +1,2 @@
+Update CSB 
+Update our version of CSB that includes a new scroll manager for reflowable EPUBs and fixes related to browser history and full screen mode in Chrome. Also adds local copy of jszip.min Resolves HELIO-2437 Resolves several issues in CSB: CSB-199 CSB-202 CSB-204 CSB-205

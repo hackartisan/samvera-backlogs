@@ -1,0 +1,2 @@
+Batch upload bug
+When access: http://localhost:3000/batch_uploads/new?locale=en, a error shows: undefined method `language_other' for #Hyrax::Forms::BatchUploadForm:0x00007f1e57c3a380 Did you mean?  language

@@ -1,0 +1,2 @@
+Sorts on the show page
+Reconfigures the nested_ordered_creator_label to include the index of the object, and adds a parser/sorter to parse index and sort labels based on index.

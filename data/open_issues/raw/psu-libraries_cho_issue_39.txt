@@ -1,0 +1,2 @@
+Advanced Searching
+As an end user, I would like to select specific indexes to search by keyword, so I can get more relevant results. (E.g., I would like to limit my keyword search to just words in titles, right from the beginning of my search.) As an end user, if I’m using advanced search, I don’t want a ton of boxes and I don’t want to overthink whether I’m looking for an author or a creator or an artist. I just want to search for the person responsible for making the thing. [Ruth K-T]

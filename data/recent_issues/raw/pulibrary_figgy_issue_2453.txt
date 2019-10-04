@@ -1,0 +1,2 @@
+Updating an object re-sets its `created_at`
+e.g., on figgy staging: irb(main):012:0> letter = query_service.find_by(id: "02a21df5-e850-4e09-91d9-a7ac87bf7d87") irb(main):010:0> letter.created_at => "2019-01-07T18:39:00.471Z" irb(main):011:0> letter.updated_at => "2019-01-07T18:39:00.471Z"  # refresh metadata in the UI irb(main):012:0> letter = query_service.find_by(id: "02a21df5-e850-4e09-91d9-a7ac87bf7d87") irb(main):013:0> letter.updated_at => "2019-01-22T19:04:11.005Z" irb(main):015:0> letter.created_at => "2019-01-22T19:04:11.005Z"

@@ -1,0 +1,2 @@
+Link derivatives intead of copying them
+Fixes #345

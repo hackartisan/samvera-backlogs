@@ -1,0 +1,2 @@
+requires ssl and restrains logging in prod
+Related to #173. As currently deployed, config/environments/production.rb is a shared file. The relevant changes have already been made in the appropriate environments, but I think changing the codebase is a good idea for Future Us.

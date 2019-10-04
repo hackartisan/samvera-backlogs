@@ -1,0 +1,2 @@
+Boilerplate Refers to Previous Product Owner
+The link from the Help page links to default boilerplate language for data management plans. This default boilerplate references Rob as the point of contact for information or questions about DMP. This should be updated to reflect the new structure of the group and any policy changes. https://scholarsphere-qa.libraries.psu.edu/concern/generic_works/cv43nw822

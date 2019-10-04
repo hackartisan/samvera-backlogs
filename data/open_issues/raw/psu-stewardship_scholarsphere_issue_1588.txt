@@ -1,0 +1,2 @@
+CSV for Metadata Remediation
+Compare the current metadata fields in SS and only pull out the data that doesn't meet current requirements for mediation. Report of all of the works and collections that do not have all of the required fields filled out. Required metadata fields-column. Done looks like a CSV with all of the works and collections with their required fields in columns plus a URL to access the work or collection. One-time thing.

@@ -1,0 +1,2 @@
+Dltp 260 the sort by dropdown list shoul
+Claiming issue DLTP-260 @fd1f825be32d5c76fcfbe50ce12d03af219c901c $ ./script/start-issue DLTP-260 [skip ci] Show sorting dropdown regardless of filters @e23889fc9d097f7708c4351e1e0567d44f05d621 Always show the 'Sort by' dropdown list in the search page. It previously only appears if there is a filter set. Closing issue DLTP-260 @18144a8e6fe09d21ae8c2d6a03445584df5c28eb $ ./script/close-issue DLTP-260

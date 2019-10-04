@@ -1,0 +1,1 @@
+Upgraded to ruby2.2.3 and rails 4.2.4(DHH-730)

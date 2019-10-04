@@ -1,0 +1,2 @@
+Default the rails console to use pry, not irb
+rails c gives you pry.  Neat!

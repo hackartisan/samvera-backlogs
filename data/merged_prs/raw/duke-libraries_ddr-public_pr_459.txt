@@ -1,0 +1,2 @@
+Use all_fields and solr_local_parameters to define default search fields
+This sets us up to use the blacklight_advanced_search gem. Also returns search results for a blank search.

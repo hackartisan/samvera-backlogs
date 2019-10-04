@@ -1,0 +1,1 @@
+Adds links to search results of Assets from Batches

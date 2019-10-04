@@ -1,0 +1,2 @@
+Generate a default structure for AV materials.
+Allows for a navigable table of contents, which updates the title of the viewer. Closes #2467

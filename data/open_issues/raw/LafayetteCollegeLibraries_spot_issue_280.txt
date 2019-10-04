@@ -1,0 +1,2 @@
+after log-in, redirect to previous page
+this is probably a common rails thing to implement, but when a user logs in they're immediately redirected to the dashboard and maybe we want to just send them to the page they were at previously?

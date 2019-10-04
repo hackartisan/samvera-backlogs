@@ -1,0 +1,2 @@
+Adding clamav support back into FileSets and Files
+Added check for virus before storing a file in our binary store Fixed content for remote unsaved items

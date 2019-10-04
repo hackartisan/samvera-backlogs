@@ -1,0 +1,2 @@
+change nul_subject and subject_topical
+Fixes nulib/next-generation-repository#423  use Hyrax's subject for nul_subject since they have the same predicate (so just change display  labels to "NUL Subject") create new field with Authority Select Dropdown for subject_topical update tests and batch spreadsheet accordingly also removed Contributor Role and Creator Role edit field partials (leftover from previous issue)

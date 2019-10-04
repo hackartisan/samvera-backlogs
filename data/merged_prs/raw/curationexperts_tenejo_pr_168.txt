@@ -1,0 +1,2 @@
+Test for expanded set of visibility options
+Connected to #115

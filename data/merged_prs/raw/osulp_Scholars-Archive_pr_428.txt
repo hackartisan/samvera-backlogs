@@ -1,0 +1,2 @@
+adds Legato initialization to ensure development, staging, and testing environments have analytics
+fixes #427

@@ -1,0 +1,2 @@
+Rake task to clean dev environment
+Description This is helpful when you need to reset the database and the rest of the related components such as Solr after a rebase or if something just gets into a weird state. Changes Are there any major changes in this PR that will change the release process? no Checklist   i18n enabled  adequate test coverage  accessible interface

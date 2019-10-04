@@ -1,0 +1,2 @@
+Upgrade Ruby and Rails versions
+Recommend: Ruby 2.3->2.5 Rails 5.0.7->5.1.7

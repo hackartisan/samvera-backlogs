@@ -1,0 +1,2 @@
+Add default url host var for Devise
+Devise requires this to be set to render certain view (like when sending an email).

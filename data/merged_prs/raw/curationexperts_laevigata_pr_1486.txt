@@ -1,0 +1,2 @@
+Use custom actor stack
+Use our local customized actor stack, not the default one, in feature tests. Connected to #1416

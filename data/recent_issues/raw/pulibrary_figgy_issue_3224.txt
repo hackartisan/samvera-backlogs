@@ -1,0 +1,2 @@
+Add documentation link to the front page of figgy
+Also add link to "best practices" document; link is in the ‘ingesting’ google doc ADAPT+ meeting

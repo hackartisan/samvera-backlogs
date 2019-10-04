@@ -1,0 +1,2 @@
+Agent Landing Page
+Basic landing page for agents with CRUD for their properties. Include faceted catalog of search results for the agent. In general, this should be what users see when they click on an agent (enhancement to #127).  Could be a model for controlled vocabulary fields. Enhancement: #730, #127 Future enhancements might be adding images, custom text, pulling in in biographies, linked data, EAC-CPF, authorities. (Some of these things might also end up happening outside of CHO and being pulled in.)

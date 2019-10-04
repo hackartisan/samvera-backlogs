@@ -1,0 +1,2 @@
+Cleaned up catalog controller.
+I left extra solr logic in the root so we can easily see it. We need to add search and sort fields appropriately - TODO comments have been left. Closes #48

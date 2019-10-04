@@ -1,0 +1,2 @@
+Require underscores to separate PULFA collection/component IDs
+Refactor PULFA id validation and parsing Require underscores to separate PULFA collection/component IDs (instead of allowing either slash or underscore) Add form hints on acceptable ID formats

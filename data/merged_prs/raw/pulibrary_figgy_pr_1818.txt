@@ -1,0 +1,2 @@
+Open up GraphQL to public
+Closes #1817.

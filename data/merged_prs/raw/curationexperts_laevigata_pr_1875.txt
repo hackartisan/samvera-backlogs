@@ -1,0 +1,2 @@
+Disable realtime notifications warning
+Our logs are littered with a warning that says: Cannot enable realtime notifications atop Passenger + Apache. Coercing `Hyrax.config.realtime_notifications` to `false`. Set this value to `false` in config/initializers/hyrax.rb to stop seeing this warning.  I believe that making this change will make our logs less cluttered and thus easier to parse.

@@ -1,0 +1,2 @@
+Include work-level metadata in bags
+ACCPTANCE   Provide a simple proof-of-concept version of metadata export that includes the metadata displayed on the work's show page in the BagIt export.  The metadata is serialized in XML

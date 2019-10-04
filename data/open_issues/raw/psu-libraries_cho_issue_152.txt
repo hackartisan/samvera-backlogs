@@ -1,0 +1,4 @@
+High-Quality Images in Viewer
+As a public user, I would like derivative images to use high-quality compression, so that images don't have any artifacts or too much degredation. Ann P.
+Our default behavior should be to provide direct access to TIFFs, in addition to the viewer, as long as rights allow. This may need to be configurable by collection as some (Palmer) might not like to provide direct TIFF access.
+Allow for derivatives to be supplied and/or automatically generated. Need a mechanism for uploading derivatives. Can turn off derivatives. No current way to upload derivatives out of the box. Some kind of workflow and UI.

@@ -1,0 +1,2 @@
+Index text of all attached PDFs on a work
+This commit changes the FullTextToSolrJob so that it indexes the text content of all PDFs that are attached to a work. This adds another PDF fixture for the updated specs. This also moves the spec for the FullTextExtractor class into spec/services. The class was moved, but not the spec in an earlier commit. Closes curationexperts#52

@@ -1,0 +1,2 @@
+Display geographic coordinates
+Take advantage of the geographic coordinates index field and display it on the show page instead of the separate latitude and longitude values. Connected to UCLALibrary/ursus#22

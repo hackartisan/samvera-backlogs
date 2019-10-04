@@ -1,0 +1,2 @@
+Handles cases where the ChangeSetPersister::CleanupPdfs does not delete existing PDF metadata for resources when the files may have been deleted
+Resolves #2005

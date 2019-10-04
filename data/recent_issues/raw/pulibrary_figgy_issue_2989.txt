@@ -1,0 +1,2 @@
+Replace Kakadu
+We are currently using Kakadu's kdu_compress to convert TIFFs to JP2k.  Replace kdu_compress with another tool, such as OpenJPEG. Related to #163

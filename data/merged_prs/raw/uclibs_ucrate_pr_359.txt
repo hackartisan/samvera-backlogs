@@ -1,0 +1,2 @@
+Swap rights and license form element, make rights optional
+Fixes #338 For all work types, swap order of rights_statement and license form elements, make rights optional. Changes proposed in this pull request:  Swap order of rights and license form elements Change specs

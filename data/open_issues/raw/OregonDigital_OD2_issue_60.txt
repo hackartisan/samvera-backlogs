@@ -1,0 +1,3 @@
+Break apart characterization blob into separate fields
+Descriptive summary This ticket lays out the need for more granularized information about files. Currently hyrax monitors file information gathered from fitz (which is a file characterization library which gathers information about a file) in a giant blob of text in "characterization" field on a fileset. It would be worth while to break that blob of text up into their own fields to make them facetable or searchable for more descriptive and useful information about files ingested into OD2. File size, mime type, checksum, etc.
+@mccallum design needed.

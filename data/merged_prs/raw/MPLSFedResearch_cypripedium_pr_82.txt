@@ -1,0 +1,2 @@
+Code cleanup: Removed empty pending specs
+On my laptop, removing all these empty specs makes specs run in 4 seconds instead of 34 seconds.

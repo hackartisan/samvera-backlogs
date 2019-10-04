@@ -1,0 +1,2 @@
+move login link from header to footer 
+Closes #405 if not logged in, a login link is in footer if logged in, site actions (create monograph, etc.) are in the header and for consistency, a logout link is in the footer.

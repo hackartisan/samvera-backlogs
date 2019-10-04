@@ -1,0 +1,2 @@
+Make error message more useful on failed reindex
+Log the ids of all the records in the current batch.

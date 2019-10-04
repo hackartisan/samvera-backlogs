@@ -1,0 +1,2 @@
+Add GA tracking code
+Adds the GA tracking code to the Hyrax config. Connected to curationexperts/in-house#42

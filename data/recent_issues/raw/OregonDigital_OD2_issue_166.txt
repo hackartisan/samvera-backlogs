@@ -1,0 +1,2 @@
+Add other mappings to MAP
+UO ONLY Add MARC, Omeka, ArchivesSpace, OHMS mappings to text version of MAP

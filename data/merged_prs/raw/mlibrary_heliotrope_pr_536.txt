@@ -1,0 +1,2 @@
+tidy metadata warnings, don't warn on cover image
+resolves #532

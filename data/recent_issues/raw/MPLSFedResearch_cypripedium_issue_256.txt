@@ -1,0 +1,2 @@
+Feature collections on home page
+There is a way to decide which collections are shown on the home page.  I can control which order the collections appear in the list.

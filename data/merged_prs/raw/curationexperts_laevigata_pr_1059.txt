@@ -1,0 +1,2 @@
+Fully clean data when testing embargo expiration service
+There had been intermittent tombstone issues in these tests. Cleaning the database fully instead of deleting the ETDs is more stable.

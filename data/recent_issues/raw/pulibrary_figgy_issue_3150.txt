@@ -1,0 +1,2 @@
+UV footer displays div.positionPlacemaker after ingesting scanned resources with the same bibID
+https://figgy.princeton.edu/catalog/d5bfcf78-13ce-4929-b130-1b176e6e80ae https://catalog.princeton.edu/catalog/1196768

@@ -1,0 +1,2 @@
+Work towards #1630, a POI to CFI mapping between webgl and epub
+Create a poi -> cfi mapping on the backend if the monograph has both a webgl and epub. Store the map as json in the epub cache Fetch the map on the frontend after the cozy reader has loaded

@@ -1,0 +1,1 @@
+Adjust JSON-LD to match Plum output.

@@ -1,0 +1,2 @@
+Add contributor_advisor field to default
+Descriptive summary To meet the needs of users, we need the contributor_advisor field added to the Default Metadata set and then turned on for the Default worktype. Expected behavior Students depositing work can list their advisor on submissions to the Default worktype. AFAIK, this involves:   add contributor_advisor to Default Metadata  turn it on (only) for the Default worktype  update the MAP to reflect the change

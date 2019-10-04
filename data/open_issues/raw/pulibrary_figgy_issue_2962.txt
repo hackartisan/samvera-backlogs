@@ -1,0 +1,2 @@
+Add data-tables to display child scanned map resources 
+This will help with Sanborn MapSets with hundreds of sheets. See #2934

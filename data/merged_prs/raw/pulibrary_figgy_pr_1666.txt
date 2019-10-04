@@ -1,0 +1,2 @@
+Ensures that BaseResourceController#load_collections loads an empty Array if no Collections are found
+Resolves #1655

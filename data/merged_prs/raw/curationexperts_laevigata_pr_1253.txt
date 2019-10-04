@@ -1,0 +1,2 @@
+Add ability to upload files to form
+This is a first stab at adding uploading to the form. This makes the correct request to /uploads and then the subsequent requests to delete files. I'm a little uncertain how these files are ultimately associated with the Work, but this seems to be start.

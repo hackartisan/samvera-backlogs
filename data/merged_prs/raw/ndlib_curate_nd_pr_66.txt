@@ -1,0 +1,2 @@
+Adjusting Whitelist behavior
+Adding a single point of lookup for who's on a whitelist (as Admins should always be whitelisted). Added a few tests to verify behavior. Adjusted Admin constraints to provide a general "is_admin?" method. Added a controller to allow for maintenance of whitelists. Added a base admin controller to provide URLs to helpful functions.

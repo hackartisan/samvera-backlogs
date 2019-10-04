@@ -1,0 +1,2 @@
+serendipity button
+As an end user, I would like there to be a serendipity button that can show me a random image from the repository (and/or within individual collections?), so I can explore what's available without entering any search terms.

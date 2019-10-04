@@ -1,0 +1,2 @@
+fix for bug triggered by nil date in oral history citation code
+As reported by honeybadger: https://app.honeybadger.io/projects/53196/faults/49222550#notice-trace

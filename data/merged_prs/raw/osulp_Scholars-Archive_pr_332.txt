@@ -1,0 +1,2 @@
+Feature/geo coordinates
+fixes #144 fixes #250

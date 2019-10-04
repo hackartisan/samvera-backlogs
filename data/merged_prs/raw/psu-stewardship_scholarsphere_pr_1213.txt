@@ -1,0 +1,2 @@
+Adds the Collection Info to the Work in the My Works List
+Reuses the collection presenter from the work show page to display an inline list of collections. Adding the if statement back into the block just like in the work show view so that works without collections do not show the part of empty statement. Moves the collection information to the metadata details under the disclosure triangle. Adds the description terms to the sufia yml file.

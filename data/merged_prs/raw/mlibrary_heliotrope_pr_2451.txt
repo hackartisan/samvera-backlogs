@@ -1,0 +1,2 @@
+restrict height of cozy controls
+HELIO-2867

@@ -1,0 +1,1 @@
+Replace is_it_working with okcomputer. Fixes #63

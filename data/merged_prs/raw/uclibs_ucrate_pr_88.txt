@@ -1,0 +1,2 @@
+Enable video transcoding
+Fixes #85 ; set "config.enable_ffmpeg = true"

@@ -1,0 +1,2 @@
+Adjust header styles to fix z-index of add-content menu
+fixes #3059

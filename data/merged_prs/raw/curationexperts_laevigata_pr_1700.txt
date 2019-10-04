@@ -1,0 +1,2 @@
+Add Biostatistics and Bioinformatics to subfield options
+Connected to #1696

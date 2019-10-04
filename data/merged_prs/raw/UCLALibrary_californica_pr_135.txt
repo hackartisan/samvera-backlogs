@@ -1,0 +1,2 @@
+Set up application to run cron jobs
+Start with two regular cleanup jobs:  Cleanup saved blacklight searches Cleanup /tmp from old derivatives  Connected to #120

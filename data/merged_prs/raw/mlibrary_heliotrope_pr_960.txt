@@ -1,0 +1,2 @@
+Resolves #955: Tombstone
+Ensures encountering a tombstone behavior is consistent with default CC behavior a.k.a. rescue from Ldp::Gone and raise CanCan::AccessDenied.

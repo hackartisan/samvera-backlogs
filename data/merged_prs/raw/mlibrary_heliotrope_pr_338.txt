@@ -1,0 +1,2 @@
+fix for robots, #170
+Fix for robots.txt, #170

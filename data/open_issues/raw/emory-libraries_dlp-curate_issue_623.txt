@@ -1,0 +1,2 @@
+Test backup and restoration process
+Copy one environment totally to another environment and replicating it Curate Prod metrics: Collections: 6 Works: 38 Files: 124 Users: 50 Permission Groups: 11

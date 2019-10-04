@@ -1,0 +1,2 @@
+User Activity Has Contrast Issues
+When the text is over the zebra stripe then there is not enough contrast.

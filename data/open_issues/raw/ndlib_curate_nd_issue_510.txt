@@ -1,0 +1,2 @@
+Fedora & Solr are reset after every run of ./script/close-issue
+#485 changes the way data is persisted in development. This causes two undesirable behaviors:  Any test data loaded into the development Fedora is lost when closing an issue. Logging into the local application after closing an issue throws an error because the Person object associated with your account no longer exists in Fedora.  I believe that branching logic in the travis rake task which runs jetty:start in development instead of curatend:jetty:init would address both of these problems.

@@ -1,0 +1,2 @@
+Performance optimization and security update
+make the collection index faster as explained in the commit message fix security bugs for some of the the gems -- I've tested the functionality that relies on the updated gems in staging.

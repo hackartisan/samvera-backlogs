@@ -1,0 +1,2 @@
+Add GraphQL query for searching by BibID
+Closes #1816.

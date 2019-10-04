@@ -1,0 +1,2 @@
+FileNotFound in DownloadsController should return a 404
+Right now it returns a 500 error. We don't want to just ignore this error though — either send a custom error to HoneyBadger using their client, or create a dashboard in DataDog.

@@ -1,0 +1,2 @@
+add pedelty/indiana project to the fulcrum homepage
+Resolves #850

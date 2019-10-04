@@ -1,0 +1,2 @@
+Bower
+Adding support for bower javascript management system

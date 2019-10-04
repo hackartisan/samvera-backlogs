@@ -1,0 +1,2 @@
+Adds five new descriptive metadata elements to the Image model.
+Fixes: nulib/next-generation-repository#598 Adds the following metadata elements to the image model:  notes table_of_contents scope_and_content related_material series  Updates forms, catalog controller, and specs accordingly.

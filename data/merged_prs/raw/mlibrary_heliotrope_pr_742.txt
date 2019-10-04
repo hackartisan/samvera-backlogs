@@ -1,0 +1,2 @@
+Updating to CC 1.7.0
+Resolves #676 Resolves #675 This CC update includes workflows with sipity. To install: # Run the migrations (adds sipity/workflow tables) bundle exec rake db:migrate  # Load the default workflow bundle exec rake curation_concerns:workflow:load  # Add sipity_entity rows for each Work that's already been imported bundle exec rake heliotrope:add_sipity_entities

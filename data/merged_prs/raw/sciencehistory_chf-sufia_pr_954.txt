@@ -1,0 +1,2 @@
+fix autocomplete but with hacky workaround
+don't really understand what's going on with this code, that was previously localized/forked for reasons I'm not sure of. But this works around the bug. There are apparently two different autocomplete mechanisms still fighting with each other here. Closes #719

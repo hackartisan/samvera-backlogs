@@ -1,0 +1,2 @@
+Update Webpacker/MathJS
+Closes #701.

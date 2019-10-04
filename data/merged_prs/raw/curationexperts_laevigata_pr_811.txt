@@ -1,0 +1,2 @@
+Fix bug where stats break if a user has been deleted or changed
+Fixes #764 I wish I could figure out how to override less of summary.rb, since I really only need to remove one line. Any suggestions welcome.

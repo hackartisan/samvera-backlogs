@@ -1,0 +1,2 @@
+Update setup for Google Analytics
+In README.  Latest Hyrax guide is located at https://github.com/samvera/hyrax/wiki/Hyrax-Management-Guide#analytics-and-usage-statistics

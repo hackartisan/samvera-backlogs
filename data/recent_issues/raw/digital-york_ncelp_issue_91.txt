@@ -1,0 +1,2 @@
+Move logos out of footer + add links
+Please, move the logos out of the footer. We would like them on the Homepage (like OASIS below) and the About page. Could we add links to the logos as well? (not urgent).

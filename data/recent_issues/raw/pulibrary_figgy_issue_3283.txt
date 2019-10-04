@@ -1,0 +1,2 @@
+Preserve everything except Music Reserves
+This should be the default case, and we need to go back and preserve everything that hasn't been yet. There could be a couple of different ways to do this, the important parts are:  Don't preserve Audio Reserves objects (new or future) Other objects should be preserved by default All current non-Audio Reserves objects should be preserved if they haven't been already

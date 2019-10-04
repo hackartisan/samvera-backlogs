@@ -1,0 +1,2 @@
+#653 Field labels are incorrect on some work show pages
+Fixes #653  ; ETD show page was showing field names for department and date created rather than Degree Program and Degree Date.  This was due to missing a translation / the priority hyrax pulls translations.  Since Degree Program and Degree Dates are just different labels on Department and Date Created when the name of the solr field got pulled, it pulled the standard name.

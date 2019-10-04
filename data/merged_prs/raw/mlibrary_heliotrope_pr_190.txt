@@ -1,0 +1,2 @@
+Updating a section doesn't re-add it to monograph.ordered_members, #178
+resolves #178

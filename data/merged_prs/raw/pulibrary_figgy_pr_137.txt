@@ -1,0 +1,2 @@
+Extends IndexingAdapter to save metadata for member resources
+Resolves #83 by extending the IndexingAdapter to propagate permissions and state for member resources during a save

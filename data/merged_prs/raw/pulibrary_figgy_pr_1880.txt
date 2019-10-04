@@ -1,0 +1,2 @@
+Find folders with genres pre-loaded
+First attempt at solving N+1 queries in Figgy. Closes #1658. Edit: It's still spending a bunch of time in Ruby code (maybe just the cost of converting to Valkyrie Resources?), not sure if it's worth merging.

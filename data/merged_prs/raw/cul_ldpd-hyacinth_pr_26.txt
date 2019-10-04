@@ -1,0 +1,2 @@
+Display create and modify dates, as well as user information
+When viewing an item, the creator and date created is available for display, as well as the last user who modified the item and the modification date. By the default, the above info is collapsed using Bootstrap's collapse and data-toggle.

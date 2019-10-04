@@ -1,0 +1,1 @@
+do not paginate list of files on item show page; closes #50

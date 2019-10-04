@@ -1,0 +1,2 @@
+436 Remove markdown from asset page title
+Resolves #436 Remove markdown from asset page title.

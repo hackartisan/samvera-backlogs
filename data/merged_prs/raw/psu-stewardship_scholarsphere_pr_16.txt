@@ -1,0 +1,2 @@
+Test automation static pages
+@cam156 Here is a feature test ( refs issue #11 ) for "Test Automation Static Pages". Assuming it meets your approval, how do you want us to add it to the develop branch? We were thinking that the cleanest way to do it would be to save the spec file, eliminate this branch, and then add the spec file to develop with a single commit (rather than merging in all of our scratch work commits in this branch). Does that sound like a good approach?

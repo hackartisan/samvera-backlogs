@@ -1,0 +1,2 @@
+Numismatic Issue form reorganization
+Updates metadata views to support either an Array or a Hash for primary_terms — a Hash creates a section with the key as the label, and the values as field names. Updates the Numismatic Issue to use a primary_terms Hash to group fields in a similar order to the existing application  Fixes #2174 , Fixes #2129

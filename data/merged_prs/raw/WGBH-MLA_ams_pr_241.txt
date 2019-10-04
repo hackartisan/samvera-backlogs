@@ -1,0 +1,2 @@
+613 Batch Submitter
+This PR hides the submitter_email field on batch#new and submits the current user's email.

@@ -1,0 +1,1 @@
+specify size on thumbnail image tag; closes #82

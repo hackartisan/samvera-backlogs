@@ -1,0 +1,2 @@
+Refactor csv_parser_spec to read csv file and update specs
+Not much to add beyond PR title. I'm not a big fan of having to add rubocop:disable RSpec/ExampleLength to spec/lib/importer/csv_parser_spec.rb:13 but it's not a difficult refactor in the near future.

@@ -1,0 +1,3 @@
+A/V transcription
+Can we automatically transcribe A/V content using e.g. Google text-to-speech?
+Lots of questions around whether automated transcription is enough, what it will cost to automate, and how we provide the transcriptions.

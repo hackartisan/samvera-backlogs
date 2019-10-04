@@ -1,0 +1,2 @@
+Feature/update doi
+Fixes ucsdlib/damsrepo#73 Local Checklist   Tests written and passing locally?  Code style checked?  QA-ed locally?  Rebased with master branch?  Configuration updated (if needed)?  Documentation updated (if needed)?  What does this PR do? Add update doi record function Screenshots  Before DOI Update   -After DOI Update  -If there's doi, this message will be displayed.  -If no DOI is minted, this error message will be displayed.  @ucsdlib/developers - please review

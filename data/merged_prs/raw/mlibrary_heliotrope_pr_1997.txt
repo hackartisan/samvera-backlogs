@@ -1,0 +1,2 @@
+Resolves HELIO-2013: Investigate screen reader page reading on Login
+Options page Unable to consistently reproduce the issue on staging.  Current theory is the issue is tied to the time it takes to create the dropdown.  Refactored the code to reduce the time and left a TODO comment as a possible solution if refactoring didn't fix the issue. app/views/e_pubs/access.html.erb // document.getElementById("main").focus(); TODO: Possible solution for HELIO-2013

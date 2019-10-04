@@ -1,0 +1,2 @@
+add db calls to rake task; bug fixes
+HELIO-2534 improve aptrust bag given press HELIO-2535 add s3 plus fixes in exporter.rb

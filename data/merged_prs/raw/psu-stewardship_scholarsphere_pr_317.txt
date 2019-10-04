@@ -1,0 +1,2 @@
+Use scholarsphere.yml to set ffmpeg path, and vhost settings
+Results from our Friday refactoring session.

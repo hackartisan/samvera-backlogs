@@ -1,0 +1,1 @@
+Remove Sufia::Lockable, ref #443

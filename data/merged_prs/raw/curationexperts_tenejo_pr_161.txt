@@ -1,0 +1,2 @@
+Add logging
+This adds a LogStream class which is used by darlingtonia to log imports. The log files are located in log and are named differently depending on what environment you are in. The log file contains the record being imported, the user depositing the record, the collection id, and the batch ID. (These are all timestamped). Connected to #143

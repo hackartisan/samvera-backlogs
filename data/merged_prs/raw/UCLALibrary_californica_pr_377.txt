@@ -1,0 +1,2 @@
+Use a CSV to clean records by Item Ark
+Given a CSV with an Item Ark column, find any records with the given arks and destroy them. This will let us selectively re-ingest parts of the collection as we benchmark test performance.

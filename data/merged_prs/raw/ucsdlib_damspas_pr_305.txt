@@ -1,0 +1,2 @@
+Update http links to https
+Fixes #304 ; refs #304 Update http links to https link to fix mixed protocol errors. @ucsdlib/developers - please review

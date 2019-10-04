@@ -1,0 +1,2 @@
+RabbitMQ Capistrano Tunnel Command.
+No more SSH -L. Closes #3372

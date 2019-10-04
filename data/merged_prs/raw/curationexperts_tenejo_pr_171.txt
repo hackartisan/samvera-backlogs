@@ -1,0 +1,2 @@
+Mark virus spec as pending
+This spec is causing intermittent failures. This will skip it for now until we have some time to go back and make the spec more reliable. It is failing because capybara clicks through the interface faster than the object can be created in Fedora. It will be difficult to get that timing solid. Connected to #165

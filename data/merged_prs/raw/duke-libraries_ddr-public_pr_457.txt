@@ -1,0 +1,2 @@
+Added Slack notification to Travis CI config
+@corylown @seanaery Doing this as a PR to get your input.  If you want this integration, merge; otherwise close it.

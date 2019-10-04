@@ -1,0 +1,2 @@
+Get creators' orcid id as they submt
+We could use the orcid API to search on their name and pull back all of the potential orcid ids and have them somehow create a ui to let them pick. This could also be integrating the monthly report with ScholarSphere.

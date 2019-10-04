@@ -1,0 +1,2 @@
+displaying legacy research fields
+This commit will display legacy research fields when editing an etd. Since we don't know the label of legacy research data items, we have commented where we supply the item's value for its term. Connected to #1094

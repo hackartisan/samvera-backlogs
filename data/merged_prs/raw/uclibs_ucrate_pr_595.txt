@@ -1,0 +1,2 @@
+Make session and login cookies secure on production
+Fixes #585 Changes needed to satisfy the security scan.

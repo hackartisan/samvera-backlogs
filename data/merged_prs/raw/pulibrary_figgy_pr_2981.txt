@@ -1,0 +1,2 @@
+Numismatics import
+Service for importing numismatics database and images into Figgy. The queries aren't terribly efficient; however, since this will only ever run a handful of times, I don't think it's worth the extra effort to improve them. Closes #2785

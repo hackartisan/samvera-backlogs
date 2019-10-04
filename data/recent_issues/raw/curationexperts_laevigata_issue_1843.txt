@@ -1,0 +1,2 @@
+Write up how we did the rollins report
+The rake task that we expected to use for CSV end of year reports isn't working as hoped. Instead, I wrote a small script and ran it from the console. This seems like a good technique, because it lets us refine the query without doing a production deploy.   Document this script and how to run it

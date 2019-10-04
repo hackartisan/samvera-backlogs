@@ -1,0 +1,2 @@
+Set defaults for unconfigured dc collections in Portal and SolrDocument
+This resolves two problems:  The configurations no longer need to rewritten each time the DigitalCollections controller is loaded. The correct links will be generated for un-configured digital collections even if the DigitalCollections controller hasn't been loaded by the application.

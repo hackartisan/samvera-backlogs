@@ -1,0 +1,2 @@
+Rescue ObjectNotFoundError when generating IIIF path in GeoBlacklight document
+Backtrace line 469 of [PROJECT_ROOT]/app/services/manifest_builder.rb: base_url line 448 of [PROJECT_ROOT]/app/services/manifest_builder.rb: manifest_image_path line 52 of [PROJECT_ROOT]/app/services/geo_discovery/document_builder/iiif_builder.rb: iiif_path  View full backtrace and more info at honeybadger.io If an ObjectNotFoundError is raised when generating a GeoBlacklight document, the generator should return a empty IIIF path.

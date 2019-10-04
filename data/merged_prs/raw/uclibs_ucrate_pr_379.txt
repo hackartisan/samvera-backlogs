@@ -1,0 +1,2 @@
+Fix div in featured collection partial
+Fixes #377 Featured Collections view partial had a misplaced closing div tag, causing wonky layout. Moved to appropriate spot within conditional block. Changes proposed in this pull request:  Moved closing div tag in  app/views/hyrax/homepage/_featured_collections.html.erb

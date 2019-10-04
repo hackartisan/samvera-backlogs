@@ -1,0 +1,2 @@
+File characterization performance
+When we conducted performance testing on file characterization we discovered that there is very high overhead launching FITS separately for each file See #51 for details ACCEPTANCE   When I go to Tenejo server there is a FITS servlet running  When I upload a file to Tenejo it is characterized with the FITS servlet not the FITS shell script

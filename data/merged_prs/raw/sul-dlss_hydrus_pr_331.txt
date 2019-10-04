@@ -1,0 +1,2 @@
+Uses dor services client to check if a new version can be opened.
+closes #329

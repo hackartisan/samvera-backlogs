@@ -1,0 +1,2 @@
+Configures Grant/Funding agency as non-local controlled vocab
+Connected to #177

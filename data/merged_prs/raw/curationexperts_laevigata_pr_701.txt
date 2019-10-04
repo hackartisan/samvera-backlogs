@@ -1,0 +1,2 @@
+Research field facet should pull from research_field
+Fixes #696

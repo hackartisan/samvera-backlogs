@@ -1,0 +1,3 @@
+Suggest related dataset
+As a researcher when I upload a research paper or other similar types in the ‘related url’ metadata field, pull back any of my files that have been uploaded with the resource type type ‘data set’ and ask them if they can link the paper to the data set within ScholarSphere. The idea is that we think researchers wont go find their existing links when uploading a new object.
+I there anything in ScholarSphere already, or would you like to add data now.  Once they save also add a do you want to add a paper (like the readme)

@@ -1,0 +1,1 @@
+HELIO-1691 Generalize restricted message (for restricted epubs)

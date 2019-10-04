@@ -1,0 +1,2 @@
+uri bugfix for search and external link renderer
+fixes #1828

@@ -1,0 +1,2 @@
+How to cite section is inconsistent
+I uploaded 2 summaries (both using chrome) and the how to cite_ section appears different. In the first one the initials have disappeared for the summary authors. There is also a stray comma at the end after the journal name. I did enter them correctly in the metadata field.  https://oasis-database.org/concern/summaries/zg64tk92g?locale=en  https://oasis-database.org/concern/summaries/p2676v52c?locale=en

@@ -1,0 +1,2 @@
+Batch Details surfaces failures
+Description: As a batch ingester, I need to be able to easily identify items that failed errors, so that I can inspect the error reports and reingest the corrected items. Questions:  Do we want to be able to sort or filter the batch items, so that failures can rise to the top of what the user sees? Do we want to have a failure summary or report, so that the user can see all of the items that failed and their error messages in one place?

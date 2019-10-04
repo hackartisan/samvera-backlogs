@@ -1,0 +1,2 @@
+Add information about Tenejo and Hyrax to README.md
+This is some quick information about the relationship between Tenejo, Hyrax, and this application.

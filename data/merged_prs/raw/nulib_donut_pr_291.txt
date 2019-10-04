@@ -1,0 +1,2 @@
+handle and display malformed csv error to user
+Fixes nulib/next-generation-repository#518 • Fixes issues where if a malformed csv file was ingested, it appeared to the user that the batch did not run at all. • Rescues a CSV::MalformedCSVError and creates an error for the batch that will display to the user in the UI. • Updated spec for CSVImporter

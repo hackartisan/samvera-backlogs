@@ -1,0 +1,2 @@
+add email notifications for fixity checks
+we're currently just posting to slack after the job runs; this should also be an email

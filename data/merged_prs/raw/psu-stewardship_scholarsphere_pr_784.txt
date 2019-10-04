@@ -1,0 +1,2 @@
+Prevent saving a work when files are being uploaded, #733
+The "Save" button is enabled immediately after the first file is uploaded when creating a work. However, if there is more than one file, the work could be save before the rest of the files have finished uploading. We override Sufia's JS SaveWorkControl class so that the button is not made active until there no uploaded files in progress.

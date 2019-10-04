@@ -1,0 +1,5 @@
+Statistics
+Various download / submission statistics are required, e.g. download per author, download per journal, etc
+During the first sprint, we will only configure Hyrax default GA account. See more details at [Hyrax Managment Guide: Analytics And Google Statistics](https://github.com/samvera/hyrax/wiki/Hyrax-Management-Guide#analytics-and-usage-statistics)  Once this is implemented we need to review what other statistics are required with OASIS team.
+Should be enabled once production system is ready.
+Current Hyrax capability combined with Google Analytics is sufficient (if Google Analytics allows us to identify where summaries are being downloaded from).  @paluchas @yf508 to check whether Google Analytics captures information about downloader location (i.e. country)

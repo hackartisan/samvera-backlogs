@@ -1,0 +1,2 @@
+Use `:workflow` tag for `Approver` specs
+The :workflow tag handles setup and database cleaning for specs in a consistent way. The specs for Approver were previously missing cleanup, which left database and fedora state incongruent in some cases.

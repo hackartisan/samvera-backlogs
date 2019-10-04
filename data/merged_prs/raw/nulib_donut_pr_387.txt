@@ -1,0 +1,2 @@
+783 collections date modified
+fixes nulib/next-generation-repository#783

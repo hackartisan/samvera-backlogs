@@ -1,0 +1,2 @@
+Preview images’ content in the Universal Viewer so that I can pan/zoom images 
+Partial duplicate for #384

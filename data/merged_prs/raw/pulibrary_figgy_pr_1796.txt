@@ -1,0 +1,2 @@
+Changes for PUDL0100
+Allows for transliterated actors and does the rendering for it. Due to a bug in solr's conversion of RDF::Literals and nested objects together (tracked at samvera/valkyrie#596), this PR also converts the catalog show page to use a record out of Postgres instead of Solr. I doubt there'll be any noticeable performance implications, but we should keep an eye on it. References #1612

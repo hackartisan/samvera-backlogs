@@ -1,0 +1,2 @@
+Update Work Show for Consistent Headings and Collection Relationships
+Grabbed some earlier code from Sufia before nested works was introduced. Replaces relationships_parent_rows with an unordered list that just grabs the collections and updates the header in the yml file. Updates text for heading change and adds comments.

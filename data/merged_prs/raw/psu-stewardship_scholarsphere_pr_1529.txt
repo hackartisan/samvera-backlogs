@@ -1,0 +1,2 @@
+Added an agent to the creator form when no creator was set.
+This allows us to set the email, orcid, psu id on the work and collection creation form Looks for an existing agent and uses the existing agent if found. refs #1453

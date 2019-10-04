@@ -1,0 +1,3 @@
+URL-encode all data in the forms
+This would avoid errors from Apache if it thinks something nefarious is going on when we send unencoded RDF urls.
+No longer needed to avoid the original error, but probably not a bad idea. Putting into the backlog for future consideration.

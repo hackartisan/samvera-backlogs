@@ -1,0 +1,2 @@
+Audit Admin Access
+Go through the UMG that has access to scholarsphere.psu.edu/admin and make sure everyone that has access still should. We should set up a reminder to do this every 6 or 12 months.

@@ -1,0 +1,2 @@
+image-service: break browser caching
+Resolves HELIO-2007

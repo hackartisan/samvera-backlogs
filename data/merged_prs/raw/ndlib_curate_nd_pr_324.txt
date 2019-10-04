@@ -1,0 +1,2 @@
+Keep HTML5 required attributes from clobbering form submissions
+Also allow rich text editing on create actions e.g. invalid form submissions.

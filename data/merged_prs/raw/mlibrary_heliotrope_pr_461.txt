@@ -1,0 +1,2 @@
+allow entry of multiple display dates
+Resolves #451

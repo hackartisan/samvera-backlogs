@@ -1,0 +1,2 @@
+On ingest, attach works to a collection
+This ticket represents a quick fix, allowing us to resume developer-led ingest of targeted collections. It does not depend on UCLALibrary/amalgamated-samvera#256, which will determine the eventual automated ingest workflow. Acceptance:   on ingest, records are attached to a manually-created collection object, which can be specified at ingest time and is applied to all items in a CSV  documentation is updated to describe the process of creating a collection and importing a CSV  child of #385 depends on #339

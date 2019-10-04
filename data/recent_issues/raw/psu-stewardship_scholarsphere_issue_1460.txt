@@ -1,0 +1,2 @@
+Duplicate Copies of Bootstrap CSS
+We have 3 copies of Bootstrap CSS, minified, in our production CSS file. Figure out why and fix. https://scholarsphere.psu.edu/assets/application-d2727e60c6788ec4362632c88b07a7719a797e9d4d2690f0c940c073cc4c627a.css

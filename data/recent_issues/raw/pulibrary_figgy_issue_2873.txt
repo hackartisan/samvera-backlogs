@@ -1,0 +1,2 @@
+solr reindex intermittent spec is back
+https://circleci.com/gh/pulibrary/figgy/15287#tests/containers/1

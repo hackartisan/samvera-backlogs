@@ -1,0 +1,2 @@
+Update ruby to version 2.5.3
+Fixes #472 Updates the ruby version to 2.5.3. It did not cause any issues when I ran rspec.

@@ -1,0 +1,2 @@
+Increase space between save and delete buttons
+Fixes #2456

@@ -1,0 +1,2 @@
+Rights statement form improvements for ephemera
+Displaying rights statement last on ephemera folder new/edit form Changing default rights statement to Copyright Not Evaluated  Fixes #491

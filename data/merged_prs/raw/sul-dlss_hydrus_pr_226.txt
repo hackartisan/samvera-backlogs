@@ -1,0 +1,2 @@
+Update dor-services.
+Removed direct dependency on druid-tools, which reverts part of 820b51c There is no direct usage of that gem, so it's not clear why we needed that dependency declared.

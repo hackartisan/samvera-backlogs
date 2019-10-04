@@ -1,0 +1,1 @@
+Upgraded sufia to get bug fix for collections showing up in shared files list. Story psu-stewardship/scholarsphere#48

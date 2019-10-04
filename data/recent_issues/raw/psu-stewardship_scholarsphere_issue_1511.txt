@@ -1,0 +1,2 @@
+dashboard_highlights test is suspect
+The dashboard highlights test show that the page can load, but really does not test much.  I wonder if this could be combined with another test for better coverage

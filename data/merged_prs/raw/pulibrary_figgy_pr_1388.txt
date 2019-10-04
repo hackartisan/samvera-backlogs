@@ -1,0 +1,2 @@
+Get a change set instead of a resource when ingesting archival media
+Fixes an error coming through sidekiq in dev

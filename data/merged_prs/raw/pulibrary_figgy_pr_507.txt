@@ -1,0 +1,2 @@
+Folder creation improvements
+Add flash notice when using "Save and Create Another" Add button to create another folder from folder show page  Fixes #492

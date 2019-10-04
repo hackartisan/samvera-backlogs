@@ -1,0 +1,2 @@
+Refactor this spec to be consistent with the app's solr index.
+As per notes in #685, refactored this spec to use multi-valued fields instead of singular or multi. In the future we could change some of the *_tesim fields to *_tesi (so don't use :stored_searchable) to more faithfully match how the fields are stored in fedora, but it's not a big priority I don't think. I just didn't fully understand what was happening. Resolves #685

@@ -1,0 +1,2 @@
+Update rights.rb
+Add new opaquenamespace.org rights URIs as property values, since this is marked as a strict vocabulary. Needs to be in place for #1117

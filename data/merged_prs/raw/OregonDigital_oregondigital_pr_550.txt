@@ -1,0 +1,2 @@
+Feature/vocab config
+Adds new vocabularies and some OregonRDF mappings for them as well as new terms

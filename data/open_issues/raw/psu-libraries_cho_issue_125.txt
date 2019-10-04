@@ -1,0 +1,3 @@
+Sharing User Collections
+As an instructor/student user, I want to be able to share my created personal collections with other users, so that they can be used for study and collaboration. Related: #23 Catherine A.
+Blacklight natively supports email and sms sharing. Once user collections are a feature, this user story should be achieved.

@@ -1,0 +1,2 @@
+Feature/bulk csv
+This closes #35

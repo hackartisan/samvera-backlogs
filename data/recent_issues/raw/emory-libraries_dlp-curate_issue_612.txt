@@ -1,0 +1,2 @@
+Revise automated collection generation from CSV process 
+Revise the automated collection re-generation process to include: multiple collections in a single spreadsheet collection permissions check collections can be manually edited by Curate users and manual edits are not lost on re-builds collection IDs remain persistent if regenerated - and should we recreate them with the new NOID pattern? This refactor should also take into account the amount of time collection creation/updates takes during deploys.

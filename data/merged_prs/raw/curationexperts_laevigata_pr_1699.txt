@@ -1,0 +1,2 @@
+Add student name placeholder
+This adds the "Last Name, First Name" placeholder to the student name input. Connected to #1692 Connected to #1693

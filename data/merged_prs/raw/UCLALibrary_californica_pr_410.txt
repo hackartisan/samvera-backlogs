@@ -1,0 +1,2 @@
+Changed print statement to be accurate if we change the number of rows
+Connected to #407

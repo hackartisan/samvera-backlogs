@@ -1,0 +1,2 @@
+Add ability to update work records rather than create new works - i.e. Batch Update
+Acceptance criteria:   on ingest, if a record already has a given ark it will be updated, instead of creating a new record  So that we get a performance improvement over re-ingesting from scratch, provide a setting that will perform a metadata-only update  Do not re-attach images that were already attached

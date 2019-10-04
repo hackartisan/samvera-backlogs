@@ -1,0 +1,2 @@
+#634 Ensures that the locale will persist.
+Fixes #634  ; There are several places in the application where anchor tags are used rather than rails link_to helpers.  Helpers ensure that language selection persists.  This PR transitions relative links in the application to rails tags. I found a missing translation in the course of working on this issue, I've added them to this PR as well.

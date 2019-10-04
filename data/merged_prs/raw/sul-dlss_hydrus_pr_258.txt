@@ -1,0 +1,2 @@
+Use dor-services-client to publish metadata
+Fixes #257

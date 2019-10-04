@@ -1,0 +1,1 @@
+Add 'Woodcuts' to genre dropdown, fixes #598

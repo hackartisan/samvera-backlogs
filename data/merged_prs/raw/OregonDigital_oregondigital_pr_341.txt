@@ -1,0 +1,2 @@
+Feature/document thumbnails
+Adds document thumbnails and the necessary indexing for displaying them. Currently just displays the first page as the thumbnail - in some cases that's going to be a blank page.

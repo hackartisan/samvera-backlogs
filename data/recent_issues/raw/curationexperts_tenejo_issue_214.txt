@@ -1,0 +1,2 @@
+Resolve IndexPresenter#field_value deprecation warning
+See curationexperts/laevigata#1868

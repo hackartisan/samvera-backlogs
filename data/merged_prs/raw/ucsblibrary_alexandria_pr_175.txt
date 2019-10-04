@@ -1,0 +1,2 @@
+Fixes DIGREPO-937 Import merritt arks for ETDs
+Summary DIGREPO-937  Add a new metadata property merritt_id Add a rake task to process UCSB ETDs to capture Merritt arks in ADRL  Rake Tasks See ingesting.md to ingest ETDs This rake task requires the CSV attached on the DIGREPO-937 to be passed as an arg bundle exec rake 'import:merritt_arks[tmp/ucsb_merritt_etds.csv]' --trace

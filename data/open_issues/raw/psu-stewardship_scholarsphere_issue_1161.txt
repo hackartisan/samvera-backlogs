@@ -1,0 +1,4 @@
+creator doesn't returned ordered members
+Calling creator on a work does not returned the ordered set of creators. However, creators does. This may have to do with how we're aliasing it.
+Should we remove the creator method?
+I think it's a method that's added via `property :creator`, so removing it might not be possible.

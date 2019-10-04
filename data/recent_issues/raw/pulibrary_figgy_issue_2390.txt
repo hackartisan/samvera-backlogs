@@ -1,0 +1,2 @@
+When logging in, I am not sent back to the URL I was on before
+When I am on a Figgy page and click the login button, I am taken to CAS, but then I am sent back to the home page instead of the page I was on.  I should be redirected to the page I was on.

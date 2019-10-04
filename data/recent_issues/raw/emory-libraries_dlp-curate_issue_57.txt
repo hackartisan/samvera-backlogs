@@ -1,0 +1,2 @@
+Upgrade Dependencies
+Cantaloupe released a later version than what util-cor-test is using   Rebuild util-cor-test with latest version of cantaloupe 4.0.3  Test to make sure cantaloupe is still working after the upgrade/rebuild  Update other dependencies as needed

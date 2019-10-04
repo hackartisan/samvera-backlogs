@@ -1,0 +1,2 @@
+CVE-2015-9284
+How are we feeling about CVE-2015-9284? I've been watching the omni-auth repo comments, but no fix is forthcoming. There is a gem that mitigates this vulnerability: https://github.com/cookpad/omniauth-rails_csrf_protection Implementation: brave-intl/publishers#1942 Is this worth trying, or should we wait for an official fix?

@@ -1,0 +1,2 @@
+Identify and implement various roles and groups
+We have to identify and define various roles and groups for our application. By default, when a user logs into the application using the central authentication system (CAS), user shouldn't have create work ability. Also look at modifying the default workflow.

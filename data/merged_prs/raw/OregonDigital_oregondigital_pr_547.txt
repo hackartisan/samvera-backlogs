@@ -1,0 +1,2 @@
+Increase rewrite generator max item count.
+Closes #546

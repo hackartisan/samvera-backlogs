@@ -1,0 +1,2 @@
+use preferred_label if possible for uri
+fix #257

@@ -1,0 +1,2 @@
+Add Timing Data
+CAL-728 modified:   app/assets/stylesheets/application.css modified:   app/importers/californica_importer.rb modified:   app/jobs/start_csv_import_job.rb modified:   app/views/csv_imports/index.html.erb modified:   app/views/csv_imports/show.html.erb new file:   db/migrate/20190827235705_add_times_to_csv_imports.rb modified:   db/schema.rb modified:   spec/system/import_from_csv_spec.rb

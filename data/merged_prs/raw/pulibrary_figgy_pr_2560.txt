@@ -1,0 +1,2 @@
+Don't index nested objects
+This will be a problem in future Solr versions, and wasn't intended in the first place.

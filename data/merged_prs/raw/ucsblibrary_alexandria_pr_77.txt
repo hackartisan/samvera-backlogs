@@ -1,0 +1,2 @@
+SRU: add Alma endpoint to sru.yml
+Part of DIGREPO-847.

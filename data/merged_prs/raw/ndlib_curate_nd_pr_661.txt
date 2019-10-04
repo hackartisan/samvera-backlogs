@@ -1,0 +1,2 @@
+Fix for DLTP-1229
+Problem was in building the edit path for LibraryCollection objects. Was falling to the else case when it should be handled by the same edit collection path.

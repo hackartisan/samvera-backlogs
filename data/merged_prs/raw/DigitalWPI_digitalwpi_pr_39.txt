@@ -1,0 +1,2 @@
+Adds identifier metadata field.
+In this PR, added the identifier metadata field. Also got rid of duplicate gems and added mysql gem to be installed in test and prod environments rather than adding it globally. Fixes #36

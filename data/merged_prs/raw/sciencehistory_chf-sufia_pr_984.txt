@@ -1,0 +1,2 @@
+update hydra-works to 0.17.0
+https://groups.google.com/d/msgid/samvera-tech/d5bb3f30-ce13-3299-9ef6-153ca82531f8%40gmail.com.

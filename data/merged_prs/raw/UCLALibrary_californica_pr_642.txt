@@ -1,0 +1,2 @@
+View logs on CSV Import status page
+This adds a route to see the ingest log for a csv_import. This was previously using a timestamp on the log file, but each csv_import has an ID which can be discoverd through the UI. Using the ID in the name will make it easier to find the log, and allows for providing the ability to view the log in the browser.

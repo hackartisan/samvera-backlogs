@@ -1,0 +1,1 @@
+Resolves #679 Add citation support for Zotero (COinS, OpenURL)

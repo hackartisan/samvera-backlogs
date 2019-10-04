@@ -1,0 +1,2 @@
+Capistrano fixes
+Remove outdated aws capistrano stage Add resque back to sandbox capistrano stage Fix bug in version footer

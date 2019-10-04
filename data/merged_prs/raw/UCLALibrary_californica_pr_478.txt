@@ -1,0 +1,2 @@
+Prevent  searches from being saved to the database
+config/schedule.rb:25 rake "blacklight:delete_old_searches[1]"  This PR will replace the need for this scheduled rake task.:  Changes to be committed:  modified:   app/controllers/catalog_controller.rb new file:   spec/features/search_crawler_spec.rb  Connected to UCLALibrary/amalgamated-samvera#287

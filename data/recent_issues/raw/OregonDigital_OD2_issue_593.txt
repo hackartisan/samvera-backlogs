@@ -1,0 +1,2 @@
+Homepage: change background color to white
+Descriptive summary Change the background color to white until a more final color can be chosen. (Information compiled by POSM group from updated wireframes) Expected behavior Background color is white Related work #520

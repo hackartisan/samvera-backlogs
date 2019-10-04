@@ -1,0 +1,1 @@
+Test ingesting EphemeraFolders that don't have images attached

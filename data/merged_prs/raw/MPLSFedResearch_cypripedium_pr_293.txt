@@ -1,0 +1,2 @@
+Allow markdown in description field for collections. Connected to #257
+For the description on the search results page, I added a helper method to insert the markdown rendering.   I overrode a hyrax view to use that same helper method on the show page for a collection.   I added a feature spec to make sure the markdown gets rendered without allowing unsanitized html.   I added the module CollectionFormMarkdown to allow markdown in the description field on the form for editing a collection.

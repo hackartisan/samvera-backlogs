@@ -1,0 +1,3 @@
+Course Pages: 3. Use "Date Created" to link to individual lectures rather than Track numbers
+Proposed solution: Append “Date Created” to current title in order to create clickable titles (eg. “Lecture 01: 1978-01-03”) See image in UI Report. Course Pages, 3.
+I need to fix issue #55 before I address this one.

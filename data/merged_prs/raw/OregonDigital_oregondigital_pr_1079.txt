@@ -1,0 +1,2 @@
+Feature/admin
+Create a new static Admin page to provide better access to common tools while not cluttering up the nav bar links and footers. Moved the Roles link out to the Admin page to make room. I thought Ingest/Review/Templates was more in order of use. If someone happens to visit the Admin page without access they still get links to the wiki and metadata dictionary.

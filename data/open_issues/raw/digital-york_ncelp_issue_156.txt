@@ -1,0 +1,2 @@
+Edit function through dashboard does not work
+On the dashboard in the Works section you can select a Resource and click on edit selected. However, when you do you receive an error message. You can also get to the editing page through the Resource Details page, so we can edit works if we need to.

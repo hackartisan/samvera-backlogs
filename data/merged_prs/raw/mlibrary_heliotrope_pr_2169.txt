@@ -1,0 +1,2 @@
+Resolves HELIO-1518: actor stack specs
+Added specs to verify actor stack order and test the HeliotropeActor.

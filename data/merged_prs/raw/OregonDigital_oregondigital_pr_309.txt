@@ -1,0 +1,2 @@
+Removed duplicate stylesheet tag referencing 'application'.
+This is to fix #308, all CSS files included twice.

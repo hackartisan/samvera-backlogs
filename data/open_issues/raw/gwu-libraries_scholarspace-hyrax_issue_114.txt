@@ -1,0 +1,2 @@
+Determine how to set initial minter seed
+See https://github.com/gwu-libraries/scholarspace-hyrax/wiki/Minting-IDs - unless the seed is specified, the minter will always generate the same sequence for each deployment.

@@ -1,0 +1,2 @@
+HELIO-2237 - update csb gem
+Resolves HELIO-2237 add heliotrope mobile queries for csb; mobile close button in e-reader; modify checkpoint dev default config to false

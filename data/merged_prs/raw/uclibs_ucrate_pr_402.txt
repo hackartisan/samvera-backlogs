@@ -1,0 +1,2 @@
+Customize contact form
+Fixes #393 Customize contact form to match Scholar. Changes proposed in this pull request:  Change flash notice and embed link to Help Resources Change header and add "Scholar@UC Team" Remove Issue form select

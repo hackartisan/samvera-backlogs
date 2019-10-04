@@ -1,0 +1,1 @@
+Show rights_statement on show page

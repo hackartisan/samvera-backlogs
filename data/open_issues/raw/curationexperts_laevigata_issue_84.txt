@@ -1,0 +1,2 @@
+Request a copy of embargoed work
+As a scholar, I would like a simple way to request access to an embargoed work so I can use it in my research. As a super administrator, I would like a way for a scholar to submit a request that gets passed directly to the author, so that I don't have to be a bottleneck.

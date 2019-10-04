@@ -1,0 +1,2 @@
+updates hyrax-migrator and includes two new actors
+Adds a few of the latest actors that are ready for testing, update hyrax-migrator gem to latest on master

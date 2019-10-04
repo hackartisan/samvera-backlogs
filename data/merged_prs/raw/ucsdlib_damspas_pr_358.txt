@@ -1,0 +1,2 @@
+Update omniauth gem
+Fixes #357  ; refs #357 Update omniauth gem to fix security vulnerability. @ucsdlib/developers - please review

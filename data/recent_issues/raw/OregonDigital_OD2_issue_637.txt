@@ -1,0 +1,2 @@
+Remove testing step from master auto-deploy
+Descriptive summary Tests still frequently fail from #406. As long as we avoid direct master merges and always merge PRs that pass tests, we shouldn't need to test master before auto-deploy. Removing tests will speed up the speed and frequency of deploys to staging. Expected behavior A test failing on master should not block the deploy. Related work Accessibility Concerns N/A

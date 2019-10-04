@@ -1,0 +1,2 @@
+Disable edit for SimpleResource.
+Closes #1779.

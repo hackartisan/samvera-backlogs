@@ -1,0 +1,2 @@
+Ensuring that linked vocabulary terms only have their labels exposed in IIIF Manifests
+Progresses towards a resolution for #756 and addresses some existing bugs:  An alias typographic error The casting of all genre attribute values for EphemeraFolders into Valkyrie::IDs

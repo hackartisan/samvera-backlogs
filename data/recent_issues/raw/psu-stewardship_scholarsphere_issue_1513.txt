@@ -1,0 +1,2 @@
+File Upload Rake Task
+Create a rake task to upload and delete a file and make sure there are no errors This should write an to a file if there is an error.

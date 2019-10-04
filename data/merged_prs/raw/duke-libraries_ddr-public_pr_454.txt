@@ -1,0 +1,1 @@
+Apply fragment caching and memoization to improve performance

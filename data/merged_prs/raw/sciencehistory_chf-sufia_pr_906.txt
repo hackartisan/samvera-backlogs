@@ -1,0 +1,2 @@
+remove all riiif integration
+We don't plan to use riiif anytime... well, ever probably. Keep the code clean by removing all our riiif integration, and tools meant to manage or integerate with riiif specifically closes #798

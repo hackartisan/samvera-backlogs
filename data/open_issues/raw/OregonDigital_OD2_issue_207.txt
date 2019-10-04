@@ -1,0 +1,5 @@
+[2] When oEmbed media is present, player should replace Universal Viewer box
+Descriptive summary When oEmbed media is present, it should be the only viewer/player shown, and should replace the Universal Viewer box in the same location. End users should not have to care whether media is from an oEmbed endpoint or not, and should not get a substantially different experience. Expected behavior When oEmbed media is present, it should be the only viewer in the same place as Universal Viewer. oEmbed should not display as a field along with other descriptive metadata. Related work #208
+if i add oembed metadata and then go to add a file, what is the behavior?  if i add a file, then later add oembed metadata, what is the behavior?
+#208 dictates files or oEmbed, but not both. Adding files after oEmbed and adding oEmbed after files should result in failures/errors. If #208 works correctly, it should be safe to assume display of one or the other, based on the presence of oEmbed metadata.
+oEmbed should function at the fileset level and not at the work level  investigate - oEmbed in place of UViewer at that fileset level  

@@ -1,0 +1,2 @@
+Add acknowledgements field to Details page
+Can we add the acknowledgements field to the Resource details page, please. It can go below the Name of creator / institution field.

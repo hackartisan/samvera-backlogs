@@ -1,0 +1,2 @@
+Fix RabbitMQ messaging.
+Closes #332

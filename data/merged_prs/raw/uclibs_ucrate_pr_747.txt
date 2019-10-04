@@ -1,0 +1,2 @@
+Adds doi field to works manifest.
+Fixes #746 Present short summary (50 characters or less) Adds the doi field to app/services/works_report.rb This is necessary for the Datacite migration

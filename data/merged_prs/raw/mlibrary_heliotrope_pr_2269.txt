@@ -1,0 +1,2 @@
+2535_rescue_minitar and more debugging
+Add rescue for minitar in lib/export/exporter.rb Add temporary debug statements too.

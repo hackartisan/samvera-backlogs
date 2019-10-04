@@ -1,0 +1,2 @@
+Add global cc licence statement
+Add a gobal licence statement as discussed at #145

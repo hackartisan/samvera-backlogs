@@ -1,0 +1,2 @@
+Updating CurateND to updated Curate branch
+See ndlib/curate@0714841 for referenced change. Attention @rbalekai

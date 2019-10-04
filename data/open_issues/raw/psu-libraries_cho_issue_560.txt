@@ -1,0 +1,2 @@
+Consider a slackbot for monitoring ingest
+Other library servers are starting to use Slackbots for monitoring. Should we do this for CHO?

@@ -1,0 +1,1 @@
+Resolves #954: Monograph description teaser issues

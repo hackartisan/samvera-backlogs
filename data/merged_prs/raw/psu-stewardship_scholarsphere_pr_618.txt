@@ -1,0 +1,2 @@
+Adds the edit button to the share tab from Sufia.
+Fixes #492 Adds the edit button when you click the checkbox on the shared with me tab.

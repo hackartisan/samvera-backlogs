@@ -1,0 +1,2 @@
+adds triple powered objects to OD2 
+Dependent on #89 This adds all the initial objects and tests. Fixes #70

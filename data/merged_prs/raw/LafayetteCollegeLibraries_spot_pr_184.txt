@@ -1,0 +1,2 @@
+fix english_language_date_teim as a catalog search qf 
+i really thought this was working but i guess not. going to need to do some digging as to why using english_language_date_teim as a :qf field isn't returning objects that should match fixes #182

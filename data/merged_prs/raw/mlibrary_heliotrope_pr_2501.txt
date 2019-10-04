@@ -1,0 +1,2 @@
+HELIO-2972 fix failing ga_cache rake task
+Tested on preview and run via cron and it works fine.

@@ -1,0 +1,2 @@
+Publishing content policy
+Fixes #208

@@ -1,0 +1,2 @@
+Configure yarn/jest to run cloud_fixity tests
+as part of yarn test and also in ci

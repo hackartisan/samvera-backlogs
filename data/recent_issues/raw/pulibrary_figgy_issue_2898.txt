@@ -1,0 +1,2 @@
+Increase testing for generating Fixity Check Events from Google Cloud Pub/Sub Topic
+A google worker should be running (https://github.com/ursm/activejob-google_cloud_pubsub) which pulls from that topic and creates events based on if it's a success or failure.

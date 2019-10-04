@@ -1,0 +1,2 @@
+Add GeoNames username config on production
+Create a Geonames account to use in production  Add Geonames config to Ansible scripts  Test Subject - Geographic and Place of Production fields

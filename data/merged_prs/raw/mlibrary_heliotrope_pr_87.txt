@@ -1,0 +1,2 @@
+Update MonographForm to have correct fields
+Previously we changed date -> date_published in the Monograph model, now update the Form to use that date. Fixes #86

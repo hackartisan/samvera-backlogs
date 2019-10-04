@@ -1,0 +1,1 @@
+Updating specs and gem to reflect Embargo changes

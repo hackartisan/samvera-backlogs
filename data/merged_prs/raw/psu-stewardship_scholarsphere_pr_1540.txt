@@ -1,0 +1,2 @@
+Fixes the broken queries for depositor works and collections from the dashboard.
+Grabs the _vitals partial from Sufia and overrides depositor field for depositor_ssim, so that the queries from the dashboard return works and collections made by the depositor.

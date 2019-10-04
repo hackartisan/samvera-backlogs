@@ -1,0 +1,2 @@
+move okcomputer check to hyrax dashboard
+i feel like we could come up with a simple ui to integrate the okcomputer status checks into the dashboard. see https://github.com/sportngin/okcomputer/blob/master/app/controllers/ok_computer/ok_computer_controller.rb for an idea of how to get the data out

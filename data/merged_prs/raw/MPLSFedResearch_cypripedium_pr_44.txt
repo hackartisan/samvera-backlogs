@@ -1,0 +1,2 @@
+Add deploy info in footer
+Closes #24

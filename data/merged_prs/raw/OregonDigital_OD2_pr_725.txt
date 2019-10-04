@@ -1,0 +1,2 @@
+Feature/more footer
+Update footer to align more with #597

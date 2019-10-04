@@ -1,0 +1,1 @@
+Reverting sprockets update that was breaking assets.

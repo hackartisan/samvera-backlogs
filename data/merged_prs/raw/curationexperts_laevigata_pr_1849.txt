@@ -1,0 +1,2 @@
+Update package.json
+This is for the recent security vulnerability. This only runs in the dev environment.

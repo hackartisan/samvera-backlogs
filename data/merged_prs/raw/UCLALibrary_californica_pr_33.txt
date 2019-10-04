@@ -1,0 +1,2 @@
+Fix Universal Viewer and IIIF
+I followed the troubleshooting guide at https://samvera.github.io/troubleshooting_riiif.html Fix upload, cache, and working path: These should be configurable with environment variables and should default to a directory outside of a specific deploy. Serve static files Fixes #16

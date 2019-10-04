@@ -1,0 +1,2 @@
+FileSet thumbnail upload
+Resolves #1405

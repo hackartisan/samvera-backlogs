@@ -1,0 +1,2 @@
+Update to Hyrax v2.1.0 (final)
+Fixes #96 Updates the application to use the final release for Hyrax 2.1.0.  The changes made in this commit just mirror the changes made in the Hyrax engine or generator. Also ran a bundle update as part of this commit.

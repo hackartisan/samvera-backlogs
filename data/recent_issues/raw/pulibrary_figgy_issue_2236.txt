@@ -1,0 +1,2 @@
+Pagination data tables 
+.pagination > .active > a, .pagination > .active > a:hover, .pagination > .active > a:focus, .pagination > .active > span, .pagination > .active > span:hover, .pagination > .active > span:focus {     z-index: 3;     color: #fff;     background-color: #337ab7;     border-color: #337ab7;     cursor: default;  z-index: 3;  places the active page number in data tables to have a higher z than the admin controls menu.

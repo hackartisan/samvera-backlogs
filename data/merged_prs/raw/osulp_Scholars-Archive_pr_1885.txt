@@ -1,0 +1,2 @@
+add rescue err to track_download
+Adds a rescue to Staccato.tracker call in Downloads controller behavior and sends error message and trace to the logs.

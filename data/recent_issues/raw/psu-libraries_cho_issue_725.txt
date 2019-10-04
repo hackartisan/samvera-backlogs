@@ -1,0 +1,2 @@
+Support for EDTF Sets in Solr 
+Date sets (e.g. 1991, 1995-1999, 2005) are supported in EDTF but are not indexing in SOLR correctly. Related to #267

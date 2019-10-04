@@ -1,0 +1,2 @@
+Adding work type to csv export
+Description Adds the work_type in for the export of each work Connected to #817

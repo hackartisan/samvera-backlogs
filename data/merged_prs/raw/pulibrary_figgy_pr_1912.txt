@@ -1,0 +1,2 @@
+Use Valkyrie-Sequel
+Mostly a proof of concept. This should roughly half access and conversion times for many of our objects.

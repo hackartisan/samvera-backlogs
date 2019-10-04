@@ -1,0 +1,2 @@
+Change start-issue and close-issue to support JIRA issues
+Support for github issues is still there, but if a jira issue is detected, it will try to update the jira ticket and will even resolve it. The details of the workflow are easy to change. All the interaction with jira are done using a command line tool go-jira. It can be installed on macs using brew install ndlib/dlt/go-jira. The tool was designed to be used by hand, there is some weirdness in calling it from a script, mainly because one needs to make sure a current password cookie is saved. DLTP-563

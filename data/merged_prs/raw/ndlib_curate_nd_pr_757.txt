@@ -1,0 +1,2 @@
+Updating generic file to not require file on edit
+Prior to this commit, the HTML element forced a file attachment, even though the person was working on the permissions. With this adjustment the file is no longer required. Closes DLTP-1580 # Closed

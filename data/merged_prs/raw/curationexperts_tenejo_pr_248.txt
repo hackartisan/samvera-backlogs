@@ -1,0 +1,2 @@
+Add optional docker-compose setup
+To start: docker-compse run web rails db:setup docker-compose up Tenejo will be running on port 3000. To run the specs: docker-compose run web rspec To use byebug: After hitting the byebug in your code, run docker ps to get the id for the web container. Copy that id and then run: docker attach 943094304 Hit enter and you'll be in the byebug. You'll find the bundled gems in the bundle folder. This folder is gitignored to avoid commiting it.

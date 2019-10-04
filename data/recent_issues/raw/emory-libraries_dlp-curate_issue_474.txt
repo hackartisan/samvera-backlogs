@@ -1,0 +1,2 @@
+Investigate if "cor-" prefix causes pair tree problems
+All of our assets will start to fall in one directory.

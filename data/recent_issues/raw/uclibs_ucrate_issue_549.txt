@@ -1,0 +1,2 @@
+Remove config/initializers/git_sha.rb
+Descriptive summary I don't think we need config/initializers/git_sha.rb anymore.  It was added when we were putting the commit sha into the application's footer.  Remove the initializer and make sure nothing complains. This initializer is complaining in our server environments because the application directory is not a git repo there.

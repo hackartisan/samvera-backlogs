@@ -1,0 +1,2 @@
+Change default `downloadable` for Recordings to `none`
+closes #3072

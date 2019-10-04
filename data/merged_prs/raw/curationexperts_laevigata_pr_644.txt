@@ -1,0 +1,2 @@
+Use database authentication in development mode
+@bess I know you are busy on another project this week, but if you have time, could you review this PR, since you worked on the Shibboleth code?

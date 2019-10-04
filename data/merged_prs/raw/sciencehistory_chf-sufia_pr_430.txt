@@ -1,0 +1,2 @@
+Remove duplicate config file
+Misspelled the file name when creating this, then it was duplicated when fixed upstream.

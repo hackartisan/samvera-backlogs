@@ -1,0 +1,2 @@
+Test file uploads after encryption enabled
+Test using sample files from Box

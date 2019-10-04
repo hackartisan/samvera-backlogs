@@ -1,0 +1,2 @@
+Adding rake task to dump and truncate search table
+refs #1025 Additionally adds cronjob to run it yearly This has not been tested on a server since QA was unavailable for testing, but I want to put the code out for review.

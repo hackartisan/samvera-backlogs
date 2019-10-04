@@ -1,0 +1,2 @@
+QA approver setup
+Establish a system so that any special QA approvers are always added on the QA server Right now that is only the jdoty user as an approver for Candler, but we can expand this as needed This will prevent losing these settings if we restore our production server to QA for testing  Fixes #1897

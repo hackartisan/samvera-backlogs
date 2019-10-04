@@ -1,0 +1,2 @@
+Tombstones should be excluded from search
+[Figgy/staging] ActionView::Template::Error: undefined method `can_have_manifests?' for Tombstone:Class Backtrace line 35 of [PROJECT_ROOT]/app/helpers/thumbnail_helper.rb: geo_thumbnail? line 94 of [PROJECT_ROOT]/app/helpers/thumbnail_helper.rb: figgy_thumbnail_method line 26 of [PROJECT_ROOT]/app/helpers/thumbnail_helper.rb: figgy_thumbnail_path  View full backtrace and more info at honeybadger.io

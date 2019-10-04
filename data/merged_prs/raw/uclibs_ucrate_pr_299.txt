@@ -1,0 +1,2 @@
+Mock collection_type in catalog search spec
+Fixes #298 Catalog search spec was failing with error missing collection type. Added mock to spec with required collection type. let!(:collection_type) { create(:collection_type, id: 1) } Changes proposed in this pull request:  tweak to spec/features/catalog_search_spec.rb

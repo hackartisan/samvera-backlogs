@@ -1,0 +1,2 @@
+Added honey pot to fight spam
+Fixes #219. Instead using Google's Recaptcha, we could use Honeypot which adds an invisible form field that most bots try to fill and the application rejects all requests that have the invisible field populated there by fighting spam. Also, we should be okay as we have rack attack as well

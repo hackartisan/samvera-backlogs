@@ -1,0 +1,2 @@
+Bulk Edits: OSG & OE Cleanup
+Descriptive summary Cleanup in multiple fields for Oregon Sea Grant and Oregon Explorer items. I collected all the changes in one tab:   Bulk Edits OSG & OE  This includes removing specific entries from the Additional Information field with "-". Greg did this last time & is going to update the wiki. (I hope I listed them correctly.)

@@ -1,0 +1,2 @@
+Makes non-generic assets valid compound parents.
+Fixes #662

@@ -1,0 +1,1 @@
+Do not cache the link to view in context; Fixes #278

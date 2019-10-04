@@ -1,0 +1,4 @@
+Use ESD as authority for Advisor
+
+Not possible with current Emory data provision. Might be possible one day after Emory re-vamps how they are handling this data internally. 
+@shanitajohn & @bess It may be that "ESD" in the title of this ticket is just the wrong system because of unclear initial understanding on our part and that there is a different system we need to access.  During scoping we were explicitly told that the current ETD application checks the Advisor and Committee name against some pre-existing list of Emory faculty.  Can you schedule a live walkthrough of the current application and definitively confirm or whether 1) there is a controlled vocabulary provided by some system that gives faculty names OR 2) whether these fields are free form text entry in the existing application?    If 1) is true, we should update this ticket to reflect the correct system. If 2) is true, we should just close this ticket.

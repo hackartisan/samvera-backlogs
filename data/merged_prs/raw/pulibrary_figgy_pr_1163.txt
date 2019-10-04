@@ -1,0 +1,2 @@
+Background deletes of members.
+Backgrounding deletes after the parent's delete commit closes lets everything happen outside of the original transaction, so there's no conflicting locks. Speeds up deletes a lot, and should make deleting of derivatives actually happen. Closes #1129

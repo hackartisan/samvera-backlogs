@@ -1,0 +1,2 @@
+Add MLA Citation section to work show page
+Fixes #609 Fixes #616

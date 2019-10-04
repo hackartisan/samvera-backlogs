@@ -1,0 +1,2 @@
+Migrate Ephemera models to change set-based architecture
+This will further the goal of freeing up controlled vocabularies to plug in to other use cases child of #2691

@@ -1,0 +1,2 @@
+UI to Create New Work Types/Sub-Work Types (genres)
+As a metadata librarian, I would like to have a UI to create new work types in CHO So that it doesn't need to be a developer task to add new work types. Dependent on #320

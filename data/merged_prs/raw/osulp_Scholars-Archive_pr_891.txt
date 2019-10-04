@@ -1,0 +1,2 @@
+adds HBFA to degree name
+fixes #890

@@ -1,0 +1,2 @@
+Updating to rails '4.2.7.1' for security fixes
+https://groups.google.com/forum/#!topic/ruby-security-ann/8B2iV2tPRSE https://groups.google.com/forum/#!topic/ruby-security-ann/WccgKSKiPZA

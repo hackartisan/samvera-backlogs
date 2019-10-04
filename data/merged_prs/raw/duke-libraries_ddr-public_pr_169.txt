@@ -1,0 +1,2 @@
+update ddr-models to 2.1.0.rc2
+This update to ddr-models 2.1.0.rc2 includes changes to the license information and the addition of finding aid information. You will need to add a license to each collection to avoid errors. If you add a finding aid identifier to the administrative metadata for collections and/or items then a link to the associated finding aid will display in the interface.

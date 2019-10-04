@@ -1,0 +1,2 @@
+Fix reindexing memory problem
+This uses cursors over streams to fix the reindexing issue. It appears that while using streams if we then saved to solr it would interrupt the stream and each_slice would stop working. Very odd.

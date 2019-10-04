@@ -1,0 +1,2 @@
+Remove dependencies on pre-loaded sample data, cleanup temp records (DHH-513)
+Remove dependencies on pre-loaded sample records -- tests pass with empty Solr/triplestore Cleanup test records -- no records are left behind in Solr/triplestore Some feature tests, esp. DamsObject, do not work and are marked pending  Fixes https://lib-jira.ucsd.edu:8443/browse/DHH-513

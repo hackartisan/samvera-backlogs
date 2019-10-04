@@ -1,0 +1,2 @@
+Convert Celestial Maps from ScannedMap to ScannedResource
+Should these be converted into scanned resources? https://figgy.princeton.edu/catalog/6f49ffa6-b044-4d86-b203-41df8e42e098 https://figgy.princeton.edu/catalog/0bf6110c-d2ee-4df8-8cd2-a3cc710f63f7 https://figgy.princeton.edu/catalog/9962854c-bccd-44d2-b158-2ca0968b5d5f https://figgy.princeton.edu/catalog/fc0d8c89-875a-48cc-bab3-68d844116ea9 Note: Ensure these are removed from the maps portal, and show up in the catalog.

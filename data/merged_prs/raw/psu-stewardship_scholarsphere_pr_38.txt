@@ -1,0 +1,2 @@
+Capistrano3
+Branch adds the ability for final release to maintain itself as a git repository versus utilizing git archive to deploy the final release. Also added 'rbenv_install' capistrano plugin which includes the ability to install rbenv, bundle, and ruby.

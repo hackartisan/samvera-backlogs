@@ -1,0 +1,2 @@
+MediaResource uses draft publish workflow
+Closes #1098

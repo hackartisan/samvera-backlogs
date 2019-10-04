@@ -1,0 +1,2 @@
+Log events related to File Attach Job
+File Attach Job Message digest calculation File persisted: in the attach_file_to_work job: https://github.com/emory-libraries/dlp-curate/blob/master/app/jobs/attach_files_to_work_job.rb#L55

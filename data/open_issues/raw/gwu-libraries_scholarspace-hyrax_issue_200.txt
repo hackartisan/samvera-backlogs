@@ -1,0 +1,5 @@
+Add Dublin Core "Relation:isPartOf" field, with label Series
+
+@reliztrent Please describe the use case(s)
+Use cases at: https://docs.google.com/document/d/1tiy3xWpZJFFJGqQyIxNVGQ2SrNGgtIMrUqZMp_Aj_hM/edit#heading=h.xme72tv6jjo2
+See https://github.com/samvera/hyrax/issues/1461

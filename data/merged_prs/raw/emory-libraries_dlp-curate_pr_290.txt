@@ -1,0 +1,2 @@
+Replaces single-line text inputs with multi-line text areas
+Closes #270

@@ -1,0 +1,2 @@
+Allows for sorting and reverse title sorting alphabetically.
+Fixes #333; Present short summary (50 characters or less) Replicates title sort on browse and search page. Changes proposed in this pull request: Makes search and browse experience more like scholar.

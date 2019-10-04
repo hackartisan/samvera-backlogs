@@ -1,0 +1,2 @@
+Updates Faraday and uses the browse-everything branch for Google Drive paging
+Resolves #1733

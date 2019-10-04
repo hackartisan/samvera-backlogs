@@ -1,0 +1,1 @@
+Issue -68: Update user profile page to include person information.

@@ -1,0 +1,2 @@
+Enable full-text searching
+Fixes an issue with Sufia's CatalogSearchBuilder where file sets that matched the query were not being joined into works to return from a search.

@@ -1,0 +1,2 @@
+Adds in rest of descriptions.
+Fixes #354

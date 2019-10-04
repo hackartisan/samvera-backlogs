@@ -1,0 +1,2 @@
+permission/visibility fixes for file_sets #272, #280
+Resolves #272 Resolves #280

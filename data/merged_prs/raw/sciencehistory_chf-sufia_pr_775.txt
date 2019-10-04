@@ -1,0 +1,2 @@
+Charts genre step 1
+Pending testing on staging. This PR:  Adds the new option to the form. Adds the migration task. Adds a data filter to form processing that catches any attempts to save the old term and converts it into the new term. This will keep new edits from creeping in after the task has run but before the old option has been removed from the form. This code is intended to be temporary, removed in the follow-on PR. Thus it is isolated in its own commit.  The removal of the old option is in a follow-on PR Refs #562

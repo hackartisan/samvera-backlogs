@@ -1,0 +1,2 @@
+Add styling for remove partnering agency buttons
+This moves the remove partnering agency button to the right of each of these select boxes. Connected to #1701

@@ -1,0 +1,2 @@
+Adds Video and Audio models.
+Closes #411 and closes #410

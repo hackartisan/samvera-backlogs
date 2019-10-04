@@ -1,0 +1,1 @@
+File manager -> Deleting a File Set should redirect to the parent

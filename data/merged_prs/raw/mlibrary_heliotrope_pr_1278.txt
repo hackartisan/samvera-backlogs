@@ -1,0 +1,2 @@
+floobits cleanup
+Removal of .floo and .flooignore then added to Greg's global .ignore file.

@@ -1,0 +1,2 @@
+Updates bundle
+Needed the latest version of hyrax-batch_ingest.

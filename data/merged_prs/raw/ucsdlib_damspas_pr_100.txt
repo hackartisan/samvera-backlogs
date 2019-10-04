@@ -1,0 +1,1 @@
+Add Collection info to the search results view. DHH-664

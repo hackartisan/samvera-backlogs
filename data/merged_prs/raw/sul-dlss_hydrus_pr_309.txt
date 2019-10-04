@@ -1,0 +1,2 @@
+Set anonymizeIP true for Google Analytics
+A friendly PR to anonymizeIP for sdr.stanford.edu as we do this throughout our public portfolio

@@ -1,0 +1,2 @@
+adds help text to the bottom of the work type selection modal
+fixes #1286

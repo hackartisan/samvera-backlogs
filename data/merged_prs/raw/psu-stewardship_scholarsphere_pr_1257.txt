@@ -1,0 +1,2 @@
+Adding specialized facet cleaner for creator
+This gets the facet value for the record not just the text Adds tests for keyword and publisher facet cleaning refs #1223

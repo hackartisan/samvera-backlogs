@@ -1,0 +1,1 @@
+Fix the order of magnitude of the VIPS scale factor

@@ -1,0 +1,2 @@
+Adds concatenated titles
+Works having multiple title types should concatenate them together if present. Also, modifies spec for Asset model:  use convention of using 'describe' for describing method calls use convention of using '#' to denote instance methods. use single let statement for top-level describe block  instead of one for each context in the spec.

@@ -1,0 +1,1 @@
+set portal showcase items to 40, added comma to result count

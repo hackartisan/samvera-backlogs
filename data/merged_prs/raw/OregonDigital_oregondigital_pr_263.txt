@@ -1,0 +1,2 @@
+Use resque only in tests that require it
+Closes #261

@@ -1,0 +1,2 @@
+Update ingest notice after upload
+Fixes #910

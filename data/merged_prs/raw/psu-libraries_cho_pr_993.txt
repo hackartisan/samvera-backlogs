@@ -1,0 +1,2 @@
+Login Button
+Description Adds some Bootstrap styles to make the login visible and look like a button. Login button is visually imperceptible with the new header background and look. Changes  adds Bootstrap class

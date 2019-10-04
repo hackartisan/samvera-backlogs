@@ -1,0 +1,2 @@
+DLTP-520 configurable lastrun locale
+#498

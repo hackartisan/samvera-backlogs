@@ -1,0 +1,1 @@
+Changing redis to 3.3.5 to fix ActionCable dependencies.

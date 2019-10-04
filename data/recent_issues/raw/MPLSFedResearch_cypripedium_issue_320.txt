@@ -1,0 +1,2 @@
+Configure SSH Timeout
+SSH windows close if left attended for some period of time  Child of #298

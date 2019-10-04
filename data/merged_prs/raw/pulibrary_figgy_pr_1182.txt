@@ -1,0 +1,2 @@
+Update ARK destination URLs 
+Use catalog.princeton.edu instead of pulsearch.princeton.edu Use Figgy Blacklight show page instead of (non-existent) Valkyrie show page

@@ -1,0 +1,2 @@
+Maintain Collection Context in Item Views
+I'd like a few +1s on this one - currently running on http://oregondigital.library.oregonstate.edu Closes #372

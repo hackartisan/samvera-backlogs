@@ -1,0 +1,2 @@
+Download files from the file set page only
+Description Adds the text, extracted text, thumbnail, front, and back image options for downloads. This includes a substantial refactor to centralize the location of all the use type predicates and the definition of their methods. These methods are now meta-programmed into file sets. Connected to #649 Changes  adds remaining file use type downloads moves all file use uris to Vocab::FileUse creates Repository::FileUse to manage the methods that result from the different use types

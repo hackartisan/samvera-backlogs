@@ -1,0 +1,2 @@
+Linked search for Published Date appears to use a keyword search
+Given I have a work with an entry for Published Date When I'm on the work show page And I click the link for Published Date Then I should see the correct search terms The search appears correct: https://scholarsphere-stage.libraries.psu.edu/catalog?q=5150&search_field=date_created_tesim But the search page show:

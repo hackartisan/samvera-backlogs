@@ -1,0 +1,2 @@
+Enhance UserSetup task to lower db queries
+Enhance removal and addition of users to a user_group. Refer: https://github.com/emory-libraries/dlp-curate/pull/583/files#diff-0f04141e68d14d6afc1a89b54ee201e0R32

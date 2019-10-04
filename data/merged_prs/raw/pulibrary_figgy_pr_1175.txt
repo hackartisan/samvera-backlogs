@@ -1,0 +1,2 @@
+Improve thumbnail display
+Improves thumbnails in File Manager. Improves thumbnails in the catalog search results. Thumbnail images aren't stretched artificially so they fit comfortably in their row without blurriness.  Closes #1174 Closes #1146 Closes #1122  VS  And...  VS

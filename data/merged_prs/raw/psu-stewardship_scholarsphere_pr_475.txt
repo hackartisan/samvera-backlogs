@@ -1,0 +1,2 @@
+Alignment of Dashboard Icons
+Overrides Sufia with the 7.2 migration code because cherry picking newish Sufia code creates to many conflicts. Needed partial to update the Bootstrap columns. Overrides default Bootstrap type with Lato.

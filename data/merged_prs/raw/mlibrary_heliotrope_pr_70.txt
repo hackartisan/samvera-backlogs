@@ -1,0 +1,1 @@
+Search for title, creator and subject. Fixes #23

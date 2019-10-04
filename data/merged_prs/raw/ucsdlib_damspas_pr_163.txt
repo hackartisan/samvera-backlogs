@@ -1,0 +1,2 @@
+Updated access control display labels (DHH-772)
+Added “dams-rci” case to accessGroup conditional. Rewrote accessGroup conditional to ignore ordering within "read_access_group_ssim" array.

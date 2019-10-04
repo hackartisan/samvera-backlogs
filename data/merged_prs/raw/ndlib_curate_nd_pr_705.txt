@@ -1,0 +1,2 @@
+Update label 'My Groups' to 'Group Administration'
+DLTP-1411 : Changed 'My Groups' on 'Manage' menu and on 'Groups' page to read 'Broup Administration' instead.

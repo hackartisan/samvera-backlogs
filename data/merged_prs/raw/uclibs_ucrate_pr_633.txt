@@ -1,0 +1,2 @@
+Pin bundler < 2
+Fixes #614 Pins bundler at less than 2 due to issues bundling with 2 and above on production

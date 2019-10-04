@@ -1,0 +1,2 @@
+Index representative_checksum too, for fingerprinted URLs
+Using the checksum in the URL for assets is nice, becuase it menas you can make them infinitely cacheable (For instance for browsers), even if the image behind a file_id changes (versions?).  I am doing this for DZI experiment, but it's potentially applicable to all our image sources. But that means it's gotta be indexed, so you have it to generate the URLs at display time. Yes, this apparently requires touching five different files!

@@ -1,0 +1,2 @@
+Catalog Controller Untangling
+Fixes #629 Need to update code to work with showable: false

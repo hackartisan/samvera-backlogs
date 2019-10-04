@@ -1,0 +1,2 @@
+Upgrade to latest Hyrax
+Hyrax 2.3.3 is released recently. Upgrade!

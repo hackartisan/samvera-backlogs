@@ -1,0 +1,2 @@
+Retrieving only the required fields for file auth
+Improving performance of file access by retrieving only the bare minimum data from Solr for doing access control.

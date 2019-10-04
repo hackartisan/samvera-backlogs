@@ -1,0 +1,2 @@
+Override index list view
+This overrides the index list view to avoid a deprecation notice appearing in the logs. Connected to #214

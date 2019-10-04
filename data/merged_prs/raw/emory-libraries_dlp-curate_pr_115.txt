@@ -1,0 +1,2 @@
+ Fixes actionview security vulnerability and tests solr version error
+Closes #113 Closes #114

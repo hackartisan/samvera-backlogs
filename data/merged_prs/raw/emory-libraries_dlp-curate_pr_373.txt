@@ -1,0 +1,2 @@
+Metadata fixes
+Ensure sample data has a depositor (otherwise file attachment won't work) Use URIs for a couple of required fields

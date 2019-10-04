@@ -1,0 +1,2 @@
+Metadata properties display repeating 4 times on work show page
+Descriptive summary Metadata properties on a work show page are appearing 4 times: http://staging.oregondigital.org/concern/images/3x816m61d?locale=en#?c=0&m=0&s=0&cv=0  Expected behavior Metadata properties display once.

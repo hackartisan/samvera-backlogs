@@ -1,0 +1,1 @@
+Change `indexable?` to `index_read_groups?` to be more accurate

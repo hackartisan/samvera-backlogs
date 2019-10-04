@@ -1,0 +1,2 @@
+Change human_readable_type on all models to i18n keys
+from console on staging: DEPRECATION WARNING: human_readable_type= is deprecated and will be removed from a future release (human_readable_type is deprecated. Set the i18n key for activefedora.models.#{model_name.i18n_key} instead. This will be removed in Hyrax 3). (called from class:PurchasedEResource at /data0/hydra/releases/20180423212810/app/models/purchased_e_resource.rb:23)

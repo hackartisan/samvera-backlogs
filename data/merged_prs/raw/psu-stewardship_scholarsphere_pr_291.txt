@@ -1,0 +1,2 @@
+Fixes 4 out of the 7 failing tests for Dashboard/Collections
+Note that I had to turn off js_errors in the Poltergeist configuration otherwise the tests give rather strange results. This gist shows an example of the Poltergeist errors that are reported when js_errors is set to true: https://gist.github.com/hectorcorrea/519c290b246dec317f037e08ed502b0a

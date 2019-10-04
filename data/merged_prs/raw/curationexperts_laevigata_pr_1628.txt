@@ -1,0 +1,2 @@
+backend primary file validation
+This commit adds model validation ensuring a student can't save the files tab with a primary PDF. It is connected to #1626. Connected to #1626

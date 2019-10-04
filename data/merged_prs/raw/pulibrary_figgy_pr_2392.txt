@@ -1,0 +1,2 @@
+Redirect the user back to the page they were on after logging in
+Fixes #2390

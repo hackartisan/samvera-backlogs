@@ -1,0 +1,2 @@
+order manager label for unnumbered pages
+I used to be able to select a group of images in the order manager and apply a label without a number to them.  "Flyleaves" or "Unnumbered pages".  I can no longer do this.  If the number is removed and that box is left blank, the images won't re-label at all.  I am having to add the label individually to every image.

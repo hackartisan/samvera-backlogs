@@ -1,0 +1,2 @@
+Create file manifest for works, probably collections
+This is probably a good idea in general. RDA has a recommendation out based on baggit we can follow. Make a textfile available for users to get an idea of what is in the work or collection. I think it would be good to make it available via api or something as well to promote interoperability. https://www.rd-alliance.org/group/research-data-repository-interoperability-wg/outcomes/research-data-repository-0

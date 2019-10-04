@@ -1,0 +1,2 @@
+Fix year indexer to handle wrong noramlized dates
+One of the Connell records has a normalized date value of "[between 1928-1939]". This is pretty clearly an error, but the ingest process shouldn't crash when it's encountered. Instead, drop that value from any year calculations that are happening, but report the error to Rollbar so we know how often normalized date contains unparseable data. Connected to #359

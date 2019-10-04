@@ -1,0 +1,2 @@
+View metadata for work on show page
+This adds a class that can be used to get a list of attributes on the work. That is used to generate the SolrDocument methods, view, and catalog controller code that is needed to display metadata in the show page. All the metadata attributes that can be used currently are set in the work factory and then a system spec is used to make sure that the data is showing up on the page. This also includes addtions to the locale files so that the correct labels are displayed.

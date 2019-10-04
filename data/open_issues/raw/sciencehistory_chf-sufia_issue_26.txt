@@ -1,0 +1,2 @@
+validation action on visibility change?
+If you try to make an object visible to public, this validator should run and ensure that 'cataloging-required' fields are all populated.

@@ -1,0 +1,2 @@
+Add rubyzip to the Gemfile
+Description Connects to #562 We need to explicitly require the rubyzip gem so it is loaded in our production environment.

@@ -1,0 +1,2 @@
+Remove overridden BrowseEverything controller methods and remove the `BrowseEverything::Resource`
+BulkIngestController#browse_everything_params and BulkIngestController#selected_files_params should be inherited from BrowseEverythingController upstream.

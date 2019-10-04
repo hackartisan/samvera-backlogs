@@ -1,0 +1,2 @@
+Update the hydrus environment files with the current Rails 4.2 defaults
+Fixes #141

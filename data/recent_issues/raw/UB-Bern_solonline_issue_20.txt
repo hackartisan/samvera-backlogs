@@ -1,0 +1,2 @@
+Journal title QA
+Hochladen eines Artikels d. Journal Title Bei Eingabe des Zeitschriftentitels sollten bereits jene Titel eingespielt werden, die bereits eingegeben wurden. Für Schweizer Zeitschriften wird noch eine Liste der Titel mit Abkürzungen geliefert. Bei der Eingabe kann man sowohl die Abkürzungen als auch den vollen Titel eingeben.

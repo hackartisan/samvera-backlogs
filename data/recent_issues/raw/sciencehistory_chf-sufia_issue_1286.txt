@@ -1,0 +1,2 @@
+DZI glitch in "Aracana Naturae"
+URL: https://digital.sciencehistory.org/works/q524jp940/viewer/cz30pt91g Error message: Tile load failed: Image load aborted: [s3 path to the tile] Screenshot:

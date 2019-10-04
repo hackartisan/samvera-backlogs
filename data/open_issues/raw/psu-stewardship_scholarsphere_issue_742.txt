@@ -1,0 +1,2 @@
+Breadcrumb for shared file should include my shares
+related to #588 #587 When I upload on behalf of another user And I hit Save Then the breadcrumb should include My Shares instead of My Works This is an issue with the breadcrumb for any shared file.

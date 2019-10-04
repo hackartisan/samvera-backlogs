@@ -1,0 +1,2 @@
+Epic #65 testing - controlled vocabularies revisions
+This ticket is to note revisions still needed for epic #65 related to issue #138.   Content Type local vocabulary includes an extra term, "Article", which should be removed

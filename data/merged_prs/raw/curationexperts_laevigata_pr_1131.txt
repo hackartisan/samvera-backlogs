@@ -1,0 +1,2 @@
+Upgrade Rails to version 5.1
+This is to take advantage of new JS features that were introduced in 5.1: http://edgeguides.rubyonrails.org/5_1_release_notes.html

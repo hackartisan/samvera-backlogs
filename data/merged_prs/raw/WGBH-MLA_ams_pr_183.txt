@@ -1,0 +1,2 @@
+Uses shared specs from batch ingest
+Adds shared specs from hyrax-batch_ingest gem to test ZippedPBCoreReader class.  Also...  DRY up spec for ZippedPBCoreReader a little. Fix FactoryBot deprecation warnings re: static attributes. Removes permisstion_templates.rb factory (nothing in there).

@@ -1,0 +1,2 @@
+add login link to footer and responsive menu on fulcrum static pages
+Resolves #822

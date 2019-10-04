@@ -1,0 +1,2 @@
+Disable editing coin numbers
+Fixes #2187

@@ -1,0 +1,2 @@
+Holding Organization mapped into Physical Instantiations
+Description: As an ingester, instantiationAnnotations with @annotationType="organization" in my xml gets written as the Holding Organization for the Physical Instantiation object. Done when:   A physical instantiation created during a Zipped XML ingest has a holding organization value

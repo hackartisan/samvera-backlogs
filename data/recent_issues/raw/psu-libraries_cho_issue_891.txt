@@ -1,0 +1,2 @@
+Batch Agent Creation Bug
+Duplicate agents are created without a warning or validation error. The import preview shows success, the import shows success, even though CHO does not actually add a duplicate creator. CHO should validate and not allow a duplicate agent to be created. While agents only have an id, given_name, and surname right now, we will eventually use URIs which can be used to uniquely identify agents and identify duplicates. Blocked by #734

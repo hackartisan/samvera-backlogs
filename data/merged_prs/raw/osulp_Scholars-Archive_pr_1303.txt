@@ -1,0 +1,2 @@
+makes bulk update a little more liberal for finding a row
+sometimes a trailing space on the data in the repository can cause grief for processing bulk updates.. this makes the include? a little more liberal at the value level of each row fixes #1308

@@ -1,0 +1,2 @@
+Use `Noid::Rails`'s test minter in the test environment
+The DB-based production minter causes issues in the test suite due to database cleanup. Noid::Rails provides a test minter to simplify these issues. This is connected to #1073.

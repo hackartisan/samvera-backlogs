@@ -1,0 +1,5 @@
+Some creator types displaying URIs as strings
+Editor, Printmaker, Cartographer, Interviewee, Interviewer, Transcriber, Scribe and Donor.
+misunderstood- will edit the json file so all URIs are ...ns/creator/... 
+According to Paul, missing Editors in ODE start with v. 116 no. 15 (editor Sam Stites) and v. 116 no. 16 (editor Samantha Edge). The fields do show up if they are classed as Creators. 
+@lsat12357 , is there a way to batch fix these? 

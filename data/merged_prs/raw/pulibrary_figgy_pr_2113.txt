@@ -1,0 +1,2 @@
+Ensures that IIIF Manifests are generated for Playlists with proxies for audio FileSets
+Resolves #2081

@@ -1,0 +1,2 @@
+Compare production and 4.0 side-by-side 
+Descriptive summary We need to step through all screens in the application on both production and ucrate to see if any needed changes have been missed. This can also help us build a list of changes that users will notice for #503 This is probably a good two-person task.  Probably good to bring both up on the screens side-by-side in 463.

@@ -1,0 +1,2 @@
+tidy up metadata on new file version
+HELIO-2368

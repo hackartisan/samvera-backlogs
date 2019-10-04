@@ -1,0 +1,4 @@
+PDF Viewer
+Descriptive summary We haven't seen whether or not UV completely fulfills the requirements of functionality of a PDF viewer. In OD, we have in text search dependent on OCR provided. This allows for a user to search for terms in the document. It also needs to provide the ability to zoom in on the page, flip between pages, highlighting in the text, etc. In OD, OpenSeaDragon was used which is a library is included within UV, so it may already be taken care of. Expected behavior Read through a PDF document in the proper order, search functionality within the PDF, page through, table of contents, metadata.
+@wickr or others - do you know if UV has the ability to function as described? essentially as a book viewer?
+https://github.com/UniversalViewer/universalviewer#examples is good to flip through for some of the versatility in UV. I haven't flipped through all of them but the third example The Biocrats (?!) has search through PDF. @wickr @straleyb 

@@ -1,0 +1,2 @@
+changing to a definition list instead of strong with paragraphs
+refs #339 Before  After

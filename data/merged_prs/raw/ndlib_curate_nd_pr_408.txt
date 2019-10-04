@@ -1,0 +1,2 @@
+406 Add document type to deposit menu
+Claiming issue 406 @0e361fba5b21f8880076a5955cdc23165a3e1f44 relates to #406 $ ./script/start-issue 406 [skip ci] Adding Document work type to "quick menu" @0aa7bd16a5abb8553913e6a6bd56c00b149e186a Closing issue 406 @f3459db7b41a04f7671d268e9f596c245eaa25f0 Closes #406 $ ./script/close-issue 406

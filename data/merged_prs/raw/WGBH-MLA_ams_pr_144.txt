@@ -1,0 +1,1 @@
+AMS2-481 adding holder class to metadata

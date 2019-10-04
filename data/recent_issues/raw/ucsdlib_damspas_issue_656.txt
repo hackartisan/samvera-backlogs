@@ -1,0 +1,2 @@
+Edit preferred citation value of objects in Thurgood Marshall College. Office of the Provost Records
+Description For all 767 objects in Thurgood Marshall College. Office of the Provost Records (bb7817150v)  Replace the current value of dams:Note @type "preferred citation" with the new value: "[TITLE]. Thurgood Marshall College. Office of the Provost Records. RSS 1130. Special Collections & Archives, UC San Diego"  The current preferred citation values are all different.  The new value will be the same for all objects.

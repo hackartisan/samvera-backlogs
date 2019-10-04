@@ -1,0 +1,2 @@
+ Remove Google+ and Tumblr social links
+Fixes #613 Add a copy to clipboard button

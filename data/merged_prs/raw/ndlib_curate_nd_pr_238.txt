@@ -1,0 +1,2 @@
+Add a content license modal popup
+The modal contains a description of the content licenses available for selection. The text is copied from VecNet, which came from Sufia, which came from the creative commons website. I'd appreciate any comments on my html and use of bootstrap. Fixes #219

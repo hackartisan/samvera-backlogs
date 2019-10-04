@@ -1,0 +1,2 @@
+new collection images
+closes #891 closes #899

@@ -1,0 +1,2 @@
+Fixes overflow of text covering action button
+Fixes #1275

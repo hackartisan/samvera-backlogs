@@ -1,0 +1,2 @@
+Introduced "other" fields to capture suggestions for new controlled metadata
+resolves #122

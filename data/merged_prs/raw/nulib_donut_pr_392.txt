@@ -1,0 +1,2 @@
+Skip in_work_ids during new work validation
+fixes nulib/next-generation-repository#767

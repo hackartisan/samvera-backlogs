@@ -1,0 +1,2 @@
+Integrate with shibboleth in production
+but keep database authentication for now, while we're still in development. Create new User objects for anyone who authenticates via Shibboleth and doesn't yet exist in the app. Closes #332, #333 and #347

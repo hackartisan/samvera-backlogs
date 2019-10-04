@@ -1,0 +1,2 @@
+piwik id is configurable by application.yml
+Description Piwik id had been hard-coded to 2. It is now configurable via application.yml In order for this to take effect, we will need to talk to the devops folks. The following key-value should be added to application.yml in chef on the following servers # QA piwik_id: '2'  # Stage piwik_id: '5'  # Production piwik_id: '6'  (Note that Figaro likes all values to be strings) Connected to #951

@@ -1,0 +1,2 @@
+Named user can run sudo
+Users login as themselves, not ubuntu, but they have the same privileges as if they had logged in as ubuntu  Child of #298

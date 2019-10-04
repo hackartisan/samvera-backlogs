@@ -1,0 +1,2 @@
+Server-based export
+STORY As an administrator, I’d like to be able to export a set of bags corresponding to a list of IDs I provide on the server command line DETAILS Assumption: we we will generate one bag per record Assumption:  The default behavior of the ruby bagit gem is acceptable Bags should be formatted to be read by Preservica ACCEPTANCE   When I run the export tool it produces a bagit bag that contains the records I specified  The user knows when there is an error

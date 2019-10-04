@@ -1,0 +1,2 @@
+Solr's default results row limit is only 10
+Only 10 sections' worth of assets can get through with the default limit, less if some ordered_members are non-representative filesets attached directly to the monograph.

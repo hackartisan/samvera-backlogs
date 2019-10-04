@@ -1,0 +1,2 @@
+Taking care of some TODOs after upgrading to Valkyrie 1.0
+Description Removing some code that we don't need anymore since upgrading to Valkyrie 1.0.

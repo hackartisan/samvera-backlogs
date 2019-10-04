@@ -1,0 +1,2 @@
+Security vulnerability in all versions of Hyrax since 2.1.0
+The following email just went out to samvera-partners.   Check to ensure Emory's ETD application is not vulnerable to this security issue  VULNERABILITY ASSESSMENT AND REMEDIATION To view a list of Collections that may be affected, the following code may be executed in the Rails console:  CollectionBrandingInfo.where("target_url IS NOT NULL")

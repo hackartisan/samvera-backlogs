@@ -1,0 +1,2 @@
+Try deploying with just the cap changes
+This PR replaces the one from the tripartite branch. AFAICT, this one works, while something about the code in the deploy.rb file on the other one breaks deploy.

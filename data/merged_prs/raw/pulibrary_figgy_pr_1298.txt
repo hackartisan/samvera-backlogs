@@ -1,0 +1,2 @@
+Adjust FileSet events
+Send parent events as a new event type on update and don't send manifest URL so DPUL won't try to reindex every time a FileSet changes.

@@ -1,0 +1,2 @@
+configures purchased e resource indexer
+Fixes indexing for PERs

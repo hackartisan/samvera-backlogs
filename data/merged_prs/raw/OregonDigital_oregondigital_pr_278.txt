@@ -1,0 +1,2 @@
+Remove modified date from search fields
+closes #267

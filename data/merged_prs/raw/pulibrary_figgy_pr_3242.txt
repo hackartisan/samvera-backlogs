@@ -1,0 +1,2 @@
+Rename release_notes to all caps
+documented as all caps in the gem we used: https://github.com/stitchfix/extra_extra#install fixes #3240

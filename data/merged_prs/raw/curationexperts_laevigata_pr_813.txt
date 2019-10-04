@@ -1,0 +1,2 @@
+Remove no longer used cap deploy targets
+These servers don't exist anymore

@@ -1,0 +1,2 @@
+Use a non deprecated workflow update method
+This prevents the workflow service from logging deprecation notices in honeybadger. Why was this change made? Deprecation errors logged in honeybadger: https://app.honeybadger.io/projects/58890/faults/54851492 Was the documentation (README, DevOpsDocs, wiki, consul, etc.) updated? n/a

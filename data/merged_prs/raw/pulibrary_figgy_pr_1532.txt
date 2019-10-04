@@ -1,0 +1,2 @@
+Move up collection select for Scanned Resources
+Done in response to a request from the Imaging Studio staff. Resolves #1543

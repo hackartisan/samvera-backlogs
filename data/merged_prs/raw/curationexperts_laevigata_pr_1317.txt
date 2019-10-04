@@ -1,0 +1,2 @@
+Generate CSV report of all PhD records for Laney School Admins for 2017-2018
+https://waffle.io/emory-libraries/etd-issues/cards/5b1d8d381a0cb5001c524f7e This rake command generates a CSV report that includes the following fields: Author's name, faculty advisor, committee members, date of submission, and student program.

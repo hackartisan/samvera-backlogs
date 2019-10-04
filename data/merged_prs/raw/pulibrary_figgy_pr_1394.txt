@@ -1,0 +1,2 @@
+Uses TikaFileCharacterizationService as the default for characterization
+Resolves #1379 but is blocked by the merging of #1368

@@ -1,0 +1,1 @@
+update bixby (v0.2.2) and re-enable filename cop

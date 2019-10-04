@@ -1,0 +1,2 @@
+Refactor workflow notifications
+Connected to #1201 This eliminates deprecation warnings in a couple of feature tests and in workflow notifications. Also, refactor workflow notifications to do the test setup once and then run all examples together. This cuts the execution time from ~27 seconds to ~7 seconds per test. Also, run workflow notifications with integration tests since they include workflow setup.

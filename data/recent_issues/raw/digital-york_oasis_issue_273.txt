@@ -1,0 +1,2 @@
+Links to browse by facet unavailable
+When I click on all summaries or topic or other facets n the homepage I get the error message below. This happens both in Chrome (71.0.3578.98) and Safari (Version 12.0 (14606.1.36.1.9)). Screenshot from Chrome.

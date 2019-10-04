@@ -1,0 +1,2 @@
+Fixes InSeries label and configures it to have help text
+Relates #776 Just need the help text written.

@@ -1,0 +1,2 @@
+Communicate Bagit export error to user
+STORY As a Librarian I want to know if my Bagit export failed DETAILS Requires #188 Handle the error cases for browser-based story ACCEPTANCE   User gets a notification of failure using the same notification method as used in #192

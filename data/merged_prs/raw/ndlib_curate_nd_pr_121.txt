@@ -1,0 +1,2 @@
+adding page for timeout error to be used by ngnix
+Fixed the issue with user email, user curate help email when current user is not available

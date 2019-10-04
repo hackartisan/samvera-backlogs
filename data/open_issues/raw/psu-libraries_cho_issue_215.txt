@@ -1,0 +1,2 @@
+AMP Support for Object pages
+As a collection curator, I want my content to appear prominently in mobile searches, So that I may connect content with as many users as possible Related: #116 Google Search Guidelines for AMP AMP Project

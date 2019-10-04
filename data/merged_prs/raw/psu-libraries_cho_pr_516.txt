@@ -1,0 +1,2 @@
+Re-enabling New Relic in production
+Description Re-enable New Relic. The error with rake tasks seems to have resolved itself. Fixes: #225 Changes Are there any major changes in this PR that will change the release process? No Checklist   i18n enabled  adequate test coverage  accessible interface

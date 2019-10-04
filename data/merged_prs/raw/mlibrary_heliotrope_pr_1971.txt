@@ -1,0 +1,2 @@
+HELIO-1965 - brand michigan e-reader
+Resolves HELIO-1965 Adds styles to brand the e-reader for michigan and display logo.

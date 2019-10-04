@@ -1,0 +1,2 @@
+Enforce the text type in data dictionary for description
+Option B Description Renders a text area when the data dictionary field type is 'text.' By default, everything else is still a text input. Fixes: #475 Why was this necessary? The description field was not rendered as a text area. Changes Are there any major changes in this PR that will change the release process? No Checklist   i18n enabled  adequate test coverage  accessible interface

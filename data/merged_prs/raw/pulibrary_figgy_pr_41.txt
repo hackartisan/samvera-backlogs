@@ -1,0 +1,2 @@
+Refactor Mets Ingest
+This puts it more in line with how BrowseEverything does ingest.

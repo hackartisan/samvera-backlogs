@@ -1,0 +1,2 @@
+handle slashes in paths for riiif
+Fixes #492 Migrate configuration to handle encoded slashes in paths for riiif viewer. Changes proposed in this pull request:  config/initializers/riiif.rb

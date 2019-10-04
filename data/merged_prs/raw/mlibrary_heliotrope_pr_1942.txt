@@ -1,0 +1,2 @@
+Fileset: show multiple creators
+Resolves #2030

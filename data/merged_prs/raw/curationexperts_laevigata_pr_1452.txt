@@ -1,0 +1,2 @@
+Add a class to perform Box uploads
+This commit introduces a JS class that can be used to perform uploads from box. This is a two step process that involves making a request to box to get the URL of the file and then posting the result of that to the /uploads controller. Related to #1198

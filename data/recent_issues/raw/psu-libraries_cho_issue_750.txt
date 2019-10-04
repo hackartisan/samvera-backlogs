@@ -1,0 +1,2 @@
+Move directory settings from Metics::Repository to another location
+Configuration settings for different directories storage, extraction, and ingest, are getting set in Metrics::Repository. This was done because it was needed for running benchmarks, but it makes sense for it to be in a configuration, perhaps in application.rb.

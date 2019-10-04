@@ -1,0 +1,2 @@
+Use postgres in dev and test, instead of sqlite3
+Be more consistent with prod, and sqlite3 has problems with lots of concurrent access sometimes, which sufia ingest can do.

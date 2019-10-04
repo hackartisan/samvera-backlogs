@@ -1,0 +1,2 @@
+Create a Solr Cloud cluster
+Manually create solr cluster  Install zookeeper on main VM  Add ports if needed

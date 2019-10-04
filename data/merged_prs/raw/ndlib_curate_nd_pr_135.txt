@@ -1,0 +1,2 @@
+Create FAQ page.
+Create FAQ page by adding to staticpage controller. Add route "/faqs". Add minor css to adjust space between FAQs.  dltp-220#

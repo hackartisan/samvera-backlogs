@@ -1,0 +1,2 @@
+Exceptions and Error Pages
+The default error pages needs to be customized and redirect exceptions to one of these pages with necessary info on these pages. Also, checkout exception handler.

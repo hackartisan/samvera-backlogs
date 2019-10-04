@@ -1,0 +1,2 @@
+Remove SMS and Email links
+Closes #214

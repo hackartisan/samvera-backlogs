@@ -1,0 +1,2 @@
+Uploading files 
+When adding a file to a work you can see the progress while the file is uploading, but once completed there is nothing to see except the tick mark in the Save work box. This could be confusing as the file seems to have disappeared. Is there anything we can do about this?  Before    During    After

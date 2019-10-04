@@ -1,0 +1,2 @@
+Display search query in page <title>
+Currently when one does a search, the page <title> just displays a generic 'Search Results'. The query could be inserted at the beginning of the <title>. Options: oregon - Search Results | Oregon Digital africa | Oregon Digital Should also handle Browse, and probably not just display an empty string.

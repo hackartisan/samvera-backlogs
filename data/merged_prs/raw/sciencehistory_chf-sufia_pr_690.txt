@@ -1,0 +1,2 @@
+CHF::Env feature flags to turn off riiif use on viewer and download link
+All riiif use feature flags DEFAULT false now. To verify everything is working with no riiif server in dev, you could: SERVE_RIIIF_PATHS=false rails server  If you wanted to turn on riiif features in dev, you could: USE_IMAGE_SERVER_ON_SHOW_PAGE=true USE_IMAGE_SERVER_DOWNLOADS=true USE_IMAGE_SERVER_ON_VIEWER=true rails server  All feature flags also can be controlled from local_env.yml but they are all currently defaulting false.

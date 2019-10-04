@@ -1,0 +1,2 @@
+Ensures that Ephemera Projects have IIIF Manifests
+Resolves #364 by:   Ensuring that Ephemera Projects have IIIF Manifests (exposing Boxes)  Ensures that Ephemera Projects have slugs generated for them  Ensures that these slugs are published using RabbitMQ when EphemeraBoxes and EphemeraFolders are updated

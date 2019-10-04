@@ -1,0 +1,2 @@
+Download button - when logged in make clear not public
+When a user is logged in, it's (possibly) confusing that the Download button displays even though the Allow Download is no. Can we think about a way to visually or textually (or both) indicate that this is because the user is logged in?

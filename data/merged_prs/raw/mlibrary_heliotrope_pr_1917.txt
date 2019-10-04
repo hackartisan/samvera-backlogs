@@ -1,0 +1,2 @@
+Csb/v0.3 resync
+Resolves CSB-158, CSB-126, CSB-164, HELIO-1964 Updates cozy-sun-bear with the latest changes to support the display of prepaginated EPUBs.

@@ -1,0 +1,1 @@
+Resolves #1708: Paywall REST API Authentication

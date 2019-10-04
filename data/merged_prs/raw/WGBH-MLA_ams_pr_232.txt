@@ -1,0 +1,2 @@
+Fixes deploy scripts
+Sources /etc/profile in verify_deployment.sh so that PRODUCTION_HOST env var is available. Prefixes rails commands with 'bundle exec' in install.sh.

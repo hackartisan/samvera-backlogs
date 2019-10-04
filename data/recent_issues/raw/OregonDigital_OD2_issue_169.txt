@@ -1,0 +1,2 @@
+Errors view for oEmbed dashboard
+Descriptive summary To break up #77, the oEmbed dashboard should present a view of works with oEmbed errors and a list of those errors Expected behavior  A new tab on oEmbed dashboard that shows oEmbed errors for each erroring work. Works should be sorted by most recent to error. Works should link to a resolution form, when submitted this form should mark errors as resolved. The resolution form should redirect to the work page, causing unresolved errors to re-enter the system again.  Related work #77, this will resolve two checkboxes

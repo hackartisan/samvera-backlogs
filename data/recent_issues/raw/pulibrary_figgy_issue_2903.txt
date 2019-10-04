@@ -1,0 +1,2 @@
+Improve handling for Google authentication errors
+These errors were reported by a user: This morning I've been scanning "Hydrocarbon Processing" magazine and uploading it into Figgy.  However, the files upload into Figgy, however, the images don't upload.   The link also disappeared.  The bib for Hydrocarbon Processing is:  626389.    I was uploading the files into:  Vol. 49, no. 7-12, 1970, now that link is gone.    https://figgy.princeton.edu/catalog/5ddf552f-96d6-45b6-bcb2-4282bd6b1de3

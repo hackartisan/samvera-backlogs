@@ -1,0 +1,2 @@
+Link out to uri for geonames. Uses label for search
+Fixes #1399 This sets up the ability to use pieces of linked data as a search_and_external_link when presented to the user. If a field is using the format label$uri then the renderer knows how to break it apart and display the label to the user as a search link and the uri as an externally linked uri.

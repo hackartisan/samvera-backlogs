@@ -1,0 +1,1 @@
+Adding search box when there are no search results.(DHH-827)

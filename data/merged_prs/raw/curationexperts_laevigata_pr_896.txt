@@ -1,0 +1,2 @@
+Graduation date is a string, not a Date
+Check for graduation date more broadly. Check for its existence, not specifically for whether it is a Date object. Fix test factory to better mimic what we see from registrar data. (A string, not a Date object) Fixes #893

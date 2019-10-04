@@ -1,0 +1,2 @@
+Don't pre-populate everywhere
+Reform pre-population is meant as a way to build up filler nested objects for display in an HTML form, not to transform values. This should make it easier to follow Reform documentation.

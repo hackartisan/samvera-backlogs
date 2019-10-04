@@ -1,0 +1,2 @@
+Update rspec config to match current DCE practice
+The rspec config for laevigata doesn't match what we did for californica and I suspect it might be out of date and not matching our current practice. At the moment, this is preventing consistent running of system specs. Seems worthwhile to fix this and document our recommended setup.

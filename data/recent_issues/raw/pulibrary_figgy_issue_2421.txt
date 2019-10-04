@@ -1,0 +1,1 @@
+Add confirmation dialogue to "regenerate" authorized link functionality

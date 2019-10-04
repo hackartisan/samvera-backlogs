@@ -1,0 +1,2 @@
+Clean geometry values for geoblacklight document
+Closes #1022

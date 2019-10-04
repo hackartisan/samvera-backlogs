@@ -1,0 +1,2 @@
+Update changelog for MVP 6 release
+Connected to #818

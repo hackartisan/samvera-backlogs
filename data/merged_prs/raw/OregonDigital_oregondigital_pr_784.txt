@@ -1,0 +1,2 @@
+Avoid Fedora session expiration by queueing single object reindexes.
+[ci skip]

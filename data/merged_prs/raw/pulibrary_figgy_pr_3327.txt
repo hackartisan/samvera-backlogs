@@ -1,0 +1,2 @@
+Add documentation for running jest tests
+Remove outdated documentation from when we didn't use yarn. closes #3307

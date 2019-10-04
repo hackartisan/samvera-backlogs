@@ -1,0 +1,2 @@
+Resolves HELIO-1809: Write Preservation Policy
+Please review for formatting, since I don't have a working local copy of heliotrope to test in.

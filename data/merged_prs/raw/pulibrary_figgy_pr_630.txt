@@ -1,0 +1,1 @@
+Don't allow viewing direction on a collection manifest, fix #622

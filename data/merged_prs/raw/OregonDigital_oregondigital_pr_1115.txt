@@ -1,0 +1,2 @@
+Fix/filler data
+From the commits: filler_data task: Removes explicit call to immediately create derivatives, which seems to randomly have race conditions due to assets not necessarily being completely ready in Fedora and/or collisions with the resque jobs also trying to create derivatives at the same time. Docs: Reorganizes the docker instructions to separate the barebones setup from the filler data and other miscellaneous tasks.  Improves the filler_data task documentation by explaining the need to monitor resque since derivatives are no longer forcibly inlined.

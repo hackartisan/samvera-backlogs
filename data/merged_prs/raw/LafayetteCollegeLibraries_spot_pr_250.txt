@@ -1,0 +1,2 @@
+use | as default multi_value_character for ingest
+after accidentally splitting some values that contained semicolons, we've decided to switch to using a bar (|) as the multi-value splitting character on incoming bags

@@ -1,0 +1,2 @@
+fixity checklist
+this could probably get taken care of over a short-ish sprint. things we need:  rake task to fixity check everything  see: https://github.com/samvera/hyrax/wiki/Hyrax-Management-Guide#fixity-checking   cap task to invoke the rake task remotely dashboard page to view ChecksumAuditLog objects, raise errors to the top  have a chat with @noraegloff about what she'd like to see from these   enqueue the task at lowest priority (ingest jobs take priority) add ability to manually trigger a fixity check from a file_set (see #173)

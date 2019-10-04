@@ -1,0 +1,2 @@
+DLTP-945 Editor change
+Convert Work/Person/group on relationships in CurateND

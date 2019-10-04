@@ -1,0 +1,2 @@
+ Add orangelight event generator
+For syncing coins to Orangelight with RabbitMQ. Closes #2678

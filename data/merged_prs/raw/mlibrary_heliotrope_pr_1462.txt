@@ -1,0 +1,1 @@
+Resolves #1458 Merge monograph catalog pages

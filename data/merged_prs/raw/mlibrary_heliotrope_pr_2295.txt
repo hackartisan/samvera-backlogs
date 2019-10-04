@@ -1,0 +1,2 @@
+Resolves HELIO-2424: Fulcrum Publishers Index Page Changes
+Store Publisher stats in a yaml file in the app tmp directory. Recalculate stats when older than 1 day.

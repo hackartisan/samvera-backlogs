@@ -1,0 +1,2 @@
+Improved IP Range Frontend
+Improved show/edit form, updated the ip ranges spec to show more features, and improved admin's abilities in regards to roles.

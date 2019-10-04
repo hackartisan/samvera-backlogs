@@ -1,0 +1,2 @@
+Removed all identifiers except accessURL from OAI mapping.
+Fixes #992

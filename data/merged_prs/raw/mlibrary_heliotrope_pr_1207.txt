@@ -1,0 +1,2 @@
+Resolves #1157 Monograph Catalog View EPubs
+Spawned #1205 and #1206

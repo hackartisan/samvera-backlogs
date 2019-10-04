@@ -1,0 +1,2 @@
+added degree grantors label to index and show page
+fixes #859

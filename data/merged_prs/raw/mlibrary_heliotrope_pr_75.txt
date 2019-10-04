@@ -1,0 +1,1 @@
+Editor can publish a book and all its components

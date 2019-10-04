@@ -1,0 +1,2 @@
+Remove antivirus detection (clamav)
+Descriptive summary Reversing #325 since the clamav gem is ancient and breaks with the switch from Debian Stretch to Buster. Our file upload process is mediated by a small, trusted team, and upload is non-anonymous. We're not as protected as having an AV, but we will be fairly mitigated. Expected behavior ClamAV is no longer installed. Related work #325, #619 Accessibility Concerns None

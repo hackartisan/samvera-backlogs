@@ -1,0 +1,2 @@
+AMS2-276 disable machine generated fields
+Merge #71  before this.  Added module for readonly fields Modified Digital Instantiation form to use new module Updated filed views to use new readonly attribute

@@ -1,0 +1,2 @@
+Adds technical metadata to facets
+Fixes nulib/next-generation-repository#459  indexes the technical metadata for FileSet.characterization_proxy at the (parent) Image level so it can be exposed in facets, and searched.  Co-authored-by: Brendan Quinn brendan-quinn@northwestern.edu

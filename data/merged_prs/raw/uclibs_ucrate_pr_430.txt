@@ -1,0 +1,2 @@
+Add custom error views
+Fixes #425 Port over custom errors pages from scholar prod. Hat tip @lawhorkl

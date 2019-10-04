@@ -1,0 +1,2 @@
+Add XML feed for DPLA metadata harvesting
+Requires an additional configuration file. Copy config/dpla_mapping.yml.sample to config/dpla_mapping.yml and restart the Rails server. Feed is available for any digital collections item, e.g.: http://localhost:3000/dc/alexharris/ahpst002028/feed.xml

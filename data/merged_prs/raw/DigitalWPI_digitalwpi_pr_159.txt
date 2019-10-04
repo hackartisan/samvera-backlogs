@@ -1,0 +1,2 @@
+integrate with circle ci
+i wanted to add circleci for future deployment and because the hyrax community does circle

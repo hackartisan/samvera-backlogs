@@ -1,0 +1,2 @@
+Extends the `EphemeraFolder` using the attribute `transliterated_title`
+Resolves #867

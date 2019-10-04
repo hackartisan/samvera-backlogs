@@ -1,0 +1,2 @@
+Remove the "render_as: :preformatted" for abstract
+Descriptive summary Remove the "render_as: :preformatted" for abstract to change the way its being rendered on the page. Back to the way it was!

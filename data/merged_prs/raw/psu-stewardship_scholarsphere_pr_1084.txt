@@ -1,0 +1,2 @@
+Removing solr extensions from keys
+This prepares the code to get the information from other places like ldap.  There is no reason to pass around the solr extensions refs #1041

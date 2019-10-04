@@ -1,0 +1,2 @@
+set up initial framework for repository
+Working on parsing http://vocab.getty.edu/ulan/500302766.json which returns some really terribly formatted json response. Then we have two other vocabs to go over for this one and that should complete it.

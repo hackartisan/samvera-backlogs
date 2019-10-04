@@ -1,0 +1,6 @@
+Update BrowseEverything to 1.0 to support DropBox APIv2
+Dropbox has deprecated their APIv1. See https://blogs.dropbox.com/developers/2016/06/api-v1-deprecated/ The cutoff date is June 28th, 2017, and on March 28th, we'll apparently start getting warning emails. We should investigate that BE is compatible with the new API.
+Update: The answer is no, BE does not support APIv2, and what's worse, the official ruby dropbox-sdk gem that BE uses does not currently have any plans to support the new API. This leaves us in a bit of a quandary.
+Possibly a topic for LDCX
+Ask drop box to provide support, or remove it, or write a hydra implementation. Removing it would be a last resort.
+Updating BE to 1.0 will fix this.

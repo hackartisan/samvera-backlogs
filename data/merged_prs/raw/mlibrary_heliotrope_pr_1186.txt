@@ -1,0 +1,2 @@
+add branding for NYU Press EPUBs in EPUB Reader
+Resolves #1182 Resolves #1118 Add styles for NYU's EPUB Reader; display logo in EPUB Reader for NYUP

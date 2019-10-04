@@ -1,0 +1,2 @@
+dashboard_works_spec sorting test is completely bogus
+The sort sorts both by ascending and descending dates and still expects the file to exist on the page.  One of the directions it should not be on the page.  This seems to occur becuase the title is not getting modified in the 10 additional files, so they all have the same title.

@@ -1,0 +1,2 @@
+Upgrade hyrax to 2.3.3
+Fixes #436 Upgrades to the latest version of hyrax (as of 10/11/2018)

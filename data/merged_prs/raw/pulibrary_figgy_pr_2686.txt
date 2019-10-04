@@ -1,0 +1,2 @@
+Refactor ArchivalMediaCollectionsController spec to prevent intermittent failure
+Closes #2662

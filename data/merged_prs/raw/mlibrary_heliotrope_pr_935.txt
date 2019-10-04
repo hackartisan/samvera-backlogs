@@ -1,0 +1,2 @@
+Resolves #911 Platform Admin Dashboard.
+D'oh! I created the branch and forgot to do an explicit Friday.

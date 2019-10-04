@@ -1,0 +1,2 @@
+Change Schema::Administrative::REVIEWED_STRING to REVIEWED_STATUS
+Updated constant for slightly more clarity.

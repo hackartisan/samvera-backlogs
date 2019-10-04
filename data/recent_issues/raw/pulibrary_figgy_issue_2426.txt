@@ -1,0 +1,1 @@
+Add "busy" indicator to detach button on playlist

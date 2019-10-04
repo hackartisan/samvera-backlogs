@@ -1,0 +1,2 @@
+Using the BagIt to provide Bag validation within IngestArchivalMediaBagJob::ArchivalMediaBagParser
+Resolves #1152 Manual rebase to fix errors in web-rebased #1222

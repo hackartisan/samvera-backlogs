@@ -1,0 +1,2 @@
+Don't rely on array orders when testing bags
+Description The order of the file sets present in the work was affecting certain test runs. This refactors the tests to check for the different file set ids as well as their representative without having to rely on the order in which they are returned. Additionally, the order of error messages in the bag is no longer being tested.

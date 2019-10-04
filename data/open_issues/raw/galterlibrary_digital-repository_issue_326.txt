@@ -1,0 +1,2 @@
+Switch document derivatives processor to new namespace after upgrade to 7.x
+lib/hydra/derivatives/document.rb switched to another path. Related to #304

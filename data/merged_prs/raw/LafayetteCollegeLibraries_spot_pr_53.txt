@@ -1,0 +1,2 @@
+add mappers
+adds Publication mappers for Lafayette Magazine, Lafayette newspaper, and Shakespeare Bulletin collections still to come Lafayette newspapers   rights statement  physical medium (depends on #58)  handling cdm uris in dc:identifier  dc:source -> physical medium  dc:subject: subject or keyword or source?  based near  Lafayette Magazine   creator  publication sequence (as part of local identifier?)  related resource  subtitle  description  based near

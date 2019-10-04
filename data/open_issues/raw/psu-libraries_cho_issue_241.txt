@@ -1,0 +1,2 @@
+Create Work Type edit form wireframe
+This wireframe should allow the user to Choose an Object Type and then allow them to create a template for that Object Type.  This template will be stores in the Template from the Library.  The user can select fields from the Base MAP, configure each field, and additionally order the fields. The templates created here will be used as path of the workflow in #16. See workflow: https://psu.app.box.com/notes/218569900484

@@ -1,0 +1,2 @@
+Reorganize Barcodes within Archival Media Collection
+This provides a checkbox in the AMC edit form which, when the form is submitted, will parse the EAD and reorganize all of the AMC's existing barcodes based on where the EAD says they should be. Closes #3021

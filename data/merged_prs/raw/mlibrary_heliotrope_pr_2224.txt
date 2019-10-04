@@ -1,0 +1,2 @@
+HELIO-2461 fix render time of _index_epub_toc.html.erb
+Do not calculate CFIs for TOC members with anchor tags Do not re-open the epub every time monograph_presenter.epub_presenter is called  According to skylight and testing this is a vast improvment, but is still not perfect.

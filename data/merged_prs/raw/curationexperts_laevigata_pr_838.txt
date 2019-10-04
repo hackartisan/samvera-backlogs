@@ -1,0 +1,2 @@
+displaying copyright data to approvers
+Fixes #827. This code didn't make it into the release, so I'm submitting another PR. Also I think I have the spec that covers it written better, and it's passing for me locally.

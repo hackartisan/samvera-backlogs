@@ -1,0 +1,2 @@
+Additional views of scrolls (the container) have been lost 
+Two objects from PUDL had as their thumbnail image the container.  The object was just the whole scroll image.  That was an arrangement for PUDL, but we really need to regularize this for DPUL.  The images of the containers have been lost.  These are the two objects: https://catalog.princeton.edu/catalog/10639166 https://catalog.princeton.edu/catalog/10638008

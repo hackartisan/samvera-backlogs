@@ -1,0 +1,1 @@
+Allow developer to turn off spec profiling to make TDD easier

@@ -1,0 +1,2 @@
+244 public works
+To test the feature, go to the Collections dashboard page, choose a collection and click the "Make Images Public" button. It should kick off jobs that change the visibility of each restricted or authenticated Image and its FileSets to open.

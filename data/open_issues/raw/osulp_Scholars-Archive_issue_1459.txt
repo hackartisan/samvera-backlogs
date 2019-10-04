@@ -1,0 +1,2 @@
+pagination facet buttons and limit fixes
+increase the facet limit to 100000 (tested manually on production to be performant) (https://github.com/osulp/Scholars-Archive/blob/master/app/services/scholars_archive/records_by_user_group_and_visibility.rb#L52)  The "Next" button and "Last Page" seems to be miscalculating what the last page would be 327 for Subjects, but the last page is actually 2588. (https://ir.library.oregonstate.edu/catalog/facet/subject_sim?facet.page=2588&locale=en&q=&search_field=all_fields&utf8=%E2%9C%93)

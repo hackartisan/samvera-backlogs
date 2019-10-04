@@ -1,0 +1,2 @@
+update active-fedora to 11.5.4, and update all AF dependencies
+Perf improvement and bug fix in 11.5.4: https://github.com/samvera/active_fedora/releases/tag/v11.5.3 https://github.com/samvera/active_fedora/releases/tag/v11.5.4

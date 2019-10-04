@@ -1,0 +1,2 @@
+Fix visibility on form
+These need to refer to the strings/keys in the AccessRight classes.

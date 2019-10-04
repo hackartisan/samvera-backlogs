@@ -1,0 +1,2 @@
+Fix for non-yarn JS error
+There is a call to the Hyrax stats JS that requires the hyrax JS be included in our assets. If this isn't included explicitly there is JS error that breaks turbolinks in the admin UI and subsequent JS features break in the admin UI. This includes some additional checks in the system specs to try to catch this in the future. Connected to #1883 Connected to #1881

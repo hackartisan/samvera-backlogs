@@ -1,0 +1,2 @@
+vendor images
+All the kool kids are using .scss

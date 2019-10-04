@@ -1,0 +1,2 @@
+People search label and placeholder text
+Fixes #407 Add Hyrax override to change label and placeholder text for people search. Changes proposed in this pull request:  add view partial override app/views/hyrax/users/_search_form.html.erb add i18n translation for 'People Search' Add spec test

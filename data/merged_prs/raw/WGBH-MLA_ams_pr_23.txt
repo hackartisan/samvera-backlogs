@@ -1,0 +1,2 @@
+AMS2-58: Sets up Amazon SES for Production
+Closes AMS2-58.

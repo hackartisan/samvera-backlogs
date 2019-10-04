@@ -1,0 +1,4 @@
+Make Form of Work controlled
+Remediate Form of Work strings to URIs. UO only work in Artist's Books collection
+Also Western waters 
+See DigitalProjects/Metadata/OD2_Remediation for URIs to use.

@@ -1,0 +1,1 @@
+DLTP-329 Update TOS styles and placeholder description.

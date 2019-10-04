@@ -1,0 +1,2 @@
+Add rake task and background job to re-run characterization
+Fixes #536

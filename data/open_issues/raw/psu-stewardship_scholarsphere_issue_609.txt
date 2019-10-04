@@ -1,0 +1,3 @@
+Write Help/FAQ for ScholarSphere
+Rewrite help files for ScholarSphere 3.0. Waiting until release or near release to do so.
+Duplicate of #337?

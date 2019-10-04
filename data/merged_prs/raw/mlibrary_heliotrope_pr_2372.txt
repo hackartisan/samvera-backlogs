@@ -1,0 +1,2 @@
+add back in accidental removal
+fixes issue with gabii's ereader not loading.

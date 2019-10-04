@@ -1,0 +1,2 @@
+Order of Collection Metadata to Match Work Show Page
+Reorders the metadata fields to match the order of the attribute rows from the work show partial. You can use the attribute rows as a list for guidance. Fixes #1016 https://github.com/psu-stewardship/scholarsphere/blob/develop/app/views/curation_concerns/base/_attribute_rows.html.erb

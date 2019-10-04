@@ -1,0 +1,2 @@
+added profile description as per dan zellners request
+fixes https://github.com/nulib/next-generation-repository/issues/494

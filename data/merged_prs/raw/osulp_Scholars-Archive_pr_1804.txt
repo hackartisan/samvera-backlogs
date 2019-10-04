@@ -1,0 +1,2 @@
+bugfix for browseeverything to load without depending on turbolinks
+fixes #1802

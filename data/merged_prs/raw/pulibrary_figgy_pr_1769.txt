@@ -1,0 +1,2 @@
+Implements the `bulk:link_invalid_thumbnails` Rake task for linking resources with invalid thumbnail IDs
+Resolves #1732 by addressing the following:  Implements the bulk:link_invalid_thumbnails Rake task for linking resource thumbnails (where the IDs are corrupted) Implements the FindInvalidThumbnailResources query in order to find resources with these invalid thumbnail IDs

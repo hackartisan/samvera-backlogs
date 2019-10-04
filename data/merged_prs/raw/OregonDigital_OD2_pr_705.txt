@@ -1,0 +1,2 @@
+Remove masonry and slideshow views from search
+Fixes #679

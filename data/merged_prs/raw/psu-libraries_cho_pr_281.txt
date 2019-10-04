@@ -1,0 +1,2 @@
+Enable deleting works from the UI
+Provides the standard Rails delete link to remove a work object from the system. This will delete it from both Solr and Postgres.

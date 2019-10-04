@@ -1,0 +1,2 @@
+fixes search
+Fixes #1673 Fixes #1672

@@ -1,0 +1,2 @@
+Flesh out localstack integration
+Add sqsd for async jobs Move RuboCop's target ruby version to allow use of the safe navigation operator (&.)

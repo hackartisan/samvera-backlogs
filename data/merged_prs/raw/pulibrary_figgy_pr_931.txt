@@ -1,0 +1,2 @@
+Add processing note for scanned map images
+Add processing note property to file metadata. Creates characterization service to add boilerplate text into the field for scanned map original files. Makes the existing x_resolution, y_resolution, and bits_per_sample properties visible in the file set view.  Closes #930

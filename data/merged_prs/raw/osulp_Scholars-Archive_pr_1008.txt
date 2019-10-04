@@ -1,0 +1,1 @@
+uses proper solr field for identifying the model of a work

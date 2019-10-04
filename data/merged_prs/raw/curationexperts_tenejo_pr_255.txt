@@ -1,0 +1,2 @@
+Upgrade ruby to 2.6.3
+This will match our latest standard build, and the expectations of the Ubuntu 18.04 systems tenejo will run on. Connected to curationexperts/in-house#315

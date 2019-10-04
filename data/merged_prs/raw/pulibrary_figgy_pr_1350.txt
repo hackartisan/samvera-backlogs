@@ -1,0 +1,2 @@
+Ensures that the `ManifestBuilder::ThumbnailBuilder#file_set` handles cases where `ManifestBuilder::RootNode#file_set_presenters` returns empty Arrays
+Resolves #1322

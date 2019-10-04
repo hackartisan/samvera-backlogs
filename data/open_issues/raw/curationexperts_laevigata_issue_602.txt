@@ -1,0 +1,2 @@
+Fixity failures notification
+Right now we run a fixity check job weekly, but we do not have a notification system in place to tell us that the job has run and to report any errors it found.   Send notifications when the job has run  Send specific notifications for any fixity failures it enountered

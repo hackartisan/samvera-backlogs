@@ -1,0 +1,2 @@
+New home page text
+Closes #759

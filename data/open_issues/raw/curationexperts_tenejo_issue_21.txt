@@ -1,0 +1,2 @@
+Add text to contact form
+Need to add text to make this less ambiguous for prospective clients. It might read something like: This is the default contact form for our demo repository. If you are interested in more information about Tenejo, please contact us at contact@curationexperts.com.

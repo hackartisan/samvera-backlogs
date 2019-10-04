@@ -1,0 +1,2 @@
+Display error if there are duplicate headers in CSV
+Connected to #112

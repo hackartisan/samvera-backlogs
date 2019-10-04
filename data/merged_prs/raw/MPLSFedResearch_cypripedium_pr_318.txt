@@ -1,0 +1,2 @@
+Restart sidekiq and apache on deploy
+Use system services to restart sidekiq and apache each time the application is deployed with capistrano. Connected to #283 Connected to #284

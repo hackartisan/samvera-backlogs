@@ -1,0 +1,2 @@
+Updating UI Labels On-the-Fly
+As the CHO repository manager, I would like to update UI labels on the fly, So that I can make textual changes to UI elements on my own, without needing to depend on developers. Using the i18n cho.yml file as we do now requires redeploying the application. As CHO matures, it may not always have developers allocated.

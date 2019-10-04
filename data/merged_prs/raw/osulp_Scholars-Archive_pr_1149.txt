@@ -1,0 +1,2 @@
+Fix spelling
+Fix degree name spelling that @simholt caught

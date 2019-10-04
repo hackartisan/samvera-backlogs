@@ -1,0 +1,2 @@
+fix to master build
+rspec double for presenter needed to respond to :id message

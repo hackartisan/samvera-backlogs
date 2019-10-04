@@ -1,0 +1,1 @@
+Add ArchivalMediaCollection, resolves #1076

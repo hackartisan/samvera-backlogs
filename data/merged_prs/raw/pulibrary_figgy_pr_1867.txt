@@ -1,0 +1,2 @@
+Add rights statement validator and use in all relevant change sets
+resolves #1866

@@ -1,0 +1,2 @@
+Block full sized downloads from IIIF server
+We want a simple block of full sized images from the IIIF image server.   Confirm full-sized images cannot be downloaded from IIIF server

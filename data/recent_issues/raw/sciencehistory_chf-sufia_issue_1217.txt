@@ -1,0 +1,2 @@
+New dropdown label for 'Creator' field
+Label: "Attributed to" - alphabetical order like existing labels, so after "Artist."

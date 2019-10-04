@@ -1,0 +1,2 @@
+Added bixby gem with bundle update
+Fixes #166 Present short summary (50 characters or less)  Added Bixby gem and had to run bundle update after. Also ran  rubocop --auto-correct  Cleaned up .rubocop.yml file. Got rid of cops, already included in bixby.

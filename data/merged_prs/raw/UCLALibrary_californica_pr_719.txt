@@ -1,0 +1,2 @@
+Add ingest duration to csv rows to record ingest time per row
+https://jira.library.ucla.edu/browse/CAL-752  modified:   .rubocop.yml modified:   app/jobs/csv_row_import_job.rb modified:   app/views/csv_imports/show.html.erb new file:   db/migrate/20190830171825_add_ingest_duration_to_csv_row.rb modified:   db/schema.rb modified:   spec/system/import_from_csv_spec.rb

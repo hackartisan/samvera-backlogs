@@ -1,0 +1,2 @@
+Get search results based on list of IDs
+Description: As a user, I can paste a list of IDs into a box on the page where I can push data from AMS to AAPB. Done when:   there is a box for users to paste ids  the user gets a message if they paste invalidly formatted ids

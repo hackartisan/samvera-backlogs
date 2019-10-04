@@ -1,0 +1,2 @@
+Local fixity should check preservation master files
+Fixity checking currently uses the FileSet#run_fixity method, which delegates to the original_file.  This is fine for most resources, but resources with a PreservationMasterFile should check that in addition to the original file.

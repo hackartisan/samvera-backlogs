@@ -1,0 +1,2 @@
+Improve Solr Indexing of Dates
+There are two solr fields for each date field in the metadata schema. A text-based Valkyrie field and a date-based Solr field. The Valkyrie field should be used for display purposes only and not indexed. The Solr field should be hidden from display and indexed. Enhancement to #267

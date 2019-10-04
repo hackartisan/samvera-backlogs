@@ -1,0 +1,2 @@
+Dltp 705 integrate curate nd help request
+Claiming issue DLTP-705 @26d13eb06141ce0297165a7219e88c412df3c5a9 $ ./script/start-issue DLTP-705 [skip ci] Correct recipients logic @377514d9490b3b28f06afe1bbae6c9d8ab0a453c Move code around to get rid of places where "default" email addresses were being used due to logic flaws. Add service now email address as second "to" email @16bf941eedbfa299b7d15701b8603d25a11a7b8a Closing issue DLTP-705 @6e994a83800323bc565711cbb2ec92d2ae00e8dc $ ./script/close-issue DLTP-705

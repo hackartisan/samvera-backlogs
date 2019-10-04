@@ -1,0 +1,2 @@
+Get OAI-PMH feed to include thumbs that don't content-disposition force download
+Per PA Digital request. We still want to send the "download-medium" size one, which is a nice size, same one we use for fb share. Had to muck about with our homegrown API for images which has grown confusing and ill-suited for our actual needs, it turns out. Sufia lacked suitable APIs so we had to do something, sorry about the spaghetti. Failing on travis because of downloading-solr problem. Confirmed test suite passes locally.

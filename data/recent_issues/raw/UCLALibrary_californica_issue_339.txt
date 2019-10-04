@@ -1,0 +1,2 @@
+ingest log should report the number of records that were actually created
+Upgrade darlingtonia to 3.x ￼… This gives us:  improved logging, including summary success/failure at the end of each import the ability to attach works to collections at ingest time the ability to track imports by batch number, which will be increasingly important as we scale the number of concurrent imports  Currently the ingest.log shows how many records were processed, and how many were expected, which is helpful... however, we also need to know how many records were actually created.

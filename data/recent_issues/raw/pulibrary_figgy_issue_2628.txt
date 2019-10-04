@@ -1,0 +1,2 @@
+Users should be able to mark a resource as non-downloadable
+This will let them see the synced resource and go through the viewer, but not download a PDF, images, or anything else. Should disable the download frame in UV.

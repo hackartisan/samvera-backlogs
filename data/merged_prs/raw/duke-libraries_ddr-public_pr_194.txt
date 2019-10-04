@@ -1,0 +1,1 @@
+Hide paging links on show pages and show the license info for all document types

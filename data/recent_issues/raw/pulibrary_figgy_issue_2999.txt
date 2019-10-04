@@ -1,0 +1,2 @@
+Running Pulfa ARK reports without a date raises an exception
+Backtrace line 23 of [PROJECT_ROOT]/config/initializers/sequel_active_support_notification.rb: block in log_connection_yield line 17 of [PROJECT_ROOT]/config/initializers/sequel_active_support_notification.rb: log_connection_yield line 10 of [PROJECT_ROOT]/app/queries/updated_archival_resources.rb: run_query  View full backtrace and more info at honeybadger.io

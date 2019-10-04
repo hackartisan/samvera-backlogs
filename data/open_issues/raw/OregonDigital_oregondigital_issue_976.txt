@@ -1,0 +1,3 @@
+Admin destroyed page fails
+http://oregondigital.org/destroyed breaks with an HTTP500 standard error
+Since this was something I kept just putting off...  https://github.com/OregonDigital/oregondigital/blob/master/config/routes.rb#L51 You just need this duplicated, but for the destroyed controller. 

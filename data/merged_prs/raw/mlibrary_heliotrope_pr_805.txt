@@ -1,0 +1,1 @@
+Resolves #799, add tests for press catalog page links

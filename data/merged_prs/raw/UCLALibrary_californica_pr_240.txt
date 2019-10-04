@@ -1,0 +1,2 @@
+Hard code a language value for the LADNN collection
+Connects UCLALibrary/amalgamated-samvera#48

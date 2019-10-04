@@ -1,0 +1,1 @@
+Don't load the whole object into memory when fetching

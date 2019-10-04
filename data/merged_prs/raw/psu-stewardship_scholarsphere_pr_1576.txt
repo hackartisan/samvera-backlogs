@@ -1,0 +1,2 @@
+Updating to Ruby 2.6.3
+Summary Updates the application's Ruby version to 2.6.3. Includes some changes to tests and Capistrano. Changes Cloud providers test now uses Box Dropbox is no longer supported and the Ruby update was breaking this test. Instead of fixing a test for an unsupported endpoint, the test was updated to work against Box. Override rbenv_install Installs the version of bundler used in the application. Related See #1577

@@ -1,0 +1,2 @@
+Translate `FileSet#visibility`
+Various callers attempt to set FileSet#visilibity to match a parent work on update or other actions; especially they call FileSetActor#update_metadata. Since we have extended Etd#visibility with a translator, we want to do the same for FileSet, translating the special Etd values to ones that are valid on the FileSet. Specifically, we translate all the Work embargo values to "restricted" for FileSets. Fixes #1791.

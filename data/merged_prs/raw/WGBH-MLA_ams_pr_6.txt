@@ -1,0 +1,2 @@
+Adds FactoryBot
+Adds factory_bot gem to the bundle, and makes it available in tests. Adds a basic User factory.

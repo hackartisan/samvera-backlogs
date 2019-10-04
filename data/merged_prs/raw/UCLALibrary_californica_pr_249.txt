@@ -1,0 +1,2 @@
+Add an admin email
+Make admin email configurable by environmental variable too. Connected to: #45

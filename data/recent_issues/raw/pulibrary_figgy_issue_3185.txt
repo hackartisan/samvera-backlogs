@@ -1,0 +1,2 @@
+Update message when there are no coins attached
+It should display Click Attach Coin

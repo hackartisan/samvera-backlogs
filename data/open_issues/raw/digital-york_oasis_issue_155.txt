@@ -1,0 +1,2 @@
+System needed for uploader to select whether to receive notifications for their summary(ies)
+Uploader should have the option to receive notifications for the summaries they have uploaded (I would like to receive alerts. Yes / No). This should be linked to the terms and conditions the user agrees to when they sign up to the OASIS website.

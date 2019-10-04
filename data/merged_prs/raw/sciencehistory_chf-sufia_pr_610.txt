@@ -1,0 +1,2 @@
+Add 'beta' to header
+fixes #597

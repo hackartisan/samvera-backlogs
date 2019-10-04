@@ -1,0 +1,2 @@
+Get the file size ditribution
+What are the current File size distribution in the system currently. Then update the performance test to use these file sizes. ?Or use random files from the system?

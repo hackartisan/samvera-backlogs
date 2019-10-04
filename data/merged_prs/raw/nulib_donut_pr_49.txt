@@ -1,0 +1,2 @@
+Fix deprecations#46
+Fixes #46 There's still one more deprecation warning that we'll need to get rid of in #48, but that's not part of this PR

@@ -1,0 +1,2 @@
+Find or build a tool to hand-correct OCR
+I have received corrections of the OCR from some users, and heard about situations where some content will be transcribed.  We should have the ability to manually update OCR in some way, and then prevent those updates from getting overwritten by automatic processes. Also, it seems like there could be existing third-party tools for viewing images and the overlaid OCR and correcting it.  If there are tools for doing this, it seems like figuring out how to integrate them would be the best way to do this. Related to #2705

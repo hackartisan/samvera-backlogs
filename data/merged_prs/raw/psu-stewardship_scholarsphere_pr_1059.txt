@@ -1,0 +1,2 @@
+Allow missing given names in AliasManagementService
+If no given name is provided, a new record will be created using only the surname. Searching for a nil given name returns only records without that given name present, avoiding the issue of two existing persons with the same surname, but one with a missing given name.

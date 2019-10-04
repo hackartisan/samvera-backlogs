@@ -1,0 +1,2 @@
+Allow files to be attached to Numismatic Monograms
+Backtrace line 25 of [PROJECT_ROOT]/app/graphql/types/resource.rb: resolve_type line 20 of [PROJECT_ROOT]/app/controllers/graphql_controller.rb: block in execute line 114 of [PROJECT_ROOT]/app/change_set_persisters/change_set_persister.rb: block (2 levels) in buffer_into_index  View full backtrace and more info at honeybadger.io

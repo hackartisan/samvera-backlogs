@@ -1,0 +1,2 @@
+Added subfix to the facet titles for scientific name and common name. DHH-804
+https://lib-jira.ucsd.edu:8443/browse/DHH-804

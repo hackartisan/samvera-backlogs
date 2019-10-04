@@ -1,0 +1,2 @@
+Mgmt: Facets
+The following facets display for a search: in Californica   Subject  Resource Type  Genre  Name (Subject)  Location  Normalized Date  Extent  Medium  Dimensions  Language

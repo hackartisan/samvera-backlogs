@@ -1,0 +1,2 @@
+Numismatics issue artist table needs to be included in coin models
+The table includes the fields person, signature, role, side and describes info about the issue artist

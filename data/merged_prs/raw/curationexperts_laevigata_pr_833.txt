@@ -1,0 +1,1 @@
+Added some text to the PDF and supplementary files tabs to warn students that for now they need to contact an admin if they want to delete or update a file.  Stories #831 and #832.

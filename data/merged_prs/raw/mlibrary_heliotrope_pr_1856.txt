@@ -1,0 +1,2 @@
+HELIO-1376 COUNTER report stats gathering
+I believe this will gather the stats we need for HELIO-1800, https://tools.lib.umich.edu/jira/browse/HELIO-1376?focusedCommentId=898167&page=com.atlassian.jira.plugin.system.issuetabpanels%3Acomment-tabpanel#comment-898167

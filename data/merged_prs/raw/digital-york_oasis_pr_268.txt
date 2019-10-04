@@ -1,0 +1,2 @@
+add notes field to summary details page
+Add notes field to summary show page. Resolves #255

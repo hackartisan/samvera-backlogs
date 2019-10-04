@@ -1,0 +1,2 @@
+Add artifact to resource types
+Closes #585

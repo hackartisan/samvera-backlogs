@@ -1,0 +1,2 @@
+Set Mailboxer from address via env
+Sets Mailboxer from address from env var. Should fix #297, but we'll see if this is the issue. fixes #297

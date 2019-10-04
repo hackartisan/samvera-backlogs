@@ -1,0 +1,2 @@
+Resolves HELIO-2270: Add the ability to create and delete policies.
+For platform admins that is.

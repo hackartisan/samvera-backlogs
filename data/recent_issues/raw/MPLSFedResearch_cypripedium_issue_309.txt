@@ -1,0 +1,2 @@
+Build code against latest fedora and solr
+CI builds against fedora 4.7.5  CI builds against latest solr  Child of #298

@@ -1,0 +1,2 @@
+Removes Series collection override
+Removes Series collection type. Removes Series collection type and related code.  Closes #348. NOTE: There was an intermittent failure locally on ./spec/features/search_by_dates_spec.rb:145, but passed when run in isolation. Sending to Travis to see what's up. If we could get @foglabs and/or @jasoncorum to review the code, and @sroosa to review the screen shots.. that would be super! Thanks!

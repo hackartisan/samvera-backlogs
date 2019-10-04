@@ -1,0 +1,2 @@
+Adds QA and autocomplete for collection metadata form
+Closes #266

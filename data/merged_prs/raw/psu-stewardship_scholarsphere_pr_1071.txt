@@ -1,0 +1,2 @@
+audit_files script
+Used to query Solr for checksums, and then search for those checksums as the files in Modeshape's storage layer. This can tell us if files are missing from Fedora's binary store. Fixes #1070

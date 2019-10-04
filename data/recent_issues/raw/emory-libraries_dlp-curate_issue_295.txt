@@ -1,0 +1,2 @@
+Create a larger file upload space 
+Establish a large enough temp/scratch space for uploaded files, for both manual file uploads through the form and the for DCE's bulk ingest method. Determine options See #204 for acceptance criteria

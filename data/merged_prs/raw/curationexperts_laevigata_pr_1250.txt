@@ -1,0 +1,2 @@
+Rake task to fix collections with bad (missing translation) labels
+Connected to #1167 Obviously we would rather fix this upstream in Hyrax, but in the meantime we need a local fix. Upstream Hyrax bug at samvera/hyrax#3136 Tested in production mode on staging-upgrade-etd. See https://staging-upgrade-etd.emory.edu/dashboard/collections?locale=en

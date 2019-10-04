@@ -1,0 +1,2 @@
+Put unorganized barcodes into its own resource with a title
+Necessary pre-requisite for automatic re-ordering of resources based on EAD. Closes #3158

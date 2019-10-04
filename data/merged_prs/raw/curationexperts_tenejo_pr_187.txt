@@ -1,0 +1,2 @@
+Validate resource types in CSV file. Story #181
+Connected to #181

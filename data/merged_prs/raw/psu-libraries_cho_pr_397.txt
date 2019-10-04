@@ -1,0 +1,2 @@
+Using Work::Form to change the form based on type
+Description References ticket: #376 This allows the form to display differently based on the work type.  Each Work Type includes a metadata schema, which defines the fields and their order for display.  This PR modifies the code to use that data. Changes  Adds Work::Form class Create Form Class in Controller Modify views to use Form  Are there any major changes in this PR that will change the release process? no Checklist   i18n enabled  adequate test coverage  accessible interface

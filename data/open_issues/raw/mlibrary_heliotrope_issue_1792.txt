@@ -1,0 +1,2 @@
+Remove timecodes from transcript display of WebVTT
+As a screen reader user, the insertion of timecodes into the transcript field is confusing, overwhelming and not useful information to me. I'd like to hear the transcript read to me without the timecodes. There are a few options available here:  Revisit using Ableplayer's transcript display for WebVTT files. Modify the Transcript field as the page loads, converting it to plain text and removing the timecodes. Manually remove timecodes from videos that have WebVTT pasted into the Transcript field.

@@ -1,0 +1,2 @@
+Fix Search Results and Facets
+This PR is for fixing and updating the search functionality. Some facets are still showing up as uris, some search fields arent working, and some search results still show up as uris.

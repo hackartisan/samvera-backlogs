@@ -1,0 +1,2 @@
+Set application name to the Tenejo product name
+Hyrax had hard coded this to hyrax.product_name which is used to represent the Hyrax project elsewhere in the application (e.g. it is displayed alongside the Hyrax version number).

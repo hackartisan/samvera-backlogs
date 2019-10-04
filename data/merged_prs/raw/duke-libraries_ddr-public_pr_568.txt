@@ -1,0 +1,1 @@
+Add rights field to DPLA feed sample configuration file

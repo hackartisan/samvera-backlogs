@@ -1,0 +1,2 @@
+Solr improvment
+eliminates the solr-cloud and configuration zip file upload process.. this creates the core if it doesn't exist. Note: This means you likely have to delete your docker volumes and re-register yourself and do the application setup process to get solr reindexed with everything

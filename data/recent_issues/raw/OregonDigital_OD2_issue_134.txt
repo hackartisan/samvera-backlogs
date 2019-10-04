@@ -1,0 +1,2 @@
+On Edit of work, display thumbnail of work on form
+Descriptive summary When editing a work, display the thumbnail of the work on the Edit form, for easy reference. This will aid in review and metadata cleanup or enhancement. Expected behavior When Editing a work, display the thumbnail of the work.

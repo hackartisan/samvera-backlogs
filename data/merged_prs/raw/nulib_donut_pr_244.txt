@@ -1,0 +1,2 @@
+fix comma first character in data row bug
+Replaces ^ with \A  The ^ seems to remove problem characters at the start of all lines, using \A just removes from the start of the file.  This is causing a problem if the first property in a data row is blank (like a blank accession number) which means the first character in that row is a comma, which is removed and then the data row is off.

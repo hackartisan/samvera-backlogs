@@ -1,0 +1,2 @@
+Create fileset tombstones
+fixes #3309

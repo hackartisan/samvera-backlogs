@@ -1,0 +1,2 @@
+Batch Download Plain Text
+As a PhD student in English who is learning digital humanities, I need to download a group of textual objects (in plain text) So that I can learn how to clean up a corpus. John R. Dependent on #91

@@ -1,0 +1,2 @@
+Fixing typo w/ description sanitizer
+'==' != '='

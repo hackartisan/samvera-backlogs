@@ -1,0 +1,2 @@
+Fix for final submission button not showing up
+Closes #1470

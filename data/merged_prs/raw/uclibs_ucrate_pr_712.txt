@@ -1,0 +1,2 @@
+Explicitly state what a DOI is.
+Fixes #708 ; We now write out "Digital Object Identifier" on the edit and show page for increased clarity and accessibility.

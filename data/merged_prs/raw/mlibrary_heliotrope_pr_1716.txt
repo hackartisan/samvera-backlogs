@@ -1,0 +1,1 @@
+Resolves #1710: Session not terminated on logout.

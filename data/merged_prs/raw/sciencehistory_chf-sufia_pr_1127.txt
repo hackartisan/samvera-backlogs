@@ -1,0 +1,2 @@
+Add "age of alchemy" exhibition
+Fixes #1118. This looks pretty simple; let me know if I'm missing anything.

@@ -1,0 +1,2 @@
+adds staging environment, updates gemfile lock for honeycomb
+adds the missing Gemfile.lock for honeycomb adds a 'staging' environment

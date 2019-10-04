@@ -1,0 +1,2 @@
+Pin bundler < 2.0
+Descriptive summary Bundler 2.x seems to have problems with our application. Pin bundler in the Gemfile to '~> 1.17'

@@ -1,0 +1,2 @@
+Log file characterization failures CAL-406
+Add a custom error for corrupt files Run FITS on travis

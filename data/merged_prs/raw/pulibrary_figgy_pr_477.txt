@@ -1,0 +1,2 @@
+Ensures that ChangeSet validation errors are rendered on resource edit forms
+Resolves #440 by ensuring that ChangeSet validations are propagated from the Controller for cases where resources have already been persisted with invalid data

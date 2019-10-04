@@ -1,0 +1,2 @@
+Add fields to all_search per DDR-312
+https://duldev.atlassian.net/browse/DDR-312

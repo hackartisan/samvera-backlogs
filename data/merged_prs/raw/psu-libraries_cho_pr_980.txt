@@ -1,0 +1,2 @@
+Add fits characterization to preservation files
+Description Adds the FITs characterization output to Files and persists it. Works for CSV imports as well as GUI uploads. This commit also moves the fits mocking for travis into a spec support file for easy inclusion into any spec. Connected to #620 Changes  operations:file:save adds fits characterization to the file if a preservation file operations:import:work adds fits characterizations to any preservation preservation file mocking fits for travis moved into its own spec support file

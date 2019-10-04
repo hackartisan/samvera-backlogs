@@ -1,0 +1,2 @@
+Allow edit form to change embargoes
+This commit adds the neccessary changes to allow the edit form to change embargoes. The update method in the JS was changed to use XHR instead of axios, because axios was unable to handle the 302 response that occurs during the process. The etds controller has a private method that sets the correct attributes on the etd. This commit also removes the start over button from the edit screen. Connected to #1554 Connected to #1447 Connected to #1595 Connected to #1631

@@ -1,0 +1,2 @@
+taking adam weads fix from aic
+their issue: samvera/hydra-role-management#21 the file at the commit: https://github.com/aic-collections/aicdams-lakeshore/blob/f1b543c9e6a47bcb6529824335ad00305a5b00b5/app/views/roles/edit.html.erb and it works locally too. Fixes nulib/next-generation-repository#467

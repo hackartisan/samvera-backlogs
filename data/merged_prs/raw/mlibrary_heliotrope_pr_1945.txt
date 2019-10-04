@@ -1,0 +1,2 @@
+more sort normalization
+Resolves #1959

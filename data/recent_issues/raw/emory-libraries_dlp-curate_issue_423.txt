@@ -1,0 +1,2 @@
+Move additional files show action work from file_set controller to file_set presenter
+Add properties to file_set indexer for assigning file_name and date  Add to presenter  Add to solr_doc model for mapping

@@ -1,0 +1,2 @@
+Issue 67 full text search bug
+fixed #67 full text search problem for both text fields and authority linked fields

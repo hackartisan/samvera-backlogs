@@ -1,0 +1,2 @@
+move image into od
+use image (for circleci) that's now stashed in the OD docker hub

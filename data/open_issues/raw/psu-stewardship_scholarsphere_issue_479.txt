@@ -1,0 +1,2 @@
+Unit (College and Campus) stats for admin
+This seems institution specific so putting this in ScholarSphere instead of Sufia. As an admin I would like to be able to view the number of users in a particular college/campus so that I can report which units have high (or low) usage for more specified communications.

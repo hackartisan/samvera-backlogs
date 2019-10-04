@@ -1,0 +1,2 @@
+Superusers need to be in the approving role
+Superusers need to be in the approving role in order to participate in the approval workflow

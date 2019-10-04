@@ -1,0 +1,2 @@
+Adding badge for Waffle.io
+This way we can make it clear that we use Waffle.io to prioritize issues.

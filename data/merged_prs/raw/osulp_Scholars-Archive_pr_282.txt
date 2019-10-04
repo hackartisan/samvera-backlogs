@@ -1,0 +1,2 @@
+Revert "use preferred_label if possible for uri"
+Reverts #266

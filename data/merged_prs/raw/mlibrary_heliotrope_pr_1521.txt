@@ -1,0 +1,1 @@
+Resolves #1394, add additional tabs to monograph_catalog page

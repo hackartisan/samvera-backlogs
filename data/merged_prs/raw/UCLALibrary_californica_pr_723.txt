@@ -1,0 +1,2 @@
+configure rspec to persist failures
+this enables it to be run with the --only-failures and --next-failure flags.

@@ -1,0 +1,2 @@
+Playlist structure orders unnested ranges wrong
+Can be seen in a version of https://figgy.princeton.edu/catalog/128f34e9-af1f-4e65-977b-303c573b41d9. Basically if you have "A -> [[B -> C], D]", then D will show up before B and C in the viewer.

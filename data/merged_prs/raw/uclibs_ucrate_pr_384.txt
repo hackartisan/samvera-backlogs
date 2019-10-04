@@ -1,0 +1,2 @@
+Port over license values from Scholar 3
+Fixes #366 Update config/authorities/license.yml with license values from Scholar 3.

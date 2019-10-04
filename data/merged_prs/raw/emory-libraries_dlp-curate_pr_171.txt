@@ -1,0 +1,2 @@
+Adds ability to autocomplete form properties
+This commit adds autocomplete for some of the metadata properties in the form using external controlled vocabs. Closes #137 Closes #139

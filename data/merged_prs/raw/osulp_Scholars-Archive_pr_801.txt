@@ -1,0 +1,2 @@
+Fixes Work select modal to align and be 2 columns
+Fixes #632

@@ -1,0 +1,2 @@
+Enable batch edit with Alias resources
+When changing our forms to use Alias objects instead of Agents, the batch edit form wasn't update to account for the newly added fields. This updates the batch edit feature test to check that creators can be removed and added.

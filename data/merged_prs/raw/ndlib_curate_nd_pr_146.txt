@@ -1,0 +1,2 @@
+Adding method for file size
+The file size related message was rendered in 3 different partials in Curate. This is an effort to normalize that rendering.

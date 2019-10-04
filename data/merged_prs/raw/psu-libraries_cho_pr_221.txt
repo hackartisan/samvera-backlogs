@@ -1,0 +1,2 @@
+Clean up Gemfile; only use NewRelic in production
+Puts New Relic in production only, so we don't run into problems locally, then configures Travis to run our CI build and check for Rubocop violations; lastly, fix the outstanding violations! 🚓

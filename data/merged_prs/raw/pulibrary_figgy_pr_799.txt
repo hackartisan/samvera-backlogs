@@ -1,0 +1,2 @@
+Add fixity fields to file_metadata, fixity check job
+resolves #142

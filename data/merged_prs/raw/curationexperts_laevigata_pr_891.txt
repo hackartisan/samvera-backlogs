@@ -1,0 +1,2 @@
+Do not replace production.rb with the version on the server
+Updating staging and prod to work the same way qa does.

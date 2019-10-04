@@ -1,0 +1,2 @@
+use dct:license for license
+closes #86

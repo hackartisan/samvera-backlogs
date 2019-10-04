@@ -1,0 +1,2 @@
+Add an Orangelight event generator for RabbitMQ
+First use case is for syncing numismatics coins to Orangelight.

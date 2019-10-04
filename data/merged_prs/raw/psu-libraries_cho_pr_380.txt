@@ -1,0 +1,2 @@
+PR template
+This is a template that would we used each time we open an new PR. It should help us to remember what we need to cover and remind us to make any new documentation if needed.

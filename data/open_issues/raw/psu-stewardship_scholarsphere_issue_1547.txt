@@ -1,0 +1,2 @@
+DOI for collection fails
+When adding a DOI to a collection or creating one with a doi the creation fails. We are getting an unauthorized  back from datacite, but that is not a correct error since we are able to create dois for works.  I'm guessing the Collection is not passing the information needed by DataCite.  For example resource type.

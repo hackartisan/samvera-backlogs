@@ -1,0 +1,2 @@
+Show page is querying for all members, slowing it down
+Introduced by afdc8ac#diff-b647b5ae8725900abd4a96e6c2ea8365R1

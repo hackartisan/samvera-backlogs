@@ -1,0 +1,2 @@
+Add support for HLS
+What advantages does it have over just handing off to Nginx? How hard is it to support?  Child of #1986

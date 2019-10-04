@@ -1,0 +1,2 @@
+Configure Shibboleth for Curate
+Discussed in 12/12 release planning meeting for 0.1   Install Shibb SP on Hyrax  app server  Configure and test for access to Shibb (Emory QA)

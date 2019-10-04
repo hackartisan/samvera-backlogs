@@ -1,0 +1,2 @@
+Create zoom tiles for San Diego History object
+Descriptive summary  Zoom tiles were created for the recto of object bb3792566m but not for the verso. Please create them for /zoom/1

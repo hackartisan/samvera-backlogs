@@ -1,0 +1,2 @@
+Initial Bag Exporter/Importer
+I think the only thing this is missing is:  Evaluating if we want to generate proper JSON-LD. Payload-Oxum and Bag-Size in bag-info.txt

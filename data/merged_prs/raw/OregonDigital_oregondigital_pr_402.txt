@@ -1,0 +1,2 @@
+Fixes auto-complete for AF::Base objects
+This fixes auto-complete for sets in particular. Closes #401

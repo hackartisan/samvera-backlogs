@@ -1,0 +1,2 @@
+Webserver running on lib-proc machines
+Backtrace line 35 of [PROJECT_ROOT]/app/views/layouts/application.html.erb: _app_views_layouts_application_html_erb___4572818897954578471_55345740  View full backtrace and more info at honeybadger.io

@@ -1,0 +1,2 @@
+no recursive representative presenter search for sections, see #537
+Fixes #537

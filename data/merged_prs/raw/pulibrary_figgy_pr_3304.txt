@@ -1,0 +1,2 @@
+Change "Slug" label to "DPUL URL" on collection form
+fixes #3280

@@ -1,0 +1,2 @@
+Define an external IIIF service
+Optionally specify an external IIIF service in Rails.config. If an external service is defined, use it when indexing iiif manifests and image urls for open seadragon display. Leave RIIIF routing in place for local development and ease of transition. Closes curationexperts#56

@@ -1,0 +1,2 @@
+Implements PDFGenerator::Canvas#validate! to validate IIIF Manifest structure
+Resolves #1662

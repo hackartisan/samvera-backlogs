@@ -1,0 +1,2 @@
+fixes in-place migration to use AF::Base
+Doesn't try to operate in the same context as the work type that is set by the controller, the migration code doesn't have anything that cares about work-type in this regard. So, in-place migration just queries the work, does the migration if necessary, and gets out of the way for the controller to do what it would naturally do.

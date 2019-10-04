@@ -1,0 +1,2 @@
+add noid-rails initializer
+adds an initializer to set up a lambda to check if a noid is currently in use

@@ -1,0 +1,1 @@
+Renaming the search label and updating the specs. DHH-504

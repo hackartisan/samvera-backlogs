@@ -1,0 +1,2 @@
+upgrade active-fedora, solr_wrapper, and fcrepo_wrapper
+Generating active-fedora's new config files and modifying our yml files to point to those instances

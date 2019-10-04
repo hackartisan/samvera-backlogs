@@ -1,0 +1,2 @@
+Assess PDF accessibility and preservation issues
+When ingesting born-digital PDFs, we should make sure they are accessible and acceptable for preservation.

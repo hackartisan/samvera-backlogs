@@ -1,0 +1,2 @@
+HELIO-2238 - add post about Editoria
+Resolves HELIO-2238 Adds blog post about Editoria collaboration.

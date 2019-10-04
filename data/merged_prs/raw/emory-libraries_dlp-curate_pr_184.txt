@@ -1,0 +1,2 @@
+Adds ability to save custom terms for fields that use external vocabs
+Closes #177

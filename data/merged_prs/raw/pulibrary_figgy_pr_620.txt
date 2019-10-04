@@ -1,0 +1,2 @@
+Update Valkyrie for orm_resources index.
+Closes #619.

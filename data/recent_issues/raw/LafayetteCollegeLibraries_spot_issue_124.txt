@@ -1,0 +1,2 @@
+mapper metadata profile audit
+it occurred to me that i missed the notes field being migrated to description in the shakespeare mapper (and magazine i think?) so an across-the-board audit would be a good idea

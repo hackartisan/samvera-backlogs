@@ -1,0 +1,2 @@
+For Featured Works and Recent Documents on homepage, change Depositor to Creator
+Limited display of creators and subjects to 5. Also changed labels to singular form to match the attribute display on a work show page. Related to #1012 Featured Works:  Recently Uploaded:

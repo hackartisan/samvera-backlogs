@@ -1,0 +1,2 @@
+User Groups
+CHO needs the ability to manage user by groups for providing access collections/works, mediation, and other management activities.

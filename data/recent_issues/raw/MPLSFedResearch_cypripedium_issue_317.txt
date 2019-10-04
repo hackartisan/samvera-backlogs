@@ -1,0 +1,2 @@
+Make an AMI with a separate /opt
+The servers we ultimately build should have a separate /opt volume mounted, and we should have an AMI that has that pre-configured. Required by #298

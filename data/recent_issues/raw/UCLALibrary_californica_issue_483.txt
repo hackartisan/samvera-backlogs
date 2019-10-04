@@ -1,0 +1,2 @@
+Mount entire `masters` volume to /opt/data
+Acceptance criteria:  The entire netapp masters volume is mounted (read-only!) at /opt/data/masters (or similar) for each environment:   dev  test  stage  prod    Delete previously copied master images from /opt/data (same volume is mounted to all environments) Documentation is edited to reflect the change in IMPORT_FILE_PATH   Californica readme / wiki?  Whatever was produced here #361?  ?

@@ -1,0 +1,2 @@
+Feature/facet redirect
+Closes #17

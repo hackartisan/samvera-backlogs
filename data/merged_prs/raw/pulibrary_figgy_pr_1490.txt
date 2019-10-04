@@ -1,0 +1,2 @@
+Improve bbox widget and re-add coverage to scanned map edit page
+Closes #215

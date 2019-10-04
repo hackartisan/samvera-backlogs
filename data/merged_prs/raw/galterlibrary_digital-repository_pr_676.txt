@@ -1,0 +1,2 @@
+[#670] Institutionalize Department of Psychiatry and Behavioral Sciences
+Add sub collections   Department Events  Conferences Commencement Grand Rounds Scholars Day    Newsletters   Closes #670

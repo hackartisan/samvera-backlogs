@@ -1,0 +1,2 @@
+Remove geoportal ingest
+We don't need it anymore.

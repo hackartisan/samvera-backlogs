@@ -1,0 +1,2 @@
+Controlled Vocabulary API
+API endpoint for controlled vocabulary within Hyacinth Permissions are required to use this endpoint URI Service credentials have to be added to the hyacinth.yml file  Note: This pull request is missing tests for the controlled vocabulary endpoint

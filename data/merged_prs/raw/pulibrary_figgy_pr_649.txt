@@ -1,0 +1,2 @@
+Queue jobs for PlumImporter after transaction.
+Closes #644.

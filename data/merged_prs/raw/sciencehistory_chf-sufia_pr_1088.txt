@@ -1,0 +1,2 @@
+Don't throw a 500 error when there are no fixity checks in the database.
+No need to cause unnecessary panic. Fixes #1089.

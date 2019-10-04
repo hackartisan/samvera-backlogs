@@ -1,0 +1,2 @@
+Use IIIF URLs that won't depend on Hyrax / Fedora
+For full-size images, changes the identifiers used in IIIF manifests. Using the old identifiers, cantaloupe would retreive master images from Fedora. With the new format, cantaloupe will retreive them directly from its FilesystemSource. For thumbnails, alters catalog_controller to use thumbnail_url_ss (which has been populated with cantaloupe urls) instead of thumbnail_path_ss (which have local paths, requiring hyrax to have thumbnail images on its local filesystem).

@@ -1,0 +1,2 @@
+Update ddr-public to use ddr-models 2.4.0 and related changes.
+This is some setup so that I can make a hotfix to ddr-models that adds subject and contributor as facets. You will need to run bundle install in ddr-public. And you will likely need to also update your local version of dul-hydra to use ddr-models 2.4.0. In your dul-hydra Gemfile make the following changes: Update the version of gem 'ddr-batch', '1.0.1' to '1.0.2' Update the version of gem 'ddr-models', '2.3.1' (or whatever) to '2.4.0' Run bundle install Then restart jetty

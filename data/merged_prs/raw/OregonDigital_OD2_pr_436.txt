@@ -1,0 +1,2 @@
+Location rdf_label fetch fix
+Fixes #392 Fixes #323 This may not be the exact format we're looking to present location labels, but it fixes the recursion and validation issues.

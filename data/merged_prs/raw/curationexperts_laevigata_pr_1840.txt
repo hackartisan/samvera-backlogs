@@ -1,0 +1,2 @@
+Enable user email visibility for approvers on the record view page.
+From Fran: "As a School Approver/ADAP, I want to be able to see the Student/Alum's non-Emory email address, so I can contact them after their Emory email address is disable."

@@ -1,0 +1,2 @@
+Upgrade bootstrap-sass to fix vulnerability
+Fixes https://blog.getbootstrap.com/2019/02/13/bootstrap-4-3-1-and-3-4-1/

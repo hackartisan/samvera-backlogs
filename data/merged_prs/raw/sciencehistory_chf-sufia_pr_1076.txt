@@ -1,0 +1,2 @@
+browse-everything support
+With extensive refactoring of actor/jobs stuff for ingest that turned out kind of neccesary to make it work right. :( Closes #1021

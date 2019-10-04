@@ -1,0 +1,2 @@
+Add subfield `q` to cicognara marc 856 manifest links
+this is a new requirement that we just found out about; it's now documented on https://cicognara.org/checklist

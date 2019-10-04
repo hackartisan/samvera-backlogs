@@ -1,0 +1,1 @@
+HELIO-1884 EPUB TOC links on Monograph Catalog are not working

@@ -1,0 +1,2 @@
+The thumbnail partial also makes a link
+Also removes a hardcoded pid from the view.

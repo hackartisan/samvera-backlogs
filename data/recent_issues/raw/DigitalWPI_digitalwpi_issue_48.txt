@@ -1,0 +1,2 @@
+Research capistrano for deployment
+Research setting up capistrano for deploying our application. blocks #2

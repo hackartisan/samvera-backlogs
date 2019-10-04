@@ -1,0 +1,2 @@
+Remove nightly reingest
+The nightly re-ingest isn't working and it doesn't seem worthwhile to spend more time on it right now. Instead, let's do a re-ingest manually when it's warranted. Connected to #238

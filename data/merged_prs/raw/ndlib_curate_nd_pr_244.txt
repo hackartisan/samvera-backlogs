@@ -1,0 +1,2 @@
+Lightbox for show page thumbnails
+Given the representative file of a work is an image When you click on the thumbnail of the image Then display the full-size image in a lightbox rather than open it in a new tab. Addresses primary use case for #226.

@@ -1,0 +1,2 @@
+Resolves HELIO-2261: Add policies to views.
+Check it out on heliotrope-testing.

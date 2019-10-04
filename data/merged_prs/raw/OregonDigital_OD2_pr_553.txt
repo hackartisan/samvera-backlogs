@@ -1,0 +1,2 @@
+Fix non-generic works saving
+Fix retry fetch linked data queue Fixes #552, Fixes #312

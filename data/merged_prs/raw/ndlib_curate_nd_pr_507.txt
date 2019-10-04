@@ -1,0 +1,2 @@
+Accounting for library_collections rendering
+Prior to this commit, when we attempted to render a library_collections predicate, we encountered the following exception: Curate caught a registered error: TypeError   wrong argument type LibraryCollection (expected String) The reason being that we had not accounted for the breaking apart of the LibraryCollection (and were treating it as a literal). With this change, we now will have links to those collections. DLTP-553

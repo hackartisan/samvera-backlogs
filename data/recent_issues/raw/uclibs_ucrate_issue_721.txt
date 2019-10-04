@@ -1,0 +1,2 @@
+Update "How do I get started?" section of Welcome Page
+Descriptive summary The "How do I get started?" section of https://scholar.uc.edu/welcome_page has outdated information. Currently says: "you may share content by clicking on [Add New] from the menu." Should say: "you can share content by clicking on the "Works" menu at the top of the page and then clicking "New Work."

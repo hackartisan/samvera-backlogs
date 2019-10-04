@@ -1,0 +1,2 @@
+Collection type translation missing
+samvera/hyrax#3136 curationexperts/laevigata#1250

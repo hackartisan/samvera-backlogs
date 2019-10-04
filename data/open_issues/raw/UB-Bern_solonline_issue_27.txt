@@ -1,0 +1,3 @@
+The view of results (i.e. recently uploaded) is squashed on some browsers?
+l. Ansicht «abstract»: sollte überschaubarer sein (Bernhard will give us more info: Browser & Screenshot)
+(Firefox, Chrome and Chromium) if using a reduced size window. Approximately middle range. CSS not adjusted for "middle-sized-screens in Bootstrap".  

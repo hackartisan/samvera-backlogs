@@ -1,0 +1,3 @@
+Set Default Search Sort Based on Collection
+As a curator I want the ability to set the display order for the collection search results so that the default is most beneficial to users. Related: #79 Catherine A.
+Only when searching from collection show page?  Related: #105  

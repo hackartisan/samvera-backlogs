@@ -1,0 +1,1 @@
+Add APTrust keys in aptrust.yml.sample, and change bin/setup and .gitignore accordingly

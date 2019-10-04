@@ -1,0 +1,2 @@
+Sync file set metadata to resource
+Description The file set's metadata was not being correctly linked from the hash to the import file set. Once it was correctly linked, the metadata needed to be synced from the change set to the resource. Connected to #582 Why was this necessary? There was still a bug with importing file set metadata via csv.

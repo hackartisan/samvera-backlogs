@@ -1,0 +1,1 @@
+Refactored OFPATH to OFLIST w/list syntax. Fixes #52.

@@ -1,0 +1,2 @@
+Include file set metadata when exporting collections
+Description Adds additional lines to the csv when exporting collections and works containing file sets. Connected to #650

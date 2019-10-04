@@ -1,0 +1,1 @@
+Show a blank canvas when access_copy is missing

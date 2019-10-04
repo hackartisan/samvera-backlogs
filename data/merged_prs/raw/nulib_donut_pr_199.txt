@@ -1,0 +1,2 @@
+Fix the CachingFetcher
+Cache the whole compressed RDF graph

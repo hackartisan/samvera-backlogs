@@ -1,0 +1,2 @@
+Warn users that only /opt/data is valid for file import
+If a user tries to reference files anywhere other than /opt/data, it will not work. This change tells them that up front, to prevent any confusion should someone decide to try something non-standard.

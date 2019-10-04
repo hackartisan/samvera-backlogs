@@ -1,0 +1,2 @@
+[#690, #691] F-Series and templates
+Institutionalize "F-Series" and create 10 templates with 3 child templates for NUCATS Grants Repository. closes #690, closes #691

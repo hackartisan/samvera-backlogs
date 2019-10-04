@@ -1,0 +1,1 @@
+add validation that all files are remote

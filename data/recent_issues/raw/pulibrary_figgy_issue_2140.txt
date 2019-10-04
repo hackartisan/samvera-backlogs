@@ -1,0 +1,2 @@
+Support ingesting PDFs
+Ingest PDF as a master file  Display PDF in the browser  Text extraction for fulltext search

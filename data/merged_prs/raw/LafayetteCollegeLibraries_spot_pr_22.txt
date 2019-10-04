@@ -1,0 +1,2 @@
+add TrusteeDocument object type
+This introduces a new object type, Trustee::Document, used for Trustee-related archival materials. Since these materials are to be accessed by a very limited portion of our community, this work-type will have to eventually be locked down pretty tightly (see #6). For now, this type is just an extension of a Hyrax-work, with additional start_page and end_page properties. closes #16

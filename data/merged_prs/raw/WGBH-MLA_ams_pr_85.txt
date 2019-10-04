@@ -1,0 +1,2 @@
+Adds msg re: uploading technical metadata
+This involves overriding app/views/base/_form_metadata.html.erb partial, which in turn overrides the partial of the same name from Hyrax gem. Here, we need extra customization for Digitial Instantiations, so we override the partial by addifng a new partial for app/views/digital_instantiations/_form_metadata.html.erb Also...  Adds seeding of database to hydra:clean:server and hydra:clean:test_server rake tasks to ensure that running either task will result in a clean state of the persistence layer.

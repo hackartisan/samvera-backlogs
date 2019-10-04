@@ -1,0 +1,2 @@
+Fixing the component title display issue.(DHH-477)
+@escowles, I created this new pull request which would be easier to figure out what's being changed.

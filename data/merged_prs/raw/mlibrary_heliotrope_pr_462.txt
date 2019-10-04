@@ -1,0 +1,2 @@
+Cleanup/restore lost work
+Restores lost work - refactoring typekit, formatting text, and displaying markdown in the monograph description. In addition, changes version of Solr to 6.2.0

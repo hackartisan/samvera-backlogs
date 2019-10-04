@@ -1,0 +1,2 @@
+Add permanent_url method to ETDs on the presenter
+Closes #348

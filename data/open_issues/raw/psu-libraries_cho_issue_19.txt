@@ -1,0 +1,5 @@
+Controlled vocabulary via Linked Data
+As a metadata specialist, I would like to link to external controlled vocabularies, so that I can apply controlled values without managing them within the repository. As a metadata manager, I'd like to be able to use URIs that are translated into the strings in the public view, So that I may use externally managed vocabularies.
+caching and linked data? 
+This could be a static copy in the Database of LOC terms, and then allow later live queries to LOC.  On a weekly basis refresh the static cache for now.  This information is for auto completes in the UI and also looking up strings in the import in CSV.
+Subjects and Agents from LOC.  There could be other ones including the Getty

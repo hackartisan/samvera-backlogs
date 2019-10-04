@@ -1,0 +1,2 @@
+#64/generate work types
+Resolves #64. Yet to add the necessary metadata elements to these works but just created the skeleton works and all tests are passing. Will create a new issue to add relevant metadata to respective works.

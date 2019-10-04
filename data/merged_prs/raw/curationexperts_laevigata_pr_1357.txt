@@ -1,0 +1,2 @@
+Correct WAI ARIA landmarks
+There are ARIA landmarks on the header and in some of the navigation, but they aren't implemented correctly. This commit changes those so that it will be structured in a way that makes sense for screen readers. Related to #1056

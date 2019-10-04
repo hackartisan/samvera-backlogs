@@ -1,0 +1,2 @@
+Added search box terms to locale, changed to SA@OSU
+Fixes #190

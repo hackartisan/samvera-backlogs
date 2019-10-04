@@ -1,0 +1,2 @@
+Update submission confirmation language
+This is less technical ("in the background") and gives more meaningful information about what is happening next. Closes #1052.

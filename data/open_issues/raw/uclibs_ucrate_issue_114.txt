@@ -1,0 +1,2 @@
+Bundle update all gems (keep this issue open)
+Descriptive summary bundle update and verify all tests still pass.  Run through manual test script.

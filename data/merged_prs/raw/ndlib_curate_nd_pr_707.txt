@@ -1,0 +1,2 @@
+DLTP-131 Attach Multiple Files on Create
+Changed all the file input points to allow for multiple selections. This allows the file inputs that support multiple files to upload all.

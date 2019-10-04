@@ -1,0 +1,2 @@
+Updates the Circle CI build environment to use Ruby release 2.3.4
+This has been triggering build failures on multiple pull requests.

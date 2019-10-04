@@ -1,0 +1,2 @@
+Basic CRUD operations for Users and Groups
+CRUD operations for Users and Groups, still missing some features that are restricted Added request tests for operations Added cancancan for authorization Added factorybot, rspec-its and json-spec for testing Beginning of implementation for application ability Users and Groups endpoint require authorization

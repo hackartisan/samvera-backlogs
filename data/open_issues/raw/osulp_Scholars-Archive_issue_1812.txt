@@ -1,0 +1,2 @@
+[On-hold]versioning a file should update the filename and thumbnail based on new file
+Descriptive summary Currently, creating a new version of a file in Hyrax does not update the filename or thumbnail. We would like SA@OSU to do so. Expected behavior When a file is versioned, the filename and thumbnail will update based on the new file's characteristics Actual behavior filename and thumbnail remain from the old version of the file, regardless of what file is used as a replacement

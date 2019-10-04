@@ -1,0 +1,2 @@
+Indexing Coins' parent issue metadata, but not membership to make them discoverable
+Fixes #2100; Fixes #2104

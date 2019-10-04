@@ -1,0 +1,2 @@
+Don’t allow anonymous user to add things to a collection
+The previous permission check was still returning true even when a patron was not logged in.

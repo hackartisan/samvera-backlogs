@@ -1,0 +1,3 @@
+Cannot see deposited items from a user
+When clicking on Works created from a user's profile page, the search returns empty results. For example, go to https://scholarsphere.psu.edu/users/amm81 and click Works created. You don't see the two works. If you edit the search term to be amm81 and not "amm81" (without the quotes), the search will work. This likely affects the user's dashboard, as well as the collections created links in the dashboard and user's profile page.
+Duplicate of #1398?

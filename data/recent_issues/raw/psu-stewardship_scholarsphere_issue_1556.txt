@@ -1,0 +1,2 @@
+Faraday error in queue
+job_class: IngestFileJob job_id: d3d1f28c-4386-43dc-a651-9d167a5f4e8c queue_name: files arguments:  _aj_globalid: gid://scholar-sphere/FileSet/83b5919730 "/opt/heracles/deploy/scholarsphere/releases/20190220112319/tmp/uploads/sufia/uploaded_file/file/3814/Pil-2T_Tg_Data.pdf" _aj_globalid: gid://scholar-sphere/User/2121 relation: original_file _aj_symbol_keys:  relation locale: en Exception Faraday::TimeoutError Error Net::ReadTimeout Worker ssjobs1prod-new:16614 on FILES at about a minute ago

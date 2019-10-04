@@ -1,0 +1,2 @@
+Configure IIIF Manifest Metadata
+Descriptive summary Configure the metadata to include in the IIIF Manifest. A new column was added to the MAP for this. Need to double check if expectation is fields have predicates and use DC Terms (like OAI) or if they're more open. Expected behavior Selected metadata appears in the IIIF Manifest. This will also mean it displays in the "More Information" right-hand panel of Universal Viewer. Related work #617

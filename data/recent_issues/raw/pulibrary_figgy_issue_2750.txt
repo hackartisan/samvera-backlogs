@@ -1,0 +1,2 @@
+RegenerateDerivativesJob errors
+This is a problem because we changed the interface for DerivativeJobs, but not the gem. Backtrace line 11 of [PROJECT_ROOT]/app/derivative_services/default_derivative_service.rb: new line 8 of [PROJECT_ROOT]/app/jobs/regenerate_derivatives_job.rb: perform  View full backtrace and more info at honeybadger.io

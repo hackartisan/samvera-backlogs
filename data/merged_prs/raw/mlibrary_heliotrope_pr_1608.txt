@@ -1,0 +1,2 @@
+Resolves #1546, send compressed webgl files when possible
+Tested on heliotrope-testing, gzipped unity files are being sent to chrome and FF. It's a little faster than non-compressed.

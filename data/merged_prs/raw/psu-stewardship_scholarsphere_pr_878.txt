@@ -1,0 +1,2 @@
+Inform user when derivative creation fails for files, ref #706
+Not all files are supported by ImageMagick and when it is not able to create thumbnails for a file, it fails in the resque queue, but the user never sees anything. This reports a derivative failure to the file set's activity stream so the user knows that a failure occurred.

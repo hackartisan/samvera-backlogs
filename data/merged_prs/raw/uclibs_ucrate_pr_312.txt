@@ -1,0 +1,2 @@
+Feature/#282 Ports over Adobe Acrobat download link from scholar
+Fixes #282 Present short summary (50 characters or less) When we direct someone to download a pdf, they should also see a link to download Adobe Acrobat. Changes proposed in this pull request:  Add Adobe Acrobat link from scholar.

@@ -1,0 +1,2 @@
+Homepage - Make bottom of boxes even
+On the homepage could we make the bottom of the Featured works and Recently uploaded boxes align?

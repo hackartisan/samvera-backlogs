@@ -1,0 +1,2 @@
+Restrict certain search fields to be admin-only
+Adding it to both places we add SearchBuilder configuration, cause who knows what sufia/hyrax uses where, and it may change. Closes #425

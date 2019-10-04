@@ -1,0 +1,2 @@
+Adding ability to disconnect user's orcid profile
+With this commit, it is possible for a site administrator to disconnect a user's orcid profile. This is particularly helpful for the development and QA process, but could be helpful for other scenarios as well (i.e. a user associated with the wrong Orcid).

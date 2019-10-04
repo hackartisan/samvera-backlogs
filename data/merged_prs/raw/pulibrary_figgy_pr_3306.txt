@@ -1,0 +1,2 @@
+Refactor to create a private? method in the Ability class
+fixes #3270 no release notes needed

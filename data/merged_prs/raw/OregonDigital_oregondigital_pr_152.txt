@@ -1,0 +1,2 @@
+Implement "JPEG == small image" rule
+Removes hard-coded "iip" large image rule and puts in a content type check instead Modifies image factory trait - now you specify jpeg or tiff Adds new fixture image just to be sure we can truly test TIFFs Fixes downloads spec to use new jpeg factory trait Closes #85

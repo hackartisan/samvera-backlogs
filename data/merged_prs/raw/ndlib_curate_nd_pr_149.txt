@@ -1,0 +1,2 @@
+Add disadis to curate infrastructure
+Uses the ndlib/disadis code for a fedora download proxy Deploy via puppet class to application server machines Add nginx location /download-content/ for internal redirects  Addresses tickets DLTP-195, DLTP-196.

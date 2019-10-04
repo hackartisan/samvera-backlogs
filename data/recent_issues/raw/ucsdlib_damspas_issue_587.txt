@@ -1,0 +1,2 @@
+Remove Hound/Rubocop from CI
+Descriptive summary As discussed by the group in Slack, we've decided that on balance, rubocop and hound are no longer useful for this project. The number of offenses is simply too high, and at this point is only causing confusion for new development efforts, such as the work Notch8 has been doing recently for VRR.

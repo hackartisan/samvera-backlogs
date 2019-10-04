@@ -1,0 +1,2 @@
+development docker environment updates
+Descriptive summary There are a few needed updates to the Docker development environment and workflow.  Stop using cbeer fcrepo image, using ualberta's updates Use SOLR cloud and upload the configurations at runtime (avoid binding to the solr/conf as a volume) Pin to a version of Postgres, 10 for now Add some output to build scripts so developer can understand what is happening at run time

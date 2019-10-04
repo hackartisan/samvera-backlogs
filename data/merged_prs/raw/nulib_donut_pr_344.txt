@@ -1,0 +1,2 @@
+Create a rake task to initialize (or reinitialize) the elasticsearch index
+bundle exec rake es:reinit will (re)initialize the index using the most up to date schema.

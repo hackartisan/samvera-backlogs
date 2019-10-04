@@ -1,0 +1,2 @@
+Add field for architect's role
+As a user, I know that Los Angeles has a rich and important architectural history and that the UCLA Library has important collections related to architecture, therefore I would like to search across all collections for images related to the  architects I am studying. (History: After discussion and evaluation of our larger corpus of collection with Martha and Claudia, Lisa agreed that this metadata field is valuable) Predicate relators:arc

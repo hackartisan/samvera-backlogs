@@ -1,0 +1,2 @@
+Advance Search - Suche über alle Felder
+Bei den Advanced Search braucht es nicht nur spezifische Felder (Autor, etc.), sondern auch eine Suche über alle eingabefelder. Dies sollte an erster Stelle sein.

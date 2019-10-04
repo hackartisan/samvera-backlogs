@@ -1,0 +1,1 @@
+Fixing enabled_dynamic_fields api

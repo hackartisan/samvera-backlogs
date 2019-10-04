@@ -1,0 +1,4 @@
+Allow tagging non-SSCI summaries
+In the future, potentially some non-SSCI summaries will be uploaded to OASIS. There needs to be an opportunity to tag them as non-SSCI.
+@VolhaA can you provide some examples, please? What do we mean by none-SSCI? 
+All summaries that we are going to upload in the near future are SSCI. SSCI stands for Social Sciences Citation Index. SSCI is in a way a list of journals. Being on SSCI is a marker of quality for a journal. At the moment, OASIS only works with articles from such journals. However, there are other journals, and in the future we may add summaries of articles from journals that are not on SSCI. If we do so, we would like to have an option to make it clear that a summary is of an article which is not on SSCI.  

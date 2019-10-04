@@ -1,0 +1,2 @@
+Accessibility mode for EPUBs with WebGL
+Resolves #1442 Re-instates @conorom's mobile work on EPUB show page. Adds an Accessibility Mode on/off toggle in preferences pane for EPUBs that have WebGL assets. If "on": closes WebGL panel, marks the .special-panel as hidden, disables 3D model button, and publication links that go to SU panels in WebGL model are replaced with links that go to corresponding SU database records. (Also, updates cozy-sun-bear)

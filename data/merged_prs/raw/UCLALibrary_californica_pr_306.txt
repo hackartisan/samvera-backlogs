@@ -1,0 +1,2 @@
+Update Hyrax to 2.3.3
+Update the Hyrax gem we are using to the latest release: 2.3.3 Connected to #305

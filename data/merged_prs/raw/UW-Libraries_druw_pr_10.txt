@@ -1,0 +1,1 @@
+Remove custom _search_form.html.erb

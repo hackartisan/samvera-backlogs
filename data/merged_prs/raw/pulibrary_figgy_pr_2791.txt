@@ -1,0 +1,2 @@
+Add Matomo to layout.
+Should help us track how users are using the home page.

@@ -1,0 +1,2 @@
+updated to sufia 7.1.0 and added work_requires_files config
+fixes #420

@@ -1,0 +1,5 @@
+Ephemera Folders should have ARKs generated.
+This will be required to add these objects to DPUL. Steps:  Add a property to ephemera project to allow users to configure ARK destination. UI is a dropdown or radio button with the following options: Figgy, LAE Ephemera Folders should mint an ark when complete. Script needed to mint ARKs for existing complete folders.
+When they are complete, to work the same way as ScannedResources?
+Yeah, but they don't work the same since they're visible when the parent box is marked appropriately
+Workflow has changed; this is now actionable.

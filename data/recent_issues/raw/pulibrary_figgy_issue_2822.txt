@@ -1,0 +1,2 @@
+Order manager should be able to assign page numbers for images that contain multiple pages
+e.g. "I have an item where there are 2 pages per image.  Is there an easy way in Figgy to automatically number the pages like p. 1-2, p. 3-4, p. 5-6 etc?" requested by @tventimi

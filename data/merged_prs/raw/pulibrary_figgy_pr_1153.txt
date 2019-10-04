@@ -1,0 +1,1 @@
+Ingest archival media bags, fixes #753

@@ -1,0 +1,2 @@
+Mgmt: Add feedback link
+UCLALibrary/ursus#100 adds a feedback link to Ursus – adding one to californica too is probably less important, but still a good idea?

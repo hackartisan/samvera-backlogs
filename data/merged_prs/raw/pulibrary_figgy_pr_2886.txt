@@ -1,0 +1,2 @@
+Preserve resources one at a time in a background job.
+This will likely result in slower preservation, but will have better and less expensive retrying should something bad happen. Closes #2883

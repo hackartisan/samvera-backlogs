@@ -1,0 +1,2 @@
+Remove spaces in #created date range for consistency with vals in #date_created
+refs #1442

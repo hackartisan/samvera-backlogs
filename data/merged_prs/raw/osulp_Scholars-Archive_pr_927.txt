@@ -1,0 +1,2 @@
+updated featured fields to use subject instead of keyword
+updated keywords row on featured pane to use featured.subject instead of featured.keyword and set empty string for no results fixes #909

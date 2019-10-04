@@ -1,0 +1,1 @@
+Adding date facet, fixing date sorting feature test (DHH-632)

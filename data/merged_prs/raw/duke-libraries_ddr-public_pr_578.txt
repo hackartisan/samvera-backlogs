@@ -1,0 +1,2 @@
+Address potential security vulnerabilities
+@corylown @coblej -- I updated these gems via: bundle update nokogiri bundle update rack-protection Seems to not have broken anything in my dev environment.

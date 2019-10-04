@@ -1,0 +1,2 @@
+Fixing handling of collection URLs
+Prior to this fix, there were cases in which a Hash was passed to the term label extract. The code as written broke. This change handles that case. Closes DLTP-1147 Related to DLTP-1028

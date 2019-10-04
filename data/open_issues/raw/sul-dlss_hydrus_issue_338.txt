@@ -1,0 +1,2 @@
+link associated with Hydra logo in Hydrus footer is dead
+It links to http://projecthydra.org, which does not redirect to samvera.org as expected. We could remove the logo, remove the link, update the logo and/or update the link.

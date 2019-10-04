@@ -1,0 +1,2 @@
+Adds help text to the proxy part of the form progress widget.
+Adds label: false to f.input and popped in my own label and help text in the yml file.

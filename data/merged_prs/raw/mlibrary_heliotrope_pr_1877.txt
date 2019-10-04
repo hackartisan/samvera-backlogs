@@ -1,0 +1,2 @@
+HELIO-1914 chrome-headless Rails 5.1 system specs
+Includes a spec that clicks on a ToC chapter link from the monograph catalog page and opens that chapter in CozySunBear.

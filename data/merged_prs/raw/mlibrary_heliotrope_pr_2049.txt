@@ -1,0 +1,2 @@
+Resolves HELIO-2228: Permission Service
+Interface to manipulate checkpoint's permit table.

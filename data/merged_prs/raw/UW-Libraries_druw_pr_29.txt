@@ -1,0 +1,2 @@
+Upgraded to Hyrax v2.0.1 from 2.0.0.rc2
+Also added config/initializers/hyrax.rb to .gitignore Git ignore will only take effect for new clones of the repo unless one untracks hyrax.rb. If you do so, be careful not to accidentally delete it from the repo. This upgrade seemed a little too easy. It worries me a little.  :-)

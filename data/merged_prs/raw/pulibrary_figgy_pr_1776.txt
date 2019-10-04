@@ -1,0 +1,2 @@
+Add #collection_slugs to ScannedMapDecorator
+fixes #1578

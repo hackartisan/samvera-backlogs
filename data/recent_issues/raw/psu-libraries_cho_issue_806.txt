@@ -1,0 +1,2 @@
+Refine Work Type  Schemas
+Before we can begin migrating collections, we need to have the work type schemas refined. Presently they are pretty much all the same. This may mean adding new fields to the data dictionary.

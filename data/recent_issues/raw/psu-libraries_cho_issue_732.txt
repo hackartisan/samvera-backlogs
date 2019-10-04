@@ -1,0 +1,2 @@
+Controlled vocabulary for existing Agents
+Controlled vocabulary that verifies a selected Agent exists as a resource in Valkyrie. This would be used in a form for identifying creators in a work, where the creator was an Agent resource linked by a role. If the creator name that's entered in the form does not exist as an Agent resource, then the form would not validate. Child of #87 [Related: #18 NT]

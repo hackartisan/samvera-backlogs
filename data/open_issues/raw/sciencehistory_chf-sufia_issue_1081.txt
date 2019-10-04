@@ -1,0 +1,2 @@
+move more ingest and other jobs to `jobs` server
+Right now many still run on app. Theoretically, when ingesting from S3, all of them could run on jobs -- and even when ingesting from browser upload, more of them could (even without shared storage). While it would be preferable to have this CPU and disk load on jobs, it may not work out so cleanly in practice, the stack does some weird things. Plus, then we'd need more jobs workers (on single or multiple hosts) to replace the 5 workers currently doing things on our (at the moment) single app server. Ref #1075

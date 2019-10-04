@@ -1,0 +1,2 @@
+Add timeouts and error handling to external service requests
+This makes the requests to get finding aid and contact info more resilient to request failures and slow responses.

@@ -1,0 +1,2 @@
+Query for PIDs in arrays of 100 each; Fixes #379
+Also removes some trailing spaces.

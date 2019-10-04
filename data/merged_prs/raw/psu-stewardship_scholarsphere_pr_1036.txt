@@ -1,0 +1,2 @@
+Refactor UserStatsImporter
+From our Friday refactoring session, we extracted the various tally methods into a new class and removed the inheritance from Sufia::UserStatImporter.

@@ -1,0 +1,1 @@
+Move browse-everything to using dotenv

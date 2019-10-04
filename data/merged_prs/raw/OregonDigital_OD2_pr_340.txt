@@ -1,0 +1,2 @@
+Add TGN as a controlled field
+fixes #317

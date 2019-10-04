@@ -1,0 +1,2 @@
+Adding core field flag to data dictionary
+refs #322. Description Adding a flag to the data dictionary so that core fields can be define in the data dictionary.  I need this for #376 becuase the metadata schema needs to be able to get both core and additional fields from the data dictionary and we need a way to split them up. Changes  Adding a Flag to the Data Dictionary Updating Tests to use the flag  Are there any major changes in this PR that will change the release process? No Checklist   i18n enabled  adequate test coverage  accessible interface

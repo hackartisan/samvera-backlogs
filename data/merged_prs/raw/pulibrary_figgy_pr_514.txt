@@ -1,0 +1,2 @@
+Fixing 'Save and Create Another' after update
+Fixes #509

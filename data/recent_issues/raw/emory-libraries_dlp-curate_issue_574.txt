@@ -1,0 +1,2 @@
+Create nested attributes for preservation events
+Nested class should be called PreservationEvent, and have three attributes:   type  timestamp  notes

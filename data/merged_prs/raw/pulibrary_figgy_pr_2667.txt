@@ -1,0 +1,2 @@
+adds orangelightId property to graphql response
+Closes #2666

@@ -1,0 +1,2 @@
+security fixes for devise and nokogiri
+upgraded devise & nokogiri

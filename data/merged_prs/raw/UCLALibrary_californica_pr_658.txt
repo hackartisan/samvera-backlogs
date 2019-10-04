@@ -1,0 +1,2 @@
+Accept 'ChildWork' as a value for 'object_type'
+Currently we support 'Page' but 'ChildWork' is used in newer DLCS exports and is preferred.

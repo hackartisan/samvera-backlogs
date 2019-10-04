@@ -1,0 +1,2 @@
+fixes terminology issues on facets and labels
+Fixes #269 Fixes nulib/next-generation-repository#357  Removes 'tesim' and/or 'sim' from display of facets and labels Fixes issue with display of architect, provenance and alternate_title

@@ -1,0 +1,2 @@
+Typeahead for numismatic data entry
+Many of the fields in the current numismatic database are modeled like controlled vocabularies, but the messy data makes it seem like they are actually free-text entry, possibly with typeahead/autocomplete functionality.  We may want to provide typeahead functionality for these fields to improve the data entry experience. Child of #2025

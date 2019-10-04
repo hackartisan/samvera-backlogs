@@ -1,0 +1,2 @@
+2535_debug_extract
+Added lots of debugging to lib/export/exporter.rb to track down crash when exporting bags.

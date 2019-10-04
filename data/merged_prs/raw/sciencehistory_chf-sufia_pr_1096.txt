@@ -1,0 +1,2 @@
+patch BrowseEverything route to handle periods in directory names
+In rails routes, first routes take precedence, so we 'override' by adding a path first. backport of samvera/browse-everything@6416ce9

@@ -1,0 +1,2 @@
+Implements the `MintIdentifier` hook for the `PlumChangeSetPersister`
+Resolves #1030

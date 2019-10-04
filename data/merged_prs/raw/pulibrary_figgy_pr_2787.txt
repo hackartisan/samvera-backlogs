@@ -1,0 +1,2 @@
+add coin pdf support
+closes #2730

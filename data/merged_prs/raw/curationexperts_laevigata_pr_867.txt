@@ -1,0 +1,2 @@
+Bugfix: admin sets should display when description is empty
+Fixes #856

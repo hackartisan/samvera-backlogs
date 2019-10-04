@@ -1,0 +1,2 @@
+Resolves #590: Handle/DOI/Permalink should be (easily) copyable
+Right now this is not an attribute renderer, that seems like overkill. We can change that if we need to in the future. There's javascript on the input field so that when you click it it's copied to your clipboard.

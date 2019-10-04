@@ -1,0 +1,2 @@
+Configuration to depoy to ucla sandbox server
+Adding a deploy file so we can do deployments to the UCLA sandbox server californica-dev.library.ucla.edu

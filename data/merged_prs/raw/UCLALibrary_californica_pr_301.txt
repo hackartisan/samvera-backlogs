@@ -1,0 +1,2 @@
+Add photographer to list of fields in work_form
+Add photographer to list of required fields in work_form_spec Add photographer to list of fields in work_from Connects #281

@@ -1,0 +1,2 @@
+Fix ARKs pointing at Plum
+This months link report from EZID shows we have 4500+ bad links pointing at Plum (mostly Geo resources, but also some ScannedResources).  Update these ARKs if possible, or delete them. bad_links.zip

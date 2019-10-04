@@ -1,0 +1,2 @@
+Use Discover permissions for Reading Room
+If a user can discover a resource, but can't read it, they'll get an Unauthorized message which will prompt the viewer to let them log in.   Users can Discover reading room resources if they're in the reading room.   Users can not discover private resources unless they're some sort of administrator.

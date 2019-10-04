@@ -1,0 +1,2 @@
+Updating most gems to most recent versions
+Not updating core Hydra gems and some older versions they require

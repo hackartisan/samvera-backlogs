@@ -1,0 +1,2 @@
+fix factory_bot deprecations
+updates factories to use dynamic attributes. addresses the following deprecation:  DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic attributes instead by wrapping the attribute value in a block.

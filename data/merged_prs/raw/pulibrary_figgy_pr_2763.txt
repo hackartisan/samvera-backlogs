@@ -1,0 +1,2 @@
+adds holdings for coin objects
+Closes pulibrary/orangelight#1605.

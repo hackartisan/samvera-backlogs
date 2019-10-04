@@ -1,0 +1,2 @@
+Hosting/deployment configuration
+This PR has commits that enable laevigata to be deployed with the dce-cm Ansible scripts to an empty Ubuntu 16.04 VM.

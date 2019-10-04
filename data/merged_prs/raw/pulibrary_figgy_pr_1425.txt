@@ -1,0 +1,2 @@
+Ensures that the thumbnails for member resources within Multi-Volume Works are used as thumbnail URIs for Manifests within ManifestBuilder::ThumbnailBuilder
+Resolves pulibrary/pomegranate#366

@@ -1,0 +1,4 @@
+Searching extracted text within My Works
+Searching for the extracted text of a file in All of Scholarsphere will return results, however, performing the same search with the user's My Works does not yield any results.
+`all_text_timv` might not be a part of the search fields in the builder.
+Just verified this is still an issue with the current system (9/21/2018 3.6)

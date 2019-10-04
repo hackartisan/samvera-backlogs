@@ -1,0 +1,26 @@
+Ingest "Grounds and Buildings" (pudl0038)
+Note: MODS Depends on #1675 Depends on #1681
+Files: https://drive.google.com/drive/u/0/folders/0B4Wo5hgOEFY3ZlZGUU5OS3FIbDA
+http://pudl.princeton.edu/collections/pudl0038
+These are MODS, but based on a finding aid. Marking as a dependent of #1675.
+The finding aid these are pulled from is here: https://findingaids.princeton.edu/collections/AC111.xml  The METS files are laid out such that the first folder is the "box" identifier, and the second folder is the "folder" number. So `pudl0038/ad001/001/7350.mets` is from AD01, folder 1. There is only metadata at the folder level in the finding aid, there are no component IDs for each photo. The file name is in reference to an "Item Number" that's in the MODS, and I assume on the physical item inside the folder?  I'll work on a metadata table for what's in the MODS below.
+| Field | Example | Figgy field | imported by mods document? | | --- | --- | --- | --- | | title | Aaron Burr Hall | title | yes | | dateCreated (approximate) | 1891 | date_created | yes but it's not working | | extent | 1 photograph | extent | yes but it's not working | | genre (aat) | photographic prints | genre | no | | subject (lcsh) (corporate) | Aaron Burr Hall (Princeton, N.J.) | subject | yes but it's not working | | note | Affixed to cardboard backing, written on back "179" | description | yes but not working | | location | Princeton University Library. Department of Rare Books and Special Collections. Seeley G. Mudd Manuscript Library. | holding_location | no | | holdingLocation | Mudd | holding_location | no | | shelfLocator | Box AD01, Item 7350 | location | no | | accessCondition - useAndReproduction | Single photocopies may be made for research purposes.... | rights statement; map to "copyright not evaluated" | no |  | accessCondition - restrictionOnAccess | The collection is open for research | do not import; visibility will be set accordingly | |
+This seems simple to the point that we could add some fields and ingest these now.
+Make sure when we migrate these we maintain the box number, folder number, and item number.
+We're going to ingest this one first.
+We can get box / item from the mets. I'm checking whether the folder number is necessary (if so, i'm not sure why it wouldn't have been included in the mets).  Filld in a field mapping in table above. We won't need any new fields in figgy; i'll remote that dependency note.
+ah, for the fields that don't seem to be working: i think they actually are but since the script only ingests to scanned resource the fields don't come through the change set.
+confirmed we don't need to pull any data from the file paths. Note that some of these mets files are nested deeper than others; may be relevant to the bash command you use to ingest depending on how you do it.
+holding_location appears to expect a URI. since have strings, i'm going to try sticking those in `location` along with the shelf info.
+The holding location codes should all have a ControlledVocabulary you can look up.
+this should be ready for a trial run once the simple resource stuff is worked out (#1766). command locally is `for mets in $(find ~/Downloads/pudl0038 -name '*.mets'); do bunx rake import:mets FILE=$mets USER=aheadley IMPORT_MODS=true; done`
+It looks like `Photographer`, `origin`, and a link to the finding aid didn't get migrated.  Comparing https://figgy-staging.princeton.edu/catalog/5f7b1526-f2f9-47d3-8ac5-a8f361799805 to http://pudl.princeton.edu/objects/2227mq19w
+I think `origin` and links to the finding aid are taken care of now from my work on `pudl0036`. Photographer's probably not.
+Looks like there are cartographic coordinates which are getting migrated right now as subjects. https://figgy.princeton.edu/catalog/f1bd9974-4062-4edc-a4bf-27ec9c538091
+What should it import as?  It looks like this in the xml ```    <subject>       <cartographics>          <coordinates>40.345827/-74.660627</coordinates>       </cartographics>    </subject> ```
+that same record also has a subtitle: ```    <titleInfo>       <title>Henry Hall</title>       <subtitle>Rendering</subtitle>    </titleInfo> ```
+there's also a `dateOther`: ```    <originInfo>       <dateOther>Unknown</dateOther>    </originInfo> ```
+ignore `dateOther`.  should probably have `replaces: pudl0038/n583xv45s` -- the id here is the same as the ark "blade"
+for coordinates, use a new `CoveragePoint` object in a new`coverage_point` field
+We decided against `replaces` for this collection; the arks should be sufficient.  So all that's needed are coverage_point and title.
+awaiting curator review: https://figgy.princeton.edu/?f%5Bmember_of_collection_titles_ssim%5D%5B%5D=pudl0038

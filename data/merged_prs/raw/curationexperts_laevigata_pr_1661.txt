@@ -1,0 +1,2 @@
+Set visibility to open when creating an ETD in the actor stack
+It looks like this behavior got dropped from our default actor stack when we moved back to Hyrax's InterpretVisibilityActor from our custom one. This readds the behavior by adding an attribute to the environment if it hasn't already been passed in. Passing another visibility to the stack avoids setting to the default. Connected to #1659

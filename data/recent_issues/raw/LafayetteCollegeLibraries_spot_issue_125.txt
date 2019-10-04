@@ -1,0 +1,2 @@
+RDF serialization error when using form to attach file to work
+create new Publication attach image submit  should return a 500 error  go back to catalog work should be there? but with no file/thumbnail view work; metadata should be intact edit work -> files -> add file submit  should return the same 500 error  looking through the production logs (job doesn't make it to sidekiq), a could not serialize RDF::Literal error commonly pops up. the last job that gets called is a ContentDepositEventJob, but it looks like it completes? no idea what that's about.

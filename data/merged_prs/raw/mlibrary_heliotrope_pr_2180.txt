@@ -1,0 +1,2 @@
+Resolves HELIO-2429: Refactor Login Options Page
+Added case on presenter.subdomain { 'heb', 'michigan' } to render appropriate partial (rendering nothing on default).

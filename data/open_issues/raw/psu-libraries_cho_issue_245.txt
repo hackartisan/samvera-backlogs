@@ -1,0 +1,3 @@
+Create a Object Type Template Index View Wireframe
+Child of #320 How can you visually see the list of Object Type templates in the system.
+Should assume a fare amount of Knowledge from the user.

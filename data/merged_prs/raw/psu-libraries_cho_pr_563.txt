@@ -1,0 +1,2 @@
+Allowing for multiple unique attributes to update_or_create
+Also fixes bug with using just a Valkyrie::ChangeSet Co-authored-by: Mike Tribone mtribone@psu.edu Description Fixes: #[issue number, if applicable] Why was this necessary? Changes Are there any major changes in this PR that will change the release process? Checklist   i18n enabled  adequate test coverage  accessible interface

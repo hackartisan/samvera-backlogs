@@ -1,0 +1,1 @@
+Add a widget to search for an issue in the edit coin screen, instead of using the drop-down select menu

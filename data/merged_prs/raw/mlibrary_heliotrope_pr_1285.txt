@@ -1,0 +1,1 @@
+Resolves #1282 No Download Button For External Resources

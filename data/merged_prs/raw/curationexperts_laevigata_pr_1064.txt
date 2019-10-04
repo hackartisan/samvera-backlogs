@@ -1,0 +1,2 @@
+Use themed layout for workflows controller
+The older code made its way in with #1054, which worked for Hyrax 2.0, but was merged concurrently with #1055 (Hyrax 2.1). In Hyrax 2.1, we need to use with_themed_layout to correctly find the dashboard layout.

@@ -1,0 +1,2 @@
+Add SimpleResource to the home page (no icon yet)
+Required adding the workflow, which fixes #1031

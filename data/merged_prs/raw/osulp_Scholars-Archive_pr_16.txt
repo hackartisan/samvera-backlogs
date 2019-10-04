@@ -1,0 +1,2 @@
+Restrict Ingest to Administrators
+Closes #6

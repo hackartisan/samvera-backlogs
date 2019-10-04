@@ -1,0 +1,2 @@
+Revert "update repository to single value (#649)"
+Fixes #707

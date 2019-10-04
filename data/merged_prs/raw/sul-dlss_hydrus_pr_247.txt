@@ -1,0 +1,2 @@
+Upgrade to hydra-head 8.2
+NOTE: This has sassc in it so we will need to update puppet to add devtoolset like this: sul-dlss/puppet#3801

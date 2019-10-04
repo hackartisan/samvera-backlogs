@@ -1,0 +1,2 @@
+no mapping 2 columns to 1 field
+Resolves HELIO-2213

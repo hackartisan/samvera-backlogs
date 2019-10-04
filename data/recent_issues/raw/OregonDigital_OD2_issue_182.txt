@@ -1,0 +1,2 @@
+Add Actor tests
+Descriptive summary OD2 actors currently only inherit from Hyrax::Actors::BaseActor so add coverage to validate that.

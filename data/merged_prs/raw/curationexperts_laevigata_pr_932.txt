@@ -1,0 +1,2 @@
+Setup :ingest and :derivative queues
+Use the ingest queue for high priority/low cost ingest jobs and heavily weight it. This helps to organize jobs so expensive computations (e.g. derivative generation) will less frequently block higher priority work. See: https://github.com/mperham/sidekiq/wiki/Advanced-Options#queues

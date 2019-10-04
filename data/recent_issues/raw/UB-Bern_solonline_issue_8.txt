@@ -1,0 +1,2 @@
+Dashboard is missing admin functions for admin users
+Admin user define in config/role_map.yml Now the Admin user has no possibility to manage roles in the dashboard. It looks like the user is not really defined as admin.

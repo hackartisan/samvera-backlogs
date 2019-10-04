@@ -1,0 +1,3 @@
+Keywords are case-sensitive
+ETDs coming via ProQuest have various capitalization of keywords; the Hyrax app by default treats Keywords as case-sensitive, so an A-Z sort of keywords will first list all capitalized keywords, then all non-capitalized keywords.  First check if this is a ticket with Hyrax (or should be submitted for consideration, perhaps as a config option).   Other actions to consider taking may include: normalize capitalization of all keywords (or not). Ref gwu-libraries/scholarspace#150
+A workaround for this might be to have the `ingest_etd` task capitalize keywords upon ingest

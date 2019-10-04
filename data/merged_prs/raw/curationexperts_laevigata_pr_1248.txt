@@ -1,0 +1,2 @@
+Rename copyright questions with meaningful attribute names
+Connected to #1176 @mark-dce I also updated all the labels, as requested, but the other PR was stale and wasn't easily rebasing against master, so I had to make a new branch and a new PR.

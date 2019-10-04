@@ -1,0 +1,2 @@
+js/graduation date
+This commit ensures the saved graduation date is the selected option on the form when it loads, if there is one. If not the selected option tells the user to select a graduation date.

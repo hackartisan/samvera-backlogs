@@ -1,0 +1,2 @@
+Set banner_image value to override Hyrax default, instead of CSS.
+Fixes #1921

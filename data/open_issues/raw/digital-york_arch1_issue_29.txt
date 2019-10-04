@@ -1,0 +1,4 @@
+Register 12 f.100 (verso) entry 9: places
+Search for 'Forester', then in entry: Register 12 f. 100 (verso) entry 9: Places Kexby and Langwith/Langwath do not show up in result list at left-hand side.
+This problem is caused by inconsistent authority list between live and test servers. For instance, 'Kexby, East Riding of Yorkshire, England' exists in live but not in test server. This will lead to a strange behavior, e.g. if search for 'Forester' in test, the result shows 'Kexyb' but it doesn't show under the 'Place' facet:  ![image](https://user-images.githubusercontent.com/437701/62554573-3dd5a800-b869-11e9-8089-9106fc665a67.png)  For now, the problem can be fixed by sync data again, or add that term into place authority list. However, it would be better to improve the entry form, e.g. don't allow free text for this kind of authority fields.
+Manually edited Place authority list and the record, and the expected places are showing on test server.

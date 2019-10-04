@@ -1,0 +1,2 @@
+Move source_metadata_identifier to top of Recordings form
+fixes #2423

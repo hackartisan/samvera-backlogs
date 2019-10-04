@@ -1,0 +1,2 @@
+[Figgy/production] ActionView::Template::Error: bad URI(is not URI?): Newspaper Issue/
+Backtrace line 24 of [PROJECT_ROOT]/app/resources/ephemera_terms/ephemera_term_decorator.rb: internal_url line 28 of [PROJECT_ROOT]/app/resources/ephemera_terms/ephemera_term_decorator.rb: uri line 39 of [PROJECT_ROOT]/app/decorators/application_decorator.rb: []  View full backtrace and more info at honeybadger.io

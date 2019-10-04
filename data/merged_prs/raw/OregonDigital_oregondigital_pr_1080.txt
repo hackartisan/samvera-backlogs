@@ -1,0 +1,2 @@
+Change ITIS fetch to always be https
+Add fetch_itis and fetch_ubio calls to Subject controlled vocab. Change ITIS vocab definition to 'https'. Change fetch_itis to use 'https'. Fixes #1078

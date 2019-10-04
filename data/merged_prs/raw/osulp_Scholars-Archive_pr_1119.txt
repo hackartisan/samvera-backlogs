@@ -1,0 +1,2 @@
+updated submissions query to fix long uri error
+added fix for RSolr::Error::Http: RSolr::Error::Http - 414 Request-URI Too Long on the review submissions queue updated js to default review submissions datatable order to Submission Date

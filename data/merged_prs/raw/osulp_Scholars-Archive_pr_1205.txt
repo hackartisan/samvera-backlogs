@@ -1,0 +1,2 @@
+compiles 404 and 500 errors through the pipeline for better looking error pages
+fixes #350

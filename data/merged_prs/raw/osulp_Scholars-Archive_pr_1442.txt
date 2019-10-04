@@ -1,0 +1,2 @@
+Academic affiliation fills normally
+Fixes #1440

@@ -1,0 +1,2 @@
+Toggle read-only mode with a rake task
+This lets our nightly backup process put the system into read-only mode so it can stay on while we make backups.

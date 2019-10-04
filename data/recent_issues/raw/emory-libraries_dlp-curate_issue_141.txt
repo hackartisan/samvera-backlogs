@@ -1,0 +1,2 @@
+Group fields into sections based on metadata type
+The metadata type is part of the metadata spreadsheet Emily gave us.   Group descriptive metadata in a section at the top of the form.  Group rights metadata in a section in the middle.  Group admin metadata in a section at the bottom.

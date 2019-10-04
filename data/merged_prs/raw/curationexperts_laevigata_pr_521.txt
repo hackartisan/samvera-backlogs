@@ -1,0 +1,2 @@
+Update embargo post-graduation
+Fixes #500 Sets us up with a job that can be called from an automated cron job, and something we can tie into workflow transition.

@@ -1,0 +1,2 @@
+ChangeSet for MediaReserves
+Child of #1986 Should have very little metadata, no IIIF hints, and should have the draft/publish workflow

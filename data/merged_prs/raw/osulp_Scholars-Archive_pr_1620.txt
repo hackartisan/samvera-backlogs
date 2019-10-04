@@ -1,0 +1,2 @@
+Fixes the duping issue with the items
+Fixes #1617

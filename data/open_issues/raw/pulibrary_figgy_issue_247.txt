@@ -1,0 +1,3 @@
+Sammelband Support
+IIIF Manifests should render a Sammelband (Cover/Volume/Volume/Cover)  Order manager should allow ordering of Sammelbands.
+As outlined during the check-in on 10/16/17, @tpendragon clarified that these were not (properly) migrated into Plum (as the METS Documents did not properly outline the structure of these, as they do with Multi-Volume Works), and further indicated that the IIIF Ranges are not likely to be properly generated.

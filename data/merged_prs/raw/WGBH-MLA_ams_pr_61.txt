@@ -1,0 +1,2 @@
+Completes Addition of Instantiation Fields
+Closes #AMS2-226

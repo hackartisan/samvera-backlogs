@@ -1,0 +1,1 @@
+updated routes for help controller

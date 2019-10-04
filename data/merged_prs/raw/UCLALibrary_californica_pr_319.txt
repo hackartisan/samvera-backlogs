@@ -1,0 +1,2 @@
+Added an environment variable to give developer the option to disable spec profiling.
+This allows me to reduce visual clutter and avoid unnecessary instrumentation when I'm doing TDD.

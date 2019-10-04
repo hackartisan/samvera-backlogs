@@ -1,0 +1,2 @@
+Create form interface for creating preservation workflows metadata
+Note: we can focus on creating this metadata for now. We still need to determine if users should actually be able to edit this.

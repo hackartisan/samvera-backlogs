@@ -1,0 +1,2 @@
+Re-enable coveralls reporting
+ISSUE Coveralls is reporting the most recent build was in July 2018  ACCEPTANCE   Coveralls is reporting based on current code updates

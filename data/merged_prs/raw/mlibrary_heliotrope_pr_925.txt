@@ -1,0 +1,2 @@
+Fix small README.md typo.
+Does not necessarily close the ticket. Just a test that my git setup is sane.

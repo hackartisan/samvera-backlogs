@@ -1,0 +1,2 @@
+Remove '*_wrapper' dependencies and sidekiq from the Gemfile
+Removes the unused solr_wrapper, fcrepo_wrapper and sidekiq gems from the Gemfile.

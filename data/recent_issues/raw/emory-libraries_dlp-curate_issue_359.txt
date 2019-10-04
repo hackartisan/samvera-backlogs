@@ -1,0 +1,2 @@
+Determine how existing images and metadata get loaded into environment
+Note: A/I from the DCE Infrastructure meeting

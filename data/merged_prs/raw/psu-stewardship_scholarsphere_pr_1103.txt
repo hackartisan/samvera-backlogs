@@ -1,0 +1,2 @@
+Adding before to run migration
+refs #1089

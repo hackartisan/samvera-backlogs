@@ -1,0 +1,2 @@
+replication handler to support backup restore
+Added replication handler to solrconfig for us to be able to backup and restore solr using solr server. Once this PR is merged, when we deploy code to Prod, be sure copy solrconfig.xml into the right location and restart solr. Fixes #140

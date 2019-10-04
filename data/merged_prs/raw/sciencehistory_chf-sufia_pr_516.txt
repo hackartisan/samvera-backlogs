@@ -1,0 +1,1 @@
+Fix lightbox for nested works, resolves #255

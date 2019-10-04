@@ -1,0 +1,2 @@
+add peer_review featured representative
+Resolves HELIO-2116

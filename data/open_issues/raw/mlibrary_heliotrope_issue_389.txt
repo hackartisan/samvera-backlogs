@@ -1,0 +1,3 @@
+Implement streaming video
+Use (or help complete) this gem: https://github.com/UCSCLibrary/hydra_hls As discussed here: https://groups.google.com/forum/#!msg/hydra-community/sSIzviZQiPI/PPZd-mgEAQAJ
+A&E will tell us when we need to do this (due to # of simultaneous viewing streams). Even if we do the Deaf Studies journal (which entirely videos), we still won't be close to that scale.

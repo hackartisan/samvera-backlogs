@@ -1,0 +1,2 @@
+HELIO-2217 fixes performance issues with COUNTER report tr_b1
+Still procedural and "green" but no longer really, really slow.

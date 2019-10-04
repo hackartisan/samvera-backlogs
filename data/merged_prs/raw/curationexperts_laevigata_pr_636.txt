@@ -1,0 +1,1 @@
+Fixed a problem where editing an ETD wouldn't save the affiliation for a new committee member

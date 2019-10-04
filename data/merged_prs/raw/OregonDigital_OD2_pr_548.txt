@@ -1,0 +1,2 @@
+Remove based_near metadata property
+Add location, ranger_district, and water_basin to Location controlled vocab Fixes #537 and Fixes #271

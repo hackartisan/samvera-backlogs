@@ -1,0 +1,2 @@
+Upgrade Lux to fix thumbnails in Order Manager
+Closes #2422

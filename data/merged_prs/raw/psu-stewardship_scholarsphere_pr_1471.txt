@@ -1,0 +1,2 @@
+Clean out filestore before the test suite
+To align with our other procedures in Solr and Fedora, the external file store will be cleaned out prior to running the test suite. This also clears up some confusion with the test vs. dev. configuration of the HTTP process. We're assuming that there is one HTTP process for serving out the files for the filestore for either the test or development environment. There are different directory names for the files to be stored, but only one process is required to serve out those files and the log file will not be tied to the environment.

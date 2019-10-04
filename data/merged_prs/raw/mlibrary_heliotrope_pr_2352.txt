@@ -1,0 +1,2 @@
+HELIO-1526 Preview PDFs in the View page should download inline
+This works for me with pdf assets in chrome and FF

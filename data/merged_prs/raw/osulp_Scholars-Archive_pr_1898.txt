@@ -1,0 +1,2 @@
+bumps version to 2.5.1
+Fixes #1882 This gets hyrax caught up to the newest stable version. There is some work being done for 3.0.0 and we'll need to track that. In the mean time, this keeps us up to speed. Another ticket will be made in anticipation for a release of 3.0.0 which should be..... sometime?

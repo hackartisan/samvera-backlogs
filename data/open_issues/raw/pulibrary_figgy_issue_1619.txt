@@ -1,0 +1,4 @@
+Ingest "Watermark specimens" (pudl0120)
+Notes: SHOULD WORK - could be a map set, but ingest as a SR for now @eliotjordan Should we ingest these as an SR or a ScannedMap?
+Files: https://drive.google.com/drive/u/0/folders/0B4Wo5hgOEFY3ZlZGUU5OS3FIbDA
+No PUDL collection page.

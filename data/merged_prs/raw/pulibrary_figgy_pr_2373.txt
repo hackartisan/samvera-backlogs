@@ -1,0 +1,2 @@
+Ensures that cases where resources cannot be retrieved by ID for GraphQL queries are handled
+Resolves #2356

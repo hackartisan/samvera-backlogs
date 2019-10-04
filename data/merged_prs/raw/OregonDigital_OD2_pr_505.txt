@@ -1,0 +1,2 @@
+Update Rights field form help text
+Fixes #504

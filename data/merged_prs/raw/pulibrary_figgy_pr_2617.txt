@@ -1,0 +1,2 @@
+Remove link to structure manager from recording
+fixes #2615

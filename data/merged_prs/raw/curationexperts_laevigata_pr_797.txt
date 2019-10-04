@@ -1,0 +1,2 @@
+Rubocop fixes
+This should fix the master travis build

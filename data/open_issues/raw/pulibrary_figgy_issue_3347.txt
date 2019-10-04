@@ -1,0 +1,3 @@
+Resources should create a Tombstone when they're deleted
+
+https://github.com/pulibrary/figgy/pull/3335 seems to have advanced this pretty far.  Should this be generalized for all Figgy `Resources`?

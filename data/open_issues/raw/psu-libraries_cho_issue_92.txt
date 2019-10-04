@@ -1,0 +1,2 @@
+Discovery via Topic Modeling
+As a Professor of English, I want to browse by topics in texts, So that I may discover beyond searching metadata. As a digital humanist, I need to discover relevant texts through topic modeling, so that I can find all related content without having to know the universe of content. See http://publish.illinois.edu/commonsknowledge/2017/04/06/topic-modeling-and-the-future-of-ebooks/. John R.

@@ -1,0 +1,2 @@
+Use Valkyrie's new single-values feature
+Description Fixes specs and uses Valkyrie's support for single values. Adds documentation for schema check and stops locking dry-types/dry-core. Changes Are there any major changes in this PR that will change the release process? No Replaces #622

@@ -1,0 +1,2 @@
+A feature spec for editing a work.  Part of story #207
+I added database cleaning to the filter hook for :clean because if you clean fedora without also cleaning database, you might get errors about missing Hyrax::PermissionTemplate records. Connected to #207

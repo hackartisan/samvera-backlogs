@@ -1,0 +1,2 @@
+Updating to Niftany 0.4
+Updates to the latest Rubocop, including rubocop-rspec, and updates to code to following the guidelines.

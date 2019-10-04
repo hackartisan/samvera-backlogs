@@ -1,0 +1,2 @@
+Add 'unrestricted' field to Enabled Dynamic Field
+We need to add an unrestricted flag to each Enabled Dynamic Field in order to open up fields to Aggregator Projects. By default, all enabled fields are restricted.  Add unrestricted flag to the Enabled Dynamic Field Model Add field to EnabledDynamicFields API endpoint Add field to Enabled Dynamic Fields pages that belong to Projects. Aggregator Projects do not have the ability to unrestrict fields.

@@ -1,0 +1,2 @@
+Update libv8 to a version that works with Clang 8.00 (MacOS 10.12)
+Supersedes #34 Ref #48

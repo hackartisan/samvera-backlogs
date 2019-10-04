@@ -1,0 +1,2 @@
+Easily ingest sample data
+For use in a development environment: Quickly blow away all local data and ingest our sample fixture file. Useful for observing latest changes to ingest code.

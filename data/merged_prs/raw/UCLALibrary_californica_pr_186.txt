@@ -1,0 +1,2 @@
+Add terms to SolrDocument model
+The newly added terms need to be added to the SolrDocument model so that they can be used by the catalog_controller these methods in the SolrDocument class allow Hyrax to access the solr document using the same terms that are in the model. So you'll end up being able to access extent_tesim as SolrDocument.extent

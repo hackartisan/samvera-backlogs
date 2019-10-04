@@ -1,0 +1,2 @@
+Allow users to follow collections
+Also:  Notifications about collection-type objects for the collections Notifications are authorized properly

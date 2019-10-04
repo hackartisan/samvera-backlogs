@@ -1,0 +1,2 @@
+Enable editing of on_behalf_of
+Allows and administrator to change the on_behalf_of user for works that have either been transferred or uploaded by a proxy user. Fixes #979

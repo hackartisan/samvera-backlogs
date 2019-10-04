@@ -1,0 +1,2 @@
+Allow users to download full res of audio
+Closes #731

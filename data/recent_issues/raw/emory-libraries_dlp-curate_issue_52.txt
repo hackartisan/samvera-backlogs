@@ -1,0 +1,2 @@
+CSS broken on Curate-test
+Describe the bug CSS is not rendering on curate-test To Reproduce Steps to reproduce the behavior: Go to curate-test.library.emory.edu Expected behavior Website rendering normally

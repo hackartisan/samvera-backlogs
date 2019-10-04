@@ -1,0 +1,2 @@
+Add authority select dropdown for subject
+Overrides app/assets/javascripts/hyrax/authority_select.es6 and app/assets/javascripts/hyrax/authority_select.es6 from Hyrax to initialize AuthoritySelect fields. Adds autocomplete field and associated authority select field for subject.

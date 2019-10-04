@@ -1,0 +1,2 @@
+Transfer Medical Artifacts collection files to Cor staging
+Medical Artifacts file paths: https://emory.box.com/s/zjrv57zgmt6wam8sxmmmd3u6z5mrnosh Estimated size: 36 GB Estimated counts: 240 (tifs)

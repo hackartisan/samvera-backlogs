@@ -1,0 +1,2 @@
+UO SAML fixes
+This PR updates devise/omniauth config to correctly grab UO uids and match the entityID with the url most users will initiate SAML auth from. It also disables CSRF checks for the SAML callback as the devise, omniauth, omniauth-saml stack does not implement CSRF challenges for that endpoint.

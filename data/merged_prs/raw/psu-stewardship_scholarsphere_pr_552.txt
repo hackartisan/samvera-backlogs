@@ -1,0 +1,2 @@
+Contrast Errors for Buttons and Labels
+Adjust color ratio for text and background on labels and buttons using Bootstrap's default styles for labels and buttons. Fixes #528

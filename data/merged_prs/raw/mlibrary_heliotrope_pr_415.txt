@@ -1,0 +1,2 @@
+running db:seed in production should be different than in dev/test #414
+Resolves #414 We want the default presses to be different in production and development/test. We'll use seeds.db for this for now, with the possibility of moving to some other process in the future.

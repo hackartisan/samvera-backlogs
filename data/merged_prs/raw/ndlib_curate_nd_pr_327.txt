@@ -1,0 +1,2 @@
+Simple feature toggle for citation generation
+Hide the “Citation Generation” button for production and pre_production environments. Calling this a “toggle” is perhaps generous.

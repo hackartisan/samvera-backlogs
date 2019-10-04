@@ -1,0 +1,2 @@
+Make the collection icon color consistent throughout the system
+Replaces the color of the collection png and switches the fa-cubes font icon to blue.

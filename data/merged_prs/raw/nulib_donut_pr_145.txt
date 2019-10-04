@@ -1,0 +1,1 @@
+Install libvips and use the vips version of hydra-derivatives

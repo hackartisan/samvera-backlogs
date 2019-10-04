@@ -1,0 +1,2 @@
+(investigate) use blacklight for work-show views?
+is this a lot of work to undo? i like the idea of treating the public-facing side of the application as a blacklight app, with the hyrax-stuff focusing on the staff-side views. this would also help in cleaning up our urls (/concerns/publications/abc123 could just become /item/abc123? this is something we've touched on briefly in discussions as a would-be-nice-but-isn't-a-dealbreaker thing). would definitely be a worthwhile day or two deepdive to get a feel of the work involved to switching over.

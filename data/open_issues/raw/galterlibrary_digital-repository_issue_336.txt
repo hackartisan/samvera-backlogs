@@ -1,0 +1,3 @@
+Remove SynchronizedMinter#mint monkey patch
+Remove config/initializers/noid_synchronized_minter_initializer.rb once psu-stewardship/active_fedora-noid#1 has been fixed.
+Also we're not using NOIDs anymore. 

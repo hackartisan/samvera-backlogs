@@ -1,0 +1,2 @@
+Feature/GPP-260: QA Fixes
+Changes:  Changed Date Issued field to Date Published. Added help text to Fiscal Year and Calendar Year to tell users all years prior to 1600 will be defaulted to 1600.

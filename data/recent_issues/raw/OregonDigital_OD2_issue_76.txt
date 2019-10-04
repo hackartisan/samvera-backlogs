@@ -1,0 +1,2 @@
+Admin Dashboard view of oEmbed enabled items
+Descriptive summary Admins and staff should be able to easily see only all works that have an oEmbed URL included. Expected behavior An Admin Dashboard view can show which works have an oEmbed URL included. Related work #75 Initial configuration of oEmbed

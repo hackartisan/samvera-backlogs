@@ -1,0 +1,2 @@
+Basic relevance boosting of search fields
+See #310

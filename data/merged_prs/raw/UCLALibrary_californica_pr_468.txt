@@ -1,0 +1,2 @@
+Try pinning travis to bundler 1.17
+I believe this will fix our travis builds.

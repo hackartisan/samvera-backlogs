@@ -1,0 +1,2 @@
+Display Twitter and Google Scholar metadata, ref #335
+Google Scholar metadata was not rendering because (likely) the partial was never getting called in our code. This changes the render to call directly in the show view, but uses separate partials to allow for easier testing and adding more tags later.

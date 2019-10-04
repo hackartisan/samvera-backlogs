@@ -1,0 +1,2 @@
+Added environment variables SOLR_URL and FEDORA_URL to yml config files.
+To support multi-machine vagrant virtualbox development.

@@ -1,0 +1,2 @@
+List all emabargoes when showing Manage Embargoes page
+The embargo search used hard "pagination" at 1000 items. This approach doesn't really support pagination, but instead limits the search to 1000 items. Fixes #1750

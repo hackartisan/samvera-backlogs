@@ -1,0 +1,2 @@
+Ordering for Langmuir imports
+This adds a FileArranger that is used to order the Langmuir files correctly. If the FileSet is labeled 'Front' it will be first in ordered_members and if it is labeled 'Back' it will be second unless there is only a 'Back'. In the future this class should altered so that it arranges the files based on the index in the filename. Connected to curationexperts/in-house#269

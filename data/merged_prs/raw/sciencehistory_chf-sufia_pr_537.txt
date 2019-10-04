@@ -1,0 +1,2 @@
+Add 'Printer' to Maker field dropdown
+Closes #514

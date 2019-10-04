@@ -1,0 +1,2 @@
+Combine most of the different collection tests into a singular file.
+Added edit and delete to the end of the create empty collection test Added search to the end of the test created with existing works Co-authored-by: Adam Wead amsterdamos@gmail.com Co-authored-by: Dan Coughlin dan.coughlin@gmail.com Connected to #1437

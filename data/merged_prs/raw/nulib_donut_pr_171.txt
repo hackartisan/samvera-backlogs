@@ -1,0 +1,1 @@
+adding updated image model properties to solr index

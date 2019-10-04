@@ -1,0 +1,2 @@
+Provenance and series are displayed for ephemera folders and included in JSON-LD
+Fixes #1941

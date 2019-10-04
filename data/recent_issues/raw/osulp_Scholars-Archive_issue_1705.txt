@@ -1,0 +1,2 @@
+Homepage Featured Works has no thumbnails when logged in
+Descriptive summary When logged in and viewing the homepage, the Featured Works section does not include any thumbnails.  Steps to reproduce the behavior  View homepage when logged in  Related work #1452 Might be related to Hyrax thumbnail cleanup: samvera/hyrax#3305

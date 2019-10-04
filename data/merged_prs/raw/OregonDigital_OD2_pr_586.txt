@@ -1,0 +1,2 @@
+updates subject label fetching
+Fixes #578

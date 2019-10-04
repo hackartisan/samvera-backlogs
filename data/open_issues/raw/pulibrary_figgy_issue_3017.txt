@@ -1,0 +1,3 @@
+LA bag ingest - Juan García Ponce Papers resource with no component id
+One item in the Juan García Ponce Papers came through with no title, presumably because it couldn't find a component id. https://figgy-staging.princeton.edu/catalog/02f48aed-0485-408a-b978-9847de66b8d4 @kellybolding
+@hackmastera  See notes here: https://docs.google.com/spreadsheets/d/1L74AvaernYHErzNgmtvvczRtVDSIrjNknaUc-kWXbRQ/edit#gid=1614165680  I just committed a corrected EAD file. These were just missing for some reason -- they all belong with c0453

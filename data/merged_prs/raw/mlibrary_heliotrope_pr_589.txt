@@ -1,0 +1,2 @@
+UI/gallery view
+Resolves #581 Customize gallery view on monograph catalog page, modify layout display of compact navigation; Organize and clean-up heliotrope.scss

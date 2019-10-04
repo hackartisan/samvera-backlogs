@@ -1,0 +1,2 @@
+Rename methods in `ScannedMapDecorator`
+Rename #file_sets to #decorated_file_sets  Rename #geo_members to #geo_image_members  Rename #raster_resource_members to #decorated_raster_resources  Rename #scanned_map_members to #decorated_scanned_maps  Rename #scanned_map_parents to #decorated_scanned_map_parents

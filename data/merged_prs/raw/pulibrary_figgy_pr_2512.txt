@@ -1,0 +1,2 @@
+Change Audio to use HLS
+Generates HLS instead of MP3s Speeds up clicking around viewer significantly. Regenerating derivatives will delete old MP3 derivatives. Passes auth tokens through the HLS manifest.  Closes #2149

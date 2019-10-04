@@ -1,0 +1,2 @@
+Run the importer for Bennett Collection in staging
+Run the importer for Bennett   Staging  @emcaulay -- Review collection in staging, and repeat importer until collection (metadata and images) are approved  Requires #464 Requires #471 Requires #472 Requires #475

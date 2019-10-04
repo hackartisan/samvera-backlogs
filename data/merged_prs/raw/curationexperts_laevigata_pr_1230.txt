@@ -1,0 +1,2 @@
+Use i18n to give the ETD model a human readable label
+The previous system for doing this, model.human_readable_name, has been deprecated. This seems to be the new preferred system for giving a model a human readable label. Connected to #1219

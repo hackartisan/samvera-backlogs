@@ -1,0 +1,2 @@
+Verify atomic updates
+Description Ensures that Solr's records are updated when an edit is performed on a work or collection. Fixes #193 Changes Are there any major changes in this PR that will change the release process? No Checklist   i18n enabled  adequate test coverage  accessible interface

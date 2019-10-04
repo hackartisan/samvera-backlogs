@@ -1,0 +1,2 @@
+Reorganizing specs to match reorganized classes
+Fixes #2170

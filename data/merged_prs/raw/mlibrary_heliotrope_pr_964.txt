@@ -1,0 +1,2 @@
+Fixup/cozy sun bear
+Updates syntax for injecting cozy widgets (close button, permalink); Resolves #952 ; Updates Gemfile for CSB

@@ -1,0 +1,2 @@
+Open Seadragon intercepts scrollwheel or trackpad action when trying to view content below
+When scrolling down an item page via scrollwheel or trackpad to see, e.g., the metadata, if your pointer hits the openseadragon viewer area, it starts zooming the image and stops scrolling the page.

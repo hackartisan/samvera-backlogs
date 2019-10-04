@@ -1,0 +1,2 @@
+262 JavaScript is not minified in production
+Running application.js through uglifier shaves off about 120 KB.

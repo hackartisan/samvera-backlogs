@@ -1,0 +1,5 @@
+I should be able to restore a resource from its tombstone
+
+I'm currently able to restore a `FileSet`, but without its `FileMetadata` (please see https://github.com/pulibrary/figgy/compare/issues-3349-jrgriffiniii-restore-tombstones?expand=1).  I can certainly try to reconstruct the `FileMetadata` for the original file from the `PreservationObject` `FileMetadata`, but I just wish to confirm that this would be desireable.
+I think a FileSet is handled by https://github.com/pulibrary/figgy/pull/3351. A resource would probably use the BlindImporter.
+I've started with this, but I needed to get tombstones generated with: https://github.com/pulibrary/figgy/commit/21fc9f28954564fb67ea9a8b46f7d54b8832c651

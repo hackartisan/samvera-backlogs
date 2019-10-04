@@ -1,0 +1,2 @@
+Add attributes to presenters
+The attributes were only included in the Publication presenter. This commit adds them to the two other work types.

@@ -1,0 +1,2 @@
+Feature/clothing newfields
+Fixes #987

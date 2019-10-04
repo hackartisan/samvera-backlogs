@@ -1,0 +1,2 @@
+show child presses' monographs on parent's catalog
+Resolves #1413

@@ -1,0 +1,2 @@
+File Set <head><title> for Edit and Show
+Adds page_title method to file set presenter, provides page_title on show, and adds same to edit page. Fixes #516

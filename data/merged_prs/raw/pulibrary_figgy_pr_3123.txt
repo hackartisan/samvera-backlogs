@@ -1,0 +1,2 @@
+Display cloud fixity status on FileSets
+Towards #3111

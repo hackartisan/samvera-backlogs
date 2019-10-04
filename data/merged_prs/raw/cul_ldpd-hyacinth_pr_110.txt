@@ -1,0 +1,2 @@
+implement Ability logic for digital object permissions in projects
+begin authorizing digital_objects_controller

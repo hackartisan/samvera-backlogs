@@ -1,0 +1,2 @@
+Everything should use `viewer.html` instead of `uv/uv.html`
+The path to uv/uv.html may change, and its contents are overridden every time we update UV. Requires #2407

@@ -1,0 +1,2 @@
+Fix formatting for form labels on edit page
+Descriptive summary Form labels are inconsistent for some fields on the edit page.  Expected   These three, which only show up after an item is ingested, need to be made smaller and bolded:   Representative media  Thumbnail  Rendering    The date section needs the top "Dates" to be removed, as well as all occurrences of "Dates" that show up after a type of date is selected.   Remove top Dates  Make Date bold  Remove nested Dates

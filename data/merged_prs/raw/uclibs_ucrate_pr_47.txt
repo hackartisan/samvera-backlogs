@@ -1,0 +1,2 @@
+update to ruby 2.5 and add gemset
+fixes #42

@@ -1,0 +1,2 @@
+Reinstate orcid about page
+Descriptive summary Restore orcid_about static page from scholar 2.x uclibs/scholar_uc_legacy@3b1db7f Related work Related #810

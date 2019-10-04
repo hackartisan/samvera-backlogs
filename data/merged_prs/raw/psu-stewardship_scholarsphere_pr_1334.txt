@@ -1,0 +1,2 @@
+Adding benchmarking scripts from chef repo
+Moves the benchmarking scripts from our private Chef repo into Scholarsphere. Includes additional instructions for executing the scripts, referencing our external documentation. Fixes #1326

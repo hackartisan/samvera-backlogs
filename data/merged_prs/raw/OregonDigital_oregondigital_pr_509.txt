@@ -1,0 +1,2 @@
+Fixing directory and absolute_directory on BulkTask
+BulkTask#refresh now sets the directory attribute to a relative path from the configured bulk upload directory, and #absolute_path now only prepends the base dir if the 'directory' path is relative.

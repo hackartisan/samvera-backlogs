@@ -1,0 +1,2 @@
+Use POST method to query solr
+Fixes #463 We use FAR too much metadata to query via GET. https://github.com/rsolr/rsolr#using-post-for-search-queries Here's some docs about the underlying Rsolr details. https://github.com/projectblacklight/blacklight/blob/master/lib/generators/blacklight/templates/catalog_controller.rb And the config in Blacklight this changes.

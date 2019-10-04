@@ -1,0 +1,2 @@
+Configure .env files so app can be run natively
+This moves most of the environment variables from docker.env to default.env, changing values specific to our docker setup to values that allow a native-running rails process to connect to services running in docker containers. To run natively, run ln -s default.env .env to create a symlink.

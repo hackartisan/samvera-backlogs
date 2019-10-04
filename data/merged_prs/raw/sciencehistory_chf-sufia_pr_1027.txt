@@ -1,0 +1,2 @@
+improved and human readable citations
+Closes #931

@@ -1,0 +1,2 @@
+Increase database timeout for tests
+Partial fix for #310 We sometimes get the following error when running specs: ActiveRecord::StatementInvalid:        SQLite3::BusyException: database is locked  It happens when a database operation is running and then a second database operation has to wait longer than 5 seconds and finally times out.  SQLite can't always keep up with what Samvera throws at it.  So I increased the database timeout (in test mode) to 30 seconds.

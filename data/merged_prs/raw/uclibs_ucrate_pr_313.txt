@@ -1,0 +1,2 @@
+Port over the manifest generator from Scholar'
+Fixes #303

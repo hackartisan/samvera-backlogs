@@ -1,0 +1,2 @@
+Removing linking of scholarsphere.yml
+refs #1037

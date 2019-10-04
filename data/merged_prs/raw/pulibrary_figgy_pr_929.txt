@@ -1,0 +1,2 @@
+Use imported metadata in geo resources
+Geo resources now use imported metadata to store metadata from Voyager. Allows for adding additional metadata on the resource such as additional non-LC subject terms and place names. Implements a decorator for generating geoblacklight documents. Decorator merges, and deduplicates, imported with non-imported data.  Closes #925

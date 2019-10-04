@@ -1,0 +1,2 @@
+fixes login link on devise page
+Fixes #259 QA: Go to devise login page and links for UO and OSU should be labeled correctly.

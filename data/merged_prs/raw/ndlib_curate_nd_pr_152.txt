@@ -1,0 +1,2 @@
+DLTP-192 Adding header to enable nginx proxy downloads
+adding filpper gem for configuration options configuring use_proxy_for_download option refactoring download to use new configuration option adding spec for download with proxy enabled

@@ -1,0 +1,2 @@
+R&D: supply correct width/height for embed code for images
+Descriptive summary Currently the embed URL isn't always correct based on the derivative's long edge (768). Sometimes 768 pixels is the height and othertimes width and the other length is variable. Task Determine if iframe can determine the correct width/height value based on the image dimensions.

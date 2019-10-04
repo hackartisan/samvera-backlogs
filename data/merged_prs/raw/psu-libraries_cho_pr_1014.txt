@@ -1,0 +1,2 @@
+Rename Operations::Shared to Operations::ChangeSet
+Description The Operations::Shared module became the dumping ground for transactions that didn't seem to have a defined place to go at the time. Now that it's clear that these all deal with change sets in some way, it seems appropriate to rename their module namespace to reflect that. Note, Transaction::Shared is still a thing and seems correct since that whole list of transactions is literally shared all over the place.

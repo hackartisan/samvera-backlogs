@@ -1,0 +1,2 @@
+Coin Form Reorganization
+Feedback during all-hands:  Die axis, size, weight should be together In general we can have some groupings: physical things, location things.  Child of #2025

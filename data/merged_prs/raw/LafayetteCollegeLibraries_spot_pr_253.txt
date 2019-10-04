@@ -1,0 +1,2 @@
+add visibility facet for admin
+adds a visibility facet (for admins only at the moment) that uses Hyrax::PermissionBadge for rendering closes #247

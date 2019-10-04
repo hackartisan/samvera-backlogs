@@ -1,0 +1,2 @@
+Try to fix intermittent spec by forcing `let` to cache
+refs #2838

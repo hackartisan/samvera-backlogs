@@ -1,0 +1,2 @@
+Index subject categories in the subject facet
+Improves upon #416 by ensuring categories are indexed, and that larger vocabularies are not.

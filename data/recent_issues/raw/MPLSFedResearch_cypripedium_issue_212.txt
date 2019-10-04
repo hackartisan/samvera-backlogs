@@ -1,0 +1,2 @@
+Test Coverage
+STORY As an engineering manager, I want to know that I have adequate test coverage, so that my upgrades have minimal risks DETAILS Coverage is currently at 84%, which feels like it might be a little low - https://coveralls.io/github/MPLSFedResearch/cypripedium?branch=master ACCEPTANCE   The team agrees on a standard for test coverage - we use % only as a guide and evaluate the relative risk of code not covered by tests  We do a time-boxed review of the code that is not covered and generate tickets for any portions that are high risk

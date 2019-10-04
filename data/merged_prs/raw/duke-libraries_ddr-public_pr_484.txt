@@ -1,0 +1,2 @@
+Patches RSolr to use .solr_escape for .escape
+Effectively squashes deprecation warnings.

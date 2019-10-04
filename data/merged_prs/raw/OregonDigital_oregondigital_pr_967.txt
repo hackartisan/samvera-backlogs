@@ -1,0 +1,2 @@
+Feature/primary set
+Fixes #965 Primary Set is a public field and should be searchable when clicked, but it's not Faceted.

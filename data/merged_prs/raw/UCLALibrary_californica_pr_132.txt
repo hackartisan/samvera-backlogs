@@ -1,0 +1,2 @@
+Add example LADNN csv file with full headers
+This commit adds a sample import file based on the first 25 images included in the La Daily News Negatives collection.  The file includes all exported fields and has the exact header we expect for the final production data. Metadata values in the file are exported from live data from the production system. connected to #131

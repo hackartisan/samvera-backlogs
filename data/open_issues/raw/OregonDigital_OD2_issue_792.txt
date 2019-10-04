@@ -1,0 +1,3 @@
+Refine Review Page list to only display works that are in review that a current user can review
+Descriptive summary On the review submissions page, the list of works in review should only display works that a current user can display. We have the ability for it but we need to override the table and insert our check when it renders each work.
+Also, this includes the ability to only see the item show page for works that are needing review in a collection curators collections

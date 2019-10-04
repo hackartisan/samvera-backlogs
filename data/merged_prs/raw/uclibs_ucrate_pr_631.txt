@@ -1,0 +1,2 @@
+add multiple? method to batch_upload_item.rb
+Fixes #615 add 'multiple?' method in batchUploadItem model and spec file for it.

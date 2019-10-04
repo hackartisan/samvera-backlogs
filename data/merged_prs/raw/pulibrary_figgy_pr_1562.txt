@@ -1,0 +1,2 @@
+Allow Geo resources to be synced to DPUL
+Fixes #1561

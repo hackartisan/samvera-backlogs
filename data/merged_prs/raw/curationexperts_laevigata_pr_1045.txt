@@ -1,0 +1,2 @@
+Move OmniauthCallbacksController to conventional file location
+This helps Rails (and me!) find the file.

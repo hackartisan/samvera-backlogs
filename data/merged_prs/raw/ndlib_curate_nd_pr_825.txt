@@ -1,0 +1,2 @@
+Add ids to upload trx table
+Add work id to ApiTransaction table Create ApiTransactionFile table

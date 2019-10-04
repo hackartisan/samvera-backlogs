@@ -1,0 +1,2 @@
+Update Nokogiri to 1.7.1
+Patches a security flaw in libxml2 and also includes an update to QA, which was limiting Nokogiri to 1.6.x only.

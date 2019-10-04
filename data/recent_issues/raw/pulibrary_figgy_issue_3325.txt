@@ -1,0 +1,2 @@
+GCS-Enabled Shrine MetadataAdapter is throwing NoMethodError on FileNotFound.
+It should throw Valkyrie::StorageAdapter::FileNotFound

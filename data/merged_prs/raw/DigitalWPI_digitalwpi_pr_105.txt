@@ -1,0 +1,2 @@
+Hyrax will now email users, also Embargo Emails set up
+Took inspiration form UC on the embargo email code, and tests. Got it to work in our system, just need a cron job that checks the embargo dates once per day. Also the library team needs to decide the wording of the emails and recipients of the cemails. Connects to #103

@@ -1,0 +1,2 @@
+PAIRING: Remove Date Uploaded on sort
+STORY As a researcher, I don't want to see a date uploaded sort option, because it's clutter I don't really need. ACCEPTANCE   The "Sort by" dropdown on search results does not list "Date Uploaded" ascending or descending as options  Child of #189

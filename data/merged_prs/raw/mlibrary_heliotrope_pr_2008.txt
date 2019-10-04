@@ -1,0 +1,2 @@
+CC icons for monographs
+Resolves HELIO-2146

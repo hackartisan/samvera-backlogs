@@ -1,0 +1,2 @@
+WIP, Q: Strip blank spaces before or after a heading fixes #385
+Q: Right now the migration rake task strips trailing/leading spaces from ANY fedora property that is a String. Is this bad? Should I limit it to a certain whitelist? If so, is there any place in existing code I could pull such a whitelist of "properties that are editable in the form"?

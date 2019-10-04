@@ -1,0 +1,2 @@
+add blacklight-advanced-search support
+we're going to want an advanced search interface

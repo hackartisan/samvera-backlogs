@@ -1,0 +1,2 @@
+Explore Kaltura for Delivering Audio/Video
+PSU is licensing Kaltura for enterprise use. It might be a really good option for serving audio and video streams within CHO. Kaltura generates multiple derivatives with different levels of quality and delivers the highest quality video to the user based on their connection. Transcoding and video streaming are resource intensive so this could take a lot of strain of CHO. Related: #47, #48, #187

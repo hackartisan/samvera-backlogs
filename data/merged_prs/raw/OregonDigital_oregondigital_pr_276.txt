@@ -1,0 +1,2 @@
+Fixed facets when there's no returned facet.
+Closes #265

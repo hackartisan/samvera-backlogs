@@ -1,0 +1,2 @@
+Start processing original files to JP2
+Descriptive summary @jechols suggests that we begin a process that will transcode original files (at least TIFFs) to JP2 Expected behavior   Setup AWS S3 storage  Generate a catalog of the original OD location, transcode_status, and the final S3 location of each file  Write a script to process and log each TIFF?  As a TIFF is transcoded, record in the catalog that it had been completed and where it was stored

@@ -1,0 +1,2 @@
+improves handle controller solr queries for FileSet matches
+fixes #1060

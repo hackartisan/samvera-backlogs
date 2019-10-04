@@ -1,0 +1,2 @@
+Text on static pages should be limited to 120 chars per line
+Moved from uclibs/scholar_uc_legacy#431 Descriptive summary The width used for text on our static pages (/about, /documenting_data, etc.) is too wide.  Even if the user has a wide bowser window, the lines of text should be limited to no more than 120 characters per line. See https://webaim.org/techniques/textlayout/#column_width This should apply to everything in app/views/static and app/views/welcome_page This can likely be accomplished in an eloquent way using Bootstrap.

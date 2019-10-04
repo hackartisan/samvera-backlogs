@@ -1,0 +1,2 @@
+header cuts off top of content
+ISSUE I don't know if this has always been true or happened in the Hyrax upgrade, but we're cutting off the top of the content section with the banner in Safari and Chrome. ACCEPTANCE   I can see the breadcrumb in the top of my content window  CURRENT  EXPECTED

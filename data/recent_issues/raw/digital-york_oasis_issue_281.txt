@@ -1,0 +1,2 @@
+Initial disappears from How to cite section
+On the summary details page one of the author's initials (the middle name initial) disappears in the publication field:  I have entered the initial correctly in the upload form:  The same thing happens with the middle initial for the summary writer in the how to cite section:  Again, I have entered it correctly on the form:  The same issue then occurred with another summary I uploaded. I used Chrome Version 72.0.3626.96

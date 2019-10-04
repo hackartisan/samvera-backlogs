@@ -1,0 +1,2 @@
+Updating secrets for changes to permissions
+This builds on the work for #361. There was a switch from work_type_permission.yml to work_type_policy_rules.yml as part of the previous work. The secrets, however, were not getting updated.

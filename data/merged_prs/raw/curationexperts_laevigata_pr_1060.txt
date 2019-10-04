@@ -1,0 +1,2 @@
+Remove deprecated `curation_concerns_embargo_management` routes
+This command is now a no-op and raises deprecation warnings. Removing it leaves all the current behavior intact.

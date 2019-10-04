@@ -1,0 +1,2 @@
+Ensure that babel-polyfill is loaded
+We needed to import this as the first script in the root.js file so that babel will be able to polyfill. Tangentially related to #1513

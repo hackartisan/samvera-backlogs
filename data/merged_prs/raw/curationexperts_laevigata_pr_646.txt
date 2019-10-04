@@ -1,0 +1,2 @@
+Asychronous virus checking
+Closes #221

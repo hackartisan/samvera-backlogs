@@ -1,0 +1,2 @@
+move date facet to top of facet list
+Closes #766

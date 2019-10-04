@@ -1,0 +1,2 @@
+Change "Apply Changes" to say "Apply All Changes"
+User showed some confusion about whether they had to hit the button multiple times, one per file.

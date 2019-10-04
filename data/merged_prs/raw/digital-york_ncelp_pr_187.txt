@@ -1,0 +1,2 @@
+Issue 184 make collection functional
+Resolve #184

@@ -1,0 +1,2 @@
+Dltp 1036 catholic document in curate nd
+Adding new Catholic Document type in Curate as separate from Document.

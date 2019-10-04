@@ -1,0 +1,2 @@
+Cleanup after specs
+Use DatabaseCleaner and ActiveFedora::Cleaner to manage RDBMS, Fedora, and Solr state in the test suite.

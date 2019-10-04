@@ -1,0 +1,2 @@
+Ensure derivatives persist between deploys
+Set the default derivative location to /opt/derivatives so that thumbnails don't disappear every time we make a new release. Fixes #51 Fixes #54

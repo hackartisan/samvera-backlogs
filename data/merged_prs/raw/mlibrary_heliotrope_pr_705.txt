@@ -1,0 +1,2 @@
+Resolves #682 mongraph.subject should be multi-value
+The importer splits monograph.subject on the semi-colon into an array

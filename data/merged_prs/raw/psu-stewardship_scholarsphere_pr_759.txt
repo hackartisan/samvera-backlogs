@@ -1,0 +1,2 @@
+Enable errors in development mode
+This reverts one of the changes in 9cd3e4c so we can see the actual error in development mode. It also allows the better_errors console to render.

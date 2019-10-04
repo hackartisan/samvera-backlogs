@@ -1,0 +1,1 @@
+Adding support for fulltext indexing complex objects and HTML files (DHH-669)

@@ -1,0 +1,2 @@
+strip leading and trailing whitespace off of all form entries
+Descriptive summary Hyrax currently preserves whatever you put into a form field, including leading and trailing whitespace. we do not currently have, or imagine a time when we would have, a use case for any form fields with leading or trailing whitespaces on form entries. This creates problems for faceting. Expected behavior information entered into form fields should not preserve leading and trailing whitespace. Actual behavior information entered into form fields preserves leading and trailing whitespace.

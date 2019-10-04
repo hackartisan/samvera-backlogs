@@ -1,0 +1,1 @@
+added bulk download as ZIP of JPGs for multi-image items

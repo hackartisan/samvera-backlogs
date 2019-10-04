@@ -1,0 +1,2 @@
+[Figgy/production] PDFGenerator::Error: PDFGenerator::Error
+Backtrace line 30 of [PROJECT_ROOT]/app/services/pdf_generator.rb: rescue in block in render line 24 of [PROJECT_ROOT]/app/services/pdf_generator.rb: block in render line 18 of [PROJECT_ROOT]/app/services/pdf_generator.rb: each  View full backtrace and more info at honeybadger.io

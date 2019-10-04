@@ -1,0 +1,2 @@
+HELIO-2587 - add hypothes.is annotation widget
+Add listeners for annotation; add custom annotation control; adjust CSS and annotation icon; config hypothes.is e-reader show page; configure panel toggle on and off for annotations; add annotation counts to button; moves altmetric and dimensions widgets to the top menu because we are reaching too many widget buttons in the mid menu. This branch also include some basic cleanup to the e-reader show page.

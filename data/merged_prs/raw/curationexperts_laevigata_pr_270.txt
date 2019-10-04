@@ -1,0 +1,2 @@
+put admin set selector from relationships tab into review tab
+Sorry to have removed this, I tested locally and it works, but if there are any problems please let me know and I'll fix them.

@@ -1,0 +1,2 @@
+Use faster Valkyrie ORM Converter
+Should provide significantly faster read performance for large result sets. Needs a decent amount of testing in staging. This makes the Identifiers to Reconcile report page render in 1.1 minutes vs 2.9 minutes.

@@ -1,0 +1,2 @@
+Changing to solr 7.4.0
+Description Updating solr version so it works with java 11 The error you get is that solr_wrapper never starts up and just times out with the newer java and solr 7.1.0

@@ -1,0 +1,4 @@
+Need to force https for login page
+While we support https for oregondigital, we don't force it for the login page. Thus unless users specifically go to the https:// url themselves, we are passing credentials in the clear.
+Based on some very incomplete testing, it looks like the site does work if a user manually goes to https:// . Easy fix would is likely to make the entire site https via redirect on the nginx proxy that just redirects all urls to their https equivalent.
+@mellinma is going to talk to @decimalator about getting this on his task list. 

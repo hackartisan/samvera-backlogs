@@ -1,0 +1,2 @@
+See if you can make the autocompete stuff work with external services
+Jason writes: VIAF authority data has been placed under ODC-BY and looks to be pretty useful as is. There is an auto-suggest service, but it could still be too slow for our purposes. https://www.oclc.org/developer/develop/web-services/viaf.en.html https://platform.worldcat.org/api-explorer/ http://datahub.io/dataset/viaf

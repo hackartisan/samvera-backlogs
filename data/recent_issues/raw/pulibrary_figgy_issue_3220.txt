@@ -1,0 +1,2 @@
+Fixity display isn't showing failed events
+See https://figgy.princeton.edu/catalog/967a2c8a-1a7a-4934-bcb3-f320448f0334. It should have 1 failure.

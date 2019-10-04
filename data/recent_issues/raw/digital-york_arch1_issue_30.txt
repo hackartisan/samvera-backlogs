@@ -1,0 +1,2 @@
+cannot add data in admin
+Adding data to fields from drop-down lists and creating summary: worked OK, until I tried to open the Admin section before I had saved the entry I was working on. The a privacy message appeared and when I pressed 'continue' or 'go back', I was thrown out of the tool and lost the data I had been entering. The same thing happened when I tried to save the entry, and the system threw me out about three times before I could enter the data and save it properly.

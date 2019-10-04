@@ -1,0 +1,2 @@
+Fixes Vue Filemanager bug when dealing with blank labels
+fixes #1051

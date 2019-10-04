@@ -1,0 +1,2 @@
+simple override to limit resource type choices
+Fixes #1496 Fixes #1492

@@ -1,0 +1,2 @@
+Do not include the resourceType in the datacite xml
+The valid values for resourceType are specified in a datacite vocabulary, which does not match the values in our vocabulary. Since resourceType is not a required element, skip it. In the future, we can try to come up with a mapping. However, this mapping would have to be updated when we add new entries in our vocabulary.

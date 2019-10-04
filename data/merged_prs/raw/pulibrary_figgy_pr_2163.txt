@@ -1,0 +1,2 @@
+Replaces labels with titles for Playlists
+Resolves #2138

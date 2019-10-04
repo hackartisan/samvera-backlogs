@@ -1,0 +1,2 @@
+Add Publisher date/last modified column to Publisher Summary page
+On the Publisher Summary page, for each publisher row, include a "Date" column that displays when the entry was last modified

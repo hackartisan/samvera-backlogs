@@ -1,0 +1,2 @@
+PAIRING: Remove Date Modified on sort
+STORY As a researcher, I don't want to see a date modified sort option, because it's clutter I don't really need. ACCEPTANCE   The "Sort by" dropdown on search results does not list "Date Modified" ascending or descending as options  Child of #189

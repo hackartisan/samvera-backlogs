@@ -1,0 +1,2 @@
+Update devise to fix security vulnerability
+Fixes plataformatec/devise#4981

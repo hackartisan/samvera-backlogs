@@ -1,0 +1,4 @@
+Explore Versioning in Hyrax and see if it's suitable for us
+The vanilla Hyrax application already has mechanisms to upload and maintain different versions of files associated with works (Vdc::Resource).  We can potentially use this existing functionality for the VDC, but we need to learn more and see if it's suitable.
+One way to see different versions is by 1. View a work that you have access to. 2. Scroll down near the bottom and view the 'Items'. 3. Select the Filename (do not select from the Actions). 4. Click the 'Edit this File' button. 5. Select the 'Versions' Tab.
+Note from Grace:  This is a replacement version, not a viable version that is different in some way from another version.  We may need to find out if we can disable versioning feature for public files.  File owners can change/edit files even after they're public, which isn't desirable.

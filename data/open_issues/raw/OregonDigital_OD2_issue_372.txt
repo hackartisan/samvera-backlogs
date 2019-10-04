@@ -1,0 +1,3 @@
+Breakdown the OD1 visibility/groups/embargo solution
+Descriptive summary We need to translate the groups, visibility (open, private, institutional, embargo, etc) as it exists in OD1 to OD2 equivalents.   What are all of the groups/visibility/embargo combinations in OD1?  Also see related #32 @wickr @jsimic Can this be added to the MAP?
+Visibility panel should show the following options on the upload form: - [ ] Public - [ ] Oregon State University  - [ ] University of Oregon - [ ] Private  Embargo and Lease should be removed as options. OSU and UO behave as Institutional visibility but based on authentication of the user. 

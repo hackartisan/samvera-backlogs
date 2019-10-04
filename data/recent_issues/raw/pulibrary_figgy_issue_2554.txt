@@ -1,0 +1,2 @@
+Update preservation bags when files or metadata are updated
+Child of #1876 To efficiently update preservation bags, don't re-upload unchanged files.

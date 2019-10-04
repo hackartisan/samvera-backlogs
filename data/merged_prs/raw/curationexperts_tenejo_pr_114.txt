@@ -1,0 +1,2 @@
+When importing CSV records, add them to the specified collection.
+Connected to #101

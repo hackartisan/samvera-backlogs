@@ -1,0 +1,2 @@
+Clean up stale tenejo branches
+ACCEPTANCE Review https://github.com/curationexperts/tenejo/branches/all and   Remove, rebase, or merge branches significantly behind master

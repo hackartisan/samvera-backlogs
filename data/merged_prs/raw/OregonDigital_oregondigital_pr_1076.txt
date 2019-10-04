@@ -1,0 +1,2 @@
+Fix bulk task spec
+Removes JS requirement to speed up tests since they don't need JS Clicks the child task link directly instead of assuming the last one in the database will work

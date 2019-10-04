@@ -1,0 +1,2 @@
+Extracted text only added to "All Fields" search
+Description Extracted text was previously being added to every Blacklight search, which was leading to some very unexpected results. Now, we only add extracted text to the query if "All Fields" is the selected search field. Connected to #1005

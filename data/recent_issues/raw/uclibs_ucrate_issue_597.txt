@@ -1,0 +1,2 @@
+Collection visibility always reverts to Open Access
+Descriptive summary The test script has revealed a new bug.  Whenever we try to change the visibility of a collection, it always reverts back to Open Access after saving. This is a blocker for our release. Steps to reproduce:  Create a collection Go to the collection's edit page Go to the Discovery tab Change the visibility to University of Cincinnati or Private Click Save changes Notice that the visibility immediately reverts back to Open Access

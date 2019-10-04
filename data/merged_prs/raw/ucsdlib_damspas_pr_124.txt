@@ -1,0 +1,2 @@
+Added model and UI display for subject common name. DHH-712
+https://lib-jira.ucsd.edu:8443/browse/DHH-712

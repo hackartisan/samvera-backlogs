@@ -1,0 +1,2 @@
+Changing batch to store the id instead of creating a relationship. 
+Added upload_set to the work for storage of the data. refs #664

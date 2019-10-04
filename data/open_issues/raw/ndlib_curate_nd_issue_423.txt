@@ -1,0 +1,2 @@
+Restore random specs
+Specs began breaking when run on travis in a random order. To determine if the specs are still breaking via a random order execute the following: $ bundle exec rake curatend:travis SPEC_OPTS="--tag ~js:true --seed 33652" This will require updating the spec/spec_helper.rb to use config.order = 'random' and no longer use config.seed = '44282'.

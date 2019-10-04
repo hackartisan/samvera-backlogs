@@ -1,0 +1,2 @@
+DLTP-274: Fix link hover style for IE11
+The link style was transitioning between transparent and a dark color. Now it is transitioning between two colors. Normal browser behavior is to show the background color from the containing element. IE 11 was showing the background image for the hero image instead. Closes #274

@@ -1,0 +1,2 @@
+Wire Together Text Extraction and Fits
+Right now #653 is grabbing text for specific mime-types because FITS wasn't wired in. Needs to be re-worked for FITS to determine if tika should run to extract text. (/cho/work/file.rb). Enhancement to #135 / #653

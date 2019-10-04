@@ -1,0 +1,2 @@
+Replace master_file_path with preservation copy and access copy
+preservation_copy will continue to store the full pathname of the resource on 'Masters', like master_file_path access copy will initially also behave just like master_file_path and inherit all its data. In the future it will also support a full url for the new iiif service.

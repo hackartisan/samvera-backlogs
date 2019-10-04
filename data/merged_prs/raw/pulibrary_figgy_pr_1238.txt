@@ -1,0 +1,1 @@
+Add ark_report to archival media collection, fixes #1005

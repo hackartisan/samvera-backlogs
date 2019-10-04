@@ -1,0 +1,2 @@
+Search and browsing collections
+Description Updates the collection landing pages to provide search and browse capabilities to collections. Changes  edit actions are links within the navbar collection search form added to landing page browsing collections recycles Blacklight catalog functions creates new collection resources controller that includes all the features of the catalog controller  Connected to #894 and #898

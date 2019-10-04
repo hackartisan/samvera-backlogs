@@ -1,0 +1,2 @@
+Bulk Ingest validation - check
+When #701 is fixed make sure it applies to bulk ingest as well. Jeremy to check notes to look for additional issues.

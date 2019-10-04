@@ -1,0 +1,2 @@
+IIIF Search is returning results from unrelated canvases
+Searching for "Design" on https://figgy.princeton.edu/catalog/parent/62144ac7-1169-4946-8fb4-65517fbc4b8e/ca039e1c-d95b-4b39-9e08-0e6f99bfd83a returns nearly 2k results.

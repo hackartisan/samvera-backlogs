@@ -1,0 +1,2 @@
+Be consistent in how we setup and tear down tests
+I'm hoping this will eliminate at least some of our intermittent CI failures

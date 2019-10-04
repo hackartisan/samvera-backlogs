@@ -1,0 +1,2 @@
+Seed existing collections
+implements the ability to define some base Collection metadata in a YAML file and create those collections via a rake task

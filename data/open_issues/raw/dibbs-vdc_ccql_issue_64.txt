@@ -1,0 +1,2 @@
+"Child Works" functionality is broken
+This ticket was opened prior to the code migration from Hyrax 1.0.4 to Hyrax 2.0.0. After the code migration, the functionality appears to be working. This should be tested further.

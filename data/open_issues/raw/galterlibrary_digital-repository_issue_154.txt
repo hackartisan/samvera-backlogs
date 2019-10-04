@@ -1,0 +1,2 @@
+Switch field autocomplete subject hints to SPARQL
+Currently we load things into the database but maybe triples storage might be better? Related to #133 Related to #17

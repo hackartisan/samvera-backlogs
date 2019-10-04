@@ -1,0 +1,2 @@
+Add PDF support for IIIF manifests
+Closes #3135

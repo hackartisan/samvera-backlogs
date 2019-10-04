@@ -1,0 +1,1 @@
+Make height, width not required for boxless ephemera folders; fixes #759

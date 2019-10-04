@@ -1,0 +1,2 @@
+Add upload_set_id to MediaResource, use it during archival media ingest
+resolves #1446

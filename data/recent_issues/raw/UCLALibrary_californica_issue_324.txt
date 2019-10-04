@@ -1,0 +1,2 @@
+Change the application name in the Californica banner
+ACCETPANCE   Display the name "Californica" instead of "Samvera" in the banner

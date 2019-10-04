@@ -1,0 +1,2 @@
+Sets default embargo to OSU for ETDs
+Fixes #712

@@ -1,0 +1,2 @@
+Homepage realign & theme update
+This update:  Replaces the original CurateND homepage Refactors the site-wide navigation Improves the presentation and consistency of “top-level” pages Changes the route for creating a new work to /deposit  This is largely an aesthetic change. There should be little to no functional impact.

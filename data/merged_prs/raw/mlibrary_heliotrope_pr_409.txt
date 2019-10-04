@@ -1,0 +1,2 @@
+Press catalog
+Closes #384 Creates a press results set to work with the press catalog page. Modifies the display of the list of monographs on a press catalog page to only include book cover, title, author, a description of the book, and a link to the monograph page. Stubs out a place to later include 4 "featured" assets. This PR also rewrites db/seeds, enabling it to either create OR update entries in the presses database when running bundle exec rake db:seed

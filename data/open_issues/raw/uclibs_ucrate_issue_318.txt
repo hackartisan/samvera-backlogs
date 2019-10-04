@@ -1,0 +1,2 @@
+Refactor to use resource_type instead of genre in Works
+Descriptive summary Our application uses an application level metadata field called genre to distinguish a sub classification of a work.  This genre field is used primarily in Image, Document, and Student Work. Hyrax provides us a meta-data field called resource_type that I think was designed for this type of sub classification.   Let's discuss a possible refactor here. Expected behavior That the resource_type fields is used in the same way that genre is used.  Config/Initializer/YML

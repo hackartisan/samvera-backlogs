@@ -1,0 +1,1 @@
+Changed Subject label to display Topic. Changed "License" and "Other Rights" to not display if there are no values. DHH-441 DHH-443

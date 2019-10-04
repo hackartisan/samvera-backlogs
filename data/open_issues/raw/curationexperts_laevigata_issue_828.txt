@@ -1,0 +1,2 @@
+Make audit job messages more helpful
+Include a link to the work that failed audit  Include a message about what failed and why

@@ -1,0 +1,2 @@
+Upgrade Hyrax, and remove Donut implementation of riiif and Universal Viewer
+Upgrades to latest Hyrax master Removes riiif and Universal Viewer, and all related code in Donut Ran hyrax:riiif generator  Make sure to run bundle install after pulling the feature.

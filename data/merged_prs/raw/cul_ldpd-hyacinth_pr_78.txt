@@ -1,0 +1,2 @@
+HYACINTH-310: Remove deprecated shadow ARK from DOI processing
+Besides being deprecated, we never used the shadow ARK, plus the DataCite EZ API does not return one when minting a DOI.

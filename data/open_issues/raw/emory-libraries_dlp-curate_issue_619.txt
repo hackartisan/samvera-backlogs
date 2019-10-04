@@ -1,0 +1,2 @@
+Test Groups/Roles Functionality for Collections
+This ticket dedicates extra time for conducting detailed testing on Hyrax permission roles as implemented for Emory.

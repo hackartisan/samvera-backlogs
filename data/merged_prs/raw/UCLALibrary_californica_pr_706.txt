@@ -1,0 +1,2 @@
+Update Gemfile.lock, especially nokogiri
+Addresses a high-severity security issue with nokogiri 1.10.3.

@@ -1,0 +1,4 @@
+Determine whether we will support other legacy bag structures
+via email from @kellybolding,  C1372 has extra folders for each barcode, which is not currently accommodated by our bag ingest code C1557 follows a different naming convention  Should we ask for these to be updated or make tickets to accommodate these structures?
+@kellybolding says she updated the structure of the bag (I think C1372) to fit current expectations, but that there are other legacy collections we will need to deal with.
+Correct. Both of these bags are good now, with the exception of the .jpg/.JPG issue.

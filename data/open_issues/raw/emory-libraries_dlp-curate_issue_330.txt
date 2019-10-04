@@ -1,0 +1,2 @@
+Assign/edit the default Thumbnail for a FileSet
+Review impact of our local customizations around thumbnails   Enhancement rescoped from original epic #119  Test standard Hyrax functionality for this  Test: if I replace a file in an existing set, is the thumbnail regenerated to reflect that?  Update 10/2/19: Review how this ticket relates to #442 (custom display image logic)

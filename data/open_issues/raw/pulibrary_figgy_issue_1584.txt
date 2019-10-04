@@ -1,0 +1,5 @@
+Ingest "Jackson Prints" (pudl0031)
+Note: VRA/GA, but records don't all map to Voyager - Triptychs, etc.
+http://pudl.princeton.edu/collections/pudl0031
+No METS metadata were found within https://drive.google.com/drive/u/0/folders/0B4Wo5hgOEFY3ZlZGUU5OS3FIbDA
+Needs metadata

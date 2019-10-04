@@ -1,0 +1,2 @@
+Upgraded ddr-models to v1.11
+Fixed file_info helper to provide 'Login to Download' link if file not publicly downloadable, user not logged, and the 'registered' group has the downloader role on the object. Removed devise views that are provided by ddr-models. Upgrade note:  Customize Ddr::Auth.sso_logout_url in production environment      Ddr::Auth.sso_logout_url += "?returnto=[root url]" replacing [root url] with the appropriate fully-qualified URL.

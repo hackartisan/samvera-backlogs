@@ -1,0 +1,2 @@
+404 errors
+Fixes https://scm.dlt.psu.edu/issues/9786 by rendering 404 on ActiveFedora::RecordNotFound

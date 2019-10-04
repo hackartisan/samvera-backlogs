@@ -1,0 +1,2 @@
+Integrate Orcid
+Fixes #179 Ports scholar's orcid functionality. Updating key dependencies for rails 5.1.4 Changes proposed in this pull request:  add orcid and devise-multi_auth gems Update orcid and devise-multi_auth gems for rails 5.1.x upgrade ruby version 2.4 in rubocop.yml Add frozen_string_literal: true to all files

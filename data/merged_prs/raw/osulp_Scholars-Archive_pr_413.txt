@@ -1,0 +1,2 @@
+TriplePoweredProperties
+A simple approach for connecting properties with URI's to fetch the graph and use the label(s) defined for them. "URI Enabled Fields" as it is known.. fixes #361 fixes #367 fixes #444

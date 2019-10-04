@@ -1,0 +1,2 @@
+UI fixes for hyrax
+Resolves #967 Resolves #1001 fix font size of facets; fix h2 spacing on publisher page; adjust order of stylesheets in manifest; remove hydra mention in README; fix icon size for external resources:  add spacing between applied facets box and drop down menus on monograph page:

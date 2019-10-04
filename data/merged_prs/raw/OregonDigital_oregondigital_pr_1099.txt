@@ -1,0 +1,2 @@
+Add URI button to Ingest Form on controlled fields
+This adds a URI button when an Ingest Form field is controlled, so instead of just showing the label the URI underneath it is also available. Button opens the URI in a new window, or can be used for copying the link to clipboard. Fixes #1098 Here's what it looks like:

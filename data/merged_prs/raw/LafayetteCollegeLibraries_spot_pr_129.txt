@@ -1,0 +1,2 @@
+add bootsnap dependency
+closes #126

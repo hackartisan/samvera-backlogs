@@ -1,0 +1,2 @@
+Adds Opt Out to User profile
+Adds a checkbox to the user profile and updates the email content to reflect Cynthia's changes. New column is added to the User table for the Boolean. Adds code to the jobs mailer to look for the value of the opt out checkbox and either sends or does not send the email based on user choice. TODO:   checkbox set to true, user exists, and sends email  checkbox set to false and does not send email

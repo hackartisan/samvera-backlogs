@@ -1,0 +1,2 @@
+Banner images for collections not persisting
+Descriptive summary Banner images I save to the edit pages of collections disappear the next day (I don't have a more specific time frame). Expected behavior A banner image saved to the edit page:  Banner image on the collections show page:  Actual behavior Error message on collections edit page:  Banner missing on collections show page:  Steps to reproduce the behavior  Go to the edit page of a collection. Click the branding tab. Upload and save a banner image. Wait.

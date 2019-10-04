@@ -1,0 +1,2 @@
+generic_metadata changes
+Came across the following possible changes while trying to migrate some assets: according to the OD2 map, repository should be multiple: false according to @wickr , set and primary_set should not be included here

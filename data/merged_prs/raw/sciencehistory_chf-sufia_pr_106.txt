@@ -1,0 +1,1 @@
+Edit and add markup to tooltips, fixes #85

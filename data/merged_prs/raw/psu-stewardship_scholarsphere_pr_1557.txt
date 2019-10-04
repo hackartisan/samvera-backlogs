@@ -1,0 +1,2 @@
+Changing work zip service to utilize the local file system
+Added a service to return the path, which could be used in the downloads controller and the zip service Changed the Downloads controller to utilize the extracted code changed the zip service to use the new code Changed the test to create an external file instead of an internal file

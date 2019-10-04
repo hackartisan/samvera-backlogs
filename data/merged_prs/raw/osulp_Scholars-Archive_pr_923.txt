@@ -1,0 +1,1 @@
+use path_to_image to get the proper image path

@@ -1,0 +1,2 @@
+Problem while deleting person role
+Tried to delete entry ‘addressee’; brought up error message and threw me out of admin, should have brought up list of entries already tagged

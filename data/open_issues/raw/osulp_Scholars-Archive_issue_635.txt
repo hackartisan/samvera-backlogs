@@ -1,0 +1,2 @@
+Geographic information should all be part of the same form element
+Currently, location is separate from bounding box and points on the form. Ideally we'd have all geo information in one element. This would look like a single pick list for geo that includes location, point, bounding box. if location is selected, the QA based typeahead box would appear. if point or box is selected, the field would behave as it does currently.

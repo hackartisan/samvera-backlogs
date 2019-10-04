@@ -1,0 +1,3 @@
+Make Feature Researcher creation more of a form for the administrator.
+Include User ID Include Personal title auto filled by LDAP, but editable Include photo Include Introduction ScholarSphere Use Link Addition Information
+We need to add an additional table in ActiveRecord to store all the elements separately and build the display from the items each time it is viewed. Form, Controller, DB record, and View. 

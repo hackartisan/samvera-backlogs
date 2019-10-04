@@ -1,0 +1,2 @@
+Remove old mimetype vocabulary from system.
+Fixes #1146

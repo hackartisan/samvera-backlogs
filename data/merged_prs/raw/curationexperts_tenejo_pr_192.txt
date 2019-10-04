@@ -1,0 +1,2 @@
+Logging fixes
+Use latest darlingtonia gem Make log output easily parsed by splunk This should now include the success / failure tally at the end of the import  Connected to #170 Connected to #186 Connected to #185

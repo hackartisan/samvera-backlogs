@@ -1,0 +1,2 @@
+persists solr server between uses
+The cloud style of Solr needs to persist more than just the cores for Docker.

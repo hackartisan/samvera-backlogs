@@ -1,0 +1,2 @@
+disabling clicks on disabled tabs
+Users should not be able to navigate to disabled tabs, and this commit prevents them from doing so. Addresses #1302

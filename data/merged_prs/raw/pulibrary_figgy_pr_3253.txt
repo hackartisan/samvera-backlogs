@@ -1,0 +1,2 @@
+Remove site-title in favor of lux header
+fixes #3241

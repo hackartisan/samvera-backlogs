@@ -1,0 +1,2 @@
+Reorganize specs
+Now that resource classes have been reorganized by resource (instead of by type of class), we should reorganize the specs to match. Refs #2112

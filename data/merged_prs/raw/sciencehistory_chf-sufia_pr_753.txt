@@ -1,0 +1,2 @@
+error reporting using the honeybadger service.
+honeybadger_api_key will have to be added to local_env.yml. API key can be seen in honeybadger web console.  Ref #714

@@ -1,0 +1,2 @@
+465 move display of local identifier to the bottom of a book's display 
+I moved it.

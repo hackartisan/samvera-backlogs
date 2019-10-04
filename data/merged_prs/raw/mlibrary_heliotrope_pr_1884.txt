@@ -1,0 +1,2 @@
+Resolves HELIO-1903, HELIO-1907, and HELIO-1908 Refactor External
+Added new metadata field 'external_resource_url'. Refactored code to use new metadata field. Removed metadata fields 'external_resource' and 'ext_url_doi_or_handle' from indexing and code references. Added task 'heliotrope:update_metadata' to migrate Fedora data. NOTE: The task will take a few hours to execute but can be rerun to continue if interrupted. Branch has been deployed to 'staging' and update_metadata task executed without incident and the application seems to functional as expected.

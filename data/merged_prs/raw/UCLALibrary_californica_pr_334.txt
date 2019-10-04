@@ -1,0 +1,2 @@
+Change header and footer colors to match the Californica Poppy
+define a new californica_yellow color in _variables.scss use it in the hyrax SCSS revise the footer and masthead templates to stop using the inverse navbar styles  Connected to #325.search-field-header

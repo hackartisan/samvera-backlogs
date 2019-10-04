@@ -1,0 +1,2 @@
+Do not lose department when we edit
+Under some circumstances, the form was losing the department field after being edited. This fixes the problem and adds a system spec for editing an existing ETD.

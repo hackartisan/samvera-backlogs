@@ -1,0 +1,2 @@
+Add "edit" link on asset show page
+Overrides Blacklight's "show tools" partial to add a new area for admin links (currently containing just the edit link) Closes #187

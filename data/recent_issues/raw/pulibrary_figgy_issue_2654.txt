@@ -1,0 +1,2 @@
+CharacterizationJob is sometimes just not getting queued?
+The result is a file which has been ingested but has mime_type "text/plain" and no derivatives.

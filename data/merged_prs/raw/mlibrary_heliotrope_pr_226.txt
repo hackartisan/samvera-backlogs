@@ -1,0 +1,2 @@
+manage users link shown only to certain privledged users
+resolves #121

@@ -1,0 +1,2 @@
+removing DataDictionary::ChangeSetPersister
+It was a copy of the valkyrie change set persister with better error handeling, which I moved into Valkyrie ChangeSetPersister refs #240 Additionally renamed the modules DataDictionary::Base and DataDictionary::ChangeSet becuase the code in the module did not match the name.

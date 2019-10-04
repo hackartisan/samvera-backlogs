@@ -1,0 +1,2 @@
+app/derivative_services duplicates app/derivative-services
+This was introduced in #2035, please see https://github.com/pulibrary/figgy/tree/master/app/derivative_services and https://github.com/pulibrary/figgy/tree/master/app/derivative-services for reference.

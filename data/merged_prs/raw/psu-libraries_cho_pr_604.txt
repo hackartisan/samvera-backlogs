@@ -1,0 +1,2 @@
+Transactions for extracting and validating bags
+Description Connected to #549 Extracts zip files containing bags and validates them according to Import::Bag specifications. Changes Provides transactions for extracting and verifying bags.

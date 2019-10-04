@@ -1,0 +1,1 @@
+Addresses HELIO-2660 Direct URL to tabs should load WebGL/stats etc

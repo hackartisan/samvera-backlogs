@@ -1,0 +1,2 @@
+Feature/GPP-260: Create Publication Submission Form
+Make sure to reinstall the bundle before testing, new gems were added. To run the submission form spec:  rake hydra:test_server bundle exec rspec spec/features/create_nyc_government_publication_spec.rb

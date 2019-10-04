@@ -1,0 +1,2 @@
+Users should not be able to save MP3s to disk
+Research streaming (HLS vs. DASH vs. ??) and format support (MP3 vs. AAC vs. ??)  Support HLS or DASH instead of allowing users to download access files  Child of #2066
