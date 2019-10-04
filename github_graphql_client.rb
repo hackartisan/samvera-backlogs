@@ -44,7 +44,7 @@ class Downloader
     loop do
       response = download_batch(cursor: cursor, type: type)
       sc_type = type.gsub(/(?<!^)[A-Z]/) { "_#$&" }.downcase
-      documents = response.data.organization.repository.send("#{sc_type}".to_sym).edges
+      documents = response.data.repository.send("#{sc_type}".to_sym).edges
       break if documents.count == 0
       puts "  Downloading #{sc_type} #{documents.first.node.number} through #{documents.last.node.number}"
       documents.each do |doc|
@@ -99,17 +99,15 @@ class Downloader
   def download_batch(cursor:, type:)
     response = @client.query <<~GRAPHQL
     query {
-      organization(login: \"#{@organization}\") {
-        repository(name: \"#{@repository}\") {
-          #{type}(#{pagination_parameters(cursor: cursor)}) {
-            edges {
-              cursor
-              node {
-                #{send("#{type}_fields".downcase.to_sym)}
-              }
+      repository(name: \"#{@repository}\", owner: \"#{@organization}\") {
+        #{type}(#{pagination_parameters(cursor: cursor)}) {
+          edges {
+            cursor
+            node {
+              #{send("#{type}_fields".downcase.to_sym)}
             }
-            totalCount
           }
+          totalCount
         }
       }
     }
@@ -193,7 +191,8 @@ end
 
 def downloader
   github = GithubClient.new(token: TOKEN).client
-  downloader = Downloader.new(client: github, repository_url: repos.first[:url], base_dir: DATA_DIR)
+  repo_url = repos.first[:url]
+  downloader = Downloader.new(client: github, repository_url: repo_url, base_dir: DATA_DIR)
 end
 
 def download_all
