@@ -1,5 +1,12 @@
+# Run it like $ GITHUB_TOKEN=my_token pry -r './github_graphql_client.rb'
+# do something like this with it:
+# > download_all
+# or
+# > downloader.download_prs
+
 require "graphlient"
 require "json"
+require "date"
 
 DATA_DIR = "data"
 API_URL = "https://api.github.com/graphql"
@@ -12,15 +19,24 @@ class Downloader
   def initialize(client:, repository_url:, base_dir:)
     @client = client
     @organization, @repository = parse_repository_url(repository_url)
-    @base_dir = base_dir
+    @open_path = File.join(base_dir, "open_issues", "raw")
+    @recent_path = File.join(base_dir, "recent_issues", "raw")
+    @merged_path = File.join(base_dir, "merged_prs", "raw")
+    [@open_path, @recent_path, @merged_path].each do |path|
+      FileUtils.mkdir_p(path)
+    end
   end
 
   def download_issues
-    download_data(type: "issues")
+    download_data(type: "issues") do |doc|
+      save_issue(doc: doc, project: "#{@organization}_#{@repository}")
+    end
   end
 
   def download_prs
-    download_data(type: "pullRequests")
+    download_data(type: "pullRequests") do |doc|
+      save_pr(doc: doc, project: "#{@organization}_#{@repository}")
+    end
   end
 
   def download_data(type:)
@@ -28,14 +44,50 @@ class Downloader
     loop do
       response = download_batch(cursor: cursor, type: type)
       sc_type = type.gsub(/(?<!^)[A-Z]/) { "_#$&" }.downcase
-      documents = response.data.organization.repository.send("#{sc_type}".to_sym).edges
-      puts "Number of documents #{documents.count}"
-      documents.each do |doc|
-        puts "  #{doc.cursor}"
-        puts "  #{doc.node.number}"
-      end
+      documents = response.data.repository.send("#{sc_type}".to_sym).edges
       break if documents.count == 0
+      puts "  Downloading #{sc_type} #{documents.first.node.number} through #{documents.last.node.number}"
+      documents.each do |doc|
+        yield(doc.node)
+      end
       cursor = documents.last.cursor
+    end
+  end
+
+  def comment_bodies(doc)
+    doc.comments.nodes.map { |n| n.body.gsub("\n", " ") }
+  end
+
+  def body_text(doc)
+    doc.body_text.gsub("\n", " ")
+  end
+
+  # base_dir/merged_prs/raw/pr_2
+  def save_pr(doc:, project:)
+    text = [doc.title, body_text(doc)].flatten
+
+    if doc.merged
+      path = File.join(@merged_path, "#{project}_pr_#{doc.number}.txt")
+      File.open(path, "w") { |f| f.write(text.join("\n")) }
+    end
+  end
+
+  def save_issue(doc:, project:)
+    last_year = Date.today.prev_year
+    created_date = Date.parse(doc.created_at)
+
+    text = [doc.title, body_text(doc), comment_bodies(doc)].flatten
+
+    # for open issues, title, description, and comments
+    if !doc.closed
+      path = File.join(@open_path, "#{project}_issue_#{doc.number}.txt")
+      File.open(path, "w") { |f| f.write(text.join("\n")) }
+    end
+
+    # for recent issues, just title and description
+    if created_date > last_year
+      path = File.join(@recent_path, "#{project}_issue_#{doc.number}.txt")
+      File.open(path, "w") { |f| f.write(text[0, 2].join("\n")) }
     end
   end
 
@@ -47,17 +99,15 @@ class Downloader
   def download_batch(cursor:, type:)
     response = @client.query <<~GRAPHQL
     query {
-      organization(login: #{@organization}) {
-        repository(name: #{@repository}) {
-          #{type}(#{pagination_parameters(cursor: cursor)}) {
-            edges {
-              cursor
-              node {
-                #{send("#{type}_fields".downcase.to_sym)}
-              }
+      repository(name: \"#{@repository}\", owner: \"#{@organization}\") {
+        #{type}(#{pagination_parameters(cursor: cursor)}) {
+          edges {
+            cursor
+            node {
+              #{send("#{type}_fields".downcase.to_sym)}
             }
-            totalCount
           }
+          totalCount
         }
       }
     }
@@ -65,30 +115,31 @@ class Downloader
     response
   end
 
-  def pullrequests_fields
-    <<-FIELDS
-      number
-    FIELDS
-    #comments
-    #labels
-    #title
-    #bodyText
-    #merged
-    #milestone
-    #createdAt
-  end
-
+  # setting pagination on comments and labels to max allowed;
+  # don't expect we'll ever see that many.
   def issues_fields
     <<-FIELDS
+      title
+      bodyText
+      comments (first: 100) {
+        nodes {
+          body
+        }
+      }
       number
+      closed
+      createdAt
     FIELDS
-      #comments
-      #labels
-      #title
-      #bodyText
-      #closed
-      #milestone
-      #createdAt
+  end
+
+  def pullrequests_fields
+    <<-FIELDS
+      title
+      bodyText
+      number
+      merged
+    FIELDS
+    #createdAt
   end
 
   def pagination_parameters(cursor:)
@@ -140,8 +191,16 @@ end
 
 def downloader
   github = GithubClient.new(token: TOKEN).client
-  Downloader.new(client: github, repository_url: repos.first[:url], base_dir: DATA_DIR)
+  repo_url = repos.first[:url]
+  downloader = Downloader.new(client: github, repository_url: repo_url, base_dir: DATA_DIR)
 end
 
-# do something like this with it:
-#downloader.download_issues
+def download_all
+  github = GithubClient.new(token: TOKEN).client
+  repos.each do |repo|
+    puts repo[:url]
+    d = Downloader.new(client: github, repository_url: repo[:url], base_dir: DATA_DIR)
+    d.download_issues
+    d.download_prs
+  end
+end
