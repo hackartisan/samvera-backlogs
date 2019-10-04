@@ -1,0 +1,2 @@
+Update pagination z-index to be less than the add-content button z-index
+closes #2236

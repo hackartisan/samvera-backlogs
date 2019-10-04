@@ -1,0 +1,2 @@
+Remove continuous deploy
+It was breaking the travis build, and it's attempting to deploy to a system that doesn't exist any longer. We can add it back if we decide we want cd for this project again. Fixes #1846

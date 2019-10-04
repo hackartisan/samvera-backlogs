@@ -1,0 +1,2 @@
+Switch EZID to Datacite for DOI processing
+This code is already in production :( I had to wait for them to move the prefix to finalize my tests.

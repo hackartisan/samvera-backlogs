@@ -1,0 +1,2 @@
+Fix the size of the alchemy image
+should be 700x700, oops.

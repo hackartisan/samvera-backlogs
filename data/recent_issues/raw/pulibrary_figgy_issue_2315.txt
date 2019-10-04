@@ -1,0 +1,2 @@
+Playlist tracks should have a link to the recording they're from
+It's hard to tell where the source of a recording is right now.

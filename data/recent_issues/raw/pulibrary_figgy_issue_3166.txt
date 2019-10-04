@@ -1,0 +1,2 @@
+Unable to save logical structure
+Multiple users report they are unable to save structmaps:  On both mine and Aaron's accounts, Figgy is not letting us saving our struct maps. When we click the save button, it seems to work, but as soon we refresh the page all the struct mapping is gone and our changes are not reflected. Any idea what's going on?

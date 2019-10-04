@@ -1,0 +1,2 @@
+Fix download permissions
+allow anonymous users to download any file attached to a public resource allow staff to download all files  Fixes #1568; Fixes #2458

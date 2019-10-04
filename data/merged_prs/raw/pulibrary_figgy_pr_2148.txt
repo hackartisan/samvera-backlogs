@@ -1,0 +1,2 @@
+Add GraphQL support for Playlists.
+Closes #2141

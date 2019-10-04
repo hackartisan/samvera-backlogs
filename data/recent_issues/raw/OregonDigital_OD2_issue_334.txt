@@ -1,0 +1,2 @@
+Set contact email for single step workflow
+Descriptive summary as a starting point, the email address: oregondigitalref@uoregon.edu should be set as the notification email for the single step workflow.

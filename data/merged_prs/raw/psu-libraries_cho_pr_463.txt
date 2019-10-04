@@ -1,0 +1,2 @@
+Use a metadata schema for collections
+Description Allows us to define the same set of core fields for collections that are used for works. Additional configuration can later be added to expand fields on collections and vary them by the collection class. Fixes #407 Why was this necessary? Makes the process for defining fields on works and collections the same. Changes Are there any major changes in this PR that will change the release process? No. Checklist   i18n enabled  adequate test coverage  accessible interface

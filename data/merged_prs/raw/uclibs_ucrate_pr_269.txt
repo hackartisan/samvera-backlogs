@@ -1,0 +1,2 @@
+Use Scholar's "What are you uploading?" page
+Fixes #249 Added view file for uploading page Added classifyConcern controller and models Changed creating work type feature test Deleted 'human_readable_short_description' in models and used locals instead. Changed the work type in local file from using space to using first letter capital. For example, 'student_work' changed to 'StudentWork'. So the variable 'klass' can be used in 'new.html' to represent work type.

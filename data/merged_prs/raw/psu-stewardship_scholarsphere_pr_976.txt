@@ -1,0 +1,2 @@
+Patch AttributeRenderer
+Fixes two issues: 1) an update to I18n was breaking microdata, and 2) moves a previous method override to a prepend for better clarity. Note: the second fix has its unit test covered in translated_facet_attribute_rendere_spec

@@ -1,0 +1,1 @@
+dltp-1394 bump locabulary version to 0.8.1

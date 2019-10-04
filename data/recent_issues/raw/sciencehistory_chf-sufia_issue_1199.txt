@@ -1,0 +1,2 @@
+Change "from" field in the "reset password instructions" email
+At the reset password page, if you enter your email you will eventually get a message from “please-change-me-at-config-initializers-devise@example.com”. This could definitely be something more friendly. Maybe "reset_password@digital.sciencehistory.org".

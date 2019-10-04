@@ -1,0 +1,1 @@
+Allow admins to simiulate a regular user

@@ -1,0 +1,2 @@
+Imported works should be assigned to the logged in user
+ISSUE When I run a CSV Import, the new works show up in "All Works" instead of "Your Works" NOTE: The importer seems to be assigning all imports to the batch user. ACCEPTANCE   Works imported using the CSV importer show up under that user's "Your Works" tab.  The logged in user gets set as the depositor for works created by the CSV importer

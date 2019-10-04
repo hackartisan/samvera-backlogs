@@ -1,0 +1,2 @@
+Timeout each spec test after 5 seconds
+Trying to debug the hangs on the CI machine. This patch will tell us which tests are taking a while to complete. The value of 5 seconds is completely arbitrary, and could be increased.

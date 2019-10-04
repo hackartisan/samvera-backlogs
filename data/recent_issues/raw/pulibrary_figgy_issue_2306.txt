@@ -1,0 +1,2 @@
+Do not use embedded metadata title for a file metadata label
+(just use it for the fileset)

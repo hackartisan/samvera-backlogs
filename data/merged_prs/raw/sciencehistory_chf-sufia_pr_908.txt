@@ -1,0 +1,2 @@
+Tell blacklight to use POST rather than GET with Solr
+Attempt to fix #896

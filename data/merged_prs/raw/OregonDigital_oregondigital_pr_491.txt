@@ -1,0 +1,2 @@
+Updated Vagrant/Undid Asset Debugging
+Vagrant should now provision correctly. Uses Ubuntu 14.04. Development environment is no longer using asset debugging, which makes pages load MUCH faster.

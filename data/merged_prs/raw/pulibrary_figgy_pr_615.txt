@@ -1,0 +1,2 @@
+Extends the `FileAppender` Service to improve file updates for FileSets
+Resolves #605 by addressing the following:  Restructuring FileSetsController#update in parity with Valhalla::ResourceController#update Uses the services FileResources and FileResourceAdapter to ensure that file metadata is properly copied when files are added or updated for FileSets Ensures that the "Update Files" button on the FileSet catalog View is disabled by default Ensures that file labels and names are updated when files in FileSets are updated

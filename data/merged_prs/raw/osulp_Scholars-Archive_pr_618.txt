@@ -1,0 +1,1 @@
+updates hyrax gem and migrations

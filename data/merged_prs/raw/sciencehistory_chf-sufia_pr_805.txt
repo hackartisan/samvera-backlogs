@@ -1,0 +1,2 @@
+viewer, various keyboard control fixes
+closes #694 and #791

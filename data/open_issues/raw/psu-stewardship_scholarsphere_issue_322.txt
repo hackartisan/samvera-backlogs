@@ -1,0 +1,3 @@
+Number of views by loaction
+As a service manager, I would like to see how many visitors from Europe have viewed ScholarSphere content, so that I can help demonstrate the global reach of the service.
+@patriciahswe & @mahirakgun I think the view are possibly covered by google analytics: https://analytics.google.com/analytics/web/?authuser=0#report/visitors-geo/a33252017w60487619p61852754/ 

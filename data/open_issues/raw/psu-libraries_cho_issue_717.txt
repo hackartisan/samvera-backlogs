@@ -1,0 +1,2 @@
+Track failed extraction text transactions
+If text extraction fails, the file is created anyway, but we need to track the error so we can re-run it later.

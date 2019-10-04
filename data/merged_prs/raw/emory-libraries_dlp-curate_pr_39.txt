@@ -1,0 +1,2 @@
+Creates new hyrax app
+This commit creates a new Hyrax based rails application. Ruby version is '2.4.2', Rails version is '5.1.6', and Hyrax version is '3.0.0.pre.beta1' Connected to #29

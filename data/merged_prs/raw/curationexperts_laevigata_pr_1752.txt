@@ -1,0 +1,2 @@
+Capitalize "My ETD" on submission form tab
+Connected to #1749

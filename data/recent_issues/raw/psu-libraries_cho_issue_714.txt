@@ -1,0 +1,2 @@
+Home Page needs an H1
+Update the home page view to include an h1 for accessibility and code quality.

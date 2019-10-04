@@ -1,0 +1,2 @@
+Get ScholarSphere working with the Arkivo API and improve the documentation
+We should probably talk this through before merging. I'm not sure the tests pass because this upgrades the stack to the latest in Sufia master (which contains an Arkivo fix). So this Sufia PR needs merging before #185 will work: samvera-deprecated/sufia#1313

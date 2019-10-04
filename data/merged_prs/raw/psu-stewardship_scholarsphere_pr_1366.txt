@@ -1,0 +1,2 @@
+Add logging for migration process
+The migration process is long running. It would be good to know how many objects have been migrated and how close it is to finished. Log how many objects will be converted

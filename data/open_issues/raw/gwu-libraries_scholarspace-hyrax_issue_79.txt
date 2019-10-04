@@ -1,0 +1,2 @@
+Add "browse" link in marketing area
+Currently difficult to format the marketing area; defaulting to blue text, h1 size.

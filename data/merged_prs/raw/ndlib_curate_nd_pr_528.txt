@@ -1,0 +1,2 @@
+Edit OSF Archive
+This adds the ability to edit OSF Archive metadata. Changes: -Added an actor to handle modifying an OSF archive -Added additional/required view partials based on the fields that are currently in the show view for an OSF archive

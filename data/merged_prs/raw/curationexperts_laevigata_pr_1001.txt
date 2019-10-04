@@ -1,0 +1,2 @@
+Do not run the Hyrax Audit Service
+It emails the depositor of any work found to have a fixity issue. This is not the behavior we want.

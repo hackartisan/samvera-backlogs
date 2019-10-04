@@ -1,0 +1,2 @@
+Removing duplicate s from Creator label
+DLTP-1208

@@ -1,0 +1,2 @@
+Default facet config labels to simple_form labels
+Fixes #572

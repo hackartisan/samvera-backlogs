@@ -1,0 +1,2 @@
+Fixes problem with create collection feature tests
+Updated test to visit the correct page and let the creator be provided by the normal SolrDocument (rather than overwriting it and embedding HTML on it) since now the view does the HTML part. This PR fixes the two tests to create a collection. The test for delete collection is still failing and will be addressed in a separate PR.

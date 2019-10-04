@@ -1,0 +1,2 @@
+Temp fix for kakadu download
+Pulls Kakadu from an AWS bucket until their website is back online.

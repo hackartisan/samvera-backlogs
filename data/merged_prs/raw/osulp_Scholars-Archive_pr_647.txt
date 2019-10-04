@@ -1,0 +1,2 @@
+added degree level and degree name services
+fixes #543 Degree Level dropdown:  Degree Name dropdown:

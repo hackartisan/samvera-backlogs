@@ -1,0 +1,2 @@
+Remove "update" form from file set page file listing
+fixes #1091

@@ -1,0 +1,2 @@
+Refine announcement behavior and interface
+Pass a lambda, not a hash, to default_scope Resolves a deprecation warning Render announcement list into correct partial Refining announcement listing structure Announcement styling Remove announcement with AJAX callback Applying bootstrap styles to announcement management Fixing announcement specs Redirect back to the announcement list after create/update

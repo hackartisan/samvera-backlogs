@@ -1,0 +1,2 @@
+Hide Thumbnails from Screen Readers
+Overrides the image_tag helper default behavior by merging the empty alt and aria-hidden. Removes the catalog_helper_spec and uses the thumbnail feature test.

@@ -1,0 +1,3 @@
+Update mediainfo char service to use float for duration
+Valkyrie::Types now supports float.                figgy/app/characterization_services/mediainfo_characterization_service.rb                    Line 31       in       ae53812                                                     duration: media.duration.to_s # Floats are not supported as Valkyrie::Types
+There may be other places that use this value that we should look at? Or maybe due to other places this value is used it wouldn't make sense to use float, after all.

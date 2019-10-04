@@ -1,0 +1,2 @@
+Bug/#457 fix file name cutoff
+Fixes #457 Restructured the rows for the file uploader in both Batch Create and the Files tab in a individual work. Merged them both into the same script. Added new CSS rules that properly cut off a very long file name (depending on the screen size), and resizing the progress bar correctly.

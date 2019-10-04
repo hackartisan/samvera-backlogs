@@ -1,0 +1,2 @@
+Creator has disappeared from Resource details page
+The creator field seems to have disappeared from the Resource details page. When filled in it should appear.

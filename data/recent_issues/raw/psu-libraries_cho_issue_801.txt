@@ -1,0 +1,2 @@
+Header, Link, and Labeling Styles Confusing
+It's hard to distinguish between headers, metadata field labels, unclicked links, and clicked links. They are all black or shades of gray.

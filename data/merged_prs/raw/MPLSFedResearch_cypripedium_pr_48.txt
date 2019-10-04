@@ -1,0 +1,1 @@
+Use latest 1.0 release of hydra-role-management

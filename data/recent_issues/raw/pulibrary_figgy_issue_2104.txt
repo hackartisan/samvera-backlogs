@@ -1,0 +1,2 @@
+Numismatic Issue and Coin metadata are not searchable
+Despite testing for this in the catalog controller spec, coin and issue records in figgy-staging don't appear to be searchable. Child of #2025

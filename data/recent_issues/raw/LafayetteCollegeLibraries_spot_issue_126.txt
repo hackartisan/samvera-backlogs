@@ -1,0 +1,2 @@
+add bootsnap to shorten app boot times
+the bootsnap gem may help improve start-up times of our app (which currently takes for-ev-er to boot). could be nice to start-up a console quicker

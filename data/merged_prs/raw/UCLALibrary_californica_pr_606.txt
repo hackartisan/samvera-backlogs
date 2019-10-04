@@ -1,0 +1,2 @@
+Remove redundant rights statement validator
+Remove redundant rights statement validator Ensure importing a manuscript CSV creates Work and Collection objects as expected

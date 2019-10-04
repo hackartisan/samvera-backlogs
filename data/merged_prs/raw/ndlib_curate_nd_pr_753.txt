@@ -1,0 +1,2 @@
+Removing error reporting for ActiveObjectNotFoundError
+The original intent for this exception was to notify of an unexpected state (e.g. we wanted soft deletes). However, this fires for all hits against the /show/:id API regardless of whether something is missing or not.

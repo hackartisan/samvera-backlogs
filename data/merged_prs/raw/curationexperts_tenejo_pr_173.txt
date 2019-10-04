@@ -1,0 +1,2 @@
+Require valid license values
+Invalid license values result in an application error, so ensure we only have valid license values before we import the CSV. Connected to #172

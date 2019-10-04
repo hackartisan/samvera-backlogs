@@ -1,0 +1,2 @@
+Resolves HELIO-2505: DownloadsController should use Checkpoint
+EntityPolicy: method download?

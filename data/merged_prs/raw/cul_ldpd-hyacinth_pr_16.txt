@@ -1,0 +1,2 @@
+Add DigitalObject created_at and updated_at to XML datastream rendering
+ticket: HYACINTH-142 AC would like to generate following MODS:

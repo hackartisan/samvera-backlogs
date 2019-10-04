@@ -1,0 +1,2 @@
+Reuse IPTC or BEXT Metadata When Creating New Object via Web GUI
+As a visual resource librarian, who has taken the time to embed descriptive metadata in my TIFFs via IPTC, I would like CHO to extract this metadata from the file and use it to pre-populate the metadata records, So that I don't have to re-enter the data. This would only be applicable when uploading via the Web GUI. Same story for BEXT chunk in BWAV files.

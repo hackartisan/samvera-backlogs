@@ -1,0 +1,2 @@
+Changes to places pop-up and qa
+Quite a few changes in this one:  changes to the places pop-up to finish off the deep and ordnance survey lookup some housekeeping with the qa classes to make this work properly at the /qa url for people, places and subjects a few changes to other code to remove 'join' where I've now got it in the qa class instead rake task for adding places

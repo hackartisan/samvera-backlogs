@@ -1,0 +1,3 @@
+Implement View Object Type Template Wireframe
+dependent on #243
+This would take the structure of the form and substitute the editable components with visual representations.  Need to implement the views, and the controller action to load the object and possibly a presenter object type.

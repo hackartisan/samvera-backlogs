@@ -1,0 +1,2 @@
+Handle good, error, and warning cases in CSV manifests
+See PR #94 - write tickets for each case as appropriate, add additional as needed. Should the user just get a screen message, or could/should there be some sort of downloadable error report

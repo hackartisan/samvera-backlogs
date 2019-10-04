@@ -1,0 +1,2 @@
+Enable grid view controls
+The JavaScript governing the behavior needed to be explicitly required.

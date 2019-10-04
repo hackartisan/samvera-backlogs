@@ -1,0 +1,2 @@
+Remove CSRF verification for admin/reindex
+The users of this route do not POST from a page previously retreived, and so they do not have a CSRF token to use. Removing this verification should be not cause problems since the route is protected by an API key.

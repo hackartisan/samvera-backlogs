@@ -1,0 +1,2 @@
+[Geographic] Check for valid lat lon values
+Geographic points should only be enterable with valid values for latitude (-90-90) and longitude (-180-180).

@@ -1,0 +1,2 @@
+Remove the Blocks with N/A from the Admin Stats
+Overrides the Sufia Admin Show partial to remove the blocks without any data. Fixes #562

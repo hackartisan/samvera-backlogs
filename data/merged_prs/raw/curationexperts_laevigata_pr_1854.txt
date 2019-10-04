@@ -1,0 +1,2 @@
+Updates to yarn.lock
+According to https://yarnpkg.com/lang/en/docs/yarn-lock/ we are supposed to check yarn.lock into version control.

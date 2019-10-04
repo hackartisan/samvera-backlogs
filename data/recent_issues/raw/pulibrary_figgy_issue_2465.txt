@@ -1,0 +1,2 @@
+Make BrowseEverything source selection sticky
+When I switch to Google Drive, I would like that to be the default Browse Everything source if I ingest another item.

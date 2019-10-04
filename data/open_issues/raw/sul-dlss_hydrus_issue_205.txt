@@ -1,0 +1,2 @@
+"need to sign in" message is unnecessary, confusing, erroneous
+When I click on (or copy/paste) the link to an item that is provided in the Hydrus generated email, Hydrus always displays the message, "You need to sign in or sign up before continuing" when I am logged in and authenticated to the Stanford network. (see screenshot)  Would be great to better manage authorization status in the application so that we can display appropriate, not erroneous, messages to the user.

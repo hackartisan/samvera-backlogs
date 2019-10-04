@@ -1,0 +1,2 @@
+Extract slug validation from EphemeraProjects and use for Collections
+Fixes #1183

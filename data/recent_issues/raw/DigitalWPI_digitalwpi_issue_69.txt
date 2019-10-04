@@ -1,0 +1,2 @@
+Enable AV transcoding
+Enable FFMPEG in the configuration files so that AV transcoding works for video and audio files on upload.

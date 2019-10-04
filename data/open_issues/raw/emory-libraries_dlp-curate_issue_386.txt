@@ -1,0 +1,3 @@
+Test basic discovery of works within Emory Collections
+As a Repository Administrator or other registered user, I can assign works to an Emory Collection and discover them by browsing My Collections or All Collections  Discover works that have been created in my Library’s Collection by searching against indexed metadata  Verify that appropriate Visibility controls function on Emory Collections at the Collection level
+@eporter23  We closed out the related epic for this issue is the ticket still valid or is there some additional testing needed?

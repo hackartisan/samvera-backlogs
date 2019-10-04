@@ -1,0 +1,2 @@
+Make the admin user display screen more helpful
+Show user display_name and uid since most people don't have email addresses. Fixes #467

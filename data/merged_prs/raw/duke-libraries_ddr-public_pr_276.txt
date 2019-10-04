@@ -1,0 +1,1 @@
+Ignore collection thumbnail setting if item document not found.

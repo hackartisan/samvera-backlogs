@@ -1,0 +1,2 @@
+add banner title border
+Fixes #22

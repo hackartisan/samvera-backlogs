@@ -1,0 +1,2 @@
+Assess Collection Extensions functionality for SA@OSU
+Collection Extensions work should be dropping in Hyrax 2.1. We'll want to see how we can apply these for SA@OSU. Ideas:   create collections automatically for academic affiliations, other affiliations, and select admin sets.  reassign content to these collections  find a way to solicit need for new collections from users

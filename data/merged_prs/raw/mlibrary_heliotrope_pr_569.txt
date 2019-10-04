@@ -1,0 +1,2 @@
+modify colors and font for pagination buttons and menu
+Resolves #565

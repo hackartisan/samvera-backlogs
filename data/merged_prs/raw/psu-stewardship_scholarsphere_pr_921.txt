@@ -1,0 +1,2 @@
+Re-apply the title attributes to ensure title order is preserved
+In some cases, the order in which titles are created or updated is not preserved when saving the record. Re-applying the title order, in the same way we do with creators, fixes this problem. Note: This is a temporary fix. Once we have updated to the RDF 2.0 gem, there will be no guarantee of order and a more permanent solution will be needed.

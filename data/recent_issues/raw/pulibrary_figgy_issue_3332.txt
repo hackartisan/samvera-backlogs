@@ -1,0 +1,2 @@
+introduce primary_file as an abstraction in FileSet?
+The logic to check for original files vs preservation files is starting to show up in lots of places. It might help to centralize this check in a concept of primary_file. Are there down sides to this?

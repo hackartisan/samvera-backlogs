@@ -1,0 +1,2 @@
+add updated logo
+it's barebones, but maybe?  closes #168

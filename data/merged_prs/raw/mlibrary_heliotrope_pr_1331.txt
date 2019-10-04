@@ -1,0 +1,2 @@
+Resolves #1311: Add Ingest/Import Actor To Actor Stack
+Attention: Request for pull into hyrax2.rc1.

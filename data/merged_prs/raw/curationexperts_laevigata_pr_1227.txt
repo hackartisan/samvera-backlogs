@@ -1,0 +1,2 @@
+Refactor `edit_rollins_spec` for simplicity
+Use :workflow and remove :perform_jobs from the Edit Rollins specs. This simplifies and normalizes test setup.

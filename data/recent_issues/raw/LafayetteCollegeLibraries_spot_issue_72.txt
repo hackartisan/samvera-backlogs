@@ -1,0 +1,2 @@
+replace foaf:basedNear predicate with dct:spatial
+In all Work Type metadata application profiles, replace foaf:basedNear predicate with dct:spatial. Although basic Hyrax metadata has foaf:basedNear for a geographic property, use dct:spatial instead due to its broader implementation and acceptance within the LAM community and the greater specificity and appropriateness of the namespace definition.

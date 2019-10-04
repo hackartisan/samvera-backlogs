@@ -1,0 +1,2 @@
+Fixes for department and subfield on edit form
+This fixes issues realted to selecting and loading the saved department and subfield on the edit form. Connected to #1889 Adding edit spec fixture Use savedOrSelectedSubfield in MyProgram component Display value (not id) for subfield using ETD presenter

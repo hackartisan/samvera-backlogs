@@ -1,0 +1,1 @@
+load authority labels in resource details page

@@ -1,0 +1,2 @@
+View all metadata values by field
+As a metadata specialist, I would like to review all the values present for a particular metadata field (across collections), so that I can assess the usage of particular fields.

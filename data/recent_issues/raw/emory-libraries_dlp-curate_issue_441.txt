@@ -1,0 +1,2 @@
+Submitting a fileset via the UI results in MANY copies
+ENVIRONMENT: https://curate-qa.curationexperts.com RELEASE: v0.3.3 STEPS TO REPRODUCE  Find an existing work Attach one or more files or fillets  EXPECTED BEHAVIOR Each selected file is only attached once ACTUAL BEHAVIOR Each file is attached multiple times See https://curate-qa.curationexperts.com/concern/curate_generic_works/98310afc-4df5-4880-ba6a-51f6bfc008f1?locale=en

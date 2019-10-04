@@ -1,0 +1,2 @@
+Cleanup more aggressively for `WorkflowSetup` specs
+Specs for WorkflowSetup require a clean database, but they were previously relying on transactional cleanup and the beginning state. If a prior test failed to cleanup properly, the tests could fail due to existing database content. This sets up truncation cleanup before the workflow tests to ensure the tests run on an empty database.

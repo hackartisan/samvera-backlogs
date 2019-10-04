@@ -1,0 +1,1 @@
+runs puma in foreground for production and staging

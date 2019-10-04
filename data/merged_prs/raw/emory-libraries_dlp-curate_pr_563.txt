@@ -1,0 +1,2 @@
+Index the extent attribute in Solr
+Connected to curationexperts/in-house#255

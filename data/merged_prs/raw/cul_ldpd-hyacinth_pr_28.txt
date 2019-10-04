@@ -1,0 +1,2 @@
+Add functionality to retrieve metadata from Digital Object
+This adds a level of abstraction between the internal format used by hyacinth and the ezid code, thus insulating the ezid code from possible future changes to the internal format of the metadata. Also, it adds filtering; the predominant case is where ezid only wants one value from a multi-value field. In most of these cases, we just return the first value. We also need to filter the names by role.

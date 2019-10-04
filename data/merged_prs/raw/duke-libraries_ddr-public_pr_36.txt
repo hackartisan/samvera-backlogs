@@ -1,0 +1,1 @@
+upgrade ddr-models to 1.6.0; closes #35

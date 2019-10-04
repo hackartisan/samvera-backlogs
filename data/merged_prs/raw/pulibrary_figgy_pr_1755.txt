@@ -1,0 +1,2 @@
+Use pre-generated PDF if it exists
+Use pre-generated PDF if it exists, instead of generating a new PDF for every request  Fixes #1750

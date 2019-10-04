@@ -1,0 +1,2 @@
+Change admin set predicate
+Fixes #357 Loosely depends on #456

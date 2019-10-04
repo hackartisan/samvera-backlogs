@@ -1,0 +1,2 @@
+Check if an element with an id 'clipboard-trigger-holder' exists before you apply content in the element's innerHTML
+Uncaught TypeError: Cannot set property 'innerHTML' of null at o (auth_link_clipboard.js:5) at HTMLDocument.<anonymous> (application.js:30)

@@ -1,0 +1,2 @@
+Feature/copyrighturis
+Fixes #824, Fixes #858

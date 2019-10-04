@@ -1,0 +1,2 @@
+added support to legacy model methods for new fields
+Added support to legacy methods for abstract, and contributor on work models   Fixed spelling issue with nested related items    Added support for additional_information method    Add specs to check these methods on OAI: abstract is used for Description, contributor is used for Other contributor, and related_items is used for Relation in OAI.

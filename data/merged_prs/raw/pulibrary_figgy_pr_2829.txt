@@ -1,0 +1,2 @@
+Nested numismatic citations
+Converts numismatic citations to nested properties in NumismaticIssue , Coin, and NumismaticAccession resources. Renames citation to numismatic_citation. Helps to distinguish nested numismatic citations from non-nested citations in other resource types.  Partially addresses #2776

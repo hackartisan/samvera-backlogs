@@ -1,0 +1,2 @@
+Fix error from empty files from Browse Everything
+Closes #1320, closes #675

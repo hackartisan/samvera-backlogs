@@ -1,0 +1,2 @@
+Cleanup temp files
+browse-everything, imagemagick and ffmpeg all leave temporary files in /tmp, which eventually fill up the disk. This cron job cleans up files owned by the deploy user from /tmp that are older than seven days. Closes #850

@@ -1,0 +1,5 @@
+Switch to MeSH 2018 subjects
+
+2018 MeSH was just released, so I've changed the title of this ticket accordingly  https://www.nlm.nih.gov/mesh/filelist.html
+https://hhs.github.io/meshrdf/sparql-and-uri-requests not the greatest or easiest ☝️ 
+Or the fastest?

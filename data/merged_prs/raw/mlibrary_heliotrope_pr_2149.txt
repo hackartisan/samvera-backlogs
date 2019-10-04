@@ -1,0 +1,2 @@
+Resolves HELIO-2388: Allow open access EPUB components
+Allow access to EPUB components when their parent monograph has open access.

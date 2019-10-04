@@ -1,0 +1,2 @@
+Set the submitted to true when clicking Submit
+There was a case added for the update, which does set the submitted state to true, but not for the initial submit. This sets the sumbmitted state to true, which causes the spinner to show up and the submit button to hide. Closes #1497

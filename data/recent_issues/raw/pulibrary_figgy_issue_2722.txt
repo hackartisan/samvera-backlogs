@@ -1,0 +1,2 @@
+[Figgy/production] NameError: uninitialized constant NewChangeSet
+Backtrace line 12 of [PROJECT_ROOT]/app/change_sets/dynamic_change_set.rb: class_from_param line 26 of [PROJECT_ROOT]/app/resources/scanned_resources/scanned_resources_controller.rb: change_set_class line 109 of [PROJECT_ROOT]/app/resources/scanned_resources/scanned_resources_controller.rb: ingest_folder  View full backtrace and more info at honeybadger.io

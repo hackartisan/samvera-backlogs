@@ -1,0 +1,2 @@
+Update human_readable_type on Default model.
+Fixes #1194

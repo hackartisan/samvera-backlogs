@@ -1,0 +1,2 @@
+Branding and citation metadata for CSB
+Resolves #943 and #993 pass fileset and monograph metadata to csb; apply a theme style or branding to csb; basic csb font size cleanup

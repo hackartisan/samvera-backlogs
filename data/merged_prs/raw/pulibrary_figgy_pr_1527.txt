@@ -1,0 +1,2 @@
+Fix accessing non-double ID in OM
+Closes #598, closes #1521

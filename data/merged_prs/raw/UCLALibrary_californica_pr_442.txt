@@ -1,0 +1,2 @@
+Update the predicate for Local Identifier
+the local_identifier property is stored in the predicate ::RDF::Vocab::Identifiers.local   local identifiers are not tokenized   Connected to #435

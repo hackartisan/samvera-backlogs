@@ -1,0 +1,2 @@
+oai return less
+Fixes #1054 Return 50 records in a response instead of 100.

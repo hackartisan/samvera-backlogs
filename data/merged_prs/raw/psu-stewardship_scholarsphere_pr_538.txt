@@ -1,0 +1,2 @@
+Update <head><title> in Works and Collections for Better Accessibility
+Fixes #526 and #515 Overrides construct_page_title method  and replaces // with | and defines page_title in work show presenter. Adds the collection show page so that we can override the page title to keep it consistent with the style of the work show page. Updates edit page for collections to follow style from work edit page. Removes the construct_page_title method to just pass a string with dynamic elements to output contents of title element.

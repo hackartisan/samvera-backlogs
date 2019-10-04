@@ -1,0 +1,2 @@
+Bugfix for "Import OSF Archive" link
+The add content drop down menu was showing the "Import OSF Archive" link for non-admin users. Changed to limit to rendering the link only when the user is an admin.

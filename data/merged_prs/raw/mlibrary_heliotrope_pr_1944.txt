@@ -1,0 +1,2 @@
+HELIO-1692 x-sendfile for epub files
+This is on staging and seems to be working fine.

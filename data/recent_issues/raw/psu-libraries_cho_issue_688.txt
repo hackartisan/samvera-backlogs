@@ -1,0 +1,2 @@
+Multiple Works in a Bag Blows up Import
+At the MVP 4.1 retro it was stated that if you upload a bag with multiple works, the app blows up, and a ticket was needed for error messages.

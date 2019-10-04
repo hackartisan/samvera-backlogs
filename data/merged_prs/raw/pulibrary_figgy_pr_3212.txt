@@ -1,0 +1,2 @@
+Adds the title for the Universal Viewer static page (when it is passed as a parameter in the authorized link)
+Resolves #3203.  Please see #3203 (comment) for my concerns.

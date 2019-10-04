@@ -1,0 +1,2 @@
+Resolves #1654 x-sendfile for webgls
+Use send_file with XSendFile configured on apache to send webgl files Cleaned up some dead webgl code related to sending compressed files that's no longer needed Updated the fake-game fixture to reflect current unity builds (.unityweb files compressed by default)  XSendFile is configured in apache for all heliotrope-* (including production)

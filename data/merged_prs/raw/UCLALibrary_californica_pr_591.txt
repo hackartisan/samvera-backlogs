@@ -1,0 +1,2 @@
+Restore ApplyPermissionTemplateActor
+Josh, Andy, Bess, Mark and Lisa all discussed the import actor stack, documented here: https://docs.library.ucla.edu/pages/viewpage.action?spaceKey=CUP&title=Californica+CSV+Importer+Notes We agreed the stripped down version mostly looked fine, except that we should add the ApplyPermissionTemplateActor back in.

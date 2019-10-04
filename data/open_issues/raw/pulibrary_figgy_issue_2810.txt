@@ -1,0 +1,5 @@
+Schedule a full reindex on a frequent / regular basis
+So we can see any errors in honeybadger and improve the index-ready state of the data.
+once a week? what day?
+Once a week seems like the right frequency — and I would look at analytics to see when our lowest traffic times are.
+we should consider when OL schedules solr jobs, too, and avoid having both apps index at the same time.

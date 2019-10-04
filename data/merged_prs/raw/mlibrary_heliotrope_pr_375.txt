@@ -1,0 +1,2 @@
+search on the asset page should search its monographs's assets, #371
+Resolves #371

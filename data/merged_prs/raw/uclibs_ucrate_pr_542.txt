@@ -1,0 +1,2 @@
+Rename migrations to work with production scholar
+Fixes #536 Renames the migration files so that a rake db:migrate will properly update the production database. I've run this against the scholar-qa database (Scholar 3.0) and everything migrated properly. Let's wait until we've deployed to scholar-qa successfully to merge this.

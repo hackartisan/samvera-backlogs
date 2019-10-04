@@ -1,0 +1,2 @@
+Foliation not happen when in paginate mode
+Closes #2510

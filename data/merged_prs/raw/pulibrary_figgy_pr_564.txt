@@ -1,0 +1,2 @@
+Let image editors edit ephemera folders.
+Closes #534.

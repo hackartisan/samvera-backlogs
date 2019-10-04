@@ -1,0 +1,2 @@
+DLTP-329 Further refining print styles
+The Galaxie Polaris Condensed webfont we are using has a printing artifact with a capital C on Xerox printers; reverting to another typeface. Adding page margins.

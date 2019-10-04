@@ -1,0 +1,3 @@
+Method for manually running checksums
+Related to high-level issue in digitial-stewardship-services, issue #2  Pull list of FileSets from Solr Retrieve full list of Files from Hyrax Run file fixity on all files Report results to human(s)
+Status update:  Working jupyter notebook is available at https://github.com/reliztrent/jupyter-notebooks/blob/master/gwss_fixity_checking.ipynb  Notebook currently accomplishes 1 - 3 and has been tested in GWSS-ETD only.   To do: - Develop script to report results - Test script on GWSS and production version of GWSS-ETD - Run a test on a file that is known to be changed, and confirm that script successfully reports changes

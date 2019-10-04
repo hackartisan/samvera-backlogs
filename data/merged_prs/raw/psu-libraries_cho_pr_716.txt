@@ -1,0 +1,2 @@
+Add facet fields based on the data dictionary
+Description Adds a faceted field based on its index type in the data dictionary. This doesn't address custom facets for collections and work types. Collections could be made to work with this setup, but we'd need to explore using transformations, which haven't been implemented yet. Connected to #459

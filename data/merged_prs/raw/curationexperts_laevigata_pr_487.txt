@@ -1,0 +1,2 @@
+Put ark in local ids, standardize how legacy ids are recorded
+Fixes #481

@@ -1,0 +1,2 @@
+Why do collections have visibility?
+Related to #3363. Why do collections even have a visibility setting?

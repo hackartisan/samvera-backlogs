@@ -1,0 +1,2 @@
+Work Show Page: Hide display of badges for most users
+Descriptive summary The badges that show after the work title such as "Public" and "Deposited" do not need to display for the public and most authenticated users. Show only to Admins and Curators. (Information compiled by POSM group from updated wireframes) Expected behavior Badges are hidden for non-authenticated and most authenticated users, show only to curators and above.

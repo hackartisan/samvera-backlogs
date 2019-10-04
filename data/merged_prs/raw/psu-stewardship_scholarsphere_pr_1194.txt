@@ -1,0 +1,2 @@
+Adding zip capabilities for downloading an entire work
+Adds rubyzip gem Add WorkZipService Modifies download controller to download the work as a zip Adds view changes to include downloading the work on the work show page refs #625

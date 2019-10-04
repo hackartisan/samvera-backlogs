@@ -1,0 +1,2 @@
+Fixes grad year validator to work with nil
+Fixes #1255

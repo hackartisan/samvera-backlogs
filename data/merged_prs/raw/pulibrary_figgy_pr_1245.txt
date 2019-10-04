@@ -1,0 +1,2 @@
+Refactoring around enqueued jobs in specs
+fixes #1042

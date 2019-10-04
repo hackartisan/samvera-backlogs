@@ -1,0 +1,2 @@
+Word cloud of departaments
+Sort by frequency of deposits

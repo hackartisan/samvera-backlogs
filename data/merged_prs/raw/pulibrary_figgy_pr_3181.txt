@@ -1,0 +1,2 @@
+Ensures that the browse-everything bag uploader for ArchivalMediaCollections does not collide with the DOM binding for ScannedResource file uploader
+Otherwise, https://github.com/pulibrary/figgy/pull/3145/files#diff-18b55a2cbdd21595a7dfdc75b12c3e8bR4 breaks this for resource (e. g. ScannedResource) file management

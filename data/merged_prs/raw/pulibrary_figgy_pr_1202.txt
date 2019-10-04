@@ -1,0 +1,2 @@
+Add workflow for geo resources
+Workflow just for geo. Closes #1191

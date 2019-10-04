@@ -1,0 +1,2 @@
+Update CHANGELOG.md
+Updates CHANGELOG.md for Ucrate version 1.0.0 and Scholar version 4.0.0.

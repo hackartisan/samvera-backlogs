@@ -1,0 +1,2 @@
+Archival media bag ingest should accommodate `_pt1`, etc.
+In several cases the vendor had to split one side of a recording into multiple parts. example: #3018

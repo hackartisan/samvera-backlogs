@@ -1,0 +1,3 @@
+Order manager - lux-button.dropdown 
+Is it considered a good UX when you click on a dropdown button and the menu stays open, even when you move your mouse away or when you click outside of the menu? Should this button have a mouseleave or a hide when you click somewhere else on the webpage?
+This needs a companion lux ticket.

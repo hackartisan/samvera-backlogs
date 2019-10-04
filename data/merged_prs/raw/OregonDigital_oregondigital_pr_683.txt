@@ -1,0 +1,2 @@
+Feature/fields4ingestform
+Added remaining metadata dictionary terms to ingest form, as of 10/31/14

@@ -1,0 +1,2 @@
+Allow direct input of Geonames URI in field, bypass typeahead search
+When you plug in a URI, it should hit that URI instead of the geonames authority uri. Basically if it detects a uri, hit that and parse the response, otherwise, hit the normal one and parse the response. This would enhance the select2 search to work in a much more user friendly way. #1277 Described this.

@@ -1,0 +1,2 @@
+Add hi-res Images to Tenejo
+STORY I have high resolution scans of maps that I'd like to add to the tenejo demo site, but when I try to upload them, I get the error "File is too large" I'm happy if we want to break this down into separate stories about uploading large files and another about displaying large files (which might have IIIF implications)

@@ -1,0 +1,2 @@
+Replicates scholar homepage content
+Fixes #276 ; Displays homepage content from the scholar application on UCrate. Changes proposed in this pull request:  Show about text Show ext links Show Partners.

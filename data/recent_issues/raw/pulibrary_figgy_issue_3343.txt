@@ -1,0 +1,2 @@
+Alerts should show up in front of the banner
+Right now their z-index is behind it.

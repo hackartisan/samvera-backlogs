@@ -1,0 +1,2 @@
+Resolves #1689, replace fedora calls with solr calls
+There are still some places where we're using Fedora to display when we should be using Solr. But these places are tied into what it means to be "tombstoned" and development for that is scheduled for Summer '18 so we'll deal with those then see #994. This PR does remove some current tombstone code, but all of that will be worked out in #994. The FactorService specs are pretty slow right now, but that area too is going to be refactored so changes are coming see #1692

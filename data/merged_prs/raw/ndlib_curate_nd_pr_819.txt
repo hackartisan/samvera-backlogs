@@ -1,0 +1,2 @@
+Add search of deposit_date and modify_date to API
+Supported searches include: Search before date  deposit_date=before:yyyy-mm-dd  Search after (and including) date  deposit_date=after:yyyy-mm-dd  Search one full day  deposit_date=yyyy-mm-dd  Combine search values with ^ to find items meeting all of the criteria  deposit_date=before:yyyy-mm-dd^after:yyyy-mm-dd  Combine search values with , to find items meeting any of the criteria  deposit_date=before:yyyy-mm-dd,after:yyyy-mm-dd,yyyy-mm-dd

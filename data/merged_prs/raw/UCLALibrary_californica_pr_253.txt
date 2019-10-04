@@ -1,0 +1,2 @@
+Fixed a problem where error messages from validators weren't getting printed to the error log file.
+The validator classes should use the parent parser's error stream.

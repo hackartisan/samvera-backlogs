@@ -1,0 +1,2 @@
+get original filename for box files
+Fixes #417 Get original filename for files uploaded via browse-everything/box.com. Here we need to reopen the job_io_wrapper to get the filename from http header for box files. Browse_everything defaults to pulling filename from the url bub box.com doesn't include. Changes proposed in this pull request:  Reopen model to add method to pull filename from header Add model spec

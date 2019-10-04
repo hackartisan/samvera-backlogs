@@ -1,0 +1,2 @@
+Remove un-used features
+We can add them back if we find that the proxy deposit is being used. Connected to #1168

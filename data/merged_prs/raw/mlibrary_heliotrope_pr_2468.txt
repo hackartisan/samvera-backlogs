@@ -1,0 +1,2 @@
+Resolves HELIO-2907: PDF Viewer - Rename 'Document Outline'
+Table of Contents

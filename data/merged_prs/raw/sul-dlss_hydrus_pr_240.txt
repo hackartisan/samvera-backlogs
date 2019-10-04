@@ -1,0 +1,2 @@
+Set proper env variable information in the README for development
+Quick README fix.

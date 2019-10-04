@@ -1,0 +1,2 @@
+search within results
+Adding "search within results" checkbox that keeps current facets in new searches Auto-populating search box with current search Also adding ruby version file for rbenv

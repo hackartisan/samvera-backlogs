@@ -1,0 +1,2 @@
+Elegant display of core fields in a collection
+TBD. Child of #483

@@ -1,0 +1,2 @@
+Fix managed works title wrapping
+Fixes #570 Realized that the table headers were off, and re-implemented the deleted code from hyrax. It added the checkbox that had the dropdown that allows you to select everything or nothing

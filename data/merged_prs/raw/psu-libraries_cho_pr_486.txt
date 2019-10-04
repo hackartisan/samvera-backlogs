@@ -1,0 +1,2 @@
+Checking that the work type id is valid
+Description References ticket: (if any) Why was this necessary? Before you could put any value into the work_id and the change set would be valid. Changes Are there any major changes in this PR that will change the release process? Checklist   i18n enabled  adequate test coverage  accessible interface

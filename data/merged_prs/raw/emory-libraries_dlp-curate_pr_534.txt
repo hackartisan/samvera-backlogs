@@ -1,0 +1,2 @@
+Standardize local fedora and solr
+Use fedora 4.7.5 to match production Remove redundant solr config file to reduce confusion Add download_dir directive so we don't have to re-download over and over again when our local rails tmp directory gets blown away

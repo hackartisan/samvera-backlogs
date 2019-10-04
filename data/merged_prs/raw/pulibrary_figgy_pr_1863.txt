@@ -1,0 +1,2 @@
+Rename bulk:update_state task to update_attrs and add rights_statement option
+fixes #1859

@@ -1,0 +1,2 @@
+Added check to make sure that the method exists before calling it
+refs #654 The method seems to exists for show, but not for edit

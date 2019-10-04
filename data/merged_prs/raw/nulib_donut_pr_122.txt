@@ -1,0 +1,2 @@
+Make preservation level single-valued
+Fixes bug with preservation level not being saved on form submission, because it was sending a single-valued string to a multi-valued property. Changed the property to multiple: false to fix the issue.

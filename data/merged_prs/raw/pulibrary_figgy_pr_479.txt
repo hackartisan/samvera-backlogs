@@ -1,0 +1,1 @@
+Fix decorator when given a DateTime.

@@ -1,0 +1,2 @@
+Add link to Parent work on a Fileset's show page
+Get parent from child  Get link to parent  Add link to child show page template.  Create system test to follow link to the parent.

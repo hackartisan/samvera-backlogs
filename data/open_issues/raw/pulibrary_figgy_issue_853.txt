@@ -1,0 +1,6 @@
+MapSets that failed to import from Plum
+"pqn59ss173"  MultiJson::ParseError: 765: unexpected token at 'Record 6817404 not found or suppressed'   "pdv142h163"  MultiJson::ParseError: 765: unexpected token at 'Record 6819878 not found or suppressed'   "pqv33vm08n"  MultiJson::ParseError: 765: unexpected token at 'Record 6830998 not found or suppressed'
+@eliotjordan Still busted?
+Yes. Still busted. I can remind the people that can fix these about it.
+Any update on these @eliotjordan ?
+Still no movement. I'll try reminding the map lab again, and gather the images into a directory like https://github.com/pulibrary/figgy/issues/854 .

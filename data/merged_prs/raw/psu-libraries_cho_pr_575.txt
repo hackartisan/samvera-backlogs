@@ -1,0 +1,2 @@
+Adding display name to index and show
+Fixed up custom matchers to truely match Added override of CatalogHelper to change label based on document schema updated solr document to lookup schema updated Schma::Metadata to find field by label in either core or regular fields Description Fixes #437 Why was this necessary? Changes Are there any major changes in this PR that will change the release process? Checklist   i18n enabled  adequate test coverage  accessible interface

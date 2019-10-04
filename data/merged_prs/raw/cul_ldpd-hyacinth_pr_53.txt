@@ -1,0 +1,2 @@
+Published Target Facet
+Added byebug Can facet by publish target name and [None] (if item is not published) HYACINTH-197 #resolve

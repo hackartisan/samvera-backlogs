@@ -1,0 +1,2 @@
+Feature/edit help pages
+fixes #77

@@ -1,0 +1,2 @@
+Add fileuploaddestroyed to UploadedFiles JS, ref #775
+If a file was added, then deleted, the form would not update its file requirement check and a user could proceed to created a work without a file. This overrides Sufia to add a fileuploaddestroyed callback which re-checks the forms validity if a file is deleted. @cam156 I decided not to spilt out the failing test because we loose the commit history, and incorporated your change here.

@@ -1,0 +1,2 @@
+Fixed the spellcheck suggestions format error from SOLR 5. DHH-814
+https://lib-jira.ucsd.edu:8443/browse/DHH-814

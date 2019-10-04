@@ -1,0 +1,2 @@
+ensure not all contributors are blank
+fixes #42 and adds a test remove auto rebuilding of rdoc each time rake ci is run (this doesn't work now anyway) change purl-dev to purl-test in development.rb config (purl-dev doesn't exist anymore and causes an exception in development when you try to edit an item)

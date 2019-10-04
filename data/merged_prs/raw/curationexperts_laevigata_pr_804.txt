@@ -1,0 +1,2 @@
+Start moving all environment variables to dotenv
+Closes #802

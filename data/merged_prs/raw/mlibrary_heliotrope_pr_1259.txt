@@ -1,0 +1,2 @@
+Resolves #1244 Adding error checking to EPub::Publication
+Added a EPub::Validator class to do this. A valid Fulcrum EPub::Publication has to have:  A "META-INF/container.xml" Inside that "META-INF/container.xml" there needs to be a reference to "//rootfile/@full-path" Which would point to the "content" file, something like "EPUB/content.opf" "EPUB/content.opf" has to (for the EPUB3 spec) have a "//manifest/item[@properties='nav']" which should be the nav/toc file.

@@ -1,0 +1,2 @@
+Add artist in the numismatic issue
+closes #2703  add artist in the numismatic issue create partials for artists and citations

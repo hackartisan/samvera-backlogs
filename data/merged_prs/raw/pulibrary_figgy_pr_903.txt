@@ -1,0 +1,2 @@
+Add characterization and derivative generation services for raster and vector resources
+Closes #216

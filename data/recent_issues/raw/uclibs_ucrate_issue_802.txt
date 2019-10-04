@@ -1,0 +1,2 @@
+Make college and department fields repeatable
+(moved from uclibs/scholar_uc_legacy#787) For Scholar 2.0, we settled on non-repeatable, non-nested College and Department fields. This should be changed for Scholar 3.0, if feasable. Related uclibs/scholar_uc_legacy#895

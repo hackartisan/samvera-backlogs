@@ -1,0 +1,2 @@
+File Manager is querying for parents, slowing it down
+https://app.datadoghq.com/apm/resource/figgy/rack.request/cfd2da0e14a5113?end=1544473995345&env=none&paused=false&spanID=901670537303793219&start=1544470395345&traceID=8596706265793392353&graphType=span_list

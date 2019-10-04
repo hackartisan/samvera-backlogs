@@ -1,0 +1,2 @@
+Add jdoty as an approver for Candler
+... but only in QA   add a special deploy task that runs only on QA that adds jdoty only in that environment

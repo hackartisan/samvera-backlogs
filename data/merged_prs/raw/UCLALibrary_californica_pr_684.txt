@@ -1,0 +1,1 @@
+rake task to populate missing `master_file_path` from FileSets

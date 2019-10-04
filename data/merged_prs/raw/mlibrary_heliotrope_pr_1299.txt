@@ -1,0 +1,2 @@
+post-Hyrax Solr file_size field
+Will require reindex for content imported pre-Hyrax

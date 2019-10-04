@@ -1,0 +1,5 @@
+Links with time-expiring tokens
+Would like to be able to give users download links that will only work for a specified period of time to access & download private items.
+To download PDFs of private items yes?
+Yes, PDFs of private items is the main fulfillment scenario where single-use links would be useful.
+Recent meeting with ADAPT+ suggests that a token that is set to expire on a specific date would be more useful than a single-use link. Updating title and description.

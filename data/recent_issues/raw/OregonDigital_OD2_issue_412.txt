@@ -1,0 +1,2 @@
+Build out and migrate databases to AWS RDS instead of self-hosted Postgres
+Need to build out RDS instances for staging and production, seed them with data and update app deployments to use RDS instead of internal Postgres container.

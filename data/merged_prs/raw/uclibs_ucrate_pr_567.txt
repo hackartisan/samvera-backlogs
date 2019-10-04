@@ -1,0 +1,2 @@
+Mobile fixes
+Fixes #432  Adds text "Notifications" to mobile hamburger menu Adds Users name to mobile hamburger menu Changes the sidebar-toggle on the dashboard sidebar

@@ -1,0 +1,2 @@
+Updates config to load lib classes
+Fixes #565

@@ -1,0 +1,2 @@
+Ensure we can delete and re-create works and collections
+Because we're using ark-based identifiers, we have to both destroy and eradicate a work when it is deleted. Otherwise, it leaves a tombstone resource behind in fedora and we can't re-create a new object with the same ark.

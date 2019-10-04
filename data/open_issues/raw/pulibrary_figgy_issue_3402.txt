@@ -1,0 +1,3 @@
+Revisit the Vuex store state for `fetching` in the Order Manager
+I introduced some changes in #3401 which rely upon window for supporting Order Manager operations, but these should really be abandoned in favor of something which properly operates on the Vuex Store: https://vuex.vuejs.org/guide/state.html
+Just wanted to chime in that this is the proper way to fix this bug. The fetching variable in the component should reference the vuex state variable, not a local component variable.

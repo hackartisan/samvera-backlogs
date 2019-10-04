@@ -1,0 +1,2 @@
+Automatic Email to Specified Users when Collection is Published
+As a collection curator, I would like a specified list of people to receive email notification when a collection is published, So they can take necessary action. E.g. email to PRAMs for PR. Cheri B.

@@ -1,0 +1,2 @@
+Add aptrust log view and start logging
+Converted puts comments and errors to logging statements. Added logging view with filtering. Added to routes.rb: 'resources :aptrust_logs, only: %i[index]' Arrg: StandardError was failing when bagIt was creating a dir, so I'm now pre-making the dir for it.

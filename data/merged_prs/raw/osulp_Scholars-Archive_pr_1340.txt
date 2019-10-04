@@ -1,0 +1,2 @@
+Removes duplicate fields
+Fixes #1299

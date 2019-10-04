@@ -1,0 +1,2 @@
+Slack message from CCI when master branch test fails
+Integrate a notify_on_failure message to the master branch to send a message to the oregon_digital channel when tests fail. https://circleci.com/docs/2.0/configuration-cookbook/#sending-a-status-alert-at-the-end-of-a-job-based-on-success-or-failure https://circleci.com/orbs/registry/orb/circleci/slack#commands-notify-on-failure

@@ -1,0 +1,2 @@
+Update admin_set_map.yml
+fixes #1158 sets "Honors College Theses" as the default admin set

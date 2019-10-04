@@ -1,0 +1,2 @@
+Upgrade Hyrax to latest release
+STORY As a system owner I would like to keep my engine up to date - i.e. hyrax 2.4.0 DETAILS ACCEPTANCE   The application depends on Hyrax 2.4.0

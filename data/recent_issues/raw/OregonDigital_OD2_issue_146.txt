@@ -1,0 +1,2 @@
+Configure Generic terms in the forms
+Descriptive summary Include terms from the Generic model in all the remaining forms for models:   Image  Audio  Video  Document  Expected behavior It should persist the metadata from the forms and display the info in the show page as required in https://docs.google.com/spreadsheets/d/16xBFjmeSsaN0xQrbOpQ_jIOeFZk3ZM9kmB8CU3IhP2c/edit#gid=0 Related work #107

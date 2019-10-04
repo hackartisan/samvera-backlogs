@@ -1,0 +1,2 @@
+make ids unique when resetting nested ordered creator items on load
+fixes #1597

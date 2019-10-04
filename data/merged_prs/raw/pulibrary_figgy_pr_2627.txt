@@ -1,0 +1,2 @@
+A collection code may be the full source metadata id
+fixes #2626

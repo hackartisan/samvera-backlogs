@@ -1,0 +1,2 @@
+Adds URI validation
+Closes #142

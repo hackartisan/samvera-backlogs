@@ -1,0 +1,2 @@
+Remove remaining tests for Rights field
+Somehow these tests were missed when we removed the Rights field from works.

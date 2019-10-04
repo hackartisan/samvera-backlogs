@@ -1,0 +1,2 @@
+Persist batch id on the work
+Description Fixes #597 Why was this necessary? Allows us to track which batch, and therefore which zip file, created a work.

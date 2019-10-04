@@ -1,0 +1,2 @@
+Model the work migration process
+Descriptive summary  Establish a model of the processing steps for migrating a work from OD to OD2 Should this be a separate Ruby gem, something that can be included to OD2 only while the migration is occurring.. and this gives the gem the ability to use models and hyrax functionality directly

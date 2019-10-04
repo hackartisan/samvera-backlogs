@@ -1,0 +1,2 @@
+Create a simple uplad interface that lets users deposit files without filling out permissions/metadata forms
+Create a protected upload form  Check options for allowing drag-and-drop, uploading folders and multiple files  Allow entering instructions to be passed along with the upload  Store uploaded files on a disk, linked to a database entry containing user's netid and optional instructions for the curators

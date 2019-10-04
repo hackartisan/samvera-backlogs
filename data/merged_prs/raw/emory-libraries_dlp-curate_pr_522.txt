@@ -1,0 +1,2 @@
+Warn on missing required headers
+When there are headers that are required by the edit form, but are missing from the uploaded CSV, warn the user. Connected to curationexperts/in-house#237

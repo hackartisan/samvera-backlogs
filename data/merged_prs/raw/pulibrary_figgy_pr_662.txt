@@ -1,0 +1,2 @@
+Require a subject heading for Folders.
+Closes #658.

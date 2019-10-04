@@ -1,0 +1,2 @@
+Non-production shutdown schedule (low priority) 
+Provided by Steve Collins: running dev EC2s cost money.  Working through a method to shut them down after hours would save money.

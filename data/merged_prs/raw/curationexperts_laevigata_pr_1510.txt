@@ -1,0 +1,2 @@
+Update the embargo_release_date of file sets
+Upon graduation, update the embargo_release_date of all filesets attached to a work, in addition to updating the embargo_release_date of the work itself. Fixes #1210

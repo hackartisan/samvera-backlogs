@@ -1,0 +1,2 @@
+Not all Cicognara items have 510 note
+Some exported MARC records are missing the 510 note linking to the Cicognara virtual collection, so they get imported into the Getty Research Portal, but don't get associated with the collection.  The note should be: 510 4_ $a Cicognara, $c 123

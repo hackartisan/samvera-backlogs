@@ -1,0 +1,2 @@
+qa for has_migrated? method
+created dev instance based on current revision in production and tested has_migrated? added additional logs (solr, fedora, and csv values) when assigning new ordered attributes fixed issues when building the index property given existing data reset ordered fields before assigning new ordered values (some fields like creator , contributor, additional_information, and related_items) are will be inheriting the same predicates from unordered fields

@@ -1,0 +1,2 @@
+Move FullTextExtractor to services directory
+This was in lib, which isn't autoloaded on production. app/services is a more appropriate location for this class anyway. Closes curationexperts#59

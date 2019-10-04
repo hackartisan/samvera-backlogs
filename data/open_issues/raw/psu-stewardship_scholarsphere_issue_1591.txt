@@ -1,0 +1,2 @@
+New Resource Type for Masters Culminating Experience
+Update config/authorities/resource_types.yml

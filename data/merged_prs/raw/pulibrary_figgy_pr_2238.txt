@@ -1,0 +1,2 @@
+Adds Order Manager and upgrades Webpacker/LUX
+This PR:  Extracts Order Manager components and mutations from LUX and adds them to Figgy Upgrades Webpacker to most recent Upgrades LUX to 2.0

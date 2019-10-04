@@ -1,0 +1,2 @@
+Pass change_set with javascript call to save_and_ingest
+fixes #2313

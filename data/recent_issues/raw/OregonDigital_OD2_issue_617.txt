@@ -1,0 +1,2 @@
+Determine metadata to include in IIIF manifest
+Descriptive summary Determine what metadata to include in the IIIF Manifest. This may be similar to what is provided for OAI, and will be displayed when a manifest file is used externally in another viewer. If metadata needs to be altered or adjusted, figure out how to document that (and where) in the MAP. In Universal Viewer this shows up under the "More Information" panel currently on the right-side of the viewer. Expected behavior IIIF Manifest contains relevant descriptive metadata.

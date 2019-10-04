@@ -1,0 +1,2 @@
+Increase possible size for IP Range integers.
+This fixes an error that occurred when trying to add UO's IP Range.

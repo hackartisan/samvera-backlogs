@@ -1,0 +1,4 @@
+Add way to get to thumbnail resource to Wayfinder
+Right now there are three places where a thumbnail is figured out, and there should only be one.
+Will this affect the GraphQL API at all?
+No

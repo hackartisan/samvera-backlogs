@@ -1,0 +1,2 @@
+rights statements
+maps missing rights statements values to 'unknown' on ingest (CAL-613) adds 'public domain' to rights_statements.yml (CAL-617 – out of sprint but trivial to add)

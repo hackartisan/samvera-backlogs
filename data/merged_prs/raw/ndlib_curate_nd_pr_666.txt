@@ -1,0 +1,2 @@
+Hide file lists on Finding Aids
+DO NOT MERGE I would like to get a review on the approach. I'm waiting for final approval from archives and RBSC before I ask for a merge. DLTP-1304

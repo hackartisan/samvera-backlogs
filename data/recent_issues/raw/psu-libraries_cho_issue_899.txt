@@ -1,0 +1,2 @@
+Textual content from curator
+Add additional field to data dictionary as a text type for multiple paragraphs. Field should only be available to collections. Child of #483

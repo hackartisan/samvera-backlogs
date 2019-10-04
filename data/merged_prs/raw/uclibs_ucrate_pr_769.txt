@@ -1,0 +1,2 @@
+Updates CHANGELOG.md
+Updates the CHANGELOG.md file Scholar 4.2.0

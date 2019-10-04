@@ -1,0 +1,2 @@
+Give a warning when file is missing
+This adds a method to the validator to check that the file exists. If the file does not exist it provides a warning in the UI when you upload the CSV. Since this is a warning and not an error, this changes the importer so that it will not raise errors if you continue the import with a CSV file that does not have files. Connected to curationexperts#39

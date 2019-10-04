@@ -1,0 +1,2 @@
+Adding an expiration date for the GPDR cookie.
+Also fixing a bug in #1143 bug. We want to show the GDPR banner by default in dev and production, and hide it from the unit tests. See the note at https://github.com/sciencehistory/chf-sufia/pull/1143/files#r216418234 . Fixes #1154 .

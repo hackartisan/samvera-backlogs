@@ -1,0 +1,2 @@
+clean up / update rights statements
+in #140 i realized that we were out-of-sync re: our rights-statements, so this cleans up config/authorities/rights_statements.yml and adds some missing icons. closes #140

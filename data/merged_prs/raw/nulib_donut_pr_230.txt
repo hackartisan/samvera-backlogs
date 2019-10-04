@@ -1,0 +1,2 @@
+get lastest Hyrax changes in master
+use latest so groups can be added to collections: samvera/hyrax#2832

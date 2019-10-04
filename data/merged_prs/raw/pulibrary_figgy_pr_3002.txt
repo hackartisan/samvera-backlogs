@@ -1,0 +1,2 @@
+Add another layer of messaging to the lae folder import task
+This will give a more clear error in a case like the one we just saw, where the directory had the wrong name.

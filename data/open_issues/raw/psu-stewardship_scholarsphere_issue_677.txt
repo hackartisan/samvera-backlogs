@@ -1,0 +1,3 @@
+work show page should show all fields displayed in the index
+Dates and some other fields are not being displayed in the show, but are being displayed on the index.
+Add Date Created into the metadata Definition List on the work show page and move Last Modified into the list also.  These should be in the format YYYY-MM-DD

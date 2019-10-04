@@ -1,0 +1,2 @@
+Fix file manager.
+A form tag wasn't closed. Closes #181

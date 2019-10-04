@@ -1,0 +1,1 @@
+Allow fetch to throw an exception

@@ -1,0 +1,2 @@
+Escape characters when querying Postgres
+Description Fixes bug when querying Postgres with values that have punctuation. Connected to #885

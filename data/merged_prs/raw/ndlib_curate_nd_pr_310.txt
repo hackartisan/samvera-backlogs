@@ -1,0 +1,2 @@
+Accommodating widest permission badge
+The negative margin on the file actions area aligns the tops of the file buttons with the top of the badge and the thumbnail.  Trello card

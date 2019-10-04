@@ -1,0 +1,2 @@
+adjust logo size
+resolves #89

@@ -1,0 +1,2 @@
+Download survey
+Create a new model for survey, link it to Resource model, and update UI

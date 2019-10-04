@@ -1,0 +1,2 @@
+DownloadsController for files
+Description Downloads a file from a file set based on parameters in the url and what file types are present in the file set. Connected to #649 Changes  Respository::DownloadsController to return the downloaded content Repository::Download to determine what the downloadable file is with a given file set additional file set factory traits for the different types to files

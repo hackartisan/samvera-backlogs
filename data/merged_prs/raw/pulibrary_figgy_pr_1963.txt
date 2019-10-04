@@ -1,0 +1,2 @@
+Ensures that IngestArchivalMediaBagJob the test suite tests the most recently created FileSets
+This appears to consistently resolve the failing tests within the suite for IngestArchivalMediaBagJob.  Resolves #1927

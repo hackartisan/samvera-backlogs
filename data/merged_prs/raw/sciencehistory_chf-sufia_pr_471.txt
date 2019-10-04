@@ -1,0 +1,2 @@
+Remove brokenly styled numbers on search results
+Closes #419

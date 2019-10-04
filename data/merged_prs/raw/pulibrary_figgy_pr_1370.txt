@@ -1,0 +1,1 @@
+Import transfer notes, pbcore xml file during av bag ingest, fixes #1151

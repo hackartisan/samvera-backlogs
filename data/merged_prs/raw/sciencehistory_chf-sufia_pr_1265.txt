@@ -1,0 +1,2 @@
+attempt to track 'Back to search reuslts' clicks
+Without customizing sufia, so it doesn't make it very easy to hook into to issue a google event, so we hackily watch for clicks and look at actual text of link

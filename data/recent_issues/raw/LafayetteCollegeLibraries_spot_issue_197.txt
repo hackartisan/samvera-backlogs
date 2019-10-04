@@ -1,0 +1,2 @@
+add queue level for ingest
+it should be lower than :default (so that it doesn't block edits/updates), but higher than :low_priority (so that fixity checks will wait until its done)

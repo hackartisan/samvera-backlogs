@@ -1,0 +1,2 @@
+Changing member_of_collection to home_collection
+Changing the field label from member_of_collection_ids to home_collection_id Changing the display label to Collection instead of Collections Description This looks really big, but it is just a ton of places where the collection_member_ids was used. Connected to #680

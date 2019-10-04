@@ -1,0 +1,2 @@
+deprecation warnings were annoying me
+find factory_girl replace with factory_bot (more or less)

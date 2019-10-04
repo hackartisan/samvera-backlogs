@@ -1,0 +1,2 @@
+HELIO-2923 Score FileSets can set/unset FeaturedRepresentatives
+See spec/system/score_file_sets_spec.rb where pdf_ebook can be set/unset

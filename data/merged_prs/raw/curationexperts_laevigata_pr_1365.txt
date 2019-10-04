@@ -1,0 +1,2 @@
+Ensure the form is keyboard accessible
+This commit changes some controls in the Files component and adds additional configuration to Quill to ensure that the form is fully keyboard accessible. After this commit it is possible to fill out the entire form using just the keyboard. Related to #1056

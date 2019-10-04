@@ -1,0 +1,2 @@
+visibilty facet for staff-only
+Facet values are a bit weird, open==public, restricted==private, authenticated==chf-only Requires re-index to work, but okay to deploy without, facet will just be missing/incomplete until finished.

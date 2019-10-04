@@ -1,0 +1,2 @@
+Read More/Less with more logic
+if the total text count is under 600 characters no toggle if the total text count is greater than 600 characters toggle at 400 characters

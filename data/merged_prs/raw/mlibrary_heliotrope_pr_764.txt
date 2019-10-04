@@ -1,0 +1,2 @@
+Resolves #731 Sections as FileSet metadata
+This is the last part of removing all traces of Sections from the codebase in favor of just having section_title as metadata in a FileSet. I think all the Section related code is gone, tests pass and importer works.

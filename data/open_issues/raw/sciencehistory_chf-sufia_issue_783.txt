@@ -1,0 +1,3 @@
+save-work-control.js not loading in batch create form
+I observed that once you've filled in the required metadata field the icon doesn't change from red exclamation point to green check. You can still save the form, so it's unclear how long it's been like this. Not sure whether there are other, more significant bugs resulting from this; more analysis needed.
+seems likely to be a sufia bug? 

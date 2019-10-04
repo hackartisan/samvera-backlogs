@@ -1,0 +1,2 @@
+Fixes parameter problem with ReCaptcha.
+Fixes #623 Present short summary (50 characters or less) The YML file is already passing the passes_captcha_or_is_logged_in? method the correct structure.  We did not need to re-hash it. I have made the changes and test manually on QA.

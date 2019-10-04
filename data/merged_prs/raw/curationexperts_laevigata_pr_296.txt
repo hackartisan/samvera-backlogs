@@ -1,0 +1,2 @@
+Fixes bug where admin cannot assign workflow roles
+Fixes #285

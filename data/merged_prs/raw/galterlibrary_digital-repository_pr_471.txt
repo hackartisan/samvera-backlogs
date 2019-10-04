@@ -1,0 +1,1 @@
+Renamed bib-citation and identifier, fixes #463

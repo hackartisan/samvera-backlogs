@@ -1,0 +1,6 @@
+smart validation based on required field and value being included
+
+more descriptive info? @straleyb 
+This ticket may actually be done. https://github.com/osulp/Scholars-Archive/pull/1257
+We can now choose what we want to validate based on an object that describes specific validation requirements. 
+@straleyb should this be closed?

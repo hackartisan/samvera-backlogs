@@ -1,0 +1,2 @@
+Add menus to nav for signed-in users
+Fixes #307 Restore nav menus for collections, works and dashboard.

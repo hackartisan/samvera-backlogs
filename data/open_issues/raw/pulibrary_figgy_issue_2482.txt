@@ -1,0 +1,5 @@
+JP2s are oversaturated
+@roelmoon Found an image where the JP2 is significantly over-saturated compared to the TIFF original.  We experimented a little bit, but were not sure whether the TIFF -> JP2 conversion, or the JP2 -> PNG conversion was the main source of the problem.
+We are going to look at OpenJPEG and other JP2 creation tools soon — make sure this gets addressed as part of that.
+@roelmoon Do you happen to remember which record this was for? I can't believe we didn't get it on the ticket.
+https://figgy.princeton.edu/catalog/2fa45aa8-23a5-4eb6-8677-397b434bb428  The cover of this is an example. The JP2 has more red saturation, compared to the tiff and the JP2, downloaded from Figgy, as viewed on my monitor in Photoshop. The issue seems to be the viewer. Ideally, the TIFF and the viewer image should look nearly identical.

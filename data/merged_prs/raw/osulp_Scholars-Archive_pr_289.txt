@@ -1,0 +1,2 @@
+fixes Year Published, and some of the related form UI
+Fixes #280 and cleans up some aspects of the style and UI related to date fields on the ingest form

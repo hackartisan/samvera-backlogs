@@ -1,0 +1,2 @@
+Create new EC2 role
+The current role that creates the ec2 uses the older ec2 module. Ansible released a more powerful version of this module called ec2_instance   Create new role that uses ec2_instance module  Integrate this module with cor-cm  Ensure all current website building functionality is retain by new module

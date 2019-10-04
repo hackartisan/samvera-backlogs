@@ -1,0 +1,2 @@
+Adds collection metadata properties
+Adds metadata properties to collection model Edits Hyrax's collection form to add new collection md properties Edits Hyrax's collection form tests to add new md properties and adds collections factory

@@ -1,0 +1,2 @@
+Updating PR template
+Description Tickets should referenced, and not by using "Fixes" because that inadvertently moves the ticket into the Done column in Waffle. Changes Are there any major changes in this PR that will change the release process? No Checklist   i18n enabled  adequate test coverage  accessible interface

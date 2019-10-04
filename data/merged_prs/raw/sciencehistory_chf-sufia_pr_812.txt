@@ -1,0 +1,2 @@
+Need an actual DOM object
+Even though we're using jquery to lookup next/prev, need to get an actual DOM object cause that's what selectThumb expects. Thought I was doing that, but wasn't.

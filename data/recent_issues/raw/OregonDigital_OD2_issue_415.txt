@@ -1,0 +1,2 @@
+Register internal domain (ordig.io)
+Register ordig.io through AWS Route53 ($39/year)

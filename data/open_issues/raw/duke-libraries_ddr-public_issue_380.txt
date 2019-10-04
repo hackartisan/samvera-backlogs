@@ -1,0 +1,2 @@
+Page titles should reflect the portal context
+It does in some cases, but need to check: about, search results, featured pages, etc.

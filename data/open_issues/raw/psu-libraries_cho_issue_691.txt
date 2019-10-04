@@ -1,0 +1,2 @@
+GUI Single File Uploads
+All single files uploaded to a work through the GUI should be assigned a _preservation PCDM use_type unless it's a ZIP, in which case it kicks off the bag import process. I think this may be currently implemented, but based on a note from MVP 3.3 retro, would like to confirm. Ideally the file itself would be renames to have _preservation appended.

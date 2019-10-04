@@ -1,0 +1,2 @@
+Allow for orphaned file sets in fixity dashboard
+fixes #1376

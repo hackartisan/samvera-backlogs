@@ -1,0 +1,2 @@
+Namespace Numismatics resources
+Might make class names more clear. Numismatics::Artist Numismatics::Citation Numismatics::Subject etc.. Directory structure:  numismatics  artist.rb citation.rb subject.rb

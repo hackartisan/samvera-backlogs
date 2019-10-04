@@ -1,0 +1,2 @@
+Ephemera collections
+Add support for adding ephemera folders to collections, by adding the collection dropdown menu back to the ephemera folder new/edit form.

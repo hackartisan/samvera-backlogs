@@ -1,0 +1,2 @@
+Allow syncing set content from any branch
+This will allow testing out new content from a branch, instead of having to push to master (or doing manual stuff on the command line to test things out)

@@ -1,0 +1,2 @@
+Add File Upload UI
+This commit adds all the basic functionality required for the file upload UI. Box features will be added in a later commit. This splits out the file upload and delete methods into their own classes so they can be tested in an easier way.

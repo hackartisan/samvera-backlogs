@@ -1,0 +1,2 @@
+Tika can't characterize filenames with apostrophes
+https://app.honeybadger.io/projects/53391/faults/38688155 Error: RubyTikaApp::CommandFailedError: execution failed with status sh: 1: Syntax error: Unterminated quoted string: java -server -Djava.awt.headless=true -jar '/opt/figgy/shared/bundle/ruby/2.4.0/bundler/gems/ruby_tika_app-19085f492790/lib/../ext/tika-app-1.18.jar' --config=/opt/figgy/releases/20181130194115/config/tika-config.xml --json 'file:///opt/repository/files/49/a1/cf/49a1cffac7a14efb809e15e90df8a0c7/L'Isle-sur-la-Sorgue.tif'

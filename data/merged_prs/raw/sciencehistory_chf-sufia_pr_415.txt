@@ -1,0 +1,2 @@
+Solve "Single and Batch Work upload forms too similar in Sufia 7" closes #261
+Different title for single vs batch work upload form. Not sure if there's a better way to organize the i18n keys, this seemed clever to me, or might be too confusing.   put batch upload files instructions in alert style to further differentiate batch from single work upload

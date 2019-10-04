@@ -1,0 +1,2 @@
+mongo error in docker development
+after gem updates, mongo gem? is throwing this error: /usr/local/lib/ruby/gems/2.1.0/gems/mongo-1.12.5/lib/mongo/db.rb:610:in `rescue in command': Database command 'update' failed: BSON field 'update.upsert' is an unknown field. (Mongo::OperationFailure) wickr suggests setting the version of mongo in the docker-compose

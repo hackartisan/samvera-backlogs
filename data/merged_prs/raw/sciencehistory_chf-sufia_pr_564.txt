@@ -1,0 +1,2 @@
+fix view type in SyntheticCategoryController to :list
+Fixes #563 I don't fully understand what's going on here, but this should fix it, seems to in dev.

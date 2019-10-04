@@ -1,0 +1,2 @@
+Fix #328 -Add sitetrackings partial to staging environment
+Fixes #328 ; refs #328 @ucsdlib/developers - please review

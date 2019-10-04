@@ -1,0 +1,2 @@
+Provides ETD help form link
+Replaces ETD help email with a link to the ETD help form, under the 'My Files' tab.

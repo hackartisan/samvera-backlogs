@@ -1,0 +1,2 @@
+Display portion note in structure manager node labels
+When child resources share the same bib-id/title they can only be differentiated by the portion note. The node labels in the structure manager should display this portion note if it exists. Otherwise, differentiating between these types of nodes is difficult.

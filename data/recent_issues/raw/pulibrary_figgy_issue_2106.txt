@@ -1,0 +1,2 @@
+both file_manager and order_manager are controlled by manageable_files?; split this out
+playlist may be the first resource which should have one but not the other (should have order manager but not file manager)

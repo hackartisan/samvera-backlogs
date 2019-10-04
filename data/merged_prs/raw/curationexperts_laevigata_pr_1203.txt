@@ -1,0 +1,2 @@
+Use FormData to submit the form to InProgressEtds controller
+This commit changes the form so that the InProgressEtds controller received a form submission that mimics what Hyrax returns when submitting a form. The form is submitted as multipart/form-data , but this is saved as JSON in the database. This JSON can be used to create a Hyrax object, but needs a few more changes to complete the process -- mainly an admin set id. This might need to be derived from the Hyrax::EtdForm.

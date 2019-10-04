@@ -1,0 +1,2 @@
+Downloading TIFFs requires Princeton login
+Julie reports that downloading TIFFs from https://catalog.princeton.edu/catalog/10656538 only works for Princeton people.

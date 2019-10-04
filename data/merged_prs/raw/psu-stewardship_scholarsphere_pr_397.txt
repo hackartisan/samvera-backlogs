@@ -1,0 +1,2 @@
+Moves footer partial to shared directory to override Sufia …
+and adds old styles back to footer for Penn State look. Moves SS styles into SS directory. Refs #338

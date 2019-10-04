@@ -1,0 +1,2 @@
+Regenerating derivatives should clear error message
+E.g. this item had derivatives regenerated and is fine. However, its file manager page still shows the error: https://figgy.princeton.edu/concern/scanned_maps/4ebbd4d5-3777-4fd4-a9ae-cbbf4fe8b5fc/file_manager I have a sample test I'm going to push up in a branch

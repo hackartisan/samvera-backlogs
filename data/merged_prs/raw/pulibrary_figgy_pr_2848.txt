@@ -1,0 +1,2 @@
+Send more data with solr error on reindex
+refs #2832

@@ -1,0 +1,2 @@
+Restart apache on redeploy
+Child of #298

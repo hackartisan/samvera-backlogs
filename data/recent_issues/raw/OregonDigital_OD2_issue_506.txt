@@ -1,0 +1,2 @@
+Historic Place disappeared from form
+Descriptive summary Historic Place property has disappeared from form. Expected behavior Historic Place shows up on edit form. Related work Probably related to #499

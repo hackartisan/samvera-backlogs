@@ -1,0 +1,2 @@
+search service should not be in an array
+Spotlight doesn't like it, see pulibrary/pomegranate#534

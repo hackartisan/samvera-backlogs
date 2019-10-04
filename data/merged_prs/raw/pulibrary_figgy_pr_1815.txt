@@ -1,0 +1,2 @@
+Allow for blank holding location
+Fixes a bug which is preventing ingest of PUDL0100. References #1612

@@ -1,0 +1,2 @@
+Fix date validation
+Dates are validated with javascript before the form is saved. In order to preserve EDTF dates, they should not be cast to the Ruby date type.

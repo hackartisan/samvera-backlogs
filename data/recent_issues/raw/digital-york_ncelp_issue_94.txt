@@ -1,0 +1,2 @@
+Resource details page text change: change file to file type
+On the Resource details  page can we change file to  File type?

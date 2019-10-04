@@ -1,0 +1,2 @@
+Adding basic sort options
+Fixes #387

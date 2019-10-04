@@ -1,0 +1,2 @@
+Delete rule in rubocop
+Deleted this rule about the DescribeClass because it is unimportant. Offenses:  spec/features/search_crawler_spec.rb:4:16: C: RSpec/DescribeClass: The first argument to describe should be the class or module being tested. RSpec.describe "Search History Page", :clean do                ^^^^^^^^^^^^^^^^^^^^^  137 files inspected, 1 offense detected  Connected to UCLALibrary/amalgamated-samvera#287

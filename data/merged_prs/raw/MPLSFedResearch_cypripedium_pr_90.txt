@@ -1,0 +1,2 @@
+Allow importer input XML to set work's model. Story #71.
+The input XML file can contain a <work_type> entry, and the importer will create a work with that model.  For now I hard-coded a default model to Publication, but that is temporary until work is done for #70.

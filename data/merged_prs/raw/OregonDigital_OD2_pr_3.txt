@@ -1,0 +1,1 @@
+removes zookeeper and updates simple solr configuration

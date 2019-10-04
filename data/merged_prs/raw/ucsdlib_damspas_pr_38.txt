@@ -1,0 +1,2 @@
+Updating date parsing logic
+DRYing up date parsing code Checking values against ISO8601 spec instead of checking for unwanted characters

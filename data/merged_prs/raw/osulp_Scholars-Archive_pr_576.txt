@@ -1,0 +1,2 @@
+Feature/arrange and add properties
+Adds the ETD and other DefaultMetadata stuff to the proper models.

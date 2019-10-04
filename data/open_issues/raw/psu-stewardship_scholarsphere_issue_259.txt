@@ -1,0 +1,2 @@
+Collection Listing does not show a date
+Date Uploaded on the collection listing is blank.  Checked production, this is a pre existing problem to 2.2.5

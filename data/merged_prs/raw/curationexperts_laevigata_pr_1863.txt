@@ -1,0 +1,2 @@
+Adds tests to verify school when editing an ETD
+This commit adds tests to verify that the school does not change when trying to edit an ETD with the new UI. Connected to emory-libraries/etd-issues#88

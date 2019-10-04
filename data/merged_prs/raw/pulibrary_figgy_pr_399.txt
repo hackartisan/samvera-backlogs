@@ -1,0 +1,2 @@
+Stubs the response to the external CAS endpoint
+Resolves #265

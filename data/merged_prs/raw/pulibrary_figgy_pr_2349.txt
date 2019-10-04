@@ -1,0 +1,2 @@
+Collection report improvements
+limiting collection report to 10 items per state (to avoid huge emails) adding links to view all items and the collection  Fixes #2348

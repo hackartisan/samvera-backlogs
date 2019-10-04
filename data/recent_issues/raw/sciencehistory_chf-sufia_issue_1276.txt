@@ -1,0 +1,2 @@
+New dropdown label for 'Genre' field
+Label: "Maps" - alphabetical order like existing labels, so after "Manuscripts" FAST genre heading follows: http://experimental.worldcat.org/fast/1423704/

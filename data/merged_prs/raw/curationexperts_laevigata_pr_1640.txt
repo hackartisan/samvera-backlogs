@@ -1,0 +1,2 @@
+displaying legacy degree in editing
+This commit ensures a legacy degree is displayed as the selected item when editing a legacy Etd. Connected to #1094

@@ -1,0 +1,2 @@
+Update solr_wrapper to 2.1.0
+Updates solr_wrapper to latest version so it can use latest solr

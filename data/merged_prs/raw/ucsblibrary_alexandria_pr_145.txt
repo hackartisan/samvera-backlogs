@@ -1,0 +1,2 @@
+update metadata-ci for new MARCREL field
+Followup to DIGREPO-876

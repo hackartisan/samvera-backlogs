@@ -1,0 +1,2 @@
+Bulk Edits: Empty strings
+Descriptive summary Bulk edits to clear up empty strings that create blank facets or otherwise need cleanup. Some are on the small side but the empty string is in a required field so I can't fix it via the edit page. These are all on the same spreadsheet -- links to tabs below:   conference_name  conference_section  date_accepted  date_available  date_copyright  date_issued  date_valid  degree_level  degree_name  doi  graduation_year  has_journal  on_behalf_of

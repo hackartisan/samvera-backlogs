@@ -1,0 +1,2 @@
+fixes 404s on production and staging per github project Sufia issue #1928
+Reconfigured our staging server to use the 'staging' environment and verified that this fixes #340

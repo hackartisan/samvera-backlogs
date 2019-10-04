@@ -1,0 +1,2 @@
+Add progress meter to sitemap rake task
+Got annoyed with a long running rake task so I added a progress bar. Most of the lines changed are just removing whitespace mistakes.

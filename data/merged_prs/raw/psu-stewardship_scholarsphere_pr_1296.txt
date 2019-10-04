@@ -1,0 +1,2 @@
+Add external files to testing matrix in Travis
+We need to test with both external files enabled and not enabled to make sure we've covered all the scenarios.

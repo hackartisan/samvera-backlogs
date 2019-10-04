@@ -1,0 +1,2 @@
+Changing from facet to keep punctuation in names
+The creator list was using the facet, but that is a normalized form of the name and does not include punctuation in the name so instead of 'Tribone, Michael' we got 'Tribone Michael' refs #1100

@@ -1,0 +1,2 @@
+Improve reliability of release note check 
+it fails to block if the something was merged since the last was created from master

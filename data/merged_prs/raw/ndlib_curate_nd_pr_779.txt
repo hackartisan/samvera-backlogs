@@ -1,0 +1,2 @@
+Adding explicit require fo RDF lib records
+In debugging the production application, we encountered the following error: NoMethodError undefined method `with_empty_content?' for #<GenericFile:0x00007f42aeb798d0> What appears to be happening is requires are not properly happening; This was a casualty of bringing in the sufia-models for updates as well as the confounding ActiveSupport nested included do. So this is a stab in the dark.

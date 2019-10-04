@@ -1,0 +1,1 @@
+Add actual alchemy image, closes #640

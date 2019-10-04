@@ -1,0 +1,2 @@
+fixes parent title bug
+Fixes  AMS2-529 AMS2-514

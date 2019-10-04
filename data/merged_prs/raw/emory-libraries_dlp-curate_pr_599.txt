@@ -1,0 +1,2 @@
+displays preservation workflow on show page
+Closes #527

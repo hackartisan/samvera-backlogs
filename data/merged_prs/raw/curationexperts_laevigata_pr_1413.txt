@@ -1,0 +1,2 @@
+Increase default database connection pool in production
+Inherit defaults for production database Default connection pool is 25 in production Closes #1400

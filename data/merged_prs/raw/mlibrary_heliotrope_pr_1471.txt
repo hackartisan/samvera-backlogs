@@ -1,0 +1,2 @@
+Update cozy-sun-bear with legacy browser support and fixed layout fixes
+Resolves #1470

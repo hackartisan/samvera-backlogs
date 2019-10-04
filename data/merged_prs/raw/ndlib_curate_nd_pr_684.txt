@@ -1,0 +1,2 @@
+(DLTP-1340) Book Chapter not showing Author
+Found and repaired issue with "Book Chapter" displaying author in search.

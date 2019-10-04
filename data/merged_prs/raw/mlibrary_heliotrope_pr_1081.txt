@@ -1,0 +1,2 @@
+default (blank) footer_block_c behavior
+Resolves #1075

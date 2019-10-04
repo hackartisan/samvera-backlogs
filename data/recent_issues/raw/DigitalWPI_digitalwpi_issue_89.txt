@@ -1,0 +1,2 @@
+LDP::Conflict -- Can't create new works
+Minter fails to mint new IDs causing work creation failures. Implement the fix suggested Refer samvera/hyrax#3128

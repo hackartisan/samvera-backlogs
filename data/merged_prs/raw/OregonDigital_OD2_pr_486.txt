@@ -1,0 +1,2 @@
+fix labels for CVs
+Fixes #377

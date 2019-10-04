@@ -1,0 +1,2 @@
+Dark state
+Addresses #291 I changed my mind on terminology and changed "dark" to "hidden". "Inactive" still feels wrong to me, but I'm happy to hear arguments otherwise. The workflow part of this is working. Next we need to wire up the UI to respect the hidden? flag on an object.

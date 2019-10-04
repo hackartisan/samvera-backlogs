@@ -1,0 +1,2 @@
+Move in typography decisions.
+Descriptive summary Provide the rationale or user story that describes "why" this issue should be addressed. Especially if this is a new feature or significant change to the existing implementation. Expected behavior Related work To find a home here: https://oregondigital.github.io/oregon-digital-style-guide/styles/typography Accessibility Concerns Add any information here to indicate any known or suspected accessibility issues for this ticket

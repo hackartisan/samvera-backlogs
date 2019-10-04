@@ -1,0 +1,1 @@
+Sorting the Decade facets display in chronological order.(DHH-732)

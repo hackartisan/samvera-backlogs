@@ -1,0 +1,2 @@
+Copy imported identifiers to the resource to prevent minting duplicate ARKs
+Fixes #1180 Alternative to #1206

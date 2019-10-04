@@ -1,0 +1,2 @@
+Disable collection exports 
+Descriptive summary I've discovered some problems with the new collection export feature that we probably don't have time to fix.  So I propose that we disable the feature until version 4.1. On the collection dashboard page, we need to remove/hide the button for Export Collection and remove/hide the link for Manage Exports in the sidebar.

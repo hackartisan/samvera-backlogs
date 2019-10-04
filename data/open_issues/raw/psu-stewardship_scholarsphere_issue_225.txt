@@ -1,0 +1,2 @@
+Fix Batch Edit Form
+Clicking the chevron for each field to edit is causing problems and needs to be tweaked, or possible scrubbed altogether in favor of a new design. This in combination with a new, updated test will fix the problems in #210.

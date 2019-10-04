@@ -1,0 +1,2 @@
+Fix/oai empty set
+fixes #1104

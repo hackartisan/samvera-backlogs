@@ -1,0 +1,2 @@
+Adding collection title indexing for Collection facet
+Description Adds a facet for collection to facet list References ticket: (if any) #238 Why was this necessary? Changes Collection facet before selection  Collection facet after selection  Are there any major changes in this PR that will change the release process? No Checklist   i18n enabled  adequate test coverage  accessible interface

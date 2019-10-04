@@ -1,0 +1,2 @@
+Feature/hide relationships tab unless admin
+Fixes #663

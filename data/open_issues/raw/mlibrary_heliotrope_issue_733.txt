@@ -1,0 +1,3 @@
+Sort by preference not remembered?
+Should the user's preference for "sort by" on the Monograph catalog page be remembered? Currently this preference is forgotten once the user navigates away to an asset and returns.
+This appears to be the default behavior of blacklight.  Probably best to wait until after the update to Hyrax and then revisit this card.  Blocked by Hyrax

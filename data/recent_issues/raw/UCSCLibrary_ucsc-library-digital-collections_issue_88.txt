@@ -1,0 +1,2 @@
+Add Elements to OAI Feed
+Can you add the following three elements to both the oai_dc and oai_dpla feeds? Property label to be added: collection itemCallNumber masterFilename

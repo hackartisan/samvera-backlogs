@@ -1,0 +1,2 @@
+Use IIIF Info lambda from config
+This changes the manifest to use the lambda from config to generate the info.json url.

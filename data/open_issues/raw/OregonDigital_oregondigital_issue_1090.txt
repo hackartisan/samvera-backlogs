@@ -1,0 +1,2 @@
+Announcement system
+We should have a system to throw a banner/message up on the main page (or all pages, depending on how we want the UX to be) so we can notify users of future downtime, changes, etc.

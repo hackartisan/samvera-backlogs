@@ -1,0 +1,2 @@
+Render a summary for derivative partials instead of each partial.
+Closes #3148

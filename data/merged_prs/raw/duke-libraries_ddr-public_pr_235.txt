@@ -1,0 +1,1 @@
+Adds action and route for JSON feed of tilesources URLs for an item

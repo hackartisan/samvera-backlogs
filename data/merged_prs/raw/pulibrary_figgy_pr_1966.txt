@@ -1,0 +1,2 @@
+Update Valkyrie
+Includes new more consistent query results.

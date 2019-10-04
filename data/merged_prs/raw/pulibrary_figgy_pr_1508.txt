@@ -1,0 +1,2 @@
+Capture and display derivative generation errors
+Saves error messages encountered during derivative generation in file metadata. Adds configuration to allow for filtering certain error types and messages in honeybadger.  Closes #1411

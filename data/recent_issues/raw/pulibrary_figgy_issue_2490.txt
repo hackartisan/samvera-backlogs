@@ -1,0 +1,2 @@
+Add "refresh metadata" button to collections
+Button should trigger source metadata refresh for all child objects with imported metadata. part of this work should be removing everything that was needed for the nightly refresh, implemented in https://github.com/pulibrary/figgy/pull/2347/files, since this functionality replaces that. Ultimately, using this button requires #2489

@@ -1,0 +1,2 @@
+Add Video as a document sub-type
+Yay subtypes!

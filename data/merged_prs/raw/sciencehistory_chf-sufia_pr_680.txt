@@ -1,0 +1,2 @@
+lazysizes-aspectratio on all show page images and viewer thumbs
+Takes up proper space on page even before image has loaded, since we tell it expected aspect ratio, gotten from recorded characterization. works whether the images is being lazy loaded or normal loaded, nice! lazysizes-aspectratio is a nice script. Closes #669

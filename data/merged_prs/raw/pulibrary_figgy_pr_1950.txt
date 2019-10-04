@@ -1,0 +1,2 @@
+Thumbnails should use FileSet documents
+Passing the ID forces a re-load of every FileSet, which is unnecessary.

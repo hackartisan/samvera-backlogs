@@ -1,0 +1,2 @@
+Extending the `ManifestBuilder::CanvasRenderingBuilder` in order to insert links to original files for download
+Resolves #790

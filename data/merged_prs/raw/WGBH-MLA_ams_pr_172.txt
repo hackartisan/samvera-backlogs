@@ -1,0 +1,2 @@
+Install hyrax-batch_ingest gem
+Adds the results of running the installer, and adds a feature spec.

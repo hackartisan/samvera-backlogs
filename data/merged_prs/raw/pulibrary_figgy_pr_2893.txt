@@ -1,0 +1,2 @@
+Fixes for NumismaticPerson
+Minor fixes for NumismaticPerson implementation.  Add replaces property to change set. Corrects an initial mistake. Updates decorator to account for cases where born, died, years_active_start, and years_active_end are not all described.

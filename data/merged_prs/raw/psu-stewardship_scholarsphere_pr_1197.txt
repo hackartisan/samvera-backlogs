@@ -1,0 +1,2 @@
+Use zip format in url for download
+This prevents the zip download service from running if a thumbnail is being rendered, or if the user is downloading the file from a specific file set.

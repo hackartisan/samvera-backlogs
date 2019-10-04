@@ -1,0 +1,1 @@
+Make all graphics arts collections have pdf_type color

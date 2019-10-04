@@ -1,0 +1,5 @@
+Ingest "Common Place Books" (pudl0056)
+
+No PUDL collection page.
+@tpendragon I see only one item in the `pudl0056` directory: 1202490 — and the two bibs in the description are Islamic manuscripts, so maybe that was intended for a different collection?  I think the decision is the same, though: ingest from Isilon.
+Nevermind, found the collection that was a reference to —moving over to #1596

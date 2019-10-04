@@ -1,0 +1,2 @@
+Sets the predicates properly on the nested items
+Fixes #1637

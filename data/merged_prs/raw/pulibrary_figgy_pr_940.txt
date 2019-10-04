@@ -1,0 +1,2 @@
+Reconfigure event generation to add geoblacklight events
+Adds geoblacklight event generation and message functionality while attempting to minimize changes to existing interfaces and specs. I tried other approaches, such as in the change_set_persister, however this one seemed the least disruptive. Closes #828

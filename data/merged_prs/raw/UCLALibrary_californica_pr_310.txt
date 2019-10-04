@@ -1,0 +1,2 @@
+Add coverall badge
+Add coverall badge so we can so how much of our code our tests are covering at a glance. Connected to UCLALibrary/amalgamated-samvera#180

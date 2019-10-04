@@ -1,0 +1,2 @@
+Use git-secrets to protect us from ourselves
+https://github.com/awslabs/git-secrets It can be configured to reject commits that have sensitive information in them. It's designed to work with AWS credentials, but can be used to detect anything.

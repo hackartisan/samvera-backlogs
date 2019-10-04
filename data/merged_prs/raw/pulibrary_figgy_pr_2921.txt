@@ -1,0 +1,2 @@
+small update in the drop down select box
+Small update in the drop down select. I noticed that changing into the same px number the max-height in open and inner class, some information (select options) might not be visible. Now I'm setting the open max-height > than the inner max-height to fix this.

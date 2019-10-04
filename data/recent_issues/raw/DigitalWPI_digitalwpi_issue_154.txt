@@ -1,0 +1,2 @@
+ansible nfs tasks
+rerun ansible works, rails symlinking, jaychat fresh start works, ingest works, snapshot revert, copy data to prod and back, rails db:migrate with cap

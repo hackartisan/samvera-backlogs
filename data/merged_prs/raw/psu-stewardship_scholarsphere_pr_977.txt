@@ -1,0 +1,2 @@
+Update BrowseEverything
+Addresses the issue of long filenames in #834. Note: requires #976 to be merged first.

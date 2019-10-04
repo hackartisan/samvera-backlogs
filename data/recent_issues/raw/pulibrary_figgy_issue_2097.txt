@@ -1,0 +1,2 @@
+MediaReserves should be called Recordings
+MediaReserves aren't actually put in the reserves system (those are playlists), and the user of this system is used to calling it a Recording.

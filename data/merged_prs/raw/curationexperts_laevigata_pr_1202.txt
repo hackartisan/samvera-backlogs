@@ -1,0 +1,2 @@
+Fix header overlap page content. Story #1171
+Closes #1171

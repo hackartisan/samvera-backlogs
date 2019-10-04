@@ -1,0 +1,2 @@
+Allowance for bulk bag ingest if file type doesn't exist.
+Add reviewer facet route. Retries were necessary in order to get bulk bags to ingest.

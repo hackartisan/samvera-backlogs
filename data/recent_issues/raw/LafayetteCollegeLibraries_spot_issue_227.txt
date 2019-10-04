@@ -1,0 +1,2 @@
+update document title for publication show
+currently: "#{work.class.name} | #{work.title.first} | ID: #{work.id} | Lafayette Digital Repository" might look better as just: "#{work.title.first} | Lafayette Digital Repository

@@ -1,0 +1,2 @@
+Add a NumismaticNote resource and use it in NumismaticIssue
+Closes #2912

@@ -1,0 +1,2 @@
+ensuring start over button is visible when submission failed
+This commit allows a student to remove their submission, by displaying the 'Start over with a new submission' button which deletes it, regardless of whether they have submitted their Etd or if that submission failed.

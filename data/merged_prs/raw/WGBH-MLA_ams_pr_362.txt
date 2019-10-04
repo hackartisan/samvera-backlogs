@@ -1,0 +1,2 @@
+359 add md5 to digital instantiation
+Adds md5 to digital_instantiations' instantiation_admin_data.

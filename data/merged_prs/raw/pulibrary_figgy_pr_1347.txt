@@ -1,0 +1,2 @@
+Update pg to 1.0
+fixes #1318

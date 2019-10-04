@@ -1,0 +1,2 @@
+Fix/server error
+fixes #1670 Update: It turns out that the method creator was returning nil in some works on staging, causing the submissions queue to break since the view is expecting an array on creator from solr.  added additional_information to access old metadata during migration added title_tesim as suggested by @wickr (title_tesim would be based on ordered title part of nested_ordered_title_tesim updated solr document and fixed the nil issue on creator (it now fallbacks to [] if it's not available)  TODO:   fix solr document spec

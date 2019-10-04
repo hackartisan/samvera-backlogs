@@ -1,0 +1,2 @@
+As a user I would like to be able to contact the creators so that I can learn more about a work
+It looks like to me there is no good way for a user to be able to contact a creator to inquire further about a work. Is this by design to prevent emails or something getting released?  We should either   Provide the email   Provide another way to contact the user.

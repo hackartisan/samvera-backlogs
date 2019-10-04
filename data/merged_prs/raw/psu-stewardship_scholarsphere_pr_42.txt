@@ -1,0 +1,2 @@
+Fixes size of marketing heading at 992px min, refs #9621
+Small detail between media queries of certain sizes.

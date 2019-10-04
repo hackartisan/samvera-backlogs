@@ -1,0 +1,1 @@
+Importer::CSV: use CSV.table

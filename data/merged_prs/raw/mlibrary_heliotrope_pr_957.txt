@@ -1,0 +1,2 @@
+Resolves #954: Monograph description teaser tweak
+Slight tweak for nodeType 3, text node

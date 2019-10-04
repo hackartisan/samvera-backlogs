@@ -1,0 +1,2 @@
+Release 1.94.0
+Descriptive summary  Version: 1.94.0 Release Manager: @VivianChu Product Owner and Reviewer: @gamontoya Operations: @jhriv   To Verify Tickets to review are noted in the release notes: https://github.com/ucsdlib/damspas/releases/tag/1.94.0

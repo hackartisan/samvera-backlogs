@@ -1,0 +1,2 @@
+Mgmt: front page goes to default search
+When I go to the front page of the application, I see all of the contents of the repository, i.e., I see what I would see if I had hit the "search" button without any search terms entered

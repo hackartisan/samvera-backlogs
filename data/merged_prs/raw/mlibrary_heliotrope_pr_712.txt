@@ -1,0 +1,1 @@
+Resolves #706 Add fulcrum-dev contact email to readme

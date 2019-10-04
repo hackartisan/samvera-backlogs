@@ -1,0 +1,2 @@
+Add recording and simple resource to human_readable_type
+Closes #2321

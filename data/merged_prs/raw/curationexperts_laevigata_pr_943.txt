@@ -1,0 +1,2 @@
+Respect `bsi` false values for embargoes
+False boolean values were previously ignored due to the if guard. We change this to an explicit type check for nil, so false is respected.

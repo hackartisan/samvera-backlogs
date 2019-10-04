@@ -1,0 +1,2 @@
+Write print.css (for contribution to Hyrax as well).
+Descriptive summary Occasionally, users will want to print out an item and its metadata to PDF or hard copy. Expected behavior Printed page should appear with an expected visual hierarchy. Related work Work in this print.css area could find its way to the Samvera community and the Hyrax code.

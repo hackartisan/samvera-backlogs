@@ -1,0 +1,2 @@
+Namespace all rake tasks to `figgy`
+I expect to be able to find all locally-defined tasks with rake -T figgy

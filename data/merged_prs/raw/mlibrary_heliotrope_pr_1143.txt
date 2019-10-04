@@ -1,0 +1,2 @@
+Resolves 1122 pagination next arrow bug.
+Resolves #1122 Pagination Next Arrow Bug.

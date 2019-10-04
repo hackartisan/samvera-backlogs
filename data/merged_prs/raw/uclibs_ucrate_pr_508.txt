@@ -1,0 +1,2 @@
+Autopopulate college and department on proxy.
+Fixes #203 Present short summary (50 characters or less) This modifies the set_creator.js to also update the college and department in the form field on selection.

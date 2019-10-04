@@ -1,0 +1,2 @@
+create build/deploy script in OD2-infra repo
+Descriptive summary Create a shell script that automates running ansible and k8s deployment for a given environment (staging/production). Expected behavior  It can take an environment variable It runs the appropriate ansible command with the environment configuration. Returns error code and detail if ansible fails. It runs the kubectl apply on the appropriate k8s for the environment. Returns error code and details if kubectl fails. It returns a success code and some deployment detail if both commands worked successfully.

@@ -1,0 +1,2 @@
+Add an 'ark' property to the UCLA data model
+The ark appears on work show pages The ark appears on collection show pages Connected to #456

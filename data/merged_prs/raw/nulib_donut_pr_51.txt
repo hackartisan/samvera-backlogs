@@ -1,0 +1,2 @@
+upgrade README for minio
+refs #50

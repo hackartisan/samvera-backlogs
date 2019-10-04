@@ -1,0 +1,2 @@
+sets visibility to default as open for new works
+fixes #1208

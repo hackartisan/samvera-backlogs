@@ -1,0 +1,2 @@
+create colls task
+fixes OregonDigital/hyrax-migrator#119

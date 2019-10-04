@@ -1,0 +1,2 @@
+HELIO-2528 APTrust code to generate bags
+Changes to exporter to add bagit functions.

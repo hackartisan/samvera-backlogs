@@ -1,0 +1,2 @@
+Able to delete asset and children if trying to reingest an asset
+Description: As a developer with a list of IDs to be reingested, I need each Asset and all of its children deleted based on the IDs provided, so that the xml record can be ingested again without trying to create duplicate records.

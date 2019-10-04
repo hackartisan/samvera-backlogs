@@ -1,0 +1,2 @@
+some fixity odds and ends
+rake task  dashboard  mailer notifications (slack??)  enqueue job at lowest priority (add another level to the queues)  this is the low-stakes stuff to start integrating fixity checks into our workflow closes #170

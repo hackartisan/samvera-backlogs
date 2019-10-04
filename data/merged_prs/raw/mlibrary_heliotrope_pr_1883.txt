@@ -1,0 +1,2 @@
+Add filters to publisher catalog page; begin other enhancements to publisher catalog
+Resolves HELIO-1926 Adds filters to publisher catalog page. Begins adding sort configs for publisher catalog page. Fixes accessibility issues on monograph and publisher catalogs detailed in HELIO-1751 and modifies styles to maintain current display.

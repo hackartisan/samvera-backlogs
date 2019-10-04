@@ -1,0 +1,2 @@
+updates worktype selection modal
+fixes #1425

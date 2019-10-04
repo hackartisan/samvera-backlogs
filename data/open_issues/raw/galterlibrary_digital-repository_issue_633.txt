@@ -1,0 +1,2 @@
+Encoding accent marks for foreign language words
+Ramune found a glitch in DigitalHub when she tried to put in an artist’s French name—no foreign accent marks are accepted in the description.

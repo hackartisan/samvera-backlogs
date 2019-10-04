@@ -1,0 +1,2 @@
+add task to copy solr config
+we need to manually copy over any solr config updates to the solr server + restart it any time we make changes. a rake task could streamline that process.

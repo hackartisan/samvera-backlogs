@@ -1,0 +1,2 @@
+Epub view monograph assets
+Resolves #1364 Resolves #1396 Resolves #1441 Resolves #1558 Adds widgets to toggle and display WebGL file in CSB; Adds Media widget to open Media tab in CSB if exists; facilitates communication between EPUB text and WebGL; Requires this EPUB with properly formatted links to the Unity game.

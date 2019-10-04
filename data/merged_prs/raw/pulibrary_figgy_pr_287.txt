@@ -1,0 +1,2 @@
+Ensure diacritic/bracketed searching works.
+Closes #278, closes #281

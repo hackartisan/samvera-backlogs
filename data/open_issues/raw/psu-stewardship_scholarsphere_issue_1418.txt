@@ -1,0 +1,2 @@
+Sufia Link on About Page Links to ScholarSphere
+When viewing the about page on QA and running through the hyperlinks on the page, the hyperlinks for ScholarSphere and Sufia both go to the SS github page.

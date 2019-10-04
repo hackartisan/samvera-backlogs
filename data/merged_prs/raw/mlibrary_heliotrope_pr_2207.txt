@@ -1,0 +1,2 @@
+Resolves HELIO-1212: Ruumba Cops
+Syntax changes to pass cops.

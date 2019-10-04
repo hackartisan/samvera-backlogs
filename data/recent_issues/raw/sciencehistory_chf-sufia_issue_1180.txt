@@ -1,0 +1,2 @@
+Inscription field will not disappear
+In spite of deleting the inscription field, () “”  characters still exist: https://digital.sciencehistory.org/works/73666528n Attempted to save edits last week and today to no avail.  Thanks for looking into this!

@@ -1,0 +1,2 @@
+some performance improvements to fileset/child work conversion
+Perf improvements not enough to actually do this all in the foreground, we are continuing work to move some into bg. But there were perf gains, and corresponding refactorings to organize the code for legibility under better performance patterns.

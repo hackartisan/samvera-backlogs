@@ -1,0 +1,2 @@
+add honey badger install with ansible or cap for only prod
+bundle exec honeybadger install $HONEYBADGER_API_KEY this is the thing to do fellas

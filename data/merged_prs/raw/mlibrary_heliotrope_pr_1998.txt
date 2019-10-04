@@ -1,0 +1,2 @@
+overwrite find_or_create_system_user
+Resolves HELIO-2065

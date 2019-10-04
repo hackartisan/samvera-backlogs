@@ -1,0 +1,2 @@
+Update visibility badge notices with new rules
+fixes #3199

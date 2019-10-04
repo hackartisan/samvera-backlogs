@@ -1,0 +1,2 @@
+Changing production to disk
+Matches up with the configured storage adapter Description References ticket: #359 Why was this necessary?  Is causing a null pointer exception when the storage adapter is used, since fedora is not configured. Changes Are there any major changes in this PR that will change the release process? Checklist   i18n enabled  adequate test coverage  accessible interface

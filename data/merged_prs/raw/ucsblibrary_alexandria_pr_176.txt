@@ -1,0 +1,2 @@
+Add rake task to import UCSB arks into a CSV
+Summary DIGREPO-937  Add a rake task to process UCSB ETDs and populate a CSV with ADRL arks for ETDs based on  ProQuestId in the ProQuest filename.  Rake Tasks  bundle exec rake 'import:adrl_arks[tmp/merritt_proquest.csv, tmp/adrl_arks.csv]' --trace Above task imports adrl arks for each ProQuestId in merritt_proquest.csv and writes to a new csv tmp/adrl_arks.csv as a result. Pass tmp/adrl_arks.csv to import respective merritt arks back into ADRL bundle exec rake 'import:merritt_arks[tmp/adrl_arks.csv]' --trace

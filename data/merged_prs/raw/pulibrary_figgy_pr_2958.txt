@@ -1,0 +1,2 @@
+ Add NumismaticProvenance resource
+Closes #2927

@@ -1,0 +1,2 @@
+Fix mistake in regex in names and subjects expressions
+fixes nulib/next-generation-repository#717

@@ -1,0 +1,2 @@
+Add local collection name autocomplete field
+fixes #318

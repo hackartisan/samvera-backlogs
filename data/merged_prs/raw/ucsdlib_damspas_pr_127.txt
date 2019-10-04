@@ -1,0 +1,2 @@
+Adding option to specify priority for indexer (DAMSKEY-527)
+Fixes https://lib-jira.ucsd.edu:8443/browse/DAMSKEY-527

@@ -1,0 +1,1 @@
+Update `rubyzip` (CVE-2018-1000544)

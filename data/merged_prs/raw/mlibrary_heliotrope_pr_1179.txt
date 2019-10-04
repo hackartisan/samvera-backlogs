@@ -1,0 +1,1 @@
+Fixes #1175, 500 error on file_set edit page (probably from a typo)

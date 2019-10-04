@@ -1,0 +1,2 @@
+Adding support for auth tokens to downloads controller
+Allows downloading files with an auth token

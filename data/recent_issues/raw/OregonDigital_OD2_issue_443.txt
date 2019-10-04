@@ -1,0 +1,2 @@
+Notification for workflows
+Descriptive summary When a work enters a workflow, notification should be sent to those assigned to the workflow step for the admin set. Message: The work <Title> () has been uploaded and is ready for your review.

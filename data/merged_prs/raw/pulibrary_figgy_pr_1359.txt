@@ -1,0 +1,2 @@
+Overriding `Blacklight::CatalogHelperBehavior#render_search_to_page_title_filter` in order to handle nil or empty facet parameter values
+Resolves #1343

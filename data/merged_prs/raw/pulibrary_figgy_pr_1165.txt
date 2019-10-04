@@ -1,0 +1,2 @@
+Ingest bag when a bag path is available.
+When something's ingested which responds to bag_path and it's a non-empty value it will run the bag ingest job. I went with this way instead of the proposed after_create/after_update hooks so that we could also ingest via the console or a rake task. Closes #1149

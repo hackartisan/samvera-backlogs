@@ -1,0 +1,2 @@
+Abstract out existing publisher themes
+After #824 is completed, create and set variables for each existing publisher's colors, typography, and other customized bits. Do this for:   michigan  northwestern  minnesota  penn state  indiana  make sure existing publisher pages work

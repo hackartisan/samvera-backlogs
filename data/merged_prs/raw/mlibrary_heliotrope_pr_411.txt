@@ -1,0 +1,2 @@
+do not show quotes or brackets in alt text for media
+Closes #396

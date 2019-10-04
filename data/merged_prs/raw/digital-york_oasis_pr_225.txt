@@ -1,0 +1,1 @@
+list newly entered topics correctly under 'Other'

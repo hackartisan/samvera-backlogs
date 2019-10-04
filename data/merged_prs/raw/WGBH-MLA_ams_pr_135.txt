@@ -1,0 +1,2 @@
+Adds integration spec for testing date range search filter
+Fixes some bugs in the search builder for building date range queries. Adds Capybara custom matcher for checking multiple search results. Adds Capybara custom matcher for checking ONLY certain search results.  Also,  Removes date formatting from search builder; handled by date picker input instead Removes unused spec/support/capybara.rb Removes redundant before(:suite) hook in Rspec config  Closes AMS2-513.

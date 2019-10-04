@@ -1,0 +1,2 @@
+Remove lib-proc2 and 3 as workers
+probably best to not merge until we have confirmation that these boxes are off. resolves #2270

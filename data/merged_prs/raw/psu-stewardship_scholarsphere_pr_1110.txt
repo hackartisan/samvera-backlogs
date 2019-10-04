@@ -1,0 +1,2 @@
+Adding some cleanup to the name parts
+refs #1109

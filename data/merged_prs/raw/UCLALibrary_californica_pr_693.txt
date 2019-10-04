@@ -1,0 +1,1 @@
+In docker.env, point IIIF_SERVER_URL to cantaloupe-stage

@@ -1,0 +1,2 @@
+Resource details page - Add sentence on IRIS
+On the Resource details page can we add a sentence above the IRIS link: This resource uses materials available from the IRIS database

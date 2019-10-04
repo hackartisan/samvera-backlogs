@@ -1,0 +1,2 @@
+Reindex everything
+Now that #2541  is merged, we should reindex everything to make sure all of the updated metadata indexing is applied to all resources.

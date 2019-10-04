@@ -1,0 +1,2 @@
+HELIO-1545 - add Fulcrum "Partner With Us" page and update top level nagivation
+Resolves HELIO-1545 Resolves HELIO-2173 Mostly content changes:  Creates a "Partner with Us" page that includes partnership models and services offered. Modifies the top-level navigation to reflect the new page and also requested changes to include the blog. Modifies heliotrope-side navigation for fulcrum in the footer Updates the year display to use system year in footer of heliotrope app Removes date from fulcrum.org/beta page

@@ -1,0 +1,2 @@
+Add debug messages for FileSet embargo updates
+We have code and feature tests for embargo update for FileSets, but this is observed to be broken in production (#1553). These debug logs are to help us diagnose this.

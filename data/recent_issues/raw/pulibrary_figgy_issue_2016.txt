@@ -1,0 +1,2 @@
+New Report: Figgy manifests and Component IDs for recently-ingested items
+Allow users to select a date, and provide a CSV report mapping PULFA component IDs to Figgy manifest URLs for items ingested since that date.

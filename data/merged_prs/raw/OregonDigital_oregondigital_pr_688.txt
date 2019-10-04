@@ -1,0 +1,2 @@
+Feature/removeperson
+Removed separate person predicate and integrated people vocab into subject

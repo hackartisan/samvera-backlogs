@@ -1,0 +1,2 @@
+Set admin set ids on create admin set task
+fixes #513

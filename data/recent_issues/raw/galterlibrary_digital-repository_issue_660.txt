@@ -1,0 +1,2 @@
+Notify Slack of correct branch when deploying
+Only production branch being deployed to production server should state tag. Deployments to stage server should state branch name.

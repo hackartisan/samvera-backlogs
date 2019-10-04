@@ -1,0 +1,1 @@
+Add active_elastic_job gem and BetterActiveElasticJobAdapter

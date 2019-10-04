@@ -1,0 +1,2 @@
+[deps] update to Rails 5.0.4, bump other gems
+http://weblog.rubyonrails.org/2017/6/19/Rails-5-0-4-has-been-released/

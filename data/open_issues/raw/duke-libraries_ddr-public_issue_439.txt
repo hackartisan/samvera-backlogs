@@ -1,0 +1,2 @@
+Should links to finding aids open in new tab/window?
+Requested in stakeholder feedback sessions (F4 TestFest 6/2/16 & RLMT MSS1 6/7/16). Links to archival finding aids appear in collection portals & item sidebars. Reconcile this request with modern web UI patterns/research and potentially conflicting feedback that finding aid UI should supersede DDR.

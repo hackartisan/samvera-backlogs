@@ -1,0 +1,1 @@
+Updates User#from_omniauth to use documented methods

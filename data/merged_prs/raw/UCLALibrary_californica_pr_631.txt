@@ -1,0 +1,2 @@
+Track background jobs ids in CsvRow
+CsvRow should track what job ids have been queued, and which ones have completed or errored.   CsvRow should treat errors as an array, because there might be more than one error reported for a given row.   Instead of CsvRow status being a static string, it is determined by looking at what background jobs have been queued, completed, and errored.

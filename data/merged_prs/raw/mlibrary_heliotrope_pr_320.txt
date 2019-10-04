@@ -1,0 +1,2 @@
+monograph metadata is accessible from within an asset presenter
+Resolves #309

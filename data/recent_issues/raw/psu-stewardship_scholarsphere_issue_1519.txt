@@ -1,0 +1,2 @@
+Video player gets too big
+The video player is overwriting the contents of the page https://scholarsphere.psu.edu/concern/parent/db78tc20t/file_sets/9kd17cs73r

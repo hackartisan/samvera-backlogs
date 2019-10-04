@@ -1,0 +1,2 @@
+Display in the viewer only the coins that have an image
+Prevents a sequence 0 error in the UV viewer by building the manifest with only the coins that have an image Co-authored-by: Trey Pendragon tpendragon@princeton.edu

@@ -1,0 +1,2 @@
+Removing parameters from id
+This code is currently on ssjob1prod-new.  I hand edited the code and reran the rake task, but did not deploy it, as that was a smaller change.

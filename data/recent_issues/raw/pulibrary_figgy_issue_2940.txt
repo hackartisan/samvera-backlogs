@@ -1,0 +1,2 @@
+Author ID should be multi-valued in NumismaticReference
+I made a mistake and added a nested author (NumismaticPerson) as a single value. Should be multi-valued.

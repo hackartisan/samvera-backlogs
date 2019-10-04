@@ -1,0 +1,2 @@
+Adding time-based ARK reports for PULFA resources
+Fixes #2016

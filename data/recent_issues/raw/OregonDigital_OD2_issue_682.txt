@@ -1,0 +1,2 @@
+Search Results: List View: Metadata field labels left-aligned
+Descriptive summary On Search Results, List View, make work metadata field labels left-aligned. Wireframe mockup, List View: https://www.lucidchart.com/documents/edit/517560ad-afba-41c5-a2c5-d3ff2b16f2bf/0 (Information compiled by POSM group from updated wireframes) Expected behavior The metadata fields displayed for each work are left-aligned instead of right-aligned. Related work Link to related tickets or prior related work here.

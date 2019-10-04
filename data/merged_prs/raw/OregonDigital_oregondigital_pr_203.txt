@@ -1,0 +1,2 @@
+Specify :format instead of :hasFormat
+Closes #202

@@ -1,0 +1,1 @@
+Fixes #1041, epubs not loading. Also updated cozy-sun-bear in Gemfile

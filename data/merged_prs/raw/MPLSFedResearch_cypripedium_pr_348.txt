@@ -1,0 +1,2 @@
+Use FITS servlet for file characterization
+FITS servlet is significantly faster for file characterization. Connected to curationexperts/in-house#300

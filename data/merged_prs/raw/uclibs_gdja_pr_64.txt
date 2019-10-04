@@ -1,0 +1,2 @@
+update homepage text
+Fixes #58

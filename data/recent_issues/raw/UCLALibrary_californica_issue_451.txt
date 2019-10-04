@@ -1,0 +1,2 @@
+Delete Blacklight saved searches
+Add cron job to automatically delete any Blacklight saved searches so that the database doesn't fill up https://github.com/UCLALibrary/californica/blob/a197c0714075a373a8a6fe61dc8617f48f7a976e/config/schedule.rb

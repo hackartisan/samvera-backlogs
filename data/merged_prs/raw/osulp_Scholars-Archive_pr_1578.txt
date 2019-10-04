@@ -1,0 +1,2 @@
+updated helptext and label for creator and disabled first and last ar…
+fixes #1548  Updated helptext and labels for Creator (nested ordered creator) Added tooltip text for up and down buttons Disabled first Move up and last Move down buttons

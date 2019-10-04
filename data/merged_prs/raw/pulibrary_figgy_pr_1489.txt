@@ -1,0 +1,2 @@
+Add collections owner report mailer
+refs #1331; see the issue for the remaining steps necessary to close.

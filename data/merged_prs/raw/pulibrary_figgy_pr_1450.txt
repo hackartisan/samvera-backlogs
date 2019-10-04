@@ -1,0 +1,2 @@
+Update Sprockets.
+In response to security vulnerability discovered in Sprockets 3.7.1.

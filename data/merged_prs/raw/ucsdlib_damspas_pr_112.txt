@@ -1,0 +1,2 @@
+Fixing rdf:type of MadsAuthority class
+Related to https://lib-jira.ucsd.edu:8443/browse/DAMSKEY-514

@@ -1,0 +1,2 @@
+Show department label on Submit tab
+This commit shows the department label instead of the id on the submit tab in the same way that subfields are shown. This also fixes a problem where the My Program section might be missing on the submit tab. Now the My Program section loads the deparments so that it can determine the correct label. Previously they were only loaded into memory on the actual My Program tab. Connected to #1748 Connected to #1782

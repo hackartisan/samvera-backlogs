@@ -1,0 +1,2 @@
+Refactor validation, transformation, and controlled vocabulary to be the same
+Did two commits  Refactor the two that were similar to extract repeated code Refactor validation to use the new pattern

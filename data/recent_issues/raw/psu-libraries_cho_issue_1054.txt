@@ -1,0 +1,2 @@
+Resource-level administrative files
+Resources may have administrative files that need to be kept and made available to staff, but hidden from the public. These files may be MOUs, unused technical metadata retained for future use, or other documentation. If uploaded in a bag, this files would be in within a subdirectory of the resource called admin. Further documentation on admin files: https://git.psu.edu/digipres/documentation/blob/master/digitalObjectGuidelines/guidelines.md#administrative-files Related: #351

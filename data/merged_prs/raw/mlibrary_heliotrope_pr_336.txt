@@ -1,0 +1,2 @@
+Change ISBN labels and enable ISBN display
+change labels and field name for isbn_softcover, update ISBN display for monograph edit/show page, ensure all ISBNs display on monograph catalog page

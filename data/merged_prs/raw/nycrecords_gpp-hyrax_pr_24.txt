@@ -1,0 +1,2 @@
+Feature/GPP-284: Session Timeout for SAML Users
+This PR implements session timeout for authenticated users. Changes:  Session timeout is handled by the auto-session-timeout-warning gem. An additional dependency, jquery-ui-rails is required. A user's session will automatically timeout after 30 minutes of inactivity. A warning will be displayed 5 minutes before timeout. An AJAX request to /active will be sent every 60 seconds to check the server for an active session.

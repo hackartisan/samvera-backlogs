@@ -1,0 +1,2 @@
+HELIO-2130 - add styles, colors, fonts for Lever Press
+Resolves HELIO-2130, adds needed styles for Lever Press on Fulcrum

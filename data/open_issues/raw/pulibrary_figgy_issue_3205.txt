@@ -1,0 +1,5 @@
+Auth token for dpul
+An auth token can be made which only allows display and access of manifests for items which are complete and not private. Current hypothesis: groups reading_room and authenticated. It’s going to have to get around the reading room IP restriction. If getting around the reading room IP restriction is too annoying, maybe make that a separate ticket; these materials aren't expected to go into dpul anyway and finding aids won't need this functionality. Maybe separate out the reading room sync access. refer to https://docs.google.com/document/d/1AKB1CRRc5g1BV1qstKvAA90xg042fizfyYZHGsMkVes/edit
+I'm currently thinking that if we don't have a use case for putting reading room only stuff in dpul then let's not even make it a separate ticket.
+We don't need to include Reading Room Only content in DPUL at this time, so we're not sure we need this now.
+This is to allow Campus IP materials to be indexed in DPUL — maybe as easy as generating a token for DPUL and using it.  Or just include the auth token in emitted messages.

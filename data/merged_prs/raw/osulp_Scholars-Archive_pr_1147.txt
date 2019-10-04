@@ -1,0 +1,2 @@
+Feature/degree field repeatable
+Fixes #1146

@@ -1,0 +1,1 @@
+Added to_solr to YamlDatastream so it can be indexed.

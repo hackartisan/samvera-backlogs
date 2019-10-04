@@ -1,0 +1,2 @@
+Authorize for riiif image access, refs #617
+as per https://github.com/RepoCamp/ahc/wiki/IIIF#adding-authorization

@@ -1,0 +1,3 @@
+Restoring a previous version has the file's url for a title
+When restoring a previous version of a file, the title is the url of the file and not the filename:
+Note, the above file set's versions when "Tardis" to "Dalek" and back to "Tardis." The image above was captured just after the file was restored to the "Tardis" version, but before the thumbnail could finish regenerating.

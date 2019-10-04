@@ -1,0 +1,2 @@
+Display the EtdForm object on a single page
+This changes the InProgressEtd form to display the complete EtdFrom object using simple_form. When this form is submitted the results are saved as JSON in the the InProgressEtd.data field.

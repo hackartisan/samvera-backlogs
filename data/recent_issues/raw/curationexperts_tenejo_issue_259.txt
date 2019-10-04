@@ -1,0 +1,2 @@
+DASHBOARD: Remove link to CSV template from left navigation bar
+ISSUE The CSV template is showing up for non-admin users where it may be confusing.  Since we provide a link on the new CSV import page, it's not really necessary in the main navigation bar anymore. ACCEPTANCE   Remove the CSV Template link from the left navigation bar (for all users)  The "Import Content from a CSV" link should only appear for administrators (regular users should not see it)

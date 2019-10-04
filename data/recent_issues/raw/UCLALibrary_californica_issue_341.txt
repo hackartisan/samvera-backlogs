@@ -1,0 +1,2 @@
+install htop on each californica and ursus-related server
+htop is a useful troubleshooting tool, it should be added to all the servers we are building for this project.

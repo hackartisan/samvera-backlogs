@@ -1,0 +1,2 @@
+Separate sammelband and mvw in data seeder
+fixes #970

@@ -1,0 +1,2 @@
+Updating logger version
+Updating logger version e136a87 Ran the following command: $ bundle update logger The 1.2.8 version was yanked (originally published May 2011) and replaced by 1.3.0. This commit fixes that behavior. Addressing Ruby version error 56854b6 For 2.1.10 build encountered the following: SyntaxError: $PATH/gems/logger-1.3.0/lib/logger.rb:482: syntax error, unexpected '.'     @logdev&.write(msg)              ^ $PATH//gems/logger-1.3.0/lib/logger.rb:569: syntax error, unexpected '.'     @logdev&.close

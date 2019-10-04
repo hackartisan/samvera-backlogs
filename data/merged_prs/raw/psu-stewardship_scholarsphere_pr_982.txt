@@ -1,0 +1,2 @@
+Removes File Format Metadata for Works from Search Index View 
+Removes the file format field on the search view for works from the file configurator. Removes file format from the common fields but adds it to the facet fields in the field configurator. Removes file format spec test from catalog controller, works controller, and field configurator because we are dealing with works not files.

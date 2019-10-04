@@ -1,0 +1,2 @@
+Updating text reporter id for Code Climate
+Description Code coverage reports were not being sent to Code Climate. It could have been the move to travis.com that was the problem. I've regenerated the encrypted reported ID variable to fix the issue.

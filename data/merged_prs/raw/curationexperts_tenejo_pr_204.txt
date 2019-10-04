@@ -1,0 +1,2 @@
+Display a warning when you have no collections
+This checks to see if there are collections and if there are none it does't allow you to continue the import process. Connected to #199

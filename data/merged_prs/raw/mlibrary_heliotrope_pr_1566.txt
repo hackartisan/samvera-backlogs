@@ -1,0 +1,2 @@
+add style for gabii branding
+Resolves #1391 Adds styles for branding Gabii. Assumes Gabii logo is named "gabii.png" and that Typekit ID has been placed in the publisher profile.

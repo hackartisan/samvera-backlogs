@@ -1,0 +1,2 @@
+Move Advisor to Default work type
+Move contributor_advisor field from ETD metadata to Default metadata. Associated changes to update forms, indexers, models, presenters and specs. I haven't been able to test this locally, so this will need thorough QA, which I can help with.

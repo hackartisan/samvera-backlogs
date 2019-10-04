@@ -1,0 +1,2 @@
+Use the `ActorRecordImporter` when importing via the rake task
+This replaces the default Darlingtonia::RecordImporter, with the new ActorRecordImporter to route imports through the Actor Stack. We leave the dependency hard coded for now.

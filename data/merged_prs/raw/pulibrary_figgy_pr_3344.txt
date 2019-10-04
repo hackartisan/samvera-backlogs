@@ -1,0 +1,1 @@
+Adding rake task to export all items in a collection as PDF

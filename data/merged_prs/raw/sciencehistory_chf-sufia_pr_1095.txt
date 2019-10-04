@@ -1,0 +1,2 @@
+Tweak the orphaned fixity check cleanup script
+Adding Ldp::Gone to list of exceptions to catch in identifying vanished FileSets. Two different exceptions get thrown depending on whether a placeholder is left when a FileSet is deleted. We want to delete the fixity check records in either case.

@@ -1,0 +1,4 @@
+Staff users can't delete FileSets they have created
+The Ability class is checking whether the FileSet's depositor matches the user's id, but the FileSet's depositor property is nil.
+What should it check? `depositor` on the FileSet's parent?
+Checking the parent's `depositor` sounds good — it means there is only one definition of who deposited an item for purposes of checking who can delete things.

@@ -1,0 +1,2 @@
+Display asset permalink on asset show page
+Closes #514 Construct handle URL based on asset ID and display handle permalink on asset show page; test to ensure permalink is displayed on page; replace existing share button URL with permalink. This is a temporary fix until we work on #479.

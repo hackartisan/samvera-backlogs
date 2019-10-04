@@ -1,0 +1,2 @@
+store and show monograph handles
+Resolves #1460

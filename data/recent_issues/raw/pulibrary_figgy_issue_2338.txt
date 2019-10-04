@@ -1,0 +1,2 @@
+New report: source metadata identifiers and Figgy manifest URLs for a collection
+After bulk-completing a collection (see #697), the next obvious step is to add the Figgy object URLs to the source metadata (MARC or EAD).  Provide a report where a user can select a collection and get a report of object's source_metadata_identifier, ARK, and Figgy manifest URLs.

@@ -1,0 +1,2 @@
+Work Show Page: Add Collection Information section to right column, move content from Relationships section
+Descriptive summary In the narrower right column, add a new section at the top of the column called "Collection Information", move the display under the Relationships section under here (Collections, Admin Sets, etc.) Wireframe mockup: https://www.lucidchart.com/documents/edit/944f6fd3-53b5-466b-b49f-f0788ada80aa/0 (Information compiled by POSM group from updated wireframes) Expected behavior Collection Information sections hows Collections and Admin Sets information.

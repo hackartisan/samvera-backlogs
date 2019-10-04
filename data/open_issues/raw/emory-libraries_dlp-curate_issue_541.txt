@@ -1,0 +1,2 @@
+Schedule Curate prod "freeze" for migrations
+We need to switch over to treating production as a true production environment and no longer use it for testing.

@@ -1,0 +1,2 @@
+Move "Set visibility by Date Created" to its own partial
+It has nothing to do with source metadata id and it's confusing for some forms (e.g. new recording)

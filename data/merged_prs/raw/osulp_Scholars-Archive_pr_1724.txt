@@ -1,0 +1,2 @@
+update purchase e resource form
+fixes #1723

@@ -1,0 +1,2 @@
+Fix issue with blank pulfa report since_date
+Guards against blank since_date on the controller. Makes since_date a required field. Adds date picker.  Closes #2999

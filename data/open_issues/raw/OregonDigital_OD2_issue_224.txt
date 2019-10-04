@@ -1,0 +1,2 @@
+Write eight end user tasks.
+Descriptive summary In the user center design process approved by our stakeholders, we'll want to determine eight end user tasks to test against. Expected behavior Eight tasks should be enough to cover the success metrics we've determined: https://drive.google.com/file/d/11jK9G_HjiHtcHuRKwQFscnnmwDbUS5yh/view?usp=sharing Related work Link to related tickets or prior related work here.

@@ -1,0 +1,1 @@
+Changed display of Related Resources to categorize resource display from different collections. DHH-364

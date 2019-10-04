@@ -1,0 +1,2 @@
+stop indexing location
+fixes https://github.com/nulib/next-generation-repository/issues/737 i think this cleans out most stuff related to the geo_point

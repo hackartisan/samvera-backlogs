@@ -1,0 +1,2 @@
+Enable cards for Twitter
+Make previews available for tweets of OASIS summaries. For example: https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/summary-card-with-large-image

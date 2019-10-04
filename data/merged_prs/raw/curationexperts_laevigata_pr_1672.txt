@@ -1,0 +1,2 @@
+adding piece of metadata display for box
+This commit adds the code that initially creates a supplemental file metadata object to the box uploader.

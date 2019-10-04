@@ -1,0 +1,5 @@
+Investigate using Blacklight as "API"
+Blacklight as the option of using it as an API instead of an engine. This could have some advantages for CHO, namely that we would be free to implement any kind of UI, without the need for Bootstrap, and use things like CSS grid or other approaches. Additionally, we may more insulated from version upgrades because the API could theoretically remain more stable. Disadvantages would include having to rewrite catalog controller interactions, and search and show pages views.
+Options: * write our own controllers that make calls to Blacklight and parse JSON that's returned * remove all view code from Blacklight and use our own layouts and views * use webpack option and possibly omit bootstrap * just use webpack option and add our own stuff as needed
+Might I suggest this be tabled until 1.x?
+We should explore this now, at least, and determine what option we'd like to go with. Choosing to re-write the view code would be a lot easier to do now than later. Currently, we're not using that much of Blacklight, only search results and show page views.

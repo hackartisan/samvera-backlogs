@@ -1,0 +1,2 @@
+indexing sort_date for file_sets/assets, #200
+Resolves #200 This enforces a sort_date format of YYYY-MM-DD, so it won't accept YYYY or YYYY-MM. Is that ok with everyone?

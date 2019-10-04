@@ -1,0 +1,1 @@
+Add RelatedItem class; limit display to 3 results with link to view all.

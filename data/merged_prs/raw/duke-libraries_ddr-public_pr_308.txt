@@ -1,0 +1,2 @@
+Setup for digital collections portal
+Adds a new route (digital_collections_index_portal), DigitalCollectionsController action (index_portal), and index_portal.html.erb template to support the /dc portal Adds @featured_collection_documents, @collection_count, @item_count to the index_portal action Search scopes now render depending on the current request path Fixes routes for Blacklight Range Limit use on the /dc portal

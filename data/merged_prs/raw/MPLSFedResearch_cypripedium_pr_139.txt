@@ -1,0 +1,2 @@
+Update Hyrax to 2.0.1
+This commit updates the Hyrax gem in the Gemfile to the 2.0.1.

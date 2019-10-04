@@ -1,0 +1,2 @@
+resource type updated
+Fixes #233

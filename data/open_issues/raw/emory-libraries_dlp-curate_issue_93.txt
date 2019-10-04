@@ -1,0 +1,2 @@
+Temp DB_AUTH on prod (switch to shib)
+set DATABASE_AUTH env variable as false on prod and in appropriate files  modify admin setup to set default password only for dev and not on prod  move admins from database to shib in admins.yml on prod

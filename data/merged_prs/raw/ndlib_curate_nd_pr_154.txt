@@ -1,0 +1,2 @@
+Normalizing support request email
+There are a handful of locations throughout Curate and CurateND that have support email requests. This change brings all of those locations inline leveraging a common method.

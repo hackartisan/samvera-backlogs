@@ -1,0 +1,2 @@
+Install base Hyrax for Curate
+Discussed in 12/12 release planning meeting for 0.1   Determine how the 3.0 beta testers are installing the beta.  Generate a new Hyrax app (without a model) using their method.  Push to this repo  Add Solomon's updates to the app

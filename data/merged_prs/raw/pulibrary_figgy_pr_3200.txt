@@ -1,0 +1,2 @@
+Index issued property in geoblacklight documents
+Fixes problem with dates that prevented issue property from being correctly added to GeoBlacklight documents.

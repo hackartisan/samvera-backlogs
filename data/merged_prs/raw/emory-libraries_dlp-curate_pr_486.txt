@@ -1,0 +1,2 @@
+content_type can be a string or a URI
+Earlier versions of the Langmuir csv had content_type as a string. Now we are shifting expectations to a URI. Leave the option to provide a string in place in case it's needed later. Connected to curationexperts/in-house#213

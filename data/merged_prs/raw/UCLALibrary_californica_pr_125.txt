@@ -1,0 +1,2 @@
+Deleted empty spec files
+On my laptop, this makes specs run in 9 seconds instead of 52 seconds.  Also gets rid of unneeded pending specs so spec suite will be green.

@@ -1,0 +1,2 @@
+Add a test for multi-bag ingest to an archival media collection
+test ensures / documents that two bags can be loaded to the same amc and resources from the 2 bags will get 2 different upload set ids fixes #1432

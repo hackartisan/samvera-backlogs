@@ -1,0 +1,2 @@
+add cc_by_sa_2.1_jp; hide 2.x licenses from drop-down
+HELIO-2554

@@ -1,0 +1,2 @@
+Manage Numismatic Resources: on update or create redirect to the index view
+closes #2947

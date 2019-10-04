@@ -1,0 +1,2 @@
+document the default admin password and how to set it
+add example ADMIN_PASSWORD variable in .env.sample and document it in the README Depends on #90

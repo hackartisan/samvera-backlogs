@@ -1,0 +1,5 @@
+Include project documentation with with Collections / Objects
+E.g. project proposals, other assessments
+@jpstroop Do we have a concrete use case here? Preferably a collection that has these documents we need to store?
+Came up in DPSG just now. @escowles do you recall who asked?
+@jpstroop I think it was Steve Ferguson who asked about this.

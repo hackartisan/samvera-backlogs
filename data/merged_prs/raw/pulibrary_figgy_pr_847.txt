@@ -1,0 +1,2 @@
+Adds scanned map importer
+Duplicates existing plum importer with some modification to import scanned maps and map sets. Sets file set mime_type with Plum geo_mime_type. Accounts for records with no bibid whose metadata comes from FGDC files. Makes subject property multivalued.  Closes #846

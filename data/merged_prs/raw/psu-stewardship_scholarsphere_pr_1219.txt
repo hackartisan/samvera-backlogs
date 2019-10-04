@@ -1,0 +1,2 @@
+Adding check for missing content
+refs #1216

@@ -1,0 +1,2 @@
+HELIO-2851 
+Modify show page partials for file sets to create two layout options: stacked and side-by-side (the current). The stacked layout places the media content on top of the metadata, supporting the display of maps which tend to require more width than audio/video players and images. This new stacked layout is currently only being applied to map resource types. All other resource types receive the "traditional" side-by-side layout, which have media on the left and metadata on the right. Screen shot of stacked layout:

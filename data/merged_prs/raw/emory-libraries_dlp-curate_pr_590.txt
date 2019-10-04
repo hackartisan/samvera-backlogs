@@ -1,0 +1,2 @@
+Add CsvImportDetail index and show page
+This adds a /csv_import_detail/index page and a /csv_import_detail/show page that can be accessed to view information about a a csv import. This updates Zizia to integrate the new models needed for these pages. Connected to curationexperts/in-house#273

@@ -1,0 +1,2 @@
+Remove internal appliaction NU branding
+This should remove a bulk of the NU branding issues which were being seen between the Header and Footer.  I tried to navigate all through the app, but very l likely I'm missing some stuff.  If anyone just wants to log an issue if you come across something and assign to me, I can make another pass through this on Thursday.

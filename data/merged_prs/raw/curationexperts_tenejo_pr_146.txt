@@ -1,0 +1,2 @@
+Work with latest Hyrax Collection requirements
+The latest darlingtonia master is upgraded to use Hyrax 3 style collection attributes. However, this latest Hyrax collection actor behavior checks whether the current user has the ability to deposit to a given collection. In order to work around this without setting up lots of permission template scaffolding, just stub out the permission query to always return true. Connected to #121

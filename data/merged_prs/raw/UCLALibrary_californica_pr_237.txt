@@ -1,0 +1,2 @@
+Update ActiveFedora version
+Recent ActiveFedora releases have performance improvements that may speed up ActiveFedora::Cleaner.clean! and other bulk object handling tasks. See https://github.com/samvera/active_fedora/releases/tag/v11.5.3 and https://github.com/samvera/active_fedora/releases/tag/v11.5.4. Ran bundle update active-fedora. Connects to #238

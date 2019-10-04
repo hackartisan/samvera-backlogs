@@ -1,0 +1,2 @@
+Redirect URLs with legacy scholarsphere prefix in the URL
+to the new URL format without it.

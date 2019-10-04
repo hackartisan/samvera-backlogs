@@ -1,0 +1,2 @@
+Integrating support for propagating state to member resources within `ChangeSetPersister::PropagateVisibilityAndState`
+Resolves #1240

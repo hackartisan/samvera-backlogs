@@ -1,0 +1,2 @@
+Fix template permissions.
+Removes EphemeraTemplate model, as it wasn't actually used.

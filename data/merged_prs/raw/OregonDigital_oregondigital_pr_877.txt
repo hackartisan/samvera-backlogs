@@ -1,0 +1,2 @@
+Update viewer string to be more strict.
+This stops nginx from matching early.

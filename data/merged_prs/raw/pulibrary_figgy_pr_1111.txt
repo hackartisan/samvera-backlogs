@@ -1,0 +1,2 @@
+OpenSeadragon no longer breaks after Apply Changes
+fixes #1053

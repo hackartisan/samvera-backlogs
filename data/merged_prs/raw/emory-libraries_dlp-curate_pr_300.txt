@@ -1,0 +1,2 @@
+removes help text from the work form and updates form labels
+Closes #268 Closes #269

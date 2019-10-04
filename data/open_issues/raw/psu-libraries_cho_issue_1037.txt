@@ -1,0 +1,2 @@
+Routing Error after performing Successful CSV Import
+After successfully completing a CSV import using the Manage > Import New resources in the interface, I get an option at the summary screen to 'Perform Another Import.' Selecting this link generates a routing error. route that generates an error - http://localhost:3000/csv/works/import correct route - http://localhost:3000/csv/works/create

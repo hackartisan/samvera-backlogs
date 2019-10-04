@@ -1,0 +1,1 @@
+add collection facet; remove collection list from home page

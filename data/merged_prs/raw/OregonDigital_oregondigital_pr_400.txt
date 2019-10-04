@@ -1,0 +1,2 @@
+Fixes facet links in show views.
+Closes #398

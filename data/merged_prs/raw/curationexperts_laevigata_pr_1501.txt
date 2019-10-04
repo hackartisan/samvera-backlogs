@@ -1,0 +1,2 @@
+Fix the Box link
+This commit changes the Box link in the Files component to use the current server. Previously, it was hardcoded to localhost. Closes #1500

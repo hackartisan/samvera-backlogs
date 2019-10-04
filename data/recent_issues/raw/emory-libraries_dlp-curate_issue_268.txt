@@ -1,0 +1,1 @@
+Remove help text from the work form

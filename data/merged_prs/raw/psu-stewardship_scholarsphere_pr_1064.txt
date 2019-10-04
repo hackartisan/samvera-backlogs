@@ -1,0 +1,2 @@
+Use WorkShowPresenter for recent and featured works, ref #998
+@cam156 @mtribone this alters the views of recent and featured works to make them exactly like the show view. This way, we're using the same renderer code that we use to translate facets. The original problem was identified in #998, but we discovered is also was present in recent and featured works because they weren't using the same renderer process. The question is, do we need to tweak the layout or display:

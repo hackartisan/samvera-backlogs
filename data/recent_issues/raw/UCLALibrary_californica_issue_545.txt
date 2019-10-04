@@ -1,0 +1,2 @@
+Display ARK on show page
+STORY As a librarian, I would like the ARK to be visible on the item show page, so that I don't have to use californica to look up ARKs ACCEPTANCE   The ark is displayed in the list of metadata with the label "ARK"

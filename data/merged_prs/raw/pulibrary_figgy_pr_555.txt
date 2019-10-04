@@ -1,0 +1,1 @@
+Only have one solr config dir.

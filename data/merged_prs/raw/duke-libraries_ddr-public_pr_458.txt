@@ -1,0 +1,1 @@
+Fix single use of SolrQueryBuilder to SolrService

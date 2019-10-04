@@ -1,0 +1,2 @@
+Feature/identifier required
+Fixes #241

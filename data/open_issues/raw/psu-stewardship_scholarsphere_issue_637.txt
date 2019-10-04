@@ -1,0 +1,3 @@
+When a work has no filesets then it should show the work icon (box)
+It should also show No items instead on the item list example: https://scholarsphere-qa.dlt.psu.edu/concern/generic_works/hmg74qm55g
+This should be a change to the null presenter

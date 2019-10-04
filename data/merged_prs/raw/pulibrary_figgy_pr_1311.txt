@@ -1,0 +1,2 @@
+Updates active sort fields in a collection based on the current document
+fixes #1218

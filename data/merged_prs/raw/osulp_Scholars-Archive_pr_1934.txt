@@ -1,0 +1,2 @@
+adds embargo reason when editing work
+Fixes #1501

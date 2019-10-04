@@ -1,0 +1,1 @@
+Files uploaded to GCS should be validated via MD5

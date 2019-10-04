@@ -1,0 +1,2 @@
+creator role querying authority, specs added
+fixes https://github.com/nulib/next-generation-repository/issues/312 I'm guessing this is the correct authority based on the issue

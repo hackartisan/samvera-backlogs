@@ -1,0 +1,2 @@
+To many required fields for books
+At the moment it's required to fill every field. It would be enough when Title, Author, Date, Journal Title,  and License is required.

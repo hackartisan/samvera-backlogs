@@ -1,0 +1,2 @@
+Fix the path for facets.
+Fixes #440

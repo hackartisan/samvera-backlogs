@@ -1,0 +1,2 @@
+Updating Sinatra to address security vulnerability
+Description Why was this necessary? The Sinatra gem has a security vulnerability. See https://nvd.nist.gov/vuln/detail/CVE-2018-7212 for more information. Changes Are there any major changes in this PR that will change the release process? No. Checklist   i18n enabled  adequate test coverage  accessible interface

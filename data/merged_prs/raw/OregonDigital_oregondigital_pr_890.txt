@@ -1,0 +1,2 @@
+Add Thesaurus for Graphic Materials to Work Type controlled vocab.
+Fixes #889

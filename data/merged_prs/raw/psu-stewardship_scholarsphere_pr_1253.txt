@@ -1,0 +1,2 @@
+Remove the link to the statistics
+Removes the statistics link until the statistics can work properly. To @DanCoughlin from the Repo Team.

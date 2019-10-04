@@ -1,0 +1,2 @@
+Updates browse-everything to a branch which persists provider selections between sessions
+Resolves #2465

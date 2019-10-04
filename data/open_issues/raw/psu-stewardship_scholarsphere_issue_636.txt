@@ -1,0 +1,2 @@
+Admin Stats page Styling
+The admin stats page display is not showing well

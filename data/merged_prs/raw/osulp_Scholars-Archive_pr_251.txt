@@ -1,0 +1,2 @@
+Feature/label insted of uri
+fixes #130 fixes #247 fixes #238

@@ -1,0 +1,2 @@
+Homepage Design
+First pass at #520  Educator and Researcher buttons don't work, collections and items do.

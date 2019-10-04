@@ -1,0 +1,2 @@
+Add API for adding items to a collection.
+Add route under admin/ for POSTing data to add background worker to do the job  This is intended only for the batch ingest to use. If there should be a more logical, coherient API for the repository, the batch ingest should be changed to use that. DLTP-327

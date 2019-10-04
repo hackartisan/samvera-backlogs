@@ -1,0 +1,2 @@
+Upload form supports creating multiple filesets
+Form allows user to create extra filesets  Form allows user to delete extra filesets, but requires one.  Form allows user to associate an uploaded file with an arbitrary fileset.  Create a system test to create ans associate files with filesets.

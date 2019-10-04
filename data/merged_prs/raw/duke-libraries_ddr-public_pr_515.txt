@@ -1,0 +1,2 @@
+Anonymize IPs for Google Analytics data collection
+Documentation: https://support.google.com/analytics/answer/2763052?hl=en

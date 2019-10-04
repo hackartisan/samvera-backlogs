@@ -1,0 +1,2 @@
+Add pub_created_display to orangelight coin docs
+Related to pulibrary/orangelight#1606

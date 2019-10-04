@@ -1,0 +1,2 @@
+validates controlled properties in batch contain uris
+Fixes nulib/next-generation-repository#480  makes sure spreadsheet values for properties defined as controlled on the Image model are uri's fixes bug where <br /> in the batch_item's error_row is escaped and displayed as string updates spec in batch_item_spec.rb for new validation

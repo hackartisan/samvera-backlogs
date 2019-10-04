@@ -1,0 +1,2 @@
+Remove the Photo Credits from the Versions Page
+We've updated the look-and-feel of ScholarSphere to be more focused on simplicity and have removed the collage of SS data from the home page.

@@ -1,0 +1,2 @@
+change sidebar class to fulcrum_sidebar to avoid hyrax conflicts
+Resolves #1416 Renamed .sidebar to .fulcrum_sidebar to avoid inheriting hyrax dashboard class.

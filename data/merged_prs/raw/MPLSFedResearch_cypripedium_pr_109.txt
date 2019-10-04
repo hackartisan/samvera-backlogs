@@ -1,0 +1,2 @@
+Add custom metadata terms to models
+This commit adds custom metadata terms to the models with a a concern. This also includes the changes necessary in the catalog controller, solr document, and presenters to view the changes. A feature test is included to make sure that it has been implemented according to the spreadsheet: https://docs.google.com/spreadsheets/d/1Ms2XaewI4wlEiaYAt9OF8-fpJ-Y4wdWDTj4NwhymNaU/edit#gid=1164960854 The feature test requires additional test setup that is introduced in this commit.

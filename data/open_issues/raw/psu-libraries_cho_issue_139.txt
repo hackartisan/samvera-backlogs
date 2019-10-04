@@ -1,0 +1,2 @@
+Usage Statistics by Library
+As a library head, I would like metrics on what digitized material is being viewed or downloaded from my library, so that we can make strategic decisions about outreach or future scanning efforts. Ben G. Related: #85

@@ -1,0 +1,2 @@
+AMS2-489 adds csv export and minor fixes
+Adds download dropdown widget to blacklight catalog controller , partial redirect user to download action Adds catalog_export route Adds export method to catalog controller Fixes advance search by adding :add_advanced_search_to_solr to AMS::SearchBuilder Fixes css for search bar

@@ -1,0 +1,2 @@
+Send log files Eric
+Identify all the important log files that our applications/servers generate and send a sample of each of these logs to Eric.

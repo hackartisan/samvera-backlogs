@@ -1,0 +1,2 @@
+rerun_failed_fixity_checks rake task
+Does not fix, but gives us another tool in dealing with situations like in #619

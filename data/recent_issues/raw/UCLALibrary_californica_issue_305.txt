@@ -1,0 +1,2 @@
+Mgmt: Upgrade Hyrax to 2.3.3
+This release has UI and accessibility fixes Acceptance Criteria   Hyrax is upgraded to the latest stable release  The latest version is in a tagged release and has been deployed to californica-staging

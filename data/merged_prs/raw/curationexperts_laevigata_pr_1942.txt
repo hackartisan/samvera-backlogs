@@ -1,0 +1,2 @@
+Format date in workflow admin page
+This adds a helper to format the date in the workflow admin page so that is displays the time in EST and using AM/PM. Connected to #1939

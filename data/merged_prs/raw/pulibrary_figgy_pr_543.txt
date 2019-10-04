@@ -1,0 +1,2 @@
+Bulk jobs use low-priority queue
+Fixes #541

@@ -1,0 +1,4 @@
+view entire digitized video
+As an end user, I need to be able to view the entire video, as well as individual segments (if applicable), So I can study it as a complete object and see where the segments that match my search fit into the context of the entire video.
+Need a built in playlist if multiple tracks. Linking to multiple time tracks. Is it as specific as finding keywords within a certain point in time. Assuming the tracks are multiple files. Bigger objects. More formats to deal with? Nathan thinks that we can be more specific about formats.
+This represents a simple HTML5-based viewer and something less sophisticated than the UV.

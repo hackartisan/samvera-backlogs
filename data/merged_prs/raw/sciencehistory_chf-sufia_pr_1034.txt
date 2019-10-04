@@ -1,0 +1,2 @@
+Breadcrumb cleanup
+Take a look when you have a minute, please! Suggestions welcome. Adding this to github PR will make it automatically close issue when the PR is merged, as well as make a note on the Issue: Closes #885

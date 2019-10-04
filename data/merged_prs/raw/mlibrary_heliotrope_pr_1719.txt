@@ -1,0 +1,2 @@
+italicize Gabii book title in copy
+Resolves #1709

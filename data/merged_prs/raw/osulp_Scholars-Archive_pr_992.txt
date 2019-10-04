@@ -1,0 +1,2 @@
+added default metadata include in file_set model
+fixes #936

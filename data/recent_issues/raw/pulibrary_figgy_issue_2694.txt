@@ -1,0 +1,2 @@
+Allow users to select PDF type for scanned maps
+Users should be able to select a PDF type on scanned maps like they do for scanned resources.

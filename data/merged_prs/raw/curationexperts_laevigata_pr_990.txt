@@ -1,0 +1,2 @@
+Specify ruby version expectation in Gemfile
+Connected to #803

@@ -1,0 +1,2 @@
+add creator_display for free-form monograph authorship
+Resolves #1504

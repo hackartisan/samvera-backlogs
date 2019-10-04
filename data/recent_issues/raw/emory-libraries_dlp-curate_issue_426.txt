@@ -1,0 +1,2 @@
+Testing revision - View FileSets listing: add link to filename so it can be downloaded
+Test results on #410: I recreated one of the Langmuir sample objects in curate prod and attached a Master and an Intermediate file. The Additional Files display shows the Intermediate File's information, but each filename should also contain a link to the file so it can be downloaded. Sample object Original Mockup

@@ -1,0 +1,1 @@
+Add capistrano-passenger so the app can restart

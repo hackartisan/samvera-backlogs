@@ -1,0 +1,2 @@
+Top Menu Bar has contrast issues
+Dark Gray on light Gray does not contrast enough

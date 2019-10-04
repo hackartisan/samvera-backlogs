@@ -1,0 +1,2 @@
+Adds descriptive metadata part 3
+Closes #87

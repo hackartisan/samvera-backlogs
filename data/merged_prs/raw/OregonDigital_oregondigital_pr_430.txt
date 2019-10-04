@@ -1,0 +1,2 @@
+Make all the routes use /catalog instead of /.
+This is necessary only while we have ContentDM and Hydra running side-by-side.

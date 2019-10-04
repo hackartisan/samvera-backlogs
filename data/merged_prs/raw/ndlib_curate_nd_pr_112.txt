@@ -1,0 +1,2 @@
+Updating gem.lock file to appease Travis.
+Updated reference to curate gem and did not run bundle before last push.

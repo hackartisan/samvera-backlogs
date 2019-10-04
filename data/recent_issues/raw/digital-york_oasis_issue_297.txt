@@ -1,0 +1,2 @@
+password reset link not working
+gives an HTTP 500 error

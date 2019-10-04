@@ -1,0 +1,2 @@
+Handles Valkyrie::Persistence::StaleObjectErrors during Resource updates
+Ensures that when Valkyrie::Persistence::StaleObjectErrors are raised while attempting to update a resource, users are redirected to the edit view and alerted with a warning message.  Resolves #2970

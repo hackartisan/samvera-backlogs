@@ -1,0 +1,3 @@
+Catalog controller should handle both fedora 3 and fedora 4 identifiers
+For the Fedora 4 release it could be useful for the catalog controller to be able to lookup items by either the fedora 3 or fedora 4 ID.
+@corylown We are also thinking that we can simply dump out a file mapping F3 PIDs to F4 IDs to use in Apache. @coblej @jt112  

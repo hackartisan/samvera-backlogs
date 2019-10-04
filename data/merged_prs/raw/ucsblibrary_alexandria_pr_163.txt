@@ -1,0 +1,2 @@
+ObjectIndexer: add field for normalized accession number
+Closes DIGREPO-903.

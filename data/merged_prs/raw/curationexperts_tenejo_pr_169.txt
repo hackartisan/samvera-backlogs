@@ -1,0 +1,2 @@
+Use the Darlingtonia default logger
+This changes the importer code to use the default darlingtonia importer. Connected to #167

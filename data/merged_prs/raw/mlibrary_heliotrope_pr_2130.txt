@@ -1,0 +1,1 @@
+Fixes HELIO-2331 'not a legal ECMA-262 octal constant' warnings.

@@ -1,0 +1,2 @@
+Fixed the facet collection parameter and removed the same collection from the subcollection list. DHH-770
+https://lib-jira.ucsd.edu:8443/browse/DHH-770

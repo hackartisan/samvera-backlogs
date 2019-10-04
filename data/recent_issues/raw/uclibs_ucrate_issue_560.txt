@@ -1,0 +1,2 @@
+Date Created facet on scholar.uc.edu not showing all works
+Descriptive summary NOTE: This is not a Scholar 4.0 issue.  We should investigate it after 4.0 is deployed. The Date Created facet on production Scholar is only picking up about a dozen works.  So most of the works in Scholar with values in the Date Created field are not showing in the facet for some reason. This might be a date_created vs. alt_date_created problem or something that might be resolved with a solr reindex.  It's also possible that Scholar 4.0 will fix it.  So let's re-examine it after 4.0 is deployed.

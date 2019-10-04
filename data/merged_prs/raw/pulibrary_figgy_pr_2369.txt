@@ -1,0 +1,2 @@
+Add units hint for height, width form fields
+fixes #840

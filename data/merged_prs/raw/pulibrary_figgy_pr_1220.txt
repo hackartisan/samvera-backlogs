@@ -1,0 +1,2 @@
+Display members on archival media collection show page
+fixes #1176

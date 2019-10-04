@@ -1,0 +1,2 @@
+update ffi gem
+avoids warning on CVE-2018-1000201, which doesn't really apply to us anyway cause we're not on windows

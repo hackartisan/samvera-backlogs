@@ -1,0 +1,2 @@
+Render configured facets for collection on collection landing page
+Descriptive summary The collection landing page for a specific collection should render its configured facets.

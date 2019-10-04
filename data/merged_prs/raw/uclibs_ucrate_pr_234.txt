@@ -1,0 +1,2 @@
+Port over specialized Scholar metadata fields for all work types.
+Fixes #219 Ports over specialized Scholar metadata fields to for all work types

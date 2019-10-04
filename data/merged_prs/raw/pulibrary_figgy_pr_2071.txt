@@ -1,0 +1,2 @@
+Add parent relationship to numismatic issue wayfinder
+Closes #2064

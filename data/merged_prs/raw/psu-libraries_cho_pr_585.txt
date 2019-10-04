@@ -1,0 +1,2 @@
+Updating Sprockets to address CVE-2018-3760
+Description Patches security vulnerability in the sprockets gem outlined in https://nvd.nist.gov/vuln/detail/CVE-2018-3760.

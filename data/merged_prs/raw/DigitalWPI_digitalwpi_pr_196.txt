@@ -1,0 +1,2 @@
+#195/update gems
+Fixes #195, #172

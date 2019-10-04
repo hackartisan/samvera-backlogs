@@ -1,0 +1,2 @@
+Use a local copy of the Emory logo for the README
+The external link used for the logo on the README was broken/non-responsive. This PR adds a copy of the logo to the repo and refrernces that image via it's relative path so it should not break in the future.

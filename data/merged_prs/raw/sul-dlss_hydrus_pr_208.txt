@@ -1,0 +1,1 @@
+Use rubocop 0.58.1 to avoid bad version of parser gem

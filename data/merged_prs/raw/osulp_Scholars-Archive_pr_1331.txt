@@ -1,0 +1,2 @@
+adds file path to local_env
+fixes bug on server to find path to revisions.log file, ignore public/branding in prep for hyrax 2.1.0

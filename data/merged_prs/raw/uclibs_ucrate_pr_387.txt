@@ -1,0 +1,2 @@
+Bug/#370 Resolves Template Error on Distirbution License Page
+Fixes #370  ; Present short summary (50 characters or less) Resolved template error by providing a more explicit path to partials. I'm not sure what caused this problem.  For some reason rails could no longer find the file with the partial.

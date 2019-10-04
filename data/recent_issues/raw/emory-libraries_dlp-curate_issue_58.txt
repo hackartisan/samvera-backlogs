@@ -1,0 +1,2 @@
+Customize Ansible Scripts for cor-test buildout
+While the ansible scripts from UCLA did install successfully, many items like paths for files, for example UCLA's default path for .conf files is /etc/httpd/vhost.d while we prefer /etc/httpd/sites.d.   Change default install paths  Commit changes to cor-cm  Rebuild servers with new default paths  Test to ensure curate-test still works

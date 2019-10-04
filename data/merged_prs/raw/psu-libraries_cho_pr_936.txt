@@ -1,0 +1,2 @@
+Implement repeating fields in edit forms
+Description Enables adding and removing multiple repeating fields in our edit forms. Fields that are marked multiple in the data dictionary have this feature enabled. Connected to #797 Changes  install webpacker ECMA6 Javascript for cloning and removing nodes in forms Integration testing using webdriver with a headless Chrome browser

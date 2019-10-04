@@ -1,0 +1,2 @@
+Add job to reprocess METS in a collection.
+Closes #1839

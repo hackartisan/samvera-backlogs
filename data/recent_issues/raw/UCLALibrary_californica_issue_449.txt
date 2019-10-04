@@ -1,0 +1,2 @@
+Train Tinu to do Releases
+Add Tinu to Jenkins  Go through the process several times Release Manager Notes Release Checklist

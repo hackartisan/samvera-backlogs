@@ -1,0 +1,2 @@
+Only include complete objects with BibIDs in the identifiers-to-reconcile report
+Fixes #850

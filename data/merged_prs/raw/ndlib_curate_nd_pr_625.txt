@@ -1,0 +1,2 @@
+Fixing handling of collection URLs
+Prior to this fix, there were cases in which a Hash was passed to the title/pid extractor. The code as written broke. This change handles that case. Closes DLTP-1028

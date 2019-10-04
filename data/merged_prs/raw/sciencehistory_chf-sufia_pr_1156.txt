@@ -1,0 +1,2 @@
+Remove solr_wrapper mirror_url setting.
+To avoid having to monkey patch solr_wrapper, as detailed in #1153 , we're simply avoiding using the Princeton mirror for solr.

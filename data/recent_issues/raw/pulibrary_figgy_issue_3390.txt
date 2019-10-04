@@ -1,0 +1,2 @@
+Two ingest errors
+While looking into another error, I noticed two errors that look like real problems: CheckFixityJob: https://figgy.princeton.edu/catalog/79687857-f2af-40b9-9b7d-92cf1b488197 CharacterizationJob: https://figgy.princeton.edu/catalog/26e7df25-9424-4531-a78f-f0546dd58bdf In both cases, it looks like the files were not ingested successfully.

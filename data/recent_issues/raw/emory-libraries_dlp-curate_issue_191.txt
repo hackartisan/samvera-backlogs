@@ -1,0 +1,2 @@
+Test Emory IP with ELB
+Test routing between 172.x and ELB DNS  Configure F5 to allow traffic to 172.x address

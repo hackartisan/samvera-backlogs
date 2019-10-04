@@ -1,0 +1,2 @@
+Disable cloud upload for batch create
+Fixes #416 scholar-dev - tested box.com cloud upload on batch create and resulted in error. Added view partial override to remove the cloud upload option for batch create. Changes proposed in this pull request:  Add view partial override app/views/hyrax/base/_form_files.html.erb Add spec to verify button is not showing on batch create

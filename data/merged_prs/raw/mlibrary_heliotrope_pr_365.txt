@@ -1,0 +1,2 @@
+change section sort order, #276
+Resolves #276

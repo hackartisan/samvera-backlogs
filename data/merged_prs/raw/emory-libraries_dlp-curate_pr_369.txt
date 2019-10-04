@@ -1,0 +1,2 @@
+Add honeybadger for error logging
+Using an error tracking system like honeybadger makes it much easier to know about errors in the production environment, to record enough information that they can be easily diagnosed, and to track whether they re-occur. See https://app.honeybadger.io/ for more info.

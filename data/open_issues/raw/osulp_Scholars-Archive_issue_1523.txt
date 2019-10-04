@@ -1,0 +1,6 @@
+Work show page is radically different
+
+<img width="1399" alt="screen shot 2018-07-23 at 2 13 53 pm" src="https://user-images.githubusercontent.com/6424683/43103439-e4fb487c-8e82-11e8-9d0c-adf23d9ba620.png"> <img width="1311" alt="screen shot 2018-07-23 at 2 13 44 pm" src="https://user-images.githubusercontent.com/6424683/43103441-e95a57c8-8e82-11e8-94dd-d01d01118cf5.png"> <img width="1292" alt="screen shot 2018-07-23 at 2 14 03 pm" src="https://user-images.githubusercontent.com/6424683/43103447-edbd5cfc-8e82-11e8-9b49-892940baf994.png"> 
+@straleyb   Universal viewer is awesome but why is the spacing on the buttons irregular?  ![screen shot 2018-08-01 at 9 10 24 am](https://user-images.githubusercontent.com/33705514/43533925-e2fc09fa-956a-11e8-953f-044569ba3af6.png) 
+button spacing is crappy but we have the UXIG on the case. lets leave it alone for now. 
+@straleyb  Is "More information" supposed to give basic details about the item?  ![screen shot 2018-08-01 at 9 43 48 am](https://user-images.githubusercontent.com/33705514/43535736-9fc86b9c-956f-11e8-80d6-552c81cc6352.png)  I see it in Nurax but not here. ![screen shot 2018-08-01 at 9 44 01 am](https://user-images.githubusercontent.com/33705514/43535745-a1f33fbe-956f-11e8-8d9a-a46e8fb5a84b.png)  

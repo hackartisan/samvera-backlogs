@@ -1,0 +1,2 @@
+Unneeded scaffolding
+fixes #105 fixes #104 Also makes the server binding explicit for development (Ryan experienced routing problems because of this.. odd!)

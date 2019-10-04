@@ -1,0 +1,2 @@
+Alphabetize our Gemfile
+This makes it easier to read and navigate

@@ -1,0 +1,2 @@
+Explore setting a fixed position to the masthead and navbar
+Moved from uclibs/scholar_uc_legacy#386 Descriptive summary Explore fixing the position of the masthead and navbar to the top of the viewport so that it remains fixed and visible even when users are scrolling down. We may not know if we really want this or not until we have a functional prototype and can try it out.  Should be pretty easy to set a "fixed" position to those parts of the interface using CSS.

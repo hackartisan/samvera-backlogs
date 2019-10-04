@@ -1,0 +1,2 @@
+Display "LC Subject" instead of "Lcsubject"
+Moves metadata-related I18n rules to more generic location Adds new class to centralize I18n pull of field label Uses central label algorithm on the search, show view, and ingest form Removes subject from search results per requirements Fixes faceting to use "lcsubject" field as "Topic"  closes #260

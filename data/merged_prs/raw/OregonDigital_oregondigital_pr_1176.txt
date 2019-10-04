@@ -1,0 +1,2 @@
+Changes Bulk Tasks to show recent, adds All page
+No ticket for this but the Bulk Tasks main page takes way too long to render each time. Changed the Bulk Tasks page to not show all entries, only the 30 most recent ones. The full list is still available on a new page.

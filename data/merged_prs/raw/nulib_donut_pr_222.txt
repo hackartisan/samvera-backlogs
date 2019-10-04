@@ -1,0 +1,2 @@
+Get subject topical authority select dropdown working
+gets subject topical authority select dropdown in the UI working as expected remove /app/views/records/edit_fields/_bibliographic_citation.html.erb as it's unnecessary.

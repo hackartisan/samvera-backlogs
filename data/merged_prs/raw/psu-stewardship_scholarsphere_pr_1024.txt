@@ -1,0 +1,2 @@
+updating to_flot to fill in missing days with zero.
+This is the first step in correcting the download stats and not storing zeros for the view stats It will also help out with the user stats query since we will only get values back for when a view or download occurs.

@@ -1,0 +1,2 @@
+Add metadata field "Identifier"
+Hyrax by default comes with identifier field, make use of it for ETDs. Don't need test cases as this property should have been well tested in Hyrax.

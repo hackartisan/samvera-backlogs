@@ -1,0 +1,1 @@
+Use solr 6.6.2 due to security issue

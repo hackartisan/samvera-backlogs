@@ -1,0 +1,2 @@
+Throw an error if you try to overwrite a pulfa ARK
+References #1727.

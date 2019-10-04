@@ -1,0 +1,2 @@
+First pass at CONTRIBUTING.md
+Borrowed heavily from Hydra/Sufia's files, but edited and slimmed down some areas. Fixes #531

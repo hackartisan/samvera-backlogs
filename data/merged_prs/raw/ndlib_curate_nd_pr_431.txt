@@ -1,0 +1,2 @@
+Updating EventMachine
+The old version was having trouble installing on El Capitan. Thin still works.

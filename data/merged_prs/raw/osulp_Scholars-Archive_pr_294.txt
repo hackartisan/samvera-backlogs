@@ -1,0 +1,2 @@
+Feature/citations
+Fixes Citations to use nested authors and work with triple powered resources.

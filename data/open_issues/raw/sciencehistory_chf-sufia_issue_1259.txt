@@ -1,0 +1,2 @@
+[Science History Institute Digital Collections/production] Ldp::Gone: Discovered tombstone resource at /prod/1f/39/b0/11/1f39b011-1a89-4a9d-bafb-dec2cab1ce97/68/1f/3f/71/681f3f71-a2b4-4959-8df3-a0c52b1429da, departed: 2019-06-06T10:27:06.570-04:00
+Backtrace View full backtrace and more info at honeybadger.io

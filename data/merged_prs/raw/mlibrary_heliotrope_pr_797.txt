@@ -1,0 +1,2 @@
+search_year in Solr only
+Resolves #761

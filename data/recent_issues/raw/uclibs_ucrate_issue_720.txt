@@ -1,0 +1,2 @@
+Update README
+Descriptive summary Some parts of the README are out of date: The app has been tested up to Solr version 7.6.0 The FITS version we are using on the servers is now 1.0.5 The "Visit the site" line should come AFTER "Load workflows."

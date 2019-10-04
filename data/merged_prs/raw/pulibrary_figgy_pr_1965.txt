@@ -1,0 +1,2 @@
+Remove member_of_collection_ids from ephemerabox
+Closes #1204

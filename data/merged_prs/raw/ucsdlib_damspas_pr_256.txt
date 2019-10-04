@@ -1,0 +1,2 @@
+Fixes marking the title link in the search result page for RDCP curator stats. #110
+ucsdlib/damsmanager#110

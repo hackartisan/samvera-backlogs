@@ -1,0 +1,2 @@
+Add linked NumismaticFirm to NumismaticAccession
+Closes #2959

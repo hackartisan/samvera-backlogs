@@ -1,0 +1,2 @@
+Commit fixes for the security scan
+Descriptive summary We are making changes directly on scholar-qa to satisfy the security scan (issue #502), but this is a reminder for us to make sure we commit those changes to the repo as well once we know what the changes should be. Note: if we need to set options only for production, we can use Rails.env.production?.  E.g. Rails.application.config.session_store :cookie_store, key: '_scholar_uc_session', secure: Rails.env.production?

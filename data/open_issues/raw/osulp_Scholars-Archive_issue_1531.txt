@@ -1,0 +1,2 @@
+Look at https://github.com/twitter/secure_headers for useful security config
+https://github.com/twitter/secure_headers is a twitter library to configure headers sent by the app. Helps with a lot of the XSS tomfoolery

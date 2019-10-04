@@ -1,0 +1,2 @@
+lock versions of docker dependencies to known working versions
+Fixes #2

@@ -1,0 +1,2 @@
+Embed FileMetadata inside FileSets
+There's no need to manage two nodes per FileSet when we can just embed it and get better performance even.

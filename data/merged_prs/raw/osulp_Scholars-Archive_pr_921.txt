@@ -1,0 +1,2 @@
+Feature/set feature researcher as default tab
+fixes #904  updated each tab-pane under ul with role tablist in hyrax/homepage/_home_content.html.erb partial so that featured_researcher is rendered under tab-col2-first and explore_collections under tab-col2-second.

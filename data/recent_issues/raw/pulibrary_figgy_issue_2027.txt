@@ -1,0 +1,2 @@
+Moving coins between issues
+It should be possible to move a coin from one issue to another. Child of #2025

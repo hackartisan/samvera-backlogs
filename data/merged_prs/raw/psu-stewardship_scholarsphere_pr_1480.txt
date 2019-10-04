@@ -1,0 +1,2 @@
+Update Travis build
+Removed PhantomJS and updates the configuration to always use external files.

@@ -1,0 +1,2 @@
+Fix "Title Sort Portion" Enabled/Required functionality
+In a project, for any of the Digital Object Types, if any field is enabled, then the Title Sort Portion field should automatically become Enabled and Required, and the Title Non-Sort Portion field should become Enabled. The above functionality was broken. Also, when an existing line of code was moved to its correct position, a new symptom (infinite calls to ensure_that_title_fields_are_enabled_and_required) appeared. Fix: Database query code was changed back to the previous version.

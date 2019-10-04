@@ -1,0 +1,2 @@
+Remove CachingFetcher in favor of a real HTTP cache
+We're now deploying a real HTTP caching proxy alongside DONUT, so CachingFetcher is obsolete.

@@ -1,0 +1,4 @@
+ Review OSU images replaced by pre-migration access images
+Same as #917, but for OSU images.  List of pids and identifiers on the way shortly.
+[list-20151217.txt](https://github.com/OregonDigital/oregondigital/files/65731/list-20151217.txt) 
+thanks @jechols  

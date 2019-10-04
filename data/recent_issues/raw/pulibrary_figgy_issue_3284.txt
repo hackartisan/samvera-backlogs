@@ -1,0 +1,2 @@
+Schedule cloud fixity checking
+Rake task to check a small percentage of objects each day that adds up to 10% a year.

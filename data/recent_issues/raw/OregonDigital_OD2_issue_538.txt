@@ -1,0 +1,2 @@
+Interviewer facet label is misspelled
+Descriptive summary Interviewer facet label is misspelled as "Imterviewer" Expected behavior Correct spelling

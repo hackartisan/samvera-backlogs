@@ -1,0 +1,2 @@
+Update path for fedora development endpoint
+It looks like the docker container configuration for Fedora has changed

@@ -1,0 +1,2 @@
+rename app/service to app/services
+Fixes #142 Changes proposed in this pull request:  rename app/service to app/services

@@ -1,0 +1,2 @@
+Organize the Gemfile
+Fixes #93 Moves gems around the Gemfile to better organize everything.

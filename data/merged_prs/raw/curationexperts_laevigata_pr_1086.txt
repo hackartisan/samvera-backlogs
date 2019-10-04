@@ -1,0 +1,2 @@
+add table for in-progress-etds to rails db
+This commit adds a table to the Rails db, for persisting in-progress-etds. The table contains all of the ETD properties and the user's ppid. The addition of a user id in this table enables a very simple mechanism for enforcing one in-progress-etd per user, and editing with partial saves (find_or_create_by(:user_ppid) in InProgressEtds#new). Addresses #1080 and #1081.

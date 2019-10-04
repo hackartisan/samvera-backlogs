@@ -1,0 +1,2 @@
+Get the author field when making solr catalog
+Also generate the Curate only derivative and the non-etd derivative files (got tired making them by hand).

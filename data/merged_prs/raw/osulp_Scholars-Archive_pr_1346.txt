@@ -1,0 +1,2 @@
+Use parent work date_available for file stats
+fix #1269

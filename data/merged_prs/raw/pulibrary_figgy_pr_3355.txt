@@ -1,0 +1,2 @@
+Add UI for reinstating a tombstone
+Closes #3311 Closes #3299

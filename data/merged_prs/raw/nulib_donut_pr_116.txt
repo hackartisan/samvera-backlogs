@@ -1,0 +1,2 @@
+added authority querying for contributor role
+fixes https://github.com/nulib/next-generation-repository/issues/315

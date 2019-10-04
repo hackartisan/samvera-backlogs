@@ -1,0 +1,2 @@
+Feature/geo names
+fixes #243 fixes #300 fixes #301

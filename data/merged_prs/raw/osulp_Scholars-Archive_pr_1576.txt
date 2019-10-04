@@ -1,0 +1,2 @@
+Feature/up and down arrow
+fixes #1542

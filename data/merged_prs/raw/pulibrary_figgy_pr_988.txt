@@ -1,0 +1,2 @@
+Rename VectorWork to VectorResource
+Closes #823

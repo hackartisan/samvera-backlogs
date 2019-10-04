@@ -1,0 +1,2 @@
+updated has_solr_labels to parse valid NestedRelatedItems only
+fixes #932

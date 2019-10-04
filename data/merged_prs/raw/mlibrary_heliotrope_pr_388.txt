@@ -1,0 +1,2 @@
+341: Fixed bug in exclusivity_facet helper.
+Resolves #341

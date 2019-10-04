@@ -1,0 +1,2 @@
+Update sufia.en.yml
+adds some localization for institution, product name, etc.

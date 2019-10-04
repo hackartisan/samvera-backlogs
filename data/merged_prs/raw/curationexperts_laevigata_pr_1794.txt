@@ -1,0 +1,2 @@
+adding guard clauses to label-from-id formstore functions
+There are functions that translate the term from the id for both departments and subfields, used in the My Program submit component that ensures they match the selected values in the My Program form tab. This commit fixes bugs that prevented the My Program submit from displaying if there aren't any departments and subfields.

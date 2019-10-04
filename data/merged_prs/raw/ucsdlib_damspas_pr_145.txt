@@ -1,0 +1,2 @@
+Reload record when failed to fix the potential cause of missing solr field. DHH-605
+https://lib-jira.ucsd.edu:8443/browse/DHH-605

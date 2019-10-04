@@ -1,0 +1,2 @@
+Fix extract metadata functionality
+Adds javascript to re-enable broken geo metadata Extract button in scanned map file manager. Closes #571

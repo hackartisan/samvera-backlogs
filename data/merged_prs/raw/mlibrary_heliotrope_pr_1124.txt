@@ -1,0 +1,2 @@
+JS order; Able Player anchors browser back
+Resolves #1084

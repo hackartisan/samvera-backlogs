@@ -1,0 +1,2 @@
+Resolves HELIO-1985: Scroll Transcript via Keyboard
+Added tabindex="0" to div

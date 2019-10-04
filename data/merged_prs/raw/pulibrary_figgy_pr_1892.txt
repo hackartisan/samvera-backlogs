@@ -1,0 +1,2 @@
+Index a resource's collection titles as text for better searching
+part 1 of 2 towards #1782

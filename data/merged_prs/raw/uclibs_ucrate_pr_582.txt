@@ -1,0 +1,2 @@
+Add a What's New page for 4.0
+Fixes #579 Adds a static "What's New in Scholar@UC 4.0" page and links to it from the black bar at the top of the screen. Please proof-read the text as part of your review. Comment if you think wording should be changed or other content added.

@@ -1,0 +1,2 @@
+Change Rights Statement Properties
+A controlled vocab for rights statement property is available from Hyrax, so we use that. For our free text rights statement, change the property name, and move the field on the form to conform with the metadata spreadsheet.

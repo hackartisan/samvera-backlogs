@@ -1,0 +1,2 @@
+Adds admin metadata
+This commit adds admin metadata to CurateGenericWork model Closes #91

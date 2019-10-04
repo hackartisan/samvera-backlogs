@@ -1,0 +1,2 @@
+Show correct affiliation on submit tab
+This commit shows the correct affiliation. If they have entered a custom affiliation it will be displayed. If they haven't then Emory University will be displayed. Connected to #1579

@@ -1,0 +1,2 @@
+Show only none admin users
+Fixes #129

@@ -1,0 +1,2 @@
+Ensures that `CheckFixityJob` logs warnings for Valkyrie Resources which cannot be found
+Resolves #1315

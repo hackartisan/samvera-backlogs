@@ -1,0 +1,2 @@
+Validate date metadata
+Identify date metadata from https://docs.google.com/spreadsheets/d/1Z0ebRLaPa4bEJayvTiqwU4ulFglWrpQPgVX6r6v29uY/edit#gid=514733824  Identify date formats from Solr  Implement date format validation on the curate-generic worktype  Test the format validation.  Test date storage in Solr

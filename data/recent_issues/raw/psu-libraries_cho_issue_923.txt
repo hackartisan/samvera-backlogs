@@ -1,0 +1,2 @@
+Build wireframes for collection landing pages
+Create wireframes as needed for tickets about collection landing pages:  browse page search page landing page  Child of #483

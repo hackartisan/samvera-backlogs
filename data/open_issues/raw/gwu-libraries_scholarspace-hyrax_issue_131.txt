@@ -1,0 +1,3 @@
+Hide blank fields
+e.g., “Last modified” above thumbnails, if blank
+![image](https://user-images.githubusercontent.com/15751478/41305046-be583166-6e3f-11e8-89be-07229ddd6663.png) 

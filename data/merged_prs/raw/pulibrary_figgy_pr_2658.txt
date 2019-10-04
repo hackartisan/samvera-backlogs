@@ -1,0 +1,2 @@
+ Add graphql queries for coins and orangelight ids
+Adds new queries for orangelight ids rather than just bib_ids. Closes #2655

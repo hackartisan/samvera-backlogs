@@ -1,0 +1,2 @@
+Avoid using the deprecated SearchService.solr method
+Why was this change made? The SearchService.solr is deprecated and should not be used. Was the documentation (README, DevOpsDocs, wiki, consul, etc.) updated? n/a

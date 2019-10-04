@@ -1,0 +1,2 @@
+Fix structure for Audio Files
+Closes #2905

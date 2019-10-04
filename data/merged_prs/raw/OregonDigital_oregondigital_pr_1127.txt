@@ -1,0 +1,2 @@
+Change Europeana URIs to opaquenamespace.org
+Fixes #1117

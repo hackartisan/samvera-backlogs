@@ -1,0 +1,2 @@
+upgrade rails to 5.2
+so rails 6 was announced and it looks like the final release is slated for late-april of this year (2019). after that, 5.2 will be the 5.x version guaranteed to receive security fixes (i think rendering 5.1 effectively eol'd). a test-run of upgrading rails to 5.2 ran into some problems (namely, active-fedora being pinned at v11) that may be resolved when we upgrade to hyrax@3 (see #85). in an effort to not do too much with one PR, let's upgrade rails as a separate sprint after the hyrax upgrade is done.

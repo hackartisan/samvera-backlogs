@@ -1,0 +1,2 @@
+Continuous deploy
+Set up deploy targets to match other DCE projects After a sucessful travis build of the master branch, deploy the master branch to tenejo-cd  Connected to #53

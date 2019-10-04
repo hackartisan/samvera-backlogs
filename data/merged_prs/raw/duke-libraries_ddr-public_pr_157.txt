@@ -1,0 +1,2 @@
+use older version of blacklight_range_limit gem
+This fixes a bug where the following AJAX request was failing when trying to load the range limit facet: http://localhost:3000/dc/wdukesons/range_limit?range_end=1890&range_field=year_facet_iim&range_start=1886&search_field=dummy_range The latest version of blacklight_range_limit uses Blacklight.default_index.connection.get while our version of blacklight uses Blacklight.solr.get. This was causing a no method error. projectblacklight/blacklight_range_limit@50100dc#diff-a7da87e4125dfb8355fafe37687e74deL46

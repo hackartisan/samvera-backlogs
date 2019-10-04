@@ -1,0 +1,2 @@
+Add PDF Type to scanned map form
+Adds PDF Type to scanned map Allows scanned map PDFs to be cleaned up  Closes #2694

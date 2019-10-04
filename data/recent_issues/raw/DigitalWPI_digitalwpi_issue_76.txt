@@ -1,0 +1,2 @@
+Add ability to ingest specific works to collection
+add ability for a column of csv or element in json to specify the collection for the work to be.

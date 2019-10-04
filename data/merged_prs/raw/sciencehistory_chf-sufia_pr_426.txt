@@ -1,0 +1,1 @@
+Add rights_holder to all_fields search; fix #351 (again)

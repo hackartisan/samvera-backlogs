@@ -1,0 +1,2 @@
+Adding delegate attributes to SeniorThesis
+In an effort to codify the meaning of the attributes of SeniorThesis, I want to send the attribute definitions through some semblance of of "normal" process. The idea being, that in the future, we will be able to attach the input definitions (i.e. labels, help text, etc.)

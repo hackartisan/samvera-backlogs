@@ -1,0 +1,2 @@
+Don't display the abstract/TOC as HTML in submit tab
+This commit adds a class that can be used to strip the html tags out of the abstract and TOC so that they can be redisplayed on the final submission tab. Without this, we'll either need to display the content as actual HTML which has the potential to break the page, or show the tags. Related to #1190

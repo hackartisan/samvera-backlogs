@@ -1,0 +1,2 @@
+Add field for pulfa collection id
+Archives staff want to search by this value. Also, we need it in order to match figgy records to updated eads (which are one per collection). 1 idea is to not display it or allow it to be edited but extract it from source_metadata_identifier.

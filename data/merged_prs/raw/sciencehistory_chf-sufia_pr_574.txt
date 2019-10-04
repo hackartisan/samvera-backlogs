@@ -1,0 +1,2 @@
+Front page layout
+Will fix #568 after one last TODO: featured collection image needs some attention w/r/t responsive resizing. Posted in the meantime for discussion of image treatment, especially resolution / retina display.

@@ -1,0 +1,2 @@
+dynamic resizing of webgl canvas; modify 3D model description text
+Resolves #1587 Resolves #1588 Also updates the 3D model description text.

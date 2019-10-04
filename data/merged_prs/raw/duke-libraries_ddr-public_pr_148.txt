@@ -1,0 +1,1 @@
+fix thumbnails for case where multires image does not exist

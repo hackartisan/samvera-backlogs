@@ -1,0 +1,2 @@
+Different approach to Asset-only search results
+Adds a custom SearchBuilder rather than modifying the base SearchBuilder class. Fixes AMS2-401.

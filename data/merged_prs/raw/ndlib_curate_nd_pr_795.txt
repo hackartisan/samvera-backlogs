@@ -1,0 +1,2 @@
+Undo commit 197cde4
+Trying another method to fix permission caching issue (overriding enforce_show_permissions in CommonObjectsController.)

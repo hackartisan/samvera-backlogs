@@ -1,0 +1,2 @@
+Add Blacklight gallery
+Displays search results in a "Gallery" format Child of #483

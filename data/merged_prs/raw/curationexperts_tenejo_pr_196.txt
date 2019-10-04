@@ -1,0 +1,2 @@
+Validate that rights statement values conform to controlled vocabulary
+Connected to #177 I also refactored similar methods to pull common code into a new method. The similar code from these methods: invalid_license invalid_resource_type invalid_rights_statement Has been pulled into a new method called validate_values.

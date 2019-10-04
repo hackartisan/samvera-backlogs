@@ -1,0 +1,12 @@
+[6] Authentication requirements for users
+Descriptive summary Need the ability for users to create accounts via non OSU or UO authentication. Also need the ability for users to authenticate via OSU or UO authentication systems. Expected behavior User should be presented with a create/login interface that makes it clear how to acquire an account and login. User who logs in to the system should be directed back to the page they were previously on (NOT to the homepage)
+Needs (please create issues): - [ ] CAS for OSU login - [ ] Shibboleth (?) for UO login - [ ] Create a local account <- need to create separate issue for recovering password (through devise)
+We should be able to stay on same page for authentication. I'm planning on connecting to IP ranges for login too (at OSU, the UO option is minimized for example), mockup forthcoming for discussion.
+Discussion was to use omniauth for Devise, and OSU (CAS), and UO has Shibboleth: https://github.com/toyokazu/omniauth-shibboleth 
+i don't think we can use IP ranges to define who is logging in. major use case is university affiliated users who are not on campus while using OD. 
+Wouldn't those users get the third option here then: https://drive.google.com/file/d/19rTSfdG7e-S2gE7eLmVZ-lQ1KLRzI_jv/view     Or we'll need a click to choose UO/OSU/neither then for absolutely everyone.   And at the UO I could choose campus Shibboleth or non-campus login with my same mccallum@uoregon.edu cred? Or we'll be sending a message to all existing @uoregon.edu accounts telling them they'll need to now use their institutional login only?   
+Sorry for the lotso questions. :)
+right, but if i AM an OSU affiliate and i'm off campus, it seems confusing to be presented with the "Not OSU/UO" option.   I think @straleyb was looking for a way to identify when someone was trying to create an account using a OSU or UO email address and then push them to the institutional login page. 
+Unless that neutral "Not OSU/UO" option still worked with their @uoregon.edu login.... just didn't use Shibboleth.   So in the end, there will be no @uoregon.edu or @oregonstate.edu logins in our accounts set? Shibboleth, ONID, or some third party only. Yahooooo! :) Will we able to collect those Shib and ONID ids to recreate a user list for restrained marketing uses or some other purpose? :)
+Revised med-fi mockup: https://sketch.cloud/s/bAlA0/jgM09ez
+After the UO stuff gets into place, this should be done.   QA consists of logging in via the 3 different login mediums.

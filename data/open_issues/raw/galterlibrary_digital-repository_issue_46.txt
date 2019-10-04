@@ -1,0 +1,2 @@
+Improve the profiles
+Let folks write few paragraphs about themselves if they want. Show it in the people's list. Add the people's list to the navbar.

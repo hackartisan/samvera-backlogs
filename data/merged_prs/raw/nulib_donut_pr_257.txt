@@ -1,0 +1,2 @@
+Support FIFO queues in ActiveJob
+Make the changes to ActiveJob::QueueAdapters::BetterActiveElasticJobAdapter required to support AWS SQS FIFO queues

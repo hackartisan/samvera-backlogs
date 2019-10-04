@@ -1,0 +1,2 @@
+Apply C5 styling to show view metadata
+ACCEPTANCE   Labels & Values use the fonts and colors specified in the design recommendations  Labels are shown on the line above the value  Labels and values are left-aligned  MOCKUP

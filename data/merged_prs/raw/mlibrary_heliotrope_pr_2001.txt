@@ -1,0 +1,2 @@
+HELIO-2144 Create COUNTER Platform Usage Report PR_P1
+This PR creates the PR_P1 COUNTER 5 report, but is not hooked in to the UI or deals with auth in any way. It's a very "shameless green" approach. Refactoring to a more sustainable pattern will happen as we create the different kinds of COUNTER reports and thereby gather better/more information on what kinds of patterns should be used.

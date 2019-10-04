@@ -1,0 +1,2 @@
+XML files should not be members
+There's no reason these items should be ordered amongst things like pages as far as I can tell, and it means we're doing a bunch of work to avoid treating it like a page. I think we did this because we need users to be able to upload/edit the XML files for geo, yes?

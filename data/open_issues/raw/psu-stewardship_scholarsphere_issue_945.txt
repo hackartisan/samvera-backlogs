@@ -1,0 +1,2 @@
+Get Session Level information from Analytics
+Gather information at the session level about views and downloads. We need more information back from google than the totals. Session_id, location, date, work_id, file_set_id

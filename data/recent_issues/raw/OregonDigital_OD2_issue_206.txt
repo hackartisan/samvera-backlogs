@@ -1,0 +1,2 @@
+Create low-level Fedora pid grabber
+Descriptive summary We need to know every single pid in the current system to help determine migration validity.  I had a toolsuite a long while ago that grabbed a lot of Fedora metadata back when we were having issues with Fedora being out of sync with Solr, so that should be reusable, though we probably just want the pid-fetching piece if possible. Expected behavior  Run command Get list of pids from Fedora, not Solr ??? Profit!

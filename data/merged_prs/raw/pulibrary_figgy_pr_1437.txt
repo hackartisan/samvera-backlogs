@@ -1,0 +1,2 @@
+Fix visibility to read_group translation logic
+resolves #1434

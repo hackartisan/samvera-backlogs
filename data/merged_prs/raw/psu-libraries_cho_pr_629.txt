@@ -1,0 +1,2 @@
+Updating Valkyrie to 1.2.0
+Description Updates CHO to the 1.2.0 release of Valkyrie which supports optimistic locking and single-valued attributes.

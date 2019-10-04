@@ -1,0 +1,2 @@
+Enforce access to downloads
+Description Adds ability checks to the downloads controller and fixes a bug where administrators were not able to download unredacted preservation files. Connected to #974 Changes  access abilities added to DownloadsController administrators can download unredacted preservation files file set factory now creates files with appropriate suffixes with multiple files supported

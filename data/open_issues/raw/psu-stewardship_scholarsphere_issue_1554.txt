@@ -1,0 +1,3 @@
+Batch edit of creator does not fill in email
+
+![Screen Shot 2019-03-01 at 10.49.21 AM.png](https://waffleio-direct-uploads-production.s3.amazonaws.com/uploads/54e5f67e04dc270b004037e9/125516c66e82c728ace21e0d46db978826878de9bce1b057e40fa0c5700b77206454f26b7191a379ef0c2f58415d4fbc30254d58eeb9cb74fce36f34985619e8d5380b22c76815febe811fbb09bb298b4f83b1ba8a1ac7fa2137a5dad11b61435c52dcbd4f3fb2984cc259f34ee04950a117366ae7763f6e0a.png)

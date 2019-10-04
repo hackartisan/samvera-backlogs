@@ -1,0 +1,2 @@
+Adds hidden values to the end for admin users.
+Fixes #1157  This adds hidden fields to the end if a user is an admin. Since it lives on default it will show up on all the work types.

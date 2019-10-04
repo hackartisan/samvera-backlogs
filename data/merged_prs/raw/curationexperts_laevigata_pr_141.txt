@@ -1,0 +1,2 @@
+Move Laevigata workflow setup from initializer to seeds.rb
+Move Laevigata workflow setup from initializer to a rake task, and document it in README

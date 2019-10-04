@@ -1,0 +1,2 @@
+Add transliterated title to Ephemera Folder JSON-LD
+Closes pulibrary/pomegranate#620

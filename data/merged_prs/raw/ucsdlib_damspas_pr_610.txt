@@ -1,0 +1,2 @@
+try w/o the dc again
+Staging is showing 2 '/dc's in the URLs.  Best guess is that RAILS_RELATIVE_ROOT is set and is getting injected. Lets' try the URL w/o it.

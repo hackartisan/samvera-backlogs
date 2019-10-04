@@ -1,0 +1,2 @@
+Change download menu text
+Since for now we only have one download option, the sub-heading label was confusing people. Closes #737

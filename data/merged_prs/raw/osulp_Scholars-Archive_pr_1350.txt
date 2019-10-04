@@ -1,0 +1,2 @@
+Adds error to scholars archive errors list
+Fixes #1228

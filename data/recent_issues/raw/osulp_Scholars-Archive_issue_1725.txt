@@ -1,0 +1,2 @@
+Create a rake task for exporting ETD annual downloads
+Descriptive summary Add a rake task to output fileset download statistics for ETD works by graduation year. Expected behavior  receive the graduation year to process as argument export the results in CSV  Related work One related task: https://github.com/osulp/Scholars-Archive/blob/master/sa_scripts/get_fileset_downloads.rake

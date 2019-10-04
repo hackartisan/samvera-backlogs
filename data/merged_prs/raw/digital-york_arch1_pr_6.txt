@@ -1,0 +1,2 @@
+bits and bobs
+a few minor tweaks to models, eg. added see also to concept new rake task for loading subjects and concepts rake concepts:load_subjects rake concepts:load_terms *only descriptors is in the new format so far new rake task for people, to load in those Helen has created rake persons:add_persons changed to use standard noids rather than using our template

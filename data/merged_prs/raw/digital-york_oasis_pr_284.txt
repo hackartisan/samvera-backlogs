@@ -1,0 +1,2 @@
+Issue 44 further text change download survey
+simple text and text position changes on the downloader survey page

@@ -1,0 +1,1 @@
+use human_readable_resource_type in facets

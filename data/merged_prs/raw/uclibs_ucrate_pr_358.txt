@@ -1,0 +1,2 @@
+Featured researcher image upload instructions
+Fixes #356 Add alert div to featured researcher content block form. Include instruction on how to upload image for featured researcher. Changes proposed in this pull request:  Add partial override for featured researcher content block form Add alert div with details instructions on image upload Add spec

@@ -1,0 +1,2 @@
+Turn on RAM alerts
+Turn RAM alerts back on for netdata.

@@ -1,0 +1,2 @@
+Run derivatives if they're missing from Plum
+Closes #263

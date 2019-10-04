@@ -1,0 +1,2 @@
+Mgmt: Add photographer on single item view
+The following additional field should appear on a single item view page (a.k.a. a work show screen)   Photographer  depends on #279

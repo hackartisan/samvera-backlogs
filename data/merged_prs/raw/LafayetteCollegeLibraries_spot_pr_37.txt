@@ -1,0 +1,2 @@
+Update hyrax 2.1.0rc1
+since we're not expecting hyrax@2.1.0rc1 to differ too far from hyrax@2.1.0 proper, let's do the update now, fix anything broken, and then update to the actual release when it comes down the road. closes #19

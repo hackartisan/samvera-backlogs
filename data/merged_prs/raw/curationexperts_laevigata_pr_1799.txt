@@ -1,0 +1,2 @@
+Rollback yanked `qa` gem version
+This release was yanked since it broke dependants (Hyrax).

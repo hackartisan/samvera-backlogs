@@ -1,0 +1,2 @@
+Upgrades Hyrax to 2.4.0
+Updates the Gemfile and Gemfile.lock to allow 2.4.x, and upgrades its dependencies.

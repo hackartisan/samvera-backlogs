@@ -1,0 +1,1 @@
+Add dotenv to cap deploy shared files

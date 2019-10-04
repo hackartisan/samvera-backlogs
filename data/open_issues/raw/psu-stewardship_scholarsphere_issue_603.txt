@@ -1,0 +1,3 @@
+Browse Everything Speed up submit with many files
+Is there a way to speed up the submit with many files? Ask for multiple URLs at the same time? Send the requests in parallel?
+Need to be careful that is is not seen as a denial of service attach if we go in parallel.  This may need to be done differently based on each driver.  Currently we are interested in Box and DropBox.

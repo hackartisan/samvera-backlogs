@@ -1,0 +1,2 @@
+sets event, action, and label to work how Sufia stats analytics
+fixes #309

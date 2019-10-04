@@ -1,0 +1,2 @@
+Check that checksums remain the same during conversion
+This adds a class that when given a work, returns an array with all the checksums for all versions of the files in that work. This is used in the conversion class before the conversion and after the conversion. If these checksums don't match, an error is logged.

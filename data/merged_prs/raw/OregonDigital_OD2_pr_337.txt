@@ -1,0 +1,2 @@
+Simple Triplestore Persistence 
+For each ControlledVocabulary object that gets created, when persist! gets called on it, it takes the rdf_source which is a uri and commits it to the triplestore. Need to include OregonDigital::ControlledVocabularies::TriplestorePersistable which adds in the functionality of persisting to the triplestore.

@@ -1,0 +1,3 @@
+Cloud storage integration
+As a user, I would like to be able to download objects to box or dropbox (or other cloud storage), so I can access them from anywhere instead of local disc. (I'm not sure how this is a part of the repo, I can download data to these cloud storage providers based on my local set up, so I may have misinterpreted. Feel free to correct!)
+Their pre-existing ability to do this would depend upon their unique setup. If we can save directly using something like browse-everything, it would meet this user story. 

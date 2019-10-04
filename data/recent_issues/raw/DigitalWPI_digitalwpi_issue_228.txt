@@ -1,0 +1,2 @@
+Users index restrict to admins
+Currently /users brings up list of users and the number of works a they have deposited next to their name and email. Restrict this to Admins.

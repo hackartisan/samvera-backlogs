@@ -1,0 +1,2 @@
+Add metadata to collection view
+When UCLA metadata is added to a collection object, it should also appear on the show view for that collection. Connected to #431

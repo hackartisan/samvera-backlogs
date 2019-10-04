@@ -1,0 +1,2 @@
+Numismatics Issue needs a monogram description field
+I think this can be accomplished by attribute description but I want to make sure. The staff were describing the need to describe the positioning of the monogram on the coin.

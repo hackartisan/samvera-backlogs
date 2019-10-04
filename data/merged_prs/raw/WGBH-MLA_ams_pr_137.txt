@@ -1,0 +1,2 @@
+Updates Asset model
+Changes predicate for PBS Nola Code to EBUCore hasIdentifier. Changes input validation for Duration fields. Changes input type for Dimensions fields. Adds a DurationService to ensure consistency with validation by regex.  Also,  Adds a custom matcher for checking properties and predicates of ActiveFedora models. Refactors Asset model test to use new factor (cuts back on a lot of loc).  Closes AMS2-393.

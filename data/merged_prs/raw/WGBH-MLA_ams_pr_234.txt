@@ -1,0 +1,2 @@
+Uses REDIS_SERVER for redis host
+In production environments, the Redis server is set in an env var. Use that first and default to localhost if it's not there.

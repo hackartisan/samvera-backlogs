@@ -1,0 +1,2 @@
+Hide modal dialog boxes on page load
+Even though the modal dialog windows were marked as ARIA hidden the form controls were still accessible. On the record show view this caused a problem because form controls on the modal window overlapped with site navigation elements. The JavaScript sets explicit in-line styles to show or hide the modal dialog when it is activated/deactivated. This fixes #192

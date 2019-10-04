@@ -1,0 +1,2 @@
+Make creator / contributor labels singular; fixes #443
+Removed the label from the view since translation is given precendence over the option. 'contributor' appeared to be defined in an upstream locale file as plural, so it wasn't overriding from the view.

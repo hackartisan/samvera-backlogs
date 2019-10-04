@@ -1,0 +1,2 @@
+Correct default log level
+Correct default log level behaviour. Use :info. Resolve #258

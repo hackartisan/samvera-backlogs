@@ -1,0 +1,2 @@
+Remove query string from SAML callback url
+Fully fixes #173 Removing query_string from the SAML callback URL forces AssertionConsumerService in the SAML metadata to always match AssertionConsumerServiceURL in the request to the IDP.

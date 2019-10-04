@@ -1,0 +1,2 @@
+As a fulfiller, I would like to download several audio files at once
+Related to #2462  In the reading room, a user might want to access all the objects in an archival media collection, and downloading dozens or hundreds of audio files is tedious

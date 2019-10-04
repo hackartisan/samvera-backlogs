@@ -1,0 +1,8 @@
+Collection landing pages
+As a public user, I would like to see a landing page for each collection, So that I can learn more about the collection and the works it contains. From Henry P. As a curator of a specific CHO collection, I want some control over the public presentation of that collection, so that I can market its use, describe its value, credit contributors, acknowledge donors, and similar functions that are normal responsibilities of a curator. From Ben G. If splash pages are supported in CHO Access, we want there to be Search, browse, rotating representative images, link to finding aids, But we also prefer the idea of 'finding aids' (in an improved form) serving as de facto splash pages Done looks like:   catalog with list and gallery view options (#895)  core metadata fields (collection-level) elegantly displayed (#896)  representative imagery (#897)  search box for searching within the collection (#898)  textual content from curator (#899)  browse collection button (#894)  finding aid link for archival collections  acknowledgements section (#572)  (Some of these items may need to be bumped to 1.x)
+Related: #484 (for metadata display)
+Spotlight for collection landing pages? Maybe? Future enhancement?
+Duplicate of #204, closing it and leaving this ticket open.
+Carousel requires javascript, opening #574 to implement during initial production release.
+![cho-collection-landing2](https://user-images.githubusercontent.com/4163828/56057037-daf55980-5d2b-11e9-9942-48f4267b598b.png) 
+![cho-collection-search2](https://user-images.githubusercontent.com/4163828/57640721-3318b900-7581-11e9-8889-2e66cb3c0fc3.png) 

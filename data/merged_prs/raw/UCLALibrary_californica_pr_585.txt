@@ -1,0 +1,2 @@
+Default to AND operator for search
+This uses the mm solr property for the default search settings in the catalog controller to make the default search behave like an AND search with multiple terms. Connected to CAL-589

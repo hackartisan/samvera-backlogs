@@ -1,0 +1,2 @@
+Rake task to bulk reindex the solr index for Ursus.  Part of story #214.
+You need to set an environment variable for the Ursus solr URL.  You can run rake task like this: URSUS_SOLR_URL="http://127.0.0.1:8987/solr/development-ursus" rake californica:reindex_ursus This is part of a research spike to determine how we'll set up solr for Ursus, and how to keep Ursus up-to-date with the latest data from Californica. Connected to #214

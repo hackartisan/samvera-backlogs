@@ -1,0 +1,2 @@
+🐛 fix ldr mapper to properly sort publisher/source
+see @noraegloff's comment on #65. looks like i forgot that metadata['type'] is an array and not a string.

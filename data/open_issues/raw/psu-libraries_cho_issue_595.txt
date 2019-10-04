@@ -1,0 +1,2 @@
+Validating import bags with missing preservation files
+Bags with works that have missing preservation files are coming up valid. Works can have missing preservation files if it contains a representative file set. Otherwise, any numbered file set must have a preservation file.

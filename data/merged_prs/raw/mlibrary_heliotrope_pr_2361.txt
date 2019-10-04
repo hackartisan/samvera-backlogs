@@ -1,0 +1,2 @@
+title handling improvements
+HELIO-2699, HELIO-2710, HELIO-2712  CGI escape for URLs, i.e. hashtags break huge CSB share link widget template value into methods tests for title-based (and other) social media share links more title-base links allow Markdown/HTML emphasis, e.g. breadcrumbs, file_set links on catalog page fix regression where Markdown syntax is showing remove HTML from page title for EPUB reader improve test coverage around breadcrumbs and... Markdown in titles

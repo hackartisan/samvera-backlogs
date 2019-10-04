@@ -1,0 +1,2 @@
+Smtp configs
+Disable email functionality for development, only spool the emails to the actionmailer array. Updates staging and production to match the ENV for deployment.

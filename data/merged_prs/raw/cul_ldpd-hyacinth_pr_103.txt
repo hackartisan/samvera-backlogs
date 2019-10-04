@@ -1,0 +1,2 @@
+Hyc3 fedora
+I'm working on the IT, but the mock-driven tests are in: Coverage report generated for RSpec to /Users/benjamin/github/cul/hyacinth/coverage. 5008 / 5226 LOC (95.83%) covered. so if you want to start reviewing you can. There's a lot.

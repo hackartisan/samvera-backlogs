@@ -1,0 +1,2 @@
+Add LibGuide link to forms.
+Fixes #1111 Message is present on all forms, including edit. Text is in locale file for easier editing.

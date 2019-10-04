@@ -1,0 +1,2 @@
+Capification
+See guide at https://curationexperts.github.io/ansible-samvera/capification.html

@@ -1,0 +1,7 @@
+Have the controller check the total upload size too
+When I upload local files And I choose a file over 0.5gb Then When I add more files The total upload size javascript does not run
+@cam156 I can't reproduce this locally. Can you run this again with your inspector window open and see if any errors are getting logged to the console?
+@awead It is working now.  Maybe it was a browser issue.  Are you checking the size in the controller also?  Aka the java script is not working will the controller flash a message?
+@cam156 no, this is client-side only.
+Is this still a problem?
+Let's find a way to replicate this, then look for a solution; otherwise, close the ticket if it's not a problem.

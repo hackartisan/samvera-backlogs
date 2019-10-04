@@ -1,0 +1,2 @@
+riiif-provided srcset images on show page
+Closes #636. Just did show page, not viewer. On viewer, using the derivative 'thumb' (which I think we need anyway), is about 2x "retina" size already, and relatively small files already, good enough for now I think.

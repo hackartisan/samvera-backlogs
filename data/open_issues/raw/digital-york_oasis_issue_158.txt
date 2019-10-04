@@ -1,0 +1,4 @@
+Enable Google Scholar Indexing
+User scenario As a researcher, I would like to find OASIS summaries through Google Scholar search interface Work prerequisites Map Summarires metadata model to Google Scholar <meta name = "citation_ .../> tags. Every OASIS summary should expose metadata tags as described in Google Scholar Indexing Guidelines. Current support At present we do not expose any meaningful metadata apart from the full pdf file location. <!-- Google Scholar metadata -->   <meta name="citation_title" content=""/>   <meta name="citation_publication_date" content=""/>   <meta name="citation_pdf_url" content="http://oasis-database.org/downloads/1544bp08d"/>
+@VolhaA I'll presume that we will be exposing Summaries citation metadata for indexing e.g. as currently present in _How to cite this summary_ section. This will not contain information about an original journal paper.   
+Yes, you are right. 

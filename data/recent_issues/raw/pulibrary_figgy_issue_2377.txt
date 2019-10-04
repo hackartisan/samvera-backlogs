@@ -1,0 +1,2 @@
+Logical structure does not work for MapSets
+Because of the way in which ScannedMaps are modeled, the structure manager saves the logical structure for MapSets in way that generates broken manifests. Specifically, the canvas id for a range with a ScannedMap does not match the id of the corresponding canvas.

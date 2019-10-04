@@ -1,0 +1,2 @@
+Upgrade Hyrax to 2.2.4
+See release notes: https://github.com/samvera/hyrax/releases/tag/v2.2.4 Declining to update terms.html.erb since we will probably want to revise this text substantially anyway.

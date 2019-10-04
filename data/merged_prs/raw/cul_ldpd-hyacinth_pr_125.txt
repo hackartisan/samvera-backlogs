@@ -1,0 +1,1 @@
+push asset transcript text to fulltext datastream if present

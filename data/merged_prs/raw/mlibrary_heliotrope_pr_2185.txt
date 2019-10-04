@@ -1,0 +1,2 @@
+Addresses HELIO-2408 Add event tracking to EBC banner link.
+Second try -- no clobbering the hotfix.

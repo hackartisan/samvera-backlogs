@@ -1,0 +1,2 @@
+"featured representatives", tabs for monograph_catalog page
+More work toward completing #1394. This provides some infrastructure but the display of the "database" and the "aboutware" is not included.

@@ -1,0 +1,10 @@
+Icons for Missing Thumbnails
+Should there be an icon for media type on items with missing thumbnails?
+That or a no thumbnail  available default, whichever is easier. 
+We should also have an icon for compound objects 
+We could put them in on the parent items (could be batched, would need checked), or we could put code in the viewer that will generate icons for items without them.  OD2 -  Hyrax has default thumbnails, but we want this done sooner rather than later. 
+What's to prevent us from just having a default box/background through CSS that wouldn't show if there actually was some thumbnail image?
+@sseymore will provide an example of a compound object and an item without thumbnail. 
+compound object: https://oregondigital.org/sets/gb-warner-papers-ua022/oregondigital:df71c521v  item without thumbnail: https://oregondigital.org/sets/uo-veterans/oregondigital:k3569500q
+**For Search Results** https://oregondigital.org/sets/uo-veterans/oregondigital:k3569500q There are CSS classes that would help identify the type of generic/missing icon:  `blacklight-info-fedora-afmodel-audio` `blacklight-info-fedora-afmodel-document` `blacklight-info-fedora-afmodel-genericasset` `blacklight-info-fedora-afmodel-image` `blacklight-info-fedora-afmodel-video` ...  Nested beneath these, `> .row.search-result > .span.thumbnail-container` is a div that would hold an anchor and img if the thumbnail exists..otherwise this div is empty.  **For Show Page (Viewer)** https://oregondigital.org/sets/gb-warner-papers-ua022/oregondigital:df71c521v Again, the same css classes for the type of asset has the same `blacklight-info-fedora-afmodel-*` listed above. ...  Nested beneath is the viewer `> .document > .center > div` and each div has a class related to its type. (`.generic-viewer`, `.document-viewer`, and possibly others)
+This wasn't actually closed by #1198 

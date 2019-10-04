@@ -1,0 +1,1 @@
+add guard clause to property that gets read before initialized

@@ -1,0 +1,2 @@
+Agent names without commas
+When entering agent names in the csv, if commas are not used, there's an error: undefined method `strip' for nil:NilClass at WithHashCreators#find_agent. Because there is no comma to split the names, given name will be nil. We need to decide if we want to allow agent names without commas, or require them. This could be problematic if the agent has only a surname and no given name. Blocked by #821 ~NT

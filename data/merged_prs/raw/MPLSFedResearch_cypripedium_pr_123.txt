@@ -1,0 +1,2 @@
+Don't print error message if successful import with no attached file.
+Story #122. In the case where the input XML file has no '' entry, the record successfully imported, but it printed a false-alarm error message that said it couldn't find the file.  This code ensures that unnecessary error message won't be printed.

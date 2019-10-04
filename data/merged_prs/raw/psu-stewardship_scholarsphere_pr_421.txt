@@ -1,0 +1,2 @@
+Unified Search Dropdown Text on the Home Page
+Overrides styles from main Sufia masthead navbar so that the text is visible when hovering over the dropdown. Fixes #385

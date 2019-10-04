@@ -1,0 +1,2 @@
+Import copyright status from CSV file. Story #97
+The mapper will use the label from the CSV file to find the ID that needs to be stored for the rights_statement.   A validator checks to make sure the values in the CSV file are valid.  The CSV file will be rejected if there are invalid values.   I added the lonely operator to the 'subject' method in the mapper because it was causing errors when I tried to import CSV files that don't have a subject column.   Connected to #97

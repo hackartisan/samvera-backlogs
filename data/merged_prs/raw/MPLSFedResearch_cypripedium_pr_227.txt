@@ -1,0 +1,2 @@
+Fixes for prod-like environments
+This fixes issues that were raised when running the rake task in a prod-life enviroment. Connected to #191

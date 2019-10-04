@@ -1,0 +1,2 @@
+Do not try to facet on table_of_contents
+The table_of_contents field should be stored but should not be facetable. Attempting to index table of contents as facetable was causing objects with large table of contents to fail to reindex. Connected to #1768

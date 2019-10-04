@@ -1,0 +1,2 @@
+Sort ingested files by filename so they are ingested in the correct order
+Minor bugfix

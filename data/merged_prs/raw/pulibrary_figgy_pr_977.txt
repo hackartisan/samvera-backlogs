@@ -1,0 +1,2 @@
+Ensures that users need not be authenticated in order to download derivatives in the PDF
+Resolves #935

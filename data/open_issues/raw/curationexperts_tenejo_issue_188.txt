@@ -1,0 +1,2 @@
+Location shows ID instead of label on edit form
+ISSUE When I go to edit a work that I've previously saved with a location value, the ID for the location shows up instead of the location's label. This is definitely an upstream bug, but I'm including a ticket here for tracking purposes. ACCEPTANCE   When I edit a work with a saved location, the location's label is displayed (instead of it's URI)

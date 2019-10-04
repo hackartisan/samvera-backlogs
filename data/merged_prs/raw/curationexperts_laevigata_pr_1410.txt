@@ -1,0 +1,2 @@
+Remove confusing menu items from admin dashboard
+Removing Manage Leases because this application doesn't use leases. Moving Manage Users back to the Tasks menu, which is where it was originally. Closes #1166

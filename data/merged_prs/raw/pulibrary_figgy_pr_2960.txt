@@ -1,0 +1,2 @@
+Extends the acceptance test for the CloudFixity service
+Resolves #2898

@@ -1,0 +1,1 @@
+Upgrade rails version to get security patch for ActiveJob vulnerability.

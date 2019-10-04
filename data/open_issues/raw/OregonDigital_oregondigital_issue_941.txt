@@ -1,0 +1,2 @@
+Upgrade ffmpeg on hydra-worker1
+http://news.softpedia.com/news/zero-day-ffmpeg-vulnerability-lets-anyone-steal-files-from-remote-machines-498880.shtml

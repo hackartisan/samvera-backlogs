@@ -1,0 +1,2 @@
+Project Core API
+Basic API to CRUD projects This endpoint does not contain authorization yet

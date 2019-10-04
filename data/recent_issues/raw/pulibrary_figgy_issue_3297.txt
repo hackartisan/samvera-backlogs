@@ -1,0 +1,2 @@
+Allow import of resources from Preservation Storage without a PreservationObject
+PreservationObjects get deleted when the resource does, so we should be able to just point at a directory in GCS and import it.

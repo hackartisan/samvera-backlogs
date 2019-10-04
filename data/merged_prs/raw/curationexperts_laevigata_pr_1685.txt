@@ -1,0 +1,2 @@
+Handle 1.x style visibility settings
+In Laevigata 1.x, many objects have their embargo type set with "true" (a String) instead of true (a Boolean). When determining visibility, we need to take this into account. I can't figure out how to write a test for this because in Laevigata 2.x it is impossible to create an object with these mis-matched visibility settings (as it should be). Fixes #1681

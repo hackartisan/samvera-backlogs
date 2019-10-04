@@ -1,0 +1,2 @@
+Update importer to handle collections
+Given a CSV export file:   Importer should create a collection level record at import time if it doesn't exist yet  If the collection level record exists already, the importer should update its metadata  All items in the CSV should be made members of the collection  child of #385 requires UCLALibrary/amalgamated-samvera#256

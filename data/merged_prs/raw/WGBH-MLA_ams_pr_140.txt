@@ -1,0 +1,2 @@
+Adds hints
+Closes AMS2-390.

@@ -1,0 +1,2 @@
+Create admin interface that lists simplified-upload files
+List user-uploaded files along with names and instructions  Listed files have status of 'Processed', 'Processing', 'Unprocessed'  Clicking process, creates a batch upload in Sufia and takes the admin to the metadata form for the file. The created file's depositor is the original uploader. File is marked as processed when the Generic File is saved.  Admins can download the file before processing it

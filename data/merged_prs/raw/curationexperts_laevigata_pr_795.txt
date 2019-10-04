@@ -1,0 +1,2 @@
+Remove the word Phone per request
+Closes #720

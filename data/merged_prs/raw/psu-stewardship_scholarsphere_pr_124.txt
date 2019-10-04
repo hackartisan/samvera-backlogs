@@ -1,0 +1,2 @@
+Adding a message that show that we are migrating. fixes #121
+If you are an admin user the warning will not show for you, otherwise you need to scroll down a lot to get to the main page.

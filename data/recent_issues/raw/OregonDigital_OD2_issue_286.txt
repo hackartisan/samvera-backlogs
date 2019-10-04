@@ -1,0 +1,2 @@
+Set up OD2 site key and secret key for Recaptcha
+Descriptive summary Now that we have recaptcha on the contact form for OD2, we will need to configure the staging server and production server to use a valid secret key and site key. This can be made from googles recaptcha service and should be made by "OD2" google account, or an administrators account.

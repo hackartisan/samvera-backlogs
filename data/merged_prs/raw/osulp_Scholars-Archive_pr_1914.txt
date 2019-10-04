@@ -1,0 +1,1 @@
+rewrites for blocking bad requests from reaching Rails

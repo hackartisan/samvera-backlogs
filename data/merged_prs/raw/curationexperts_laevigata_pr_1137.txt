@@ -1,0 +1,2 @@
+Add a term service to filter unwanted terms
+This service will filter out Hyrax specific terms that are in the Etd form. When creating a custom form these terms do not need to appear. Related to #1120

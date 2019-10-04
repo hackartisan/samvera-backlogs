@@ -1,0 +1,2 @@
+Original file fix
+The original_file property is empty when creating a Work through the UI. This needs to be set because it used to create file metadata and derivatives.

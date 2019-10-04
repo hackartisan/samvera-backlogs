@@ -1,0 +1,2 @@
+343 clean up after CurateND lifeboat
+@0bc32a3 — Overriding new page title for new ETD form @20e7e3a — Allow Senior Theses to render properly @d8dbdfe — ETDs determine the human_readable_type based on the degree @c06c3a3 — Removing wrapping div; indentation and spacing @e3fce87 — Allow accordion control to be used on EAD forms Fixes #343

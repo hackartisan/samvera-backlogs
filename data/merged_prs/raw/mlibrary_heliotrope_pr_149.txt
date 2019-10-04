@@ -1,0 +1,2 @@
+Press facet
+For story #126 this adds a Press facet to the catalog index page.

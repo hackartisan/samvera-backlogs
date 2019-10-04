@@ -1,0 +1,2 @@
+Work Show Page: Remove Citations dropdown
+Descriptive summary Remove the Citations dropdown from the page. We'll switch to a static MLA Citation section below the descriptive metadata (in another ticket). Wireframe mockup: https://www.lucidchart.com/documents/edit/944f6fd3-53b5-466b-b49f-f0788ada80aa/0 (Information compiled by POSM group from updated wireframes) Expected behavior Citations dropdown no longer appears on the work show page.

@@ -1,0 +1,1 @@
+AMS2-105 fixing translation for add user into a role button

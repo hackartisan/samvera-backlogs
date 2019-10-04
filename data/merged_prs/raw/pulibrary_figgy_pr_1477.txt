@@ -1,0 +1,2 @@
+Ensure change set to propagate has :read_groups before calling
+fixes #1476

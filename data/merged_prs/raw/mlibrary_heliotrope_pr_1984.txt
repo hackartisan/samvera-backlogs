@@ -1,0 +1,1 @@
+HELIO-2123 refactor CFI class

@@ -1,0 +1,2 @@
+Bulk Edit should not complete items in takedown state
+Users can work around this by faceting on state to select only items of one particular state (e.g., pending).  But we wouldn't want a bulk complete action to accidentally restore access to items marked takedown.

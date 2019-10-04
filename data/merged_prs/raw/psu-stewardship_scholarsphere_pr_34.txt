@@ -1,0 +1,2 @@
+Adjustments and additions for responsive home page graphic, refs #9392
+Made some adjustments and additions to the SCSS files and a slight change to a view for a better responsive design and added background images to target certain breakpoints. Images can be replaced in the future if needed.

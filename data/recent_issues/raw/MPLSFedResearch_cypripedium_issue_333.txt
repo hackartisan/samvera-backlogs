@@ -1,0 +1,2 @@
+Don't save blacklight searches
+We seem to be running out of memory immediately after deleting blacklight saved searches. We need to delete those daily so that the database doesn't grow forever and fill up the disk, but the job that deletes them is currently way too expensive. See curationexperts/tenejo#217

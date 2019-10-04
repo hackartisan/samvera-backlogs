@@ -1,0 +1,2 @@
+Change clamby error setting in prod
+We are triggering a custom virus error to do logging and clean up, but if this clamby setting is set to true there is a different error that is raised and the logging and clean up code is never reached. This commit changes the clamby error setting to false in production, which will trigger the custom code.

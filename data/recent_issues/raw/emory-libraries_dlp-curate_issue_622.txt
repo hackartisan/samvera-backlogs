@@ -1,0 +1,2 @@
+Investigate ability to search by ID in Curate
+Can we configure the Curate search to search by an item's NOID ID?

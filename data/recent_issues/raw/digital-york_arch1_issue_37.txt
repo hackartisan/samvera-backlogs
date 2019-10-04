@@ -1,0 +1,2 @@
+Browse not working
+Click 'Browse' -> any register will lead to en empty page.

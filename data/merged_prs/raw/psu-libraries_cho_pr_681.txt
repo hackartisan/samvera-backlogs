@@ -1,0 +1,2 @@
+Use a Rejection to capture failures from transactions
+Description Return a Transaction::Rejection object so we can add failure errors that are interpretable by the presenter. Connected to #618

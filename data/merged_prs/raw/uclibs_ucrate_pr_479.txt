@@ -1,0 +1,2 @@
+Remove rights from all forms
+Fixes #470 Removes all rights_statement from the required terms for all forms, and removes it from the self.terms. Also modifies all of the current specs that check for rights and doens't include that anymore.

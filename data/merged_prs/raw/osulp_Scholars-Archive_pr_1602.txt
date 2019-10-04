@@ -1,0 +1,2 @@
+fixes style of dd-list item while being dragged
+fixes #1601

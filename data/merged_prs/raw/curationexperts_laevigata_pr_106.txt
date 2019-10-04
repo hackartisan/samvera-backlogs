@@ -1,0 +1,2 @@
+Run rubocop before rspec
+Addresses #67

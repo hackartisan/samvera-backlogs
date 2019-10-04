@@ -1,0 +1,2 @@
+Feature/GPP-284: Add Renew Session
+This PR adds the renew_session route required for the latest commit of auto-session-timeout-warning. This change was made so that a page refresh is not necessary to renew the session timer.

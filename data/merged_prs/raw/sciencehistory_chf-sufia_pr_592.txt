@@ -1,0 +1,2 @@
+Hide search dropdown for non-staff users
+fixes #589

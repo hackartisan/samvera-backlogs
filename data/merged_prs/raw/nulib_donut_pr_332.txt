@@ -1,0 +1,2 @@
+indexing fields requested by the front end mockups
+fixes https://github.com/nulib/next-generation-repository/issues/617 I'm not sure if the box/folder fields should be moved to extra_fields or if they'll be used for any additional work types

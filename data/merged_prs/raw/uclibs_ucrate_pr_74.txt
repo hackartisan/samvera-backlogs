@@ -1,0 +1,2 @@
+Pin to Hyrax master where collections-sprint is merged in
+Fixes #69 Pins the Hyrax gem to the commit that merges the collections-sprint branch into master Also tweaks a test to match a similar change to the same spec in Hyrax.

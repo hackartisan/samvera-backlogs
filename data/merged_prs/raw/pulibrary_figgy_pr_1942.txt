@@ -1,0 +1,2 @@
+Render viewer on edit screen for Folders
+Closes #1935 I sent the screenshot and a tabbed option to our PO's for Ephemera to see which they prefer. This PR will change if they don't pick this one.

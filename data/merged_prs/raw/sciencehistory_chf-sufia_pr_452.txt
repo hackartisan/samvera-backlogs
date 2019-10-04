@@ -1,0 +1,2 @@
+Change search label 'All of Sufia' to just 'All', fixes #447
+fixes #447

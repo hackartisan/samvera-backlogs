@@ -1,0 +1,2 @@
+Work Show Page: Update page title, remove type and ID
+Descriptive summary Remove type (Image, Video, etc.) and work ID, title can just be "[Work title] | Oregon Digital" Expected behavior Work page title does not include Type and Work ID. (Information compiled by POSM group from updated wireframes)

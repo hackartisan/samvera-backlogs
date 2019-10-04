@@ -1,0 +1,2 @@
+Ezid pull
+Changes to the mint_identifier parameter list, in particular addition of target url of EZID DOI Changes to the default ezid.yml file created via setup.rake

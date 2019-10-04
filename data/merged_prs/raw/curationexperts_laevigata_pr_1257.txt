@@ -1,0 +1,2 @@
+Js/bug fixes
+This commit contains some app.vue js bug fixes (typos, removing a parameter from the hyrax form submission).

@@ -1,0 +1,2 @@
+Missing files from Langmuir transfer
+In doing a small randomized test load, the importer tool alerted me to several files being missing. We may see more of these as we do larger runs, but here are two directory paths that reported errors: MSS_1218_Langmuir/ARCH/OP82/MSS1218_OP82_P0001_ARCH.tif MSS_1218_Langmuir/ARCH/XOP34/MSS1218_XOP34_P0001_ARCH.tif Can we check if these filenames exist and/or if the path is wrong?

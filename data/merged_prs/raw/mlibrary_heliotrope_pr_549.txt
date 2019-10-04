@@ -1,0 +1,2 @@
+Fixes #479 - Added new hdl (handle) and doi predicates for file_sets
+Also removed file_set.identifier that conflicts with monograph.identifier predicate

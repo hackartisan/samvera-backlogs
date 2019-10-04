@@ -1,0 +1,2 @@
+Deprecation warning on prod for rights
+DEPRECATION WARNING: You are using the deprecated RightsService module, but you do not have 'rights.yml'. Switch to CurationConcerns::LicenseService instead. (called from module:RightsService at /opt/heracles/deploy/scholarsphere/shared/bundle/ruby/2.3.0/gems/curation_concerns-1.7.8/app/services/rights_service.rb:4) Loading production environment (Rails 4.2.7.1)

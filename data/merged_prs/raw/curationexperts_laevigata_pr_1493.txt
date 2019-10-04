@@ -1,0 +1,2 @@
+Display files on final submission tab
+This commit displays the primary and supplemental files that a user has uploaded on the final submission tab. Related to #1190

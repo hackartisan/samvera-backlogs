@@ -1,0 +1,2 @@
+Updates to sufia and kaminari
+Upgrade to sufia and kaminari. Kaminari needed a specific branch by jcoyne and with the upgrade to sufia, there was a new stylesheet that needed importing as well.

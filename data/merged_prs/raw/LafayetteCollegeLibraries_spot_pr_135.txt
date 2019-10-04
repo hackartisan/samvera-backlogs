@@ -1,0 +1,2 @@
+reorder blacklight-range-limit js require
+changes the order in which the blacklight_range_limit js is required. i believe this should fix a problem we encountered where the canvas wasn't being rendered in production (for some reason) fixes #134

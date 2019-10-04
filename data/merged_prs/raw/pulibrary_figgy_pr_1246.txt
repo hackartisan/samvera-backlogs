@@ -1,0 +1,2 @@
+Remove `plum` from change set persister and characterization service
+Closes #1242

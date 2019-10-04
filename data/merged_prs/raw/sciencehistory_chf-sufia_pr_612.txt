@@ -1,0 +1,2 @@
+Add static about page, refs #572
+refs #572

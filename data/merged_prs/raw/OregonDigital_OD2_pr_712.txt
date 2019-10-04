@@ -1,0 +1,2 @@
+Truncate search result titles to 10 words
+Fixes #681

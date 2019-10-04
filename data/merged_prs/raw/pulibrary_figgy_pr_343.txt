@@ -1,0 +1,2 @@
+Don't set a blank Last-modified header
+Fixes #143

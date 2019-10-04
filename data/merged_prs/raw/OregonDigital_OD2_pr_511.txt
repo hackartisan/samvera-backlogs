@@ -1,0 +1,2 @@
+adds cvs back to form
+Fixes #499 Fixes #506

@@ -1,0 +1,2 @@
+Update rubyzip to 1.2.1
+Patches vulnerability due to https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2017-5946

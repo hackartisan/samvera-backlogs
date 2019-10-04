@@ -1,0 +1,2 @@
+Appends to, rather than truncates, sidekiq log.
+Also, uses bundle exec when calling bin/scripts/ensure_sidekiq_running.rb to within install.sh to fix error of not being able to load sidekiq/api.

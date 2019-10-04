@@ -1,0 +1,2 @@
+no file for external resources
+HELIO-2246

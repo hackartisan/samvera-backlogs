@@ -1,0 +1,2 @@
+Change File Format and Rights to a Combo Box
+When editing or creating a work during the screen reader testing, the user indicated that a combo box would be better than the drop down.

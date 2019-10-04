@@ -1,0 +1,2 @@
+Work for daily email
+Need to inspect when the work entered a queue, and if its the same day then send out email.

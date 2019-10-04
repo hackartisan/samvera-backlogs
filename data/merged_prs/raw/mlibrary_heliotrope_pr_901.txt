@@ -1,0 +1,2 @@
+first pass at editors, connected to #879
+We'll need to do much more to get this right, the is just a temporary stop gap.

@@ -1,0 +1,2 @@
+License field not displayed on show page for production content
+Descriptive summary When pointing ucrate to production data, the license content isn't displayed on the work show page. THE PROBLEM IS ONLY WITH EXISTING PRODUCTION CONTENT FROM SCHOLAR.UC.EDU It is, however, properly showing on the license dropdown on the work edit page. Could be a problem with the solr field.

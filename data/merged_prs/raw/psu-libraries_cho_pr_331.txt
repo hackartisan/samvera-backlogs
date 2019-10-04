@@ -1,0 +1,2 @@
+Load the class that is being shown
+refs #330

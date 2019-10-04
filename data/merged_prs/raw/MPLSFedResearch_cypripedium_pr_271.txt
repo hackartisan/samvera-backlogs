@@ -1,0 +1,1 @@
+Don't overlap dashboard body with header. Connected to #258

@@ -1,0 +1,2 @@
+Added text_en type to all_text for proper tokenization.
+[ci skip]

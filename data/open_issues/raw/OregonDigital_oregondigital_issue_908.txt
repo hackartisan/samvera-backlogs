@@ -1,0 +1,13 @@
+Fix incorrectly cropped images
+From OD meeting on 11/16: Work with students to fix incorrectly cropped images manually.
+@jechols We'll need a list when all the asset reviewing is done 
+I'll grab a list soon-ish.  Probably by tomorrow, _maybe_ today. 
+@jsimic: I am attaching a giant text file.  Let me know if you want something else.  It's just a giant list of pids, so I'm not sure what other format would be easier. [croppids.txt](https://github.com/OregonDigital/oregondigital/files/38450/croppids.txt) 
+Actually I'm reopening this.  @jsimic, let me know when you've tackled this so I can update stuff on my end.  I want to keep track of what is still outstanding so I don't re-export this list in a month when I forget what I have and haven't done.... 
+@jechols  Is it possible for you to pull the pids, dct:identifier and oregon:cco/accessionNumber? 
+Let me see what I can figure out.  Can you give me precise predicate URIs?  I can probably figure out identifier, but I have no idea about that accession number.  What format would you like?  And how do you want me to represent multiple values if either of those predicates have multiple values for any of the items? 
+Actually I found accession number I think: `<http://opaquenamespace.org/ns/cco/accessionNumber>`.  And just to verify, identifier is `<http://purl.org/dc/terms/identifier>`.  Please verify these are correct.  I'll start building something to extract this data, so the sooner you confirm the sooner whatever I build will be correct :) 
+Correct! 
+Okay, attached is a CSV file with the information you requested.  You'll have to rename it, though - it seems github doesn't allow CSV attachments....  [croppids.txt](https://github.com/OregonDigital/oregondigital/files/40488/croppids.txt) 
+@sseymore Looksee 
+This was done: K:\artcourses\Work\OD_cropping  

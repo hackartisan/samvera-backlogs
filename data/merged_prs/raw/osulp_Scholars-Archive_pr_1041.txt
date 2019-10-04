@@ -1,0 +1,2 @@
+Alphabetize facet order by labels.
+Fixes #1022

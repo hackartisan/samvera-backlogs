@@ -1,0 +1,2 @@
+Enables ScannedResource form to use MediaReserves
+closes #2070

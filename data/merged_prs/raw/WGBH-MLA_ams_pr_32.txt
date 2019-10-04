@@ -1,0 +1,1 @@
+AMS2-22 multiple user roles as viewer

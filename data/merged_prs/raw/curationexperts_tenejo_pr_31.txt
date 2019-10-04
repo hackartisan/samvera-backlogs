@@ -1,0 +1,2 @@
+Fix IIIF image servering and derivatives stability
+Don't lose derivatives between deploys Get rails to serve out images for IIIF Fixes #19

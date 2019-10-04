@@ -1,0 +1,2 @@
+Adds ETD Help contact form
+This commit integrates the existing ETD Help contact form into Laevigata. Links to this form are also updated throughout the app. Closes emory-libraries/etd-issues#45

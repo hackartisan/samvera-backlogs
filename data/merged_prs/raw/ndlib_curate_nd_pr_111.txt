@@ -1,0 +1,2 @@
+Update the version of the Curate Gem
+DLTP-114 - Add ORCID, Scopus, and ResearcherID fields to user. change to Ruby 2 has syntax Update curate gem to support DLTP-114 specific fixes Add "downloads" path to the exclusion list of saved urls for DLTP-9

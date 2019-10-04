@@ -1,0 +1,2 @@
+Add a hint to the ocr language field
+fixes #1115

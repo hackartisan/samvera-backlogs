@@ -1,0 +1,2 @@
+dcmi_type is not persisting
+Descriptive summary Metadata for dcmi_type is not persisting because it is a duplicate of resource_type. Expected behavior Persist one or the other, or select a new predicate for dcmi_type.

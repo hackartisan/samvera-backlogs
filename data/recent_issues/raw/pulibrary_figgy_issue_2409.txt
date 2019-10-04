@@ -1,0 +1,2 @@
+Track titles are sometimes in JSON-LD.
+You can see it here: https://figgy-staging.princeton.edu/catalog/a6c51760-79e0-4334-8e56-d41212d84b1c

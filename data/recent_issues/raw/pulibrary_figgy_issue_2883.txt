@@ -1,0 +1,2 @@
+PreserveChildrenJob should spawn jobs to upload one FileSet per job.
+Right now it would be pretty devastating if a job died right before it was done uploading 600 files.

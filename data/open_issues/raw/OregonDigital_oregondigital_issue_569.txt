@@ -1,0 +1,2 @@
+Interface for setting object rights
+This is for things like setting read_groups/edit_groups on an item.

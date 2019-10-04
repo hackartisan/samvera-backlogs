@@ -1,0 +1,2 @@
+Resolves HELIO-994: Tombstone an item
+NOTE: Fulcrum -> Reports -> Tombstones displays FileSets with expiration dates in descending order by date.

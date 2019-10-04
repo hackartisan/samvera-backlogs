@@ -1,0 +1,2 @@
+Figure out titles for NumismaticIssue and Coin resources
+How do we generate titles for these resource types? Child of #2025

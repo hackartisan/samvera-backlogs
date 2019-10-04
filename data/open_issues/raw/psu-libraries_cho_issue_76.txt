@@ -1,0 +1,2 @@
+Search A/V transcripts and view only relevant sections
+As a researcher, I would like to search transcripts from A/V object and have the search results direct me to the exact time point where my search results appear in the transcript, So that I don't have to jump around the media to find what I'm looking for. Done looks like what Internet Archive has done for TV News. Related: Issue #24

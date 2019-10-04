@@ -1,0 +1,1 @@
+Ignore all *.log and *.swp files

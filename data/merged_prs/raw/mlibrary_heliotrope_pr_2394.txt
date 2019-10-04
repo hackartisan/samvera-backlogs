@@ -1,0 +1,2 @@
+HELIO-2779 COUNTER count adjustments
+This is on preview. The rake task was tested and seems good.

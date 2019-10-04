@@ -1,0 +1,2 @@
+Item uploaded without creator or title
+This Capstone was submitted by an advisor and has no creator or title. It did make it to the review queue like it should (so is in the correct workflow), but has no buttons (edit, delete, etc.). https://ir.library.oregonstate.edu/concern/graduate_projects/n009w719j

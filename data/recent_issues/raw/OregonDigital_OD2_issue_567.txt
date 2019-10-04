@@ -1,0 +1,2 @@
+Investigate unpermitted hidden label showing up.
+Descriptive summary There is a long list of unpermitted parameters showing up. We should go through and verify that these arent actually an issue. Happens on save. Only shows up in the console. No end-user effect, but shouldn't be happening.

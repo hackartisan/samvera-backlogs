@@ -1,0 +1,4 @@
+Ingest "Arabic Collections Online" (pudl0121)
+Note: (Get images from NYU) These aren't displayed anywhere right now. Migrate? Also, what does it mean that the images are at NYU? Ping @jpstroop @joycebcat
+I see images in the `pudl0121/pul` directory, so I think we can ingest these.
+I wasn't aware that we had any of these images.  This is material digitized by Hudson for NYU to put up in the ACO site (a collaborative Arabic project).  We want to get all the images for our material from Hudson and put them all in our local diglib site as well, so if we have some images, run with them!

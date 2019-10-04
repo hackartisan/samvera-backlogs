@@ -1,0 +1,2 @@
+Use cached parents for File Manager.
+Speeds up rendering significantly by avoiding N+1 queries.

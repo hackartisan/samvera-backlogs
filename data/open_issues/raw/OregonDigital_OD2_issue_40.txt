@@ -1,0 +1,8 @@
+Date terms that adhere to the EDTF Format
+Descriptive summary There is a format for dates that is compliant with LOC and ISO 8601 called the extended date time format. This format helps format specific date formats, be easier to search for and keeps them consistent. This helps with dates such as circa 1991 or something along those lines. To read more about EDTF dates, read here https://www.loc.gov/standards/datetime/ We made SA EDTF compliant, in a large PR found here osulp/Scholars-Archive#523 Most of this work will get date fields EDTF compliant. One thing that needs to be decided is which dates out of all the different date types need to be edtf compliant. Do all of them? Some of them? Who knows. Porting the work will be quite a process and @luisgreg99 Was the one who championed this. Expected behavior Dates that are set to follow the edtf format for dates save edit and show pages all show the dates in the proper format. Related work osulp/Scholars-Archive#523
+All of them.
+Related gem: https://github.com/duke-libraries/edtf-humanize
+https://github.com/inukshuk/edtf-ruby  says it supports all levels of the Draft Specification. 
+Level 2 is what we want.
+A cheatsheet for EDTF formats will help for common usages.  Also need to validate entered dates and give errors if not valid EDTF.
+Metadata should review first, then add a label for Features when done.

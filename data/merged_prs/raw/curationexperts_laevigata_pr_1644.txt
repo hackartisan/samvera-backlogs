@@ -1,0 +1,2 @@
+Push saved department to top of list in edit screen
+This will restore any saved department to the top of the select box in the edit screen. This will allow users to see/edit legacy departments. Connected to #1094

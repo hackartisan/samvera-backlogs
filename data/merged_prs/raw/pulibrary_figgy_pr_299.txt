@@ -1,0 +1,2 @@
+Remove suggest component.
+We don't use "did you mean" functionality from Blacklight, and building up the suggest component was taking a long time every soft commit. Closes #298

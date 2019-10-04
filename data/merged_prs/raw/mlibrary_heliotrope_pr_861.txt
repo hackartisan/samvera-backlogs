@@ -1,0 +1,2 @@
+don't play repo asset on download
+Resolves #820

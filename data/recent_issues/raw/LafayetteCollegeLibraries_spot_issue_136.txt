@@ -1,0 +1,2 @@
+display rights_statement info on item show
+link to URI, display label text

@@ -1,0 +1,2 @@
+Possible problems with facet.page
+Similar to SA there are some interesting things regarding the audit. It suggests some security flaws. Similar to SA, it is deemed a non-issue but is logged here still

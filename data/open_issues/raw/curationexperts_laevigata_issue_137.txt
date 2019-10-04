@@ -1,0 +1,2 @@
+Create Student Tooltips for ETD Submission Process
+The wireframes denote areas where students might want additional information with a question mark icon. [ ] Review all Info areas, remove or add as necessary. [ ] Write tooltips for each area designated with the Info icon.

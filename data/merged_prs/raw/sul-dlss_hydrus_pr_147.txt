@@ -1,0 +1,1 @@
+Ignore the workflow service log file

@@ -1,0 +1,2 @@
+Does group access still work?
+Was just working through this with a user, and it looks to me like it was driven off of UMG our old emails system? Does it still work with outlook ?

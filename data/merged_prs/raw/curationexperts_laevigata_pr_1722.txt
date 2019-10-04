@@ -1,0 +1,2 @@
+Ensure that we don't submit blank file values in SaveAndSubmit
+Connected to #1721

@@ -1,0 +1,2 @@
+Multiple alt. ids are not validating correctly
+When updating work, multiple alt. ids are incorrectly being denied because they already exist.

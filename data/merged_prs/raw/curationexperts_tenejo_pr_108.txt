@@ -1,0 +1,2 @@
+Show the record count on the preview page
+This commit displays the number of records that will be imported on the preview page. Connected to #83

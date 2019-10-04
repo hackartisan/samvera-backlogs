@@ -1,0 +1,2 @@
+Creator appears twice in collection facet edit page
+Descriptive summary the element, Creator, appears twice on the collection facet edit page Expected behavior once

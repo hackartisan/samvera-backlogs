@@ -1,0 +1,2 @@
+Don't allow primary files from Box
+This disables primary file uploads from Box. If needed in the future it can be re-enabled. Connected to #1572

@@ -1,0 +1,2 @@
+Additional Info when Hovering over Thumbnails in Grid View of Search Results
+As a remote researcher, I would like to see a box that displays key metadata and a thumbnail when I hover over thumbnails in a grid-view of search results, So that I can view additional information without having to view the object. Fields to include: title, date, description, subjects Dependent on #80 Carolyn L.

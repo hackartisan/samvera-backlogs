@@ -1,0 +1,2 @@
+Update OminAuth
+See https://github.com/curationexperts/laevigata/network/alert/Gemfile.lock/omniauth/open

@@ -1,0 +1,2 @@
+Add Release Notes to Figgy
+Closes #3225 Closes #3228

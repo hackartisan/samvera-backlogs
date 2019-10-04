@@ -1,0 +1,2 @@
+fixed the email on prod issue
+basically just changed so if the password is blank it does not auth. goes with the ansible pr on gitlab also

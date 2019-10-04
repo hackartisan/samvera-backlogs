@@ -1,0 +1,2 @@
+Basic CSV validation
+Check for required headers Check for missing required fields Ensure resource_type conforms to expected controlled vocabulary Generate tests and fixtures for various kinds of malformed CSVs  Connected to curationexperts/in-house#190

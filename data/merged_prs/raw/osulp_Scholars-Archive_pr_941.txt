@@ -1,0 +1,2 @@
+update date_operations to handle invalid values on to_solr 
+updated clean_datetime to send warning to logs when input date is invalid

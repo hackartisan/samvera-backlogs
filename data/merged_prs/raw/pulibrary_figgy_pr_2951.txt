@@ -1,0 +1,2 @@
+Queue update fixity job as super low.
+We don't want a barrage of updating events to slow down ingest.

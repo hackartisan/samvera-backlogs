@@ -1,0 +1,1 @@
+Ensure appropriate properties have text area instead of text input 

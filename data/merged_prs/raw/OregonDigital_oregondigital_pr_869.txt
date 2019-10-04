@@ -1,0 +1,2 @@
+Updating devise edit password url to use the real token
+From http://stackoverflow.com/questions/19018657/rails-4-devise-password-reset-is-always-giving-a-token-is-invalid-error-on Fixes #868

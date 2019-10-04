@@ -1,0 +1,2 @@
+Groups form fields
+This commit groups form metadata fields. Also adds xray-rails gem. Closes #141

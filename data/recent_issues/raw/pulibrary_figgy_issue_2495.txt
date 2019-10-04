@@ -1,0 +1,2 @@
+Bulk Ingest PULFA content
+@jpstroop has run the sausage factory on these and they should be ready to bulk ingest.

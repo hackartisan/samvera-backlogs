@@ -1,0 +1,2 @@
+Use CHO Identifiers in URLs
+URLs in CHO should use the CHO opaque ID instead of the Valkyrie ID. Related: #164 Enhancement to #583

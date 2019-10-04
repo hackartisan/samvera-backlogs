@@ -1,0 +1,2 @@
+safe navigation operator avoids errors
+Resolved #1196

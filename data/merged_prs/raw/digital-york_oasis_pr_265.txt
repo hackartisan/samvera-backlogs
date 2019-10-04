@@ -1,0 +1,2 @@
+Issue 257 set pdf to download
+Fixed issue 257:  if multiple files being uploaded, make sure the first file is PDF if exists allow users to change thumbnail/representative media via file manager

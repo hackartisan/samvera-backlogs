@@ -1,0 +1,2 @@
+Order manager submit button is not re-activating
+When I save a change on the order manager, then make another change, I should be able to save it but the button is de-activated. To replicate:  Go to a multi-page item Change the thumbnail image click save make another change observe that the save button is not active

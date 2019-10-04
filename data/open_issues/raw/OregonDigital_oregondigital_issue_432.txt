@@ -1,0 +1,2 @@
+New/Unreviewed GenericCollections link to the wrong place
+At the reviewer page (http://oregondigital.library.oregonstate.edu/reviewer), unreviewed sets display, but link to catalog/[pid] not sets/[pid].

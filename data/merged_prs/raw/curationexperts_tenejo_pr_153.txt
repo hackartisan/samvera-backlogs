@@ -1,0 +1,2 @@
+Records imported by CSV importer should belong to logged-in user
+Connected to #137 Note:  I made a change to the uploader to explicitly set the upload directory under the Rails root for the Travis build.  I'm not sure what changed since the last darlingtonia upgrade, or why this problem started happening now, but I was getting errors in the Travis build.  The errors were that uploaded files couldn't be found under /tmp (which I suspect we don't have permission to write to) instead of under the Rails root, even though the UPLOAD_PATH is set as a relative path.

@@ -1,0 +1,2 @@
+Improve test suite speed by limiting text extraction
+Description By only extracting text from sample file when needed for explicit testing, we can reduce test suite times. Two traits are available to a work, the typical one will add a file but not extract any text or perform other post-processing. The other trait will validate the file as well as extract text. In the future, this will also comprise characterization and derivative creation as well.

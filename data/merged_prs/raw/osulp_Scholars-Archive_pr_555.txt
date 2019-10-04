@@ -1,0 +1,2 @@
+preload legato library for non-production env
+fix #551 The setting of GA profile is in config/analytics.yml on shared dir, and Google console with project_id scholarsarchive-165716

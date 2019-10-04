@@ -1,0 +1,3 @@
+Required to Publish in Data Dictionary Working?
+alternate_ids (Identifier) is a required_to_publish field in the data dictionary, yet many published works do not have an identifier. Is this a bug or is this because we don't yet have publishing workflows? Is this related to #674? This ticket includes having metadata edit form(s) updated with required and required to publish designations for users and validations. Wiki metadata page should be updated, for CSV import there isn't a difference between required and required to publish. (Ideally metadata forms are dynamically updated with requirement designations, but that might be a 1.x enhancement.)
+TODO: * requires access controls and workflow

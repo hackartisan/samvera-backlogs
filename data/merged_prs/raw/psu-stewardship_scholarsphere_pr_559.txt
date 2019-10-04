@@ -1,0 +1,2 @@
+Adds aria-hidden=true to all empty <span> elements that use icons.
+Fixes #511

@@ -1,0 +1,1 @@
+Resolves #778 file_manager stack level too deep bug

@@ -1,0 +1,2 @@
+Are exported bags usable by fulfillers?
+Exported Bags include all master files for an object, with both the Figgy ID and the original filename, like this:  [object id]  data  [fileset id]-00000001.tif [fileset id]-00000002.tif      Since the fileset ids are UUIDs, the pages won't be in order.  Is this format be usable by fulfillers for finding large numbers of page images? Could we change the file-naming convention to make it more usable by fulfillers?

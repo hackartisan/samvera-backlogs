@@ -1,0 +1,2 @@
+Add graphql ScannedMapType
+Closes #1773

@@ -1,0 +1,2 @@
+Resolves #1164: Replace unauthorized with options.
+Deployed to staging for you testing convenience.

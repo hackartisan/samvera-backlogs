@@ -1,0 +1,1 @@
+Enhance html <title> rendering for better context & SEO. Closes DDR-759.

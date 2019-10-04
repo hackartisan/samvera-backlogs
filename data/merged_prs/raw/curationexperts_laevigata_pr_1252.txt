@@ -1,0 +1,2 @@
+Cleans up copyrights and patents questions for ETD submission
+The copyrights and patents questions now have responses as long sentences when previewing an ETD instead of truefalsetrue. Also, the approver will now see Yes or No for those questions instead of true or false. This PR is supposed to be against 1.6-stable

@@ -1,0 +1,2 @@
+Create controlled vocab for fileset uses
+Create a controlled vocab for filesets to distinguish their use in a work. Refer to the linked epic for the vocabulary.  Test that terms are available for use.

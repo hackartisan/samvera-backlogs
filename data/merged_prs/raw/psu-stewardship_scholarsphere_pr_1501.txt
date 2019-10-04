@@ -1,0 +1,2 @@
+Rewrite problem feature tests for a more stable travis
+Additionally stubbed out Chracterization for features unless needed for the test

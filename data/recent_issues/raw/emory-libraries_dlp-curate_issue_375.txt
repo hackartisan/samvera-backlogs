@@ -1,0 +1,2 @@
+Create private repo for Curate metadata loads
+Requested by DCE: can we create a private repo in the Emory Libraries organization for managing CSVs and other data files for import? This might be useful for Alma data as well. outcomes:   Created new private repo: https://github.com/emory-libraries/cor-data-transfer  Added various Emory Libraries teams and DCE

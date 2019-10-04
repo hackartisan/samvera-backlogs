@@ -1,0 +1,2 @@
+Add sitemap to improve SEO
+Create a rake task and cronjob to generate a sitemap.xml file for GWSS to improve SEO coverage.

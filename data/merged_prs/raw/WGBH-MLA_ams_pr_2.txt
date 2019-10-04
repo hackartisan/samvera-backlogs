@@ -1,0 +1,2 @@
+Boilerplate Rails
+HOLD OFF! this PR doesn't use the Hyrax rails app template, and I want to try that first. READY!

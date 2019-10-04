@@ -1,0 +1,2 @@
+Enforce scss-lint with Travis
+Runs scss-lint during the niftany travis build stage to fail builds that have improperly linted sass files.

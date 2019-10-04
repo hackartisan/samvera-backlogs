@@ -1,0 +1,2 @@
+Enable allow_embed? for platform_admin
+module Hyrax class FileSetPresenter def allow_embed?   current_ability.platform_admin? end

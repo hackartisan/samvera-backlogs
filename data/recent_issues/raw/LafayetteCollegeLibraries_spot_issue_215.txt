@@ -1,0 +1,2 @@
+change Publication :place to :location
+38bbd1f is a good starting checklist

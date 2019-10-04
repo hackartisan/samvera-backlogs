@@ -1,0 +1,2 @@
+Add Sort by Date Created
+DLTP-1396 : It had been mentioned that there is a need to sort by date items are created.  Added asc and desc sort options to dropdown. Update Update

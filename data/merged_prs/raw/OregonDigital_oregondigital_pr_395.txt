@@ -1,0 +1,2 @@
+Added requested search fields.
+Closes #367

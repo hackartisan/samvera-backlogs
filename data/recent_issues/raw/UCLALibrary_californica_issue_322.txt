@@ -1,0 +1,2 @@
+Management: Change "Named Subject" field to "Names"
+Acceptance Criteria:  In CALIFORNICA The named_subject field is labelled "Names" in:   Facet sidebar  Single-item display    See: UCLALibrary/ursus#117

@@ -1,0 +1,2 @@
+Integrates Google Drive support as a `browse-everything` provider
+Resolves #851

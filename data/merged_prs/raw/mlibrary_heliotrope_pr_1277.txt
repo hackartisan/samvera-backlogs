@@ -1,0 +1,2 @@
+Fixes #1267 HTML validation on main page.
+This doesn't fix all of the issues on the login page as the elements there seem a little more closely tied to CSS styling. But it does fix the <div> breakage.

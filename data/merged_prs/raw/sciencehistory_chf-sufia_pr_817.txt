@@ -1,0 +1,2 @@
+Add crop for new collection dr26xx95r
+refs #814

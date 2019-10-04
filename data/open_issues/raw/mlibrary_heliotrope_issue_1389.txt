@@ -1,0 +1,2 @@
+User test Gabii
+With the Gabii on production, conduct basic user testing with 3-4 users (potentially users from the previous usability tests in Summer 2017). Record pain points and iterate as needed.

@@ -1,0 +1,2 @@
+Conflict fix (#114)
+fixing conflict   fixing bug in rspec, now sorts returned array

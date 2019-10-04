@@ -1,0 +1,2 @@
+Generalize visibility flipper to work with all visibilities
+I decided to give the user the ability to do this in the UI rather than depending on developers to manually run a script. I think if this has already come up a couple weeks after implementing the Public button, it's a use case and will come up again. Also managing visibility seems like functionality a DAM should have. - I added a number of "warnings" about not repeatedly clicking the buttons, including a simple table and display of 5 most recent flips for a collection. cc: @davidschober

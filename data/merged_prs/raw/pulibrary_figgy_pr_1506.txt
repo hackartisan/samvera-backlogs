@@ -1,0 +1,2 @@
+Adds a rake task to reindex without wiping.
+Closes #1481.

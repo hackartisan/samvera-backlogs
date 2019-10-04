@@ -1,0 +1,2 @@
+don't load WebGL for mobile users
+Resolves #1634

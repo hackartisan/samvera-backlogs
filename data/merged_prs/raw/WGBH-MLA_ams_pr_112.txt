@@ -1,0 +1,2 @@
+AMS2-406 Apply layout to asset detail page
+Details:  fixes AMS2-406 fixes AMS2-417 fixes AMS2-222 fixes AMS2-416 fixes AMS2-442 fixes bug in physical instantiation child work when inheriting parent title fixes bug in AssetIndexer fixes css for icon image on detail page fixes rspec tests failed when detail page layout changed adds rspec tests for Hyrax::AssetPresenter

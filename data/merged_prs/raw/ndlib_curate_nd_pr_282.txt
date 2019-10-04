@@ -1,0 +1,2 @@
+Visual improvements to policies listing
+Content and style refinements to the individual policies and the policies listing page.  Trello card

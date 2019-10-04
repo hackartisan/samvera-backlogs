@@ -1,0 +1,2 @@
+Update `Depositors::Summary` to include new class method
+This class method was added, and is now called, in Hyrax 2.0. Since we have imported the whole class, we need to keep its interface up to date with the upstream version. We've done some basic work in #3134 to open the application up to better ways of solving this problem. More will follow. Fixes #1164.

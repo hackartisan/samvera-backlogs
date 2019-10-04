@@ -1,0 +1,3 @@
+Test self-published URIs
+From OD meeting on 11/16: Self-published URIs  Julia and Sarah cleaned up most of it Linda needs to actually run her test
+This is to test for URIs that were generated in Ingest, but may only exist in opaque_ns GitHub, not yet in http://opaquenamespace.org, so labels aren't being fetched. 

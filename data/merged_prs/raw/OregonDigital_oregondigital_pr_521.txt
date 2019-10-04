@@ -1,0 +1,2 @@
+Removed placeholder text in generic viewer template
+Fixes #458

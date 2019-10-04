@@ -1,0 +1,2 @@
+The :pcdm_use for any imported fileset is FileSet::PRIMARY
+Connected to curationexperts/in-house#268

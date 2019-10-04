@@ -1,0 +1,2 @@
+Pagination of the filesets for Work Show Page
+Updates paginate to use the member presenters and to correct the route for the main app. Fixes up the paginate partial to display on screen the paginator. Updates controller to use file_page instead of page because page is being used by something else. Updates spec test to check for 10 files on page 1 and look for a link for the second page.

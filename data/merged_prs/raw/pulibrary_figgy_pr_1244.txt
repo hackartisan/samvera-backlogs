@@ -1,0 +1,2 @@
+Enforce double quotes
+Closes #1230

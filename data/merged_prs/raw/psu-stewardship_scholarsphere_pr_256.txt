@@ -1,0 +1,2 @@
+Change the contact form email, fixes #252
+@cam156 this should take care of it.

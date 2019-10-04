@@ -1,0 +1,2 @@
+Tempfix/downloads
+This is a temporary hack to get assets downloadable on UO ip ranges.  We need a better long-term solution, but we need this in the interim.

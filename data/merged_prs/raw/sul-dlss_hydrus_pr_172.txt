@@ -1,0 +1,1 @@
+Remove the Jenkinsfile, we test on Travis now

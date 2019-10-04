@@ -1,0 +1,2 @@
+Fixes alignment of featured work image.
+Fixes #622  ; Adds css to the application to center featured work image and text.  It looks like the blacklight presenter was changing the display property.  Added a specification for it to be displayed as inline-block.

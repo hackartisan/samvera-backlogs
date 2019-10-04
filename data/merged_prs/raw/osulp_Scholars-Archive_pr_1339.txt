@@ -1,0 +1,2 @@
+fixes worktype labels and a bug in the head tag content
+fixes #1338 fixes #1325 more

@@ -1,0 +1,2 @@
+Partially resolves TinyMCE issue; results in a window where HTML can …
+Results in a window where HTML can be entered, but lacks TinyMCE controls. Ref #21.

@@ -1,0 +1,2 @@
+Added tests related to collections
+Deleted shibboleth tests and added the tests related to collections

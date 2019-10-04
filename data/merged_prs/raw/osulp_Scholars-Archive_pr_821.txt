@@ -1,0 +1,2 @@
+added calendar widget to date collected
+fixes #788 fixes #681 fixes #786 fixes #785

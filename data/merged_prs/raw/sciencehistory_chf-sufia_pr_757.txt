@@ -1,0 +1,2 @@
+Clean lightbox
+fixes #632

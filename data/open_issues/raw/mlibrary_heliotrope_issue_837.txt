@@ -1,0 +1,2 @@
+Set preferred publisher
+As a publisher admin for multiple publishers, I want to set my preferred publisher.

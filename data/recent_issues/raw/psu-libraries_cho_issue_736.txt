@@ -1,0 +1,2 @@
+Validate batch import using agents
+When batch creating works via CSV, verify that non-existent creators are invalidated at the dry-run. This is done when:  I can enter "Jane Smith" in the creator field and have the resource created when Jane Smith exists as an Agent The dry-run reports errors when I give a creator that doesn't exist as an Agent  Child of #87

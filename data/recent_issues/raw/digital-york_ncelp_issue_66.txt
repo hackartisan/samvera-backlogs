@@ -1,0 +1,2 @@
+The incorrect floating window display
+The floating window should only be triggered for 'estimate' link:  However, hovering on the 'Addtional fields' button also triggers it.

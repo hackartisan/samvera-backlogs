@@ -1,0 +1,2 @@
+Mock all the fits
+Description Because the test suite runs reeeeealy slow if you're shelling out to fits all the time, let's just mock it for everything. Including the :with_fits keyword in a test scope will cause it to actually run, which we're only using in one test for now. Fits is always mocked in Travis.

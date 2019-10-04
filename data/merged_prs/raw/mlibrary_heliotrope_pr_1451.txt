@@ -1,0 +1,2 @@
+Fixes #1450 Large file uploads are very slow
+Resolves #1450

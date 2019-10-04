@@ -1,0 +1,1 @@
+Adds OpenSeadragon and the code required to initialize it.

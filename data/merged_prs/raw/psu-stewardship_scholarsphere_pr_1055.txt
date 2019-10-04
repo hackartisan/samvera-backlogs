@@ -1,0 +1,2 @@
+Additional Creator Fields for Adam
+Adds ORCID ID and email, surrounds inputs with fieldset, makes adjustments to spacing. Fixes spec test to correct the xpath for the remove button. I added a fieldset so I needed to update the path. Updates mustache template to include ORCID ID, email, and fieldset.

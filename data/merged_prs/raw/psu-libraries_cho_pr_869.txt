@@ -1,0 +1,2 @@
+allowing work type to have any case
+Description This was requested to make the import process more foolproof. Connected to #656 Changes  allow work_type to be case insensitive

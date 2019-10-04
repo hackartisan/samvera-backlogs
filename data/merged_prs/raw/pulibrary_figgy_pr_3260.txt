@@ -1,0 +1,2 @@
+Accept image files with capitalized JPG extention in bags
+fixes #3243

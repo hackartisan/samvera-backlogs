@@ -1,0 +1,2 @@
+Change LAE Visibility Algorithm
+Closes #712.

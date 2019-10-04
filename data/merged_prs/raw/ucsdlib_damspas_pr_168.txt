@@ -1,0 +1,2 @@
+Remove the Collections dt tag when there are no subcollections presented. DHH-779
+https://lib-jira.ucsd.edu:8443/browse/DHH-779

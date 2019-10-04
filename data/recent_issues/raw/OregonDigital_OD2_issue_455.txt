@@ -1,0 +1,2 @@
+Email that aggregates a list of works under a workflow step and emails those who are a part of that step
+Descriptive summary The email needs to be able to build a list of works that need review, complete with links, that sets all the people who are a part of that as the "to" part of the email.

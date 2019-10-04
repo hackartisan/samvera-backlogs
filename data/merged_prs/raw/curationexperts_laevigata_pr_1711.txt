@@ -1,0 +1,2 @@
+enable files to be displayed on review tab
+This commit fixes a minor bug that prevented the primary file from being displayed on the review tab unless there were also supplemental files being submitted. Fixes #1706.

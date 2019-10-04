@@ -1,0 +1,2 @@
+Change BagUI init to be triggered by Turbolinks load
+This change the event that initializes the BagUI features from page load to turbolinks:load so that it will stay init'ed across Turbolinks page loads. Connected to #254

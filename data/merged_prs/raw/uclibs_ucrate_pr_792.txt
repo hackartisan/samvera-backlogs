@@ -1,0 +1,2 @@
+Resolve blacklight deprecation
+Fixes #790 Change presenter call in hyrax view override to resolve deprecation. See samvera/hyrax@4a476aa#diff-285a3869d4bd4ee55bf6502e28336ece

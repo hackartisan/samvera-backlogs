@@ -1,0 +1,2 @@
+UV shouldn't zoom in as far when jumping to a search result.
+Requested by @tventimi

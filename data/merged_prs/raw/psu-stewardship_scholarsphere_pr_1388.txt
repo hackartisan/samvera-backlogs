@@ -1,0 +1,2 @@
+Write external files efficiently
+This commit changes the way that files are written to the external files repo folder so that the writes happen line by line instead of loading the entire file into memory.

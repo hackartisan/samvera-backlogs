@@ -1,0 +1,2 @@
+Move any remaining values in Full Text property elsewhere, remove predicate from OD1
+The Full Text property was only ever present on a handful of items. Move values elsewhere and then delete predicate from OD1 (incl. ingest form).   move values: 4 in oregon-explorer  (5 in african-ephemera completed 10/26)  double check for any remaining values  remove predicate from OD1 system and ingest form  More details in OD2 MAP. This is not the same as OCR-generated full text.

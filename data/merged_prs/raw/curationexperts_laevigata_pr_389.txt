@@ -1,0 +1,2 @@
+Remove logic from _abstract metadata view
+This logic now lives in the presenter, where it can be tested.

@@ -1,0 +1,2 @@
+add share widget button to heliotrope e-reader
+Resolves CSB#43 Adds a share widget button that shares title and citable link to social sites.  Clicking the share button activates a (bootstrap) dropdown menu with a list of social sites.  Clicking a social site opens that site in a new window with title and citable link pre-populated.  Is using the same share sites we use for assets.

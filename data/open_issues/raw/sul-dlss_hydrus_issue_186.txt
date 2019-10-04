@@ -1,0 +1,3 @@
+[Shibboleth] Logout button doesn't work
+Make it work like it does in Searchworks.
+@jcoyne I'm going to do a quick test with:  https://github.com/sul-dlss/SearchWorks/blob/master/app/controllers/application_controller.rb#L19

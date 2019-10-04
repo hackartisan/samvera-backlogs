@@ -1,0 +1,2 @@
+Resolve IndexPresenter#field_value deprecation warning
+ISSUE The application is logging an excessive number of deprecations warnings into the apache error log and swamping our log indexing service. App 24375 stderr: DEPRECATION WARNING: You provided a String value to IndexPresenter#field_value Provide a Blacklight::Configuration::Field instead. This behavior is deprecated in Blacklight 7.   ACCEPTACE   etd.library.emory.edu ceases to log this error to /var/log/apache2/error.log

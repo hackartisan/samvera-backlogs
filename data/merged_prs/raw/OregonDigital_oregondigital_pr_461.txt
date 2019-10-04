@@ -1,0 +1,1 @@
+Added a faster RDF search for MongoDB.

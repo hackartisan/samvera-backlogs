@@ -1,0 +1,2 @@
+Add instructions to email address field
+This adds help text to the post-graduation email input that's styled in a well and looks like other info/help sections in the form. It also fixes some parts of the form that may have loaded without 'Please Select a Department' or other disabled options selected. Connected to #1937 Connected to #1936

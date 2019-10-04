@@ -1,0 +1,2 @@
+Allow rdc_managers role to see Batch in Admin Dashboard
+Fixes nulib/next-generation-repository#733  Allow users with 'rdc_managers' role to view Batches in Admin Dashboard Remove DEPRECATION WARNING: Using a dynamic :action segment in a route is deprecated and will be removed in Rails 5.2.

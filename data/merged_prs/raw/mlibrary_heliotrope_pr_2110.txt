@@ -1,0 +1,2 @@
+Resolves HELIO-2198: Refactor API to use checkpoint
+Hybrid API for transition phase between legacy and checkpoint authorization. Products, Components, Individuals, Institutions and implicit permission:read Grants. (see https://github.com/mlibrary/turnsole/blob/checkpoint/lib/turnsole/heliotrope/service.rb for example usage) NOTE: Lessees are depreciated and no longer supported at the API level but are implicit in Individuals and Institutions.

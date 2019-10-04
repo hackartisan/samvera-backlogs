@@ -1,0 +1,2 @@
+add a feedback panel to collect user feedback
+Resolves #1337 Adds a widget panel that includes a link to a Google Form. Form opens in a new window. In the future we may want something that does not take the user away from the application.

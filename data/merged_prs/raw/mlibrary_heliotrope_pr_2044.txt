@@ -1,0 +1,2 @@
+https handle service
+Changed http to https for handles and doi urls.

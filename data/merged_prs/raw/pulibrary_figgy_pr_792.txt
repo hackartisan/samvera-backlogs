@@ -1,0 +1,2 @@
+Add more tika file characterization attributes
+Closes #786

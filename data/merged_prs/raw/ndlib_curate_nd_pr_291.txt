@@ -1,0 +1,2 @@
+Show a default thumbnail if you cannot read the file
+This fix is for the common objects viewer. The same problem had previously been fixed for the curation concern show views.

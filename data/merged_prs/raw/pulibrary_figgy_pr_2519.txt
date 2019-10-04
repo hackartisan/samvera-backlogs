@@ -1,0 +1,2 @@
+Add part_of to recording change set
+closes #2428

@@ -1,0 +1,2 @@
+use different favicons for different environments
+helpful in differentiating which environment we're using from the browser tab  pink: dev yellow: stage blue: production

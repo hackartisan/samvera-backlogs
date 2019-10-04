@@ -1,0 +1,2 @@
+Fix bug with batch ingest with formats selected
+Closes #1114 Our code was wrapping an extra array where it shouldn't have, not sure why, something lost in translation of copying and customizing sufia code. In testing period, nobody tested batch upload of local files with 'formats' selected, which is the only time it would occur.

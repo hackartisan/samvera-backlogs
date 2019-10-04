@@ -1,0 +1,2 @@
+Show embargo logo for hidden derivatives
+When a work is embargoed, the derivative is hidden in the search results and preview screens. Instead of making it a generic image, make it an "embargo" logo, the same as is on the show screen

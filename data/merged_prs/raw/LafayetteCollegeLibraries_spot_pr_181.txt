@@ -1,0 +1,2 @@
+Add CAS authentication
+wip for now until we hear back from the auth folks, but this gets CAS authentication set-up for users (🎉). when in development, providing an email address for the environment variable DEV_USER will start the server with that user logged in.   install devise_cas_authenticatable  remove (some of) hyrax user attributes  confirm working w/ lafayette cas system  note you're gonna want to squash + merge this because i kinda hecked up the migration 😅 closes #1

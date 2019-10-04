@@ -1,0 +1,2 @@
+updated labels and hints text for simple form
+fixes #949 updated simple form values for labels and hints to match the correct values as specified in MAP removed unnecessary/redundant text

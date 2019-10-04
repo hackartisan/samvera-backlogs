@@ -1,0 +1,2 @@
+Moves Collection Creator Field(s) Above Additional Metadata
+Moves the creator field up in the new/edit form and rearranges the metadata on the collection show page to match work show page. Updates spec test to reflect position change of creator field. Fixes #1127 and #1016

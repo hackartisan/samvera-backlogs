@@ -1,0 +1,2 @@
+Checks to see if Asset exists before ingesting
+If the Asset being ingested is already in Fedora, then it will raise an exception that will be caught in the BatchItemProcessingJob's rescue_from block, where the error msg it saved on the BatchItem instance. Also,  Creates a custom error class for AAPB::BatchIngest::RecordExists. Adds a spec for ApplicationHelper#display_date, which failed to get added a while ago for reasons unknown.  Closes #333.

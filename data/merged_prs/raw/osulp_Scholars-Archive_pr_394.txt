@@ -1,0 +1,2 @@
+Feature/date dropdown and property
+Fixes #369 Fixes #370 This adds in the functionality of the date dropdown and the dynamic dates. The dates show up on the show page for the item. A user can edit and re-save and it updates the information.

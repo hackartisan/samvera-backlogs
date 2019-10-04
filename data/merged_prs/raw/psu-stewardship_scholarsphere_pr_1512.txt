@@ -1,0 +1,2 @@
+Upgrading to run on rails 5
+Changed the Rails version Ran Bundle update Made tests pass by  Migrations all needed a version Parameters needed to be permitted capybara output changed slightly  Ran Rubocop -a

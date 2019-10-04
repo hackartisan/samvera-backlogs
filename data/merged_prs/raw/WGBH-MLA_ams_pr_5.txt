@@ -1,0 +1,2 @@
+Adds more required set up
+Adds default admin set by running task hyrax:default_admin_set:create. Adds work type of 'Work'.

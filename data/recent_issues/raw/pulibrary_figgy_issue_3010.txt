@@ -1,0 +1,2 @@
+Implement full-width layout for resource show page
+Here's the wireframe that users voted for: https://docs.google.com/drawings/d/1kSuIKZKDP8lo6-6KdBsIAHEOYKdLbuHTbrMSVbb3NPw/edit

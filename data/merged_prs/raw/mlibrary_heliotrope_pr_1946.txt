@@ -1,0 +1,2 @@
+Resolves HELIO-2031 - swap out webfonts to use google instead of typekit
+Puts an @include into themes.scss, allowing webfonts to be served over Google Fonts. Once in production will require the removal of the Typekit ID from HEB's publisher configuration (in dashboard). Currently this is deployed to staging if you'd like to take a look.

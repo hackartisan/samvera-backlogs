@@ -1,0 +1,2 @@
+Update site title from 'Hyrax' to 'Oregon Digital (Development)'
+Descriptive summary Update site title from 'Hyrax' to 'Oregon Digital (Development)' so it's clearer to folks what the site is during development. (Information compiled by POSM group from updated wireframes) Expected behavior 'Hyrax' should not be the site title anywhere, 'Oregon Digital (Development)' should be.

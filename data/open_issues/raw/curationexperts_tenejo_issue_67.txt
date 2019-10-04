@@ -1,0 +1,2 @@
+SPIKE: Upload really big files to Tenejo
+STORY As a Tenejo customer I have some really big files I'd like to be able to add to my repository so that I can make them available to researcher. ACCEPTANCE   There is a mechanism for me to upload really big files and add them to works in my repository.   We know the upper limit of what size file can be uploaded via the webpage. Files larger than that will have to go through SFTP.  Child of #37

@@ -1,0 +1,2 @@
+Create environments diagram for Lux application for ART review
+For the ART review we will submit application architecture information for both Curate and Lux, and reference the third application which is not yet being built (Self Deposit). We need diagrams for the Lux application environments.   Lux application is diagrammed equivalent to what was produced for Curate  Lux application base domain name is digital.library.emory.edu  Diagram is linked/posted to Box for the Scrum team

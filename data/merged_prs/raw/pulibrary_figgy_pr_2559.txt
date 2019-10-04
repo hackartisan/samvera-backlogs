@@ -1,0 +1,2 @@
+Ensure div exists before filling it with moar html
+fixes #2558

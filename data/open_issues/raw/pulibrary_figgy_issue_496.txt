@@ -1,0 +1,6 @@
+Download and ingest Google Books books
+
+Roughly 300k of Princeton's public domain books were scanned by Google and we can download them from Google Books. There's not much of an API for that, but we can probably script the conversion and download process, and then it would be pretty easy to load them into Figgy.
+Lower priority than PUDL or Millberg ingest.
+Why not download them from the source (Voyager)?
+@mzelesky This is downloading the page images, not the metadata — so we need to get them from Google.

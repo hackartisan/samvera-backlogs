@@ -1,0 +1,2 @@
+Update bixby
+This will eliminate some annoying rubocop errors.

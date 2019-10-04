@@ -1,0 +1,2 @@
+Update/cozy sun bear
+Resolves #1065 Point to latest release of CSB; configure epub js engine to v3; modify show page to use fullscreen toggle

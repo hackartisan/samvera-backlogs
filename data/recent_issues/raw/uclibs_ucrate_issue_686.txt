@@ -1,0 +1,2 @@
+Finish large file ingest of Charles Woodman videos
+Moved from uclibs/scholar_uc_legacy#1238 Descriptive summary Notified Charles of FREEZE on large file ingestion. We ingested 32/56 of the videos so far. The videos are stored on Isilon in the meantime

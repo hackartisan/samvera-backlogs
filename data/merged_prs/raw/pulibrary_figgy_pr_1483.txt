@@ -1,0 +1,2 @@
+Remove references to plum in the code base
+Remove (almost) all references to plum in the code base. Closes #1251 Closes #1254  Deploy changes in pulibrary/princeton_ansible#289 once merged.

@@ -1,0 +1,2 @@
+On the ETD edit form, separate the display names on the tabs from the tab label.
+This solves a problem where changing the text that is displayed on the tab would break the tab validation code because the label is used as an identifier as well as a display name. Connected to #1749

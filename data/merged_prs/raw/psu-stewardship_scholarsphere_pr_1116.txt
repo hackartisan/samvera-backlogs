@@ -1,0 +1,2 @@
+Checking for admin set since collections do not support admin sets
+refs #1115

@@ -1,0 +1,3 @@
+ssl for the data servers
+
+We should think about this issue sometime soon. SSL for [Solr](https://lucene.apache.org/solr/guide/6_6/enabling-ssl.html) and [Fedora](https://wiki.duraspace.org/display/FEDORA38/Installation+and+Configuration#InstallationandConfiguration-CustomInstall). 

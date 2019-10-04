@@ -1,0 +1,2 @@
+Resolves #487: Changed display: inline to display: inline-flex.
+And added style to separate keywords by commas.

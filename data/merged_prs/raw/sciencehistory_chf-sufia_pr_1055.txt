@@ -1,0 +1,2 @@
+update devise to a version that works under ruby 2.5.1
+plataformatec/devise#4719 After this update, all our tests pass on ruby 2.5.1. Ref #806

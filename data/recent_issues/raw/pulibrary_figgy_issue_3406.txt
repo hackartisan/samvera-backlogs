@@ -1,0 +1,2 @@
+Split up EAL Item
+https://figgy.princeton.edu/catalog/ea7330e0-bbdc-4a49-9c7e-9b201d75428d needs to be split into three ScannedResources. Requested by Tom Ventimiglia:  Vols. 1-10 correspond to https://catalog.princeton.edu/catalog/3905784 Vols. 11-12 to https://catalog.princeton.edu/catalog/3905850 new messages Vols. 13-16 to https://catalog.princeton.edu/catalog/3891552

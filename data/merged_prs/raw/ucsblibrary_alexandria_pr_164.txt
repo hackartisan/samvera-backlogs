@@ -1,0 +1,2 @@
+ETDs: create local authorities for contributors
+Closes DIGREPO-870

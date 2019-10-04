@@ -1,0 +1,2 @@
+Use URL for catalog record in GeoBalcklight references field
+Use a link to a resource's catalog record instead of a link to Figgy in a geo resource's GeoBlacklight references. Closes #1420

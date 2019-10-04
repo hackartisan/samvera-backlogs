@@ -1,0 +1,2 @@
+Preserve markup newlines 352
+I'm not 100% sure we even need to be removing p tags like this. Jon's styles seem to handle any mess or extra space with the extra  tags right now except in headings. Would it be better to handle those with styling?

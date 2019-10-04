@@ -1,0 +1,2 @@
+Reorganize Models
+Wondering if it would make our lives any easier if all the models/change_sets/decorators/wayfinder/controllers for a resource were in the same directory. Looks like this:

@@ -1,0 +1,2 @@
+Creator CV typeahead uses info:lc URIs
+The Creator CV typeahead returns results but uses info:lc URIs like info:lc/authorities/names/n79144786 and we want the id.loc.gov ones The Subject CV using LCSH uses id.loc.gov URIs, there's an additional method override that directs that.

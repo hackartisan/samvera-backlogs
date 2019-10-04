@@ -1,0 +1,2 @@
+Added isPartOf field as search field for Advanced Search.
+Fixes #1058

@@ -1,0 +1,2 @@
+Changes the predicate for Data Collection Dates to avoid a conflict.
+Moves to a dummy predicate, http://metadata.emory.edu/vocab/cor-terms#dataCollectionDates

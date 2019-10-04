@@ -1,0 +1,2 @@
+Fix CSB in IE11
+Resolves #1759 remove backticks in epub show page for IE11 compatibility; modify share widget style to fix button height display in IE11

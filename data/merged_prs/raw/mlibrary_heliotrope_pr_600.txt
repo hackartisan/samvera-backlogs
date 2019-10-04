@@ -1,0 +1,2 @@
+enable a press to have customized text displayed in the footer
+Resolves #594 adds new fields to the presses database to input customized text (supports markdown) that is rendered in the footer if defined; abstracts out the footer into separate content blocks and renames css styles to reflect that renaming; adds presses database fields to press helper to make accessing these values easier in partials; will need to run bundle exec rake db:migrate and bundle exec rake db:seed to see changes in local and deployed instances.

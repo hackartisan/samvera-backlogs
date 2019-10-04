@@ -1,0 +1,2 @@
+Removes coverage from scanned map edit page
+Coverage should come from Voyager metadata. Closes #1090

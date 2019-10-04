@@ -1,0 +1,2 @@
+#481 Indicate that the administrative unit facet listing control is clickable
+Claiming issue 481 @7267be9f3cc921c8140eeb13c51c6d6b5cf24ccd relates to #481 $ ./script/start-issue 481 [skip ci] Adding filter icon to hierarchical facet @7e3b7114da616a49f3f1757152bda7055334c169 Icon from IcoMoon Free. I couldn't get the use declaration to work so I used an inline svg. [skip ci] Closing issue 481 @1da808be2dc7f1602299feb0327ab85d4880bf8d Closes #481 $ ./script/close-issue 481

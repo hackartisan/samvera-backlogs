@@ -1,0 +1,2 @@
+Expire leases and embargoes, fixes #1051
+Leases and embargoes and not automatically expired when their dates are reached. ExpirationService expires both leases and embargoes on a given work that are past a given date, by default the date is today. The visibility of the work and any contained file sets are changed accordingly. An included rake task with run the service, as well as set a cron job that runs this task every morning.

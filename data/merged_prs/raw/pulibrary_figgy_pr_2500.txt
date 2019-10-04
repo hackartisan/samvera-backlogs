@@ -1,0 +1,2 @@
+Allow discovering recordings by track titles and imported metadata
+Fixes #2418

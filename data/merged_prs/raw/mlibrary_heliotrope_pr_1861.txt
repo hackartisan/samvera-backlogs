@@ -1,0 +1,2 @@
+Resolves HELIO-1880 Purge unused metadata fields
+Removed references to: book_needs_handles use_crossref_xml Except for model properties which will be remove via HELIO-1896 Purge metadata from fulcrum.org Fedora instance.

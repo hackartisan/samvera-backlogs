@@ -1,0 +1,2 @@
+Adding creator as a core field
+The specs needed to change in many places because the core field contents are checked in many places

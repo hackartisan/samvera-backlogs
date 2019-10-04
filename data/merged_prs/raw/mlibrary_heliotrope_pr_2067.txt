@@ -1,0 +1,1 @@
+Resolves HELIO-2253: Create Individuals Table

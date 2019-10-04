@@ -1,0 +1,2 @@
+Replace CreatePyramidTiffJob implementation with lambda invocation
+There's no way to test this locally at this point, but it would be great if this got a serious once-over from @mbklein and @kdid before we deploy anything to staging.

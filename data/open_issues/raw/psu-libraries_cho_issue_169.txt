@@ -1,0 +1,2 @@
+Set Custom Thumbnail
+As a repository manager, I would like to change the generated thumbnail to one of my own choosing, So that I can set a relevant thumbnail if the generated one is not germane.

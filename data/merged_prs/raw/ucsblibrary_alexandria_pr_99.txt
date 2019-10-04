@@ -1,0 +1,2 @@
+Parse::CSV: fix typed field parsing alongside rdf hashes
+The use of special RDF hashes as of 4a477bc broke our janky CSV parser for multi-value fields. Soon this should be rewritten with a generalized metadata model parser, so I'm comfortable with this quick fix.

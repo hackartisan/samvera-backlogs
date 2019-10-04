@@ -1,0 +1,2 @@
+Generate correct type of random content
+Description When generating files for benchmarking works, the content was always binary regardless of what kind of file was created. In cases when the file is a text-type of file, we need to use text content. This generates the same amount of random data per file, but uses text if the file is a text mime-type; otherwise, it's random bytes. Fixes #765

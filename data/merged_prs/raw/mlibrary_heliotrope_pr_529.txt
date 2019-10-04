@@ -1,0 +1,2 @@
+add view, importer changes for external resources
+resolves #220

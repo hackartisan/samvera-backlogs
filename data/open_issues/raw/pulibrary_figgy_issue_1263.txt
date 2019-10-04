@@ -1,0 +1,2 @@
+Don't allow 'staff' role to crud on Roles
+Here are some specs I deleted from another role: is_expected.not_to be_able_to(:create, Role.new) is_expected.not_to be_able_to(:destroy, role)

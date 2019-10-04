@@ -1,0 +1,1 @@
+Add new migrations for Sufia update.

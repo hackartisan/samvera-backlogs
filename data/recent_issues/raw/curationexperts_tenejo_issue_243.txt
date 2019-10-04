@@ -1,0 +1,2 @@
+Add and remove admin role from UI
+There should be a link to the roles management page  As an admin user I should be able to add and remove admin status from other users via the UI

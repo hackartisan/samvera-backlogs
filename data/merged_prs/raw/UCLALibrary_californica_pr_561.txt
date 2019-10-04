@@ -1,0 +1,2 @@
+Fix clean tasks
+Connected to #528 items aren't getting deleted by ark - perhaps using "local identifier" will work?

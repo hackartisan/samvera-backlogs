@@ -1,0 +1,2 @@
+Remove GeoResources namespace
+Closes #990

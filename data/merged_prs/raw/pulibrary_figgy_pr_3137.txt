@@ -1,0 +1,2 @@
+Restructures Archival Media Collections as ChangeSets
+Resolves #3078

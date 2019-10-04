@@ -1,0 +1,2 @@
+Monograms need more info in the label
+Many of the monograms have the same description / title. We should probably add file name and monogram number. Also add these same columns to the index page so it's easier to sort.

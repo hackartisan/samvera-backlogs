@@ -1,0 +1,2 @@
+Adding documentation to our resources.
+Comments explain which persisters are used for a resource, such as whether or not it is index in Solr or not. Fixes: #402

@@ -1,0 +1,2 @@
+add Capistrano tasks for deploying to production
+split out from #8 to account for different sprints (we're probably going to want to deploy to staging well before we want to deploy to production, and the former could inform the latter)

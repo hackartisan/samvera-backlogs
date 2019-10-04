@@ -1,0 +1,2 @@
+Add Committee Member selection to the new form
+This committee adds the ability to add multiple committee chairs and committee members to the form.

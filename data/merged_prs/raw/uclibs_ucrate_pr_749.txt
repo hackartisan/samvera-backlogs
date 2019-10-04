@@ -1,0 +1,2 @@
+Update vulnerable gems
+Fixes #734 Updates the rails gem, and both Orcid and Devise branches to use the updated version of rails. This should fix all of our current security issues.

@@ -1,0 +1,2 @@
+Memoized member objects could go stale 
+Currently we're doing things like: @files ||= member_ids.map { |id| Work::File.find(id) } @file_sets ||= file_set_ids.map { |id| Work::FileSet.find(id) } Which could create situations where the members change due to an update, but the object is still holding on to the old values. We might want to explore options for refreshing the memoized values when their ids change.

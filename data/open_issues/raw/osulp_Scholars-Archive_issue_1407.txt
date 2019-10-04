@@ -1,0 +1,2 @@
+Look into additional stemming in Solr, especially for names
+Searching for a name doesn't match alternate forms ('steve' vs. 'steven', 'tom' vs. 'thomas'). This can be partially done using fuzzy search ('steve~) but needs to be known by the searcher, and may not work in all cases. Look into additional name stemming that would expand the index. Starting points: http://thinknook.com/keyword-stemming-and-lemmatisation-with-apache-solr-2013-08-02/ https://wiki.apache.org/solr/LanguageAnalysis https://opensourceconnections.com/blog/2013/08/21/name-search-in-solr/

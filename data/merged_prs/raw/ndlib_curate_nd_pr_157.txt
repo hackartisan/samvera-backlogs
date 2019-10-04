@@ -1,0 +1,2 @@
+Calculating default for date_created
+Prior to this change, the :date_created attribute's default was the day that the application was last deployed. By using a lambda, the default for the :date_created will be calculated on initialization. See https://github.com/projecthydra-labs/active_fedora-registered_attributes/blob/39565686e1ce6235b19ec6a1f0ab949da4ac566e/lib/active_fedora/registered_attributes/attribute.rb#L106-L113 Related to DLTP-267

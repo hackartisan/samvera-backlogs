@@ -1,0 +1,4 @@
+View 3D items
+As a user I would like to view 3D items
+Great example of 3D viewer here. There are a lot of variables though, there isn't really a standard yet for 3d scans. https://sketchfab.com/models/f0c76e17c0724b8b8e7f8dbf3b31cd26
+The universal viewer supports this, but probably with specific formats. This is an example using gltf:  http://universalviewer.io/examples/#?c=&m=&s=&cv=&manifest=https%3A%2F%2Fedsilv.github.io%2Fiiif-3d-manifests%2Fcollection%2Fgltf%2Fwoody%2Findex.json

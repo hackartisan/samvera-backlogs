@@ -1,0 +1,2 @@
+resource-type-based icons for external resources
+Resolves #892

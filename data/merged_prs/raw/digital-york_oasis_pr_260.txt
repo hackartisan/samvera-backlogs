@@ -1,0 +1,2 @@
+add a simple rake task to find summaries with multiple research_area_…
+This script can be extended to do more generic data checkings.

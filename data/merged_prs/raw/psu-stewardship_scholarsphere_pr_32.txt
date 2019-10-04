@@ -1,0 +1,2 @@
+Tweaks to button layout and reducing to one color theme, refs #9421
+Created SCSS partials for ScholarSphere theme and tweaked a bit of HTML for smaller screen sizes.

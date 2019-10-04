@@ -1,0 +1,2 @@
+Test Actor stack embargo behavior
+We are going to undertake a refactor of the actor stack embargo behavior, so we want an integration test capturing the current behavior at the stack level. The plan is to recompose so we can use more of Hyrax's code, thereby getting the appropriate FileSet embargo more easily. Connected to #430.

@@ -1,0 +1,2 @@
+modify nup press description to emphasize fulcrum is not nup's main website
+Closes #424

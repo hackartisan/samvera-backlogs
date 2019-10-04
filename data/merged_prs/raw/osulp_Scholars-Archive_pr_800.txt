@@ -1,0 +1,2 @@
+Fixes Default admin set issue and hidden form elements
+Fixes #797 Fixes #798 Fixes #799

@@ -1,0 +1,2 @@
+Fixed the generic component title issue with the list of dynamic component IDs  instead of the static sequence. (DHH-389)
+See https://lib-jira.ucsd.edu:8443/browse/DHH-389

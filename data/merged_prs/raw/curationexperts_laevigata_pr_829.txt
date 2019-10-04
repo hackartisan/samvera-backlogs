@@ -1,0 +1,2 @@
+This PR includes many commits for epic story #638, which allows a student to edit an existing ETD record
+This PR includes many commits for epic story #638, which allows a student to edit an existing ETD record:  Fill in all fields on the edit form with existing data. Form validation that takes existing data into account. Removed dead code that was for (unfinished) partial save feature. Fixed some errors that prevented form submission. Removed the 'Show/Hide Required Metadata' link to simplify the UI.

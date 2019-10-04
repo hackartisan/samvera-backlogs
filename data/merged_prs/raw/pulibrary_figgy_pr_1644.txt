@@ -1,0 +1,2 @@
+Default to json and allow all characters to save_and_ingest
+fixes #1451

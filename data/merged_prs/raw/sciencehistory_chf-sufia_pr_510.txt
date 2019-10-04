@@ -1,0 +1,1 @@
+Restrict user list / profile view to logged-in users only, fixes #165

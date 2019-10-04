@@ -1,0 +1,2 @@
+add type / purpose of resource
+resolves #123

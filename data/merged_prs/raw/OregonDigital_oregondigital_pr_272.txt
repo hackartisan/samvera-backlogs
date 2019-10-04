@@ -1,0 +1,2 @@
+Fix subjects showing up when all values are blank
+closes #271

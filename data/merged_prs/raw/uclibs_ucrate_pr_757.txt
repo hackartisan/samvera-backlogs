@@ -1,0 +1,2 @@
+Add link to parent work when viewing child works.
+Fixes #710 Present short summary (50 characters or less)  Add link to parent when viewing child work Add link to parent record Add return to parent record button on child work Create parent query service and test for service.

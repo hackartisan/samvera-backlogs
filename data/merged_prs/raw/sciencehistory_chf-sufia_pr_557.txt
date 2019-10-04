@@ -1,0 +1,2 @@
+Add new navbar and reorganize navigation elements, refs #552
+Still more to do on the navbar, but this is in a mergeable state as we continue making progress.

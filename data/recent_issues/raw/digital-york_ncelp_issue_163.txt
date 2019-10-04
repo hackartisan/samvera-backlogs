@@ -1,0 +1,2 @@
+Collection Edit form bug
+When access collection edit form, the following error message is issued: Showing /home/frank/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/hyrax-2.5.0/app/views/hyrax/dashboard/collections/_form.html.erb where line #39 raised: undefined method `thumbnail_title' for #Hyrax::Forms::CollectionForm:0x0000559e1c46fd60 Did you mean?  thumbnail_id

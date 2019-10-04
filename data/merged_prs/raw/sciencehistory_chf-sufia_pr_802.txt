@@ -1,0 +1,1 @@
+Remove imls logo from about page, fixes #764

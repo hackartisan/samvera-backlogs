@@ -1,0 +1,2 @@
+filter academic units options to display only open units
+fixes #985

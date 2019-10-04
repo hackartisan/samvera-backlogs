@@ -1,0 +1,2 @@
+Use ansible playbook for read-only mode
+Document ansible read-only mode playbook in README Remove readonly tasks from cap closes #2872

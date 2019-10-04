@@ -1,0 +1,2 @@
+Update to most recent release of Hyrax
+We didn't have any overwrites so the update was pretty simple. Fixes #26

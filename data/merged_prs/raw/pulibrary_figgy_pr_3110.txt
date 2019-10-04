@@ -1,0 +1,2 @@
+Significantly speed up deep children query.
+This runs about 4x faster on staging.

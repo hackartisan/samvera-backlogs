@@ -1,0 +1,2 @@
+add date uploaded to work show page
+Fixes #683 Adds date uploaded to the work show page

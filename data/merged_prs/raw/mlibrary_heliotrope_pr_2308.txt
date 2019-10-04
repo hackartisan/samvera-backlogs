@@ -1,0 +1,2 @@
+HELIO-2473, HELIO-2474 search box changes
+Change search box in navigation bar to search Publisher's works (not within the monograph) Add FileSet Search to Resource Tab and change FileSet labels to use Resources

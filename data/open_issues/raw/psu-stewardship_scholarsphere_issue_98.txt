@@ -1,0 +1,3 @@
+Submit Cloud providers with no files selected
+When I click on Submit files And I click the cloud provider tab And I click depositor agreement And I submit selected files I should not get a weird error  (really I should not be able to submit until I have selected some files)
+I marked this low as it is already in production 

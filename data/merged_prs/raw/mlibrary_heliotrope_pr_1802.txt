@@ -1,0 +1,2 @@
+Update Fulcrum homepage
+Resolves #1756 Adds Fulcrum partner logos to the homepage; retains three case studies; adjusts copyright year in footer.

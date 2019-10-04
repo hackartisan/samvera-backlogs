@@ -1,0 +1,2 @@
+Feature/index degree info and display
+Should fix the issue with degree fields not showing

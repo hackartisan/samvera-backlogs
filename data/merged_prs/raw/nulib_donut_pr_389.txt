@@ -1,0 +1,2 @@
+CommonIndexers::Image#representative_file refactor
+CommonIndexers::Image#representative_file can handle arbitrarily nested representative works. Fixes nulib/next-generation-repository#779 Co-authored-by: Karen Didrickson karendid@gmail.com

@@ -1,0 +1,2 @@
+update cas attributes
+sn => surname mail => email adds callback to ensure a username is present (used when we're creating a user server-side that may need to sign in later)

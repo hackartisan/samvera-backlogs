@@ -1,0 +1,2 @@
+Issue 68 incorrect fields search result page
+fixed #68

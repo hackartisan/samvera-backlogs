@@ -1,0 +1,2 @@
+notification page times out (?)
+when a user has a large number of notifications (i've noticed with 400+ notifications on many occasions), the notification page will time out before it can load.

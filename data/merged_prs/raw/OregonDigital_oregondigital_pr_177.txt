@@ -1,0 +1,2 @@
+adding a bag ingest rake task
+This is a pretty simple bag ingest task that is doing the trick for me locally. It assumes the bags will all share a model class and collection (by pid), which are passed in as arguments. If the collection doesn't exist, it will create it and leave you to add a title and description (+ whatever else we decide goes into collection creation).

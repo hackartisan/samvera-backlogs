@@ -1,0 +1,2 @@
+1.14.0-datacite-and-json-format
+Switch from EZID to Datacite(already on the production server) JSON formatted Collections and GenericFiles

@@ -1,0 +1,2 @@
+Address critical security vuln CVE-2019-5418
+More information available at https://groups.google.com/forum/#!topic/rubyonrails-security/pFRKI96Sm8Q

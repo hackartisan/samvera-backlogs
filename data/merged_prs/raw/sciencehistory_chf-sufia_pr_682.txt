@@ -1,0 +1,2 @@
+Resque should only restart on a bg jobs machine
+This keeps the riif box from trying to run the resque-pool init script.

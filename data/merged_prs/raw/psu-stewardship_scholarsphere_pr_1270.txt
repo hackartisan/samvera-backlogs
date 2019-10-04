@@ -1,0 +1,2 @@
+Test for UTF-8 conversion in actor
+Includes refactoring the README encoding conversion into EncodingService which uses the same features and error reporting for both encoding in forms (via the actor) and in the README (via Solr indexing).

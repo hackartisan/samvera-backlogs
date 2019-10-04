@@ -1,0 +1,1 @@
+enable renderer's hard_wrap

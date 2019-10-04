@@ -1,0 +1,2 @@
+Use 403 (forbidden) for non-admin users
+Description Returns the appropriate error response for non-admin users who are authenticated, but do not have access. Fixes: #350 Changes Are there any major changes in this PR that will change the release process? No Checklist   i18n enabled  adequate test coverage  accessible interface

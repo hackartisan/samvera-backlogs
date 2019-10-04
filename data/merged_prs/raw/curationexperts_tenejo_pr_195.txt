@@ -1,0 +1,2 @@
+It should be valid to have multiple values for resource type
+Connected to #181 I split the values by the delimiter before checking for valid values.

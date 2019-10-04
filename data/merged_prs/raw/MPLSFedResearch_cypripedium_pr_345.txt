@@ -1,0 +1,2 @@
+Upgrade to ruby and gems
+Upgrade expected ruby version to 2.6.3 Upgrade travis CI to test against that version Run bundle update to catch latest gem versions  Connected to curationexperts/in-house#276

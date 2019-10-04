@@ -1,0 +1,1 @@
+Unpublish the coin from OL when user toggles the state from 'complete' -> 'draft'.

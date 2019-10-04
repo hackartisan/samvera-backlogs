@@ -1,0 +1,7 @@
+Add iiif link to manifests
+I should be able to get the IIIF manifest from /catalog/id/manifest (redirect?) Guessing the model for the URL is annoying. Add a iiif link to the manifest. Use https://zimeon.github.io/iiif-dragndrop/
+It seems wrong to mess with the routes just because we as developers want to be able to get to the manifest. Needs more discussion. Back to Backlog.
+It would be helpful for me to have an easy way to get from the item detail page to the manifest.  Either an easier url pattern to follow or a link somewhere on the page would work for me.
+Here is a workaround! go to the file manager, then replace `file_manager` in the url with `manifest`
+New request from @jpstroop for a link to a collection manifest.
+Maybe we should have IIIF drag-and-drop icons on collection pages, in addition to object pages?

@@ -1,0 +1,2 @@
+Updates translations
+Updates translations for Assets and EssenceTracks. Failing because it needs the solr_wrapper gem update in this PR: #190.

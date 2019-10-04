@@ -1,0 +1,2 @@
+forcing UTF8 on all text
+Solr has been returning an illegal UTF to Ascii error, which we have been missing becuase it happens in the background.  This will eliminate the error

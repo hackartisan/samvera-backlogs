@@ -1,0 +1,1 @@
+Fixed pyramidal processor for 16 bit tiffs.

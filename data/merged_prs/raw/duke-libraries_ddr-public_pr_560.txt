@@ -1,0 +1,2 @@
+Display link to catalog record if Aleph ID is present; add helper for metadata display.
+Add line to config/local_env.yml CATALOG_URL: https://search.library.duke.edu/search?id=DUKE

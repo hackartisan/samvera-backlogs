@@ -1,0 +1,2 @@
+updates date encoding attribute of MODS collection record
+updates encoding from iso8601 to w3cdtf

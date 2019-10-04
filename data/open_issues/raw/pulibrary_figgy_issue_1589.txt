@@ -1,0 +1,4 @@
+Ingest "Jefferson Letters" (pudl0040)
+These don't seem to be ingested anywhere. Migrate? ping @jpstroop @joycebcat
+I don't see any metadata for these at all — no METS, the directories are named like "09April1792", so no bib/PULFA ids there, etc.
+This project got stalled because RBSC wanted some special work done, which only they were qualified to do, and that never happened (my e-mails about it all date from 2008!) so it never got out of PUDL test.  The docs are a thematic grouping pulled from a number of different archival collections meaning that any MD for them is in different finding aids.

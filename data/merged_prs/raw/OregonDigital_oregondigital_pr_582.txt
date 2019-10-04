@@ -1,0 +1,2 @@
+Updated Europeana rr-r URL to have www. [ci skip]
+Fixes #581

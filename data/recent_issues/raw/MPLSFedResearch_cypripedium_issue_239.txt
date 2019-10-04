@@ -1,0 +1,2 @@
+Restrict bag export to authenticated users
+ACCCEPTANCE   Only logged in users can export bags - i.e. requests without a valid user can't kick off background jobs (consuming system resources)

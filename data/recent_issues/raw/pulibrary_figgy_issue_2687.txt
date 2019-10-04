@@ -1,0 +1,2 @@
+Update bootstrap-sass gem
+To fix CVE-2019-8331.

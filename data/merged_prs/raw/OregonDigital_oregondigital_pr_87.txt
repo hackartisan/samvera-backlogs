@@ -1,0 +1,2 @@
+Switch to New RDF Datastreams (Feature/merge rdf)
+This closes #32.

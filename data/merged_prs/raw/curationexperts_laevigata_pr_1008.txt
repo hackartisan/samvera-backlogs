@@ -1,0 +1,2 @@
+When No Embargoes is set, explicitly set embargo fields to false
+Connected to #996

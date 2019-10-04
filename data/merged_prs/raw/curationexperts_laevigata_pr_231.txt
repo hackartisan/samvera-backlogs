@@ -1,0 +1,2 @@
+Improved workflow setup
+Load superusers from a config file Call them "superusers" instead of "uberadmin" Give superusers all roles in all workflows Allow any registered user to deposit into any AdminSet  Obviously in real life we won't hard code passwords or check our production config file into a public repo. This is just to give an idea of what the config file might look like and start a conversation about how that might be managed. Fixes #236 and #237

@@ -1,0 +1,2 @@
+[SEE #155] Setup recoverable modules for devise to recover passwords
+Descriptive summary Recoverable is a module in devise which allows user accounts to be recoverable. This means we will need to expose the url at some place in the application that a user who is not logged in can click and recover their password by sending an email to a specific email account. Security may need to be looked at at a certain point if necessary.

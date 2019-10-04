@@ -1,0 +1,2 @@
+Disables manifest sequence renderings for audio recording resources
+This is necessary to fully resolve #3070, as PDF renderings are offered in cases where a Recording has both image and audio FileSets as members.

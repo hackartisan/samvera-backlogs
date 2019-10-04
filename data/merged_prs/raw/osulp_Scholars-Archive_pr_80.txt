@@ -1,0 +1,2 @@
+There were bugs causing Resque to not fire.
+Fixed by https://github.com/ClevelandArtGIT/cma-archives/commit/177751083753bab18aa94ed2918f9463e6c6e1f6#diff-47dbc8225025d7a1c65fb7f3fba5ee7eR14 and related by @mjgiarlo.

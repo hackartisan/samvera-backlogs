@@ -1,0 +1,2 @@
+Fix role management
+closes #217 This is a temporary fix.  A new ticket has been filed for figuring out why we have this issue when other Hydra users don't appear to (or at least they haven't filed tickets about it).

@@ -1,0 +1,2 @@
+ln -s .vagrantfiles/Vagrantfile Vagrantfile
+Move Vagrantfile to hidden directory .vagrantfiles and created soft link ln -s .vagrantfiles/Vagrantfile Vagrantfile.

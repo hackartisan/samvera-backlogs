@@ -1,0 +1,2 @@
+update add_other_field_option_actor to skip nil values during validation
+fixes #1278

@@ -1,0 +1,2 @@
+Extends the ManifestBuilder using MultiVolumeRecordingNode for handling cases where Recordings do not have FileSets but have FileSets within member Recordings
+Fully resolves #3156

@@ -1,0 +1,2 @@
+Removing csv_base_path and additional tests
+Description Connects to #549 Files are no longer imported from a CSV, so these tests and associated environment variable are no longer required.

@@ -1,0 +1,2 @@
+remove the share your work button
+Fixes #596

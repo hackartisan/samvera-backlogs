@@ -1,0 +1,2 @@
+add API to RAIS for clearing cache
+RAIS, our IIIF server, caches images from S3 onto disk, and may optionally be caching image tiles in memory.  When things change in Oregon Digital, we're going to want to make sure these caches get cleared so old images aren't showing up in the views.

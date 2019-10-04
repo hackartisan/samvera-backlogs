@@ -1,0 +1,2 @@
+Display Transformations for all EDTF dates in UI
+EDTF is good for computers, bad for humans. Can use https://github.com/duke-libraries/edtf-humanize to transform EDTF stored date to a human-readable string in UI. Question: what should be in metadata exports and feeds? Enhancement to #267

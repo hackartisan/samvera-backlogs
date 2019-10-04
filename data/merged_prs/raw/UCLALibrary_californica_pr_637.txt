@@ -1,0 +1,2 @@
+Initial caching
+Cache the initial JSON manifest in Redis using a key derived from the last modified time and the id. That way the cache will be busted when the work is modified. This also sets the Cache-Control header for the JSON response so that the browser also caches the JSON for 24 hours (this can be busted by using Shift-Refresh to reload the page). The commit also includes the changes that were made to ursus to allow using byebug in the docker environment. Connected to CAL-639

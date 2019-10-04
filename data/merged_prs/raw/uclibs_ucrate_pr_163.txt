@@ -1,0 +1,2 @@
+Add virus scan to js uploader
+Fixes #56 Overrides Hyrax gem to add virus scan validation to uploaded_file model as well as exception handling to controller. JS uploader now displays contextual error message when a virus is detected at time of upload. Disables scan in the file attachment job so that we don't scan twice. Changes proposed in this pull request:  Adds virus scan validation Add exception handling and UI error message for infected files Disable virus scan in file attach job Adds virus scan specs

@@ -1,0 +1,2 @@
+Find way for admins to manage Institutional Collections
+If the request is becoming frequent enough, it would be nice to have admins manage institutionalizing collections. See #642 for discussion.

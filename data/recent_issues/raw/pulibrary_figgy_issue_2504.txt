@@ -1,0 +1,2 @@
+Can't add track to MUS103 Week 09
+Trying to add tracks from 10986771 to https://figgy.princeton.edu/catalog/ae93897d-77bb-4fb3-9fa7-13ac25d18d21 and it's redirecting to a 404 page on clicking "Add All Tracks"

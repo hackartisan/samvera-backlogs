@@ -1,0 +1,2 @@
+HELIO-2382 epub share link logic changes
+Log share link creation and use (including ip addr and instituion if possible A user coming to the ereader from a share link: a) does not see the download button b) does not see the scholarly sharing link button

@@ -1,0 +1,2 @@
+Copy recent numismatic images to Isilon
+A quick survey shows there are at least some images of coins not in the puld0049 directory. It would be useful to have a list of the missing images so we can track them down. Child of #2242

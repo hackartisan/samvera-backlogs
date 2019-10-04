@@ -1,0 +1,1 @@
+AMS2-430 restrict admin data to group

@@ -1,0 +1,2 @@
+Move definition of NoidAdapter class
+The configure method was trying to use it before being defined.

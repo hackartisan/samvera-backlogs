@@ -1,0 +1,2 @@
+Fix departments after refresh
+This fixes an issue where the deptartments dropdown is blank when you are on the tab and refresh. Connected to #1668

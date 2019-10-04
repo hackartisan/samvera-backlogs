@@ -1,0 +1,1 @@
+Fixed Abstract and TOC fields.  Stories #601 and #474

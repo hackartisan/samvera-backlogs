@@ -1,0 +1,2 @@
+add the Puma web server gem to development environment
+Hyrax notifications (missing endpoint) errors are logged by the default Rails web server to the js console, and it becomes too clogged to easily use it for js development. The Puma web server doesn't have these problems (no messages in the js console about notification errors).

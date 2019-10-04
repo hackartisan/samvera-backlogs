@@ -1,0 +1,2 @@
+Identify strategy for persistent identifiers during test migrations
+Discuss options for:  avoid minting permanent IDs for test objects while development is ongoing regenerating NOIDs for Collections created before we changed our scheme pattern avoiding collisions between test and prod

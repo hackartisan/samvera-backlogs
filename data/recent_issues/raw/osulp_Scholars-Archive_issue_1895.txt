@@ -1,0 +1,2 @@
+Bulk Update rights_statement buggy
+Bulk updating rake task suffers from a logic bug when bulk updating rights_statement metadata. https://github.com/samvera/hyrax/blob/5a9d1be16ee1a9150646384471992b03aab527a5/app/services/hyrax/form_metadata_service.rb#L9-L10 returns false for rights_statement because it is explicitly not "multiple" however it is stored in an array. Our rake task needs to account for this and could just return true if the property is rights_statement. https://github.com/osulp/Scholars-Archive/blob/master/lib/tasks/bulk_update_csv.rake#L79-L82

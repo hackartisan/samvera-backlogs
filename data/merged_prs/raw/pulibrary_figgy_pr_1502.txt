@@ -1,0 +1,2 @@
+Add send_collection_reports to crontab via whenever
+10am on Mondays resolves #1331 tested on staging by adjusting and running the actual cron

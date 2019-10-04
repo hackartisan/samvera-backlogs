@@ -1,0 +1,2 @@
+bring over admin_set crosswalk file to OD2
+This brings over admin set crosswalk file from the migrator to live in OD2 configs with the other .yml files so the service can find it. Modified the id of osu-scarc (see comment on #562)

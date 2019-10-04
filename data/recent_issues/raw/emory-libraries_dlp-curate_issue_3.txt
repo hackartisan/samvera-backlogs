@@ -1,0 +1,2 @@
+Feature: Complex Digital Object Support
+MVP feature components:  Ability to ingest and manage multi-part objects Ability to manage nested objects and parent/child relationships  For v.1, we will migrate digitized books, some of which contain multiple volumes. We will also have collections of images which will have front and back (postcards, photos with writing on the back), or multiple views of a three dimensional object (sculpture, dolls, etc.)

@@ -1,0 +1,2 @@
+Unchecking Bookmark Generates an Error
+When performing a search and reviewing the results, I check items of interest to be bookmarked and then change my mind on a few of them. Unchecking the bookmark checkbox generates an error.

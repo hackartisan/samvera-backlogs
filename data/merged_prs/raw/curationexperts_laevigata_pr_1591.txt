@@ -1,0 +1,2 @@
+Show school, department, and embargo length on edit screen
+This commit includes fixes for the edit screen. Mostly this consists of changing the values that we get back from Fedora to match what we are expecting. Fix for language not displaying on the edit form Display research fields on the edit form

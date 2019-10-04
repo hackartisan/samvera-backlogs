@@ -1,0 +1,3 @@
+limit number of queries caused by large cpds
+currently CPDOELS (Compound Objects of Extremely Large Size) load/display all of the children; likely causing OD undue stress
+addressed in 1047 pull request.

@@ -1,0 +1,2 @@
+Soft Delete
+Adds Soft Delete and Undelete functionality. Closes #419 and #210.

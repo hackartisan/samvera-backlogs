@@ -1,0 +1,2 @@
+Add configurable facets to collections edit form
+Fixes #547 This PR creates a Facet object that is used to store configuration for facets for each collection. It also adds the configurable facet tab to the collections edit form and hooks it up to that facet object. Draggable ordering is accessible with tab-focus and (left/up)/(right/down) keyboard navigation. Preview:

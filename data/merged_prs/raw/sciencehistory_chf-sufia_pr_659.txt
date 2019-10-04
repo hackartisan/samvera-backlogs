@@ -1,0 +1,1 @@
+If the riiif file id isn't in solr, get it from fedora and log error

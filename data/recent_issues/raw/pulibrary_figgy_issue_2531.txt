@@ -1,0 +1,2 @@
+vue template error
+i'm getting an error in console on the show page of a playlist that ends like this - Templates should only be responsible for mapping the state to the UI. Avoid placing tags with side-effects in your templates, such as <script>, as they will not be parsed.   (found in <Root>)  looks like it may be coming from the document adder.

@@ -1,0 +1,2 @@
+Add a spec to test that each form terms match its related model properties
+Descriptive summary This test should evaluate that the form and its related model both have the same terms/attributes. This aims at ensuring that a form and its model don't get out of sync. Expected behavior The test would fail if the form has more terms available than the model has. Related work Link to related tickets or prior related work here.

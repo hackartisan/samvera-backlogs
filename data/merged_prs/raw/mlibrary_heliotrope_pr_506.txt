@@ -1,0 +1,2 @@
+rake task to get file_set paths and filenames for a given monograph
+This relates to how we're going to temporarily approach #13

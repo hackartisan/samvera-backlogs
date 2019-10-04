@@ -1,0 +1,2 @@
+Remove Hyrax Core Metadata fields from GenericMetadata model
+Descriptive summary The Hyrax Core Metadata fields were added to GenericMetadata but they don't need to be there, they're still included. There are errors for the same predicates being defined for multiple instances of those properties. Expected behavior We can rely on the Hyrax Core metadata fields being in place and don't need to specify them in GenericMetadata. Related work #129

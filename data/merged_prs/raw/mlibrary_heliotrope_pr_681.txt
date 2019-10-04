@@ -1,0 +1,2 @@
+Resolves #674 Add citation metadata for google scholar
+Resolves #674 Resolves #683

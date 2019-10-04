@@ -1,0 +1,2 @@
+Add ark as a required field to new collection form
+For now, allow editing of ark... I will fix this in a future PR Connected to #456

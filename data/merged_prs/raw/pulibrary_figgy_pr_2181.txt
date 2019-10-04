@@ -1,0 +1,2 @@
+Update rack to fix security vulnerabilities
+Closes #2180

@@ -1,0 +1,2 @@
+Disable "detach" buttons after you click them in the Playlist members view.
+Stops folks from accidentally removing multiple items with no feedback.

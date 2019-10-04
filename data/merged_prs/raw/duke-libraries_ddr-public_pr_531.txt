@@ -1,0 +1,1 @@
+Expire cache after 1 day; remove metadata from cache block.

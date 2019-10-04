@@ -1,0 +1,2 @@
+add researcher profile pages
+add ability for user profiles, possibly linked from contributor or creator fields, when possible. would require a name authority service, or ORCID as value.

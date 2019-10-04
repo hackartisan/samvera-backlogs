@@ -1,0 +1,2 @@
+Updating DOI Worker Spec for Asynchonous
+Given that we are minting a DOI asynchronously, the object that we have during the test is not the same object that is being updated. This switch adjusts the behavior to reload the object.

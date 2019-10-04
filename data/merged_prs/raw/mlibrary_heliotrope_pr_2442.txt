@@ -1,0 +1,2 @@
+HELIO-2874 Refactor monograph_catalog_controller's
+@monograph_presenter to be @presenter. This won't change anything, but is in preparation to maybe adding a new Work type.

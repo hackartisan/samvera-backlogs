@@ -1,0 +1,2 @@
+Added supplemental fulltext support for files like Word and Excel documents, .html, .txt and .csv etc. DAMSKEY-559
+https://lib-jira.ucsd.edu:8443/browse/DAMSKEY-559

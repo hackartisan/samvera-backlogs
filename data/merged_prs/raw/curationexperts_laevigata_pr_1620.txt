@@ -1,0 +1,2 @@
+Refactor CI
+Make CI rake task easier to read and understand Only run database setup for tasks where it's necessary Continue to split the build into chunks, but combine js and integration so we reduce the number of concurrent jobs required by a single PR. Add verbose flag to solr_wrapper so we can diagnose why it keeps failing in travis.  Connected to #1615

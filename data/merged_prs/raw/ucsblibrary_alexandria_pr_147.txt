@@ -1,0 +1,2 @@
+ObjectIndexer: index member_ids to preserve FileSet order
+Fixes DIGREPO-886.

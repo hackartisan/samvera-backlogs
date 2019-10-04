@@ -1,0 +1,2 @@
+Forces a sign_out if user is signed in and Shib is required but there is no Shib session
+This addresses DDR-287 in which an application session can remain active although the Shibboleth session has expired.

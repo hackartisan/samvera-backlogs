@@ -1,0 +1,2 @@
+Import content_type as a uri
+Expect the csv to contain a content type string Match that string to a label in the appropriate QA authority Record the URI on the record  Connected to curationexperts/in-house#190

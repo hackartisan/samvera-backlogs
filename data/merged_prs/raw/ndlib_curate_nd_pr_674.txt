@@ -1,0 +1,2 @@
+Locabulary changes
+DLTP-1323: Bumping version of locabulary to get a few more small changes to the ND Research heading in Departments and Units. 5aa28f4

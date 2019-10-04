@@ -1,0 +1,2 @@
+Define customized Indexer
+It should support: -- authorities -- synonyms

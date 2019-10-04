@@ -1,0 +1,2 @@
+Add MusicImportService which produces a bib ids report
+resolves #2139

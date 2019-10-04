@@ -1,0 +1,2 @@
+Setup dev/test SOLR capability, update README for workflow
+fixes #391

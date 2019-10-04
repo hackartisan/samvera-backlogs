@@ -1,0 +1,2 @@
+Add a default structure label.
+Closes #66

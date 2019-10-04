@@ -1,0 +1,2 @@
+Adapt Scholar's Puppet scripts for UCrate
+Descriptive summary Adapt the existing Scholar's Puppet deploy scripts for UCrate. Add the necessary dependency modules for UCrate and save the application packages on digital.libraries.uc.edu. Create a new repository on git.uc.edu if need be. Related work  https://git.uc.edu/UCLIBS/scholar-puppet-vagrant/ https://github.com/uclibs/scholar-vagrant-deploy

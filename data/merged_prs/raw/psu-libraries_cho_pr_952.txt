@@ -1,0 +1,2 @@
+Configure application directories under application.rb
+Description Moves directory configuration out of Metrics::Repository and into Cho::Application.config Connected to #750

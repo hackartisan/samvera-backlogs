@@ -1,0 +1,2 @@
+footer updates per zack
+closes #1000

@@ -1,0 +1,2 @@
+Run Fixity after derivatives.
+Right now there's a race condition which we can't fix without optimistic locking or by doing this.

@@ -1,0 +1,2 @@
+Get access to the audio reserve database
+Get a sense of the tables, columns, relations between them. child of #1986

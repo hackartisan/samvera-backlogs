@@ -1,0 +1,2 @@
+Write the base importer
+ACCEPTANCE When I supply a minimal valid CSV and upload the associated files to my SFTP folder.   A new work is created for each row in the CSV with the specified file attached  Add content to a collection as directed  It should attach files from /opt/data/client/uploads even if they are in a subdirectory

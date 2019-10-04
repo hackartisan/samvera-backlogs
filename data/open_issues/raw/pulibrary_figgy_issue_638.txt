@@ -1,0 +1,3 @@
+Job status facets
+When a create derivative jobs is finished, it kicks off another job to check the status of its parent, updating if all derivatives have been created. Potential statuses on a resource are:  in process processed no files (slash empty status -- default value and/or string presentation of nil)  BrowseEverythingIngest controller starts out by setting the resource status to in process Child of #99
+discussed 1/14/19

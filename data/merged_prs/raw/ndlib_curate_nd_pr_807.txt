@@ -1,0 +1,2 @@
+Correct Administrative Unit selection list
+Fixes an issue where items not within the "University of Notre Dame" root category did not display properly in the hierarchical format, but instead titles were duplicated for each administrative unit.  Moves this corrected administrative unit building of selectable items into locabulary, and uses the new version of locabulary. This allows Sipity to share the same menu building logic. Incorporates ability to retrieve all administrative units for edit, while new items will continue to show only active items.

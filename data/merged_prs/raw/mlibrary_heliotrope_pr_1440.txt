@@ -1,0 +1,2 @@
+simplify Able Player tweaks
+Resolves #1439

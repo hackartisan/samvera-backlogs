@@ -1,0 +1,2 @@
+Remove filename from featured and recent on homepage
+Fixes #603

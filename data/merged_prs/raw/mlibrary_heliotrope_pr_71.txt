@@ -1,0 +1,2 @@
+adds production section to role_map
+Closes #69

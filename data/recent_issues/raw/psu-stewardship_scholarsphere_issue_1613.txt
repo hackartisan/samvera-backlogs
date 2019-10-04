@@ -1,0 +1,2 @@
+Download zip links are displaying for large collections
+For large collections and works, zip download links are available when they should not be. The issue is that the presenter has zip_download_path.present? which is returning true even for a pre-zipped resource when it should be checking to see if the path actually exists.

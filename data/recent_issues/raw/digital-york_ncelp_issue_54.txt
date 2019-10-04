@@ -1,0 +1,2 @@
+Facet list is incomplete
+Not all relevant facets are present in the facet list on the left hand. Missing are:  Language being learnt Material for teachers Modality / mode (skill)  In addition, The theme of resource should be named Topic.

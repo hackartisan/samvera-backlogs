@@ -1,0 +1,3 @@
+Spellcheck treats numbers as typos
+When I type numbers in an abstract, I get the same red highlighting as I do when I type a word not recognized by spellcheck.  This is only a minor bug since it doesn't block contributions, it just looks funny.
+DLTP-579 is tracking. 

@@ -1,0 +1,2 @@
+Feature/decade date facet
+Fixes #584 Fixes #585 Screenshot:

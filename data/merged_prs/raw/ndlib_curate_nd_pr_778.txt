@@ -1,0 +1,2 @@
+Removing app/models/generic_file.rb
+This was copied over from sufia, but we have an overlay in the following location: ./app/repository_models/generic_file.rb

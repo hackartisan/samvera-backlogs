@@ -1,0 +1,2 @@
+Feature/create migrate creators no handles job
+fixes #1608  created MigrateCreatorsNoHandlesJob to migrate works with no handles MigrateCreatorsNoHandlesJob will output log info at log/{Today}-creator-migration-no-handles.log

@@ -1,0 +1,2 @@
+Are there problems with work counts?
+When you look at the number of works without logging in there appear to be about 1500 works, but when you log in there are about 8000+. Not sure if this is a bug or if there are just tons of private/embargoed works?

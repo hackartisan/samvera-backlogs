@@ -1,0 +1,2 @@
+Add Bulk Complete UI to search results
+Child of #697

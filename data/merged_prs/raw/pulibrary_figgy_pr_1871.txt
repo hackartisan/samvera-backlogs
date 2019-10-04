@@ -1,0 +1,2 @@
+Fix bug with updating coverage in bbox widget
+Closes #1869

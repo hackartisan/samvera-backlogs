@@ -1,0 +1,2 @@
+Setup Role Creation
+Descriptive summary A rake task which generates all required roles in the system   Depositor  Collection Curator  OSU Affiliate  OSU User  UO Affiliate  UO User  Community Affiliate  Admin

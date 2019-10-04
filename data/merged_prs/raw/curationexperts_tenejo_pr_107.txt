@@ -1,0 +1,2 @@
+Fix array showing up in collection selection
+This was showing up as an array. This changes the query to access the first item in the collection title array.

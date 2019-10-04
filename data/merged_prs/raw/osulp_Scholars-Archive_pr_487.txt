@@ -1,0 +1,2 @@
+Revert "Add default metadata as module; and two work types: default_work, etd"
+Reverts #486

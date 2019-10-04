@@ -1,0 +1,2 @@
+Add UCLA metadata fields to collection edit form
+Connected to #430

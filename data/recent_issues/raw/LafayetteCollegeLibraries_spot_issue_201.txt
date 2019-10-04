@@ -1,0 +1,2 @@
+allow adding users to roles before user has first logged-in
+currently, a user has to log in first before we can grant access roles to them. it would be nice to be able to set up a user before they log in so they are able to start editing right away

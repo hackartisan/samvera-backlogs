@@ -1,0 +1,1 @@
+HELIO-2292 Add monograph_catalog page views to COUNTER

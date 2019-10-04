@@ -1,0 +1,2 @@
+FAQ: link to GitHub repo
+Closes DIGREPO-864.

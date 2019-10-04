@@ -1,0 +1,2 @@
+Resolves #1229: Monograph Reindex Button
+Yea! Quick and easy reindexing for a monograph.

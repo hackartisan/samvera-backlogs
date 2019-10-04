@@ -1,0 +1,2 @@
+Improve log output with STDOUT logger and lograge with logstash format. DHH-844
+https://lib-jira.ucsd.edu:8443/browse/DHH-844

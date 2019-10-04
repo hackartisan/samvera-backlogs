@@ -1,0 +1,1 @@
+Improve representation & navigation of multi-paged items, especially for folder-level manuscripts

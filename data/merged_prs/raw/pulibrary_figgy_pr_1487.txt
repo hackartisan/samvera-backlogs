@@ -1,0 +1,2 @@
+Imports Voyager metadata using a cron job
+Resolves #696 and #1461  Implements the following:  VoyagerUpdateJob VoyagerUpdater::Dump VoyagerUpdater::Event VoyagerUpdater::EventStream figgy:update_bib_ids (Rake Task)   Integrates the whenever Gem in order support creating cron tasks for these updates using Capistrano Ensures that ARKs are not imported for new or existing geospatial resources Ensures that ARKs are not imported if they have already been stored for a Resource

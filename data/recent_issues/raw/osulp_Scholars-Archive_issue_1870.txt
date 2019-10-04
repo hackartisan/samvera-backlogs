@@ -1,0 +1,2 @@
+Create cron job on production server to run freshclam once a week
+Descriptive summary Once a week, freshclam needs to be run to update the servers virus database. This will keep the newest database installed with up to date viruses. This can be done via a cron job on the production server on some arbitrary day and some arbitrary time. As long as it gets run once a week, it should stay updated.

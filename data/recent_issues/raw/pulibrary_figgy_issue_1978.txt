@@ -1,0 +1,2 @@
+adjust "location" field for collections migrated from pudl (grounds & buildings)
+In the Location field we currently have “Mudd, Box MP82, Item 3349” Instead of “Mudd” the call no. would be more helpful (e.g. AC111, Box MP82, Item 3349). There is already a field for “Rendered Holding Location” listed as “Mudd Manuscript Library”

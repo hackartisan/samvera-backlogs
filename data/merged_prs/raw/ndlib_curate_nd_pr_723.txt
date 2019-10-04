@@ -1,0 +1,2 @@
+Require administrative unit for new deposits
+Fixes DLTP-1485 Administrative unit is required for only new deposits, for all models.

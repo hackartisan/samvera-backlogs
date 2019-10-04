@@ -1,0 +1,2 @@
+Display errors for missing required headers.
+Connected to #113

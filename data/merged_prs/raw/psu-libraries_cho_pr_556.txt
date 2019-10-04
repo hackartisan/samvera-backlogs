@@ -1,0 +1,2 @@
+Allowing find by multiple terms
+Description References ticket: (if any) #437 Why was this necessary? Schema::Fields are going to be unique by their WorkType and Label not just their label.  Allowing for multiple fields will let us find them Changes Allow find_using to accept multiple terms Are there any major changes in this PR that will change the release process? no Checklist   i18n enabled  adequate test coverage  accessible interface

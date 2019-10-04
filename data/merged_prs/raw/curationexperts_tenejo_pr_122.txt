@@ -1,0 +1,2 @@
+Add honeybadger for error tracking
+Import isn't working as expected in production and I need better error visibility to figure out why. Connected to #101

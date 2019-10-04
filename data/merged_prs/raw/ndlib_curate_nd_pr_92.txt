@@ -1,0 +1,2 @@
+Resolving DOI resolution URI
+With the update to hydra-remote_identifier v0.6.4, the remote URL resolver is configurable, but defaults to http://dx.doi.org/. See release notes for hydra-remote_identifier: https://github.com/projecthydra-labs/hydra-remote_identifier/releases/tag/v0.6.4

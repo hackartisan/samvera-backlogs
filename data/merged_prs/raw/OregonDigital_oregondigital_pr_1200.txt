@@ -1,0 +1,2 @@
+Remove :designer from OAI contributor mapping
+Fixes #1199

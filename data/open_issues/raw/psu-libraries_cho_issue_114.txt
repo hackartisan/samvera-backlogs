@@ -1,0 +1,2 @@
+Georeference Maps within CHO
+As a graduate student/faculty/community member using the CHO site, I need to georeference a map, so that I can determine if this map overlaps with given area of interest and use with other georeferenced datasets. Tara L.

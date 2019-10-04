@@ -1,0 +1,2 @@
+Add documentation about date parsing to MetadataObject
+resolves #503

@@ -1,0 +1,2 @@
+Fix search by source_metadata_identifier
+Closes #249

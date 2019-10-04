@@ -1,0 +1,2 @@
+Adding error handeling for missing or deleted objects
+Added Safe methods to capture Ldp::Gone and ActiveFedora::ObjectNotFound for all the ActiveFedora object finds since in real life people delete things or google analytics has information for outdated/ missing records.

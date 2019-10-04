@@ -1,0 +1,2 @@
+Replace Squash with Honeybadger
+Fixes #60

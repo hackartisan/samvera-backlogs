@@ -1,0 +1,2 @@
+Collection edit form has two Location fields
+The Collection Edit form has two fields labeled "Location" -- one of these is the Hyrax "based_near" location, and the other is the UCLA ::RDF::Vocab::DC.coverage Location   Decide how to change these labels to be less confusing - I propose we use "Based Near" for based_near  Change the labels in the form and anywhere else those terms appear

@@ -1,0 +1,2 @@
+Removing the CatalogHelper#can_have_manifests? method due to performance issues introduced for non-ArchivalMediaCollection resources
+Resolves #3176 by reverting some of the changes introduced in afdc8ac

@@ -1,0 +1,2 @@
+Import publication data from BORIS
+Filter: faculty of law, monographs, articles

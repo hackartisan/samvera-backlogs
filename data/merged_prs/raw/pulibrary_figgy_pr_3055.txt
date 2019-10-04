@@ -1,0 +1,2 @@
+Update ability with numismatic classes- updates classes with depositor
+closes #3004

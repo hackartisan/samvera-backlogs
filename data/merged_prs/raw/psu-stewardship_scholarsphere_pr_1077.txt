@@ -1,0 +1,2 @@
+Copying the display name to the surname
+This will allow for groups to be created with just a display name refs #1057

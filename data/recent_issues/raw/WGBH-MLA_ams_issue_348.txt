@@ -1,0 +1,2 @@
+Remove Series Collection metadata 
+User Story As a user, I need to be able to create collections with the default Hyrax metadata, so that I am not making non-Series collections with Series-specific metadata fields Additional Information Done Looks Like   default Hyrax collections metadata fields appear when you go to make a new collection   All of the updates to add Series specific metadata are removed from AMS

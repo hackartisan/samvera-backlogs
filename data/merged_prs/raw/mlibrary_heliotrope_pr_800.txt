@@ -1,0 +1,2 @@
+check that files are not zero-size
+Resolves #779

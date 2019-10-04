@@ -1,0 +1,1 @@
+Edits text input areas for rights_statement_text and grant/grant_information

@@ -1,0 +1,2 @@
+Send Source Metadata Identifier to GCS as Metadata
+We'll likely get a bib-id if someone accidentally deletes a book.

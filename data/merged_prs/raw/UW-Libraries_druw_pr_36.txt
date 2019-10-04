@@ -1,0 +1,2 @@
+Remove dc.creator extraction
+This item was picking up email addresses. dc.contributor.author retrieves all creator names. Code was cleaned up a little too.

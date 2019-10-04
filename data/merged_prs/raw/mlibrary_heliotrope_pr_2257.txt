@@ -1,0 +1,2 @@
+HELIO-2562 Download widget displays files when 'Allow Download?'='no'
+I am hoping the Checkpoint cleanup can make the need for this hack go away.

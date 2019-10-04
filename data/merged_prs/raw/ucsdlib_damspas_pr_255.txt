@@ -1,0 +1,2 @@
+Fixes #252 - JWPlayer Upgrade
+Fix crossdomain jwplayer error Revert the change

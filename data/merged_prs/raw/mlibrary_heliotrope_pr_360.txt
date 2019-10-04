@@ -1,0 +1,2 @@
+add default search fields
+Resolves #358 Not every single indexed field is added to the default search. This PR addresses primary use cases. We can add more fields to the default search as needed.

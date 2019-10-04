@@ -1,0 +1,2 @@
+Link geo resource ARKs to Pulmap
+Closes #1898

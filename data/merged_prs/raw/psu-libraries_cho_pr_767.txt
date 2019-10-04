@@ -1,0 +1,2 @@
+Delete contained works from collections
+Description Presents a confirmation message with a list of contained items when deleting works or collections and includes the counts of those items in the success message. Fixes #509

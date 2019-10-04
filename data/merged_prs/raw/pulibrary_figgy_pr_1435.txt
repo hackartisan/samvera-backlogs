@@ -1,0 +1,2 @@
+Extends the ScannedResource Model in order to support "location" values
+Resolves pulibrary/pomegranate#361

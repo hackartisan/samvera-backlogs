@@ -1,0 +1,5 @@
+Make search result visibility configurable on the model
+Method to control model visibility in the search results is starting to get unwieldy. I wonder it makes sense to move that configuration to the individual model. https://github.com/pulibrary/figgy/blob/master/app/models/search_builder.rb#L38
+👍 
+Not sure there is a good (performant) way to do this.
+We could make it dynamic code, but that kind of thing fails without eager loading. :(

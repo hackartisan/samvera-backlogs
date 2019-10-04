@@ -1,0 +1,1 @@
+redirect for pasting in ARKs into /collection or /object path(DHH-498)

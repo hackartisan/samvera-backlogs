@@ -1,0 +1,2 @@
+integrate lafayette stylesheet / style guide
+this might involve migrating the marquis theme from LESS to SCSS

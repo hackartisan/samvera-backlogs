@@ -1,0 +1,2 @@
+Fixes paths and routes for Numismatic Coins with improper namespaces
+Fixes cases where attempting to add a Coin to a Numismatic Issue fails with an error:   There was also this namespacing issue when users attempt to upload files for Coins:

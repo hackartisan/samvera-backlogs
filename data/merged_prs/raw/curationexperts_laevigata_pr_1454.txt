@@ -1,0 +1,2 @@
+Hide Save & Submit button on Submission tab
+This hides the Save and Submit button on the submission tab. You shouldn't be able to use that button in that tab. Related to #1421

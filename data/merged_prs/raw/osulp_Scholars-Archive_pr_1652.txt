@@ -1,0 +1,2 @@
+Update hyrax.es.yml
+Change product_name, add institution_name, change copyright_html Should still update service_html, the English version lists OSULP. Also check account_name Fixes #1651

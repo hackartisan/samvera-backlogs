@@ -1,0 +1,2 @@
+Add marketing text to all static pages?
+Descriptive summary Marketing text only shows on the home page - we're using this to display the name of the repo in the banner. Look at either adding the marketing text helper to all static pages or finding another way to overlay the banner with the text on all pages where the banner shows.

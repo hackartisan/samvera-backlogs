@@ -1,0 +1,2 @@
+Migrate geo resources to change sets
+Spike on this to continue exploring the new changeset-based  architecture. child of #2691

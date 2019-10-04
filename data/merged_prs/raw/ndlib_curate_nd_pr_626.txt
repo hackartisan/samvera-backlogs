@@ -1,0 +1,2 @@
+Change the default primary key type for mysql2 gem
+Unsure if this should go into the repository or not. but documenting what I needed to do to run db:migrate on my local machine, which is using MySQL 5.7.18 (the current homebrew version). It seems that MySQL 5.7 enforces a non-NULL contraints on primary keys. The version of the mysql gem we are using defaults to primary keys that are NULL-able. I think this is only an issue when running migrations. see brianmario/mysql2#784

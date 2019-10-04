@@ -1,0 +1,2 @@
+CSV headers match curate field names
+Update fixture objects to match new CSV headers Update tests to match  Connected to #385

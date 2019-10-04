@@ -1,0 +1,2 @@
+Auto-update footer display
+Footer currently shows the incorrect version and copyright year. Maybe we can just automate that?

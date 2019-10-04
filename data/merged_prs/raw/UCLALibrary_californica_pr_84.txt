@@ -1,0 +1,2 @@
+Add deploy file for californica-test server
+This is the first Red Hat/UCLA deploy target.

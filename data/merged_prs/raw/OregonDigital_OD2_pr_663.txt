@@ -1,0 +1,2 @@
+Improve homepage layout
+Fixes #600

@@ -1,0 +1,2 @@
+Compile image and css elements correctly in production
+Description CSS assets were not getting compiled correctly in QA.

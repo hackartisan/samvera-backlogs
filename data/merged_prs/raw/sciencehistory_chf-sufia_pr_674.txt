@@ -1,0 +1,1 @@
+Re-add 'Dr.' in front of Beckman, use en dash; fixes #646

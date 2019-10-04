@@ -1,0 +1,2 @@
+Adding a placeholder about page
+Update links in the site footer Static page for about Enables the completion of ndlib/legacy-curate-planning#360 Link to the about page in the footer

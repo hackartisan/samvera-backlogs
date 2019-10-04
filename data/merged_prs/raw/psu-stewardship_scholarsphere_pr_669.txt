@@ -1,0 +1,2 @@
+Display message after clicking Save
+Friday. Begins with F, and that stands for Fancy! Here's a video of the interaction with the screen reader voice over. You'll need to turn your volume up to 11 to hear it. https://www.dropbox.com/s/u2858kwnplbv9a0/demo.mov?dl=0 Might need some css tweaks. @mtribone @cam156

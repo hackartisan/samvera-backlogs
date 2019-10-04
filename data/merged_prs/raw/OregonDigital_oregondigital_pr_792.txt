@@ -1,0 +1,2 @@
+Fix sets landing page
+Fixes #703 Facets are dropped entirely, and the search box properly links to the catalog when there's no selected set

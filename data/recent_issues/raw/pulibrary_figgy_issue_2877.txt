@@ -1,0 +1,2 @@
+Investigate race condition for Recording Derivative Generation
+It seems like sometimes something happens which causes the attached derivatives to be lost.

@@ -1,0 +1,1 @@
+Resolves #604: Refactor :content_type

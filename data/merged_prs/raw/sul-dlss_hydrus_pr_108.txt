@@ -1,0 +1,2 @@
+fixes for jira ticket HYDRUS-198 (changes to text in confirmation boxes)
+also remove error notification mailer (unused, was replaced with squash and later honeybadger)

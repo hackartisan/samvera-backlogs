@@ -1,0 +1,2 @@
+Fix batch item list
+Batch item list was an override of the batch ingest gem's view, but had become out of date This PR updates the hyrax-batch_ingest to latest from github master, which includes some additional fields to batch items, which requires a db migration as well.

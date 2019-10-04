@@ -1,0 +1,2 @@
+Fix #1653 - Update Keycard and rails-html-sanitizer
+Pick up released version of Keycard with read-only mode. We defer to the configuration loaded from settings for whether Keycard should be read-only.

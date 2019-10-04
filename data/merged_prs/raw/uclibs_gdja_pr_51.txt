@@ -1,0 +1,2 @@
+add facets for date range and inst
+Fixes #48

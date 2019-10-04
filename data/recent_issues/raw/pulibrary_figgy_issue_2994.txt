@@ -1,0 +1,2 @@
+12422O.tif can't be converted to JP2 
+Backtrace line 172 of [PROJECT_ROOT]/app/derivative_services/jp2_derivative_service.rb: cleaned_file line 163 of [PROJECT_ROOT]/app/derivative_services/jp2_derivative_service.rb: clean_filename line 95 of [PROJECT_ROOT]/app/derivative_services/jp2_derivative_service.rb: rescue in run_tiff_derivatives  View full backtrace and more info at honeybadger.io

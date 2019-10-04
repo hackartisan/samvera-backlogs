@@ -1,0 +1,2 @@
+Add OCR to Scanned/SimpleResources
+Setting an OCR language on creation will make all future pages auto-run OCR as part of the derivative process. Setting an OCR language after pages have been added will run OCR on every existing page and all future appended pages.

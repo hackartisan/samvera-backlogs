@@ -1,0 +1,2 @@
+add monit restart after deploy:published hook
+It looks like we can restart processes with sudo /usr/bin/monit restart all. This would allow us to restart existing puma and sidekiq processes on deploy, ref #914

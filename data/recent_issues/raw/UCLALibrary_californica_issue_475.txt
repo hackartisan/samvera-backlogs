@@ -1,0 +1,2 @@
+Copy approved Bennett CSV to opt/data
+As a team member, I would like to make sure that once the CSV for Bennett is completed and approved by the metadata team, that it is moved into the actionable location for the developers. Child of #465 Requires #473 Requires #472

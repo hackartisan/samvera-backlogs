@@ -1,0 +1,3 @@
+continue button isn't working
+Made a new entry, which in the original, continues onto reg 11 f. 309 r, so without saving entry 2, clicked continue button, but error message appeared. Clicked back arrow and went back to entry two and saved it. Tried to edit entry 2 again and clicked on continue button, but error message appeared again, therefore I guess that the ‘continue’ button isn’t working yet!
+Might be fixed by [this commit](https://github.com/digital-york/arch1/commit/e40e7e152f8d5e5b3d9ae89aa1d7f98a2a8d4c84)

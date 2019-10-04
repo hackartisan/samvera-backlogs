@@ -1,0 +1,2 @@
+2541_rake_add_apt_check
+Changes include:  Various simplifications as they became clearer. Use one array for new and recreated bags. Where I passed record and noid before just pass record if possible When the published solo record doesn't need a new bag record its APTrust API deposit status in db row for record (note this doesn't work for desktop development because there is not API for A&E s3).

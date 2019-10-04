@@ -1,0 +1,2 @@
+Default thumbnail on error in search results should either be smaller or not be there at all
+Requested by Dan

@@ -1,0 +1,2 @@
+Remove old password helpers.
+These are no longer useful now that we've moved to Shibboleth

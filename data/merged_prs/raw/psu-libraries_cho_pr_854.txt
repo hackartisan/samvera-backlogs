@@ -1,0 +1,2 @@
+Ensure csv values are correctly escaped
+Description In the process of working on #736, our generated csv files were not allowing commas or other punctuation within a field. This was blocking the ability to split first and last names using a comma. Using the to_csv method will can correctly escape quotes, commas, and other punctuation that we want to keep within a field. Also creates a MetadataFactory class to generate random fields with punctuation to ensure a csv will be correctly imported. Connected to #736

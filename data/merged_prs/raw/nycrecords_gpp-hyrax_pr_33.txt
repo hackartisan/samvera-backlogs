@@ -1,0 +1,2 @@
+Feature/GPP-264: Advanced Search
+This PR adds advanced search options to Hyrax search. Remember to reinstall your bundle before testing. Note:  In the advanced search page the facet options are limited to the top 6 options sorted by the number of hits. Looks like this is by design of the plugin.

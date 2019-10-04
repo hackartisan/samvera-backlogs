@@ -1,0 +1,6 @@
+Ingest "Moscow Kamerny Theater" (pudl0113)
+These don't seem to be displayed anywhere. Ingest? Ping @jpstroop @joycebcat
+@cwulfman This looks like https://catalog.princeton.edu/catalog/7649172 — Veridian?
+Yes -- Thomas Keenan hand-processed this title a few years ago, but we could never figure out exactly where to put it.
+Do we have Alto for these? I didn't think we did. Could they go into figy as an MVW?
+Let me see if I can find the METS/ALTO for it.

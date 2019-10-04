@@ -1,0 +1,2 @@
+Add admin MD to curate-generic worktype
+Add admin MD fields, following notes from #64  Test for presence of MD  Test number of accepted terms (multiple: true/false)  Test indexing in Solr (searchable, facetable, etc.)  Test for requirement (required, optional, etc.)

@@ -1,0 +1,2 @@
+Translate embargo_type into expected params
+We have a mis-match between what the new UI form is sending for embargo_type and what the object is expecting to receive. This translates between the two. Fixes #1512

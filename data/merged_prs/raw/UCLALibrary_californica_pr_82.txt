@@ -1,0 +1,2 @@
+Use SOLR_URL for Blacklight and Solr config
+We don't want to hard code or infer Blacklight and Solr configuration. Instead we should strictly use.

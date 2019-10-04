@@ -1,0 +1,2 @@
+set no-preview img size to thumbnail
+closes #605

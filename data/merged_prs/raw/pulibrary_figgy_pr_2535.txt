@@ -1,0 +1,2 @@
+Don't use javascript_pack_tag; import js modules to application.js
+fixes #2531 followup to #2523

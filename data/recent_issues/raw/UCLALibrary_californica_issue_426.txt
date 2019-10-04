@@ -1,0 +1,2 @@
+Add more metadata fields to collection object model in Californica
+As a librarian with a love of metadata, I would like to add all the rich metadata fields to the collection object model that we have already added in the Californica works object model Acceptance Criteria   a Collection object has all of the same metadata fields available to it that a Work object does

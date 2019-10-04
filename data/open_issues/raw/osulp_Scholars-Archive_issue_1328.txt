@@ -1,0 +1,5 @@
+Enable use of multiple controlled vocabularies for some fields
+Would be useful if could drop a LC URI, etc. into the :other_affiliation field instead of current multi-step process. What about other fields?
+@wickr thoughts on this? 
+I agree that it's useful, and it's something we talked about early on, but it's not really compatible with our current setup.  
+okay. probably something to look forward to for OD2 that SA can then leverage?

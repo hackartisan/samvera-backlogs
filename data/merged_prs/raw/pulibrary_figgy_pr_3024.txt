@@ -1,0 +1,2 @@
+Ensures that thumbnail_id properties are emptied for a parent resource when deleting a member resource
+Resolves #2109

@@ -1,0 +1,4 @@
+Ingest "Cedid atlas tercümesi, the first Turkish atlas" (pudl0115)
+Notes: SHOULD WORK @eliotjordan Should we be ingesting Atlases as ScannedMaps?
+Files: https://drive.google.com/drive/u/0/folders/0B4Wo5hgOEFY3ZlZGUU5OS3FIbDA
+No PUDL collection page.

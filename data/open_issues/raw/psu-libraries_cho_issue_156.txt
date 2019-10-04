@@ -1,0 +1,2 @@
+Search Snippets
+As a remote researcher, I would like transcribed text snippets with query-highlighting to appear in search results, So that when Is search through transcribed text, I don't have to search within every object. Ann P.

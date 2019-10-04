@@ -1,0 +1,2 @@
+Implement Bulk Virus Checking
+Still needs to be written: When we conducted performance testing on virus scanning we discovered that there is very high overhead launching the virus scanner separately for each file See #49 for details ACCEPTANCE   I can virus scan all the files in a given directory  Any infected files are deleted  I get a hyrax notification of any files that were infected telling me:   The filename  the fact that the file was deleted  how to proceed

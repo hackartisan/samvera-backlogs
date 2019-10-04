@@ -1,0 +1,2 @@
+Janky player
+Closes #352. Update to Webpacker caused CSS from node_modules to stop getting extracted. Adds new config and yarn.lock file.

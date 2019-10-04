@@ -1,0 +1,2 @@
+Add configuration for working_path
+This location used as a holding area for files pulled from fedora for derivatives generation. Generally not needed during ingest, since the files are taken from their upload location (managed by CarrierWave). Sufia made an effort at one point to make sure all CC config values were managed by Sufia's config, as well, but this one must have slipped through the cracks. Hence it's in a new CC initializer.

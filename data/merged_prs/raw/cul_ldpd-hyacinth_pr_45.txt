@@ -1,0 +1,1 @@
+Handle names without roles in Hyacinth::Ezid::HyacinthMetadata

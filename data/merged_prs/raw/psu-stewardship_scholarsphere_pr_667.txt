@@ -1,0 +1,1 @@
+Remove extraneous spaces from attributes, ref #666

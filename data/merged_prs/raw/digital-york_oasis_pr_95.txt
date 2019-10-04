@@ -1,0 +1,2 @@
+Correct age of learners
+It resolves:  allow multiple age data entry use authority labels for detailed summary views  Resolves remaining issues from #61, #45 and #68

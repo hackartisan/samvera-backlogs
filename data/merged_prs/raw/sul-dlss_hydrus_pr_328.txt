@@ -1,0 +1,2 @@
+Switches to using dor-services-client for closing version.
+closes #327

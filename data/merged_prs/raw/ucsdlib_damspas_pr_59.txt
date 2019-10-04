@@ -1,0 +1,2 @@
+Added test case to validate the correctness of downloading the html content files.
+See https://lib-jira.ucsd.edu:8443/browse/CEOKEY-13. The corrupted html content files issue is caused by the failing of deflating the gzip inflated response body. The problem is gone when turning off the gzip inflation at damsrepo now.

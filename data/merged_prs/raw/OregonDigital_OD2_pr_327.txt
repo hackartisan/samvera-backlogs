@@ -1,0 +1,2 @@
+remove linelength, autofixes offenses
+linelength poll suggests that we disable the cop.. oddly, rubocop also found a bunch of offenses that I fixed.. wonder why those were caught in CCI

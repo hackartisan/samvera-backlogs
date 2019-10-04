@@ -1,0 +1,2 @@
+Removing cache from epub in favor of unpacked
+See #1692

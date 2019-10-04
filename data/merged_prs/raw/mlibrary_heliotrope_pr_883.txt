@@ -1,0 +1,1 @@
+Fixes #872 FileSet's that have external resources links are broken

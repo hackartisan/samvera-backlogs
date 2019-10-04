@@ -1,0 +1,2 @@
+Fix quill on edit screen
+When you load the editing screen for an object the values returned are arrays. This changes those components so that they can handle both cases.

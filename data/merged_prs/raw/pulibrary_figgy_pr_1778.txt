@@ -1,0 +1,2 @@
+Replace SimpleResource with just a ChangeSet
+Closes #1766 Closes #1681

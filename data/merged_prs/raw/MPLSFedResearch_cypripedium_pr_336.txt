@@ -1,0 +1,2 @@
+Do not save searches for anyone
+Since Hyrax has no ability to display saved searches, do not save them. This also eliminates the need to clean them up afterwards, so remove the old searches cleanup job. Connected to #333

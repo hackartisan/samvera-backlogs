@@ -1,0 +1,2 @@
+Text description has disappeared from public view of collection
+The public view of a collection (1) does not show the text description I have entered (2). I has been. visible on the test site at an earlier point (3). Can you please fix this? (1)  (2)  (3)

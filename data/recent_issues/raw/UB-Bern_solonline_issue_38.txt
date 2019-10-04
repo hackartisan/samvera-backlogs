@@ -1,0 +1,2 @@
+Anzeige Umlaute
+Bei "article works" unter "items" werden die Umlaute nicht angezeigt. Bspl.: Emch_Daniel__Grunds%C3%A4tzliche_Erheblichkeit.pdf https://solonline.unibe.ch/concern/article_works/47429912h?locale=en

@@ -1,0 +1,2 @@
+Import file identifier should include the work id
+Description The identifier for an import work needs to include the work id as well as its other numeric indicators. This is so it will map to the identifier that is used in csv import. Connected to #582

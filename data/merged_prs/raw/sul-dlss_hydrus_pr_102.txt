@@ -1,0 +1,2 @@
+add a task that indexes all workflow objects into the hydrus solr
+run this task on deploy automatically fixes #30

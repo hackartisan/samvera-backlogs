@@ -1,0 +1,2 @@
+Fix coverage.
+Closes #2248 Looks like this was just the result of a rebase gone awry.

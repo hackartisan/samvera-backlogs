@@ -1,0 +1,2 @@
+Verify Vocabularies in MAP
+Verify Vocabularies and Controlled Vocabularies in MAP

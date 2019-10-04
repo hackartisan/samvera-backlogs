@@ -1,0 +1,2 @@
+Visibility note for geo materials is incorrect
+Scanned maps, vector resources, and raster resources are all indexed into Pulmap no matter what visibility value is chosen. Visibility just influences whether previews and downloads are available to users.

@@ -1,0 +1,1 @@
+use label not id for authority field: type_of_material

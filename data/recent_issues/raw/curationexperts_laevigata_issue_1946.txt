@@ -1,0 +1,2 @@
+Upgrade to pg > 1.0
+Laevigata is currently running on a pre-1.0 version of the postgres gem. We had it pinned there for awhile because it avoided a bug with rails, but that bug has now been fixed. We should remove the pin and start using the latest postgres gem. ACCEPTANCE CRITERIA   laevigata is using a version of the pg gem >= v1.0

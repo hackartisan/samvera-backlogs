@@ -1,0 +1,2 @@
+Batch-Uploader: Embargos
+Implement some way to handle embargod / restricted works in batch. there is already code in the rake task that handles this in some way, but we need to understand it better and implement specific restrictions and embargoes

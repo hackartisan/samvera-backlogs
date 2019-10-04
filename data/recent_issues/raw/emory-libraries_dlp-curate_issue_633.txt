@@ -1,0 +1,2 @@
+Log event for Virus Check
+Virus Check: after the checker service runs: https://github.com/samvera/hyrax/blob/addb09f382feb86ab32f937d1c41feaf8d7a1537/app/models/concerns/hyrax/virus_check.rb#L14

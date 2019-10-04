@@ -1,0 +1,2 @@
+Change Show, Edit, Cancel Links to Buttons for Accessibility
+Swaps the links for buttons on the show, edit UI elements in the forms based on accessibility feedback. Description Based on accessibility testing feedback, the user though it would be better if the links were buttons. They would "jump out" a little better and be more recognizable than just links. Connected to #868 Changes  swap links for buttons update the tests

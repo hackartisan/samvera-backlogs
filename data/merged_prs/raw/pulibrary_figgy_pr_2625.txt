@@ -1,0 +1,2 @@
+Limit updated resource query to resources with identifiers
+Fixes #2624

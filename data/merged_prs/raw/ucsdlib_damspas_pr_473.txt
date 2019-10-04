@@ -1,0 +1,2 @@
+Fixes #467 - Disable file downloading for localDisplay videos/audios and metadataDisplay objects.
+Fixes #467 Local Checklist   Tests written and passing locally?  Code style checked?  QA-ed locally?  Rebased with master branch?  Configuration updated (if needed)?  Documentation updated (if needed)?  What does this PR do? Disable file downloading for localDisplay videos/audios and metadataDisplay objects, while allowing campus users to download localDisplay images. Why are we doing this? Any context of related work? References #466, #467 @ucsdlib/developers - please review

@@ -1,0 +1,2 @@
+resolves 107 and 69
+resolves #107 and #69

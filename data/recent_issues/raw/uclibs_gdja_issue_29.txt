@@ -1,0 +1,2 @@
+Turn off in-line pdf download
+Descriptive summary Turn off in-line pdf download, it's taking too long for the browser to load.

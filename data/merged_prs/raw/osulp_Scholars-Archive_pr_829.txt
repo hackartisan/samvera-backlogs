@@ -1,0 +1,2 @@
+Uses date uploaded and date created for sortable fields
+Fixes #694

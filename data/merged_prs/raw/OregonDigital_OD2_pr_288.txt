@@ -1,0 +1,2 @@
+manages smtp to be enabled by env
+fixes #213 Staging had a configuration to force emails to not send because of the configuration :test.. This update puts the smtp enable as an ENV to allow for configurability for production and staging.

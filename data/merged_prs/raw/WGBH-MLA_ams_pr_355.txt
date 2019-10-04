@@ -1,0 +1,1 @@
+'add view assets link to batch show page'

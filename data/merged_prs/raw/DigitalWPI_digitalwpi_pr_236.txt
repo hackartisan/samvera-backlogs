@@ -1,0 +1,2 @@
+monkeypatch to run solr reindex successfully
+Fixes #235

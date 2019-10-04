@@ -1,0 +1,2 @@
+check primarySet for oai
+fixes #1020

@@ -1,0 +1,3 @@
+Depositor Agreement 2.0
+Currently the depositor's agreement is available via the monster about page and has a permanent URL of https://scholarsphere.psu.edu/agreement/. We would like to update the agreement and have versions of it accessible; for example. https://scholarsphere.psu.edu/agreement/1.0.
+I'm not sure if this falls under the same ticket or a separate one, but we should also add an additional metadata field to all works indicating the version of the agreement at the time the deposit was created. For example: `agreement_version: "https://scholarsphere.psu.edu/agreement/1.0" `   This *may* be a ScholarSphere 3.0 issue as we will be considering modifications to the agreement this fall.  

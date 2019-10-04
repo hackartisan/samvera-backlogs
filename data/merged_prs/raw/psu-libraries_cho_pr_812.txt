@@ -1,0 +1,2 @@
+Adding a Changelog
+Description Adding a changelog to document major code changes with each release. Changes  changelog.md added to project root.

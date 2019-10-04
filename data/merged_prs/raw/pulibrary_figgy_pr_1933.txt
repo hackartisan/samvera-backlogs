@@ -1,0 +1,2 @@
+Reduce queries in GraphQL queries.
+By pre-loading parents for FileSets in GraphQL queries it avoids running an inverse query for every page to determine if something is a Geo FileSet.

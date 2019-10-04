@@ -1,0 +1,2 @@
+Ability to turn off "fuzzy search" and perform precise searches
+Fuzzy search appears to be default, which usually makes it impossible to do a search and return a count of the items that match the exact search term; Hyrax returns things that “sort of” match the search query. Request ability for user to turn this off (e.g., in an Advanced Search), or have it off by default.

@@ -1,0 +1,3 @@
+Increase batch edit limit
+Currently allows editing of about 50 records at a time.
+De-prioritized looking ahead to Kithe - Moved to Backlog 5/22/2019

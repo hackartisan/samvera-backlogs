@@ -1,0 +1,2 @@
+Home page redirects to sign in page
+Descriptive summary Users should be able to access OD and public resources without signing in. Expected behavior Going to the home page brings up the home page regardless of whether or not user is logged in Related work Link to related tickets or prior related work here.

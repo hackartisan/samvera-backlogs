@@ -1,0 +1,2 @@
+Fix file names getting cut off
+When trying the batch create, I noticed that long file names were getting cut off, specifically by the size of the file.  This does not happen any of the specific works, i.e. Generic, Article, or any from the new work menu.

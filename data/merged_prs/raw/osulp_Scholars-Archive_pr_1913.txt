@@ -1,0 +1,2 @@
+Social media
+Fixes #1912 Google+ is no longer. Tumblr wasn't needed for SA.

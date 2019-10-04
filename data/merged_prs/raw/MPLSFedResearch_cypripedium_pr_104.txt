@@ -1,0 +1,1 @@
+Rake task will fail fast if user supplies invalid work type

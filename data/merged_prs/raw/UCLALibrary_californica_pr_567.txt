@@ -1,0 +1,2 @@
+Index a stripped down ARK for use in ursus
+Given an ARK like 'ark:/abcdef/1234567', update the solr index to include an catalog_id_ssi like 'abcdef-1234567' that can be used as the primary identifer in blacklight applications like ursus.

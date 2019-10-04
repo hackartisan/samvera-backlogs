@@ -1,0 +1,2 @@
+Upgrade to latest hyrax
+Requires a bundle update to re-calculate dependencies.

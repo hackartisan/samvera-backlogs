@@ -1,0 +1,2 @@
+Include facet anatomy in Refine Your Search and exclude series, cultural context from the topic facet. DHH-793
+https://lib-jira.ucsd.edu:8443/browse/DHH-793

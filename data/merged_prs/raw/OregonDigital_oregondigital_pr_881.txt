@@ -1,0 +1,2 @@
+Added trailing slash to result ID from Geonames search.
+Fixes #880

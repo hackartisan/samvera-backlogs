@@ -1,0 +1,2 @@
+Feature/help page
+fixes #35

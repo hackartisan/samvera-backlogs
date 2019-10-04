@@ -1,0 +1,2 @@
+Verify Clamav is running on files uploaded
+There were some errors with the clamav, but ScholarSphere was not seeing the errors.

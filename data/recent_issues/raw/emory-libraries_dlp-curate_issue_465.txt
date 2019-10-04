@@ -1,0 +1,2 @@
+Enhancement - don't force users to re-assent to deposit after the first time
+Investigate options to bypass the checkbox after a work has been created.

@@ -1,0 +1,2 @@
+Add web console config to environment
+I was getting an error that saying 'undefined method web console'. I figured we didnt need it for production, so I moved the config to the test and dev environments.

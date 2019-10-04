@@ -1,0 +1,2 @@
+Change all internal files versions to external files
+This commit includes a class that takes a Work type and converts each of the objects to use external storage. It does this by going through each of the versions for all of the files. It deletes the first version, while preserving the content. The subsequent versions have the correct version names: 'version1', 'version2', etc. There is a rake task to run this conversion that you can run: rake scholarsphere:internal_to_external_files

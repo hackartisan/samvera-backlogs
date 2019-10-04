@@ -1,0 +1,2 @@
+Use alternative_id to as a unique identifier to map to collection member ids
+Description In order to use local ids that are unique, we can use Valkyrie's alternate_id implementation that allows you to have a second set of unique ids to identify a resource. These can then be used to specify collection membership when importing new works. Connected to #491 Changes Instead of identifier, there is now alternative_ids in the csv columns.

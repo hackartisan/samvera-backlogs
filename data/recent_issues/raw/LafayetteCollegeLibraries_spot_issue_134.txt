@@ -1,0 +1,2 @@
+no fancy graph/slider appearing on blacklight_range_limit
+missed a check between local + dev server. probably maybe related to why there is no banner image on dev?

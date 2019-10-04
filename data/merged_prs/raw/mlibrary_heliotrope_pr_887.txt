@@ -1,0 +1,2 @@
+Resolves #871: Upload epub like an asset
+Branch was deployed to staging... https://heliotrope-staging.hydra.lib.umich.edu/concern/file_sets/hm50tr89c

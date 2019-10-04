@@ -1,0 +1,2 @@
+Give more unique bag notifications
+This commit changes the bag notification messages to contain the file name of the bag in the link and gives a list of the files in the bag. This is formatted as an html list. Connected to #238

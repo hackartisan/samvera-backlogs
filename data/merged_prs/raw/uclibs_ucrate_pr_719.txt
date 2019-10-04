@@ -1,0 +1,2 @@
+Update bootstrap-sass gem
+Fixes #692 Follows the recommendation from https://github.com/twbs/bootstrap-sass and added bootstrap-sass and sassc-rails gems to the gemfile

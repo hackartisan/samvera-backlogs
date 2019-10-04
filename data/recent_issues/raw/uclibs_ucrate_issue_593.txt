@@ -1,0 +1,2 @@
+Catalog page has wrong description label for production content
+Descriptive summary When viewing /catalog using data from production, the label for the description field is displayed as "Alt Description Tesim:" instead of "Description/Abstract:" THE PROBLEM IS ONLY WITH EXISTING PRODUCTION CONTENT FROM SCHOLAR.UC.EDU

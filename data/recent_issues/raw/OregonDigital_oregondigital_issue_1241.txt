@@ -1,0 +1,2 @@
+Change predicates for Is Volume, Has Number, Contained in Journal properties
+We're no longer using swpo predicates for OD2 and need to change to bibtex. This can be done before the migration to OD2. Full namespaces in OD2 MAP.   change swpo:isVolume to bibtex:hasVolume  change swpo:hasNumber to bibtex:hasNumber  change swpo:containedInJournal to bibtex:hasJournal

@@ -1,0 +1,2 @@
+Link master property to NumismaticPerson
+Closes #2900

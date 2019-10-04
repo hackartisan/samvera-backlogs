@@ -1,0 +1,2 @@
+Validate idle sequel connections
+Closes #1928 Integrates new patch in valkyrie-sequel: samvera-labs/valkyrie-sequel@7fee376

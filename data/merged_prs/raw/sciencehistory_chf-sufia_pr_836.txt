@@ -1,0 +1,1 @@
+Make exhibition field searchable, fixes #834

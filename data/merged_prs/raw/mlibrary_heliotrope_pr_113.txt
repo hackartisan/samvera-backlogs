@@ -1,0 +1,2 @@
+shares tmp dir & cc initializer, enables ffmpeg
+Closes #90.

@@ -1,0 +1,2 @@
+Feature/GPP-298: Set up AWS SES SMTP for Test Environment
+This PR adds additional configurations to action_mailer.smtp_settings and modifies the mailer default_from to read from environment variable.

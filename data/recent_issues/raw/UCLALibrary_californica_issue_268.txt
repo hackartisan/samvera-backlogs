@@ -1,0 +1,2 @@
+Mgmt: Default fields for search
+The following fields should be searched when a user enters text in the search box:  Title Subject Named Subject Location Description Caption Identifier Local Identifier Normalized Date Photographer

@@ -1,0 +1,2 @@
+disable CSB temporarily for IE11
+Resolves #1072

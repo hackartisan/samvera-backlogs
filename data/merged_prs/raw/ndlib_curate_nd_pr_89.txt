@@ -1,0 +1,2 @@
+Allow testing for sites in maintenance mode.
+Any requests with the header X-Test set will be allowed to pass the maintenance wall.

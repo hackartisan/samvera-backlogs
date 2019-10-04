@@ -1,0 +1,2 @@
+Numismatic Accessions
+Models/etc. for numismatic accession records, linked to from Coins. Attributes from numismatics db:  date person firm number (auto-incrementing sequence) type (one of deposit, gift, purchase, trade, or nil — controlled vocab?) references (like coin references) cost account info (description) private info (private notes)  Child of #2025

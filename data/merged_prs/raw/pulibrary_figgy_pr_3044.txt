@@ -1,0 +1,2 @@
+remove thumbnail_id from accessions
+closes #2984

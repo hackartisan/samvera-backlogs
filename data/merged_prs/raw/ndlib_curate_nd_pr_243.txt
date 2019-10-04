@@ -1,0 +1,2 @@
+Align content inside of grid tile
+Thumbnails can vary in size. I’m using flexbox to keep the thumbnail at the top of the container and the caption at the bottom.

@@ -1,0 +1,2 @@
+Mark 10TB of objects for cloud preservation
+Child of #1876 Depends on #2883   Implement a preservation profile toggle  Implement background workers to Bag objects with a given preservation policy (Likely implemented by #911)  Identify a set of objects that constitute approximately 10TB of files for the next scale of cloud preservation.  Mark those objects with a preservation policy that triggers cloud preservation

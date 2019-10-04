@@ -1,0 +1,3 @@
+Webserver running on lib-proc machines
+Backtrace line 35 of [PROJECT_ROOT]/app/views/layouts/application.html.erb: _app_views_layouts_application_html_erb___4572818897954578471_55345740  View full backtrace and more info at honeybadger.io
+While looking at the logs on one of the lib-proc machines, I noticed error reports about web traffic (which surprised me since I didn't think the lib-proc machines were running webservers).  But I checked, and they are running webservers and processing requests (though they fail and error).  We should disable the webserver on these machines.

@@ -1,0 +1,2 @@
+Fix missing Sony Ci ID for batch ingest
+Also,enhances factories to produce better sample data for demos. Updates the pbcore gem to bring in some bug fixes.

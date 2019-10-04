@@ -1,0 +1,2 @@
+Upgrading Hyrax Gem
+Updates Gemfile to 2.1.0.rc2 Fix NoID require in test suite Fix permission template in test suite Fix Dashboard layout for custom controller Fix form spec to use rendering_ids Fix Asset Form to use typed fields Fix Actor to include depositor info while creating sub-work Remove human_readable_type from models as its deprecated

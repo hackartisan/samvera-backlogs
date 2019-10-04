@@ -1,0 +1,2 @@
+Uses decorator for Blacklight headers.
+Closes #240, closes #238, closes #239

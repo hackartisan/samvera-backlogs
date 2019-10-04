@@ -1,0 +1,2 @@
+Add inactive `research_field` authority values
+Migrated objects require removed research_field values; this adds several of these in support of migration.

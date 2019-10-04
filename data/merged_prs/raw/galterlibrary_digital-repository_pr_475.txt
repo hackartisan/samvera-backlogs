@@ -1,0 +1,2 @@
+Allow admins to create users, fixes #468
+Add an admin area of a sort with links to adminy things.

@@ -1,0 +1,2 @@
+Add citations
+https://github.com/samvera/hyrax/wiki/Hyrax-Management-Guide#zotero-integration

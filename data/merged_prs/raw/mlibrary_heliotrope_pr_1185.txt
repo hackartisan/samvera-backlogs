@@ -1,0 +1,2 @@
+Work towards resolving #1162, highlighting search terms in CSB. One of
+the requirements for doing that is CFI ranges which are added here. This also fixes "more than on hit per DOM element" where before only the first search term was returned for a DOM element, now all the search terms/hits are returned.

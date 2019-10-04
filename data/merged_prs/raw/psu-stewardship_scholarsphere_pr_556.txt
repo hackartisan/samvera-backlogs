@@ -1,0 +1,2 @@
+About, Help <head><title> and Penn State Mark
+Provides the page title for the about and help pages. Updates URL and alt text for Penn State mark. Fixes #512 and #513

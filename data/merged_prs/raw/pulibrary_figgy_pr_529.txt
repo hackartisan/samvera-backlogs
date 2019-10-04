@@ -1,0 +1,2 @@
+Fixing controlled vocabularies for boxless folders
+Fixes #523

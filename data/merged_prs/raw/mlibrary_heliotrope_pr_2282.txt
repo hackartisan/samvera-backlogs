@@ -1,0 +1,2 @@
+Resolves HELIO-2568: Fix a flapping spec
+after do       ActiveFedora::Cleaner.clean! # Sweep away tombstone a.k.a. LDP::Gone     end

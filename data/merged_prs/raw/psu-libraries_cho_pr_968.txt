@@ -1,0 +1,2 @@
+Create symlinks under the public directory during deployment
+Description Makes sure the symlinks are correct under shared/public so that when Capistrano links to them, they exist and are pointing to the right locations. Notes The symlink to public/files will need to be removed later once #967 is completed.

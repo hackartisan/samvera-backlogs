@@ -1,0 +1,2 @@
+Logged in users can't download restricted vector files from Figgy when in Pulmap
+All authorized users should be able to download restricted content vector and raster resources.

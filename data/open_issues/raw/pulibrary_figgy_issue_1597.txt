@@ -1,0 +1,6 @@
+Migrate "Jamaica Rebellion" (pudl0060)
+Migration for this was started, but it's a photo album where every page has close-up shots of the individual pictures. We need to figure out the best way to make these display.
+In the "digital library bookshelf" - http://pudl.princeton.edu/collection.php?c=og&sort=title&rpp=14&start=14
+Julie says this one's her most popular item, and would really like it up.
+The display for this record is here: http://pudl.princeton.edu/viewer.php?obj=736664580#page/1/mode/2up  The current view makes it so that you can flip through the scrapbook as if it was a scrapbook in front of you. There's then a table of contents on the left where you can click to get a zoom-in of an individual picture.  Theoretically we'd get something close to this with a deeply nested table of contents where every photo was marked with a viewing hint of "non-paged".  Unfortunately, "non-paged" doesn't work in UV...
+This is odd: https://figgy.princeton.edu/catalog/4f951479-915d-481a-b157-33250e73ba3d  Someone migrated this late July. Maybe it was me? I thought I deleted it though.

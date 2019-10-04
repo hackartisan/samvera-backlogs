@@ -1,0 +1,2 @@
+Configure Hyrax for external IIIF server
+Gives the option to use an external IIIF server if the IIIF_SERVER_URL env variable has been set. If it's not been set, Hyrax falls back to using the local riiif server. Connected to uclalibrary/amalgamated_samvera#164

@@ -1,0 +1,2 @@
+Import as background job
+When you upload a CSV via the UI, launch an import via a background job Allow the user to continue with the import even if there are warnings (e.g., unrecognized headers) Add an entry box to the form to allow the user to indicate where the files to be attached are located Pass that value to the CalifornicaMapper so it can retrieve the binary files for attachment Update the Connell sample CSV so it works with current expectations for header values  Connected to #505 Connected to #504

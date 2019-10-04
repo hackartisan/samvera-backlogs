@@ -1,0 +1,2 @@
+Change default workflow to go directly to "published"
+Objects that do not need to go through the ususal emory_one_step_approval workflow, should go directly to a "published" state, rather than lingering in "deposited". Workflows must be reloadod for this commit to take effect: https://github.com/samvera/hyrax/wiki/Defining-a-Workflow#loading-workflows.

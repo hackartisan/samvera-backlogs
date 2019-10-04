@@ -1,0 +1,2 @@
+Add Coveralls
+This commit adds Coveralls to the project for code coverage. This can increase the startup time when running tests locally so it is only loaded when running on Travis. Closes #77

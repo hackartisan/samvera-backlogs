@@ -1,0 +1,2 @@
+Ezid pull
+Demonstrate use of YARD to clarify void and nil returns Demonstrate use of described_class in specs to facilitate rename and limit scope Rename a class that sounds like a static procedure

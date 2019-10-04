@@ -1,0 +1,2 @@
+ingest_work task assigns "In copyright" rights statement always
+Instead, the rights statement should be taken from the metadata, if present.

@@ -1,0 +1,2 @@
+add dashboard link to menubar for logged in users
+Followed the UI mockup, the traditional Hyrax dashboard has been removed. I've added a 'Dashboard' link to the menubar.

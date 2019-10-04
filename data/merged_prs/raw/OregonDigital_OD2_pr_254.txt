@@ -1,0 +1,2 @@
+doesnt route to login page
+Fixes #253

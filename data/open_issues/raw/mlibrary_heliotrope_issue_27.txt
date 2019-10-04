@@ -1,0 +1,2 @@
+Editor schedules publication for future date, manual publication confirmation still required
+STORY As an editor, I want to set the publication date for an asset or all assets associated with a monograph. SO THAT I can control when assets become publicly available and coordinate the release with a physical release. SUCCESS LOOKS LIKES I can see the publication date for any asset or monograph; before the publication date the asset is not discoverable or linkable in production; on and after the publication date, the asset is discoverable

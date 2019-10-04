@@ -1,0 +1,2 @@
+Policy model, controller, and views.
+Policy is an ActiveModel adapter for Checkpoint::DB::Permit. Policy includes ActiveModel and has a Permit instance.  This configuration resolves the Resque uninitialized constant Checkpoint::DB::Permit error. Most of the code is boilerplate and includes tweeks to request and controller specs to verify the correct response template is being used.

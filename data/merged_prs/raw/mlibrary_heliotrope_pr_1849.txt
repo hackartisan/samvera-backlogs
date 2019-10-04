@@ -1,0 +1,1 @@
+index sortable title; sort press catalog by title

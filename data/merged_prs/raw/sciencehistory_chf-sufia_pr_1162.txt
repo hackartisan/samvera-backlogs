@@ -1,0 +1,2 @@
+Misspelled right statement URIs should not trigger a 500 error.
+Fixes #1161 .

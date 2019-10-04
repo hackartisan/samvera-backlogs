@@ -1,0 +1,2 @@
+589 Asset Design
+Updates the design on asset#show. Reviewed with @sroosa.

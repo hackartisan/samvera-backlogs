@@ -1,0 +1,2 @@
+Default PDF should be color.
+Closes #1545.

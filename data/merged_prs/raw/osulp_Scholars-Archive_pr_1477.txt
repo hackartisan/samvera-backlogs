@@ -1,0 +1,2 @@
+Add :page to except method to exclude from Advanced Search link.
+Fixes #1476

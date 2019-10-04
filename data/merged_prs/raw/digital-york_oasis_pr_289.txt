@@ -1,0 +1,2 @@
+Issue #281 bug in author initial at citation
+Resolves #281 . It will use all authors and writers initial across all summary detail page.

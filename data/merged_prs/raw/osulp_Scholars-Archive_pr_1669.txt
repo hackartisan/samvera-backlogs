@@ -1,0 +1,1 @@
+fixes property names for ordered metadata migration

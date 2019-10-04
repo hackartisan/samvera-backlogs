@@ -1,0 +1,3 @@
+Replace message queueing with Sidekiq
+Resque does not seem to be actively maintained any more; Sidekiq is, and is recommended over Resque by the Hyrax developers.  According to https://github.com/samvera/hyrax/wiki/Background-Workers :  We recommend using Sidekiq, which is better maintained and has fewer quirks.
+As performance for loading batches of ETDs seems acceptable, consider implementing post deployment. 

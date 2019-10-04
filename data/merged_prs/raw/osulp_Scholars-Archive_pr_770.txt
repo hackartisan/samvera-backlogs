@@ -1,0 +1,2 @@
+Fixes form width and Location styling
+Fixes #680 Fixes #668

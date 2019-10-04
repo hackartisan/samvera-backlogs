@@ -1,0 +1,2 @@
+Feature/metadata only object
+Fixes #413 ; refs #413 Add restricted view banner note for metadata-only object view. @ucsdlib/developers - please review

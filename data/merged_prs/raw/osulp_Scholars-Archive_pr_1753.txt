@@ -1,0 +1,2 @@
+adds clamav
+Fixes #1653

@@ -1,0 +1,2 @@
+ansible-deploy
+set up some extra ansible stuff to finish up the Ansible deployment   git pull code ansible role  set up environment variables  set up ufw roles  Harden servers and best practices Blocks #22

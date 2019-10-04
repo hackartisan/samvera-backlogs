@@ -1,0 +1,2 @@
+Completed commitee member UI
+This completes the UI for committee members. If you select Emory as the affiliation, you will not be prompeted to enter the affiliation. This also changes some of the buttons in UI that were links to actually use the <button> tag, which is more semantic. It also avoids issues that might arise because of Turbolinks. Related to #1349 Related to #1056

@@ -1,0 +1,2 @@
+Extract docker stuff
+All the dev/test mode Docker stuff I did last week was getting cluttery so I split it off into a gem.

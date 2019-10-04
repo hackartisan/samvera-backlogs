@@ -1,0 +1,2 @@
+Add blacklight_oai_provider gem and run generator.
+More work on solr doc configuration, custom fields for OAI output. Copied OAI Set model, cleaned up Set title and removed facet limit. Added tests. Fixes #809

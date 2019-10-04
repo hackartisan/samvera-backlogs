@@ -1,0 +1,4 @@
+refine search results
+As an end user, I would like to be able to select specific indexes after I have searched by keyword, so I can narrow down my initial results to more relevant results. (E.g., After doing a keyword search, I would like to be able to narrow my results to just those words in titles and subjects.)
+By what? 
+@lmballinger Does this follow your user story: After completing a general keyword search, you want to be able to click something that will instead perform an advanced search, with the original query going into one or more advanced search fields?

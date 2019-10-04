@@ -1,0 +1,2 @@
+Removed Set from template index.
+Closes #446

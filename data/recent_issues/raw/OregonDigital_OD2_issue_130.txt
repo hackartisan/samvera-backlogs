@@ -1,0 +1,2 @@
+[6] Authentication requirements for users
+Descriptive summary Need the ability for users to create accounts via non OSU or UO authentication. Also need the ability for users to authenticate via OSU or UO authentication systems. Expected behavior User should be presented with a create/login interface that makes it clear how to acquire an account and login. User who logs in to the system should be directed back to the page they were previously on (NOT to the homepage)

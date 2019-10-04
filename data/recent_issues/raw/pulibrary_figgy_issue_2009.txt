@@ -1,0 +1,1 @@
+Scanned Resources should be able to ingest WAV files

@@ -1,0 +1,2 @@
+Fix cleanup task by opening and closing file properly
+Connected to #492

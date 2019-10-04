@@ -1,0 +1,2 @@
+notifications and feature test for laney workflow
+Addresses #196

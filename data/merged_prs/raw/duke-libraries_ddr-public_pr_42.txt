@@ -1,0 +1,1 @@
+update display of permalink; closes #41

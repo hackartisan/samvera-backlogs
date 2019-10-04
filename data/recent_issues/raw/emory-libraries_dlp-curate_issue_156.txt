@@ -1,0 +1,2 @@
+Tag a release for basic Hyrax for AWS encryption testing
+Tag the appropriate commit  Deploy the commit to curate-test  Wall clock upload and show pages

@@ -1,0 +1,2 @@
+Add a route to create a bag
+This commit adds a route and a controller action to trigger the creation of a bag. It is triggered by sending a POST request to /bag/create with an array of work ids in a work_ids parameter. This will be used in the front-end to trigger bag creation. Connected to #188

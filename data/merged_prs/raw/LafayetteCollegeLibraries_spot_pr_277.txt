@@ -1,0 +1,2 @@
+add redirect_controller for legacy urls
+expects a redirect rule from legacy platforms to send the full url to /redirect?url=<full url> RewriteEngine on RewriteRule ^collections\/[a-z0-9\-]+/[a-z0-9\-]+ https://ldr.lafayette.edu/redirect?url=http://digital.lafayette.edu%{REQUEST_URI} [L,QSA]  an item that contains an :identifier value of url:<full url> will match + we'll redirect to that item closes #20

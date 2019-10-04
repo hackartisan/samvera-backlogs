@@ -1,0 +1,2 @@
+Add Subject controlled vocabulary
+Fixes #379 Depends on #418

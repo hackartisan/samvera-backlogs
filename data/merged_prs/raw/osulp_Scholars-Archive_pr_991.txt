@@ -1,0 +1,2 @@
+updated contributor_advisor label for honors_college_thesis model
+fixes #978

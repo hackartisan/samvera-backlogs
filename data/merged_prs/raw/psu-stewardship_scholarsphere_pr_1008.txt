@@ -1,0 +1,2 @@
+Prefer single-quotes
+As an alternative to #1006. Double-quotes are allowed in cases of interpolation or other needs as required. Rubocop rules can be suspended on a per-method basis.

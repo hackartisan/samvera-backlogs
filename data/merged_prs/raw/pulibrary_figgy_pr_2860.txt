@@ -1,0 +1,2 @@
+Removes `BrowseEverything::Resource` and `BulkIngestController` browse-everything methods
+Removes BulkIngestController#selected_files_params, BulkIngestController#browse_everything_params, and BulkIngestController#selected_cloud_files? methods, along with BrowseEverything::Resource in favor of requiring these from browse-everything.  Advances #2855

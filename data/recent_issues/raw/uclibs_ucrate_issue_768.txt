@@ -1,0 +1,2 @@
+Change the Discovery tab in Collections to Visibility.
+Descriptive summary Currently the tab for changing from Open Access to Private in Collections is called Discovery.  We use the term Visibility when creating a work. Expected behavior To provide consistency across the application we should use the term Visibility on the Collection tab, also. Actual behavior Tab says Discovery Steps to reproduce the behavior  Edit a Collection Examine tabs across the top of the form.

@@ -1,0 +1,2 @@
+add X-Sendfile header for videos, #401
+Resolves #401 This needs mod_xsendfile installed on Apache as well as some Apache config to work. What this means is iOS and Safari will be able to view video in production, staging, and preview, anywhere that has Apache in front of the app. This will not work for dev and test. iOS and Safari will not be able to view HTML5 video in dev and test.

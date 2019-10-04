@@ -1,0 +1,2 @@
+Fixed the status 500 incompatible character encodings error and change the cancel button to use link. DHH-681
+https://lib-jira.ucsd.edu:8443/browse/DHH-681

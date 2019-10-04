@@ -1,0 +1,2 @@
+Archival Media Collection ingest should show a status saying it's currently ingesting
+Right now you can't tell if something broke. Requested by @kellybolding

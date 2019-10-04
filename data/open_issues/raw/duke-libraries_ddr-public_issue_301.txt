@@ -1,0 +1,2 @@
+get a URL to open a page within a multi-image item
+From stakeholder feedback Feb 2016: support linking to a page within a multi-image item that is presented via OpenSeadragon.

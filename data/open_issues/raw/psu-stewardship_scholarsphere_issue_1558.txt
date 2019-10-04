@@ -1,0 +1,4 @@
+change deploy script to use systemctl
+The command to restart resque should be: /bin/systemctl restart resque the current one is being deprecated:  /sbin/service resque restart We should remove any other references to service restart while we are at it. Parent of #1562 1562
+Should we get rid of this? https://github.com/psu-stewardship/scholarsphere/blob/develop/config/deploy.rb#L93-L102
+Changed the one that was failing here: https://github.com/psu-stewardship/scholarsphere/commit/949ca51d4cb26fe8d012df09ef9bf0360e44eb82

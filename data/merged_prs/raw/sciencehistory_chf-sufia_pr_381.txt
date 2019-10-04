@@ -1,0 +1,1 @@
+avoid loading dev rake in production, fixes #379

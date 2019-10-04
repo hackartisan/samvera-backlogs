@@ -1,0 +1,2 @@
+Cleanup old zip files. Story #126.  Fixed problem where updating crontab failed because Rails.root didn't interpolate
+This will find the files whether you set the environment variable for the zip directory or you just use the default directory.

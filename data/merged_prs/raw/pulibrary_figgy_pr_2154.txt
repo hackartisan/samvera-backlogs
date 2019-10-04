@@ -1,0 +1,2 @@
+Implements the PlaylistMembers and PlaylistMember Vue components for removing Recordings from Playlists
+Resolves #2080 and #2142 by addressing the following:  Implements the PlaylistMembers and PlaylistMember Vue components for rendering Recordings in Playlists and permitting users to remove them Ensuring that users cannot add the same Recording more than once using the DocumentAdder component Extending CreateProxyFileSets in order to handle cases where ProxyFileSets are removed as members

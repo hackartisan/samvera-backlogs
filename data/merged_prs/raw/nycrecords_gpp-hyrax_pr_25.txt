@@ -1,0 +1,1 @@
+Feature/GPP-300: Update Publications Display on Homepage

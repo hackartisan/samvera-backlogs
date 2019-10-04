@@ -1,0 +1,2 @@
+Collection Statistics
+As a collection manager, I want use statistics that count searches, views, and downloads, similar to the standard COUNTER stats provided by most database vendors, so that use of CHO collections may be compared to licensed digital collections. Henry P. Related to #7

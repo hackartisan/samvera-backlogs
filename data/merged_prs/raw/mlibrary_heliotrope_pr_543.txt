@@ -1,0 +1,2 @@
+Minnesota branding
+Closes #486 Adds Minnesota theme and updates seeds.db file to include typekit account, minnesota logo, and finalized press description. Adds a special class to crop press logos in the footer if necessary. Note: To see updates to Minnesota in deployment, you'll need to run RAILS_ENV=production bundle exec rake db:seed

@@ -1,0 +1,1 @@
+removes spring, loads clamav for production and staging

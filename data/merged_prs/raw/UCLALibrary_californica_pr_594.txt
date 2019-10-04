@@ -1,0 +1,1 @@
+CAL-551 - Use MODS resource type values instead of Hyrax defaults

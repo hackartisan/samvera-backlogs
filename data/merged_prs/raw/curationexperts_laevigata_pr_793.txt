@@ -1,0 +1,2 @@
+Email start small
+I decided my first attempt at this was trying to do too many things at once. This one is only focused on enabling email sending of workflow notifications. Fixes #534

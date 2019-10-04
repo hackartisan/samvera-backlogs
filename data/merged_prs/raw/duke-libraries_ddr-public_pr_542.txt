@@ -1,0 +1,1 @@
+Fix atom and xml results feeds.

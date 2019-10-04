@@ -1,0 +1,2 @@
+Implement file sets with GUI upload
+Description Connected to #580 Takes the existing single-file upload process done in the GUI and adds the file set resource as the intermediary between the work and file. Changes Are there any major changes in this PR that will change the release process? No Single files that are uploaded via the GUI are now stored in a file set that is attached to the work resource. Checklist   i18n enabled  adequate test coverage  accessible interface

@@ -1,0 +1,2 @@
+Introduces JavaScript form functionality for warning users of duplicate source_metadata_identifiers and barcodes
+Resolves #521

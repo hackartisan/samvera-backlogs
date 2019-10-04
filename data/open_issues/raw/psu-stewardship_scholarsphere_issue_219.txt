@@ -1,0 +1,2 @@
+Make file private (rake task)
+Create a rake task to make a file private. The task would do something like this: gf = GenericFile.find(file_id) gf.read_groups = [] gf.save  This is to help mark files as private when users accidentally add files with sensitive data to ScholarSphere.

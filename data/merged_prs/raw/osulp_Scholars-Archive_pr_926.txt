@@ -1,0 +1,2 @@
+updated mailboxer new message email and subject
+fixes #908

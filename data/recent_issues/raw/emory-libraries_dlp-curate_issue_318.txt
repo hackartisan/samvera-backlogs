@@ -1,0 +1,2 @@
+Re-test files depositing to S3
+Once file uploads are verifiable in the Curate UI, re-test to make sure files are being stored in S3

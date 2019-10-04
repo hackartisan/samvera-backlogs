@@ -1,0 +1,2 @@
+Feature/cv qa
+Improves as search for basic RDF vocabs. Fixes as for sets.

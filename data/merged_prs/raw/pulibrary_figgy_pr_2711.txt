@@ -1,0 +1,2 @@
+Standardize how change_sets are discovered
+This also renames SimpleResourceChangeSet to SimpleChangeSet so we don't have to migrate any data.

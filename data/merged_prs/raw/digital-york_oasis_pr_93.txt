@@ -1,0 +1,2 @@
+Issue 84 text on homepage
+done #84

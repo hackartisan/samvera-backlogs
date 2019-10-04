@@ -1,0 +1,2 @@
+Start all optgroups as closed.
+Fixes the subject selector not having categories collapsed by default.

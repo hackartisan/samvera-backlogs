@@ -1,0 +1,2 @@
+Hyperlink Underlines and Color
+Big swing at bringing the link underlines back, then removing the underlines on certain UI elements like buttons, facets, labels, and dropdown menus. Overrides the default underline for clickable h2 in the search index. Updates link color to pass contrast error and adds text shadow to h2 links for descenders.

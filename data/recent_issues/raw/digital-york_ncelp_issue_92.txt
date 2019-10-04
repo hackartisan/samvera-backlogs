@@ -1,0 +1,2 @@
+Facet pages - no header / navigation
+The facet pages you get to when you click on the browse buttons don't have header / navigation.

@@ -1,0 +1,2 @@
+Unbold Description Terms and Bold Description Definitions
+Overrides Bootstrap styles system-wide for description lists, so that the term is no longer bold and the definition is now bold. This one's for @olendorf because we like him.

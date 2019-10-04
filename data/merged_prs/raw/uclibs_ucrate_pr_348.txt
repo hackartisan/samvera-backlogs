@@ -1,0 +1,2 @@
+Adds permalink to user profile.
+Fixes #336 Present short summary (50 characters or less) Overwrite the show method in app/controllers/hyrax/users_controller.rb to add a permalink presenter.

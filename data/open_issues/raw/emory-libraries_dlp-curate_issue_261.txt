@@ -1,0 +1,2 @@
+Mock QA requests for testing
+Rather than getting results from the LOC authority, pretend that we do, so we don't depend on LOC results' order.

@@ -1,0 +1,3 @@
+Deleting notification results in a cryptic notice
+
+This is another one of those that doesn't really matter but fixing it locally will be painful as I'd have to copy either the notification controller or the user_mailbox class. Should be fixed upstream. 

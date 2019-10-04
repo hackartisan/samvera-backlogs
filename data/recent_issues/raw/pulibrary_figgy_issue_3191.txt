@@ -1,0 +1,2 @@
+Should 6773457 items be maps or scanned resources?
+Marked as maps, but only covers of books. Also, maybe these should be a MVW? https://figgy.princeton.edu/catalog?utf8=%E2%9C%93&q=6773457

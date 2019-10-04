@@ -1,0 +1,2 @@
+Favoring common object path to polymorphic path
+The common_object_path for any Fedora object should work; This is not the case with polymorphic_path. The route /curation_concern/etds/:id has been removed (as it is no longer something that can be deposited). There was an unintentional upstream bugga boo. This commit resolves that.

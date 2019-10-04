@@ -1,0 +1,2 @@
+New Classify Concern Page needs Spanish translations for Description
+Descriptive summary The Create Work Classify Concern Page needs the work type descriptions to translate into Spanish. Expected behavior That there be something Spanish in the work type descriptions. Actual behavior  Steps to reproduce the behavior app/views/classify_concerns/new.html.erb Related work Link to related issues or prior related work here.

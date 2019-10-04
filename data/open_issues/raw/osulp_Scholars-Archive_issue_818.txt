@@ -1,0 +1,2 @@
+Set up and configure auto generation of bibliographic citations
+Hyrax has the ability to generate citations automatically for items, but it needs to be set up and surfaced.

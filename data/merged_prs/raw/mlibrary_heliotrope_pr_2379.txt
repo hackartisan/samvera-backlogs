@@ -1,0 +1,2 @@
+HELIO-2740 Minted DOIs cannot be updated in the UI
+This works in preview for both monographs and file_sets. Examples: Registered: https://heliotrope-preview.hydra.lib.umich.edu/concern/monographs/hm50tr93z/edit?locale=en https://heliotrope-preview.hydra.lib.umich.edu/concern/file_sets/d504rk45z/edit?locale=en (it can take a few seconds for the ajax call to come back) Unregistered: https://heliotrope-preview.hydra.lib.umich.edu/concern/monographs/41687h652/edit?locale=en https://heliotrope-preview.hydra.lib.umich.edu/concern/file_sets/0v838086x/edit?locale=en

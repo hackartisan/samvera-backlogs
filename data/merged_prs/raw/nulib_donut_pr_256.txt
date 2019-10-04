@@ -1,0 +1,2 @@
+Deploy to staging
+Shoryuken! (#233) Replace active_elastic_job with shoryuken in preparation for containerizing Prevent ActiveJobs from firing multiple times Use the db for fedora Use Hyrax ingest queue for everything by default Add FIFO queue support

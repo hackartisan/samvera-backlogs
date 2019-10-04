@@ -1,0 +1,2 @@
+Add the first bag name and a count to notification
+This changes the notification to include the first file in the bag and then a count of all the rest of the files. Connected to #238

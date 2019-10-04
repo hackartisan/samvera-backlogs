@@ -1,0 +1,2 @@
+Applies text changes to embargo notifications and My Files page
+Adds message that asks users to wait while their primary PDF gets uploaded under the My Files tab. Also applies minor text changes to embargo notifications. Closes emory-libraries/etd-issues#56 , resolves emory-libraries/etd-issues#13 and resolves emory-libraries/etd-issues#64

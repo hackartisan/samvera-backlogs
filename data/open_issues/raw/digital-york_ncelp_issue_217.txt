@@ -1,0 +1,2 @@
+SEO - meaningful urls
+Create a system to assign meaningful urls.

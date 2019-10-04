@@ -1,0 +1,2 @@
+Fix contact form error messages
+Fixes #690 Fixes the contact form error message for invalid CAPTCHA when it wasn't that.

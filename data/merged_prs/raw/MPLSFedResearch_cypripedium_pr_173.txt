@@ -1,0 +1,1 @@
+Updating ordering of fields and removing series facet.

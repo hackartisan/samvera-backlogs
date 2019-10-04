@@ -1,0 +1,2 @@
+Configure Solr Cloud shard leaders
+Solr Cloud always uses the same instance for each shard's leader.  Deploy new configuration to solr-cor-test.library.emory.edu

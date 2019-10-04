@@ -1,0 +1,1 @@
+Addresses HELIO-2012 Modify headings of Login Options page.

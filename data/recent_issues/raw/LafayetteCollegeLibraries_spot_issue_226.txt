@@ -1,0 +1,2 @@
+[spec-related] refactor work factory when attaching files
+one of the biggest overheads we run into regularly is tests failing because of Ldp::Conflict:  Can't call create on an existing resource errors that come up from our factories when attaching works. it's not urgent. it's just really annoying.

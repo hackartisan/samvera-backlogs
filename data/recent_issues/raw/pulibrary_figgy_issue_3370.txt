@@ -1,0 +1,2 @@
+[Figgy/production] ActionView::Template::Error: undefined method `titleize' for nil:NilClass
+Backtrace line 36 of [PROJECT_ROOT]/app/helpers/catalog_helper.rb: render_visibility_label line 3 of [PROJECT_ROOT]/app/views/catalog/index.html.erb: _app_views_catalog_index_html_erb__3829233171941171972_102320200  View full backtrace and more info at honeybadger.io

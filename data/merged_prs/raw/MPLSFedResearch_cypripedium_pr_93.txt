@@ -1,0 +1,2 @@
+Change the `Contentdm::Record` attributes to singular
+This is so that they match the attrbiutes on the model. This commit also includes formatting fixes.

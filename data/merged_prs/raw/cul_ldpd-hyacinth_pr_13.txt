@@ -1,0 +1,1 @@
+add has_many :enabled_dynamic_fields to DigitalObjectType, DynamicField

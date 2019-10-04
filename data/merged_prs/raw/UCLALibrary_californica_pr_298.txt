@@ -1,0 +1,2 @@
+Front page goes to default search. Story #297
+Changes the root route to just display search results instead of default hyrax home page.   Connected to #297

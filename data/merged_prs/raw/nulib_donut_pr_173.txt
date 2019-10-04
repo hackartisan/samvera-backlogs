@@ -1,0 +1,2 @@
+Add docker health checks and saner waits
+Instead of waiting 20 seconds for services to come up, add actual health checks to the docker-compose files and use them to determine if/when the services are ready. Also do a better job of trapping SIGINT and making sure services come down on exit.

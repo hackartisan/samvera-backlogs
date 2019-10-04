@@ -1,0 +1,2 @@
+OSU CAS auth enabled for *.oregondigital.org 
+Descriptive summary Currently OSU CAS authentication doesn't work for any oregondigital.org domains. A request needs to be made of I.T. for this support. Expected behavior staging.oregondigital.org should allow for OSU CAS authentication. Related work Link to related tickets or prior related work here.

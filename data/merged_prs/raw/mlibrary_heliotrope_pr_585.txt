@@ -1,0 +1,2 @@
+Resolves #584: Remove More/Less from Asset Description.
+Created .short_description scss class for more/less behavior.

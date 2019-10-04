@@ -1,0 +1,2 @@
+Reconfigure database with `californica` values
+Add database configuration for postgresql; update .env.sample to include all currently configurable values. Lastly, add dotenv documentation to README.md. Fixes #31; supersedes #32. Fixes #36

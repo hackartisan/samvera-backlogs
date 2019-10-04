@@ -1,0 +1,2 @@
+Feature/#46 update readme
+Fixes #46

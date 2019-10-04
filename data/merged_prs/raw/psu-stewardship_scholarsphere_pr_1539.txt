@@ -1,0 +1,2 @@
+Increases color contrast for the blue and gray color variable.
+Updates the text color for the navbar, bradcrumbs, and the zebra stripe. The gray color needed to have a couple variables created to not affect other parts of the UI using the same color variable, but in a different context. Adds a different hover state to the navigation to make the change visually more distinguishable. fixes #1525 #1526 #1527

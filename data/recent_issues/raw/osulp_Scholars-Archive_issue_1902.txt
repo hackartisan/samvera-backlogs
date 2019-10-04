@@ -1,0 +1,2 @@
+Items out of workflow
+Descriptive summary Many items in the IIFET 2018 and Honors College collections are out of the workflow. They should be in a workflow. Expected behavior This one was uploaded manually and is fine: https://ir.library.oregonstate.edu/concern/conference_proceedings_or_journals/cf95jj220 Actual behavior Out of workflow: https://ir.library.oregonstate.edu/concern/conference_proceedings_or_journals/12579z531 Spreadsheet listing all 1100+ items: https://docs.google.com/spreadsheets/d/1VwL9_7B0Q3FImWtk-UZuGV9jFc7rcCRBA1hq71r1URk/edit?usp=sharing

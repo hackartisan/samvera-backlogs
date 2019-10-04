@@ -1,0 +1,2 @@
+More nil check needed for homepage featured items
+While initialize an empty repository, the homepage cannot be loaded, e.g. showing the following error message:

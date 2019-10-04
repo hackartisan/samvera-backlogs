@@ -1,0 +1,2 @@
+add in margin-top on breadcrumb bar after losing it in hyrax 2
+resolves #1379

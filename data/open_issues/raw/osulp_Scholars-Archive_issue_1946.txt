@@ -1,0 +1,2 @@
+Export Files of Embargoed Works in BagIT
+Descriptive summary Figure out how and write a script to export fileset of embargoes works (e.g., ETDs) in BagIT. We know how to export "public" filesets but not for embargoes works. This issue is for preservation.

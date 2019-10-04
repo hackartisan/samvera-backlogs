@@ -1,0 +1,2 @@
+Rubocop style fixes
+Some style problems crept in while travis integration was down.

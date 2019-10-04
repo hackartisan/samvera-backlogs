@@ -1,0 +1,1 @@
+Display creator names in alphabetical order. Connected to #189

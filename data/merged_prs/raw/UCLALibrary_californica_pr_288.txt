@@ -1,0 +1,2 @@
+Do not use rightsstatement.org values for UCLA
+UCLA has not yet adopted rightsstatements.org so their values are not allowed in UCLA data at this time. Instead:  Use a placeholder URI for a UCLA specific copyright value Do not link copyright value to anything in the UI Update tests to reflect these expectations  Connected to #284

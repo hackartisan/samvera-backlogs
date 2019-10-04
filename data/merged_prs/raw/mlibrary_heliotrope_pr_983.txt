@@ -1,0 +1,2 @@
+add fulcrum video and modify language before case studies
+Resolves #966 Embeds the YT hosted version of the fulcrum video onto the fulcrum homepage; creates a class for responsive video on static pages; modifies language on homepage to reflect phases of project per CW request. Released to production in 1.4.2.1

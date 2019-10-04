@@ -1,0 +1,2 @@
+new derivatives monster PR
+Create derivatives using our own custom architecture, which uses vips, and stores on S3. Refactor custom viewer to use json-based image list. Add feature-flag-triggered download links on both viewer and show page, per image. For these new images. Adjust front-end image provision to have feature flags allowing our new stored-on-S3 derivatives, for both thumbs and downloads. Lots of tweaks to get it right. Sorry, lots of commits here.

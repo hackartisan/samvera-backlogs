@@ -1,0 +1,2 @@
+First run at configurable show view.
+Closes #107

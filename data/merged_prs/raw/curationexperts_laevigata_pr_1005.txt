@@ -1,0 +1,2 @@
+Refactor embargo notifications
+Put shared code into a module Ensure long titles are truncated, as we do for LaevigataNotifications

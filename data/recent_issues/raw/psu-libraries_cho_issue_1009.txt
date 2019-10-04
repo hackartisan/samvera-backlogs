@@ -1,0 +1,2 @@
+Add "Extracted Text" option to Basic Search
+The Basic (and advanced when we get to it) Search should have an option to search only the extracted text of resources, no metadata, so users can limit their searching to content only.

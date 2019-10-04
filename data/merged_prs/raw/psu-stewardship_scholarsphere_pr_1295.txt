@@ -1,0 +1,2 @@
+Updating indexing and presenters for speed
+refs #1233 Only paginate once and then cache member presenters for work show page Cache File Format for two field in the index Cache readme content in the index Calculate Format in FileSet instead of calling to_solr, which is more expensive

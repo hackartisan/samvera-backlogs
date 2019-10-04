@@ -1,0 +1,2 @@
+Add missing migration.
+Forgot to run this when we updated Valkyrie. Creates a new index which significantly speeds up queries.

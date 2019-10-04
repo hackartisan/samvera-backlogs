@@ -1,0 +1,2 @@
+Type of Work - Meeting Minutes value
+Pre-migration to GWSS 2.0, the "Type of Work" field included the value "Meeting Minutes." The value looked like maybe it didn't get carried over during the migration, and we missed catching it while reviewing. When these items are opened in the admin edit page, the "Type of Work" field is unassigned, and an alert appears that required fields are not completed. As a result, in order to edit any item with the "Meeting Minutes" value, the item must be re-assigned to a value other than "Meeting Minutes".

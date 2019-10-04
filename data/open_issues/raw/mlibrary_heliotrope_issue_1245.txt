@@ -1,0 +1,2 @@
+Bill's ClamAV Generator
+Investigate possible use of Bill's ClamAV Generator in Heliotrope. https://mlit.slack.com/archives/C1CC2MEGL/p1505943181000211 gem 'hyrax-clamav_daemon_setup', git: 'https://github.com/billdueber/hyrax-clamav_daemon_setup'

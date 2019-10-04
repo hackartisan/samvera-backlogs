@@ -1,0 +1,2 @@
+Replace custom fullscreen widget with cozy.control.fullscreen
+Depends on mlibrary/cozy-sun-bear#194

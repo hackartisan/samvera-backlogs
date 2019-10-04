@@ -1,0 +1,4 @@
+Tranlate Linked Data URIs into Strings on Object Show Pages
+As a metadata manager, I'd like to be able to use URIs that are translated into the strings in the public view, So that I may use externally managed vocabularies.
+Dupe of #19, closing.
+Not a dupe, this would be a sub ticket of the epic.

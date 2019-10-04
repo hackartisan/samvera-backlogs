@@ -1,0 +1,5 @@
+Add back Shibboleth integration
+
+Consider https://github.com/omniauth/omniauth-saml
+Consider doing this first for POE repo, then applying here.
+Ref https://curationexperts.github.io/playbook/authentication/shibboleth.html 

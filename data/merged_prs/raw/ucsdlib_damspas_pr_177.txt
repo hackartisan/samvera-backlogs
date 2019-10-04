@@ -1,0 +1,1 @@
+Fixing the external link record in fixture file.(DAMSKEY-521)

@@ -1,0 +1,2 @@
+Refactor fedora cleaning out into rails helper
+I'm pulling @no-reply 's fallback admin set work out into pieces that can be merged one by one

@@ -1,0 +1,3 @@
+Allow to share things with users who don't exist locally
+Maybe pre-create accounts or create account on LDAP lookups when sharing things somehow...
+Things are sharable with the single-use links 

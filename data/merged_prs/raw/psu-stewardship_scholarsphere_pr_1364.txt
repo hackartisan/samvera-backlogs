@@ -1,0 +1,2 @@
+Adding tests and refactoring CopyPermissionsJob
+Added tests to cover embargo and lease copy Co-authored-by: Adam Wead amsterdamos@gmail.com Co-authored-by: Derek Morr derekmorr@psu.edu

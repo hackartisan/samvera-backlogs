@@ -1,0 +1,2 @@
+Deletes member resources for Collections, FileSets and general Resources
+Resolves #484 and #487

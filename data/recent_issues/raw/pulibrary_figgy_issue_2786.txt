@@ -1,0 +1,2 @@
+Increase font size for UV thumbnail list and index titles
+Requested by Dan. We'll have to test this with books and make sure it works.

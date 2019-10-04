@@ -1,0 +1,2 @@
+Pin Solr version
+Descriptive summary solr_wrapper sometimes fails to start when it checks to see if there's a new version of Solr available and it can't reach the download site. We should pin the Solr version in .solr_wrapper to 7.6.0 so solr_wrapper doesn't do a version check when it starts.

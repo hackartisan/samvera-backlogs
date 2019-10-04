@@ -1,0 +1,2 @@
+Prefix geo derivative names and ids
+Sets the output projection for vector derivatives to EPSG:4326 to avoid shapefile projection issues in GeoServer. The modest gains in performance when using 3857 are mitigated by increased complexity in setting up new layers. Prefixes geo derivative names and ids with a letter to avoid XML validation errors with GeoServer WFS generated GML.  Closes #1659

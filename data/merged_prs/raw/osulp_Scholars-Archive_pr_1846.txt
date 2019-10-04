@@ -1,0 +1,2 @@
+Formatting abstract field
+fixes #1807 Had to add some RSpec support for injecting blacklight helpers into view tests that depend on blacklight.. most of that was cribbed from Hyrax repository directly.

@@ -1,0 +1,2 @@
+VoyagerUpdateJob does not refresh metadata
+VoyagerUpdateJob does not refresh metadata. refresh_remote_metadata should be set to "1" instead of true: https://github.com/pulibrary/figgy/blob/master/app/jobs/voyager_update_job.rb#L19

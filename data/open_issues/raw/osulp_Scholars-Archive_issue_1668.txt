@@ -1,0 +1,2 @@
+Add embargo notification
+Add a embargo notification service similar to: https://github.com/curationexperts/laevigata/blob/a01f8dc2d54897abe491284e73eb98df7f8b2e62/lib/tasks/embargo_notifications.rake https://github.com/curationexperts/laevigata/blob/master/app/services/embargo_expiration_service.rb

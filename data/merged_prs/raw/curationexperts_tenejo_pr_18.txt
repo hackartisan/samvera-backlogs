@@ -1,0 +1,2 @@
+Set GeoNames credentials from .env
+Use GEONAMES_USERNAME to determine the Hyrax configuration on startup. Warn when there are no provided credentials.

@@ -1,0 +1,2 @@
+Add berlin2018 as a deploy target
+Remove unused deploy targets

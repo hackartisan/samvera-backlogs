@@ -1,0 +1,2 @@
+field_export_profiles & export_rules
+Adding models for export_rules and field_export_profiles, updated relationships between new models and current models Added CRUD functionality for field_export_profiles Allowing export_rules to be added to dynamic_field_groups

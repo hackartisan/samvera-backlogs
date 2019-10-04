@@ -1,0 +1,1 @@
+added configurations for QA/PROD mode

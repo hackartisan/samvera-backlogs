@@ -1,0 +1,4 @@
+Ingest "Ukrainian election ephemera" (pudl0144)
+These don't seem to be displayed anywhere. Migrate? Ping @jpstroop @joycebcat
+The metadata for this collection is in `\\lib-tsserver\GNIB\Ukraine\Collection` — these should be migrated as ephemera
+MODS metadata records: [ukrainian.zip](https://github.com/pulibrary/figgy/files/2353158/ukrainian.zip) 

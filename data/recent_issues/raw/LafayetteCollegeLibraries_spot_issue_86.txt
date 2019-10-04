@@ -1,0 +1,2 @@
+change License property predicate from dct:rights to dct:license
+Descriptive summary Map property "license" to dct:license instead of dct:rights. Rationale Out of the box, Hyrax maps the License property to a dct:rights predicate.  We will be using this property to hold depositor agreement data in the Publication data model and potentially other internal licensing documentation for other Work Types. dct:license is a more appropriate predicate for this use case. Related See discussion on Hyrax issue #3293

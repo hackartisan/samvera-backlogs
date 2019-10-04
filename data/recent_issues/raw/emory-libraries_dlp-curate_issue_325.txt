@@ -1,0 +1,2 @@
+Provide navigation to edit/manage individual Files through the standard Hyrax File Manager, such as changing visibility or permissions for a specific file
+Investigate as enhancements to original epic #119.

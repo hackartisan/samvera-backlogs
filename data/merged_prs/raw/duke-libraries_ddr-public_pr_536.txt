@@ -1,0 +1,2 @@
+Exclude components from DC scoped search results
+Because of changes to how Solr queries are generated for fetching thumbnails and components of items for assembling item views, we can now safely filter out components from search results for DC scoped searches. This does not affect searches from /catalog. Also removes some extraneous catalog controller settings that are now handled by search_builder.

@@ -1,0 +1,2 @@
+Log event for Fixity Check
+If attached to FileSet: figure out a way to capture at the work level  Record as FileSets or create a job to check fixity on all FileSets and aggregate  Record standard preservation events metadata including success, failure  See also ticket #281

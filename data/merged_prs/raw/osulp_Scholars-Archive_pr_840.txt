@@ -1,0 +1,2 @@
+added batch_upload_item to include SA default metadata
+fixes #790

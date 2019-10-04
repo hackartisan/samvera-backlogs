@@ -1,0 +1,2 @@
+Restore rendered_subject to eph folder decorator
+This was functionality introduced in #424 that regressed in #412

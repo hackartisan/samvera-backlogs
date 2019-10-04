@@ -1,0 +1,2 @@
+Feature/display first label
+Fixes #1288 This Indexes the first label as the primary label and all others as the alt labels. If only one label is returned, it will index an empty array in the alt label field.

@@ -1,0 +1,2 @@
+Bug fix: key not found: "active"
+This fixes a bug where the collection edit form would not render if there was a saved value in the administrative_unit field. The root cause of this was that the form wanted to filter on "active" QA values, and administrative_unit didn't have anything explicitly marked as "active". This PR adds explicit "active" designation to the administrative_unit QA config. It also adds a system spec for the collection edit form as well as some unit tests for QA configuration. Connected to #418

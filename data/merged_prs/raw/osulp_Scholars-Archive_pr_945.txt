@@ -1,0 +1,2 @@
+Create head_tag_extras partial to load Open Sans font.
+Fixes #944

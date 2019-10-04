@@ -1,0 +1,2 @@
+Feature/pdf derivatives
+Closes #374 This generates the PDF thumbnail as before, fixes the lack of PDF OCR (I ripped that out by mistake previously), and generates one JP2 per PDF page.  Displaying those pages... that's the 80% I'm still working on (see #493).

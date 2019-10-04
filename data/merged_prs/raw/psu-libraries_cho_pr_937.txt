@@ -1,0 +1,1 @@
+Making tests work if the label for title changes

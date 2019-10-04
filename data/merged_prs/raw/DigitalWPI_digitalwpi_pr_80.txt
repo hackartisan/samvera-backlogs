@@ -1,0 +1,2 @@
+Update to batch-loader fork
+Just updated the batch loader for future work on ingesting student works which can be easily exported in json.

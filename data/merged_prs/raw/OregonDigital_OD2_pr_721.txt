@@ -1,0 +1,2 @@
+Disable honeycomb in debug environments
+Fixes #701

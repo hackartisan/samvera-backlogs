@@ -1,0 +1,2 @@
+Increase memory limits for ImageMagick
+Sometimes ImageMagick runs out of memory when generating scanned map thumbnails. This limit should be increased. This is probably an ansible issue. See: ImageMagick/ImageMagick#396 (comment) Also: #2978

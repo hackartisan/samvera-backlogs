@@ -1,0 +1,2 @@
+updates development docker workflow
+fixes #122

@@ -1,0 +1,2 @@
+Error handling for oEmbed viewers
+Descriptive summary If a work has an oEmbed URL, and the viewer fails to load on the show page, that should be recorded and logged for troubleshooting. Possible reasons are that the source site is down, permissions changed on the media, or it was removed. Expected behavior   Admin Dashboard shows all oEmbed errors, sorted by most recent, and what those errors were.  Provide a way to mark errors as resolved.  Send email to depositor of work with oEmbed URL notifying about error.  Related work #75 #76

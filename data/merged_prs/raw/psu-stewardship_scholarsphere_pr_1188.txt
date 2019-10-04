@@ -1,0 +1,2 @@
+Adding in translation for Work show page for identifiers
+refs #1176 Original view:  New view:

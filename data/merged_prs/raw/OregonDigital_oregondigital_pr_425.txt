@@ -1,0 +1,2 @@
+adding sets to oai
+Adds support for sets to OAI PMH provider.  I'm creating tickets for further OAI work.

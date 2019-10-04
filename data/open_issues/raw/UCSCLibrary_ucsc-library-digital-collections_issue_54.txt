@@ -1,0 +1,2 @@
+improve test coverage
+Our repository is accumulating customizations that alter the default behavior of Hyrax. We need a robust testing suite to make sure these customizations never compromise any features we use. This is more difficult than creating standard tests, because they often need to test features of Hyrax in the context of our own application. Standard methods and best practices exist for this, but we need to devote more time to implementing them when it is convenient.

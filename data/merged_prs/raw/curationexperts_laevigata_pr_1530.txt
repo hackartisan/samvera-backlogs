@@ -1,0 +1,2 @@
+remove the metadata as well the file
+This commit fixes a bug caused by removing metadata from savedData but not the formStore array.

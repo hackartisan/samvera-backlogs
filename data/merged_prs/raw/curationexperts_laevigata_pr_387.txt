@@ -1,0 +1,2 @@
+Check embargo before displaying abstract or table_of_contents
+Addresses #359

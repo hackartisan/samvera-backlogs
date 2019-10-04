@@ -1,0 +1,2 @@
+remove Solr phrase query, optimize
+HELIO-2877

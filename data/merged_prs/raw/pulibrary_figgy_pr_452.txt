@@ -1,0 +1,2 @@
+Ensures that slugs are also exposed for Collections
+Resolves #421

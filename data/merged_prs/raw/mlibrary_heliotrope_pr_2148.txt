@@ -1,0 +1,2 @@
+banner logic refactor
+The line return false unless /michigan/.match?(subdomain) || /heliotrope/.match?(subdomain)  was unnecessary since the next two lines return false if the product is blank product = banner_product(subdomain) return false unless product.present? && product.name.present? && product.purchase.present?  and the product is blank because banner_product(subdomain) returns nil unless 'michigan' or 'heliotrope' and the product exist.

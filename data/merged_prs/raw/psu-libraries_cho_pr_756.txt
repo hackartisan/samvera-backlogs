@@ -1,0 +1,2 @@
+Controlled vocabulary for existing Agents
+Description Adds a controlled vocabulary that returns a list of existing agents in the system. Connected to #732

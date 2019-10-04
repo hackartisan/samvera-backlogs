@@ -1,0 +1,2 @@
+Import GeoBlacklight document generation
+GeoBlacklight documentation imported from GeoWorks. Closes #230

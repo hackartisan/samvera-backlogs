@@ -1,0 +1,2 @@
+Ensure that type is displayed
+This changes the type display to use the correct accessor. To display the type you need to access file_type not type. This adds a spec to check that the correct values are displayed. Connected to #1539

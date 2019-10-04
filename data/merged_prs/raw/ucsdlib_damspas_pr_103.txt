@@ -1,0 +1,2 @@
+Sorting date ranges correctly (DHH-672)
+Fixes https://lib-jira.ucsd.edu:8443/browse/DHH-672

@@ -1,0 +1,1 @@
+Updating the sitemap_generator gem

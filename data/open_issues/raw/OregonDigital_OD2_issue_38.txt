@@ -1,0 +1,4 @@
+Configure, setup, install, and code for OAI endpoint
+Descriptive summary OD provides its works and metadata to other groups that harvest the data using an OAI-PMH Harvester. Current OD OAI endpoint is: https://oregondigital.org/oai Example result for a set/collection is: https://oregondigital.org/oai?verb=ListRecords&metadataPrefix=oai_qdc&set=oregondigital:illustrated-booklets OD Wiki page, more details and known harvesters: https://github.com/OregonDigital/oregondigital/wiki/OAI-Documentation https://github.com/projectblacklight/blacklight_oai_provider Expected behavior  OAI endpoint works oai_dc and oai_qdc formats are supported OAI sets are configured, likely corresponding to AdminSets  Related work Link to related tickets or prior related work here.
+Related Work in Scholars Archive: https://github.com/osulp/Scholars-Archive/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+oai
+I revised the Descriptive summary and Expected behavior sections.

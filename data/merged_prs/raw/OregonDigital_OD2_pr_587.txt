@@ -1,0 +1,2 @@
+bugfixes for hyrax-migrator
+Rescue Net::ReadTimeout for fetch_value in deep_indexing_service.rb. Occasionally, the fetch raises a timeout (that ends up causing a 500 error related to #330) that breaks the migrator. Updates for crosswalk and crosswalk overrides

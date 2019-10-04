@@ -1,0 +1,2 @@
+Introduce an initial ingest tool with a title mapping
+We are using the Darlingtonia gem as the framework for the ingest tool. We expect to develop this gem going forward to better support californica's scale requirements. This introduces a rake task for import from a MODS XML file, backed by a ModsXmlParser and a ModsMapper. for the moment, the mapper only maps #title. Closes #9

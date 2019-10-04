@@ -1,0 +1,2 @@
+Convert selects to bootstrap-select.
+Much better UI. Closes #57.

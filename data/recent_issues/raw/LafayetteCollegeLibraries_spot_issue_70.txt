@@ -1,0 +1,2 @@
+add ability to set model during import
+we're currently defaulting to Publication because that's all we have now, but it won't be for long! (see: https://github.com/LafayetteCollegeLibraries/spot/blob/85a4115/app/services/spot/importers/bag/record_importer.rb#L8-L12)

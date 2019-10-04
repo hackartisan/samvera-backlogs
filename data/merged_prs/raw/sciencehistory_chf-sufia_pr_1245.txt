@@ -1,0 +1,2 @@
+provenance notes metadata
+I dropped in a rudimentary show-hide functionality based on https://medium.com/@beedaan/partial-collapse-with-bootstrap-3-ef4e6bf85537 . I'm not attached to this particular recipe for the show/hide; this is just a proof of concept so we can have a conversation about UI. The recipe did require a slight adjustment to  app/helpers/description_formatter_helper.rb, which encloses the field in a p tag. The change allows you to request a span tag instead. (The default remains a p tag.) Fixes #1245

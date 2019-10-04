@@ -1,0 +1,2 @@
+Ensures that the "series" attribute for EphemeraFolder Objects is exposed as linked data
+Resolves #760

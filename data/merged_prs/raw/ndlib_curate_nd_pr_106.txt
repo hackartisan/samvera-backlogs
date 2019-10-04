@@ -1,0 +1,2 @@
+Lazily connect to noid server
+This way a failure of connect to the noid server won't keep the application for starting for other reasons, e.g. database migration. Also, this is a nice refactoring of the inside of the id service.

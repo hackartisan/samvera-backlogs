@@ -1,0 +1,2 @@
+Merging develop into master
+fixing dimensions bug   Delete _dimensions.html.erb

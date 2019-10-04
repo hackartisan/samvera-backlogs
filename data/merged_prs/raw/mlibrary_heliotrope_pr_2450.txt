@@ -1,0 +1,2 @@
+There's no longer a Hyrax::MonographPresenter.monograph method,
+use parent instead

@@ -1,0 +1,2 @@
+run `bundle update`
+Among other updates, this will silence a security warning about mini_magick <= 4.9.3

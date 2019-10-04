@@ -1,0 +1,2 @@
+Bulk Edit
+Bulk edit needs a GUI. See what is feasible and how. Ryan says mainly for adding metadata.

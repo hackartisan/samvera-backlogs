@@ -1,0 +1,2 @@
+override Solrizer to cache, speed up
+Solrizer.solr_name is called a lot on our show page. Profiling revealed it was somehow a bottleneck. This helped.

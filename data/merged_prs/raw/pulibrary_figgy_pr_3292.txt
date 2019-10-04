@@ -1,0 +1,2 @@
+Upload some basic metadata for preservation.
+Makes identifying resources in Preservation Storage easier.

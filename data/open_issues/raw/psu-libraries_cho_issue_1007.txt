@@ -1,0 +1,3 @@
+Updating Wiki with Large Collection Testing
+We should link to the write-ups on collection testing and results in the wiki. If necessary, we should add instructions so any developer can run the tests, process the data, and post the results to the wiki.
+* Move out https://github.com/psu-libraries/cho/wiki/Release-Process#run-benchmarks into its own page * leave the report data in awead.github.io for now

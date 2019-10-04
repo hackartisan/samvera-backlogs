@@ -1,0 +1,2 @@
+Create bag storage dir if missing
+This commit adds a method to create the directory where bags will be stored if it hasn't already been created. The directory is /opt/derivatives/bags in the production environment by default. It could also be set with the BAG_PATH env variable. Connected to #224

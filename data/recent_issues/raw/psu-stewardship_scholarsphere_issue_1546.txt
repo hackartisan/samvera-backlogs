@@ -1,0 +1,1 @@
+Agent is only filled in with email and id if the user exists in the system

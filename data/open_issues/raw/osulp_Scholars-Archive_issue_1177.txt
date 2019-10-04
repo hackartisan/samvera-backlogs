@@ -1,0 +1,2 @@
+Community / Collection handle mapping
+see #1165 After the ticket mentioned above is addressed, the yml mapping files for handles => community or handles => collection could be evaluated and simplified. Ticket #1165 will index all communities (even parent communities) for all items.. so communities like https://github.com/osulp/Scholars-Archive/blob/master/config/handles_ir_communities_collections.yml#L119 could be simplified to just finding the community "Department of Geosciences"

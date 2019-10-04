@@ -1,0 +1,2 @@
+2 separate Type facets showing up
+Descriptive summary There's currently 2 separate Type facets showing up. I believe this is because old index values are hanging around, and we need to reindex all works. http://staging.oregondigital.org/catalog?f%5Bhuman_readable_type_sim%5D%5B%5D=Video&locale=en&q=&search_field=all_fields  Expected behavior Only 1 Type facet

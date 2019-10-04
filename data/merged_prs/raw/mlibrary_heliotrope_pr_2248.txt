@@ -1,0 +1,2 @@
+improvments before creating nightly cron
+part of HELIO-2161

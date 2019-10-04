@@ -1,0 +1,2 @@
+replace axis label plugin flot
+Fixes #213

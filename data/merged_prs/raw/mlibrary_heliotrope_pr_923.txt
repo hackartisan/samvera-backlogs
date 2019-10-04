@@ -1,0 +1,2 @@
+Resolves #890: Has EPub
+Branch was pushed to staging: https://heliotrope-staging.hydra.lib.umich.edu/heliotrope

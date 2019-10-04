@@ -1,0 +1,3 @@
+scannedresource says `image_resource?` true
+How is this used? It won't really be accurate once we start putting audio files in scanned_resource
+WAV -> MP3 derivative generation is working now, so this is probably fine, but sloppy.  It would be good to clean this up to make future derivative processing logic simpler.

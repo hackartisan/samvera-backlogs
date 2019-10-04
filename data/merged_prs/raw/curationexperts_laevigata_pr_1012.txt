@@ -1,0 +1,1 @@
+Put do_not_send list in an external file for easier maintenance

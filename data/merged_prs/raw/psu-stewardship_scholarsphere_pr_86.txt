@@ -1,0 +1,1 @@
+Refactoring query_solr to use ActiveFedora solr.

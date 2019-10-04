@@ -1,0 +1,1 @@
+use new-to-rails5 config.assets.quiet=true for somewhat less overwhelming dev logs

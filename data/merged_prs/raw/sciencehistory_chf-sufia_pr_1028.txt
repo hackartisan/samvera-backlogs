@@ -1,0 +1,2 @@
+update loofah dependency
+vulnerability was unlikely to effect us, but best to update. flavorjones/loofah#144

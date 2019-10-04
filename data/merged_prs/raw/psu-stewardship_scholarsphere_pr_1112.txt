@@ -1,0 +1,2 @@
+Use canonical name for creator facets, ref #1104
+The display was used for facets, which could change from person to person. To make the facets unique for each individual, the facets are created from the concatenation of their given and surnames.

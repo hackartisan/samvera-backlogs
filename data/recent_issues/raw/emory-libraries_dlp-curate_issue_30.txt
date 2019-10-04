@@ -1,0 +1,2 @@
+Install Fedora for shared repository applications' use
+Discussed in 12/12 release planning meeting for 0.1

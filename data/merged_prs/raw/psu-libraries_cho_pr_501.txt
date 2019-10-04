@@ -1,0 +1,2 @@
+Updating rails-html-sanitizer
+Description Addresses https://nvd.nist.gov/vuln/detail/CVE-2018-3741 Why was this necessary? There was a security vulnerability with XSS. Changes Are there any major changes in this PR that will change the release process? No Checklist   i18n enabled  adequate test coverage  accessible interface

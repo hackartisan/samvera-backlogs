@@ -1,0 +1,2 @@
+Configure IIIF image server
+Enable IIIF image server here. Also, test uploading various file formats and see if they are being presented with the image viewer.

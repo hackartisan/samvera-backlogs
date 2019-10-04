@@ -1,0 +1,3 @@
+IIIF image server is struggling badly with large images
+Looks like images above 30MB give the IIIF server fits. convert processes are getting killed by the OOM killer. I'm in the process of requesting more swap (currently at 2GB vs 8GB for RAM) which should ease those concerns. However, if the images are even larger they will be back with vengeance. We need to figure something out to limit the number of processes that launch to what will fit in memory (RAM optimally.)
+Added, 6GB of swap and there's no more memory shortage. IIIF image server is still slow to process larger images. The issue will still happen if we have larger images. 

@@ -1,0 +1,2 @@
+Update and test `CreateWithRemoteFilesActor`
+This actor is modified from the Hyrax version. It has previously been untested, and was significantly out of date. The status quo would have failed anytime a remote file was sent to the Actor Stack. This updates the actor to reflect changes in the Hyrax version and puts in rudimenary testing.

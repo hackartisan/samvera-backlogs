@@ -1,0 +1,2 @@
+Handle missing collection title
+When the collection is missing a title, the item show page fails when trying to display the link to the collection. This change uses the path name as a string in place of the collection's missing title.

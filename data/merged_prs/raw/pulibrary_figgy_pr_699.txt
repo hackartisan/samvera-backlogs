@@ -1,0 +1,2 @@
+Upgrading to FactoryBot
+Fixes #694

@@ -1,0 +1,4 @@
+support for checksums
+As a metadata specialist, I need a way to generate checksums and store them in association with their objects in the repository, So I can use them for ongoing maintenance and long-term preservation. Child of #637
+Should get this from standard file characterization.
+Update the resource with the checksum calculated by FITS.  Blocked by #637

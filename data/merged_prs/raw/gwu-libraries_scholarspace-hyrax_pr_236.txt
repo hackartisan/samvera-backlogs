@@ -1,0 +1,1 @@
+Fixes #217 - Adds URL param to view item inline

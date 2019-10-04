@@ -1,0 +1,2 @@
+Replace sul_chrome gem with sul_styles gem for the UI layout
+https://github.com/sul-dlss/sul_chrome is deprecated.  Replace it with https://github.com/sul-dlss/sul_styles

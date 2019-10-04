@@ -1,0 +1,2 @@
+Home screen for numismatics
+Given the number of numismatic resources that can be managed and created, it might be useful to have a home screen just for numismatics.

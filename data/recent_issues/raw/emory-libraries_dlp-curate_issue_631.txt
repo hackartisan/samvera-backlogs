@@ -1,0 +1,2 @@
+Log preservation events related to Characterization
+Characterization: in the characterization job: https://github.com/samvera/hyrax/blob/master/app/jobs/characterize_job.rb#L12 Characterization events: Metadata extraction (files/FITS) Format identification (files/FITS) Validation (files/FITS)

@@ -1,0 +1,2 @@
+Configuring Travis for stage build with Niftany
+Description Configures Travis to use stage builds with a separate check for linters, using Niftany, to run first. The second stage is the rspec test. This also corrects an error with the solr version of the Travis configuration. Why was this necessary? Allows Travis to check to linter errors prior to running the test suite. Changes Are there any major changes in this PR that will change the release process? No Checklist   i18n enabled  adequate test coverage  accessible interface

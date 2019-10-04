@@ -1,0 +1,2 @@
+Diacritics and sorting results
+Descriptive summary we would lke to diacritics to sort alphabetically with their assocaited alphanumeric letters (e.g. u sorted next to a ü). What are our sorting options/configurations for such things in SOLR/Hyrax?

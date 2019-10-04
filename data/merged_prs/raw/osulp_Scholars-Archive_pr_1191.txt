@@ -1,0 +1,2 @@
+disable NewRelic for development environment
+fixes #1190

@@ -1,0 +1,2 @@
+Add ruby version file for ASDF.
+.ruby-version almost works for asdf, but the versions there don't have the ruby- prefix, so it would have to just be 2.4.4. Instead, using asdf's built in .tool-versions fixes it for me.

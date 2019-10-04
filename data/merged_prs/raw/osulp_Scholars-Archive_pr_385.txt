@@ -1,0 +1,1 @@
+adds mysql2 gem for database connection on server

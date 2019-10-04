@@ -1,0 +1,2 @@
+CSB remove ratio hack
+fix for paging out of chapters with many iframes

@@ -1,0 +1,3 @@
+dashboard_works_spec.rb TODOs
+Make sure the two TODOs in dashboard_works_spec.rb have been taken care of. One of them is related to samvera-deprecated/sufia#2049 and the other to samvera-deprecated/sufia#2054
+Verify that single use links and dashboard dropdown work and are tested. 

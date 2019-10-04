@@ -1,0 +1,2 @@
+Enable riiif as the IIIF image server
+This should add support for universal viewer.

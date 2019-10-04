@@ -1,0 +1,2 @@
+Remove deleted permissions from works in batch edit
+Batch edit was unable to remove permissions when they were removed via the UI. Using a separate class to manage the update process for each work in the batch, permissions are recast using the correct ids for each permission currently assigned to the work.

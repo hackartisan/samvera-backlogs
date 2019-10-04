@@ -1,0 +1,2 @@
+Remove old definition of NoidAdapter
+For some reason this second hunk was not committed in the last go. Whoops.

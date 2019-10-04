@@ -1,0 +1,2 @@
+Updated the date display label for the issue date and the collected date.
+https://lib-jira.ucsd.edu:8443/browse/DCMKEY-493

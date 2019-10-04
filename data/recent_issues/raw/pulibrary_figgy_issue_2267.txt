@@ -1,0 +1,2 @@
+Prepare report for Dan to manually select bib id in cases where we retrieved none
+Report would take the same form as the one in #2263 child of #2043

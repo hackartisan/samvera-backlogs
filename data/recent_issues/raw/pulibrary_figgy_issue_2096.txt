@@ -1,0 +1,2 @@
+Media Reserve Object Show Page should have "Create Playlist" button
+The create playlist button will make a new playlist titled after the MediaReserve (eg "Playlist: Elvis' Greatest Hits") and will add all of the tracks to the playlist and redirect you there.

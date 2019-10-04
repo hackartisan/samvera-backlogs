@@ -1,0 +1,2 @@
+Setup redirect in user service for all emails
+Fixes #184 This should redirect for any oregonstate.edu email. Does not support orst.

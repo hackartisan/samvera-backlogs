@@ -1,0 +1,2 @@
+all creators should be facetable
+Resolves HELIO-2082; Requires reindex

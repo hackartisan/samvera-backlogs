@@ -1,0 +1,2 @@
+Extract Donut::Retry into its own micro-gem
+This should put an end to ArgumentError: A copy of Donut::Retry has been removed from the module tree but is still active.

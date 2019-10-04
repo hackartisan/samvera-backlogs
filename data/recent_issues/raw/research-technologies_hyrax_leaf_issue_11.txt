@@ -1,0 +1,2 @@
+Create base Docker Image
+Create base Docker Image onto which we can play the gem install

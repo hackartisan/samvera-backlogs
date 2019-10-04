@@ -1,0 +1,2 @@
+Use 'ark' as the de-duplication field in the importer
+ACCEPTANCE When I'm importing works from a CSV file   The importer uses the values in the "Item Ark" field to determine if a work already exists and should be updated  Requires #456 Add an "ARK" to the data model Child of UCLALibrary/ursus#270

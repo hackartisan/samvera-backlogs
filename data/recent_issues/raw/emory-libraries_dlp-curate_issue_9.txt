@@ -1,0 +1,2 @@
+Feature: Content Dissemination/Export
+MVP components:  Generation of IIIF manifest to support standards-based content sharing and viewing

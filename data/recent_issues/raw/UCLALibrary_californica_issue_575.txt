@@ -1,0 +1,2 @@
+Display collection relation in .ttl view of a work
+ISSUE When I view the human readable HTML of a work, I see both the Collection and admin set membership:  When I view the turtle view of the same work, I only see the amin set membership indicated (I searched the full turtle for the ARK or the collection URL, but only see the snippet here for the admin set):  ACCEPTANCE   The turtle view (.ttl) for a work includes the collections that the work is a member of.  (i.e. there is a machine readable version of all the information shown under "Relationships" in the HTML view)

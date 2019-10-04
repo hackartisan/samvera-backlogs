@@ -1,0 +1,2 @@
+Feature/advanced search
+Closes #355 Note: We'll need to configure some more search fields.

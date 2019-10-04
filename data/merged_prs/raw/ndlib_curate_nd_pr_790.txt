@@ -1,0 +1,2 @@
+Patching critical vulnerability
+I do not believe that Curate exposed this vulnerability, however this patch is the recommended "monkey patch" if a version upgrade is not feasible at this time.

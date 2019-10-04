@@ -1,0 +1,2 @@
+removed featured works/collections from homepage
+Fixes #16 Remove featured works/collections widget from homepage.

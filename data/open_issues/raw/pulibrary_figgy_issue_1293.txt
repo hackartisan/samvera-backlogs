@@ -1,0 +1,3 @@
+Speed up save_and_ingest action
+We should have the front-end send the path it found to the back-end, rather than having the controller action search for the directory again. Something like 20 seconds is being spent searching the studio share for a matching ID, when it's already been done.
+discussed 1/14/19

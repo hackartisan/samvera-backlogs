@@ -1,0 +1,1 @@
+HELIO-2110 Extend chapter download div types (frontmatter, backmatter)

@@ -1,0 +1,2 @@
+Only enable New Relic agent in Production
+Changes proposed in this pull request:  Default new relic agent to be disabled Enable new relic agent on production only  The reason for this is we're going to start paying for New Relic, and we are charged per host. Which means having Staging, QA, etc. reporting data to New Relic is going to cost us an insanely large amount of money.. So we're going to focus on production. According to their documentation, this should do the trick. @VivianChu - If this works we'll need to do the same for DMR @ucsdlib/developers - please review

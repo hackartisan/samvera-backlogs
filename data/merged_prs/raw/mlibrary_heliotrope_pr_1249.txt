@@ -1,0 +1,2 @@
+Resolves #1235 Monograph Representative Manifest CSV
+Select the first FileSet that is a Comma Separated Values file as the manifest.

@@ -1,0 +1,2 @@
+Non-Generic works will not save
+Descriptive summary Since the addition, and temporary removal, of the retry fetch linked data queue (#438), non-Generic works aren't able to save because they can't find the #graph_fetch_failures method. This can simply be fixed by inheriting all works from Generic. Expected behavior non-Generic works save. Fetch linked data queue works again. Related work #438, #392 Accessibility Concerns None

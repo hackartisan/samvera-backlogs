@@ -1,0 +1,2 @@
+Ingest western americana / pudl0137 images that did not have mets
+Should these go through standard process via the studio? They've been moved to a directory called pudl0137-no-mets.

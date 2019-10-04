@@ -1,0 +1,2 @@
+Revert extracting title from wav files during characterization
+fixes #2307 reverts PRs #2308 and #2303

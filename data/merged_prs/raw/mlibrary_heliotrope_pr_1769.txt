@@ -1,0 +1,2 @@
+Fixes screen reader and keyboard cues for skip link
+NO TURBOLINKS!!! and class="skip" move to anchor so CSS works now.

@@ -1,0 +1,2 @@
+Undefine constant to avoid confusing warning message. Jira 608
+We redefine the Hyrax::PermissionBadge::VISIBILITY_LABEL_CLASS constant to add a new value to "visibility", but redefining a constant in ruby will cause a warning message like: already initialized constant Hyrax::PermissionBadge::VISIBILITY_LABEL_CLASS This code undefines the constant before setting it to avoid that warning message.

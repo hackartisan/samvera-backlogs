@@ -1,0 +1,2 @@
+remove identifier from forms and expose for admin
+Fixes #1396

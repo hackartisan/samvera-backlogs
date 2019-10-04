@@ -1,0 +1,2 @@
+adding api/items/download skeleton
+No Error checking, RaNGE stuff, or HEAD request. Just a proof of concept.

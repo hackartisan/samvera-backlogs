@@ -1,0 +1,2 @@
+Persist copyright questions
+This changes the copyright questions to select boxes, which detail what that choice means. That change is for #1556. They are select boxes (that default to no) because we need to submit the form as form data and checkboxes are problematic in that case: https://api.rubyonrails.org/v5.1.6/classes/ActionView/Helpers/FormHelper.html#method-i-check_box This commit also address the data not being persisted on the server by returning the values that laevigata expects for each of the options. Closes #1556 Closes #1557

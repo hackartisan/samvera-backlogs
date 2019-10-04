@@ -1,0 +1,2 @@
+Attempt to call id on nil when forming download link in manifest builder
+[Figgy/staging] NoMethodError: undefined method `id' for nil:NilClass Backtrace line 413 of [PROJECT_ROOT]/app/services/manifest_builder.rb: download_url line 420 of [PROJECT_ROOT]/app/services/manifest_builder.rb: display_content line 103 of [PROJECT_ROOT]/app/services/manifest_builder.rb: block in audio_manifest?  View full backtrace and more info at honeybadger.io

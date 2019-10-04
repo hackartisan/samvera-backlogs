@@ -1,0 +1,2 @@
+Add spinning loader (from lux!) to track detach button
+closes #2426

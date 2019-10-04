@@ -1,0 +1,2 @@
+Index the rights statement text attribute in Solr
+Connected to curationexperts/in-house#256

@@ -1,0 +1,2 @@
+Grab UO SAML config from env
+Fixes code related issues of #173 The rest is environment setup based on the env vars grabbed here

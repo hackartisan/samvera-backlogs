@@ -1,0 +1,2 @@
+Enables optimistic locking for FileSets
+This should prevent all race conditions overriding things like derivatives happening in background jobs. It could theoretically cause an error for users too, but we'll have to see if that happens in reality - it should be pretty hard to trigger, since the form doesn't include the lock token. Tested and made sure this fixes the issue with #2657 and #2877. Closes #2657 Closes #2877

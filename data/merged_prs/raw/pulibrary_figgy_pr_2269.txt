@@ -1,0 +1,2 @@
+Update rake music:report:bibids to accept a dbname env var
+closes #2260

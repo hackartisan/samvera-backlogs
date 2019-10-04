@@ -1,0 +1,2 @@
+Feature/qa rdf
+Treats ControlledVocabulary classes directly as QA classes. Makes QaRdf work.

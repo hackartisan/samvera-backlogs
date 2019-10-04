@@ -1,0 +1,2 @@
+Original File Name on the File Set Show Page
+Fixes <i> elements per style and adds aria-hidden true. Calls presenter.label to get the original file name. Fixes #547

@@ -1,0 +1,4 @@
+6170960 is not a map
+Convert this to a scanned resource and fix the See the map label in the catalog. https://figgy.princeton.edu/catalog/d58261b2-979b-4e36-865f-6a51727f41ba https://catalog.princeton.edu/catalog/6170960
+This will require talking to someone in the maps lab so that it can have the "See the map" label removed from Voyager.
+Someone from RBSC. It's in the Historic Maps Collection: `HMC01.6568`

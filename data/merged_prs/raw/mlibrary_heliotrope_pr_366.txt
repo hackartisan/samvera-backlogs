@@ -1,0 +1,2 @@
+modify monograph catalog ui to look like elderberry wireframes
+Closes #330 Removes, re-labels, and re-orders facets; removes unneeded metadata fields in document index (we only want description); adds custom styles to control display and re-orders document partials; creates a new js function to limit monograph descriptions greater than 500 characters; removes link to section show page

@@ -1,0 +1,2 @@
+Fix unicode escaping in catalog_controller
+Fixes #588

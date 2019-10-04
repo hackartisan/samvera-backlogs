@@ -1,0 +1,2 @@
+add markdown support for some metadata fields
+Resolves #284

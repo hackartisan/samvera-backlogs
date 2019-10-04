@@ -1,0 +1,2 @@
+Deploy to scholar-qa.uc.edu
+Descriptive summary Depends on #381 After the tooling is in place for us to deploy to scholar-dev.uc.edu and everything is working as expected, deploy the application to scholar-qa.uc.edu. Note: ruby will need to be upgraded on the web servers (after installing the readline-devel redhat package)

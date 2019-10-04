@@ -1,0 +1,2 @@
+Implements the METSDocument::MODSDocument Class for appending MODS metadata attributes within IngestMETSJob
+This is necessary for ingesting items without MARC records

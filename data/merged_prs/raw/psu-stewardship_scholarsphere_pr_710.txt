@@ -1,0 +1,2 @@
+Rename Labels on Work Tabs and File Set Edit
+Adds content for tabs to sufia.en.yml and updates text. Changes views to use translation. Remove icons from tabs. Update tests to reflect name changes. Changes based on user testing and accessibility testing with Christian and Michele.

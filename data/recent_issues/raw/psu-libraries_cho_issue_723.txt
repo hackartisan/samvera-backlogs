@@ -1,0 +1,2 @@
+Support for EDTF Ranges in Solr
+Ranges are supported in EDTF but are not casting to SOLR correctly, so they are not indexing correctly. Related to #267

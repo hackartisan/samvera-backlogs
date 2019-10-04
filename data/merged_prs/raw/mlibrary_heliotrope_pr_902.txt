@@ -1,0 +1,2 @@
+Update to CC 2.0.0 from 1.7.0
+Resolves #776

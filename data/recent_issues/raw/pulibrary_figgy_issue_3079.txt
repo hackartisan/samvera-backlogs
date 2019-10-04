@@ -1,0 +1,1 @@
+IngestArchivalMediaBagJob should create Recordings instead of MediaResources

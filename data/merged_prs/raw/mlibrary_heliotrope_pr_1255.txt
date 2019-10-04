@@ -1,0 +1,2 @@
+embed loading changes; rename template
+reload Leaflet map on page load don't preload videos, only their metadata turn off Leaflet scrollWheelZoom

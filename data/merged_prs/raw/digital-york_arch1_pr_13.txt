@@ -1,0 +1,2 @@
+Changes to the DEEP / OS searching
+This should all be working now. No duplicate items are now being created. Also added related authority for DEEP to point to uricdda urls.

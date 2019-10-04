@@ -1,0 +1,2 @@
+Changing the DraftPublishWorkflow to DraftCompleteWorkflow
+Resolves #1671

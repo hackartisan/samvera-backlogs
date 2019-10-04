@@ -1,0 +1,2 @@
+add unpaywall import ui
+i punted this part of #185 because there wasn't a parity use-case (also, that importer was an exercise that just ended up working). there really should be a ui for this functionality if we're going to actually use it.

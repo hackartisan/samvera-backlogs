@@ -1,0 +1,2 @@
+Use Valkyrie::Derivatives version with new id interface
+Closes #2692 Closes #2750

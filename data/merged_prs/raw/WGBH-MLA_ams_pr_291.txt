@@ -1,0 +1,2 @@
+Adds quotes around Sony Ci credential env variables
+Closes #290

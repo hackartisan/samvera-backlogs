@@ -1,0 +1,2 @@
+Resolves HELIO-2343: member@instiution
+Added logic to User and Guest 'name' method to handle 'guest@fulcrum.org' identifier.

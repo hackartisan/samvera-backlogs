@@ -1,0 +1,2 @@
+File attachment and de-duplication
+Attach files as preservation masters or intermediate files depending on filename Attach all of the files that belong to a given work to a single work, instead of making a new work object for each When a CSV row does not have a title:  If the object doesn't exist yet, give it a stub title If the object exists already, do not write over its metadata with incomplete metadata    Connected to curationexperts/in-house#262

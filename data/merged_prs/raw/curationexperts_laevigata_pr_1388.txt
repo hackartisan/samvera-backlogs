@@ -1,0 +1,2 @@
+Fix for blank page when clicking Submit My Etd
+Turbolinks conflicts with the loading of the new form, this just turns off turbolinks for that link. When you click it you will go to form without it being loaded by Turbolinks. This changes this for both the old form and the new form, but won't have any negative consquences. The page will be loaded using normal browser nagivation (there won't be a loading bar across the screen when clicking the link). For #1385

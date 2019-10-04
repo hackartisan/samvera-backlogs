@@ -1,0 +1,2 @@
+Adding in classes from running generate scaffold
+Allows for basic CRUD of MetadataApplicationProfileFields within the application

@@ -1,0 +1,2 @@
+Solr Suggester with build on commit causes stack overflows in Solr, #469
+Resolves #469 After this PR is merged we need to contact A&E to reload the solr cores for staging, preview and production.

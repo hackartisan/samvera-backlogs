@@ -1,0 +1,2 @@
+Update nokogiri to address security issue CVE-2017-15412
+This morning I noticed there's a security alert for Nokogiri 1.8.1. Upgrading to 1.8.2 fixes the issue.

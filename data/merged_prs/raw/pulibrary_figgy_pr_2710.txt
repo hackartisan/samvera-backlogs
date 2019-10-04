@@ -1,0 +1,2 @@
+Return orangelight document as a hash instead of a JSON string
+Closes #2709

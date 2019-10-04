@@ -1,0 +1,2 @@
+Add board to banner title
+Add a border to the banner title

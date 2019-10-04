@@ -1,0 +1,2 @@
+adds server side Google analytics for direct downloads
+fixes jetty configs causing local development breakage fixes #118 fixes #274 fixes #275

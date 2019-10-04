@@ -1,0 +1,2 @@
+Add draft mode for publisher
+As a Platform Admin, I can set a Publisher as  DRAFT and it won't be public, but other Platform admins  can see and edit it.  As a Publisher Admin for the DRAFT Publisher, I can see or edit the Publisher.  As a Platform Admin, I can see a Publishers Summary showing all of the publishers on Fulcrum (in all statuses -Draft and Published)

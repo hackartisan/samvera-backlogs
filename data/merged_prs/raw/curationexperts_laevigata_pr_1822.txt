@@ -1,0 +1,2 @@
+Replace banner image on homepage.
+Replace it with a better-cropped image.

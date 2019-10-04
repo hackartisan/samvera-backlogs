@@ -1,0 +1,2 @@
+CSV headers are case- and whitespace-insensitive. Story #93
+Connected to #93

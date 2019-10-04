@@ -1,0 +1,5 @@
+Add contributor_advisor field to default
+Descriptive summary To meet the needs of users, we need the contributor_advisor field added to the Default Metadata set and then turned on for the Default worktype. Expected behavior Students depositing work can list their advisor on submissions to the Default worktype. AFAIK, this involves:   add contributor_advisor to Default Metadata  turn it on (only) for the Default worktype  update the MAP to reflect the change
+@simholt I've got most of this done, just have a couple questions: - where do you want this on the Edit Form? Right now it's after Contributor - is this needed on the Batch Upload Form? - include on Purchased E-Resource?  (it includes both ETD form behavior (includes) and Article form behavior (does not))
+@wickr   _- where do you want this on the Edit Form? Right now it's after Contributor_ That's good.  _- is this needed on the Batch Upload Form?_ Probably a good idea.  _- include on Purchased E-Resource?_ No.
+Excellent! QA passed -  ![Screen Shot 2019-09-17 at 2 50 55 PM](https://user-images.githubusercontent.com/33705514/65082358-9749f000-d95a-11e9-94ff-be7573d9d4ef.png) 

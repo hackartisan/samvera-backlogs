@@ -1,0 +1,2 @@
+create curate generic work type
+Closes #80

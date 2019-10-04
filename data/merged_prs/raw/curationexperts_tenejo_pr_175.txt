@@ -1,0 +1,2 @@
+Refactor license checking
+Query hyrax directly for valid licence options Connected to #172 @mark-dce This is much better, thank you.

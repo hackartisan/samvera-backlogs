@@ -1,0 +1,2 @@
+Remove uneditable fields from CSV
+This removes the fields that aren't user editable from the CSV and changes the order of the headers to match the order in the UI. Connected to #91 Connected to #92

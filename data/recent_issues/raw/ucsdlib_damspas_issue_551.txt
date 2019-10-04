@@ -1,0 +1,2 @@
+Update Embed URL to include audio and images
+Descriptive summary  Add Embed information (I.e., URL, Code snippet) to audio and image objects as well. Should read:  Embed URL Embed Audio | Image | Video (whichever one)   Remove "Terms of Service" text  David Commentary We could probably get a little fancy with that second one and have it read embed video|audio|image depending on the object type.

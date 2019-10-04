@@ -1,0 +1,2 @@
+Use the BoxFileUploader to upload the file
+This commit adds the box file uploader to the Files component. After this commit you will be able to select a file from Box and add it as your primary file. Related to #1198

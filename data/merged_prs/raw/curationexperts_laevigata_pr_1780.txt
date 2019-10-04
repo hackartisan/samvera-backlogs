@@ -1,0 +1,2 @@
+validating for supplemental file metadata
+This commit adds extra conditions to the back end Files validator so that supplemental files with missing or incomplete metadata will cause a validation error and prevent the data form being saved. Connected to #1678

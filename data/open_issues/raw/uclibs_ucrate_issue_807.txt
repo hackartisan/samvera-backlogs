@@ -1,0 +1,2 @@
+Move Collection information
+For both the dashboard and the public view of collections, the Parent Collections section seems to be in the wrong spot. This should be as simple as moving the partial to the correct spot. I included pictures to show where I believe they should go.

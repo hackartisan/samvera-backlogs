@@ -1,0 +1,2 @@
+Migrated works should stay in the default admin set
+We have been encountering errors when editing migrated works that do not fit cleanly into our current system for assigning admin sets. For migrated works, instead of attempting to put them in an admin set based on their school and department, leave them in the default admin set where they were before the edit attempt. Connected to #1855

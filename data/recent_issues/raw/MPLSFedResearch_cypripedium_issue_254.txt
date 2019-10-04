@@ -1,0 +1,2 @@
+'Add to Bag' button not responsive after Turbolinks navigation
+When you first go to the Works page the button behaves as expected, but if you click around in the admin interface, using Turbolinks, the button does not respond because it loses the event binding.

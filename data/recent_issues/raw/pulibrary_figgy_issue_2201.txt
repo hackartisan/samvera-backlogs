@@ -1,0 +1,2 @@
+You should not be able to use the Playlist's "Search for Recording" functionality to add the same track twice
+Right now if Playlist A is built of Recording B which has tracks X and Y, and I hit the "Add Tracks" button for Recording B inside Playlist A's interface, it will add another copy of those tracks. I don't think we have a use case for duplicates?

@@ -1,0 +1,2 @@
+Run fixity checking on schedule
+Cron job kicks off rake task   Set up cron job - DevOps  Rake Task - Software engineering  Investigate: Plan to run fixity on all assets soon after migration See how long it takes to run  in Fedora, then schedule a followup

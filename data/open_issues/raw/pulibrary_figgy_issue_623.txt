@@ -1,0 +1,2 @@
+Add spinner to Vue Filemanager save button
+Larger works could take a few seconds to respond. We should use a spinner to indicate that it's "working on it".

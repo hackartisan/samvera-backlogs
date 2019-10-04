@@ -1,0 +1,3 @@
+Ingest "Zelda Fitzgerald" (pudl0140)
+Notes: This part of 831946. Could manually ingest w/ a part note By "part of 831946" it means it's not a full digital scan of the book with the bib id 831946.
+No PUDL collection page

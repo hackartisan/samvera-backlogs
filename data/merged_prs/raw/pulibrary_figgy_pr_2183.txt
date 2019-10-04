@@ -1,0 +1,2 @@
+List playlists that have recordings
+Closes #2137 This query takes 0.176ms to run against the production database.

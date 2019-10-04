@@ -1,0 +1,2 @@
+Update gems
+Check for Hyrax 3.0x beta and gems

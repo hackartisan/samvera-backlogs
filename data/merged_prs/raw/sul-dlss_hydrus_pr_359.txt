@@ -1,0 +1,2 @@
+tell simplecov it's a rails app
+Why was this change made? Telling simplecov it's a Rails app means it will give more accurate stats on code coverage. Was the API documentation (openapi.json) updated? N/A

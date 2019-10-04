@@ -1,0 +1,2 @@
+modified template to remove extraneous info
+removed #rationale section because i've always hated that part as it seems duplicative of the Descriptive Summary section

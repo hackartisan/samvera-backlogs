@@ -1,0 +1,2 @@
+Remove fits.log and avoid accidentally checking it in
+FITS tends to leave a log file in the home directory that we don't need to have checked into the repo.

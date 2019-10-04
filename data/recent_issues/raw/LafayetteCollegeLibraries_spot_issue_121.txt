@@ -1,0 +1,2 @@
+fits config updates
+chatting with @noraegloff, there are a few configuration tweaks we might want to add to the FITS configuration. we'll track them here. (see the default fits config for a starting point) formats  use AudioInfo on mp3 files  other  use less than 20 threads max (process -> max-threads)

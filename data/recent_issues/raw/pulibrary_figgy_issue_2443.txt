@@ -1,0 +1,1 @@
+Update ARK metadata for maps so their ARKs point to Pulmap instead of the Catalog

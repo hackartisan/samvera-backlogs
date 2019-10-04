@@ -1,0 +1,2 @@
+Increase max results per page from default 100 to 999.
+Temporary fix pending implementation of pagination of children on parent show pages. Closes #98

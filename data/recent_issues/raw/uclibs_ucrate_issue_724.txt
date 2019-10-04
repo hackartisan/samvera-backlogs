@@ -1,0 +1,2 @@
+Emails are not being sent when editors are removed from works
+Descriptive summary After #715 is merged, we will still have a bug where emails are not being sent when an editor is removed from a work. The fix will likely need to take place in https://github.com/uclibs/change_manager REF: #715

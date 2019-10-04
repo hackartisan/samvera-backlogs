@@ -1,0 +1,2 @@
+display section titles in order for multiple-section Filesets
+Optionally use section_titles on Monograph, the fall-back is the section order inferred from ordered_members (as before). Resolves #979

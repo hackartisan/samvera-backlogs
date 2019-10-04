@@ -1,0 +1,2 @@
+index role on contributor label and facet
+** Corresponding changes are already in common-indexer master  remove creators ( nul_creator and creator) from contributors indexing index  nul_creator and creator as creators Add nul_contributor to contributors indexing Index (and facet) "Label (Role)" for contributors

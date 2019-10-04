@@ -1,0 +1,2 @@
+look up rights metadata for rights statements faster
+We were using , from QA gem. This ended up re-loading YAML from disk on every call. Either the QA code needs caching it doesn't have, or we're using QA wrong, or both.  Rather than figure it out, we write our own simple wrapper to get the info from the same .yml file, and make sure it's cached globally. Nothing fancy about this no reason not to write ourselves.

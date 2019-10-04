@@ -1,0 +1,6 @@
+Add Title Translations as part of the metadata
+Allow the user to enter a translation to the title.  The user will be required to enter language. There may be multiple translations, which are unordered.
+- Add it in for both the displaying and the edit; doesn't exist in either place right now. Use RDF language tags to store it
+Is this the kind of interface we'd like to have? https://github.com/pulibrary/figgy/issues/1713
+Multiple title fields and each with a language.
+Keep `title` a singular field and add new fields for the translated titles.

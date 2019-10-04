@@ -1,0 +1,2 @@
+add resource_type facet
+Resolves #277

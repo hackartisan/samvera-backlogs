@@ -1,0 +1,2 @@
+Fix batch permissions edit
+Fixes #463 The bulk of this is a revert of a pre-7.3 fix that was half-fixed upstream; the upgrade's fix conflicted with the previous fix. The rest of the PR adds back in desired enhancements.

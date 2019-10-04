@@ -1,0 +1,2 @@
+DOIs for NU + Private items
+when an item is visible only to NU the DOI shouldn't get into the citation since it doesn't resolve anywhere. we should hide it from display. see test item with NU visibility:  Test item with Private visibility:

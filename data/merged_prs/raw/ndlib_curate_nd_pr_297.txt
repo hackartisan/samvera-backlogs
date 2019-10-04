@@ -1,0 +1,2 @@
+enable vendoring in disadis 'go get'
+"GO15VENDOREXPERIMENT=1 environment variable allows go 1.5 to look for vendored packages

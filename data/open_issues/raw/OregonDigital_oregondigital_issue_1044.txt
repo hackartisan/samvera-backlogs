@@ -1,0 +1,2 @@
+Export for exhibits
+Once the shared gov. board lets us know what the stakeholders think is a good export format for helping exhibit creators, we will need to implement it.

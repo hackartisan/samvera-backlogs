@@ -1,0 +1,2 @@
+Featured Researcher - delete entries option
+Add option to remove entries

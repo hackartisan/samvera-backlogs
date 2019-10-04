@@ -1,0 +1,2 @@
+Advanced Search (Problems)
+halting problem building fields  fixed values for journals, keywords and classifications

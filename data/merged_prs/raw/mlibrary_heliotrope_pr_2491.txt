@@ -1,0 +1,2 @@
+HELIO-2856 Style amherst
+Adds theme for Amherst College Press. Screenshots attached.

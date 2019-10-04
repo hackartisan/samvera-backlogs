@@ -1,0 +1,2 @@
+Add robots.txt and favicon
+Fixes #426 Fixes #427 Add proper robots.txt (disallow *) and UC favicon.

@@ -1,0 +1,2 @@
+IIIF Manifests should render ranges for a Sammelband.
+Child of #247

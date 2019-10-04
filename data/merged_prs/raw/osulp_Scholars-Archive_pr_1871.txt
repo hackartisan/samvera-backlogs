@@ -1,0 +1,2 @@
+update field_other js validation
+related to #1362 Update for field_other validation to address scrolling issue in Safari and Firefox browsers while using HTML5 built-in validators described in #1362 (comment)

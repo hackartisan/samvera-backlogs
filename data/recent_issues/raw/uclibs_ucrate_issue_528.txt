@@ -1,0 +1,2 @@
+Use "Items in this Collection" on collection show pages
+Descriptive summary On collection show pages, production Scholar users the header "Items in this Collection" above the list of files.  We want to use that same text in ucrate.  Currently, ucrate uses the header "Works" This might just require an override in hyrax.en.yml, but if not we should add it there so it can be translated.

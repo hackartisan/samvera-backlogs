@@ -1,0 +1,2 @@
+change breadcrumb text #9341
+This includes a sufia upgrade (a small one) to get the new breadcrumb changes in there.

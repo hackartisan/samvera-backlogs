@@ -1,0 +1,1 @@
+Default sort folders descending by folder number on box show page, fixes #519

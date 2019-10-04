@@ -1,0 +1,2 @@
+add date_issued sorting
+adds a date_issued_sort_dtsi field to Publications via mixin updates the catalog_controller sort fields  relevance date_issued asc/desc date added to repository asc/desc

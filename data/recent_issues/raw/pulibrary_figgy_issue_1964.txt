@@ -1,0 +1,2 @@
+MVWs with hundreds of volumes
+Do MVWs scale up to hundreds of volumes?  We have some serials, with hundreds of issues, where we would like to model them as a single MVW with up to 500 volumes.

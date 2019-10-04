@@ -1,0 +1,2 @@
+don't write/show manifests for private works
+fixes nulib/next-generation-repository#766

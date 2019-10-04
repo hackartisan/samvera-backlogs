@@ -1,0 +1,2 @@
+Add metadata fields
+added tests for this having to do with #15

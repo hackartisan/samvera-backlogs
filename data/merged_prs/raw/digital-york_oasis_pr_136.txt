@@ -1,0 +1,2 @@
+update text to make it right in both Windows and MacOS
+Re #49 Update texts

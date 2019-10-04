@@ -1,0 +1,2 @@
+OASIS Search issue
+There is something strange going on with the OASIS search function. Whatever I put in it returns 220 results (which is all the available summaries). For example, for the screenshot I put in some nonsense and still gave me results.  When I put in a normal search term, such as Marsden (2009), it does put the relevant reference at the top, but it still lists all the other summaries as results as well.

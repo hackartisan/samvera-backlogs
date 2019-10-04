@@ -1,0 +1,2 @@
+Presist User Level Permissions
+Added initialize and save hooks to set the user level permissions based on the work authorizations table. This works around the fact that user level permissions are currently not persisted in the dams system @mcritchlow the big thing I think to focus on here is to check if DamsObject is the right spot for this work? Is that the common denominator object?

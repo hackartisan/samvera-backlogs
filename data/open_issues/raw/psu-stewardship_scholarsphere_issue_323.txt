@@ -1,0 +1,6 @@
+Download statistics by location
+As a service manager, I would like to see how often items have been downloaded by users in Europe, so that I can help demonstrate the global impact of the service.
+@patriciahswe & @mahirakgun: Does the Geo location report from google analytics cover this request? https://analytics.google.com/analytics/web/?authuser=0#report/visitors-geo/a33252017w60487619p61852754/ 
+@awead I realized that data is for views.  Is there a way to look at the downloads by country in GA? 
+I found the ability to see downloaded Event Action as a secondary dimension of the report: https://analytics.google.com/analytics/web/?authuser=0#report/visitors-geo/a33252017w60487619p61852754/%3F_u.date00%3D20160501%26_u.date01%3D20160710%26geo-table.secSegmentId%3Danalytics.eventAction%26geo-table.plotKeys%3D%5B%5D%26geo-table.rowCount%3D50/ 
+sweet! 

@@ -1,0 +1,2 @@
+update hyrax-migrator
+Update migrator to get the updated stack

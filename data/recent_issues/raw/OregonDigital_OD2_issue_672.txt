@@ -1,0 +1,2 @@
+Order deployment information $date-$commit
+Descriptive summary Messages to Honeycomb and the footer of the page should include information about the current deployment in a more sortable order. $date-$commit is much more sortable than the current $commit-$date Expected behavior Honeycomb recognizes boots in a sortable order. Related work Accessibility Concerns None

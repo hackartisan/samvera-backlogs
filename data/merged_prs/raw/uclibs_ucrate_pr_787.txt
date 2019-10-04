@@ -1,0 +1,2 @@
+Update welcome email
+Fixes #779 Updates the welcome email according to #779.

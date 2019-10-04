@@ -1,0 +1,2 @@
+Move Support property values to Material, remove predicate
+Move any values in the Support property to Material. Remove the predicate from the system (including ingest form).

@@ -1,0 +1,1 @@
+Add provenance to data seeder attribute hash, fixes #969

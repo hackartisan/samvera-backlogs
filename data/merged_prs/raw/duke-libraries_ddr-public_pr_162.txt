@@ -1,0 +1,1 @@
+bypass SSL verification getting image data for zip creation

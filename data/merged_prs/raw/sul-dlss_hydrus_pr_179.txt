@@ -1,0 +1,1 @@
+Update dor-workflow-service to avoid faraday deprecation warnings

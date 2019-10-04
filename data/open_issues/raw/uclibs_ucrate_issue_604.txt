@@ -1,0 +1,6 @@
+Get Google Drive working properly with Browse Everything
+Descriptive summary Make the needed fixes to get Google Drive working for cloud uploads See #417 and uclibs/scholar_uc_legacy#1379
+@crowesn FYI, lots of fresh discussion is happening today about browse_everything 1.0 in the Samvera Slack #browse-everything channel.
+Browse Everything's master branch works with successfully for Dropbox, Google Drive, and S3.  Although the current version of Hyrax is not prepared to support the changes needed to the ImportURL job.  They are working on getting this PR (https://github.com/samvera/hyrax/pull/3652/checks) to pass Circle CI and merge into the samvera:2.x-stable branch.  
+https://github.com/samvera/browse-everything/projects/1#card-21519733
+Tested this branch : https://github.com/samvera/hyrax/pull/3652 SUCCESSFULLY for Google Drive. We will need to get to Hyrax 2.5.2 (BE 1.0.1) for this feature to work.

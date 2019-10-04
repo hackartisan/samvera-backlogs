@@ -1,0 +1,2 @@
+Shibboleth Login Bug Fix
+Fixes login routing error in non-production env a.k.a. development env. Note: ShibbolethsController is only used in development to provide mock Shibboleth routes.

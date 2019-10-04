@@ -1,0 +1,2 @@
+Create rake task for Resque assets, ref #444
+Resque's web interface isn't finding css and js assets. Although probably fixed in later releases, for now we are just symlinking the assets from where they are in the gem to where Resque is expecting to find them, under public/admin. This commit can be reverted once Resque is updated and/or replaced with the resque-web gem.

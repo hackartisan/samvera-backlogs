@@ -1,0 +1,2 @@
+Cleanup parent thumbnail_id when deleting member resource
+If a deleted resource has a parent and that parent's thumbnail is set to the delete resource, the parent thumbnail_id property should be emptied out.This will allow the user to choose a new thumbnail id via the OrderManager. Maybe here? https://github.com/pulibrary/figgy/blob/master/app/change_set_persisters/change_set_persister/cleanup_membership.rb#L29

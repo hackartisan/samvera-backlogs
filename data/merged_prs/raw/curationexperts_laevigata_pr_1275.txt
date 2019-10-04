@@ -1,0 +1,2 @@
+Mock Axios for Jest tests
+This commit adds mocks for Axios so that we don't get warnings in the jest tests that http requests haven't been resolved. This adds some JSON to to the specs that is what we would expect to get from QA.

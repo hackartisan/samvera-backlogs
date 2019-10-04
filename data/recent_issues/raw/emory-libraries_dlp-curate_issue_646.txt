@@ -1,0 +1,2 @@
+Create ansible role for s3 lifecycle tagging and delete by tag
+As part of the hyrax/fedora/solr backup and restore playbook that's being developed, we need an ansible role that will manage mass tagging and deleting objects from s3. Although there is an s3_lifecycle module I don't see the options needed for this role. Mostly likely this role will need to leverage the aws cli.   Create role that mass tags objects in s3  The role should also delete objects in s3 that have or are lacking certain tags

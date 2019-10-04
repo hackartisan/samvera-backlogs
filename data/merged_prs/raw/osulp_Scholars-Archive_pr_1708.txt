@@ -1,0 +1,2 @@
+Update title field references to nested_ordered_title_label.
+This fixes title search. Full title search with and without quotes works as expected on local dev instance. Also changed sort by title field. Fixes #1707

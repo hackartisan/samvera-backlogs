@@ -1,0 +1,2 @@
+Speed up Collection Member Button
+This query was taking 30s to run for large collections. Closes #2247

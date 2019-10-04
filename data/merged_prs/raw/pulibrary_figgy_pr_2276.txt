@@ -1,0 +1,2 @@
+Allow Tika to characterize apostrophe files.
+Closes #2273

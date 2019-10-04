@@ -1,0 +1,2 @@
+Project Permissions
+Changing to using CanCanCan DSL to assign permissions in ability Updating tests for project sub controllers Using symbols to check for authorization when controllers don't have a model backing it  Disclaimer: This could probably use more granular testing, but I can't look at it anymore. Thought I would pass it on to you guys to get your thoughts.

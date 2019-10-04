@@ -1,0 +1,2 @@
+can't change collection permissions on dev?
+not sure what's going on, but all of a sudden it's not possible to change a collection's visibility to public? might have something to do with permission grants, etc.

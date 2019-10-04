@@ -1,0 +1,2 @@
+Feature/browse everything
+fixes #263 TODO:    customize browse_everything config to load file_system on development and s3 on staging and production    add ticket to create required env variables: osulp/OD2-infra#37. Once this ticket gets closed, we can test s3 on staging

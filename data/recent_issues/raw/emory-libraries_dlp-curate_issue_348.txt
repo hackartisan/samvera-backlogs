@@ -1,0 +1,2 @@
+Remove accidental FileSet additions (with no files uploaded) 
+Test the behavior of the Edit/Create Work form if a user adds another fileset but doesn't want to retain it. Outcome: If you click on Add Another Fileset, and do not click on Upload FileSet, the fileset will not be created or attached to the work. If you fully complete the Upload FileSet and save the work, the fileset is attached, but it can then simply be deleted through the UI.

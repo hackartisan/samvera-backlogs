@@ -1,0 +1,2 @@
+Add a manual test script
+Fixes #104 Adds a manual test script we can follow before deploys to verify everything is working. The script covers basic functionality and attempts to verify unique features and overrides we've added to the application. If you come across incorrect directions, ambiguous directions, missing directions, or think that something that should be tested isn't being covered, please request changes.

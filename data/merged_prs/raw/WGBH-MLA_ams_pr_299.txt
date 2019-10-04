@@ -1,0 +1,2 @@
+Fixes some ingest formatting and error reporting
+Ensures that tranlated AAPB IDs will be prefixed with cpb-aacip- rather than cpb-aacip_ (i.e dash rather than underscore) which is consistent with newly generated AAPB-style IDs. Cleans out errant trailing question mark in duration values; relic from AMS1. Outputs object and field names when raising validation errors.

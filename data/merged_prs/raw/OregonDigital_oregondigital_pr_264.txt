@@ -1,0 +1,2 @@
+Improve UI for search results
+closes #252

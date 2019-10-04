@@ -1,0 +1,2 @@
+Display creator in search results view
+Requested by Brittany Jones

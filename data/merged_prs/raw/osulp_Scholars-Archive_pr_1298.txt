@@ -1,0 +1,2 @@
+updated date_in_past_five_years? to check that input dates are present
+fixes #1297

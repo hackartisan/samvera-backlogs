@@ -1,0 +1,2 @@
+Update README with clamav instructions
+Connected to #1320

@@ -1,0 +1,2 @@
+Added fulscreen/return button to bookreader viewer
+Fixes #342

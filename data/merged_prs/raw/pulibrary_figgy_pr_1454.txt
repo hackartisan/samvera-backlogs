@@ -1,0 +1,2 @@
+Add portion note to title of scanned maps with remote metadata
+Fixes issue where portion note is not displayed in the GeoBlacklight document title for scanned maps with imported metadata. Partially addresses #1453

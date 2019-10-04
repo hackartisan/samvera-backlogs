@@ -1,0 +1,1 @@
+cc icon: move/resize, https, new tab

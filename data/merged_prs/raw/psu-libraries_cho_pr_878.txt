@@ -1,0 +1,2 @@
+Data dictionary updates to date_created and rights_statement
+Description Updated the index_type of two data dictionary fields. One to make it EDTF, the other to test turning on facets. Connected to #720 Changes  Changed date_create to have an index_type of date Changed rights_statement to have an index_type of facet

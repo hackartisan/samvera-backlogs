@@ -1,0 +1,2 @@
+Updated Solrizer to retry on error and skip indexing the record if still failed. DHH-605
+https://lib-jira.ucsd.edu:8443/browse/DHH-605

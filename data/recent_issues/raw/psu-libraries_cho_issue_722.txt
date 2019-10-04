@@ -1,0 +1,2 @@
+Determine how Valkyrie is indexing EDTF dates
+If "Index type" is set to date in the data dictionary for a field, it is stored as a date in solr as a solr-friendly date for searching. Need to work out how Valkyrie is indexing them. (Persisters should persist things the same way.) Valkryie may be introducing changes to allow for more sophisticated patterns that might affect this. (These are from my notes from the 4.3 retro. I don't totally understand them.) Related to #267

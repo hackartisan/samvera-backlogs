@@ -1,0 +1,1 @@
+Fixes #1598, empty search results return 200, not 404

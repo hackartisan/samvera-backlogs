@@ -1,0 +1,2 @@
+Do not render on_behalf_of in edit mode, ref #970
+During edits, users had the ability to change the proxy for whom they're depositing. While this might be okay in general, an admin could accidentally change the proxy to someone completely different. Until we have a better overall solution, changing the value of on_behalf_of is disabled.

@@ -1,0 +1,2 @@
+glyphicon display for PDFs
+Resolves #1121

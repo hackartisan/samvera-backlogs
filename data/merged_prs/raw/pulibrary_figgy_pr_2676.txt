@@ -1,0 +1,2 @@
+Don't Check Fixity After Saving/Reload Objects in DerivativeService
+These two commits combine to work as a band-aid solution to #2657 until we get optimistic locking enabled.

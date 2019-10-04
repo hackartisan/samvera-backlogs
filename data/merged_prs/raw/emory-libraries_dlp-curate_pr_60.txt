@@ -1,0 +1,2 @@
+Rubocop setup
+Adds initial setup for Bixby (Rubocop rules for Hyrax); Updates files as per rubocop rules; Closes #53

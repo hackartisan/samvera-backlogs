@@ -1,0 +1,2 @@
+Make "hidden" Etds have "private" visibility
+When an Etd is marked "hidden", we want its visibility to reflect the original implementation throughout the application. This ensures "private" status is represented even when the object is under embargo. Fixes #1561.

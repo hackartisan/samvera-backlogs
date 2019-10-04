@@ -1,0 +1,2 @@
+Numismatic staff discovery
+Make sure that issues can be discovered by various metadata fields in Figgy. Child of #2025

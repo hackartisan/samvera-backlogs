@@ -1,0 +1,2 @@
+Updating Sinatra
+Addresses security issue https://nvd.nist.gov/vuln/detail/CVE-2018-11627

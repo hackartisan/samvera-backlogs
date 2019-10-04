@@ -1,0 +1,2 @@
+View Work does not display all populated metadata fields
+When testing the first Langmuir load, I noticed the View Work page does not appear to display all populated fields. Having all the populated fields display is needed for QA of migrated data. There are about 14 fields which aren't displaying when populated, some of which are required. I created a test object in Curate-test which has a value in every field from the form/model: https://curate-test.library.emory.edu/concern/curate_generic_works/cor-276f1vhhnj?locale=en Comparison of form fields vs. display output

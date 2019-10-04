@@ -1,0 +1,2 @@
+Add mendeley metatags
+Fixes #414 Add mendeley metatags - ported code from Scholar 3.

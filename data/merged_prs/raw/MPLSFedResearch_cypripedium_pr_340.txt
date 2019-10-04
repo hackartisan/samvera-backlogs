@@ -1,0 +1,2 @@
+new autocomplete fields, reordering fields in forms, abstract markdown
+Makes series, DOI, corporate author, publisher, creator, and subjects autocomplete fields. Abstract uses markdown. Reorders new work form fields to put required and recommended above the fold.

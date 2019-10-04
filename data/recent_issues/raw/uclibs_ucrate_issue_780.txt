@@ -1,0 +1,2 @@
+The FAQ page has outdated information
+Descriptive summary Some tweaks are needed on /faq to reflect the current version of Scholar.  One example is the term "delegates" is still used instead of "proxies."  Current users won't understand what a delegate is. Read through the FAQ and note any items that need to be updated.  Review the changes with the team and them implement them. If you can think of a frequently asked question that isn't on this page, consider adding it.  Check with Content Services to see if they have suggestions for content on this page.

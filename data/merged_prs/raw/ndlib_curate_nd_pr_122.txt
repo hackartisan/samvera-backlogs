@@ -1,0 +1,2 @@
+Changes for DLTP-187
+Header changes:  Comment out beta ribbon. Change "Hesburgh Library" and associated link to "Office of the Provost". This change was made in both the sufia.en.yml file and in the _brand_bar.html.erb file in order to get the correct text formatting. Fix Login button on screensizes less than 768px  Footer changes:  Hesburgh Library logo and link to right side of footer. Remove some text from the left side of the footer. The build identifier is still in the html of the page, but is commented out so that it only appears in the source code.

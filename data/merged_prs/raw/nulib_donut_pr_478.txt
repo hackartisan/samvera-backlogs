@@ -1,0 +1,1 @@
+Add Image#top_level_in_collection? with specs, and pass to common index

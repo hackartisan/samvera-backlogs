@@ -1,0 +1,2 @@
+Resolves HELIO-2820: Allow enlarging of cover thumbnails for Monographs
+removing fade from modal solved a lot of issues.

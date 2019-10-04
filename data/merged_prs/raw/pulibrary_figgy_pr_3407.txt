@@ -1,0 +1,2 @@
+Add shared specs back to some characterization services
+fixes #1401

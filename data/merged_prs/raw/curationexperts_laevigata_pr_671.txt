@@ -1,0 +1,2 @@
+Code deploy details in footer
+Fixes #659

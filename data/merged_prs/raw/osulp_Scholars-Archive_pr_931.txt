@@ -1,0 +1,2 @@
+send error to rails logger on triple_powered_service fetch_from_store
+fixes #928

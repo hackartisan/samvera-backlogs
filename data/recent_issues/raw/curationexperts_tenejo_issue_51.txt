@@ -1,0 +1,2 @@
+SPIKE: characterization performance
+EXPERIMENT When running characterization on enough files to get meaningful timings    Loading FITS once and running it on all files in the folder    Loading FITS multiple times, once for each individual file (like the actor stack would)    How many files do we need in our sample set

@@ -1,0 +1,1 @@
+Strip the byte order mark from the CSV before parsing it

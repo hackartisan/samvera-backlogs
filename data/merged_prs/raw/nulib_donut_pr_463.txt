@@ -1,0 +1,1 @@
+Pull SHA1 digest from file's fcr:metadata instead of calculating it.

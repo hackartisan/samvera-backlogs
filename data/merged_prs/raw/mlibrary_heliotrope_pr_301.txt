@@ -1,0 +1,2 @@
+maybe disable downloads based on metadata, #287
+For #287, this works for images, office docs and pdfs but not video or audio.

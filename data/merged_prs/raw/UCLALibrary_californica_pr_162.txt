@@ -1,0 +1,2 @@
+Add local_identifier term
+This commit adds the local_identifier term to the model and sets the correct label in the simple_form locale. Connected to #154

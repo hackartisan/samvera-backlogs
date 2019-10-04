@@ -1,0 +1,2 @@
+Feature: Support for Relating Content
+MVP components:  Ability to create multiple types of links to related material within, or external to, the repository  In Phase 1, this will mostly involve provisioning the metadata needed to support those kinds of relationships.

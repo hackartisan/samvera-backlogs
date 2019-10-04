@@ -1,0 +1,1 @@
+SPIKE: Passwords vs. Keys for SFTP

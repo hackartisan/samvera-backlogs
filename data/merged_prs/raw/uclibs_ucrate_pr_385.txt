@@ -1,0 +1,2 @@
+Update the testing procedure on README.md
+Fixes #374 Updated the testing section in the README.md for our current setup. The instructions include all of the specific commands, and explanations on what they do.

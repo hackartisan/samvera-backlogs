@@ -1,0 +1,2 @@
+Resolves HELIO-2529: Restricting Monograph Featured Representatives
+EPubsController, EPubPolicy, and checkpoint_component_converter.rake are the meat.

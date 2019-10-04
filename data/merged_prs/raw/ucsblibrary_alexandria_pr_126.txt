@@ -1,0 +1,2 @@
+Add Simple DC mapping to SolrDocument for OAI
+This adds a basic mapping of solr fields to Simple Dublin Core metadata for the OAI-PMH records. The set configuration is also removed, because we'll want to harvest everything, not specific sets at the moment. There is also a CSV added to the fixtures that can be used for loading the sample PDF data.

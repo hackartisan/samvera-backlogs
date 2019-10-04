@@ -1,0 +1,2 @@
+Coin: show Issue breadcrumbs even if not using parent path
+When I go to a coin at the /catalog/[id], it should show the Numismatic Issue parent in the breadcrumbs. Child of #2025

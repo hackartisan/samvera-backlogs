@@ -1,0 +1,2 @@
+Translate file visibility for embargoed works in importer
+MigrationImportJob uses a special, pared down actor stack. Since we are adding Hyrax::Actors::FileVisibilityAttributesActor to our local stack to handle embargo behavior for FileSet visibility, we need to include this in the stack to handle files on import. Fixes #1629.

@@ -1,0 +1,2 @@
+Adding masquerade support
+This required a few things, namely the ability to show a list of users and then masquerade as them. Thusfar this does not include logging out once you've masqueraded. Go to /admin/accounts/stop_masquerading to stop masquerading Go to /admin/accounts to search for a user to masquerade as

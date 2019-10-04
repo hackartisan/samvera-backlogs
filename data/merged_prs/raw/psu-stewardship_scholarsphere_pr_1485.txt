@@ -1,0 +1,2 @@
+Removing accept_confirm
+We have verified that capybara now supports accpet confirm.  No need for our override Co-authored-by: Adam Wead amsterdamos@gmail.com Co-authored-by: Dan Coughlin dan.coughlin@gmail.com Connected to #1483

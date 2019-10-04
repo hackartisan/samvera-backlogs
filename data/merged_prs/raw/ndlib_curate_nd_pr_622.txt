@@ -1,0 +1,2 @@
+Dltp 943 curate nd add reindex this item
+Claiming issue DLTP-943 @d76cba68df3dfbade26b22885ac32464f2a4c89d $ ./script/start-issue DLTP-943 [skip ci] Adding reindex action for repo manager @d53c0b11b5dd7b371801429126da330384b902e6 Adding "Reindex this item" to view and related to action in reindex controller. This action is restricted to repo managers only Closing issue DLTP-943 @e4c9b0ab42d13a85f69ccf41df1fe54fb5bb95d2 $ ./script/close-issue DLTP-943

@@ -1,0 +1,2 @@
+add ability to only search text content
+i'd like to be able to search for terms within the text only. currently, searching "archive" will return items whose metadata includes the term "archive" (newspaper items all have the description "A digital archive of the Lafayette College student newspaper (Easton, Pennsylvania)." which flags all of them as matches). this should probably be an advanced-search field

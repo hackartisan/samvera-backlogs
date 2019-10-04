@@ -1,0 +1,2 @@
+Recording Manifests should respect the "able to download" option
+This shouldn't be done until the rake task from #3074 has been run

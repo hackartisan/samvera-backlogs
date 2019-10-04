@@ -1,0 +1,2 @@
+resolves various accessibility issues with heliotrope
+Resolves #614 Resolves #615 Resolves #616 Resolves #617 Resolves #618 Resolves #619

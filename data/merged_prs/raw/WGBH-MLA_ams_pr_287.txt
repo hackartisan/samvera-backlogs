@@ -1,0 +1,2 @@
+All BatchItems have correct 'ID within batch'
+For 'AAPB PBCore Zipped' ingests, BatchItems created after the initial reading of the batch were not receiving any value for 'ID within batch', which is the filename within the zipped batch. This ensures those additonal batch items have the right filename in that field. Also,  Small refactor of test for AAPB PBCore Zipped ingest a bit for readability.

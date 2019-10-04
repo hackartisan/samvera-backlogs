@@ -1,0 +1,2 @@
+Add more feature tests from Hyrax
+More passing feature specs for #67 copied from Hyrax

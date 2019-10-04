@@ -1,0 +1,2 @@
+Adds file structure text to batch create
+Updates help text to warn about file structure and suggests options. I think that we can approach this a little better with another ticket, but this will at least fulfill the ticket

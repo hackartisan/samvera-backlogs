@@ -1,0 +1,2 @@
+Don't display zip download link for collections, fixes #1222
+When there are no items in the collection, either because it is empty or because the user has no access to them, then we should show the zip download link. Closes #1222

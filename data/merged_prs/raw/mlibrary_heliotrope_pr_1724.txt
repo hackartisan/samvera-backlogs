@@ -1,0 +1,2 @@
+consolidate citable link behavior
+Resolves #1696

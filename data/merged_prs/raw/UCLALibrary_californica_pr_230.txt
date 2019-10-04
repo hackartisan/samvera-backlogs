@@ -1,0 +1,2 @@
+Map `Rights.countryCreation` in CSV importer
+rights_country was added to model in #142 Connected to #143

@@ -1,0 +1,2 @@
+Add a fixity dashboard to figgy
+(screenshots to come) Fixes #811

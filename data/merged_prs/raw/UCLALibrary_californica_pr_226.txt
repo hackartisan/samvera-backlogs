@@ -1,0 +1,2 @@
+Map master files as "remote" `file:///` urls on ingest
+Filenames are read from masterImageName in the CSV, and mapped to the remote_file: attribute for use in the Actor Stack. Connected to #188.

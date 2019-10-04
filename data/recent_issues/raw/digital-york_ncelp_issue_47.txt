@@ -1,0 +1,2 @@
+Add term to Language being learnt field
+Please, can you add the term Any language to the language being learnt field. I want the field to be required, but not all resources are language specific.

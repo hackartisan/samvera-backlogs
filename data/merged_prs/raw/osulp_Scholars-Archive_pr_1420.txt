@@ -1,0 +1,2 @@
+adds tinymce to the workflow actions comment box
+fixes #1091

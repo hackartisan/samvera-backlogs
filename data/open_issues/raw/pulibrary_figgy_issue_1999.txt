@@ -1,0 +1,3 @@
+Users should be able to (re)generate PDFs for ScannedResources
+Repository administrators (or any developer) may need to manually regenerate the PDF derivatives offered for downloads in a given ScannedResource
+@jrgriffiniii We generate PDFs on the fly and they automatically expire when something changes. Am I misunderstanding? If not, is it safe to close this?

@@ -1,0 +1,2 @@
+Adding in the concept of a linked field type and creator field type
+Description Adds the linked field and a creator as a kind of linked field. Connected to #731

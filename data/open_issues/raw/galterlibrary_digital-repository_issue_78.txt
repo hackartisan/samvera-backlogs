@@ -1,0 +1,2 @@
+Collections created with an empty modified/uploaded date postmortem
+Due to changes in hydra-collections 5 samvera-deprecated/hydra-collections@61f887f pre-save hooks for saving mod and upload dates were removed. This is because ActiveFedora is supposed to set those auto-magically, however it doesn't right now so 992718e adds them to Collection. This will need to be undone once ActiveFedora is actually updated I'd guess or looked at why those dates don't get set.

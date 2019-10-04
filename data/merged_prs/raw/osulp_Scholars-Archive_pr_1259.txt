@@ -1,0 +1,2 @@
+Bulk update
+fixes #1247 have processed many updates on the google spreadsheet, see logs for details if needed

@@ -1,0 +1,2 @@
+Add support for ingesting ephemera with MODS metadata
+Mostly targeting Ukrainian ephemera with a subclass that hard-codes some values.  But should be the vast majority of what's needed to ingest other ephemera with MODS metadata.

@@ -1,0 +1,2 @@
+Batch-loader Keyboard Interrupt, error handling, logging update. #85 #86
+Update to batch-loader preparing for other future ingest methods. Error handling, logging and ingest file of failed and not complete works generated after each run if any work did not get successfully ingested Ctrl ^C stops program but finishes logging, and generates retry file. custom logging as per request. Resolves #85 Resolves #86 Resolves #47

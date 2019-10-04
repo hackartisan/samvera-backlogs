@@ -1,0 +1,7 @@
+File Display Names Different Than File Names
+As a repository manager, I would like to be able to set the display name of files attached to an object, So that I don't need to format file names for display. Ann P.
+Use the same filename when downloading.
+Is this really a ticket about file-level descriptive metadata? Is that the same thing as #63?
+No. This is about metadata on the file object itself.  TODO: * edit form for the file object * add one field for display name * the file name should remain the same as it was uploaded and changing the display name will not change how the file is downloaded
+Since the implementation of file sets, which metadata, is this user story applicable anymore?
+I don't think it's applicable anymore. The FileSet can have a title, which would serve as the display name. We could add a new field to the File object, which could be editable, but I think this is overkill. For now, the File will be named the same as it was uploaded and the FileSet could be anything, but will default to the name of the preservation file, i.e. the file that was uploaded or the file with the `_preservation` designation. 

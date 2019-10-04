@@ -1,0 +1,2 @@
+Remove file extensions from automatic naming
+Or properly update the name if new version is of a different file extension. Related to #638

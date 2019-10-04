@@ -1,0 +1,2 @@
+Not test every line multiple times
+collaborator Look at the report from codeclimate or coveralls to get an idea of where things are being tested multiple times. Use that report to combine tests and remove unneeded tests.

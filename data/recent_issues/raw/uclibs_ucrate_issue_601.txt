@@ -1,0 +1,2 @@
+Upgrade riiif
+Descriptive summary Try upgrading the riiif gem from '~> 1.1' to '~> 2.0' List of updates in 2.0: https://github.com/curationexperts/riiif/releases/tag/v2.0.0 Test the image view and make everything still works properly with the new version.

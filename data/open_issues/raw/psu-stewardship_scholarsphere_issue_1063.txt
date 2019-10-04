@@ -1,0 +1,5 @@
+Validate ORCID
+Validate ORCID format.  We already have the validation criteria on the user profile
+We should use the ORCID API to validate their name.
+- will validate before they hit save - ajax call to get name associated with Orchid ID as they are typing - if the name on the form is empty, fill in with info from orchid - will not prompt to validate orchid; just display name to them - will not allow them to save if orchid id is invalid
+Child of #764

@@ -1,0 +1,2 @@
+Refining attribute spacing
+Adding scss-lint as a development dependency for style guide enforcement @83346e8df20b9607145038f3f63fca3d6481f0f3 Evening out the spacing of repeating attributes @88867f23df9ff5f043b1e3e6d12d6ff0c769beea Since attribute values are run through a markdown parser they are all wrapped in paragraph tags. This results in a lot of singleton paragraphs that don't require bottom padding to display correctly. Linting to appease scss-lint.

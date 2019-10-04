@@ -1,0 +1,2 @@
+Add various sample CSV manifests
+Provide a variety of sample CSV manifests based on real world content broken into three testing categories:  good - manifests that should parse and import successfully error - manifests that should not be accepted by the system warning - manifests that should trigger a warning, but that could have some subset of records imported successfully

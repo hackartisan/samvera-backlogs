@@ -1,0 +1,2 @@
+Update cronjobs with current emails, ref #848
+Updates the emails used in cronjobs to send failure information. Also adds the daily stats jobs to schedule.rb and adjusts Capistrano's whenever settings so that crontabs are being cleared and regenerated correctly. I'm not sure how send_daily_stats.bash was getting run unless it was managed somewhere else, so maybe that change needs to come out. @cam156

@@ -1,0 +1,2 @@
+Moving the help to the top of the page and changing the cloud wording
+refs #601

@@ -1,0 +1,1 @@
+Ignore blank cells when looking for batch depositor email

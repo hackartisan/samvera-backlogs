@@ -1,0 +1,2 @@
+Made issue 416 and 1 issue 417 changes to patent labeling.
+Changed Creator to Inventor in these files per Parker's directive.

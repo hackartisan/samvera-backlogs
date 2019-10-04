@@ -1,0 +1,2 @@
+Add icons to indicate resource type and exclusivity
+on the monograph catalog page an icon should sit below the asset thumbnail to indicate the type of resource the asset is (image, video, audio, exclusive to platform, etc.) http://mlibrary.github.io/elderberry/press/book/index.html   icons should correctly appear for the resource type  exclusivity icons correctly appear for items that are marked as exclusive to platform (may not be necessary)  Have mouse over so it says image - what kind of format it is

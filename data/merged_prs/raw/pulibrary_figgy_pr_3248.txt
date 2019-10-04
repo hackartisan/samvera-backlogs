@@ -1,0 +1,2 @@
+External email without release notes
+Testing lack of release notes update.

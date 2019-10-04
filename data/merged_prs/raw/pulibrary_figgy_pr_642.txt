@@ -1,0 +1,2 @@
+Use find_by_string_property for speed in find_by_local_identifier.
+Closes #640.

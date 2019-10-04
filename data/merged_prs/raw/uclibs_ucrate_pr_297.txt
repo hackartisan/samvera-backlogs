@@ -1,0 +1,2 @@
+delete index.jpg
+Fixes #294 Deleted public/branding/j098zb08p/logo/index.jpg

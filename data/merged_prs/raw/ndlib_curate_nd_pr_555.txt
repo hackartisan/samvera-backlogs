@@ -1,0 +1,2 @@
+Dltp 600 display private file names
+Claiming issue DLTP-600 @a954c1a7f62d9a91806aad1e8b70ad5d46a3cd03 $ ./script/start-issue DLTP-600 [skip ci] Always display title of the generic file irrespective of access rights. @1efde9500b11c03cdc9f1f5b75ace2f3d9a18bc3 Closing issue DLTP-600 @886b5c02a402b795a21cfe7d324546dedde681ed $ ./script/close-issue DLTP-600

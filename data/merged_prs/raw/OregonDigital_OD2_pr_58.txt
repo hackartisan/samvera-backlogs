@@ -1,0 +1,2 @@
+adds vim to docker image for debug/troubleshooting purposes
+The idea here is to have easy access to vim when opening a shell for troubleshooting a running container, I think the image size is well worth the addition.

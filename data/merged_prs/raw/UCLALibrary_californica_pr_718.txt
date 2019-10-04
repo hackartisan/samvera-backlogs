@@ -1,0 +1,1 @@
+URL-escape the ark in manifest service URLs

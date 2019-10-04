@@ -1,0 +1,2 @@
+Flash Message #342
+Removes the private files message.

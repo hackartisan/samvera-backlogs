@@ -1,0 +1,2 @@
+Adding a member to collection throws a 500 error if there's a problem saving
+Problem is in hydra-collections-5.0.2/app/controllers/concerns/hydra/collections_controller_behavior.rb in #after_update_error method tries to render collections.edit_collection_path while it really should either redirect or render /collections/edit

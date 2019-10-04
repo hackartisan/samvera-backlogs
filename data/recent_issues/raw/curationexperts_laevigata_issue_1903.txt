@@ -1,0 +1,2 @@
+Address low-risk omniauth security issue
+Follow the breadcrumbs here https://github.com/curationexperts/laevigata/network/alert/Gemfile.lock/omniauth/open and here omniauth/omniauth#809 omniauth/omniauth-rails#1 Determine whether there is any action needed on our part.

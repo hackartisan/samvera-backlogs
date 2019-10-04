@@ -1,0 +1,2 @@
+fix solr >=7.2.0 bug in identifier_controller
+fixes a bug we were encountering where the IdentifierController spec was failing because we weren't specifying the lucene parser when querying the identifiers. see: https://lucene.apache.org/solr/7_2_0/changes/Changes.html#v7.2.0.upgrade_notes

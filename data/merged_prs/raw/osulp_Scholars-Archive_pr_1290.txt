@@ -1,0 +1,2 @@
+update rails to get latest security updates
+bundle update rails to get the latest dependency updates from rails

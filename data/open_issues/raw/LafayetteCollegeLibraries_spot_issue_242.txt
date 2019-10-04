@@ -1,0 +1,2 @@
+set up blacklight_oai_provider
+we need to be oai-pmh compliant to have dpla pick up our materials https://github.com/projectblacklight/blacklight_oai_provider

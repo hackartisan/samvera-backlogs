@@ -1,0 +1,2 @@
+CI build failing
+The laevigata travis build is failing because of an error in the javascript suite: FAIL app/javascript/test/lib/Keyword.test.js   ● Test suite failed to run     TypeError: Cannot assign to read only property 'Symbol(Symbol.toStringTag)' of object '#<process>'       at exports.default (node_modules/jest-util/build/create_process_object.js:15:34)

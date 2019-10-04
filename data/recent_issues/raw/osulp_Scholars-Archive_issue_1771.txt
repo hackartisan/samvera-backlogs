@@ -1,0 +1,2 @@
+Bulk Edits: Articles
+Bulk edits to clear up in_series metadata from migration. Batch 1: https://docs.google.com/spreadsheets/d/1-u1bJRnynAmgr08cHjlMqygEpN09EBACCzLx2SAZCro/edit?usp=sharing   has_journal  has_volume  has_number  in_series  Batch 2: https://docs.google.com/spreadsheets/d/1aYloWAeFT_NhTkfY3uokzJNLvIYgnaG4EQie3Bp1k90/edit?usp=sharing   has_journal  has_volume  has_number  in_series

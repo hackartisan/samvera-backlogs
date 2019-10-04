@@ -1,0 +1,2 @@
+Cleaning dependencies and tests
+Description Use released versions of gems, as opposed to tracking master branches, and remove an unneeded puts in the transaction code.

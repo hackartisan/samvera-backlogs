@@ -1,0 +1,1 @@
+HELIO-1933 sitemaps should not be created for draft/unpublished works

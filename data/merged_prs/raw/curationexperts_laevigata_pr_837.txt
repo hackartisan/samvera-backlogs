@@ -1,0 +1,2 @@
+Catch and report logging errors in ContentEventJob
+Connected to #836 Just in case these exceptions are preventing the job from completing successfully, let's catch and report them, but not leave them as a raised exception.

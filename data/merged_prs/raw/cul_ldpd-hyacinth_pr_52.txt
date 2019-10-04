@@ -1,0 +1,2 @@
+Minting DOI before publish
+Minting DOI before publishing an object. Updating DOI after request from publish target returns.

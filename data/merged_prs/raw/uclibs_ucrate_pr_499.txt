@@ -1,0 +1,2 @@
+Update Instructions for Students page
+Fixes #396 Modifies some of the pictures for the /student_instructions page, and edits to reflect the changes from Scholar 3 to Scholar 4

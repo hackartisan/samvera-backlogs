@@ -1,0 +1,2 @@
+displaying saved department if it exists
+This commit displays a saved department if there is one saved. When the form is submitted next, it checks first for a selected department value and sends it if it has it, if not, it sends the saved again.

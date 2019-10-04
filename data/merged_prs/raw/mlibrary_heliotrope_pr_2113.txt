@@ -1,0 +1,1 @@
+Resolves HELIO-2198: EPub restricted if component

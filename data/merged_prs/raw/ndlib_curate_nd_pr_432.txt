@@ -1,0 +1,2 @@
+430 typo in the display label for uspto link
+Fixed typo. Installed dev environment. Wow.

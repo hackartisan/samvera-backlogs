@@ -1,0 +1,2 @@
+Adds all terms to both ETD and Default forms
+Adds the metadata to the proper places in the form Per the MAP file. Also adds the first steps to add the metadata to the show page.

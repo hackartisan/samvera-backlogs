@@ -1,0 +1,2 @@
+Enable filtering of former collections
+There is no way to browse/search within specific conferences, or within specific conference years, or within what were formerly collections. I wonder if we might want to be able to filter on those former collection names?  from Mike Boock

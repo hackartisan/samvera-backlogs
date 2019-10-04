@@ -1,0 +1,2 @@
+Hide imported extent field on scanned maps
+Closes #1307

@@ -1,0 +1,2 @@
+remove round of solr_queries
+fixes #1032

@@ -1,0 +1,2 @@
+ingest process should not import the collection record
+The CSV contains a collection record, which the ingest process dutifully ingests and produces a record which looks like the screenshot below. It shouldn't ingest this record, as it's not an item in the collection.

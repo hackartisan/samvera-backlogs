@@ -1,0 +1,2 @@
+Use Sets to track changed items in CalifornicaCsvParser
+Since many duplicate items are likely to be added to these collections, this should be good for both readability and performance.

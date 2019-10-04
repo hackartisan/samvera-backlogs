@@ -1,0 +1,2 @@
+Clicking on "File Manager" button on work show page throws an error
+Descriptive summary Discovered this while running through the test script. If you create a work with files attached, save the work, and then click the "File Manager" button, the error below is thrown.  Looks like @presenter may be nil in this case and ruby doesn't like concatenating nil with strings. It looks like this regression was introduced by #646

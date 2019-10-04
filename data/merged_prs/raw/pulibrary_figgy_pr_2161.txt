@@ -1,0 +1,2 @@
+Disable download button in the v3 viewer
+Co-authored-by:: Trey Pendragon tpendragon@princeton.edu

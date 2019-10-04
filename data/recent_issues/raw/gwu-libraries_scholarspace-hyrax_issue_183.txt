@@ -1,0 +1,2 @@
+GWSS not uploading files
+Hello, Schol Commies have encountered an issue attaching files to records. We've been able to create a record and attempt to upload the file but when we save the file doesn't upload. Matt looked at the logs but wasn't able to resolve the issue. Two examples of records where we've encountered this issue: https://scholarspace.library.gwu.edu/concern/gw_works/76537174s?locale=en https://scholarspace.library.gwu.edu/concern/gw_works/rx913q26p?locale=en Thank you!

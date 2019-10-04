@@ -1,0 +1,8 @@
+Question about rightsHolder
+Did you consider premis:hasRightsRelatedAgent over http://opaquenamespace.org/rights/rightsHolder ? Why did you choose to create a new predicate?
+@kestlund @jsimic @sseymore ? 
+We wanted to be more precise and use dc.rightsHolder definition but didn't want to use URIs and open linked data for this particular field. The reason for that is that the "University of Oregon" is the legal rightsholder for our stuff, but you would contact special collections for the rights not a main IP office at UO. Linked data could allow easy linking to the wrong place. I've felt conflicted about this and would like to use dc.rightsHolder and URIs, but I am still worried about practical implications. 
+I understand the DC may be less restrict on domain and ranges than we are, so if given a new opportunity I would use the dc:rightsHolder, and we may change that based on what recommendation comes out of our Hydra Metadata WG. 
+The opaquenamespace.jsonld has http://opaquenamespace.org/ns/rightsHolder and http://opaquenamespace.org/rights/rightsHolder is what the system is looking for. Thus all of rightsHolder is showing up in the raw statements and we need to do a mass-correct. Shall we just use dc:rightsHolder instead? This is the perfect time to make a switch. 
+I think we should make the move to dc. 
+We decided to move it to DC at the check-in call today. 

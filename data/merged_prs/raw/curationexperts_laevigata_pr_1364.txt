@@ -1,0 +1,2 @@
+displaying saved submitting type
+This commit ensures a saved submission type will display in its select, and if there isn't one saved, the option telling the user to choose one will.

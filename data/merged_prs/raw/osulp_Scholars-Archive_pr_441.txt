@@ -1,0 +1,2 @@
+Adds roles and toggle feature/unfeature
+This adds role management to Scholars archive and returns the functionality of being able to feature and unfeature an item from the item record page. Fixes #377

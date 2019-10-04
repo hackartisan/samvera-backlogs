@@ -1,0 +1,2 @@
+CAL-604 report batch import status
+Display all CsvImports, most recent first Put a link to that page on the admin dashboard Cache the number of records attached to a csv import on the object, for faster display Give a CsvImport object a status field

@@ -1,0 +1,1 @@
+Resolves #1161, improved epub search snippets

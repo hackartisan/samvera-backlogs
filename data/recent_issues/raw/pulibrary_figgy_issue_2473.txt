@@ -1,0 +1,2 @@
+Add "approximate" flag to date range object / form
+Ensure it's incorporated in display

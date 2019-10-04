@@ -1,0 +1,3 @@
+[hydrus/stage] RuntimeError: Cannot perform action: object_type=Item, action=open_new_version, pid=druid:md171sq2635.
+Item is not accessioned
+Backtrace line 173 of [PROJECT_ROOT]/app/models/hydrus/item.rb: open_new_version line 295 of [PROJECT_ROOT]/app/controllers/hydrus_items_controller.rb: open_new_version  View full backtrace and more info at honeybadger.io

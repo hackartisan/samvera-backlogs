@@ -1,0 +1,2 @@
+Add multiple existing fields to Ingest Form
+Add Geobox, Barcode, photographOrientation and objectOrientation fields to the ingest form mapping. Fixes #1100 Fixes #1097 Fixes #1095

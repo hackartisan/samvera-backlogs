@@ -1,0 +1,2 @@
+update ldr importer
+adds handling for 'Part of Book' types w/r/t source + publisher re-singularizes fields that may have previously contained a semicolon and were split as part of the parsing process  closes #49 closes #64

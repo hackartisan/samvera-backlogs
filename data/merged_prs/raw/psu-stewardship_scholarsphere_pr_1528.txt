@@ -1,0 +1,2 @@
+Updating to send uploaded year and correct resource types for datacite
+In addition we will capture any errors with DOI creation and log them as an event refs #1237

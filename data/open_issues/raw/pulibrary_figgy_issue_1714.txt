@@ -1,0 +1,2 @@
+Simple Resources should be able to have "subtitles" appended to titles in the form.
+This will create a title that is a nested resource with a title and a subtitle. Depends on #1715 Depends on #1748 Final wireframe:

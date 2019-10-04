@@ -1,0 +1,2 @@
+service classes for metadata CSV generation
+Closes #108 Service classes to handle CSV generation. Testing of final CSV is handed through a spec comparing the product with a fixture.

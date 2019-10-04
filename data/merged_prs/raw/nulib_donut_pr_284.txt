@@ -1,0 +1,2 @@
+update licenses to Creative Commons 4.0
+Fixes nulib/next-generation-repository#503  Adds new Creative Commons 4.0 licenses Sets outdated licenses to inactive

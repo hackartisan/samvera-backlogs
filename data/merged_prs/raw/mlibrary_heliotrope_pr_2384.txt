@@ -1,0 +1,1 @@
+Resolves HELIO-2745: HEB chapter download button bug

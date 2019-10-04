@@ -1,0 +1,2 @@
+Add an edtf date to the core fields of test data dictionary
+Description We need an edtf date to be part of the core data dictionary fields in order to test searching on them Changes  copy date_cataloged over from dev data dictionary verbatim update a gazillion specs

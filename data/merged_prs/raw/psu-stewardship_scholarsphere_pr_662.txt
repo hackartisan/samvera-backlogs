@@ -1,0 +1,2 @@
+return batches with only one item since there are no relations to be made
+Additionally the save is not needed, the tests pas with or without it. This is an effort to make the batch processing faster.  It may or may not make larger batches faster.

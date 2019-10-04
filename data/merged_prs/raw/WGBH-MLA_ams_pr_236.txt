@@ -1,0 +1,2 @@
+Installs gems without deployment or test groups
+This is generally a good idea, but necessary because Spring was running in prodution and causing a weird multi-inclusion error. Also adds database_cleaner to the production bundle so we can use the ams:reset_data rake task in production environments, i.e. on Edge server.

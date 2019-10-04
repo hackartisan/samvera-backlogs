@@ -1,0 +1,2 @@
+Upgrade devise to address CVE-2019-5421
+For more information see plataformatec/devise#4981

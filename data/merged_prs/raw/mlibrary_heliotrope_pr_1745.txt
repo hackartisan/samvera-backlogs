@@ -1,0 +1,2 @@
+downcase subdomain param
+Resolves #1744

@@ -1,0 +1,2 @@
+Investigate Hyrax/IIIF/Universal Viewer support for restricting downloads and image resolution for some collections
+One of the collections we are migrating has previously been online but with some very specific delivery restrictions through the LUNA software's front end. We need to investigate what we can feasibly support in Lux and Curate before beginning migration of this material. Summary of original requirements and initial research notes   Add feedback in a new column

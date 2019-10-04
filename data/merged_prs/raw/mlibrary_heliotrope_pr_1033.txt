@@ -1,0 +1,1 @@
+Fixes #1008 extra dividing line in monograph catalog results

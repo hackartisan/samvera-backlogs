@@ -1,0 +1,2 @@
+Top level heading deletion
+Reported by Helen Tested on 'Subjects': The whole top-level heading and its three sub headings were all deleted, even though entries are attached to all three sub headings.

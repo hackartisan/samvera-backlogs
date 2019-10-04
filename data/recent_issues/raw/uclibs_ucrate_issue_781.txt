@@ -1,0 +1,2 @@
+Create procedure for ingesting large files
+Descriptive summary After the API issue (#750) is merged, try ingesting very large files to see if the API can reliably serve as our method for ingesting large (possibly > 100GB) files into Scholar. We can test this with some of the large Woodman videos we have sitting on Isilon. If the API has problems with large files, we need to either 1) change the API to work or 2) come up with another method for ingesting very large files. Once we have a working solution, we can move on to #686

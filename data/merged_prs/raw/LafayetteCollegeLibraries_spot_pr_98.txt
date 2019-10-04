@@ -1,0 +1,2 @@
+integrate rubocop
+better late than never. this integrates rubocop + fixes all of the problems that it sussed out. woof. closes #31

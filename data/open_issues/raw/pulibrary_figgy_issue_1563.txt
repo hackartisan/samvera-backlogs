@@ -1,0 +1,2 @@
+Handle EZID errors
+When you mark something complete, there could be an EZID error. E.g. there could be a non-ark value in the identifier field. Or EZID could be down, etc. Go back to show page with a flash message that there was an error minting the identifier. originally part of #728

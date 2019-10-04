@@ -1,0 +1,1 @@
+Fixing the single quote search issue. DHH-616

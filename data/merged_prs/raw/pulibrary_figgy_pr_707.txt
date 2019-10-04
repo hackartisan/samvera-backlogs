@@ -1,0 +1,2 @@
+Move data table sorting icon.
+Closes #659. Looks like this:

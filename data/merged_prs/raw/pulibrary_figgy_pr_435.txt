@@ -1,0 +1,1 @@
+Make sure we're working with a string when checking text direction

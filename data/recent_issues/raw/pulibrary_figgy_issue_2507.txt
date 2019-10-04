@@ -1,0 +1,2 @@
+Hide visibility note in related geo resources partial
+The new visibility note appears in the geo resource related resources section and it looks terrible. Causes the panels to take up more room than they actually need.

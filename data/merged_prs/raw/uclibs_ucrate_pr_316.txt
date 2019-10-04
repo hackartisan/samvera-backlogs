@@ -1,0 +1,2 @@
+Adds license chooser.
+Fixes #235 Present short summary (50 characters or less) We ported over the license chooser widget from Scholar and had to over-ride the repeatability of the license field set by hyrax.

@@ -1,0 +1,2 @@
+Set representative media during a bulk (csv) upload
+Moved from uclibs/scholar_uc_legacy#1935 Descriptive summary No representative media is set after a batch-upload (e.g., none of the files is previewed above-the-fold on the work show page) Set this to the first attached fileset.

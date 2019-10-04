@@ -1,0 +1,2 @@
+Add secureToken function
+Fixes #448 ; refs #448 @ucsdlib/developers - please review

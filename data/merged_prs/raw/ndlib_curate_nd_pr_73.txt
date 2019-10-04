@@ -1,0 +1,2 @@
+Detect if boxen is present; configure mysql
+Let's throw some ERB in that YAML.

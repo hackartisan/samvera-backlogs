@@ -1,0 +1,2 @@
+Feature/more od redirects
+Also changed existing ones to 'https'

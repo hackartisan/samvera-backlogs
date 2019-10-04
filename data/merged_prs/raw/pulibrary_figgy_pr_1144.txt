@@ -1,0 +1,2 @@
+Add breadcrumb to fileset even when there's no parent param
+fixes #868

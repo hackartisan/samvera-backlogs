@@ -1,0 +1,2 @@
+Limit search through search links accessible from a search result panel 
+Why As a user once a search is performed I would like to drive my search through clickable links on the brief summary content as presented in a panel. I should be able to limit initial search results through metadata values as available on individual record information. Mockups By default, Hyrax offers this for predefined fields. See the following screenshots  Following is a screenshot form current oasis_model branch where highloted values are not offereing further search ability.

@@ -1,0 +1,2 @@
+"Add to Collection" does not display options after performing search
+When viewing a catalog, the collections options are not displayed when trying to "Add to Collection", after performing a search.

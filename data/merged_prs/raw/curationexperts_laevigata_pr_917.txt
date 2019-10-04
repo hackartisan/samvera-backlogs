@@ -1,0 +1,2 @@
+Check for mime type when assembling proquest export
+Related to #912

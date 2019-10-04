@@ -1,0 +1,2 @@
+Add nginx route to handle 502 errors from killed unicorns.
+As opposed to a non-existant unicorn. We use some care to keep a redirect loop from happening.

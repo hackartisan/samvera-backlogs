@@ -1,0 +1,2 @@
+Single value Repository does not allow works to be saved
+Descriptive summary #649 Has caused the work edit form to break. Hyrax does not know how to index deep metadata for fields that are single value. Specifically it assumes deep metadata is multivalue when it goes to fetch external labels: https://github.com/samvera/hyrax/blob/v2.5.0/app/indexers/hyrax/deep_indexing_service.rb#L32 Expected behavior Work edit form allows works to create/save. Related work #649 #462 Accessibility Concerns None

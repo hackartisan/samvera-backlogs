@@ -1,0 +1,2 @@
+[SEE #155] [1] When a user tries to sign in via devise with a UO or OSU email, redirect to proper login page
+Descriptive summary Since we dont need to sync accounts, we need to make sure that when someone tries to login through devise, that we push them to the proper page. This means overriding the devise controllers and adding in a before filter to check the input information and redirect to the proper route.

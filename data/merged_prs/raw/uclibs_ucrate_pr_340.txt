@@ -1,0 +1,2 @@
+Fix flaky catalog search spec
+Partial fix for #310 Depending on the random order tests run in, the test spec/features/catalog_search_spec.rb:26 expects a collection type with id = 2 to exist.  Without this collection type, the test sometimes fails with  1) catalog searching with works and collections performing a search      Failure/Error: @collection_type ||= Hyrax::CollectionType.find_by_gid!(collection_type_gid)            ActionView::Template::Error:        Couldn't find Hyrax::CollectionType matching GID 'gid://ucrate-hyrax2/hyrax-collectiontype/2'

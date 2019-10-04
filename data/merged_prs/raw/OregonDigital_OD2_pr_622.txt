@@ -1,0 +1,2 @@
+Set page titles
+Updates application title to 'Oregon Digital (Development)' largely everywhere. Fixes #594 Will need to reopen this when we go prod. Also, work show page is trimmed down to ' | Oregon Digital (Development)' Fixes #602

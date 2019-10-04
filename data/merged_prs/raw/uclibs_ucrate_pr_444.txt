@@ -1,0 +1,2 @@
+render 404 error instead of template
+Fixes #443 Common objects controller is calling a template that was deleted in favor of custom error messages. Tweak so that it renders the proper message.

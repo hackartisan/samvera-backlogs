@@ -1,0 +1,1 @@
+Cast local identifier to an array for Collections.

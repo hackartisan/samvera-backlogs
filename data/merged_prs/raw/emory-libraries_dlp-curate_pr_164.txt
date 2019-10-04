@@ -1,0 +1,2 @@
+Removes Hyrax's basic metadata
+Removes the concern from our generic work type, and stops trying to index those terms.

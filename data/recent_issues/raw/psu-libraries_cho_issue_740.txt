@@ -1,0 +1,2 @@
+Display thumbnails
+If the file set contains a thumbnail, it should be displayed. Do not display any placeholder icons if there is no thumbnail (this may be changed later). For works, default the thumbnail to the first file set in the work. For testing purposes, a bag with an existing thumbnail will be provided. Related to #741

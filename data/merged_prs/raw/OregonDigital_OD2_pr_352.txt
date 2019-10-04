@@ -1,0 +1,2 @@
+Fix solr volumes
+Fixes #344 and removes test persistence of solr indices

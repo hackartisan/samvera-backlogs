@@ -1,0 +1,2 @@
+Making Senior Thesis display consistent
+The included document partial is old.

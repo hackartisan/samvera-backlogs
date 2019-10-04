@@ -1,0 +1,2 @@
+Update ingest process to add works to a collection
+ACCEPTANCE When my import CSV has a column with a collection-ark in it   The corresponding work is added to the collection   If a collection with the collection-ark doesn't exist, a new collection with that ark is created  Automatically created collections have default metadata so they can be opened in the edit UI without errors.    Child of #385

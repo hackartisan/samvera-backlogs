@@ -1,0 +1,2 @@
+What email contact should the server use?
+There are several places where a server admin email needs to be specified. What email address should we use? Child of #298

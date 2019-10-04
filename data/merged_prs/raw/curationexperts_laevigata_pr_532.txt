@@ -1,0 +1,2 @@
+suppress partners
+Closes #140

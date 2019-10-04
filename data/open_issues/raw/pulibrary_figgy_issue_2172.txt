@@ -1,0 +1,3 @@
+Bulk edit page type in the order manager
+Right now, if you select multiple pages, the page type field goes away.  So there is no way to mark multiple pages as "facing pages".
+UV doesn't respect this functionality at the moment anyways.

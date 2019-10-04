@@ -1,0 +1,2 @@
+Generate derivatives for METS Ingest.
+Closes #266.

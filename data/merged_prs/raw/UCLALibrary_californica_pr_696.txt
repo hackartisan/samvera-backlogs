@@ -1,0 +1,2 @@
+Index thumbnail URLs for collections
+Connected to URS-450  Changes to be committed:  modified: app/indexers/collection_indexer.rb modified: app/indexers/work_indexer.rb modified: docker.env modified: spec/indexers/collection_indexer_spec.rb rubocop.yml

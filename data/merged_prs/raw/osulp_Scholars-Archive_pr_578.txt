@@ -1,0 +1,2 @@
+adds debug for minimagick and sidekiq for troubleshooting
+fixes #577

@@ -1,0 +1,2 @@
+work on setting up initial ability for review
+This is the basis for the work that needs to be done. Collection Managers need to be able to review works in their collections. We need to be able to see what collection a work is a part of and see if the person viewing that work is a collection manager for that work. This is merely the beginning work into discovering how to pass variables into an ability.

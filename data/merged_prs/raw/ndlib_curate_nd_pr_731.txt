@@ -1,0 +1,2 @@
+Removing confusing language around files
+Replacing language that talks about managing attachments somewhere else in the site. Related to:  DLTP-1492 DLTP-1468

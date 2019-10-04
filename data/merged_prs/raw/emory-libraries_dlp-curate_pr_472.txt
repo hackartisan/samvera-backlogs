@@ -1,0 +1,2 @@
+Try a different way of doing collection metadata
+The previous way I did collection metadata was causing some unexpected behavior (e.g., lots of untranslated strings) so I'm switching to this method.

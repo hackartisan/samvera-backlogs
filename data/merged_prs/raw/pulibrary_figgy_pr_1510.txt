@@ -1,0 +1,2 @@
+Fire GeoServer events when parent resource is updated
+Fires a GeoServer event for every child geo FileSet when a when a geo resource is updated. Allows message to propagate to all valid generators instead of just the first. This allows GeoBlacklight and GeoServer messages to both be generated when a resource is updated.  Closes #1384 Also see: pulibrary/geoserver-worker#3

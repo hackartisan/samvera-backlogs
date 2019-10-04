@@ -1,0 +1,2 @@
+Adding Namae gem for name parsing
+Building from W3C's "Personal names around the world" [http://www.w3.org/International/questions/qa-personal-names]

@@ -1,0 +1,2 @@
+Single Use Link no longer show metadata
+Sine Single Use links are at the fileset and filesets do not include the metadata do we still want/need single use links.  What are we trying to provide?  Should we be updating the functionality or dropping it for now?

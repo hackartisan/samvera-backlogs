@@ -1,0 +1,2 @@
+Test Support for Large Collections
+Re-run tests in #203 to confirm code changes haven't degraded the ability to support large collections. Figure out a strategy for doing this throughout the development of 1.0.

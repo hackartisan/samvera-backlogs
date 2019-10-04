@@ -1,0 +1,2 @@
+Feature/iso 1
+This adds ISO-639-1 and MARC Language support. It updates the Hybag bulk ingest task to use a temporary collection name, and reviews items upon ingest (maybe this last should be an option?). Lastly, it configures an rdf_label for geonames items.

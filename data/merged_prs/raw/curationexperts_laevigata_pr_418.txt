@@ -1,0 +1,2 @@
+Add supplemental files behavior
+Addresses #360

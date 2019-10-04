@@ -1,0 +1,2 @@
+Resources without a thumbnail set should use the first image
+Beth reported a couple of items were not displaying thumbnails: https://figgy.princeton.edu/catalog?utf8=%E2%9C%93&q=2480226 https://figgy.princeton.edu/catalog?utf8=%E2%9C%93&q=9535451 I fixed them by manually setting a thumbnail for them, but they should be using the first image by default if no thumbnail is set.

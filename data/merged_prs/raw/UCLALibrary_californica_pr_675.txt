@@ -1,0 +1,2 @@
+Streamline ingest logging
+Previously, log messages during ingest ended up in a few different files. This commit moves them to:  Errors during a CsvRowImportJob end up in the associated csvrow object's "error_messages" field, which is stored in the database and visible in the dashboard. Errors that occur outside of any CsvRowImportJob get logged in the ingest_X.log file (also with info-level messages), which is written to the filesystem and visible from the dashboard.

@@ -1,0 +1,2 @@
+Revert "Add a summary metadata field"
+Reverts #683

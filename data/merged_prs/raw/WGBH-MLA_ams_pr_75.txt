@@ -1,0 +1,2 @@
+Updates hydra-editor + removes method overwrites
+Updates hydra-editor gem since new version published fixes issue with method we overwrote Closes AMS2-311

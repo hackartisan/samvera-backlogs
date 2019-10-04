@@ -1,0 +1,2 @@
+Find Works without Files Attached
+Run a Solr query to find out:  parent works without child work without fileset

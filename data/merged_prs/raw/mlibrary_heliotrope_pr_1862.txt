@@ -1,0 +1,2 @@
+Resolves 1905 Session Cookie Overflow
+Limits session[:show_set] to a length of ten.

@@ -1,0 +1,2 @@
+Ensuring that BaseResourceController#new_pending_uploads filters for hidden files
+Resolves #3247

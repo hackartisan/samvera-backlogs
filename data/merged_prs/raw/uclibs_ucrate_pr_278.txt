@@ -1,0 +1,2 @@
+Feature/#275 jumbotron
+Fixes #275 Port Scholar jumbotron to UCrate. Changes proposed in this pull request:  Add hyrax overrides Add jumbotron partials with assets Add view spec

@@ -1,0 +1,1 @@
+Fix getSubfields trying to get an undefined url

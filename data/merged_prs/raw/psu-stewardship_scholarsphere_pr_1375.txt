@@ -1,0 +1,2 @@
+Removes the Object Type Facet from My Works, Collections, and Highlights.
+Removed the has_model object type from all of the My Controllers and then added it back in for the My Shares Controller. Fixes #351

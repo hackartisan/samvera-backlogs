@@ -1,0 +1,2 @@
+Edit the Fileset Use category assigned to an existing Set
+After a work is crated and a FileSet has been uploaded, a depositor may need to change the FileSet category from Primary to Supplemental Content etc.

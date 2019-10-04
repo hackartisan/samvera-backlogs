@@ -1,0 +1,2 @@
+Minor CSS cleanup
+This removes some redundant styles from the new form CSS and make the tabs look more similar to the way they were in the previous form.

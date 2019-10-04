@@ -1,0 +1,2 @@
+HELIO-2781 Generate Score work type for carillon
+Also HELIO-2912, Allow "score" type fields on FileSets as json Wireframes: https://tools.lib.umich.edu/jira/browse/HELIO-2522

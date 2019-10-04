@@ -1,0 +1,2 @@
+run sidekiq in its own container
+This seems to fix CAL-582, although only in docker.

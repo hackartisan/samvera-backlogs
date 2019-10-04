@@ -1,0 +1,2 @@
+route globbing and directing to homepage
+fixes #1005

@@ -1,0 +1,2 @@
+Add team photos
+Adds team photos to the about page to resolve HELIO-2829

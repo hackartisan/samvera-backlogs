@@ -1,0 +1,2 @@
+Removing rake task for multiple titles and redis file to work
+Migration for multiple titles was already run. Migration from GenericFiles to GenericWork has lareday been run.

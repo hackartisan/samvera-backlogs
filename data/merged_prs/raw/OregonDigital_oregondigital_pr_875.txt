@@ -1,0 +1,2 @@
+make hasVersion searchable
+by request of Julia, for Mongolian Altai

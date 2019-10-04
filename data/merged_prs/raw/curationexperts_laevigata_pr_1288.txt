@@ -1,0 +1,2 @@
+Add Embargoes to the form
+This commit adds embargoes to the form. When you select a school, that determines which lengths are valid for that embargo. If you choose not to have an embargo the form won't display an option for the length of the embargo. Related to #1188

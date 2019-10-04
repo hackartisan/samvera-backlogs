@@ -1,0 +1,3 @@
+Investigate Restrict IIIF requests for restricted images
+As an owner of a separate website, if I view source for a Fulcrum page of a restricted image, find the IIIF URL, and try to use it on my own site, the image won't display.   For restricted images (define metadata values), IIIF only responds to requests from localhost.
+Restrict IIIF service to accept only from original source.

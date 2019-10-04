@@ -1,0 +1,2 @@
+Service management for resque-pool needs to be updated for 18.04
+Current ansible code for resque-pool's management needs to be updated for 18.04.

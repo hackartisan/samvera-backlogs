@@ -1,0 +1,2 @@
+Adds Digital Instantiation hint
+Also...  removes redundant hints converts URLs in hints to actual links.  Closes AMS2-388.

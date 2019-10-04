@@ -1,0 +1,2 @@
+when deleting a coin redirect to the parent issue
+closes #2967

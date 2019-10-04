@@ -1,0 +1,2 @@
+Fixes Keywords not showing up and authors not saving
+Fixes #290 Fixes #292 Fixes #293

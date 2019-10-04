@@ -1,0 +1,2 @@
+Fix ActiveRecord::RecordNotUnique errors on system user creation
+Fixes https://app.honeybadger.io/projects/54217/faults/35680775

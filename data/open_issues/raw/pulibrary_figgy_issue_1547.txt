@@ -1,0 +1,2 @@
+Add 'Save and Ingest Another' to scanned resource form
+This should copy over everything except title/portion note/local identifier/source metadata id as a first pass. discussed at digital studio users meeting 7/19/2018

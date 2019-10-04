@@ -1,0 +1,5 @@
+Mis-spelled facet "Enlgish"
+Appears in the public user search facet.
+There also appears to be 2 versions of 'English' https://scholarsphere.psu.edu/catalog?f%5Blanguage_sim%5D%5B%5D=English+&q= https://scholarsphere.psu.edu/catalog?f%5Blanguage_sim%5D%5B%5D=English&q=  The 'English+' in the first URL makes me believe we have 'English' and 'English ' (note the space in the second English).
+@DanCoughlin good catch. We put in a fix to correct spaces around facet terms, which will prevent things like this from occurring in the future. We'll need the fix this one by hand, probably. While language is auto-complete, there's nothing preventing someone from entering their own, such as "Fortran" (yes, that one's there) which is technically not wrong, but... and yeah, Enlgish.
+Write a script to update the data in the records

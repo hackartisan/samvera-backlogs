@@ -1,0 +1,2 @@
+Hide depositor info at file level for FindingAid
+spicework #8712

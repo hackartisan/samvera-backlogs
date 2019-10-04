@@ -1,0 +1,2 @@
+Improve docs for registrar data
+Clarify that registrar data location must be set in environment variable Add more logging Raise exception if registrar data isn't found

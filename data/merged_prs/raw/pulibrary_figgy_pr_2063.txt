@@ -1,0 +1,2 @@
+Allow coins to be attached and removed from numismatic issues
+Closes #2027

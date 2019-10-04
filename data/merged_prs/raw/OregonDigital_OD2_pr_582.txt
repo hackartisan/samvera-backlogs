@@ -1,0 +1,2 @@
+update show page with more data
+Gets closer to fixes #272

@@ -1,0 +1,2 @@
+Change hyrax initializers for contact form
+Fixes #405 Updated the contact email and the subject prefix for the contact form in the hyrax initializer, as well as tested the values in a spec.

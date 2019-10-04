@@ -1,0 +1,2 @@
+Cleanup our ingest tasks
+Do not allow fedora cleanout task to run in production Make ingest process more generic, now that we have multiple collections Specify csv file location and binary file location at ingest time Add better help messages to rake task Add collection ingest instructions to README Remove redundant test for rake task (we've moved all the logic to the importer class, so it's now tested in spec/importers)  Connected to #359

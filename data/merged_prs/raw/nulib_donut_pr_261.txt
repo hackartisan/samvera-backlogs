@@ -1,0 +1,2 @@
+added preservation level validation and a default value
+fixes another part of https://github.com/nulib/next-generation-repository/issues/483

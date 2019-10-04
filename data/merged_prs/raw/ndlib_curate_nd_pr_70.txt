@@ -1,0 +1,2 @@
+Upload file text says PDF Preferred for Article, Document and
+SeniorThesis only Fixes ndlib/legacy-curate-planning#353

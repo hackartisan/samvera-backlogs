@@ -1,0 +1,2 @@
+Move Hyrax/IIIF fields from out of hidden field section
+Default Hyrax behavior appears to be:  User creates a work After a work is created, and a user returns to Edit the work, 3 new fields appear in the form, but are * hidden in the "Additional Descriptive Fields" (or Hyrax equivalent) set These fields control settings for the UV/IIIF, so having easier access to them will be helpful  Screenshots: Hyrax fields hidden  Hyrax fields visible when Additional Descriptive Fields toggled

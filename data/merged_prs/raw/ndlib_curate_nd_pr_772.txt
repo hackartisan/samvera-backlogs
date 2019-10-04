@@ -1,0 +1,2 @@
+DLTP-1614 Migrating sufia-models into Curate
+https://jira.library.nd.edu/browse/DLTP-1614  Based on #480 (migrating sufia-models code into Curate). Code moved from Sufia, sufia/models/version was removed, and monkey patching for Characterization job was removed. bb2b89e Remove multi-levelincluded do statements

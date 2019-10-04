@@ -1,0 +1,2 @@
+Update sync message when using new visibility values
+reading_room and on_campus visibility should not prevent an item from syncing to dpul, etc. Currently the help text says they won't sync. Once new sync logic is put into place in dpul, correct the help text.

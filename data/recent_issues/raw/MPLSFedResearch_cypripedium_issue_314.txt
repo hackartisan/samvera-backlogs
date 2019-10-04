@@ -1,0 +1,2 @@
+Add honeybadger key to ansible build
+Is FRBM using honeybadger for error reporting? If so, get their API keys so we can populate the new servers with them. Child of #298

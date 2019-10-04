@@ -1,0 +1,2 @@
+Updating Capistrano deployment
+Description Removes unused files and ensure Passenger is restarted at the end of a successful deploy.

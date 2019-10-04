@@ -1,0 +1,2 @@
+DLTP-575 Flat collection styles
+Reported by @ruthtillman before:  After:  Fixes DLTP-575

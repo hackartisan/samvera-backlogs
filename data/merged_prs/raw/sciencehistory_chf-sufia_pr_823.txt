@@ -1,0 +1,1 @@
+Add exhibition 'The Sky's the Limit', fixes #822

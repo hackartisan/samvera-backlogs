@@ -1,0 +1,2 @@
+Remove copyright statement from footer
+create californica.footer.copyright_html translation for future use, leave it blank for now connects to #126

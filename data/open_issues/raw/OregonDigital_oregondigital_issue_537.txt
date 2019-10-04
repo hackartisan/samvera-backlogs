@@ -1,0 +1,8 @@
+Date Sorting Functionality
+Ranked in terms of relative importance. Screenshots are from Rock & Roll Hall of Fame Library & Archives. 1 "Limit your search" by date facet (See screenshot)  2  "Sort by ____" drop-down menu on results page (See screenshot).  3 "Advanced Search" date attribute and sort results by date (See screenshot)
+Thanks Brian. This expands some of what is in Ticket #421  
+I think that the ability to search and sort on date should be pretty standard functionality for digital collections such as ours, but especially for the Yearbooks. I'm glad to see that other hydra installations have worked on this. Tufts is another example. Would like to see this made a priority, if possible.  
+We left it off just because of bad metadata, so I think after our cleanup, it should be fairly easy to implement. At our big meeting coming up, we'll prioritize enhancements.  
+It looks like the facet field is "dynamic", which means it changes depends on the collection. If so, we can probably make 'year' as a facet and display it only for year book collection. 
+I've spoken to @wickr about this a bit - I think the right way to do this is to try and parse DC.date into a year-only solr field at index time, and then use that index field as the facet/sort field. 
+I agree that parsing for a single year is probably going to be the best.  Let's definitely look at edge cases next Monday. 

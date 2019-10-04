@@ -1,0 +1,9 @@
+move to sidekiq instead of resque
+
+https://github.com/projecthydra/sufia/wiki/Using-Sidekiq-with-Sufia
+This is intentionally slated for before soft launch? I can work on it if you like? With @sanfordd of course. 
+I am not super sure why I put it in the soft launch milestone; seems low-priority for soft launch actually.
+Shall we take it out of the softlaunch milestone?  Just trying to go through the issues and figure out what isn't blocked and can be done now, if they are all needed for soft launch after all, etc. Perhaps I'm making a mistake in how I'm trying to figure out what we need to do before soft launch, I'll learn more in discussion next week! 
+Sure let's remove it.
+Note that sidekiq expects jobs to be idempotent; ours are not. It would also be a good idea to break out long-running jobs as much as possible into shorter ones.
+@jrochkind notes: jobs that are forcefully killed in a shutdown "are forcefully terminated and their messages are pushed back to Redis to be executed again when Sidekiq starts up."    also: There may be additional configuration for sidekiq to tell it to _not_ requeue failed jobs.  That was just an initial find. Although not requeing a failed job is also not great. There is no software solution to non-idempotent jobs that can't also be abandoned, cause jobs WILL get interupted or fail sometimes.

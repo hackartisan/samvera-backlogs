@@ -1,0 +1,2 @@
+bundle update
+addresses a security issue with rubyzip 1.2.4

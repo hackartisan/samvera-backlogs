@@ -1,0 +1,1 @@
+Use get_search_results method to get related items

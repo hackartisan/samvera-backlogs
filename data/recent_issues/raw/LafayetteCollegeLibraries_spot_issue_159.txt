@@ -1,0 +1,2 @@
+use lafayette site fonts?
+it'd be nice if we could use the same fonts as the college's other websites. from the source, it looks like we're using fonts from typography.com, which redirect to a lafayette cdn. might be worth asking what the best practice is for us using the fonts are, since i believe we're paying for them. leftover from #155

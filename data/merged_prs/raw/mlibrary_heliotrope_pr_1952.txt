@@ -1,0 +1,2 @@
+HELIO-1751 - Ensure all pages have proper heading structure 
+Modify headings on asset page and homepage to address accessibility issues; add relevant styles to maintain same look with the now correct markup.

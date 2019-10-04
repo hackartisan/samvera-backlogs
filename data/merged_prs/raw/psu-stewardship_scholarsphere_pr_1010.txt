@@ -1,0 +1,2 @@
+Updating rubocop to inherit from our style guide
+Makes corrections using the new style guide referenced from our guide repo.

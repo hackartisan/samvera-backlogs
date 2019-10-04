@@ -1,0 +1,2 @@
+This commit adds the rights_country term
+to the model and sets the correct label in the simple_form locale. It also sets up the faceting and searching of the term as specified in the issue via the catalog_controller. Connected to #142

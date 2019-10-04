@@ -1,0 +1,2 @@
+Add orangelight document builder for coins
+Adds generic Orangelight document service and a builder for Coin resources. Fixes issue with nil values in numismatic monogram input. Increases flexibility of the year validator to accommodate BCE and years with less than four digits.

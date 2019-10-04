@@ -1,0 +1,5 @@
+Retain/manage legacy identifiers/URLs
+As a repository manager, I would like CONTENTdm reference URLs to be retained by CHO, So that I may search within CHO by this reference number. We will also need to find a way to redirect these URLs to CHO.
+@lmballinger I think we can handle this with a metadata field for legacy identifiers that is indexed.
+There will be a field that allows someone to enter an old ID/URL (from CONTENTdm) in metadata and index it that field so it is discoverable.
+I thought this might just be a metadata implementation detail, but it's not since we should redirect old URLs. We will need to accept old domains and redirect to CHO.

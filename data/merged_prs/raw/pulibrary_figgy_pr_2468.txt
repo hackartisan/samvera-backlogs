@@ -1,0 +1,2 @@
+Add ARK report to all collections
+fixes #2338 also fixes #1977

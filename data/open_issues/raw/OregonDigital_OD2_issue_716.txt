@@ -1,0 +1,3 @@
+Wipe Database when seed data goes in
+Descriptive summary We can either wipe the entire database and start fresh when we ingest the seed data or we can organize all the current things into its own collection and keep it there whilst making it private. We can meet and discuss this at a future date.
+Wipe it. Seed data goes in and if the data isn't enough, we can input by hand. 

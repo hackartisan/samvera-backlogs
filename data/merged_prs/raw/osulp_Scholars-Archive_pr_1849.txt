@@ -1,0 +1,2 @@
+Feature/disable batch upload for non admin
+Fixes #1472

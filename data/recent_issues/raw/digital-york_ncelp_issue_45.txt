@@ -1,0 +1,2 @@
+Popup window for 'hours of prior instruction' field
+This is the table people should reach when they click on 'estimate' in the description of the 'hours of prior instruction' field. https://docs.google.com/document/d/12F7GrqnV41vGApNbQS7UsgMNTaauz2odCq1gIweixi8/edit?usp=sharing

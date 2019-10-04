@@ -1,0 +1,2 @@
+update embargo_releaser to catch error during embargo lifting task
+fixes #1965

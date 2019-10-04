@@ -1,0 +1,2 @@
+Trigger read-only mode for backups
+ACCEPTANCE   I can put the system into read-only mode via a cron job, so I can automate backups

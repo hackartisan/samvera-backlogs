@@ -1,0 +1,2 @@
+Wire up Academic Units in CVM
+"Wire Up" means - allow traversal of the graph to allow reporting on academic units and their relationships to one another

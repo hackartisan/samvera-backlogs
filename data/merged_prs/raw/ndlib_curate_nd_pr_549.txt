@@ -1,0 +1,2 @@
+Dltp 625 work type of osf archive should
+Claiming issue DLTP-625 @282c8131b76c90cf8e91a8621d51ef3a81cac1ba $ ./script/start-issue DLTP-625 [skip ci] Set human readable type for OSF @a21cb6316f376656ee84f6464bb4263a43ff0c67 Set a new method to override human readable type so it doesn't default using title case. We want it to appear as OSF Archive. Closing issue DLTP-625 @3e233482679830dc5c49648a2156c48e7a1a050f $ ./script/close-issue DLTP-625

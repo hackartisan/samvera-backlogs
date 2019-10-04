@@ -1,0 +1,2 @@
+Rename Entity attribute 'entity' to 'data'.
+Rename Sighrax::Entity.entity attribute to Sighrax::Entity.data.

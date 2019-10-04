@@ -1,0 +1,2 @@
+Issue 33 add missing facets
+Resolves #33 All required facets should appear providing data are populated for all expected fields in records. I expect to improve the default search configuration before merging this with the master.

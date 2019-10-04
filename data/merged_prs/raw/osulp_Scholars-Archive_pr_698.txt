@@ -1,0 +1,2 @@
+bugfix for hack to work alongside normal functionality
+enables hack to work alongside regular form usage

@@ -1,0 +1,2 @@
+Remove token_header keyword arg when configuring dor-services-client
+This is no longer required, and in fact can break the client if the header value (from shared_configs) is unset. This is what broke the workflow service connection to dor-services-app.

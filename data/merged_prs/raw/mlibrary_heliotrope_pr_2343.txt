@@ -1,0 +1,2 @@
+Restful Solr
+Direct access to Solr's REST API.

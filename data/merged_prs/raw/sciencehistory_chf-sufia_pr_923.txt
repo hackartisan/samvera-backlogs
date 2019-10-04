@@ -1,0 +1,2 @@
+misunderstood attempt to reuse access control logic, should have been OR not AND
+Fixes #914

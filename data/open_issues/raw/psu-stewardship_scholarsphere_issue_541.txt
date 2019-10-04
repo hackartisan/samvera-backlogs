@@ -1,0 +1,3 @@
+As a developer I would like better logging of external dependencies so that I can troubleshoot easier.
+External dependencies need to be better logged so that they can be debugged. For instance box batch uploads seem to fail intermittently but we are not sure, why how or when. suggested by @informaticianme
+External System Interface: LDAP BrowseEverything connections (Box, drop box) Share Notify

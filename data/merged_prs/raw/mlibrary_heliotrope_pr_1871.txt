@@ -1,0 +1,2 @@
+Only fixed width/page image epub chapters should be downloadable
+This is already in production as 2.12.1

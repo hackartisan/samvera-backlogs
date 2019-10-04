@@ -1,0 +1,2 @@
+partially revert a21118
+fix newspaper display (deep zoom doesn't work since FITS can't determine the dimensions for the riiif manifest)   fix curationexperts#78 (comment)

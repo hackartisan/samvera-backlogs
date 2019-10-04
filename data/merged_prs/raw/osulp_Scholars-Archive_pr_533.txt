@@ -1,0 +1,1 @@
+Set basic metadata as searchable

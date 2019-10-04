@@ -1,0 +1,2 @@
+Update chromedriver version on Travis to match Chrome version
+Fixes #693 Updates .travis.yml to match the version of chromedriver to the version of Chrome that Travis installs.  This seems to fix the failures.

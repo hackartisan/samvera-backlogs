@@ -1,0 +1,2 @@
+The UnpackJob should create the epub-webgl mapping when it needs to.
+See #1692

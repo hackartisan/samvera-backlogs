@@ -1,0 +1,2 @@
+Allow user to choose from tar or bag
+This refactors the bagging classes so that you can change the final compression method in an easier way. This also changes around the controllers and JS so that you can create zip or tar bags from UI and then download those bags. Connected to #263

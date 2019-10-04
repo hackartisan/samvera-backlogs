@@ -1,0 +1,2 @@
+Use child work as representative presenter on show page
+Not it's ultimate representative fileset. Our architectural changes mean it can already handle this just fine. It allows us to provide the 'info' button for child work even in representative position, while still providing download button for actual fileset (when in representative position). All this is getting convoluted, it's hard to figure out UI for generic child work situation. Closes #897

@@ -1,0 +1,2 @@
+Form for adding creators to works or collections
+Builds the necessary html for entering creators and roles in a work or collection. This also includes the code required to validate the role with the Agent and return any errors if either is invalid. The Agent controlled vocabulary is already done, but the roles should be specified and validated here as MARC relators. MARC relators can be a simple datalist pulled from http://id.loc.gov/vocabulary/relators.html. A json file might be best here. Child of #87 Blocked by #732 [Related: #191  NT]

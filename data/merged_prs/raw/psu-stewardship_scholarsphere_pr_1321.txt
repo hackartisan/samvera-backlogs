@@ -1,0 +1,2 @@
+Refactoring tests
+Cut spec/features/generic_work/upload_and_delete_spec.rb time in half by indexing less items Cut spec/features/generic_work/upload_and_delete_spec.rb in half by combining tests and stubbing characterize

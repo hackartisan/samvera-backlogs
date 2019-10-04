@@ -1,0 +1,2 @@
+PDFReader.gotoPage should be setting currentPageNumber
+Stops the reader from going to the wrong page when there's front matter.

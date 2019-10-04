@@ -1,0 +1,2 @@
+draft item without a title needs a placeholder title value on item list page
+In the past if you created a new object and left the title blank, when you viewed that object on the list of items in the collection it would insert a placeholder title ("Untitled"). Now there is nothing, which leaves there nothing to click on so that you can’t go back and continue editing that object.  Here is the collection list in production that shows the problem: https://sdr.stanford.edu/collections/druid:md919gh6774/items

@@ -1,0 +1,2 @@
+Resolves #489: Ability to navigate next and previous from asset page.
+You can now navigate the monograph's assets (file_sets) from the asset page using previous and next navigation buttons in the order they appear in the monograph.

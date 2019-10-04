@@ -1,0 +1,2 @@
+Fix/visibility during embargo
+fixes #1037 fixes #1026

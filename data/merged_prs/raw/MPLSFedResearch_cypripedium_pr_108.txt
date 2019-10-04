@@ -1,0 +1,1 @@
+Fixed log message to have correct model name

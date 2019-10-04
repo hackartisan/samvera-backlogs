@@ -1,0 +1,2 @@
+edit form for press
+Resolves #913

@@ -1,0 +1,2 @@
+As a user depositing a complex work with many files and directories, I would like my work to keep its structure when it is uploaded so that it maintains its integrity.
+Often when uploading a work with multiple files the files are organized into sub-directories. In many cases the work only functions properly if that organization is preserved.

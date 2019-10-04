@@ -1,0 +1,2 @@
+Remove duplicate versions of Bootstrap
+Removes additional style sheets and the require statements in the application.css file and moves to css.scss and uses imports to add the resources in the application.css.scss style sheet. This change eliminates multiple copies of Bootstrap from being added to the application style sheet from multiple dependencies. Fixes #1460

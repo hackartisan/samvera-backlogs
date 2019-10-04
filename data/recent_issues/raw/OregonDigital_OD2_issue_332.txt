@@ -1,0 +1,2 @@
+Representative Media not visible on form
+Descriptive summary The fields necessary for selecting the representative media don't appear on the deposit form. I ran into this bug by uploading a second file to a work, then noticed I wasn't able to select that it be used for the works thumbnail image. Expected behavior It seems like we want to be able select/set the representative media for a work and in doing so change the thumbnail that's displayed on the #show page.

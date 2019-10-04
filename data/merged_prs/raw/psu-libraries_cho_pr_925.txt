@@ -1,0 +1,2 @@
+Adding a transaction for processing the dry run
+Description Captures more errors with the the CSV dry run Connected to #834

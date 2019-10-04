@@ -1,0 +1,2 @@
+Add Research Fields
+Adds a service for Research Fields using ProQuest's IDs and labels. Consistently shows the label in the interface, including on the show page (using a renderer), and the search pages (using helpers with the catalog controller).

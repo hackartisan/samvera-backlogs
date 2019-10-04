@@ -1,0 +1,2 @@
+Include additional fields in CSV for the metadata guide
+Adds two new fields to the dowloadable CSV metadata profile:  csv_header: the column header for import manifests required_on_form: whether the field is required on the edit form

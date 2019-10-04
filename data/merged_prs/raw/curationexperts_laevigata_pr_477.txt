@@ -1,0 +1,2 @@
+Remove admin set menu. No longer needed.
+Closes #476

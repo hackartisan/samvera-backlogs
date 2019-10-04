@@ -1,0 +1,2 @@
+update hyrax migrator gem to add uri check
+update hyrax-migrator to get update for OregonDigital/hyrax-migrator#145 related PR OregonDigital/hyrax-migrator#147

@@ -1,0 +1,2 @@
+clear the floating image div. Fixes #46
+after the fix:

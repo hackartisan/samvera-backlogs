@@ -1,0 +1,2 @@
+Fixes header/footer layout and responsiveness and width of containing elements
+Improves layout, text, styles for header elements 400-768px. Updates footer and header for 960px. Overrides dashboard layout with container-fluid. Makes drop down links white when screen is mobile.Overall better layout and responsiveness.

@@ -1,0 +1,2 @@
+Order of author names does not persist.
+I entered two authors per the order in the citation to the original work. However, once I save the work, it flips the order of the names. The order on this work should be: Eisenhower, Cathy Smith, Dolsy But every time I enter the correct order and save, it puts my name first. Here's the work: https://scholarspace.library.gwu.edu/concern/gw_works/qv33rx376?locale=en

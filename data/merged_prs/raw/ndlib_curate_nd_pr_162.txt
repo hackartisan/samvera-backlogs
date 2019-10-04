@@ -1,0 +1,2 @@
+DLTP-273 Allow page actions to be clicked with sticky menu
+Adjusting z-index so clickable elements stack in appropriate order.

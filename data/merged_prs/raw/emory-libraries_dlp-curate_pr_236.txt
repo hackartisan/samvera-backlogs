@@ -1,0 +1,2 @@
+Updates yarn packages
+Updates yarn packages to resolve a security vulnerability for fstreamer, and adds webpack to package.json, to silence the unmet peer dependency warnings.

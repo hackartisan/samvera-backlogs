@@ -1,0 +1,2 @@
+Handle invalid remote identifier values during bulk ingest
+Fixes issue with spaces in folder names during bulk ingest of material from the maplab. Closes #2288

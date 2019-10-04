@@ -1,0 +1,4 @@
+Delete Fields from Selected Objects
+As a metadata manager, I need to be able to delete a field for a selection of records (e.g., collection, or type), so retrospective changes can be done in batches. Linda B.
+Covered in #106, closing.
+Re-opening and adding to the GUI since batch editing will mainly happen via CSV offline. The field would have to be a core field or otherwise exist across all work-types of the selected works.

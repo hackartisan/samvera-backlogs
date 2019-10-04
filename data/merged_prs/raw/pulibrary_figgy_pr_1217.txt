@@ -1,0 +1,1 @@
+Add titles to metadata forms, fixes #1215

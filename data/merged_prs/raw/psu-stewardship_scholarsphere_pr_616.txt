@@ -1,0 +1,1 @@
+Disallow editing and deleting during uploading, ref #577

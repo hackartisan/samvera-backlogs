@@ -1,0 +1,6 @@
+Download survey
+Create a new model for survey, link it to Resource model, and update UI
+https://github.com/samvera/hyrax/pull/3489
+I get an error message when I try to save & submit the survey. <img width="824" alt="Screenshot 2019-04-12 at 10 10 24" src="https://user-images.githubusercontent.com/40735172/56026042-3d8a2d80-5d0b-11e9-9080-fb1bec35a38c.png"> 
+Sorry I was updating the server, please could you try again?
+Yes, works fine now!

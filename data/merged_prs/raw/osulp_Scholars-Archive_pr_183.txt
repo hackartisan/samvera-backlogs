@@ -1,0 +1,2 @@
+Updated sufia and activated citations.
+Fixes #141. Updated sufia and activated the citation link.

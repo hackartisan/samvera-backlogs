@@ -1,0 +1,2 @@
+initial readme. closes #558
+please feel free to add/edit this.

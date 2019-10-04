@@ -1,0 +1,2 @@
+Add MD5 to hash values for files
+Find MD5 in FITS output Add MD5 to to File metadata    Add the MD5 to the digest_ssim or original_checksum_tesim for Solr      Add the MD5 to the appropriate place in Fedora as well

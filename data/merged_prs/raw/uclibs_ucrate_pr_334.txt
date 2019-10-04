@@ -1,0 +1,2 @@
+Redirect dashboard profile to user profile
+Fixes #309 Add redirect to user profile in dashboard profile show action. Changes proposed in this pull request:  Tweak dashboard profile controller Add spec

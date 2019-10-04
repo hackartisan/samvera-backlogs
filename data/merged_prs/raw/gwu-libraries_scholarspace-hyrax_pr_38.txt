@@ -1,0 +1,2 @@
+T12 readme refresh
+It's not perfect, but it's time to do a merge, to avoid it diverging too far from master at once.

@@ -1,0 +1,2 @@
+revised testing for login-to-download button
+AFAIK the 'Registered' group didn't end up being a usable distinction for when to render which buttons, so it's irrelevant in the tests. Any logged-out users encountering a file where Public agent doesn't have Downloader role will get the "Login to Download" button; if they click it and log in, then they will get either the green download button (if their account is permitted) or the red Not Authorized button (if their account isn't). See discussion thread on #236

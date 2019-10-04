@@ -1,0 +1,2 @@
+Common tasks user test
+This is an idea to support #894 At all-hands, start off each user meeting with a small user test. Ask each user to tell us the top 1-3 things they go to Figgy to do (maybe write these down). Then for each user log them in to figgy and ask them to show us how they get to where they need to go to do that thing. This would give us some insight into how many clicks it takes users to get to the starting point for beginning their actual work.

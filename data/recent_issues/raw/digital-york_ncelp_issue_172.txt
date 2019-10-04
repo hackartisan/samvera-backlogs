@@ -1,0 +1,2 @@
+Make files more prominent on the Resource Details page
+On the Resource Details page could we move the downloadable files to a more prominent position?

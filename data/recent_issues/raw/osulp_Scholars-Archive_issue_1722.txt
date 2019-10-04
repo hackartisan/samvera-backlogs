@@ -1,0 +1,2 @@
+Ask Google to crawl the site
+Descriptive summary Here's a link to make the request: https://support.google.com/webmasters/answer/6065812?hl=en

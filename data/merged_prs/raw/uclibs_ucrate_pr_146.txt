@@ -1,0 +1,2 @@
+Add show path
+Fixes #145 Present short summary (50 characters or less) Adds a show path to find any work without needing to know it's type

@@ -1,0 +1,2 @@
+Use existing temporary directory instead of creating new directory for downloads
+The tmp directory already exists, and is used by the scripts that install Kakadu and simpler-tiles, why bother creating new directory somewhere else?

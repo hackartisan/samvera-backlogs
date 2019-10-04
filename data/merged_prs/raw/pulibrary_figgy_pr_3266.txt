@@ -1,0 +1,2 @@
+Clear error messages when clearing derivatives
+fixes #3235 Related issue created: #3265 Just an update; I commented in the issue that I wanted to do this in the regenerate derivatives job; that ended up being a bad place for 2 reasons:  When I did it there the jobs stepped on one another and there were stale object errors. It fits logically with the clean_derivatives code in the services themselves.

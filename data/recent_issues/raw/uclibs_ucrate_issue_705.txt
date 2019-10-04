@@ -1,0 +1,2 @@
+Highlight search terms on catalog view page
+(moved from uclibs/scholar_uc_legacy#222) Descriptive summary When the user's search terms appear in the the search results, highlight them so the user can more easily see the matches. Example: if the user searches for library degree, highlight any words in the search results that caused those records to be included.  See example below.

@@ -1,0 +1,2 @@
+add Edited By language to Chaudhuri title on Fulcrum homepage
+Related to #879 Modified fulcrum.org homepage to say "Edited by Una Chaudhuri and Holly Hughes"

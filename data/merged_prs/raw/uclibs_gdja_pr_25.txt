@@ -1,0 +1,2 @@
+remove citations partial due to method error
+Fixes #24 Remove additional citations partial logic since it is breaking generated journal worktype Add readline to dev bundle for byebug.

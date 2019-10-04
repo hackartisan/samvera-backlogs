@@ -1,0 +1,3 @@
+Figgy home page should direct users to catalog/DPUL/etc.
+If a user finds Figgy, they can't really do much, and it's not clear where they could go to find the content.
+Maybe related to #3224 and/or #894

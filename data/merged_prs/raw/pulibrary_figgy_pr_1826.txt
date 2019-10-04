@@ -1,0 +1,2 @@
+Display JSON-LD for simple resources.
+Closes #1825.

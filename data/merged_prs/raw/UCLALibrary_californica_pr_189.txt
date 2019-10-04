@@ -1,0 +1,2 @@
+Add spec for publisher
+This commit adds a test for the publisher term. This is present in Hyrax::BasicMetadata already. This test will fail if the predicate changes upstream. Connected to #106

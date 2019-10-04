@@ -1,0 +1,1 @@
+Adding sort by title and trying to fix searching.

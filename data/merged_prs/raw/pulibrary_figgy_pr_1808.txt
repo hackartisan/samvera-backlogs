@@ -1,0 +1,2 @@
+Add CoveragePoint resource in app/values
+resolves #1800

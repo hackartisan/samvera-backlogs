@@ -1,0 +1,2 @@
+Cleanup and create standard accounts
+Two rake tasks:  Cleanup all accounts and uploaded files Create standard accounts whose names and passwords are defined by environment variables  Connected to #54

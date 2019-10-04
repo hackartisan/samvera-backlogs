@@ -1,0 +1,1 @@
+upgrade hyrax to v2.3.2

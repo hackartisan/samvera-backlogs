@@ -1,0 +1,2 @@
+Only All Fields should search Extracted Text in Basic Search
+Users expected a fielded search to only search that specific field. Only the All Fields basic search option should return results from extracted text. Related: #804

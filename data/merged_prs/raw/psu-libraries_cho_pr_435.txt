@@ -1,0 +1,2 @@
+Updating Capistrano deploy
+Description The initial deploy configuration was copied over from Scholarsphere. Most of this doesn't apply to our current setup, so we're removing it in favor of a simpler configuration. Changes Are there any major changes in this PR that will change the release process? Yes There are new directories in the server's shared Capistrano directory. These directories must exist when the application is deployed. Checklist   i18n enabled  adequate test coverage  accessible interface

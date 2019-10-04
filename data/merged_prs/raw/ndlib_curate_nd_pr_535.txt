@@ -1,0 +1,2 @@
+Guard for missing title metadata on generic file
+Guard for missing title metadata on generic file @bb8c0cdb6441a73d1440dfe86f63eb697956154c A finding aid file with no title caused the edit page to receive a 500 error. Curate caught a registered error: NoMethodError - undefined method `first' for nil:NilClass.

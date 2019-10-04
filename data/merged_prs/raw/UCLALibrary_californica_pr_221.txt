@@ -1,0 +1,2 @@
+Deploy configuration for californica-stage server
+Including a deploy file for the californica-stage server Connected to UCLALibrary/amalgamated-samvera#71

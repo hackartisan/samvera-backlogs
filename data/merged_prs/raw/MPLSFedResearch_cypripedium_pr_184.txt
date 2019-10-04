@@ -1,0 +1,1 @@
+Remove spec static attributes convention and update gem dependencies.

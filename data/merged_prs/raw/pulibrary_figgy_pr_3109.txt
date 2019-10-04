@@ -1,0 +1,1 @@
+Add Rack Mini Profiler to staging.

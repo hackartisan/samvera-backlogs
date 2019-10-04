@@ -1,0 +1,2 @@
+Choose size and number of thumbnails in a grid view
+As a person browsing images, I want lots of control over the number and sizes of thumbnails in a results display, so that I can browse in a way that is suitable to both the types of images and to my eyesight. Henry P. Dependent on #80

@@ -1,0 +1,2 @@
+Updating vocabs with data from Figgy production
+We have made many additions to the vocabs over the years of Figgy ephemera usage, so using the old CSV files in staging was wildly out of sync with production.

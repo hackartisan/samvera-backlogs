@@ -1,0 +1,3 @@
+Collect File Information for Contents of Zips/Tars
+There are a fair number of .zip, .tar.gz and other compressed file archives in ScholarSphere, particular among the data sets. It would be useful for users, curators, and administrators to have a sense of what's in them without having to download and open the files. Ideally, we would extract a manifest of the contents of archive files when they are uploaded and save it as file set metadata.
+I think this might be a good enhancement for version 4. It's possible we could do this in the current version, but might require some additional work that wouldn't be portable to the next version.

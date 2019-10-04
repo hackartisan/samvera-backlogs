@@ -1,0 +1,1 @@
+Include support for rollbar error reporting tool

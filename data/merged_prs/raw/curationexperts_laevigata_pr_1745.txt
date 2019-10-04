@@ -1,0 +1,2 @@
+Add language to migration mapper
+Map language when creating migrated resources. Default to "English" in the event no language is given.

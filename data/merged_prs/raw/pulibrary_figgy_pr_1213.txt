@@ -1,0 +1,2 @@
+Adds static file to serve UV v3 for embedding elsewhere
+iframe source would be: /uv.html#?manifest={manifest} Specifying start time/canvas parameters can be tacked on as well, via UV Hash Parameters

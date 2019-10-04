@@ -1,0 +1,2 @@
+Slightly speed up the epub job specs
+These specs were in the top 10 slowest: ReindexEpubJob perform reindexes the epub 5.56 seconds ./spec/jobs/reindex_epub_job_spec.rb:14 UnpackJob perform with a pre-existing epub adding a webgl creates the epub-webgl map 4.1 seconds ./spec/jobs/unpack_job_spec.rb:58 But no longer are

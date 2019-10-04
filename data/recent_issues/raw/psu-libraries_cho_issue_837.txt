@@ -1,0 +1,2 @@
+Confirmation when deleting agents
+When deleting an agent (individual or batch), I should see confirmation messages as when deleting works and collections, so I don't accidentially delete an agent. I should not be able to delete an agent if a work or collection has that agent listed in their metadata.

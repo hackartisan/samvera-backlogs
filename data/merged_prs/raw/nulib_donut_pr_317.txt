@@ -1,0 +1,2 @@
+Fixes adding to collection when creating new work bug
+Fixes nulib/next-generation-repository#586  exclude member_of_collections_attributes from validation in order to avoid an ActiveFedora::UnknownAttributeError error.

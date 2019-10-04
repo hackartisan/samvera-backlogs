@@ -1,0 +1,2 @@
+setCreator is throwing an error on every page that doesn't have a current_user.
+Descriptive summary setCreator is getting called on every page due to the way we have it defined with Turbolinks.  Many of the pages don't have a current_user so it throughs an error in the java console.  Expected behavior That setCreator only load on the proper page or that setCreator has a conditional for current_user Actual behavior Steps to reproduce the behavior  Visit Home Page Open Java Console in Developer Tools  Related work Link to related issues or prior related work here.

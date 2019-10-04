@@ -1,0 +1,2 @@
+Order in ordered fields not maintained over 10 terms
+Descriptive summary When editing creator fields, I noticed that the order was not saved when there were more than 10 terms listed.   Ordered fields should not be saved lexigraphically. Steps to reproduce the behavior  Upload item. Enter 10 terms in an ordered field such as creator. Save item. Order looks good. Edit and add more terms. Order lost.

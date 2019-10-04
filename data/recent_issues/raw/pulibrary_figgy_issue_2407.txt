@@ -1,0 +1,2 @@
+Viewer.html needs style resets to allow content to be delivered via UV iframe
+viewer.html should have the same style resets as the uv.html

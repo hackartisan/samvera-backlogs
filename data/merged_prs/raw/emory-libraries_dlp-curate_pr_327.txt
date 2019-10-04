@@ -1,0 +1,1 @@
+Adds commit, branch, and deployment data to footer.

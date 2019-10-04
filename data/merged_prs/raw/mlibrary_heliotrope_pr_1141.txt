@@ -1,0 +1,2 @@
+video poster attribute derivative
+Resolves #1103

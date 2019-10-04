@@ -1,0 +1,2 @@
+Incorporating DelegateAttributes for SeniorThesis
+I want the form's labels and hints to use similar content as the API might provide. I could use a translation table, but I believe this is hiding the fact that I want more robust information for each field:  Type Allow multiple Hint Label Datastream to delegate storage to Writer and readers to intercept changes  By keeping this information associated with the model, I'm able to more readily expose the data structure and its meaning.

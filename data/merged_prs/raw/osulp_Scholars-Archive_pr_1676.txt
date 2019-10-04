@@ -1,0 +1,2 @@
+handles the case where new values are being added to existing multi-value metadata
+needed for #1647 and #1648

@@ -1,0 +1,2 @@
+Rescue additional errors from CSV validation
+When uploading a CSV for dry-run and import, there can be other errors such as CSV::MalformedCSVError. We should rescue these as we do Csv::ValidationError so we can provide better feedback to the user. Question: Why not just rescue StandardError?

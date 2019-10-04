@@ -1,0 +1,2 @@
+DLTP-1089:
+Adding a very basic redirect to reuse our existing service, just to have something functional in case we need to get this out soon.

@@ -1,0 +1,2 @@
+cover: squash row errors, find by id
+Resolves #843

@@ -1,0 +1,2 @@
+Feature/show page update
+fixes #616

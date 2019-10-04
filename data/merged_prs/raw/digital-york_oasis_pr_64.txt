@@ -1,0 +1,2 @@
+Issue 54 35 more value validations on homepage and search result page
+Resolves #54 and #35

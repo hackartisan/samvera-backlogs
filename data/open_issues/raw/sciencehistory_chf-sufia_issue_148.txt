@@ -1,0 +1,3 @@
+get resource type from form and use it to specify book mapping / parsing
+
+more likely will use data from record to determine which mapping we want. 

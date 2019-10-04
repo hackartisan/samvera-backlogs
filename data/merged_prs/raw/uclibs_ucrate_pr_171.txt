@@ -1,0 +1,2 @@
+Add collection title in the collection export page
+Fixes #161 Add collection title on the collection export page. Add test for the collection title column. Add collection_title helper to return the collection title.

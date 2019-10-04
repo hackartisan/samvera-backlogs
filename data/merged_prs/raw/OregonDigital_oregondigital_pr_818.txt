@@ -1,0 +1,2 @@
+CircleCI
+This configures the project so we can use CircleCI. It has a higher memory ceiling which should ease up some of our issues with Travis.

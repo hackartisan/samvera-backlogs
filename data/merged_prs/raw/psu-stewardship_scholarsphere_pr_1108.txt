@@ -1,0 +1,2 @@
+Redefines creator method to use creator_name or creator
+This allows to display the creators whether they have been migrated or not on the work show page.

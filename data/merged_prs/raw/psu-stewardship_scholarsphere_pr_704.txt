@@ -1,0 +1,2 @@
+Use inline styles for progress bar, ref #643
+@mtribone For whatever reason, Bootstrap needs inline styes here in order for the progress bar to show.

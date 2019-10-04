@@ -1,0 +1,2 @@
+Increase expiration of presigned url
+Default is 15 minutes - too short for batch. Increase to maximum. (1 week)

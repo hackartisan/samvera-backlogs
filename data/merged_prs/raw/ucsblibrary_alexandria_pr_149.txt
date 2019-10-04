@@ -1,0 +1,1 @@
+solrconfig: turn off suggest module

@@ -1,0 +1,2 @@
+Support for Groups Authority
+Code to support groups authorities, including jquery to alter the authority based on the choice. Prevent changing the group/person dropdown once a record has been saved Minor change to persons, places and groups to fix a bug when the preflabel contains an apostraphe new and updated rake tasks

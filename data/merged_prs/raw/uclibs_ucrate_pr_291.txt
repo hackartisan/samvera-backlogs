@@ -1,0 +1,2 @@
+fix welcome page errors when user is not logged in
+Fixes #283

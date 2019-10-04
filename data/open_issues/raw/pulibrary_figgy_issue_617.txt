@@ -1,0 +1,4 @@
+Add tests for the Vue Filemanager
+These should include component-level tests as well as store tests.
+@sdellis is this done?
+The coverage is not 100% yet, so I guess not.

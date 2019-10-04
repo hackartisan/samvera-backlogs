@@ -1,0 +1,2 @@
+Add a route to get branding info
+The data about where the collection banner is stored in the Californica database (not Fedora/Solr). This adds a route and controller so that we can access this data from ursus. Connected to UCLALibrary/ursus#257

@@ -1,0 +1,2 @@
+Syslog
+Gives us more control and power for our logs, instead of just puking text to a file

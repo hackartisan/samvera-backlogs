@@ -1,0 +1,2 @@
+Remove the dependency for chromedriver-helper
+Support has ended for this Gem (please see https://github.com/flavorjones/chromedriver-helper#notice-this-gem-is-out-of-support-as-of-2019-03-31)

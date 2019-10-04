@@ -1,0 +1,2 @@
+Display fields on Monographs show page
+Closes #53. Modifies presenter class for Monographs, update the solr document, updates the Monograph controller, overrides the curation_concerns view partial and uses snake_case for all instances of buy_url.

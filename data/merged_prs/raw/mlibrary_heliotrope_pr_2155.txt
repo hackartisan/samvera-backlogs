@@ -1,0 +1,1 @@
+Addresses HELIO-2398 Rails.application.assets nil in production.

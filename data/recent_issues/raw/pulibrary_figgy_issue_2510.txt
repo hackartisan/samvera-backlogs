@@ -1,0 +1,2 @@
+Bulk Labeler shouldn't use both pagination and foliation settings
+When using the bulk labeler in pagination mode, the default foliation prefixes (r. and v.) are also being applied.  It should only use the pagination prefix in pagination mode, and foliation prefixes in foliation mode.

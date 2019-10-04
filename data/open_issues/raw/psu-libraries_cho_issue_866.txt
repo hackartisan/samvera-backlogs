@@ -1,0 +1,4 @@
+Skip to Main Content Issues for Keyboard and Screen Reader Users
+When using a screen reader or tabbing through the interface, the skip to main content link doesn't work as expected. During an accessibility review the user noted that she knew that there was a skip to main content link, but it didn't work when activating the link. Her expectation was that she would be taken to the main content of the web page. As a follow-up test it was noted that the skip to main content link doesn't appear when tabbing through the interface using the keyboard. Blocked by #311
+I am unable to reproduce this using the keyboard. I will test again using Windows.
+Pending results from MVP 7 accessibility testing.

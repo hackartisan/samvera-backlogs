@@ -1,0 +1,2 @@
+Fix for `WorkZipService` returning and empty file with external files
+This commit fixes an issue where the WorkZipService returns a zip file without any content when in external files mode. It modifies the WorkZipService so that it can handle internally and externally stored files. Related to issue #1282

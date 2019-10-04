@@ -1,0 +1,2 @@
+Added download links and tests.
+Closes #376

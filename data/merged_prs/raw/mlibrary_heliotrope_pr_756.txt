@@ -1,0 +1,1 @@
+bump solr_wrapper to latest release

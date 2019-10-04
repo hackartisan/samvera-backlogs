@@ -1,0 +1,2 @@
+Push state-based visibility logic into workflow classes and decorators
+Refactor Ability and EphemeraFolderIndexer to call the new logic instead of duplicating with one another. refs @1040

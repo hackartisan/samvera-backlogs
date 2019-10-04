@@ -1,0 +1,2 @@
+Enforce file embargo on show page
+Fixes #359

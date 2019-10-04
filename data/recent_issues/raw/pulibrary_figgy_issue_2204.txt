@@ -1,0 +1,2 @@
+Save and Ingest should look in the music library's ingest directory when ingesting a Recording
+Add a way to have configured "Save and Ingest" location change based on change set. requires #2295

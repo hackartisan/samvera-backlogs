@@ -1,0 +1,2 @@
+For items which were bulk imported in the past, attach the MODS/METS file they came from to the resource
+We've ingested a ton of items that don't have any back-reference to these files. Depends on #1736

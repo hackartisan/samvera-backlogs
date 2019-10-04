@@ -1,0 +1,2 @@
+[Figgy/production] ActionView::Template::Error: Current page was incalculable. Perhaps you called .per(0)?
+Backtrace View full backtrace and more info at honeybadger.io

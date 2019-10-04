@@ -1,0 +1,2 @@
+Set FileSet visibility on embargoed works
+All works that are under embargo should have their fileset's visibility set to "private". This task agressively sets that status in the event that it falls out of sync. This was already merged to the 1.x branch, and we need it on 2.x as well.

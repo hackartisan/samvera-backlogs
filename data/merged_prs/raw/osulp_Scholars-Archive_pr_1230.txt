@@ -1,0 +1,2 @@
+bugfix to parse string datetimes before printing them in a different format
+fixes #1229

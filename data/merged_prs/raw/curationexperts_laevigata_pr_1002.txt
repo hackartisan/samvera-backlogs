@@ -1,0 +1,2 @@
+Refactor embargo notification service
+I realize there is still lots of duplicated code and further refactoring could happen here, but it's much better than it was. I'd like to make these changes incrementally.

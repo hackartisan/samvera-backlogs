@@ -1,0 +1,2 @@
+#608 Updates README and seeds file for admin role assignment
+Fixes #608 If an admin role already exists, it will fail silently with the current methodology in the readme.  The new method will work for the assignment of the admin role whether it exists or not.  The seeds file is also updated, to change how admin roles are set.  It also eliminates a situation where the seed rake task errors out when the users already exist.

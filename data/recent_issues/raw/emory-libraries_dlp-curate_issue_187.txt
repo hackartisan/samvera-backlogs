@@ -1,0 +1,2 @@
+Modify Ansible Role for auto mounting EBS volumes
+Modify ec2_instance role to mount EBS volume  Test with new EC2 VMs  Research creating new role to manage EBS volume in the AWS Account

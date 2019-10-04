@@ -1,0 +1,2 @@
+Don't throw Internal Server Error on access denied
+Redirects access denied errors using hydra controller behavior code

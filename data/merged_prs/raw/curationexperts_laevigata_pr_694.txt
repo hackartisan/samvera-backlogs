@@ -1,0 +1,2 @@
+Update dependencies
+Closes #687

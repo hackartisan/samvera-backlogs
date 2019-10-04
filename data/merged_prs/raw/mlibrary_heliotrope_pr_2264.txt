@@ -1,0 +1,2 @@
+2541_bag_updated_monographs
+This code first:  Finds all published solr documents for monographs Examines the documents one by one and compares them with the aptrust_uploads tables to determine if they need to new bag or need an updated bag  Then it creates new bags or updates existing ones based the above results (if needed)

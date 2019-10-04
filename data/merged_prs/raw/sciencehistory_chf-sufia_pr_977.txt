@@ -1,0 +1,2 @@
+rake task to change email addresses of staff account to @sciencehistory.org
+Will close #963 Does not currently handle fixing group membership for changed accounts. Not sure if we need to, if we use that at all? Not 100% confident that there aren't any other things hiding in sufia data stores that might have to be changed.

@@ -1,0 +1,2 @@
+Remove numismatic find model
+These are probably not necessary.  See: #2578 (comment)

@@ -1,0 +1,2 @@
+Update a record if it has the same ARK
+During import, check to see if there is a record that already has the same ARK as the record being imported. If there is, update its metadata. If there is not, then make a new record. Connected to #403

@@ -1,0 +1,2 @@
+Allow deploy to ubuntu servers
+For performance testing we need to be able to deploy to DCE infrastructure, which is ubuntu-based. Accordingly, we need to move any Red Hat specific capistrano commands into their specific deploy environments, and add ubuntu-specific commands into their specific deploy environments. In other words, run sudo systemctl restart apache2 when deploying to ubuntu, and sudo systemctl restart httpd when deploying to Red Hat.

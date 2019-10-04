@@ -1,0 +1,2 @@
+Use dynamic aws inventory scripts with cor-cm
+Integrate ec2.py ansible script into cor-cm  Remove any direct references to rds in cor-cm ansible scripts  Test to ensure rds endpoints and other variables are reachable through dynamic hostvars

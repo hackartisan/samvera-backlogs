@@ -1,0 +1,2 @@
+Map Europeana Rights URIs to RightsStatements URIs
+Verify mapping and note areas of remediation

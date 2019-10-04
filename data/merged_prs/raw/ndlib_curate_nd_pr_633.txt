@@ -1,0 +1,2 @@
+Handling security scans concerning invalid requests
+Addresses things like https://errbit.library.nd.edu/apps/5788e858d6c0ee0af000112f/problems/59739f96d6c0ee29fa0000fe

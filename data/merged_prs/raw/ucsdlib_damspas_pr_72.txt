@@ -1,0 +1,2 @@
+Added general support to check for access control when adding collection links to the view.
+See https://lib-jira.ucsd.edu:8443/browse/DHH-608.

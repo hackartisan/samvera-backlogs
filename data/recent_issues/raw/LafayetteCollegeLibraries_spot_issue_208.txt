@@ -1,0 +1,2 @@
+random translation-missing texts
+kind of unsure as to why these are appearing: putting those into I18n.t within the rails console produces the expected result. maybe something's getting dropped?

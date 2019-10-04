@@ -1,0 +1,2 @@
+HELIO-1489 download a pdf chapter of a fixed layout epub
+Also HELIO-1876 removes snippets for pre-paginated epubs ONLY This is deployed to testing, https://heliotrope-testing.hydra.lib.umich.edu/heb

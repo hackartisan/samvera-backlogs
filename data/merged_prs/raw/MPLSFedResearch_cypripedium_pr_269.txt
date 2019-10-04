@@ -1,0 +1,2 @@
+Add RDF XML to Bag
+This commit includes an RDF XML service that is used to get metadata for a work and then place that in the bag. The RDF service requires the URI host to be set in Rails configuration. By default this is set to the current URL for the MPLS Fed Research Database. Connected to #265

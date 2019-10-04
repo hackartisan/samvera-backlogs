@@ -1,0 +1,2 @@
+Feature/GPP-301: More small homepage UI changes
+This PR contains changes to the homepage UI including enlarging and centering the submit button and removing "Works (#)".

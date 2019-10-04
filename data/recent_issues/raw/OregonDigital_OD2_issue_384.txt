@@ -1,0 +1,2 @@
+Make repository a CV
+Descriptive summary Repository with multiple endpoints

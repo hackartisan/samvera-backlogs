@@ -1,0 +1,2 @@
+Docker stack
+fixes #1319 fixes #1321

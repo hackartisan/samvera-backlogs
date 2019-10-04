@@ -1,0 +1,1 @@
+HELIO-2853 "Read" button title HTML entities

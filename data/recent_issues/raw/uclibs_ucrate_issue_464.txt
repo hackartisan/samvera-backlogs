@@ -1,0 +1,2 @@
+Department facet displays when any facet is selected
+Descriptive summary  Expected behavior Department facet is to only show when College was selected first. Actual behavior The Department facet displays whenever you select any facet. Steps to reproduce the behavior  Do this Then do this...  Related work Link to related issues or prior related work here.

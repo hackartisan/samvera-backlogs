@@ -1,0 +1,2 @@
+No datadog in staging.
+Staging wasn't in our datadog quote, and this throws errors if the agent isn't installed.

@@ -1,0 +1,2 @@
+Vendor rails-assets.
+rails-assets.org went down and we're using it for very little, so may as well just vendor these JS assets.

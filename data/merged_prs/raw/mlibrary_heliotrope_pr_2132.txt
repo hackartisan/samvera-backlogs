@@ -1,0 +1,2 @@
+HELIO-2351 COUNTER request counts from embed (multimedia) show views
+Tested on preview

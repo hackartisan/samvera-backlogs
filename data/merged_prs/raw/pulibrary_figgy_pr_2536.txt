@@ -1,0 +1,2 @@
+Defer javascript rendering to end of page.
+Recommendation of Google PageSpeed.

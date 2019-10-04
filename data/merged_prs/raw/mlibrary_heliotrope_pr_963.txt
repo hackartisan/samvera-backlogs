@@ -1,0 +1,2 @@
+Add penn state to fulcrum homepage and production db
+Resolves #958 Adds penn state to homepage and adjusts db/seeds.db so penn state is created in production.

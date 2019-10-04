@@ -1,0 +1,1 @@
+Update .env.sample to use a dummy analytics code

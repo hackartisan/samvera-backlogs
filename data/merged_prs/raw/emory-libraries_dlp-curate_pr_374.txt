@@ -1,0 +1,2 @@
+Update version of Zizia
+This updates the version of Zizia to include CSS and JS path changes and includes the Zizia JS and CSS in the app.

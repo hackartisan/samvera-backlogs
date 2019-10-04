@@ -1,0 +1,2 @@
+Dynamic robots.txt, disallowing all in non-production
+Closes #865 Note crawl-delay is still a high 5 as it was previously, not sure if we really need that, might help to lower it to get indexed, but not doing it now. We have no docs of the crawl-delay decision, if we really needed it at one point or not.

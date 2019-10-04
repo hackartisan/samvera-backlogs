@@ -1,0 +1,2 @@
+updated forms removed source term and batch edit form
+removed source from forms and show page to prevent confusion removed batch_edit_form.rb removed so that we get the latest version. We were only overriding it to remove related_url which is still included in the hyrax basic metadata. This change wouldn't affect us since we are using nested related items instead of related_url in the show page and edit forms added work.png, this fixes #916

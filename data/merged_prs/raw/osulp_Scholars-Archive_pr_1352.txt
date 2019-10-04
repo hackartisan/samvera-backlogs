@@ -1,0 +1,2 @@
+Makes degree_field label show up
+Fixes #1301 Displays the degree field label.

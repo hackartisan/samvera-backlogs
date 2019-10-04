@@ -1,0 +1,2 @@
+Cleanup nested field implementation for geo, date, related
+Descriptive summary Implement these so they use the Hydra Editor custom input for multi value ordered fields. Related work emerges from discussion of #1500

@@ -1,0 +1,2 @@
+Adding a presenter method for the error messages
+This allows us to translate the error messages to include the display name instead of the label

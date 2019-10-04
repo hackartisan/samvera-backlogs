@@ -1,0 +1,2 @@
+Add link to style guide.
+Descriptive summary As a developer, I want to know the latest look and feel in a central place so I can contribute more. Expected behavior I'll add a link in the OD2 footer to the "living style guide" alongside versioning and other more administrative references. Related work Link to related tickets or prior related work here.

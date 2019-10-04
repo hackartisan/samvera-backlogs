@@ -1,0 +1,2 @@
+Numismatic issue 'attach an existing resource' should warn the user if the coin is already in another issue and not attach it.
+Example: coin 12 is In issue 13 https://figgy-staging.princeton.edu/catalog/4f13bbc5-3343-4c48-8a02-1bfdbf7c48ff and in issue 14 https://figgy-staging.princeton.edu/catalog/b15178d9-d7d1-4ae6-a9fe-d74fe448ada0

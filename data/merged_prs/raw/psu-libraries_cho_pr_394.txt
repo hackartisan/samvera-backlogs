@@ -1,0 +1,2 @@
+Updating csv import export to include new fields
+Description References ticket: #376 Why was this necessary?   FIelds were added to the data dictionary that were not added to the csv import export process. Changes Are there any major changes in this PR that will change the release process? No Checklist   i18n enabled  adequate test coverage  accessible interface

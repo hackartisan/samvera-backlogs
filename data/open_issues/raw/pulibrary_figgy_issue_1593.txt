@@ -1,0 +1,4 @@
+Ingest "Wilson" (pudl0048)
+These don't appear to be ingested anywhere. Migrate? Ping @jpstroop @joycebcat
+Needs metadata.
+I believe this was copied over to MC215, e.g. https://findingaids.princeton.edu/collections/MC215/c002. If that's a match we can ingest using the PULFA-flavored METS.

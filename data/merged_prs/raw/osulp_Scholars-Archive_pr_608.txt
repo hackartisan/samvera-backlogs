@@ -1,0 +1,2 @@
+updates resource types to match the MAP spreadsheet
+fixes #605

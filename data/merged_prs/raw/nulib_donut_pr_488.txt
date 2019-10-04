@@ -1,0 +1,2 @@
+Remove collections info from batch sample data
+• Now that we allow multiple collections in batch Donut can't create a collection that doesn't exist from the title. Removing collection creation/assignment from batch sample data so it doesn't throw errors or cause confustion

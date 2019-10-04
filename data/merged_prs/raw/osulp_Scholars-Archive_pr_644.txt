@@ -1,0 +1,2 @@
+added edtf attribute renderer
+Screenshot (show page):  Search with date_created field:  closes #365 fixes #641

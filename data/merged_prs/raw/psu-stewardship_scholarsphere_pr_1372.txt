@@ -1,0 +1,2 @@
+Refactoring benchmark tests to improve speed
+There are still intermittent problems with the cloud provider tests, specifically with the Chrome driver. However, this does offer some improvements with speed. The solr query tests now runs in about half the time. Connected to #1234

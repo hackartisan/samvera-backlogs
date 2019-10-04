@@ -1,0 +1,1 @@
+add and reorder show fields; closes #84

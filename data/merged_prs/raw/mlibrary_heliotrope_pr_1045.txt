@@ -1,0 +1,2 @@
+capybara create monograph and asset feature specs
+Sleep 2 sigh, there has to be a better way.

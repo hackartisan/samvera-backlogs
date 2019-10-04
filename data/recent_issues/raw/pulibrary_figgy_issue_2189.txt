@@ -1,0 +1,2 @@
+Add departments for numismatics
+There are 14 departments in the db and they have 2 columns: DepartmentID    DepartmentName

@@ -1,0 +1,2 @@
+Separate local from imported metadata properties for ScannedResources
+Resolves #331

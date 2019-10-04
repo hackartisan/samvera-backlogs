@@ -1,0 +1,2 @@
+Revise search result field order in catalog_controller.rb
+Connected to #264  revise search result field order in catalog_controller revise import and show work feature spec to verify the expected fields appear in a search results page

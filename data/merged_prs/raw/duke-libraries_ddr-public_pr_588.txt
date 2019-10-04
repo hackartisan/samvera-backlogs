@@ -1,0 +1,1 @@
+Hotfix 2.9.6 - Upgrades sprockets

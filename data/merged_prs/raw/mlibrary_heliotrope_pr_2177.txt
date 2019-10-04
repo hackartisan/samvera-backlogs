@@ -1,0 +1,2 @@
+handles task with publisher/visibility parameters
+HELIO-2392

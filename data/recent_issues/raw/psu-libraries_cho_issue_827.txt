@@ -1,0 +1,2 @@
+Assume representative thumbnail
+If there is no representative thumbnail, CHO should use the thumbnail from the first file set as the representative thumbnail (if present or generated). Almost like the representative thumbnail was a symbolic link to the thumbnail from the first file set. This way, if thumbnails were only generated for each file in the workflow, one will still display in the catalog and on landing pages, etc.

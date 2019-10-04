@@ -1,0 +1,2 @@
+Cover search page with accessiblity tests
+Descriptive summary #618 Added aXe a11y test coverage for the homepage and various work show pages. We've made changes to the search page since then (as planned) and forgot to include a11y test coverage. Add that coverage Expected behavior axe-matcher hits the search page, in list and gallery view. Related work #618, #535 Accessibility Concerns Keep our pages accessible

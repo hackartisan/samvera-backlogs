@@ -1,0 +1,2 @@
+Resolves #811, add 'Site Requires Cookies Enabled' message for users
+See notes in #811

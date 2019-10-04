@@ -1,0 +1,2 @@
+add notes field to publication?
+i hate to keep tinkering with the metadata model for publications, but i'm not entirely sure the description field should be where the notes land. this throws me for a loop every time i see it:  thoughts @noraegloff?

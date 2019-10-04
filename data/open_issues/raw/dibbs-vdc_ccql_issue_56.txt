@@ -1,0 +1,2 @@
+Add Solr Indexing for uploaded text documents
+Currently, the extracted text doesn't seem to be generated for text documents. It does seem to be working for pdf and word docs from a previous ticket (#14).

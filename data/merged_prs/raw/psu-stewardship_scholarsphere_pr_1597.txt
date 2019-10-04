@@ -1,0 +1,2 @@
+Add masters culminating experience to the resource type
+Adds masters culminating experience to the resource types in the yml file and for the doi service.

@@ -1,0 +1,2 @@
+Delete assets
+Some assets in OD1 were migrated from CDM with missing information. These items have been re-digitized and re-uploaded. Please delete. PIDs here: https://docs.google.com/spreadsheets/d/1zGzF-PcbbQ-hKgGeLkz-Wmt2y0EvItMaS5Fpa7gXvvo/edit#gid=600114530

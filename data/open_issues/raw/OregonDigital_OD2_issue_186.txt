@@ -1,0 +1,3 @@
+Improve models test coverage
+Descriptive summary Models (Document, Generic, Image, Video) have basic tests to check metadata but are not covering validations, indexer, or included behavior. Add additional tests to cover these models.
+Also include model specific field coverage, see `spec/models/image_spec.rb` for an example.

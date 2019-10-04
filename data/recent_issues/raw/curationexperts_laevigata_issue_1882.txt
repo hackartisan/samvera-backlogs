@@ -1,0 +1,2 @@
+Upgrade webpack
+Laevigata uses the latest Webpack

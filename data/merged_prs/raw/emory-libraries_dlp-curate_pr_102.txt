@@ -1,0 +1,2 @@
+Adds descriptive metadata
+This commit adds first 10 descriptive metadata properties. Also adds rspec-its gem. Closes #85

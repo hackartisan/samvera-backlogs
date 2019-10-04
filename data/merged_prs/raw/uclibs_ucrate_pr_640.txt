@@ -1,0 +1,2 @@
+Pin Solr to version 7.6.0
+Fixes #639 This should resolve problems we sometimes have with starting solr_wrapper

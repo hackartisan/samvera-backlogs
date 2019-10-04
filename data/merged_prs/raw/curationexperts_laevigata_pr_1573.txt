@@ -1,0 +1,2 @@
+Only display embargoed Etds when indexing embargoes
+The embargo filter in #1478 failed to correctly specify an fq= for Solr. We fix this in an updated EtdEmbargoSearchBuilder, and add unit tests at the EtdEmbargoService level to ensure that the filter is working correctly. Fixes #1548.

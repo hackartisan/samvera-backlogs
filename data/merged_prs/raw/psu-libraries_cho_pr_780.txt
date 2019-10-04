@@ -1,0 +1,2 @@
+Import agents via CSV
+Description Create and update agent resources via csv upload. Uses the existing framework we have for works and extends to agents, using csv files to create new agents or update existing ones. Additionally, it validates agents so that no duplicate resources can be created that have the same first and last name. Fixes #737 Changes  duplicate Work::Import functions with Agent refactor to separate shared functions between work and agent csv import processes enable listing, showing, and editing of individual agents

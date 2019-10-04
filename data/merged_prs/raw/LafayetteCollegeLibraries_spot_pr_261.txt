@@ -1,0 +1,2 @@
+setup production deployment environment
+unless i'm mistaken, this should be all we need to do for deploying to production. but we'll see... closes #24

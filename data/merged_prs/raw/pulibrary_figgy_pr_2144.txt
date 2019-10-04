@@ -1,0 +1,2 @@
+Rename ProxyFile to ProxyFileSet
+Closes #2105

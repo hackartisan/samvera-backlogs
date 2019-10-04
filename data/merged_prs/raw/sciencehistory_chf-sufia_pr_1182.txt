@@ -1,0 +1,2 @@
+Using https for OPAC (Sierra) links
+Fixes #1178 .

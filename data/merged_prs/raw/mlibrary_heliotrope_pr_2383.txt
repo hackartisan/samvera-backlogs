@@ -1,0 +1,2 @@
+HELIO-2743 Exclude "cover", "epub", "pdf_ebook" and "mobi" from
+component DOI creation

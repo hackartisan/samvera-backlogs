@@ -1,0 +1,1 @@
+Use component dc:format as download label

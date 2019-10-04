@@ -1,0 +1,4 @@
+Restrict Readme to content Types
+
+Only prompt users to add a README when creating specific resource types:  * dataset * audio * map * software * video * other  Remove the README message if the selected resource is _not_ one of the ones listed above. Users would still be able to add a README to any work, they're just not being prompted to unless the work is a specific resource type.
+Moving back to inprogress because, we N=need to also remove the README header.

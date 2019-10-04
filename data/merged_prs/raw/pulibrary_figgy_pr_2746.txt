@@ -1,0 +1,2 @@
+Add issue sort fields for orangelight advanced search
+Co-authored-by: Nikitas Tampakis nikitas.tampakis@gmail.com

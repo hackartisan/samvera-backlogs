@@ -1,0 +1,2 @@
+Add warning message for batch editing permissions, ref #803
+Inform users that batch editing permissions will overwrite any other existing permissions.

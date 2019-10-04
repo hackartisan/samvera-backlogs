@@ -1,0 +1,2 @@
+Create a from using Vue and a state object
+This commit changes the submission form so that it is generated with a Vue single file component: https://vuejs.org/v2/guide/single-file-components.html All of the html, css, and JS for the form is currently in the the app.vue file, which is rendered in the new.html.erb view for in_progress_etds. The form is generated from form_schema.js which is based on the terms that returned by Hyrax::EtdForm.terms. Eventually this object should be able to handle the possible states of the form.

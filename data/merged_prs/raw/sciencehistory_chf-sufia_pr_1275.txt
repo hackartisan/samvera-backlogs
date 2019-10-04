@@ -1,0 +1,2 @@
+Add a "digitization funder" metadata field.
+Fixes #1273

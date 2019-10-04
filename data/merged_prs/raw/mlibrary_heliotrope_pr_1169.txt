@@ -1,0 +1,2 @@
+epub search api and epub reader integration
+Resolves #1131 Resolves #1132 Resolves #1078

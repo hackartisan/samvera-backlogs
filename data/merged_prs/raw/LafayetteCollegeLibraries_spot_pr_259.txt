@@ -1,0 +1,2 @@
+update dependencies
+drops ffaker as a dependency updates app + test dependencies

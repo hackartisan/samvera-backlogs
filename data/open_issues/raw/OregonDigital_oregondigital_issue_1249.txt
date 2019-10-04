@@ -1,0 +1,2 @@
+cpd content list on child pages broken
+it looks like when a child near the top of the content list is selected, the child displays with a borked content list. I think this is likely a bug in the generic_asset_decorator, see line 70.

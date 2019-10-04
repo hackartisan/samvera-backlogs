@@ -1,0 +1,1 @@
+Don't return nil thumbnail_id, fix #517

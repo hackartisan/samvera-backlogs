@@ -1,0 +1,1 @@
+Allow citation button to be present in pre_production

@@ -1,0 +1,1 @@
+[deps] switch to gemified metadata-ci

@@ -1,0 +1,1 @@
+Distinguish between the app server and the riiif server for deploy

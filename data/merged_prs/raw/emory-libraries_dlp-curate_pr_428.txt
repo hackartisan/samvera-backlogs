@@ -1,0 +1,2 @@
+Adds CodeClimate to CircleCI setup.
+The goal is test coverage is available on Code Climate

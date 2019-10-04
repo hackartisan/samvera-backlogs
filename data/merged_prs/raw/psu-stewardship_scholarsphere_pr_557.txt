@@ -1,0 +1,2 @@
+Improve accessibility for social media sharing
+Adds an additional sr-only span because the title attribute for hyperlinks are not read consistently by all assistive technologies.

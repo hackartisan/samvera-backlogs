@@ -1,0 +1,2 @@
+added authority querying for physical description
+fixes https://github.com/nulib/next-generation-repository/issues/311

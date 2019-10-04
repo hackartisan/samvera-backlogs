@@ -1,0 +1,2 @@
+Fix imported metadata indexing
+Imported metadata is indexed, but with brackets, embedded class names, etc., which makes them less useful for search or display.

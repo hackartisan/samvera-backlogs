@@ -1,0 +1,2 @@
+Ensure 'Share Your Work' button goes to create ETD page.
+Adds the index view from Hyrax, and tweaks it. Fixes #69

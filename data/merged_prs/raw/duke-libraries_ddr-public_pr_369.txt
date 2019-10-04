@@ -1,0 +1,1 @@
+Add method to get 1st multires path for thumbnails

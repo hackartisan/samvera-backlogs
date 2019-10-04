@@ -1,0 +1,2 @@
+update loofah version to fix #118
+fix #118

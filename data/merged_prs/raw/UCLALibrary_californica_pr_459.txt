@@ -1,0 +1,2 @@
+docker: run bundle check || bundle install when starting web container
+Needed because the docker-compose setup keeps a local cache of gems that occasionally needs to be updated.

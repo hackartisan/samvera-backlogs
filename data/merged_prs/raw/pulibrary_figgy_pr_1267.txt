@@ -1,0 +1,2 @@
+Removes awkward File Upload feature from Order Manager
+Fixes #1264

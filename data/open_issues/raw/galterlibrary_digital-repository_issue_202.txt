@@ -1,0 +1,3 @@
+Don't display the group/user permission management form unless visibility is set to 'Private'
+Otherwise it will confuse people.
+Moving this out of the big launch target per Violeta. 

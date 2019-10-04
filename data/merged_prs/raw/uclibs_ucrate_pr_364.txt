@@ -1,0 +1,2 @@
+Bug/#351 fix video player
+Fixes #351 Present short summary (50 characters or less) Overrides the partial from hyrax to get the video player to work in Safari. Adds this line <source src="<%= hyrax.download_path(file_set) %>" />

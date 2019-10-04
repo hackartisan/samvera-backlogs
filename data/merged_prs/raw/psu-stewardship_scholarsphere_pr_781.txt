@@ -1,0 +1,2 @@
+Collections should default to open access, ref #729
+Currently, only works were defaulting to open or public visibility. This applies the same change to collections. The collection form is coming from Curation Concerns, and as such, is using the model as the edit record instead of the form. There should be another ticket later to remove these changes once the collection is fully utilizing the form. See #780

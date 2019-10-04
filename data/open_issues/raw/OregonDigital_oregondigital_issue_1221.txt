@@ -1,0 +1,2 @@
+primarySet link on show pages not working
+eg https://oregondigital.org/sets/percent-for-art?f%5Bdesc_metadata__primarySet_label_sim%5D%5B%5D=Oregon+Percent+for+Art%24http%3A%2F%2Foregondigital.org%2Fresource%2Foregondigital%3Apercent-for-art because primarySet isn't indexed with label_sim this works though: https://oregondigital.org/sets/percent-for-art?f[desc_metadata__primarySet_label_ssi][]=Oregon+Percent+for+Art%24http%3A%2F%2Foregondigital.org%2Fresource%2Foregondigital%3Apercent-for-art

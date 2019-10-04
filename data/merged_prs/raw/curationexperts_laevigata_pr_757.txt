@@ -1,0 +1,2 @@
+shares logs so log rotation works as planned
+Closes #752

@@ -1,0 +1,2 @@
+Enable editing of proxy depositor for an administrator
+As an administrator I should be able to edit the proxy depositor field So I can correctly indicate who has deposited content on behalf of someone else Related to #979, #978 #895

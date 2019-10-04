@@ -1,0 +1,1 @@
+Log and notify on resqueue failures, fixes #422

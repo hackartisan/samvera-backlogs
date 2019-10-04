@@ -1,0 +1,2 @@
+Resolves #889: Remove EPub from asset list
+Not truly sure when to append '.first' and when not to append '.first' but it passes the test.

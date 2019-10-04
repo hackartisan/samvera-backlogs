@@ -1,0 +1,2 @@
+Search Results: Remove Masonry and Slideshow views
+Descriptive summary We don't have plans to use the Masonry and Slideshow views as they currently are. (Information compiled by POSM group from updated wireframes) Expected behavior Masonry and Slideshow views are not an option on search results. Only List and Gallery view options.

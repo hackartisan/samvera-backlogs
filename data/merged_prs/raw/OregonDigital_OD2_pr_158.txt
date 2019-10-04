@@ -1,0 +1,2 @@
+initializes honeycomb proper, disables integration for development/test env
+Honeycomb.init has to be called before the Rails environment, but the HONEYCOMB_DEBUG environment variable existence will disable it from sending traces and redirects that output to STDERR. This PR gives us the ability to enable it for development, if needed, but defaults both development and test to disabling it.. while enabling and initializing it for production/staging.

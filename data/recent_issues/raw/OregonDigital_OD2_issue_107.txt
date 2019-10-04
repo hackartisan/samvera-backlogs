@@ -1,0 +1,2 @@
+Configure Generic WorkType Metadata
+Descriptive summary The Generic Work Type needs to have its metadata configured as well as have the indexer and presenters show the proper data.

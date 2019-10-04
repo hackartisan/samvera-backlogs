@@ -1,0 +1,2 @@
+Bugfixes dw
+Addresses the following jira stories: https://jira.library.nd.edu/browse/DLTP-52 https://jira.library.nd.edu/browse/DLTP-147

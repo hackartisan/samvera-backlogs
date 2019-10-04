@@ -1,0 +1,2 @@
+Do not raise an exception when non-existent content is requested
+Raising all these exceptions fills up our logs and makes it more difficult to determine when there is a real problem that we need to pay attention to.   Accessing a non-existent route should not raise an exception  Accessing an object that doesn't exist should not raise an exception  Accessing a collection that doesn't exist should not raise an exception  How to do this is documented in the playbook, here: https://github.com/curationexperts/playbook/blob/master/production/exception_logging.md

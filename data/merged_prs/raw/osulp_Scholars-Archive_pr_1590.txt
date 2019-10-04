@@ -1,0 +1,2 @@
+updates SA to Hyrax 2.3.0
+bumps hyrax gem to the latest 2.x release

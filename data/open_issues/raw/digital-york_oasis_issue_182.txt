@@ -1,0 +1,2 @@
+Users should be able to opt-in to receive a notification/alert when specific summaries are uploaded
+We would like individuals to be able to receive customised notifications of new summaries that are uploaded on OASIS. Individuals should able to select: alert me for every new summary related to [key word x]. Related to #160

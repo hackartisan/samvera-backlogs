@@ -1,0 +1,2 @@
+Ensures that the EphemeraVocabularyDecorator test suite doesnt break
+Ensures that the EphemeraVocabularyDecorator test suite doesnt break for cases with unordered vocab. terms when running test builds

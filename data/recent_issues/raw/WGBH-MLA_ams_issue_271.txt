@@ -1,0 +1,2 @@
+Update controlled vocabularies to include cleaned data being migrated
+Description: Controlled vocabularies need to match the normalized values coming from AMS1, so that the data being migrated matches the expectations of AMS. Done when controlled vocabulary is updated:   Asset Type  Colors  Contributor role  Date Type  Description Type  Format  Generations  Genre  Language  Level of User Access  Media Type  Minimally cataloged  Organization  Rights Link  Title Types  Topics  Transcript Status

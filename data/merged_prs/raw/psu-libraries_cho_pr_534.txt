@@ -1,0 +1,2 @@
+Updating Niftany to 0.1
+Description Includes a change to rubocop that allows for line lengths up to 120 characters. Lines exceeding that have been corrected. Note that 120 characters is the max for Github's diff display, which makes for nicer PR reviewing IMHO. 😄

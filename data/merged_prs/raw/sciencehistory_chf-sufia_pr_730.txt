@@ -1,0 +1,2 @@
+Index representative original_file_id, width, and height
+For use on show page. This branch doesn't use them on show page yet, but we need to index them here on master, before we merge riiif in

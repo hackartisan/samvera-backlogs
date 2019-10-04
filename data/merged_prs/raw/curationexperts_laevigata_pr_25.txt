@@ -1,0 +1,1 @@
+Add YARD documentation tool and rake task

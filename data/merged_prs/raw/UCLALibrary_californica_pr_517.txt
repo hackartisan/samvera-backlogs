@@ -1,0 +1,2 @@
+Convert to system specs
+Convert to system tests instead of feature tests to give us more stability around javascript testing and eliminate the need for database cleaner, which has also been giving us intermittent problems. This should make it easier to test the edit form. Connected to #456

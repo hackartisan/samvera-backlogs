@@ -1,0 +1,2 @@
+Clicking term in Series field does not return items in same series
+Descriptive summary Clicking on a series term from a show page returns a list of similar items, appears to be doing general text searches. Example Expected behavior On an item's show page, clicking on a term in the series fields should return a list of other items in the same series. Actual behavior Clicking on a term in the series field says that it is filtering by series, but it returns items that have the term in other fields. Some results have nothing in the series field at all.

@@ -1,0 +1,2 @@
+Look into adding oEmbed player support for video
+This was already implemented in OD2, using blacklight-oembed. Lots of notes in this ticket: OregonDigital/oregondigital_2#114 oEmbed would allow support for MediaSpace, YouTube, etc. The previously mentioned blacklight-oembed may be backportable to our version of Blacklight. Or we may just create a new viewer partial that pulls in the oEmbed info.

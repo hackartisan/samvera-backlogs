@@ -1,0 +1,2 @@
+Implement Samvera Collections
+Samvera includes functionality for representing collections of works, which should be used for our collections.

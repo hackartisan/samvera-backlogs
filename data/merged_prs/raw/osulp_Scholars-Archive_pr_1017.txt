@@ -1,0 +1,2 @@
+Change blacklight_oai_provider to UNC Libraries fork.
+Fixes #1016

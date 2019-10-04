@@ -1,0 +1,2 @@
+make default highlights section show 4 items instead of 8
+Latest round of stakeholder meetings review reveal preference for four, especially with photo collections.

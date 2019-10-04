@@ -1,0 +1,2 @@
+Upgrade Hyrax 2.0.0 to Hyrax 2.4.1
+Upgrade notes: https://docs.google.com/document/d/1dPJBK3y9f9gtdEzbHM5bSwltYzwx6snJ-P-ofUQ-Zzw/edit?usp=sharing This is running on heliotrope-testing

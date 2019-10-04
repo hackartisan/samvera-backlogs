@@ -1,0 +1,2 @@
+Stop parameterizing worktype in work show view
+Fixes #785 Non-roman characters are removed when parameterized in app/views/hyrax/base/_work_type.html.erb.  Change the view to simply display the human readable type.  Remove app/views/hyrax/base/_work_type.html.erb override.

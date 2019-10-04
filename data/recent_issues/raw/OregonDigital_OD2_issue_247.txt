@@ -1,0 +1,2 @@
+oEmbed Update page should differentiate oEmbed errors
+Descriptive summary Currently, the oEmbed update page always says "oEmbed URL is broken" if there is a failed oEmbed. However, in cases where the oEmbed URL is valid, but the site is not whitelisted, this error message is confusing. Expected behavior either:  change the helptext to read "oEmbed URL is broken or the site has not been whitelisted" show a different message for broken oEmbed URL and non-whitelisted site

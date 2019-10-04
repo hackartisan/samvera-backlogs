@@ -1,0 +1,2 @@
+Add AdminSet indexing functionality and spec
+Add CommonIndexers::AdminSet class that indexes model, title, description and visibility Add model spec for AdminSet Refactor Image model to be less coupled to fixture data.

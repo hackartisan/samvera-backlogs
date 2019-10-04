@@ -1,0 +1,2 @@
+Add monsido tracking
+DLTP-1313: Add monsido tracking 7258dfd  Added this to the boilerplate layout. As far as I can tell this is what is used to render the base layout with head/body tags. There is another 503 page that is used when CurateND is down for maintenance, but not sure if we want it there.

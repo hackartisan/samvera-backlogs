@@ -1,0 +1,2 @@
+Users should not be able to assign themselves as their own proxy
+Moved from uclibs/scholar_uc_legacy#1027 This may be a Hyrax bug (either documented or undocumented). Descriptive summary I can assign myself as my own proxy. Expected behavior I should not be able to find myself when searching for users to assign as a proxy, or be able to assign myself as my own proxy. Actual behavior I can assign myself as my own proxy.  When submitting a new work, I am then given a choice to submit on behalf of myself, or on behalf of my email address.

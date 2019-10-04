@@ -1,0 +1,3 @@
+Single value fields don't display the help icon
+Example Collection#title, related to the problem with page_number in #187
+Related to #189   Should undo those once this is fixed upstream. 

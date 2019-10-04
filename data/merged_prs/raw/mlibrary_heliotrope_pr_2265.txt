@@ -1,0 +1,2 @@
+Adds debugging to diagnose HELIO-2562.
+Not a fix, just adding some more debugging information.

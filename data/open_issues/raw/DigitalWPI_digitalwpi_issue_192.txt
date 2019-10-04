@@ -1,0 +1,2 @@
+Blacklight range limit, a facet for Year
+Blacklight range limit seems interesting to implement and add a facet that has more control over publication year there by making searches easier.

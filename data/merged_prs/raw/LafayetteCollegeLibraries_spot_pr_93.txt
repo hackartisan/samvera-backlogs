@@ -1,0 +1,2 @@
+upgrade hyrax to 2.4.1
+workin' our way up to 3.0.0!

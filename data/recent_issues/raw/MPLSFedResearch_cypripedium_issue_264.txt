@@ -1,0 +1,2 @@
+PAIRING: Assist Janelle with Infrastructure upgrades
+ACCEPTANCE   MPLSFed AWS instances upgraded to Hyrax 2.4.1 release of cypripedium   QA  Staging  Production

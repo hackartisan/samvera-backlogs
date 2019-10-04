@@ -1,0 +1,2 @@
+Test Postgres in CI
+It's more accurate, and the runtime is basically the same.

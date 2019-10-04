@@ -1,0 +1,2 @@
+When user starts a new import, controller queues a background job to perform the work.
+Connected to #101

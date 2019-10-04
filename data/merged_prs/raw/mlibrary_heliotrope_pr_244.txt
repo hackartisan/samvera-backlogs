@@ -1,0 +1,2 @@
+multi-value fields for asset contributors and keywords, #154
+Resolves #154

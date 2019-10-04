@@ -1,0 +1,2 @@
+HELIO-1854 and HELIO-2614
+Resolves HELIO-1854 - adds custom styles for maize books Resolves HELIO-2614 - adds blank entry as an option in the press edit page

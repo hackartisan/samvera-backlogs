@@ -1,0 +1,2 @@
+Corrected spelling, punctuation, grammar in hints
+Fixes #1065

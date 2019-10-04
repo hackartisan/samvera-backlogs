@@ -1,0 +1,2 @@
+Removing creator migration code
+Removed it from GenericWork Controller and it is no longer referenced. I ran a tests on production and now all the works have been migrated. resp = ActiveFedora::SolrService.query('*:*',fl:'id', rows:20000, fq:'has_model_ssim:GenericWork') ids = resp.map{|v| v["id"]} non_converted = ids.reject{|id| work = GenericWork.find(id); work.creator[0].is_a?(Alias) || work.creator[0].nil?} => []

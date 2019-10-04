@@ -1,0 +1,3 @@
+Deactivating Embargos
+If a work has been previously embargoed, then the embargo is deactivated, the work will remail private indefinitely until it's edited to be public or some other visibility.
+This is an issue on staging also

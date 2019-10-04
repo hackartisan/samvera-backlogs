@@ -1,0 +1,2 @@
+Offload oEmbed URL fetching from the server
+Still fetched server side, but done after page loads. Show pages loads => JS requests /oembed/embed?url=<oembed_url> => server requests oEmbed endpoint and returns JSON* { html : <html> } => JS embeds response. *If ruby-oembed encounters an error at this point an OembedError is generated for every work that oembed_url is found in and response is blank. JS doesn't embed anything. fixes #113

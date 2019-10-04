@@ -1,0 +1,2 @@
+adds rspec, circle tests, configuration for standard solr/fcrepo
+fixes #384 fixes #390 fixes #403 fixes #382 (confirmed on server) fixes #379 (confirmed on server)

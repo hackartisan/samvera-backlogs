@@ -1,0 +1,2 @@
+Import Music Reserve Courses
+Adds following functionality:  Don't reimport an existing recording Handle recordings which are really playlists. Handle "nested" fake playlists. Fix order of audio file import Rename playlist audio files appropriately.  Closes #2265

@@ -1,0 +1,2 @@
+Override keyword predicate
+Fixes nulib/next-generation-repository#298  Overrides keyword predicate in Schemas::CoreMetadata Updates a_model_with_nul_core_metadata.rb shared example Excludes :keyword from 'a model with hyrax basic metadata' in image_spec

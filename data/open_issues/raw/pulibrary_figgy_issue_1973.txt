@@ -1,0 +1,2 @@
+how should we ensure that ongoing fixity checks stay on?
+Should we implement this functionality as a cron job instead of a looping active job? with whenever we could limit it to executing on just one worker.

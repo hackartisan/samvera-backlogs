@@ -1,0 +1,2 @@
+Forced Factory Girl to be required after Rails has loaded
+Fixes problems with dependency detection in all situations.

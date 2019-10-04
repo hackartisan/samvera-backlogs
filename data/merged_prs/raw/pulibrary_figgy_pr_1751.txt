@@ -1,0 +1,2 @@
+Remove "edit" functionality from SimpleResource
+Closes #1746.

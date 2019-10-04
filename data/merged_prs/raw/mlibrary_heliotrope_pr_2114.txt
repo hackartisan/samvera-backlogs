@@ -1,0 +1,2 @@
+Addresses HELIO-2135 monograph page fails to retain asset tab selection.
+Change localStorage to sessionStorage so browser tabs don't clobber each other wrt saved tab selection.

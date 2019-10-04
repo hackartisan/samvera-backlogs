@@ -1,0 +1,2 @@
+The sitemap has http instead of https
+Google is not indexing our data since the sitemap is saying http and we are redirecting to https.  We should change the sitemap generator to have the correct https urls. https://search.google.com/search-console/index/drilldown?resource_id=http%3A%2F%2Fscholarsphere.psu.edu%2F&item_key=CAESKGh0dHA6Ly9zY2hvbGFyc3BoZXJlLnBzdS5lZHUvc2l0ZW1hcC54bWwYFiAC&hl=en

@@ -1,0 +1,2 @@
+Add task to regenerate derivatives
+Derivatives sometimes get lost; this regenerates them all.

@@ -1,0 +1,2 @@
+Improving Twitter card descriptions (DHH-576)
+Better generic descriptions Adding feature test coverage

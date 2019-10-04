@@ -1,0 +1,2 @@
+Index thumbnail path
+Add the path to the thumbnail to the solr document. This should be a text field such as "thumbnail_ss" present in file set and work documents. A work's thumbnail is assumed to be the first file set.

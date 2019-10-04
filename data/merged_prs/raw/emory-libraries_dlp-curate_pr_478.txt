@@ -1,0 +1,2 @@
+Remove Primary Repository ID from collection form
+Remove Primary Repository ID (label=Persistent URL) from the collection edit form. Connected to #406

@@ -1,0 +1,2 @@
+Changing collection view to show title
+The entire title is singular in the form so the .first just shows the first character I also noticed the page title on the work also had a first

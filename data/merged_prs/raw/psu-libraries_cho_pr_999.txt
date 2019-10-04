@@ -1,0 +1,2 @@
+Adding DateRangeField to Solr schema.xml
+Description This will support date range queries used in advanced indexing of EDTF dates.

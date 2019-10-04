@@ -1,0 +1,2 @@
+Merging updated solr configs with what's currently in production
+This reconciles the solr configuration that's current in production with what we're using in development. The idea is that the solr configuration in the repo should be identical to what's in production/staging/qa. At the very least, there ought to be only minor variances; however, at this point there's nothing production-specific about the configuration and we can use it in development here without issue.

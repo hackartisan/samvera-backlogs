@@ -1,0 +1,2 @@
+change NUL property labels to Uncontrolled
+Fixes nulib/next-generation-repository#553

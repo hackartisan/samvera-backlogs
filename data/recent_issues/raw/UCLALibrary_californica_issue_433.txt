@@ -1,0 +1,2 @@
+Batch update production metadata for collections
+ISSUE We have updated the collection-level metadata model and need to run a batch process to update production data with the new collection properties.

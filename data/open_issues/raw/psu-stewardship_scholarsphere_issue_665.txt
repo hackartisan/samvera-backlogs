@@ -1,0 +1,4 @@
+Listing of Collections as Admin Caps at 99
+When I create a new collection and attempt to adds works to a new collection, I am unable to find the new collection in the relationships tab or the modal listing the available collections. It appears that the listing has a limit and as an admin I can access all of the collections in the system–which is more than 100 collections.
+Need to change the number of rows for the solr.
+This may be fixed. I'm seeing a lot more than 100 in the modal on QA. ![Screen Shot 2019-05-10 at 1 38 16 PM](https://user-images.githubusercontent.com/312085/57545626-f0f53a80-7328-11e9-8ebe-0b521b742efa.png) 

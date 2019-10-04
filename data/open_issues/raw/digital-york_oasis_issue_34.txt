@@ -1,0 +1,4 @@
+Search results page - publication text
+Generate ‘in-text citation’ of publication, as follows - If one author: {First author surname (date)} If two authors: {First author surname & Second author surname (date)} If 3+ authors: {First author surname et al. (date)}
+this is probably lowest of the 'first spring high priorities'
+This issue depends on #29 

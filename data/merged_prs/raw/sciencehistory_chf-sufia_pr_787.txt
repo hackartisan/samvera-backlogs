@@ -1,0 +1,2 @@
+Rename method that mistakenly overwrites super; may fix #638
+Code works but fix is unconfirmed since the bug can't be replicated. Users have been instructed to let us know if they see it again.

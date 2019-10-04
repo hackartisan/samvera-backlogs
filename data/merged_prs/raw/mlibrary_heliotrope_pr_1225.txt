@@ -1,0 +1,2 @@
+lib e_pub require dependency
+Deployed to staging... https://heliotrope-staging.hydra.lib.umich.edu/concern/monographs/kp78gg43w?locale=en

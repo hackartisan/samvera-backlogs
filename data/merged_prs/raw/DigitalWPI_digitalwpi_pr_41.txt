@@ -1,0 +1,2 @@
+added db auth and some tests, test env now uses mysql
+Connects #20

@@ -1,0 +1,3 @@
+Can't Bulk Complete Simple Resources
+I tried to bulk complete PUDL0100 (Arabic film posters), but got an error.  I tried to complete one item manually to debug, and got an error saying the title was missing, and it kicked me into the edit form (despite saying the edit form was disabled for resources with imported metadata).
+I was able to complete them on the console with:  ``` col.decorate.members.each do |member|   cs = DynamicChangeSet.new(member)    cs.validate(state: "complete")   csp.save(change_set: cs) end ```

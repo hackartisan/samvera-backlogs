@@ -1,0 +1,2 @@
+Update robots.txt - disallow indexing
+Fixes #482

@@ -1,0 +1,2 @@
+mount resque-web for platform admins
+Addresses the first acceptance criterion of #197. Only platform admins can access the resque-web console at /resque; other users currently get 500 errors. See also #207.

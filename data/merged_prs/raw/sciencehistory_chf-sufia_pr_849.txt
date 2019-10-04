@@ -1,0 +1,2 @@
+Upgrade sufia to 7.4 and rails to 5.0.6
+fixes #786 fixes #545 Looks okay on dev. Deployed to staging for more comprehensive testing.

@@ -1,0 +1,1 @@
+Importing funding_note from CSV file. Connected to #172

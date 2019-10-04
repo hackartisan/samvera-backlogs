@@ -1,0 +1,2 @@
+remove sub-brands
+Resolves #1444

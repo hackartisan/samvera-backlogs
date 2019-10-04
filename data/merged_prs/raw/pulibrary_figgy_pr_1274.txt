@@ -1,0 +1,2 @@
+Add Wayfinder for navigating relationships.
+Closes #641

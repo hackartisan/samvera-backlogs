@@ -1,0 +1,2 @@
+Fix SVG logo scaling in Safari/Mobile Safari
+Solution derived from: https://benfrain.com/attempting-to-fix-responsive-svgs-in-desktop-safari/

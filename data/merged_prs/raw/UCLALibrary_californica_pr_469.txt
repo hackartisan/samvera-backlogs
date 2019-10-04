@@ -1,0 +1,2 @@
+Fix iiif url syntax for initial request
+It's been bothering me that when I generated a list of URLs for @markmatney the URLs as produced by the system didn't work (in spite of the fact that universal viewer works fine). There was a mistake in the iiif URL, which this PR fixes. This also logs the request (at debug level) for easier problem diagnosis and performance measurement down the road. Connected to UCLALibrary/amalgamated-samvera#272

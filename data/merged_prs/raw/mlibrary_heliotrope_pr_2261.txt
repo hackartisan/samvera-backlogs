@@ -1,0 +1,2 @@
+Refactor EPubsController
+In preparation for restricting monographs, HELIO-2529.

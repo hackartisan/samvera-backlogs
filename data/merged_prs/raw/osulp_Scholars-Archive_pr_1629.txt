@@ -1,0 +1,2 @@
+updated css style and labels for title and related items
+CSS tweaks to align items with multiple inputs per item (related items) CSS tweak to allow the draggable handle width to be consistent across browsers (Chrome, Firefox, Safari) -- fixes issue described in #1616 (comment) Updated labels for both related items and title to indicate that the user can drag and drop to reorder the elements. Fixes #1625  Screenshots:

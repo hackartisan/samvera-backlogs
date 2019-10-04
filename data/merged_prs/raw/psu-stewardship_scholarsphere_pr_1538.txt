@@ -1,0 +1,2 @@
+Fixes up the creator form when creator is added from search
+Updates the JS to ensure that we have a remove button when a creator is added from the search function and updates the tests for the use of email versus mail and the presence of the remove functionality. refs #1453

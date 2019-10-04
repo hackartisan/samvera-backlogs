@@ -1,0 +1,1 @@
+tidied up all term lists, added registers and folios

@@ -1,0 +1,2 @@
+Add :etd_genre test on ETD feature spec
+Descriptive summary etd_genre persistence issue was fixed with #518 Add test to feature spec for ETDs

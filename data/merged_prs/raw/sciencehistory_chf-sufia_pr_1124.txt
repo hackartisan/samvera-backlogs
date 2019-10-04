@@ -1,0 +1,2 @@
+New drop-down value for Creator field
+This appears to be working nicely now. Due to a Fedora bug we can't use a Getty URL for the "manner of" relationship; we're using http://chemheritage.org/ns/mannerOf instead. Fixes #1122

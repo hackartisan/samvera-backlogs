@@ -1,0 +1,2 @@
+Setting up syncing of Public Git Hub and on-premise Git Hub repos
+Provided by Steve Collins: This is a requirement on my side, but I do not want Solomon and Mark to have the burden of managing 2 repos.  If we can automatically push things between the 2 repos, it will satisfy the requirement.

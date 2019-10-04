@@ -1,0 +1,2 @@
+CSV Importer that works with latest darlingtonia
+rake task to import sample CSV Use Darlingtonia master branch  Connected to #101

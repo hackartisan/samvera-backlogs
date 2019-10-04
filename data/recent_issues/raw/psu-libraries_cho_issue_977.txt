@@ -1,0 +1,2 @@
+Update collection edit form to use access_rights data dictionary term
+Currently the collection edit form uses a hard-coded form for setting access levels. This should be changed to use the data dictionary term that will be defined in #976.

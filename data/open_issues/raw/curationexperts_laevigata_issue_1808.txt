@@ -1,0 +1,2 @@
+Always display second embargo input
+Just disable the second input instead of hiding it completely when the embargo length is set to open access.

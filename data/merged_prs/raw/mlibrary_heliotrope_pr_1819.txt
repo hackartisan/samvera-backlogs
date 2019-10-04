@@ -1,0 +1,2 @@
+Part One #1812: Metadata Download/Upload/Update Cycle
+Routes restricted to platform admins. Append /manifest to monograph url to access Import of metadata not implemented. Selecting import is equivalent to selecting delete. Deploy to testing for your convenience.

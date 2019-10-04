@@ -1,0 +1,2 @@
+Fix connection to Sierra api
+I believe the key was simply dropped from the config at some point. Put it in Chf::Env. (this means we can't do it until we've merged the riiif branch)

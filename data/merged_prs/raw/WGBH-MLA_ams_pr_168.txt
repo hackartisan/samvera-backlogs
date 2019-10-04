@@ -1,0 +1,2 @@
+AMS2-90 adds iiif manifest
+Adds iiif manifest v3 Integrate with Avalon Media Player Adds child work types as methods to fetch solr document work members. e.g. Asset.first.digital_instantiations Adds ability to fetch child solr documents using method find_child. e.g. SolrDocument.find_child(DigitalInstantiation) 1.Fetch Height, Width, Duration from EssenceTrack 1.Adds audio track to iiif manifest from EssenceTrack

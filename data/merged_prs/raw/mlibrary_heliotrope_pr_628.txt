@@ -1,0 +1,2 @@
+comment out monograph pageview
+Until we figure out what is causing the monograph pageview stat to make so many requests that we're consistently over the GA quota, comment it out. Obviously something is wrong.

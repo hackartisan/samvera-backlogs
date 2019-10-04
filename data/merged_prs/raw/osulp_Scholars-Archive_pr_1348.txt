@@ -1,0 +1,2 @@
+Reorder conference metadata
+Fixes #1300

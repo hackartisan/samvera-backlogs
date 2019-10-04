@@ -1,0 +1,2 @@
+remove styling from sidebar facets
+The sidebar facets in Californica inherit the background color of from the top navigation (this is default bootstrap behavior, it makes sense for some sites, but not ours). Remove this styling so the background color for the facets remains consistent with the rest of the page.

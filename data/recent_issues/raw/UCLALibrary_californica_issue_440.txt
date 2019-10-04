@@ -1,0 +1,2 @@
+Reset Californica admin passwords
+The four environments share the same admin username. Three of them have the same password, but dev is different. If anything should be different it should be prod. Let's reset the dev admin password to match test and stage and decide if prod should be the same or unique.

@@ -1,0 +1,2 @@
+Provide a link to download the list of CSV validation errors and warnings
+STORY As a librarian, I would like a way to download the list of errors and warnings that the system gives me when I upload a CSV with problems in it, so that I can more easily remember and work through the things I need to fix. Requires #503 ACCEPTANCE When the system indicates my CSV has errors or warnings   There's a button or link to download the list of all the errors and warnings detected

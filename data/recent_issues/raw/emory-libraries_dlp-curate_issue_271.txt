@@ -1,0 +1,2 @@
+Configure NOID for our identifier pattern 
+See also epic #206 for where to store the metadata in the Curate metadata profile for Objects, Collections, File/FileSets.: the Primary Repository ID field.

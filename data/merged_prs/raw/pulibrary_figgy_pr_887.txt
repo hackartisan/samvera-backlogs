@@ -1,0 +1,2 @@
+Updating robots.txt to ban all robot traffic
+Fixes #870

@@ -1,0 +1,2 @@
+Fix geoblacklight iiif references for map sets
+It appears that a map set's thumbnail id should be set to the id of a child scanned map. Changes here detect if the thumbnail id is a FileSet or a child member and returns the correct FileSet. Closes #1726

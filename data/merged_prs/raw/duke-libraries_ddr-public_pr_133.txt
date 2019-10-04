@@ -1,0 +1,1 @@
+Use image server generated thumbnails if available

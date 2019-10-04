@@ -1,0 +1,2 @@
+Do we need a way to reload the files
+At this point I do not believe there is a reason to reload the cached files, but we should decide or remove the todo. https://github.com/psu-libraries/cho/blob/master/app/cho/work/file_set.rb#L25

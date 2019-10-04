@@ -1,0 +1,1 @@
+Add required fields to batch upload form, ref #435

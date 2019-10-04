@@ -1,0 +1,3 @@
+Migrate numismatics data
+Child of #2242 Requires #2089
+`coinids/ accessionids /accession numbers / firm_note = firms.firmname+' '+ firms.firmcity+' ,'+ coins.finddate` [join-coin-accession-firm.xlsx](https://github.com/pulibrary/figgy/files/2966255/join-coin-accession-firm.xlsx) 

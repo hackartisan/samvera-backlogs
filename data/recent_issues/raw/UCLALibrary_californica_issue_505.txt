@@ -1,0 +1,2 @@
+Warn when the import CSV has extra headers
+STORY As a librarian uploading an ingest CSV, I would like to know if my file has any unexpected columns, so that I can decide whether to proceed with import or fix the warnings. ACCEPTANCE When I submit an ingest CSV that has unexpected columns,   The application gives me a warning message  The application gives me the option of ignoring the warning and continuing the ingest  MOCK-UP  Requires #503 Requires #504

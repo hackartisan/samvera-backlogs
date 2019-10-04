@@ -1,0 +1,2 @@
+adds Hathi deposit adapter
+Refs #2068 Based on the existing BagIt adapter.

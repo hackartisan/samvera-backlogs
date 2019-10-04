@@ -1,0 +1,2 @@
+register customized search builder
+customized search builder to allow search for:  text fields authorities synonyms 'other' fields 'Resource' objects ONLY

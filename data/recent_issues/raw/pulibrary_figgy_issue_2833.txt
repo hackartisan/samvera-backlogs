@@ -1,0 +1,2 @@
+Grant individual access to a private object
+If this can be done by expanding the access token from playlists to scanned resources, that may be the simplest implementation.

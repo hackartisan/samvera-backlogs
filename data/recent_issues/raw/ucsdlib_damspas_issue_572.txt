@@ -1,0 +1,2 @@
+ActiveRecord migrations not run during deployments
+Descriptive summary We've discovered via recent work by Notch8 that migrations are not being executed as part of the capistrano deployment process. Rationale If we don't integrate this into Capistrano, we have to ask OPS to do this by hand. Which is sub-optimal, to put it mildly..

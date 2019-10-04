@@ -1,0 +1,2 @@
+Implement single-value controlled vocabulary terms
+Descriptive summary :license, :access_restrictions, and :repository are supposed to be single-value fields. Controlled vocabulary fields do not support single-value entry on the add/edit work form. Expected behavior Add/edit form respects single-value restriction for descriptive metadata Related work #452 Exposed this issue.

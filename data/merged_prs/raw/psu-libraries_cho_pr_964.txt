@@ -1,0 +1,2 @@
+Updating dev and prod data dictionary configs for date_created
+Description Updates the date_created property in development and production to be an EDTF date Connected to #720

@@ -1,0 +1,2 @@
+Test out email features from prod
+ensure hyrax notifications work test contact form add notification for when user gets added to group. test embargo email rake task on prod set up prod cron job for embargo emails

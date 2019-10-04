@@ -1,0 +1,2 @@
+bundle update rubocop 0.49.1
+rubocop 0.49.1 has needed fix to rubocop 0.48.1 false positive for FileUtils.touch... app/services/e_pub_service.rb:10:15: C: Rails/SkipsModelValidations: Avoid using touch because it skips validations. FileUtils.touch(EPubService.epub_path(epub_id))

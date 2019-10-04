@@ -1,0 +1,2 @@
+Fix ranges for Audio
+Audio ranges should play and show labels for each track in the "Index" portion.

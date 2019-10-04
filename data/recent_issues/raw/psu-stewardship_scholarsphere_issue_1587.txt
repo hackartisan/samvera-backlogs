@@ -1,0 +1,2 @@
+README.md files sometimes identified as video/m2ts
+README.md files are sometimes identified as Mime Type: video/m2ts. Behaviour seems to vary, but here is an example: https://scholarsphere.psu.edu/concern/parent/bnz805z66z/file_sets/mpg15bf61m

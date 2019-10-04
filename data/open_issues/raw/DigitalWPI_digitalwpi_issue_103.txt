@@ -1,0 +1,4 @@
+Setup Email on server
+Research & configure our application on how to send and receive emails from our application. This includes, if a user sends an email via the contact form or if we need to send out email regarding embargoes or anything else, what needs to be done.
+@awscott should we close this issue or should we keep it open for us to remember to configure emails in our servers. I am leaning towards closing this issue. 
+well we still need to decide to recieves the mail and what the mail should say, but we can close this and come back if needed 

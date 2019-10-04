@@ -1,0 +1,2 @@
+Add .zip extension to zipped collections
+The .zip extension was missing to files of zipped works that were in a collection. As a result, when the collection zip was expanded, the files in it had no extension and could not be opened. This adds the extension to all work zip files created in a zipped collection.

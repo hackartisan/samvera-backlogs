@@ -1,0 +1,2 @@
+should return nil when empty
+fixes #1156

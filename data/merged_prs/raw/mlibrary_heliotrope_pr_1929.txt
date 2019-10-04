@@ -1,0 +1,2 @@
+Addresses HELIO-1825 -- don't use form actions as links.
+Leaving site/monograph search form alone. This should help retain locale param in the other locations addressed here.

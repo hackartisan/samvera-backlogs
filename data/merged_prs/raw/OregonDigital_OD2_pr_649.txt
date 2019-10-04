@@ -1,0 +1,2 @@
+update repository to single value
+updates repository to single value field and specs to successfully run batch with the hyrax-migrator https://github.com/OregonDigital/hyrax-migrator/tree/master/spec/fixtures/batch1 fixes #662

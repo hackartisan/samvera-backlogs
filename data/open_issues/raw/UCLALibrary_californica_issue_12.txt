@@ -1,0 +1,2 @@
+Evaluate initial permissions and visibility requirements
+Hold a meeting to discuss default Hyrax permissions, visibility, and workflow. This meeting should output:   Any known required changes to hyrax permissions and visibility  An initial mapping between the management permissions/visibility/workflow and availability in discovery systems.

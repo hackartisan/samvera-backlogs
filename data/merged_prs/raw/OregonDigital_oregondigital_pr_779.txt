@@ -1,0 +1,2 @@
+Don't index object for Mongo triples
+The previous Mongo implementation had an index built on Object, which exceeded the 1024 Byte limit for MongoDB document indexes. When this happened it broke the index for those subjects, and so not all items would get returned. Due to this we'd end up with RDF::Resources without full graphs which would then get persisted - hence no label.

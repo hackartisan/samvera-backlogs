@@ -1,0 +1,2 @@
+Fixes for embargos
+This will persist emabargoes in saved_data and display them in the correct way on the submission tab. Related to #1514, #1494, #1190, #1468

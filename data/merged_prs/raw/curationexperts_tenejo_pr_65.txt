@@ -1,0 +1,2 @@
+Wrap the download CSV link in a feature flipper
+Default for this feature is "on" Connected to #42

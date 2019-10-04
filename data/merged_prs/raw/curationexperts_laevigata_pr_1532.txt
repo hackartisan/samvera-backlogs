@@ -1,0 +1,2 @@
+Fix for school on submit showing key
+This uses the key to look up the actual label of the school. Fixes #1529

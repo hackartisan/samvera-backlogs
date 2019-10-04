@@ -1,0 +1,2 @@
+School approvers should be able to see embargoed content
+Fixes #489

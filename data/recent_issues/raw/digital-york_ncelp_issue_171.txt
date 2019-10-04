@@ -1,0 +1,2 @@
+Typo in error message
+When you receive an error message on the Resource Portal there is a typo is in the message. It says an error occured but should say an error occurred (Don't have a screen shot of this).

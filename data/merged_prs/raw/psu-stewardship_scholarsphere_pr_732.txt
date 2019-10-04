@@ -1,0 +1,2 @@
+Works and Collections Explained in UI
+Adds moar text to describe the difference between works and collections. Fulfills #592 but I think this and other similar tickets need a good UI workflow refresh post SS 3.0

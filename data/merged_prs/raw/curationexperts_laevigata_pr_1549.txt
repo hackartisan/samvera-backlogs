@@ -1,0 +1,2 @@
+Fix display of copyright questions
+This changes the display of the copyright questions so they are the same on the Keywords and the Submit tab. It also changes the display of "on" in the submit tab to Yes and "off" to no. Because of the way that form values are sent to the InProgressEtd controller, there may need to be additional processing to ensure we get the off state. Checkboxes in an html form submit no value if they aren't checked so we'll need to set them as off by default and change them to on. Fixes #1537, #1539

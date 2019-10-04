@@ -1,0 +1,2 @@
+Fileset cannot generate derivatives because it's being characterized as `text/plain`
+deleting the fileset and uploading the image again does not fix the problem. fileset: https://figgy.princeton.edu/catalog/6d4398b1-6bc5-4f6a-a46a-8bebc5c56b95 parent: https://figgy.princeton.edu/catalog/78ef7db6-27ca-44f5-b74d-6f3ebff11574

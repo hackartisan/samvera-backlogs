@@ -1,0 +1,2 @@
+Set californica-dev admin@example.org password to match other environments
+STORY As a team member, I would like passwords for shared accounts to match on all environments. ACCEPTANCE   californica-dev uses the same password as californica-test and californica-stage use for admin@example.com  Update the ansible role that builds the server appropriately  confirm the login information listed under "UCLA Environments:" at https://docs.library.ucla.edu/pages/viewpage.action?spaceKey=pm&title=Samvera+Project+Handbook

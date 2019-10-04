@@ -1,0 +1,2 @@
+Override syslog for ruby 2.0.0
+Lets us specify facility by overriding the syslog used by Syslog::Logger: http://ruby-doc.org/stdlib-2.0.0/libdoc/syslog/rdoc/Syslog/Logger.html#method-c-syslog-3D

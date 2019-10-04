@@ -1,0 +1,2 @@
+[WIP] Feature/s7 item stats table
+fix #344 and rebase to Sufia7RC1 fix #375 fix #374

@@ -1,0 +1,2 @@
+Capitalize Resource Type facet. Override Hyrax setting.
+Fixes #1024

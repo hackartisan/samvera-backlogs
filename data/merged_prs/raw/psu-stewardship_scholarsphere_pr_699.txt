@@ -1,0 +1,2 @@
+Make the Batch Upload Link More Apparent
+Uses some JS to override and insert styles without overriding a template for a simple thing. Not super design sexy, but it works.

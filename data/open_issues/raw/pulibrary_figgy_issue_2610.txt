@@ -1,0 +1,2 @@
+Create base query class?
+There is a lot of boilerplate for custom query classes — defining accessors, creating a method named after the class to run a query, and adding that method to the list of available queries.  Could we create a base class that did all of that, and individual query implementations could just define the SQL?

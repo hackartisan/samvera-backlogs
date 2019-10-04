@@ -1,0 +1,1 @@
+Move has_search_parameters? to a helper so it's available in all controller scopes

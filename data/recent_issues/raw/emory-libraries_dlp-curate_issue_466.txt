@@ -1,0 +1,2 @@
+Remove or revise auto-generation of the 3 Phase 1 Collections once migration is complete
+Long-term, Collection Managers will want to manually edit their Collections using the UI, instead of via a spreadsheet. We also have a longer range goal to import Collection metadata from ArchivesSpace. Relates to work done in #403, #259.   remove script-based generation of Langmuir, Yellowbacks and Yearbooks  ensure that our default Admin Set continues to be restored when the application is rebuilt

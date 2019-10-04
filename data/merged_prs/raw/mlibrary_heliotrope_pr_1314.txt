@@ -1,0 +1,2 @@
+modify navbar to match acls new website design
+Resolves #1303

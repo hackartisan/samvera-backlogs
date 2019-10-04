@@ -1,0 +1,2 @@
+Put all datastreams into Datastream:: namespace
+Fixes #70

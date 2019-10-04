@@ -1,0 +1,2 @@
+Issue 77 wrong page numbers
+fixed #77

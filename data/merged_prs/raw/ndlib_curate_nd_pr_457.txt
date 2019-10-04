@@ -1,0 +1,2 @@
+Remove scary warnings about Bendo
+Updates requested by @ruthtillman Remove the scary warning about Bendo @95bf4ad79d3cd336fcc40bd0727291f34496f74a We will discreetly take care of updates to the content in the background. Display Bendo locations on files to Repository Administrators @8961d439904f7ecab01f6090806a5d6c24be1196

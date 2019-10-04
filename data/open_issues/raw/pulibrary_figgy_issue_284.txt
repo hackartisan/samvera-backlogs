@@ -1,0 +1,2 @@
+Allow reindexing all items that link to a vocabulary term
+The use case is if I change a label for a term it should update the index for all the children which have that term. We'll also need to fire an event that those items are updated, so that DPUL/LAE will get the new labels. Depends on #1556

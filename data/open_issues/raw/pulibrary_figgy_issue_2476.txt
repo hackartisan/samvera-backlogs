@@ -1,0 +1,2 @@
+Support Text Reserve Materials?
+Should we use Figgy to generate and/or serve text reserve materials? (scanned or born-digital articles, book chapters, etc.) Would it be useful to store text reserve materials in Figgy for later re-use? What would we need to do to support that? #2140? Anything else?

@@ -1,0 +1,2 @@
+DLTP-353 simple toggle behavior for help text
+Simple help text toggling behavior as a placeholder. Robin has a better idea to implement but it will require a more work and information I don’t yet have. Removing caption printing for required fields label.

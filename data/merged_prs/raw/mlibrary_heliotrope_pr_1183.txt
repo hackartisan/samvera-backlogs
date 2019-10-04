@@ -1,0 +1,2 @@
+updating cozy-sun-bear to HEAD
+Resolves #1171

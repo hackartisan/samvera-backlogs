@@ -1,0 +1,2 @@
+Error signing up 
+Routing error: uninitialized constant RegistrationsController.

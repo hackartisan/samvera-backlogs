@@ -1,0 +1,2 @@
+no 'demo' press in sitemap, 404 on bad press value
+HELIO-2887

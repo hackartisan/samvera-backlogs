@@ -1,0 +1,2 @@
+adding contributor multi authority field, but missing viaf
+fixes https://github.com/nulib/next-generation-repository/issues/314 It looks like QA doesn't have out of the box support for viaf, but it looks like QA supports various ways of implementing other authorities. I created https://github.com/nulib/next-generation-repository/issues/324 to track adding VIAF

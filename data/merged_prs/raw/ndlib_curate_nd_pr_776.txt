@@ -1,0 +1,2 @@
+Removing "logger" gem
+Based on a report, on a January 9th deploy, we began noticing slow-downs. The one change was a deploy and locking logger to this application.

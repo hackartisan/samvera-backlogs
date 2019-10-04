@@ -1,0 +1,2 @@
+Update to Hyrax v2.1.0.rc2
+Fixes #205 Includes updated feature specs to match changes in Hyrax. These changes are based on the changes in Hyrax between versions v2.1.0.rc1 and v2.1.0.rc2 See samvera/hyrax@v2.1.0.rc1...v2.1.0.rc2

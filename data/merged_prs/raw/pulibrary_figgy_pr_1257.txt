@@ -1,0 +1,2 @@
+Add circle ci and coveralls badges to readme
+Badges? We need stinking badges. Closes #922

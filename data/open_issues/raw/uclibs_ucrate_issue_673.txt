@@ -1,0 +1,2 @@
+Research if on_behalf_of needs to be cleaned up for existing proxied works
+Descriptive summary See uclibs/scholar_uc_legacy#1945 (comment) We may have lost content in work.on_behalf_of during our last Fedora migration.  We may be able to fix it with a small script.

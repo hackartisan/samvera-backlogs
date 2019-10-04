@@ -1,0 +1,2 @@
+Change specs from start_with to include for remote_files attribute
+Fixes local test environment failing specs for Importer::Factory::ImageFactory

@@ -1,0 +1,2 @@
+Make sure that email and PSU ID are pre-filled when creating a work
+When a user is creating a work and is filling out the metadata form for creator on a new work, it is expected that the email and PSU ID are pre-filled with the user's information.

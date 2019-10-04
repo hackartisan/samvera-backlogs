@@ -1,0 +1,2 @@
+HELIO-2649 EPub TOC id attribute default is wrong
+Change the default nav id attribute to "toc" from 0 I've put this on preview and tested it with a variety of epubs there.

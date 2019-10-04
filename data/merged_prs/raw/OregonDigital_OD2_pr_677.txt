@@ -1,0 +1,2 @@
+initial ruby bump
+Fixes #659 Fixes #678 Need to figure out what to do with the secret keys and make honeycomb not run for tests

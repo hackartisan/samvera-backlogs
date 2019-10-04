@@ -1,0 +1,2 @@
+Feature/show page lables
+Fixes #154 Im leaving out the debug config variables so ingesting at least works while we figure out that issue.

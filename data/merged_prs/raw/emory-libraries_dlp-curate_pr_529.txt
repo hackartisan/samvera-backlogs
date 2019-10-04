@@ -1,0 +1,2 @@
+Rename MetadataDetails#csv to resolve conflict with Zizia
+Both the local MetadtataDetails and Zizia previously provided a route for importer_documentation_csv_path. Zizia's provided the csv header template while MetadataDetails provides the downloadable metadata profile.  This PR applies a new name to the MetadataDetails method to avoid the conflict, allowing both paths to be accessed from the dashboard.

@@ -1,0 +1,1 @@
+Add .ruby-version for folks using chruby or other compatible version managers

@@ -1,0 +1,4 @@
+Suggest feature for date keywords
+Users were confused when they searched for "18th century" and found that 2 out of 3 of the hits weren't 18th century (those words were in the description). Possibly add a suggested text "Did you mean [facet to date or subject that's more relevant" @archivistsarah found another website that does this.
+Example from this ticket: https://github.com/chemheritage/chf-sufia/issues/765  ![ravelrysearchsuggestfilter](https://user-images.githubusercontent.com/25084902/30130161-4b7a72d0-9316-11e7-84ed-e391f3be8196.gif)  (this is from after the search results have loaded)
+not easy to do. will have to prioritize cost/benefit. I wonder if addressing some of #770 would eliminate need here, for "date" queries specifically. 

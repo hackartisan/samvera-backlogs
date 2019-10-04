@@ -1,0 +1,2 @@
+2404 aptrust clean up3
+Add validation of the bag before tarring and uploading.

@@ -1,0 +1,1 @@
+Don't display thumbnail ID in JSON-LD.

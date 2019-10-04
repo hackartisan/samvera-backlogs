@@ -1,0 +1,2 @@
+customized branding for u-m press
+Closes #559 in addition, adds typekit id and press description added to seeds; tweaks citable link positioning application wide. you'll need to run bundle exec rake db:seed to see updated fonts, logo, and description

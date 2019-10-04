@@ -1,0 +1,2 @@
+Deleting extracted bags with the same name
+When re-importing a bag:  delete any existing extracted bag prior to the dry-run delete the bag after the import, whether it was successful or not  This avoid any leftover bags in the extracted directory.

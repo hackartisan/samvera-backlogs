@@ -1,0 +1,2 @@
+Version 1.0.1 hotfix
+Set default Blacklight solr http method to POST to allow for longer queries Remove customization of url_for_document helper due to conflict with BL tracking mechanism

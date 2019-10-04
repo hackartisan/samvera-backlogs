@@ -1,0 +1,2 @@
+Can't use DateRange in NumismaticIssue
+We can't use nested DateRange resources in NumismaticIssues because they are very strict with start and end dates. Some Issues only have a start date. Convert date_range to ce1 and ce2.

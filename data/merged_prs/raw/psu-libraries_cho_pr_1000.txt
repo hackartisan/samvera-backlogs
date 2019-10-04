@@ -1,0 +1,2 @@
+Footer Text for revisions
+Description Updates the text and truncates the revision number. Connected to #902 Changes  Adds CHO to the text truncates the revision number output

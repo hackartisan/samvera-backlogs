@@ -1,0 +1,2 @@
+Count LMS Stats Separately
+As a collection manager, I want CHO uses via CANVAS or other course management systems counted as a separate statistic, so that I can get a glimpse of educational impact. Henry P. Related: #7 #51 #85

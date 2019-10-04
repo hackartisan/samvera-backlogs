@@ -1,0 +1,2 @@
+Treat CSV headers as case-insensitive
+STORY As a librarian submitting an import, I don't want my import job to fail because of bad capitalization, so that I don't waste time because my metadata column said "Title" instead of "title". ACCEPTANCE   the importer should work successfully whether the header says "title" or "Title" or "TitlE"  all CSV headers are case insensitive in the same way  Leading and trailing whitespace is not signifiant  NOTE There is a potential solution to this at https://github.com/curationexperts/darlingtonia/pull/53/files

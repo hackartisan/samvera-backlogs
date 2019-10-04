@@ -1,0 +1,1 @@
+HELIO-1932 Explicitly close sqlite file handles (prepared statements)

@@ -1,0 +1,2 @@
+Fixes hover state for share your work button #131
+Default behavior comes from Sufia including the hover state. Removed some technical debt. #131

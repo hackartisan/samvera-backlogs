@@ -1,0 +1,2 @@
+A/V playlist DOMException with prev/next nav
+Playing a multipart A/V item, clicking the next button, then quickly clicking the previous button before the next track has begun to play it can result in a temporary (several seconds?) hiccup where nothing plays and the duration gets displayed as "Naan/Naan". It results in an error reported to the browser console: Uncaught (in promise) DOMException: The play() request was interrupted by a new load request.

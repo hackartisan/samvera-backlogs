@@ -1,0 +1,2 @@
+Resolves HELIO-1966: Display complete TOC
+To verify take a look at this staging EPUB: https://heliotrope-staging.hydra.lib.umich.edu/concern/monographs/nk322d39f It has 8 items listed in its TOC.  Now deploy this branch to staging and look again.  It has 20 items listed in its TOC.

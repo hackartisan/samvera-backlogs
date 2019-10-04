@@ -1,0 +1,1 @@
+Fix research help link bug; Fixes #268

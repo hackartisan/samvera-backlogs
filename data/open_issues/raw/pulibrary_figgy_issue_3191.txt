@@ -1,0 +1,6 @@
+Should 6773457 items be maps or scanned resources?
+Marked as maps, but only covers of books. Also, maybe these should be a MVW? https://figgy.princeton.edu/catalog?utf8=%E2%9C%93&q=6773457
+These seem to be some sort of ingest problem. All of those have the same image (same checksum, filename, etc) as the image.
+I see 26 identical viewers on the catalog page: https://catalog.princeton.edu/catalog/6773457#view
+It seems like the correct version might be https://figgy.princeton.edu/catalog/77c7d8cf-6753-456a-94d5-c7f2349ad02f. 
+@eliotjordan Is the question "should this show up in the maps portal"?

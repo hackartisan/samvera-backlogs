@@ -1,0 +1,2 @@
+Lock bundler version for Travis
+Bundler can't install on the current version of Ruby. Need to lock the version until Ruby is updated.

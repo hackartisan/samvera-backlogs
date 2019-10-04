@@ -1,0 +1,2 @@
+Switch to Valkyrie
+This removes all existing Rails code and replaces it with a base Rails install that includes Valkyrie as a dependency. A basic postgres database setup is included which should work for local development purposes, as well as our current solr configuration. Blacklight is installed, but without any customizations, and all of its catalog configuration commented out. No tests are included but the Rails app will load and display the default Blacklight page.

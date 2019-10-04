@@ -1,0 +1,1 @@
+Bulk fix when no replaces statement

@@ -1,0 +1,2 @@
+Catch false positives in ControlledVocabulary::None
+Ensure that no exception is raised, no matter the specific type. @cam156 sorry, I missed this one on the PR review.

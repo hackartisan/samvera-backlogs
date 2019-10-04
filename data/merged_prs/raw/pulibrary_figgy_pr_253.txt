@@ -1,0 +1,2 @@
+Remove add vocabulary button.
+Closes #237.

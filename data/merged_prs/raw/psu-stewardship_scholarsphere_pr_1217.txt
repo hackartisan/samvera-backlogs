@@ -1,0 +1,2 @@
+Require zip
+Downloading zips from our server environment was failing because the Zip module was not being loaded. Because the error was not occurring during local development, the issue is likely due to the eager loading in development that is not present in production Rails environments.

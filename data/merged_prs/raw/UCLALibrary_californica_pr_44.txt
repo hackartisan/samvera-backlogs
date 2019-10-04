@@ -1,0 +1,2 @@
+fix markdown syntax for project name
+pull request #37 replaced the occurences of Tenejo with Californica, however I got the Markdown syntax wrong (I blame the tpope/vim-markdown-plugin for hiding the syntax from me), this commit fixes that typo fixes #42

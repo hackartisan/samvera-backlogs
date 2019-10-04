@@ -1,0 +1,2 @@
+Resolves HELIO-2264: Integration test on heliotrope-testing
+heliotrope-testing Capybara and Turnsole example specs and helpers.

@@ -1,0 +1,2 @@
+Remove param and green up csv_importer_spec
+Removes @model parameter from Importer::CSVImporter#initialize Refactors Importer::CSVImporter spec to use aws-sdk functionality

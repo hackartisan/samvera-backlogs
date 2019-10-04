@@ -1,0 +1,2 @@
+update loofah dependency
+CVE-2018-16468 nokogiri update comes along with it since nokogiri is a loofah dependency, that's fine.

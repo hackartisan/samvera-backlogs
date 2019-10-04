@@ -1,0 +1,2 @@
+Update Collection Form
+Fixes #399 Merged the collection form from Scholar to ucrate. Made all fields except creator single value (required pulling in the edit.html to fix the displayed title), moved the license wizard to the left side, and updated the specs.

@@ -1,0 +1,2 @@
+Renaming ETD label to Thesis or Dissertation
+We want to replace ETD with Theses or Dissertations; However I'm going with the singular as that is what the others are referencing. Closes #216 As part of the deploy we will want to run maintenance:reindex_solr

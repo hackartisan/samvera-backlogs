@@ -1,0 +1,2 @@
+Add an okcomputer check for client cert connections
+Fixes #114

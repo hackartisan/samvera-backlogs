@@ -1,0 +1,2 @@
+Implement testing for non-repeatable fields
+Fixes #519 Adds testing for all non-repeatable fields through model spec testing. Added testing for the following fields: title, rights_statement, description, date_created, and license.

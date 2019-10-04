@@ -1,0 +1,2 @@
+Samvera Cap Deploy updates
+Continues #94   Add admins.yml to ansible scripts  Add Database Auth to environment vars jinja template.  Rewrite how samvera cap-deploy handles environment vars.  Testing

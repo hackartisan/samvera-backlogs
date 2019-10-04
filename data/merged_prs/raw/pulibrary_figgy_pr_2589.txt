@@ -1,0 +1,2 @@
+Add bulk flag to geoblacklight messages
+Closes #2581

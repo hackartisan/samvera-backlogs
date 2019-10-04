@@ -1,0 +1,2 @@
+Fixup/external resources
+Resolves #910  Consistent labels and behavior for external objects class naming cleanup use classes not IDs increase size of icons

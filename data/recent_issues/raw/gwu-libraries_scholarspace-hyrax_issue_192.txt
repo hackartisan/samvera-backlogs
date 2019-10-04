@@ -1,0 +1,2 @@
+Batch loader user in scholarspace group isn't able to write to derivatives folder
+Getting errors like: Errno::EACCES: Permission denied @ dir_s_mkdir - /opt/scholarspace/scholarspace-derivatives/derivatives/ng/45/1h/94

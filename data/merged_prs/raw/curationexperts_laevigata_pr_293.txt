@@ -1,0 +1,2 @@
+Remove checks for active terms in services
+Also stop using the Hyrax namespace. Fixes a bug that prevented editing ETDs.

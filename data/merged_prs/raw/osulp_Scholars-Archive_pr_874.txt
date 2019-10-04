@@ -1,0 +1,2 @@
+removed post-doctoral from degree level
+fixes #858

@@ -1,0 +1,2 @@
+Change UI label "Maker" to "Creator"
+Closes #363 @hackmastera, I think these are the only places to change the UI label "Maker" to "Creator", my understanding of #363 is we just wanted to change ui labels, not any underlying field names. Is this what you expect for #363?

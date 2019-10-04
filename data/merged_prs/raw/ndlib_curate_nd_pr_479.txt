@@ -1,0 +1,2 @@
+Adding view linter for CurateND ERB templates
+Adding rails-erb-lint gem @57277591dd6c0cdc3425cfdb206f399ab9b01ae3 $ bundle Adding view linter for CurateND ERB templates @e397eaaa5a02b7607993a6cbb99b6e77ac9cfd0f We have minimal view tests, and as such, invalid ERB can make its way into production. This is a step we are taking to guard against adding invalid ERB (and thus causing a hard system crash as the template is unparsable). Closes DLT-488

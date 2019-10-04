@@ -1,0 +1,4 @@
+Copy recent numismatic images to Isilon
+A quick survey shows there are at least some images of coins not in the puld0049 directory. It would be useful to have a list of the missing images so we can track them down. Child of #2242
+Alan said that Roel has been copying them from their hard drive, and returning the drive empty.
+I asked Roel if there were other images beyond what we see in pudl0049 (which are a few years old), and he said he hadn't done anything since then, and any other images are on their hard drive in RBSC.  So when we get ready to migrate data, we should ask Roel to copy all of their files to the Isilon again, so we have the most recent images.

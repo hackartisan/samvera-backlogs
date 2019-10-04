@@ -1,0 +1,2 @@
+Set correct headers for CSV download
+This sends the CSV file to the user with the correct headers so that the file is downloaded as a utf-8 csv file. After this is merged, you'll be able to download the csv file from /importer_documentation/csv Connected to #110

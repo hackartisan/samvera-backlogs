@@ -1,0 +1,2 @@
+[Figgy/production] Notice: Could not index 68af5384-dc90-4eff-bcaa-80ebb040b80d
+Backtrace line 49 of [PROJECT_ROOT]/app/services/reindexer.rb: rescue in single_index line 44 of [PROJECT_ROOT]/app/services/reindexer.rb: single_index line 35 of [PROJECT_ROOT]/app/services/reindexer.rb: block in reindex_all  View full backtrace and more info at honeybadger.io

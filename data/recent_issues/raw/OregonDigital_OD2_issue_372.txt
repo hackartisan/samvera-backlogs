@@ -1,0 +1,2 @@
+Breakdown the OD1 visibility/groups/embargo solution
+Descriptive summary We need to translate the groups, visibility (open, private, institutional, embargo, etc) as it exists in OD1 to OD2 equivalents.   What are all of the groups/visibility/embargo combinations in OD1?  Also see related #32 @wickr @jsimic Can this be added to the MAP?

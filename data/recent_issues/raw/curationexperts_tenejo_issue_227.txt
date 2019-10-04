@@ -1,0 +1,2 @@
+Rescue RecordNotFound errors
+The various classes of RecordNotFound errors (see attached screen shot) are now our top Honeybadger errors that we don't care about and don't want to see. We should rescue these so they don't raise an exception. NOTE: This problem is also happening for Federal Reserve, so we should probably fix it for them first.    These errors are rescued in tenejo  There is an entry in the playbook about how to rescue them so it's easy to repeat for other projects

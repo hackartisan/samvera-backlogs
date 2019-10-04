@@ -1,0 +1,2 @@
+Committee, abstract, toc
+Add committee chair and committee member to solr index and show view Add abstract and table_of_contents to model, index, fixture factory, and show view Addresses #166 and #306

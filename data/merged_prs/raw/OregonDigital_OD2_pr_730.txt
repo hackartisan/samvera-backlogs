@@ -1,0 +1,2 @@
+Adds myshelf elements
+Fixes #684

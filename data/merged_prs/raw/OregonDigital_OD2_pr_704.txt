@@ -1,0 +1,2 @@
+update hyrax-migrator to get latest updates
+update hyrax-migrator to get skip field mode feature

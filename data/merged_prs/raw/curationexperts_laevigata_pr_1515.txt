@@ -1,0 +1,2 @@
+Expire embargoes on attached file sets
+When the embargo expiration service runs it should also remove embargoes and re-set visibility on attached file sets. Fixes #1511

@@ -1,0 +1,2 @@
+defaulting the creator to the depositor
+Refs #349

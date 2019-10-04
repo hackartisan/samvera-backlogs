@@ -1,0 +1,2 @@
+Export to scihist-digicoll
+On the chf-sufia server, run bundle exec rake chf:export. Note: ONLY_COLLECTIONS='j6731386g' RAILS_ENV=production bundle exec rake chf:export will export only that one collection (useful for testing.) The export will create a batch of json files in tmp/export. Move those files into scihist_digicoll's directory, at: /tmp/import. Then, run bundle exec rake scihist_digicoll:import.

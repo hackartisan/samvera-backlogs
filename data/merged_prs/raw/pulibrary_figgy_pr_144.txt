@@ -1,0 +1,2 @@
+Extends the File Management interface for regenerating derivatives
+Resolves #64 by adding a route for updating FileSet derivatives and providing a jQuery extension for the File Management interface

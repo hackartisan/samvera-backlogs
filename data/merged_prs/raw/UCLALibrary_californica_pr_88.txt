@@ -1,0 +1,2 @@
+Simplify configs
+Use FEDORA_URL instead of FEDORA_HOST in configs Use (SOLR_URL or FEDORA_URL) or a default fixed value in configs

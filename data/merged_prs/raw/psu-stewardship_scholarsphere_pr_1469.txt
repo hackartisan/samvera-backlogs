@@ -1,0 +1,2 @@
+Using date presence instead of active
+We are checking for active, but the embargo will be inactive when we want to deactivate it Checking for the date presence will make sure it will not be deactivated twice fixes #1455

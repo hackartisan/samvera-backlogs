@@ -1,0 +1,2 @@
+Testing revisions for #269 - form field labels
+Please adjust form labels for D26, D75 - "Page Range". Apologies, this was an error on my part in the spreadsheet. D26 :page_range_start: Relabel as Page Range - Start D75 :page_range_end: Relabel as Page Range - End Also please see #310 regarding Rights Statement and Rights Statement Controlled, which seem to be mapped to the wrong properties on the form.

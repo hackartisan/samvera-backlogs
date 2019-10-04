@@ -1,0 +1,2 @@
+ETD :type field does not persist
+Descriptive summary The Type field on ETD work-type does not persist. As far as I can tell this is a re-labeled genre field Steps to reproduce the behavior  Create new ETD Select option from Type select field Save Edit and see that the type selection has no persisted.

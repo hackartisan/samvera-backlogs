@@ -1,0 +1,2 @@
+Person metadata fields
+Change creator predicate per metadata spreadsheet Add email metadata fields per metadata spreadsheet Add graduation date field per metadata spreadsheet Closes #298

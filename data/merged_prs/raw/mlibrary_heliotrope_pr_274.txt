@@ -1,0 +1,2 @@
+monograph 'catalog' page, #14
+search results thumbnails and show route monograph detail and add section assets to search results section facets monograph search builder test add keyword facet update tests add section to file_set search results Resolves #14

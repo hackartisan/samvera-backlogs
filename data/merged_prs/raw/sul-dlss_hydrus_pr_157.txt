@@ -1,0 +1,1 @@
+Remove an unhelpful exception

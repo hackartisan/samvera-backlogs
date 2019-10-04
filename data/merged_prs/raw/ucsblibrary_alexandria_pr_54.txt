@@ -1,0 +1,1 @@
+ObjectFactory#render_thumbnails: ensure fedora cache is 💥

@@ -1,0 +1,2 @@
+Support inactive QA terms
+Add a helper that can be used when creating form select fields from QA authorities. This is implemented upstream in samvera/hyrax#3122, so a guard is included to flag removal upon a future upgrade. Use the helper when building form fields; change the existing forms to use active terms only. Connected to #1094.

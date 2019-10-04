@@ -1,0 +1,2 @@
+Updates style to fix overlaid button
+Fixes #1266

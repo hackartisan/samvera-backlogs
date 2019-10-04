@@ -1,0 +1,2 @@
+Add access controls to ark_report
+fixes #1237

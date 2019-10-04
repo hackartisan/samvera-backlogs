@@ -1,0 +1,2 @@
+Display ETD type as "Thesis" or "Dissertation"
+Currently it displays 'Thesis or Dissertation' when viewing an individual item, and it should say one of the two depending on the item metadata  Closes #314

@@ -1,0 +1,2 @@
+Add a "clipboard" button to access links on playlists
+This is a clipboard icon on the token access link for Playlists to make it easy to copy to Aeon.

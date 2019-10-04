@@ -1,0 +1,2 @@
+Resolves HELIO-2423: Fulcrum Components Show Page Changes
+Cleaned up the component show page and added/modified filtering to the index pages of products, components, individuals, institutions, users and tokens.

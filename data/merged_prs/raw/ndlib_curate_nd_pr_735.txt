@@ -1,0 +1,2 @@
+Adding "Calculating…" to file size
+We determine the file size as part of the characterization process. The characterization process runs asynchronous to the request cycle. As such, it is likely that the file size has not yet been determined when the application redirects the user after a successful file upload. This adjustment corrects that behavior. Closes DLTP-1524

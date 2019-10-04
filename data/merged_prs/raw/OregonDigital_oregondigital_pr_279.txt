@@ -1,0 +1,2 @@
+Feature/allow templates to have blank fields
+Closes #213

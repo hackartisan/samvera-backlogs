@@ -1,0 +1,2 @@
+Work Show Page: add label to hard-coded Description field
+Descriptive summary Description is hard-coded into the view, but does not have a label. Add a label to this field in the same form as the rest of the descriptive metadata (as much as possible). Wireframe mockup: https://www.lucidchart.com/documents/edit/944f6fd3-53b5-466b-b49f-f0788ada80aa/0 (Information compiled by POSM group from updated wireframes) Expected behavior Description field has a label.

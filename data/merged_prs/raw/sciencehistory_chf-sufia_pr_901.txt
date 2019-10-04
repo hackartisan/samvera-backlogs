@@ -1,0 +1,2 @@
+new sort options
+closes #712

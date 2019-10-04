@@ -1,0 +1,2 @@
+Multi Upload of files after creation
+DLTP-1431, Restructured the file creation to allow for multiple files to be uploaded at once. Adjusted the input options to reflect.

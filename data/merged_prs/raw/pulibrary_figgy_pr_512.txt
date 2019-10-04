@@ -1,0 +1,2 @@
+Adding ephemera hard drive management
+Adds a drive barcode field to ephemera boxes Displays drive barcode in box list Adds buttons for attaching and removing drives  Fixes #495

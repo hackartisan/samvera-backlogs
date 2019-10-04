@@ -1,0 +1,2 @@
+HELIO-2381 - add modal window for share link 
+HELIO-2381 - add modal window for share link that displays help text and copy to clipboard button; modify labels/titles for share link and social sharing link; update CSS to maintain proper height in the navigation bar display

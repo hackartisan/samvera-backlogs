@@ -1,0 +1,2 @@
+Collection thumbnails for four collections.
+Fixes #1186, #1187, #1188, #1189.

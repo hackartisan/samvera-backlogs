@@ -1,0 +1,2 @@
+Search results page - Alt text for icons
+For accessibility, can we provide alternative text for the file type icons both on the search results page and the resource details page.

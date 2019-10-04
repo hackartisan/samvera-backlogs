@@ -1,0 +1,2 @@
+Name the pdf as requested by proquest
+Fixes #953

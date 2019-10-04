@@ -1,0 +1,2 @@
+Ingest WA-WC055
+Child of #1581 The album has a MARC record, that record has two volumes, each page from each volume that has photos has a MODS record for every photo.

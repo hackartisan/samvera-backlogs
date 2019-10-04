@@ -1,0 +1,1 @@
+add version number to footer; closes #62

@@ -1,0 +1,3 @@
+List of "my recently deposited" objects with file status
+As an imaging tech I need an easy-to-access list of the X (15? 25?) most recent things I have ingested, along with the ingest / processing status of the files (whether there were errors, how many images are finished processing). Related to #2461 Related to #3217
+Implementation Options:  List on the front page (requested by Studio) Display processing in index view, provide some sort of shortcut to it.  Notes: The query for showing processing status is pretty expensive. We might have to adjust it to show it in a search results view, or have some sort of button, or do it out of band, or something.

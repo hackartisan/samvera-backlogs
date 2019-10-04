@@ -1,0 +1,2 @@
+Data model for numismatics
+This will be similar to Ephemera — a couple of linked entities (Issue and Coin), plus some controlled vocabularies (names of depicted rulers, donors, etc.).  Field names and types should be drawn from the database (see #2000), and/or public interface (see #2004) Child of #2025

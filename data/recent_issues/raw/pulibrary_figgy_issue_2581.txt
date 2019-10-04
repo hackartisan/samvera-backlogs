@@ -1,0 +1,2 @@
+Add bulk key to geoblacklight messages
+Add key to geoblacklight message JSON to indicate that the message is part of a bulk update and not to commit after every message.

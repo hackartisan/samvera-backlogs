@@ -1,0 +1,9 @@
+Replace Fileset in Digital Object
+As a collection curator I need to remove and replace the image associated with an item without removing the metadata for the item So that I can improve the quality of the collection Stephanie M. THIS IS NOT VERSIONING [NT, 2019-01-25]
+Functionally a dupe of #119?
+Create a new version, but retain previous? @ntallman  This is also not a duplicate of the above ticket.
+@awead This user story does not include retaining the previous, but #162 does.
+@ntallman so that sounds like files will have selective versioning. Is versioning per file, or per action, and will that be enforceable or overrideable via policy? We'll also need a story about deleting existing versions, if we don't have one already.
+@awead  I don't think we have a user story on deleting versions. Added #297, but scoped it to just deleting mistakes.   I think this could be set at the collection-level, like default access settings. With overrides at the work level. Though part of me says version and keep everything as policy and make deletions the exception... let me gather some feedback on this.
+~~Versioning everywhere by default. Deleting versions (#297) is there if we need to develop it, but let's leave it in the backlog until someone requests the feature.~~ [Updated by NT, 2019-01-25]
+This user story is no longer considered to be discussing versioning. It is what it described, replacing (deleting and adding in the same place) a fileset. The ValkID and checksum will change, but most other properties should remain. There should be a record of which user replaced which fileset in the Activity Stream for the work and collection (#790).

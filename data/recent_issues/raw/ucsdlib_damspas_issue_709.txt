@@ -1,0 +1,2 @@
+Data Sync to Staging/QA
+Descriptive summary  Please sync data from prod to staging and QA. This should include everything (triplestore, solr, files, etc.) Requested by Arwen.  Notes  Operations: @jgorney @rstanonik

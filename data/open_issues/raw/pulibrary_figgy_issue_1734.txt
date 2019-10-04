@@ -1,0 +1,2 @@
+Manifest image annotation '@id' is not a valid IIIF url.
+The link https://libimages1.princeton.edu/loris/figgy_prod/9e%2F2a%2F3f%2F9e2a3ff02bba4d1d819070d3e8612aee%2Fintermediate_file.jp2/full/!1000,/0/default.jpg should be https://libimages1.princeton.edu/loris/figgy_prod/9e%2F2a%2F3f%2F9e2a3ff02bba4d1d819070d3e8612aee%2Fintermediate_file.jp2/full/1000,/0/default.jpg

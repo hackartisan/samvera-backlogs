@@ -1,0 +1,2 @@
+Text extraction of redacted preservation files
+Typically, text extraction is performed on the preservation file. However, if there is a redacted preservation file, we probably want to use the redacted file instead.

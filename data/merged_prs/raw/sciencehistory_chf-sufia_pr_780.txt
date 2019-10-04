@@ -1,0 +1,1 @@
+make sure honeybadger reports better env for deploy tracking

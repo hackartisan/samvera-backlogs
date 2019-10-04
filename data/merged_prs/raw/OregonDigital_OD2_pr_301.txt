@@ -1,0 +1,2 @@
+monkeypatching hyrax, moving hacks
+fixes #298 Moves all local hacks to a more obvious location inside initializers

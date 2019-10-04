@@ -1,0 +1,2 @@
+Local fixes to the rspec name disambiguation test
+Updates rspec to use the documentation style and corrects the test for name disambiguation for LDAP changes to given names–lowercase, doesn't include, middle name, etc.

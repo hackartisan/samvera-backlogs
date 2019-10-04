@@ -1,0 +1,2 @@
+Update Dockerfile.solr
+This specifies the 6.5 release of solr in the Dockerfile.solr file. The latest version isn't working with this Dockerfile yet. Connected to CAL-595

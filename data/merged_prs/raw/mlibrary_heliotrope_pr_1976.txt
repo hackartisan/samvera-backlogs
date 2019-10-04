@@ -1,0 +1,2 @@
+blog post for accessibility
+Resolves HELIO-2095 Add blog post about accessibility updates to Fulcrum.

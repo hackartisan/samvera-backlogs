@@ -1,0 +1,2 @@
+Don't preserve unless parent is preserved.
+Closes #2859

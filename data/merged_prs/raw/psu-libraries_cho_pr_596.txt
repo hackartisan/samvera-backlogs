@@ -1,0 +1,2 @@
+Don't require operations for each class
+Multiple calls to require 'dry/transaction/operation' are unnecessary. Connected to #580

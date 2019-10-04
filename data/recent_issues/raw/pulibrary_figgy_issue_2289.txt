@@ -1,0 +1,4 @@
+[Figgy/production] RuntimeError: Unable to execute command "kdu_compress -quiet -i /tmp/sufia20181207-32568-1awdjd6.tif -o /tmp/sufia20181207-32568-d9ie2t.jp2 -rate 2.4,1.48331273,.91673033,.56657224,.35016049,.21641118,.13374944,.08266171 -jp2_space sRGB -double_buffering 10 -num_threads 1 -no_weights Clevels=6 Clayers=8 Cblk=\{64,64\} Cuse_sop=yes Cuse_eph=yes Corder=RPCL ORGgen_plt=yes ORGtparts=R Stiles=\{1024,1024\}
+". Exit code: pid 16638 exit 141
+Error message:
+Backtrace line 92 of [PROJECT_ROOT]/app/derivative-services/jp2_derivative_service.rb: create_tiff_derivative line 88 of [PROJECT_ROOT]/app/derivative-services/jp2_derivative_service.rb: rescue in run_tiff_derivatives line 85 of [PROJECT_ROOT]/app/derivative-services/jp2_derivative_service.rb: run_tiff_derivatives  View full backtrace and more info at honeybadger.io

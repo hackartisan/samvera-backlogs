@@ -1,0 +1,2 @@
+fix best-fit Leaflet in embed view
+Resolves #1202

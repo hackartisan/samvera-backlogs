@@ -1,0 +1,2 @@
+Show and Cancel Links for New and Edit Work
+When creating a new work or editing an existing work, we have links for show/cancel. Screen reader testing revealed that the links weren't as effective as a button. Change the 'Show' link to a 'Show' button and the 'Cancel' link to a 'Cancel' button.

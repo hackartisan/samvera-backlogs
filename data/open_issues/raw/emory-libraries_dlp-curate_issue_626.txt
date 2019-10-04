@@ -1,0 +1,2 @@
+Implement FileSet changes for Hyrax fixity service
+If applicable, implement FileSet-oriented adjustments  Implement UI components for running Fixity Checks on demand, once enabled

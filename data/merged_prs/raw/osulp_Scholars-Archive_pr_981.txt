@@ -1,0 +1,2 @@
+added text for all work analytics pages
+fixes #977

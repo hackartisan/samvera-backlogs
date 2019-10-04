@@ -1,0 +1,2 @@
+use docker for development
+i'd love to not have to open four terminal windows to develop this app, so why not try using docker? todo  services:   spot  sidekiq'd spot  fedora  solr  postgres  redis  fits servlet    libreoffice installed correctly?  do things ingest?

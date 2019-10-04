@@ -1,0 +1,2 @@
+Get rid of parent path
+We can look up parents and display breadcrumbs anyway, so it serves no purpose.

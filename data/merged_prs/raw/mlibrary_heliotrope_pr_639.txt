@@ -1,0 +1,2 @@
+refactor width for video, images, audio elements
+When I looked at what I originally wrote I wasn't happy with it -- Ultimately this doesn't change much of anything with the display of a video or image, but follows "best practices" for responsive video by also setting the height on video elements and ensures that widths do not get overridden.  I've also applied this technique to audio players and adjusted how the surrounding figure container width and displays are set.

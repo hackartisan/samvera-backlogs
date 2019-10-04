@@ -1,0 +1,2 @@
+use the parsed path of FITS Servlet
+not really a bug, as we were correctly making post requests to the FITS servlet. this should safeguard against any changes to the URL, since we're using the parsed path for the POST request, rather than a hard-coded '/fits/examine' value.

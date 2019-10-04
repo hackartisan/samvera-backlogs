@@ -1,0 +1,2 @@
+english-language dates not showing in search
+welp, the turnaround on this seemingly working to not was pretty quick. need to follow up #154 because we're finding seasonal searches not finding results. "fall" will return magazine items because "fall" is in the title. searching "autumn" returns zero results. according to the solr schema ui, the field exists and has docs indexed to it:  so my initial best guess is that somehow it's not being included in the search fields

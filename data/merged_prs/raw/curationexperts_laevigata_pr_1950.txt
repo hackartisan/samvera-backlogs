@@ -1,0 +1,2 @@
+Replaces the logo to reflect the new application name.
+Before:  After:  I can't speak to the size difference- this is what we received.

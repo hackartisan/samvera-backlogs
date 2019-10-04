@@ -1,0 +1,2 @@
+Default to application/octet-stream for unknown mime types
+Fixes issue reported in #1580. This was originally reported by a user trying to download https://scholarsphere.psu.edu/concern/generic_works/zg64tm07w

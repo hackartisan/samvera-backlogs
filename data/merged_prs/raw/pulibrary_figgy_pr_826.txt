@@ -1,0 +1,2 @@
+Modifying the styles for visibility badge colors for WCAG conformance
+Also providing icons for each state of visibility, resolves #683

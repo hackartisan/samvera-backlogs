@@ -1,0 +1,2 @@
+Add work edit permissions
+Fixes #757

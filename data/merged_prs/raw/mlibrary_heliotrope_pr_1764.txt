@@ -1,0 +1,2 @@
+Addresses #1725 file manager changes visibility.
+In cases where the actor environment lacks permissions information, extract them from the curation_concern.

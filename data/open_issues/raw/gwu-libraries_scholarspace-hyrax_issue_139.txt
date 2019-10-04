@@ -1,0 +1,2 @@
+Improved metrics
+Views/downloads of objects Views/downloads by facet (e.g., by GW Unit) Visible dashboard - for the author to be able to see metrics on their own objects

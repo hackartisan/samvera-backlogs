@@ -1,0 +1,2 @@
+Adds caching support for configurable and default vocabulary
+Fixes #725 Fixes #726 References #720

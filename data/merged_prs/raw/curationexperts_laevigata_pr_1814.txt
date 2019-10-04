@@ -1,0 +1,2 @@
+Update Hyrax to 2.2.4
+See release notes at: https://github.com/samvera/hyrax/releases/tag/v2.2.4

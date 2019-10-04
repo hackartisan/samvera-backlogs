@@ -1,0 +1,2 @@
+[WIP] Use Locabulary for ETD degree information
+https://jira.library.nd.edu/browse/DLTP-1427  Moves from using ETD Vocabulary database to using Locabulary for degree options. Creates ControlledVocabularyService, and moves all accesses of Locabulary to use this service. Removes use of department and degree yml files for translation. Uses Locabulary for this also. Removes EtdVocabulary table.

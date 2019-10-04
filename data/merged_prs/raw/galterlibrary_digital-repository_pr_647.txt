@@ -1,0 +1,2 @@
+original_publisher, publisher, and based_near Batch updates
+closes #634

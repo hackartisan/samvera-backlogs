@@ -1,0 +1,2 @@
+Enable deployment via the UCLA Jump Server
+The purpose of this branch is to introduce configuration in the deploy.rb file to allow deployment of code via the UCLA bastion host (jump.library.ucla.edu). This allows us to maintain secure server environments - keeping firewall access in place to limit direct access to our servers. This configuration creates a new environment variable VIA_JUMP that allows the entity deploying the code to set whether or not code is deployed through the jump server or directly to the server environment. Supersedes #113

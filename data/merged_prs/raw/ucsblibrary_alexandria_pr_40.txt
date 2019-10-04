@@ -1,0 +1,2 @@
+ObjectFactoryWriter: fix cylinder file parsing
+As part of a recent refactor that wasn't fully tested with cylinder ingests, attributes[:filename] is no longer used.

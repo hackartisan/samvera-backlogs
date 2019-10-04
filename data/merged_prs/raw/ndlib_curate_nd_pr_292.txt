@@ -1,0 +1,2 @@
+Enhancements to access denied pages
+Based on feedback from Mandy Havert Shari Hill Sweet:  Give patrons with an expired access token a way of requesting renewed access Simplify messaging on the page

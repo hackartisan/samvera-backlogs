@@ -1,0 +1,1 @@
+HELIO-2739 Add more crossref Component metadata

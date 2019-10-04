@@ -1,0 +1,2 @@
+File Characterization of Non-Preservation Files
+Need to decide which derivative files receive characterization and what data is extracted from the output and saved as structured technical metadata.

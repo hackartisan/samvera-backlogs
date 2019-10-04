@@ -1,0 +1,2 @@
+Add a human-readable rights statement to solr index for display in Ursus. Story UCLALibrary/ursus#57
+Connected to UCLALibrary/ursus#57

@@ -1,0 +1,1 @@
+Apply access controls and pub status to doc model query filters; Closes #462

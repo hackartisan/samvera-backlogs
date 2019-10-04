@@ -1,0 +1,2 @@
+Rename generic files
+Completes https://jira.library.nd.edu/browse/DLTP-1584 Gives ability to edit file to include a description or a different file name. Display the description on the file detail view.

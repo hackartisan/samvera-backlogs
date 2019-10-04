@@ -1,0 +1,2 @@
+Downloading files with unknown mime-types
+Given a file named 1DSignalShredder_2016_04_22_hised_hivar.R, trying to download it results in this error: NoMethodError: undefined method `content_type' for nil:NilClass

@@ -1,0 +1,2 @@
+Refactor CSV tests to avoid use of fixtures
+Fixtures drift over time and are expensive to maintain. This is a better way of testing our CSV upload cases.

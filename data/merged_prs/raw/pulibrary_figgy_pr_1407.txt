@@ -1,0 +1,2 @@
+Add GraphQL API
+Currently supports one query (resource()) and one mutation (updateResource()). There are some missing fields for what the order manager will need, but this should be a good starting point.

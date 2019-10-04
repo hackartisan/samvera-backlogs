@@ -1,0 +1,2 @@
+Extra blacklight validation
+These tweaks avoid two recent errors we've gotten in production by checking search inputs before they are sent to blacklight_range_limit. Fixes #1144 Note: I'm also going to suggest a fix to the actual blacklight_range_limit project based on #1126 .

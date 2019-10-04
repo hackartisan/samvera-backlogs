@@ -1,0 +1,2 @@
+Update mandarin translations
+Fixes #194

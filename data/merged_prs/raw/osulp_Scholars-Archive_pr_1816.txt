@@ -1,0 +1,1 @@
+Update bootstrap-sass. Add mini_racer gem for autoprefixer_rails.

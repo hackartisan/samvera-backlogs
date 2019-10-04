@@ -1,0 +1,2 @@
+Overrides Blacklight::UrlHelperBehavior#link_back_to_catalog in order to generate search result links from Playlists
+Resolves #2502 by overriding Blacklight::UrlHelperBehavior#link_back_to_catalog to parse for cached query parameters stored from AJAX search requests and adding an async GET parameter to the DocumentAdder Vue Component.

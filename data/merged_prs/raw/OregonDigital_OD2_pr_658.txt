@@ -1,0 +1,2 @@
+Update homepage with showcase section
+Fixes #599 Fixes #600

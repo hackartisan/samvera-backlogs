@@ -1,0 +1,2 @@
+Determine facet limit size for advanced search
+Currently, there is no way to paginate the advanced search. If your creator is less than 20, you can search in the field but there is no way to use the facets to narrow it down. This seems to be a limiting factor in advanced search

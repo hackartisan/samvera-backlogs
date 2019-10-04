@@ -1,0 +1,2 @@
+Provenance notes adjustments
+Adjusting data-entry instructions; accepting Notes: as well as NOTES:

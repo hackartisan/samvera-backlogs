@@ -1,0 +1,2 @@
+Group Welcome Additions coins into MVWs
+About 80 coins were ingested as scanned resources for the Welcome Additions exhibit: https://figgy.princeton.edu/?f%5Bmember_of_collection_titles_ssim%5D%5B%5D=Welcome+Additions&q=120%2A They should be grouped into MVWs for display.  Eric White and Alan Stahl can give guidance on which coins should be grouped together.

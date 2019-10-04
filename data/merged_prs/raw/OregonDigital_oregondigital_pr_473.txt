@@ -1,0 +1,1 @@
+Removed Set column from Template index.

@@ -1,0 +1,2 @@
+hiding save buttons with css
+@bess @little9 this PR hides one of the save buttons rather than removing it only because the create review spec (the most complete test of the create feature) can't pass without it. I tried for a better solution all day with no reliable success, and while this is no one's first choice for a solution, it will work.

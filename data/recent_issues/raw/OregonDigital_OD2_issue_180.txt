@@ -1,0 +1,2 @@
+Istio ingress and traffic routing
+Setup Istio in the Kubernetes cluster and get staging and production setup to use Istio for all network ingress in place of K8S "LoadBalancer" services for each individual component

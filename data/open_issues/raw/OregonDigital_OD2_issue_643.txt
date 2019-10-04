@@ -1,0 +1,4 @@
+Work Show Page: MyShelf functionality
+Descriptive summary #604 Added a button for users to add works to a section called "MyShelf." This is meant to be a collection-like feature that allows users to gather materials and present or share them to others in aid of instruction. Expected behavior  One user should have one shelf Each shelf should be shareable via a single link Authenticated and unauthenticated users should see the whole shelf Individual items may be restricted with IP, Role, or On-Campus rules When adding a potentially restricted item, the user should be alerted of the restriction When adding an item as an unauthenticated user, the user should be directed to login first, then the item should be added automatically after login  Related work #604 Accessibility Concerns Unknown at this time
+Dependent on roles and permissions
+This was intended to be built on Hyrax User Collections with re-branding and tweaks.

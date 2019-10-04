@@ -1,0 +1,2 @@
+Update gems
+Update bixby to remove error messages Update postgres to > 1.0 Remove sqlite since we don't use it  Connected to #306

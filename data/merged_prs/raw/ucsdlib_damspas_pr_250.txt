@@ -1,0 +1,2 @@
+Fixes #248 - audio streaming issue involving Flash and Chrome
+Fix audio streaming issue Update the player height Update the video player height Update deploy config for qa

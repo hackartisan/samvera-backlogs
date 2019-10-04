@@ -1,0 +1,2 @@
+Transcripts and/or corrected OCR
+We should add support for human-edited transcripts or corrected OCR.  These differ from machine-generated OCR because they should not be overwritten by automatic processes.

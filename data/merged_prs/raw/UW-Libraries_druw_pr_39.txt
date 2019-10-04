@@ -1,0 +1,2 @@
+Adding sidekiq gem to production group section so we can simplify ans…
+This simplifies the druw ansible role so we no longer need to modify the Gemfile post git clone

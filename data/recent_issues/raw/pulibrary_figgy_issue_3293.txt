@@ -1,0 +1,2 @@
+Read-Only User
+We have talked about having the Reading Room access require both an IP address and a user account.  However, all of the figgy roles we currently have would in theory allow the user to login to figgy and CRUD materials.  We should have a read-only role for this.

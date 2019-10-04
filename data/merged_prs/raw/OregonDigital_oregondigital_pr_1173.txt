@@ -1,0 +1,2 @@
+Remove awardDate from Description mapping
+It was already mapped in Date field. Fixes #1172

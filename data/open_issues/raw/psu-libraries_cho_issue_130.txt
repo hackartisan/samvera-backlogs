@@ -1,0 +1,2 @@
+Request Original Object
+As a researcher, I would like to be able to request digitized special collections object(s) encountered on the digital collections website, so that I can review the original material. Done looks like: integration with Aeon request system and/or Aspace. Depends on location information in the metadata

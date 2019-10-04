@@ -1,0 +1,2 @@
+View FileSets from a Work or a Fileset Page
+See epic #119. The general goal is to see a listing of all the files assigned to a FileSet. The mockup lists the FileSet's files - but we can also adjust this to show a listing of files from the view FileSet page instead of from the View Work page: https://curate.library.emory.edu/concern/parent/c534fn92g/file_sets/b2773v68h Mockup - see all attached files from View FileSet page

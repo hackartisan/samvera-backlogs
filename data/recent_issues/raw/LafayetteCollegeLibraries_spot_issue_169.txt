@@ -1,0 +1,2 @@
+add download link to work-view
+the closest we have to an analog on digital.lafayette is the download button on the pdf.js viewer, so i don't think we need to pull out all of the stops (for example, i'd like to be able to download the item and its metadata). i think a 'Download this item' button below the viewer might suffice for parity. update: bonus points to add one to the file_set show view

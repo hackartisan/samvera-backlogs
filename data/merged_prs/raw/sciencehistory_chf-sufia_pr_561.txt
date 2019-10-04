@@ -1,0 +1,1 @@
+Update navbar to match style documents, closes #552

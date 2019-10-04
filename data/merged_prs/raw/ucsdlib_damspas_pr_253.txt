@@ -1,0 +1,2 @@
+Fixes #249 - Add Accessility integration
+Update seeds.rb to populate data Fix build error Fix build error

@@ -1,0 +1,2 @@
+Publish a manifest for a FileSet
+Allows linking to a single track or a logical grouping of tracks from ARES, not just the whole recording. Child of #1986

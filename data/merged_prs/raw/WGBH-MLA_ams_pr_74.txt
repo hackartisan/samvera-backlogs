@@ -1,0 +1,2 @@
+Show only one blank option for typed fields
+Closes AMS2-316 subtask. Closes AMS2-240. Again.

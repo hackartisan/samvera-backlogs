@@ -1,0 +1,2 @@
+fixes noid minting
+Closes #271 Closes #390

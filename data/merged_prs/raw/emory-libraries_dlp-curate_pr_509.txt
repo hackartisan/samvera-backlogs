@@ -1,0 +1,2 @@
+Add Import header to metadata guide
+For each field, look up its corresponding import header in the configured Zizia mapper class. Connected to curationexperts/in-house#226

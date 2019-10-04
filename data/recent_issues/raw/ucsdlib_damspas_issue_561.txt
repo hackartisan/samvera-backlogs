@@ -1,0 +1,2 @@
+Add VRR active directory group
+Descriptive summary We need to create an active directory group to be used for authorization of folks allowed to manage the Aeon queues for VRR. Rationale The current 'curator' group is too broad and would allow too many folks access to manage this work. Related work #560

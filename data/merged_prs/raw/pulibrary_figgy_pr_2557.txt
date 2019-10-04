@@ -1,0 +1,2 @@
+Add performance recordings to collections
+and don't make playlists for them unless they're also in another type of course closes #2284

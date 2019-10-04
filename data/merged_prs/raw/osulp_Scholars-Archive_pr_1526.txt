@@ -1,0 +1,2 @@
+Updates the show page to be up to date with hyrax 2.1.0
+This updates the show page to be "up to date with hyrax 2.1.0" which includes some layout changes, universal viewer, social media stuff and other small changes. Still working on fully configuring IIIF to connect properly.

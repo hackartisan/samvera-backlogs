@@ -1,0 +1,2 @@
+Don't set monograph on a Section unless the id is present
+Previously the reorder file_sets UI was broken because it was attempting to do a lookup for a monograph with a nil id.

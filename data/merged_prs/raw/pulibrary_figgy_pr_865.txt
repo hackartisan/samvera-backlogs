@@ -1,0 +1,2 @@
+Small updates to inline docs of controlled_vocabulary
+Remove reference to 'Vocab' class; cannot find this class Add explanation of 'notable'

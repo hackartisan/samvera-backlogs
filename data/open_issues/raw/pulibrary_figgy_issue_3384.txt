@@ -1,0 +1,1 @@
+Vocabulary form should not have itself as an option for parent vocabulary

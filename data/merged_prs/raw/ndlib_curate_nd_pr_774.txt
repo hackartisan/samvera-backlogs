@@ -1,0 +1,2 @@
+Adding "Use Permission" to remaining models
+In discussion with Alex P, added :permission attribute to the updated models. This is to help ensure people know the usage of objects, beyond copyright fair use. Closes DLTP-1629

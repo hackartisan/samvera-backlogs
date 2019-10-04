@@ -1,0 +1,2 @@
+Remove local_ci task
+This is just a round about way of calling the ci task.

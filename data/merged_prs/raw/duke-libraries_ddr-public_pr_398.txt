@@ -1,0 +1,1 @@
+Use first item's multires image as collection thumbnail if available; Closes #384

@@ -1,0 +1,2 @@
+Fix capybara unused parameters warning
+Fixes #80 This commit gets rid of the Unused parameters passed to Capybara::Queries::SelectorQuery warnings when running the test suite.

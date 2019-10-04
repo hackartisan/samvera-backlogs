@@ -1,0 +1,1 @@
+HELIO-2409 - update copyright year in fulcrum static site footer

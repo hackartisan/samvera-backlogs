@@ -1,0 +1,2 @@
+ARCH environment Setup
+3 SOLR, Curate, Lux, Cantaloupe, Fedora   Add Arch env to ansible scripts  Request DNS for arch environments  Add new rules to f5 and internal Elastic Load Balancer for arch envs  Request new fedora user from AWS@emory team for new arch fedora bucket

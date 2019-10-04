@@ -1,0 +1,2 @@
+Resolves #1618 Fix Epub TOC on monograph page for HOBs
+Extracted a class, EPub::Toc, to handle the increasing ToC parsing complexity Added tests for the 3 current cases  (tested this on preview with the HOB titles)

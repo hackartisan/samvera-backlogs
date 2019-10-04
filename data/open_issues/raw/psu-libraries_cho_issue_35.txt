@@ -1,0 +1,4 @@
+User tagging
+As a user I would like to annotate/label/tag/interpret digititzed objects to enhance them for discoverability. I think there are two stories here because labeling/tagging may be different from As a user I would like to interpret digitized objects that have hand written notes and add my interpretation of what the words say so that others may either discover the objects based on the additional data or others may correct or use for own research.
+Needs to be clearly labeled in the UI that this content is user-contributed and not coming from the library.
+Scoping this to be just tagging, annotations are covered in #147 

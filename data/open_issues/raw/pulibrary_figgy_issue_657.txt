@@ -1,0 +1,5 @@
+Date or date ranges should be required for Ephemera Folders
+This may have been originally featured in pulibrary/plum
+Ask if we can just have a toggle for ranges - is there ever a time they need both?
+And if they need both, what is the intention?
+Proposal: Date is visible on the form as a required field, with a toggle for "date range". That toggle would reveal an "end" field.  Get feedback from POs on this idea.

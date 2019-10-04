@@ -1,0 +1,2 @@
+Ensures that users can delete Ephemera Folders when editing
+Resolves #376 by exposing a "Delete" button within the form used for editing:

@@ -1,0 +1,2 @@
+use Hyrax work icon when no representative
+HELIO-2497

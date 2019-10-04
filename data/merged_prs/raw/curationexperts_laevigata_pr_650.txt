@@ -1,0 +1,2 @@
+Edit spec
+@jenlindner Please review   I moved some of your tests out of the edit_etd_spec and into the create_etd_spec.  They seemed to fit better there.   I filled in the checks for most of the fields on the 'About Me' tab - checked that the field contains the correct data, and that the field isn't disabled.   There are still a lot of TODOs in the spec, but I want to merge this part of the work into master before we work on the rest of the story.

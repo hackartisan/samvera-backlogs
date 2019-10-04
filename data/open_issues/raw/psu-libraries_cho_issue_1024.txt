@@ -1,0 +1,2 @@
+Widget to Search PSU Users for Metadata Edit Form
+When adding collection editors and collection submitters, it would be nice to have a search widget on the field that queries PSU users. This would also be useful for assigning access_rights to individuals and groups (assuming AD and UMG groups would also show up). Enhancement to #684 and #1022 Related: #789

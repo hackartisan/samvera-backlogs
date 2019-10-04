@@ -1,0 +1,2 @@
+Don't check members twice in ManifestBuilder.
+Should halve our manifest build times, bringing them back to where they were before playlists.

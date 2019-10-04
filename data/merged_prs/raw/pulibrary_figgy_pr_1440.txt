@@ -1,0 +1,2 @@
+Add collections to metadata display for media resource
+fixes #1416

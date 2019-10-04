@@ -1,0 +1,2 @@
+generate IIIF manifest from ManifestBuilderService
+This allows manifests to be created outside of the HTTP request cycle.

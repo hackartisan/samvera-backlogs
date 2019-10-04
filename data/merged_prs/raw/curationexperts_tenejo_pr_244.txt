@@ -1,0 +1,2 @@
+Add Hyrda Role Management UI
+There is a UI for this but it needs to be configured in the Ability class. There are no links to the UI so one needs to be added to the dashboard. Connected to #243

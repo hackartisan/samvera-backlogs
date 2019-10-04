@@ -1,0 +1,2 @@
+Make sure we don't create a batch with the same ID 
+...as an another existing object (e.g. we don't overwrite a GenericFile)

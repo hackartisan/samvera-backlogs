@@ -1,0 +1,2 @@
+Create dropdown for sets
+Fixes #701 indirectly.  Hard-codes a new ingest form group for collections (set and primary set) to use a dropdown instead of a text input.  The code is very special-case, and we'll probably want a better way to handle dropdowns more generally, but this will almost certainly deal with set typos, as nobody can directly type now. This PR also does a little housekeeping on docker testing, which could be put into its own PR if desired; I just found some issues when testing that needed to be addressed.

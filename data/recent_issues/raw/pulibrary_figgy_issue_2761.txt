@@ -1,0 +1,2 @@
+[Figgy/staging] NoMethodError: undefined method `first_range' for nil:NilClass
+Backtrace line 46 of [PROJECT_ROOT]/app/resources/coins/orangelight_coin_builder.rb: document_hash line 11 of [PROJECT_ROOT]/app/resources/coins/orangelight_coin_builder.rb: build line 13 of [PROJECT_ROOT]/app/services/orangelight_document.rb: document  View full backtrace and more info at honeybadger.io

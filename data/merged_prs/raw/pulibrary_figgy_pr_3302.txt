@@ -1,0 +1,2 @@
+Bulk Ingest Updates
+Support the replaces attribute Move BibID-guessing to BulkIngestController, to allow command-line ingest of items without BibIDs

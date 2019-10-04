@@ -1,0 +1,2 @@
+Extract IiifUrlService to a helper object
+Meant to support polymorphism when we allow various types of image service sources Won't commit without review, but going to use this as a base for dzi branch

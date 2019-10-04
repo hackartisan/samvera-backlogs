@@ -1,0 +1,2 @@
+assigning the creator a second time to preserve order
+refs #730

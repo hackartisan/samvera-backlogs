@@ -1,0 +1,2 @@
+Removes legacy ETD banner
+This commit removes legacy ETD banner from search results pages Closes emory-libraries/etd-issues#77

@@ -1,0 +1,1 @@
+Change "Vocabulary" label when editing a Vocabulary to say "Category", add help text.

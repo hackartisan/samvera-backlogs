@@ -1,0 +1,2 @@
+Appending "?f" to a number of urls causes a 500 error.
+Visit an arbitrary URL for a collection or work URL (e.g. https://staging.digital.sciencehistory.org/collections/9k41zd965 . ) If you add the string "?f" to the URL, you'll trigger a 500 error. This happened in production recently.

@@ -1,0 +1,2 @@
+Allow people who aren't studio staff to use save-and-ingest
+Right now, save-and-ingest looks under the Studio's staging directory. Should we allow other people to put files there, or have Figgy look in other locations?

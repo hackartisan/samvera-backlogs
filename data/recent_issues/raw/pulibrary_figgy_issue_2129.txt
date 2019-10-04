@@ -1,0 +1,2 @@
+Form field groups?
+The existing numismatics UI has a very dense form, with many grouped fields.  Presenting these as a long, flat list of fields will make the form difficult to navigate.  Do we want to add some way of grouping fields to improve navigation?

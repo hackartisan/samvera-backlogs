@@ -1,0 +1,2 @@
+Dltp 484 change some of the data indexed and exposed in the finding aid object
+Add creator to display on the finding aids page @fd99040bb5441c44501a926d0b7a071ac0385ef5 Add dc:source to Finding Aid add, edit, and view @6e134895ac18867978706934465ebf259d599e8c Fix indentation error @d4b113f9d9d504f65f0b63377aa1631c6bab3917 Make indexing work on field "Source" @e2d6950be9a0bba4130710aa425880f376fb289e

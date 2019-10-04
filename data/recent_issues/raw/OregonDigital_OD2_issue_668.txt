@@ -1,0 +1,2 @@
+Export metadata + assets in zip
+Descriptive summary As part of #644, a work should be able to export its metadata and derivatives as a zip file. Use the work from #666 to grab the CSV metadata and zip it together with derivative files. If grabbing source files is not a pain, use this ticket to do the same thing for the originals. Otherwise open a new issue. Expected behavior A work can provide a file pointer to a temporary zip export. For now, ignore file clean up and we'll deal with it in #667. Related work Child of #644 Relies on #666 Accessibility Concerns None

@@ -1,0 +1,3 @@
+Create nested attributes for preservation events
+Nested class should be called PreservationEvent, and have three attributes:   type  timestamp  notes
+@alexBLR here are additional properties that may be needed for Events. Let me know if you want to discuss or prioritize these. https://docs.google.com/spreadsheets/d/1Z0ebRLaPa4bEJayvTiqwU4ulFglWrpQPgVX6r6v29uY/edit#gid=497852377 

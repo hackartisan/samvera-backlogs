@@ -1,0 +1,2 @@
+Shapefiles with parenthesis in their filenames don't characterize properly
+This is a hypothesis that needs confirmation. An example filename: Main_Economic_Indicators_of_Industrial_Enterprises_in_Manufacture_(Part_2).zip  Might be related to #2273 Also, files names that are too long cause issues. Not sure of the cutoff. Will need to experiment.

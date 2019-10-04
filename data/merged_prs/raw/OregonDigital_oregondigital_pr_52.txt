@@ -1,0 +1,2 @@
+Feature/collection facets
+Adds collection facets and makes it display as their title if available.

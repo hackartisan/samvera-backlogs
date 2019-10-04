@@ -1,0 +1,2 @@
+Add raster and vector resource types to graphql
+fixes #1505 fixes #2614

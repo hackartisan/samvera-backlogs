@@ -1,0 +1,2 @@
+Update bulk_update_csv.rake
+fixes #1895

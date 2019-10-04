@@ -1,0 +1,2 @@
+Include local HLS.js
+Closes #3005

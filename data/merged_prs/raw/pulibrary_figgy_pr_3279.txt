@@ -1,0 +1,2 @@
+Fix viewer empty space.
+This has no empty space if there's no title meant to be displayed (playlists only), and fixes the height if the title -is- displayed. Closes #3249

@@ -1,0 +1,2 @@
+Rename sample database names
+Description This is purely cosmetic since all the database configuration is local only. Why was this necessary? "choish" was a previous name and shouldn't be used anymore. Changes Are there any major changes in this PR that will change the release process? No, however, if you rebuild your local environment, you may need to create new databases with these names. Checklist   i18n enabled  adequate test coverage  accessible interface

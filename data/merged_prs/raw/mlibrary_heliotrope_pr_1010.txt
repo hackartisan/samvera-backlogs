@@ -1,0 +1,1 @@
+Resolves #1009 /dashboard noMethod (user.total_file_views) error

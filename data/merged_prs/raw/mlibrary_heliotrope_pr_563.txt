@@ -1,0 +1,2 @@
+fix fulcrum footer link colors
+bug fix to make the fulcrum links in the minnesota footer visible.

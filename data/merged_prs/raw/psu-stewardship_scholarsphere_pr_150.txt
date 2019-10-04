@@ -1,0 +1,2 @@
+Remove DashboardController, addresses #125
+DashboardController is now fully in Sufia. So remove it and its unit tests, but leave a feature test for future-proofing.

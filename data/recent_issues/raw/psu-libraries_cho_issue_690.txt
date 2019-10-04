@@ -1,0 +1,2 @@
+File Storage Strategy
+Need to determine the file storage strategy for CHO. This is NOT the external file store for purposes like preservation, this is primary storage for the application. Exporting bags is NOT part of this ticket. This includes  how CHO is internally naming, organizing, and storing files (Pairtree?) thumbnails? cleaning up files from the import process (successful and unsuccessful imports, including transactions) CRC32 or MD5-based error checking on every content file on every move Isilon as NFS mount or Isilon SDK/Rest API or Isilon SDK Python

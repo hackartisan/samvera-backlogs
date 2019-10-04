@@ -1,0 +1,2 @@
+Use REDIS_HOST and REDIS_PORT, if set, in dev and test 
+(needed for my docker-compose.yml to work)

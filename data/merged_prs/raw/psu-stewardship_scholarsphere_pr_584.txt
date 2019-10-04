@@ -1,0 +1,2 @@
+Fixes alignment of number and work title in search results
+Overrides the render_document_partials to move the <h2> out of the Bootstrap row to align the work title with the numbered list number. Fixes #581

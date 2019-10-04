@@ -1,0 +1,7 @@
+Enable typeahead for academic units in form. (QA for Opaquenamespace)
+need typeahead for academic units in the form
+want to make this work from the ONS jsonld and use rails cache store.
+Per our discussion. Uses `ServiceBasedAuthority` which hits cached JSON-LD and parses it similar to `FileBasedAuthority` to make typeahead do its thing.
+@straleyb is this completed? i'm not seeing this functionality in SA@OSU right now, but maybe i'm missing something. 
+@simholt any sense for how important it seems to have typeahead on academic units?
+@vantuyls   Not super-important. It would be nice but the drop-downs function fine. 

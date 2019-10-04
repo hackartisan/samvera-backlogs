@@ -1,0 +1,2 @@
+Dltp 618 i want google scholar to be abl
+Merge branch 'master' into DLTP-618-I-want-Google-Scholar-to-be-abl @4834c012aa121157111b7be5e9f4cbb74583eeba Correct "publication_date" method to simply "date" @bd39293748d49382b65d1142374fed86424d62c9 ETD's do not have a publication date. Should have been using the defense date (date) instead.

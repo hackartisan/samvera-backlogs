@@ -1,0 +1,2 @@
+db:seed fails on first deploys
+The db:seed action (task?) uses the path /home/app/curatend/current instead of /home/app/curatend/releases/ , which runs it on the last successfully deployed version instead of the version being deployed; it also means that it will fail the first time a capistrano run is deployed on that machine. This doesn't show up on our long-established staging, pre_prod and prod machines, but it does on any new-constructed curatend  box.

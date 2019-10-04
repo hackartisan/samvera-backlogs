@@ -1,0 +1,2 @@
+Handles ArgumentError for invalid UTF-8 byte in .csv
+Co-authored-by: Brendan Quinn brendan.quinn@northwestern.edu

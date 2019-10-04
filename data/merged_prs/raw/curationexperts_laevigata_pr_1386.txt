@@ -1,0 +1,2 @@
+js/display saved embargo
+This commit ensures saved embargo data is displayed to the user, and sets up the embargo flag parameter the  ETD controller current expects. If a user selects an embargo length and saves it, then changes their school to one which doesn't provide their saved embargo length, the embargo tab length select displays the 'choose a length' option.

@@ -1,0 +1,2 @@
+Pull in curation concerns fix to allow sharing on creation, closes #462
+closes #462

@@ -1,0 +1,2 @@
+hide fixity/file info from all but admin users
+we've decided that fixity info/checksums won't be useful for most of our users, so they're hidden to all but admins. general users (file_set view)  admin users (file_set view)   closes #210

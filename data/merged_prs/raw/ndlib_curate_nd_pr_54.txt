@@ -1,0 +1,2 @@
+Deploy to staging 1003
+The test is failing right now. But the commit #a6786b40e5a073d1eba5299d0cac23a7f762053d in Curate should resolve this.

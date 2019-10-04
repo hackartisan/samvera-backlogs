@@ -1,0 +1,1 @@
+AMS2-487 fixes namespace issue and restarts sidekiq

@@ -1,0 +1,2 @@
+Downloads improvements
+full size JPG powered by riiif riiif_image_url helper live download links in viewer  Closes #635

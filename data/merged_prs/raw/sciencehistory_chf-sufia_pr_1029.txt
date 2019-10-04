@@ -1,0 +1,2 @@
+Update label before index
+Here's a naive attempt to fix #428. Mostly submitting this as an exercise; I don't claim to know exactly what I'm doing.

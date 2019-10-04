@@ -1,0 +1,2 @@
+Add UTF-8 Byte-Order-Mark to CSV files?
+See https://github.com/pulibrary/orangelight/pull/1491/files#diff-dfb6f1f1b681adb17aeaef26d931880bR36 Adding the Byte-Order-Mark allows applications like Excel to know that the CSV file is UTF-8 instead of ASCII.

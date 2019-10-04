@@ -1,0 +1,1 @@
+Add the log directory into git, but ignore the log files. Fixes #35

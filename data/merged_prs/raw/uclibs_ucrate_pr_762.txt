@@ -1,0 +1,2 @@
+Updates Chinese and Spanish translations.
+Synchronizes the hyrax.en.yml, hyrax.es.yml, and hyrax.zh.yml files to account fo the Parent-CHild updates.

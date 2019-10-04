@@ -1,0 +1,2 @@
+parse language from ldr title
+so that A very good title_<en>  becomes RDF::Literal.new('A very good title', language: :en) closes #112

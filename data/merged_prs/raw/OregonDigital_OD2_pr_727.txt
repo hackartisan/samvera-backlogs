@@ -1,0 +1,2 @@
+Search List/Gallery view: Metadata field limiting
+Fixes #687  Limit search shown fields Break up max_value and max_value_label pipeline steps Limit description to 1 value

@@ -1,0 +1,2 @@
+Align _js_templates.html.erb with changes upstream from sufia 7.3
+I noticed this file did not get upstream changes in the 7.3 upgrade while investigating for #638. I don't think this was in any way related to that issue, nor do I think we had other bugs, but these changes have been incorporated upstream (with minor variation) so it's better to realign.

@@ -1,0 +1,2 @@
+Use change matcher in failing reindexer spec
+Hopefully fixes intermittently failing reindexer spec. 🤞 Working locally with a consistently failing rspec seed. Addresses #2838

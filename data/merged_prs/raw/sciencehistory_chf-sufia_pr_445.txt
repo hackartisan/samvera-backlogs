@@ -1,0 +1,1 @@
+link fields in record show page, closes #441

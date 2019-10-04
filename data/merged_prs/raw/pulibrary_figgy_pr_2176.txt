@@ -1,0 +1,2 @@
+Adding Numismatic Accessions
+Fixes #2126  Alternative to #2164 that doesn't depend on #2131 Reorganizes files in new resources layout

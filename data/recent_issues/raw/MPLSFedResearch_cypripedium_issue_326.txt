@@ -1,0 +1,2 @@
+log rotation for rails
+Ensure all rails logs are being rotated so they don't get huge and unwieldy  rails is logging as expected  Child of #298

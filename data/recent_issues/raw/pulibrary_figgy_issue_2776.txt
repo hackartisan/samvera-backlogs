@@ -1,0 +1,2 @@
+Convert citations and artists to nested forms
+Add citations and artist nested forms to NumismaticIssue and citation nested forms to Coin.

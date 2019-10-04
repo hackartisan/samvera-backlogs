@@ -1,0 +1,2 @@
+Remove preferring hidden label.
+This was making whatever was returned from typeahead the authoritative label.

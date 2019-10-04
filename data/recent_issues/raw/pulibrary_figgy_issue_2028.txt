@@ -1,0 +1,2 @@
+Issues should have manifests
+Child of #2025

@@ -1,0 +1,2 @@
+HELIO-2055 and HELIO-2056 - modify monograph meta tags
+Resolves HELIO-2055 and HELIO-2056, adding correct publisher meta tags, listing all ISBNs, and correct publication date.

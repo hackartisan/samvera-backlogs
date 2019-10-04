@@ -1,0 +1,2 @@
+Make import_work a virtual property
+Description Using Reform's virtual property features, we can make import_work defined as a property on the change set only, and not pass it on to the resource. Connected to #582

@@ -1,0 +1,2 @@
+Log errors in cache retrieval
+Bendo::Services::FileCacheStatus does not log anything when there is an error checking the cache status of an item in Bendo. One approach would be to always log the response from Bendo using logger.debug and raise the log level to logger.warn if there is an error response. Suggested by @dbrower

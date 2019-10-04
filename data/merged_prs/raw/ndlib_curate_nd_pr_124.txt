@@ -1,0 +1,2 @@
+Alter puppet class to use usual nginx config for staging machines
+There were two nginx configuration files, one for prod and pprd and a second for staging. This done to open port 8088 to solr only on staging machines. This change moves the solr port info into its own configuration file, and then only installs that file on staging machines. End result is the same thing. But now the main config is not duplicated.

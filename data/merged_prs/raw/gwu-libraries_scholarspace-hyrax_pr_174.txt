@@ -1,0 +1,2 @@
+Patch to avoid timeouts when reindexing
+As suggested in https://gist.github.com/cjcolvar/8f0485e3cf88307228447726b6b55dd3 .  Fixes #173 .

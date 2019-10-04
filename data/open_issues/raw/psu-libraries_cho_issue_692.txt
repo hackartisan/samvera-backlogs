@@ -1,0 +1,3 @@
+Configure solr stop words and synonyms
+Synonyms, in particular, should be updated for Penn State and regional terms. https://github.com/psu-libraries/cho/tree/master/solr/config
+Related: #206

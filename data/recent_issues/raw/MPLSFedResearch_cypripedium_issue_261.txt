@@ -1,0 +1,2 @@
+Unexpected export Error
+ISSUE Sometimes, but not always, I'm getting an error when trying to export a bag.  See screenshot from cypripedium-cd (logged in as mark@curationexperts)

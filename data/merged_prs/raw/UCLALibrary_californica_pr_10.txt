@@ -1,0 +1,2 @@
+Restart apache after a cap deploy
+Capistrano passenger restart isn't working consistently, so restart apache2 after a successful deploy, to ensure changes are picked up.

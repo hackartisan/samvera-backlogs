@@ -1,0 +1,2 @@
+Handles cases where invalid source metadata IDs are provided for new resources
+Resolves #2641

@@ -1,0 +1,2 @@
+Unable to ingest the following LAE barcode: 32101086454848
+It throws solr errors when it tries.

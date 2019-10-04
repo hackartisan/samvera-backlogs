@@ -1,0 +1,2 @@
+Prefixing parent_issue_indexer fields
+Fixes #2165

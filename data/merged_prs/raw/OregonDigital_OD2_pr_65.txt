@@ -1,0 +1,2 @@
+adds application version to OD2 for use by system and deployment
+fixes #56

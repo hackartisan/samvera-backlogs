@@ -1,0 +1,2 @@
+Updating locabulary
+$ bundle update locabulary Related to DLTP-794

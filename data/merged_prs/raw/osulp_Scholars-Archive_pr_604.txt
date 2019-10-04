@@ -1,0 +1,2 @@
+Revert "Feature/geo fields"
+Reverts #567

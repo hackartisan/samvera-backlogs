@@ -1,0 +1,2 @@
+Synchronize Start Download for Show Page
+Completes https://jira.library.nd.edu/browse/DLTP-1713 Moves download button logic to a new partial, in order to incorporate common bendo recall logic into button from both work show and file show pages.

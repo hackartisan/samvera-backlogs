@@ -1,0 +1,2 @@
+Fix identifier handling for ephemera
+Fixes #3352 3352

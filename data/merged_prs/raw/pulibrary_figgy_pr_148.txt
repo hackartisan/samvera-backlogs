@@ -1,0 +1,2 @@
+Import from Plum
+Works for importing Scanned Resources and MVWs from Plum. Imports:  Metadata Collections Thumbnail Settings Files/Derivatives Characterization Data (Width/Height)

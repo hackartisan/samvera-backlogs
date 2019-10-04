@@ -1,0 +1,3 @@
+Why do collections have visibility?
+Related to #3363. Why do collections even have a visibility setting?
+Possibly related to the archival media bag work. The original archival media bag objects had visibility I think. Not sure that we still need it, though.

@@ -1,0 +1,2 @@
+Upgrade gems
+Fixes #303 ; refs #303 Upgrade gems go keep dependencies up to date Changes proposed in this pull request:  Update Gemfile  @ucsdlib/developers - please review

@@ -1,0 +1,2 @@
+Load committee info from savedData
+This loads the stored commitee data, so that when you save and come back it's still present in the form. Connected to #1568

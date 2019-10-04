@@ -1,0 +1,2 @@
+Create curate-generic worktype
+Run generator to create the worktype  Create unit tests

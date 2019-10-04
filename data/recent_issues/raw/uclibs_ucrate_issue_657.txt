@@ -1,0 +1,2 @@
+Time Period field on Media work form is not left-aligned
+Descriptive summary On the form for Media work types, the input field and "Add another" link for Time Period are not aligning properly.  Both are shifted to the right for some reason.

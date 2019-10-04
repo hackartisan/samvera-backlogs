@@ -1,0 +1,2 @@
+Add Rose Library users to Curate product
+Group users when adding them. Use the process like we have in place for the Admin YAML file. See the worksheet: Groups and Users tab for epic #275.   YAML File for repository-wide group: Repository Managers  YAML file for each Rose user group: Rose Managers, Rose Viewers, Rose Depositors  Add users to each YAML file  Setup rake task to create group if missing, and add users to the group

@@ -1,0 +1,2 @@
+Upgrade to dor-services 7
+Fixes #314

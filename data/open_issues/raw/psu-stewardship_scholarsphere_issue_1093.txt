@@ -1,0 +1,3 @@
+Search terms disappear
+As a user if I search for 'Plants' and select 'All of ScholarSphere' the term 'Plants' is still in the search term field (as expected). If I then select 'My Works' to narrow my search and click 'Go' the results are displayed (as expected), but the term 'Plants' disappears from the search term field (which is not expected).
+@DanCoughlin Can you double check if this is still an issue?

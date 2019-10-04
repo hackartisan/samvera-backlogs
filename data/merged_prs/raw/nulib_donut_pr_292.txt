@@ -1,0 +1,2 @@
+use file_set_ids instead of member_ids
+Fixes nulib/next-generation-repository#517  use object.file_set_ids instead of object.member_ids to identify FileSets as member_ids may contain child works.

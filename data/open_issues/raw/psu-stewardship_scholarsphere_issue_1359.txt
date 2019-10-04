@@ -1,0 +1,2 @@
+Investigate if we can block bots from downloading zips, while allowing binaries
+Stop the bots from downloading while allowing other scripts access.  Can this be done?

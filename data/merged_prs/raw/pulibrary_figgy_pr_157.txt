@@ -1,0 +1,2 @@
+Speed up Figgy
+Runs more efficient queries in decorator. Ensures prepopulate! doesn't mess up dirty tracking.

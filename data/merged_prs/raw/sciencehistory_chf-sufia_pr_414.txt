@@ -1,0 +1,2 @@
+Remove file hint
+Formerly "A PDF is preferred" Closes #286 I was not able to actually find where the upload a new version is in the UX, although I know I found it last week! So have not confirmed, but pretty sure this will remove the prompt.

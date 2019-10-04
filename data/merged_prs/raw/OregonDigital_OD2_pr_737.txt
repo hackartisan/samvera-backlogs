@@ -1,0 +1,2 @@
+Clean up after searchbox links
+Fixes #598  homepage background opacity link colors to black link text-shadows  Homepage links:  Non-homepage:

@@ -1,0 +1,2 @@
+Feature/contrib org
+Add institutions to metadata.  This closes #122.

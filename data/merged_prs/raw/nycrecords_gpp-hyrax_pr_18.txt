@@ -1,0 +1,2 @@
+Feature/GPP-297: Add to report type
+Adds following report types as options: Note: Biennial was already existing  Reports - Biannual Reports - Every 4 Years Reports - Every 5 Years

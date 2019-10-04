@@ -1,0 +1,1 @@
+Addresses #1330 Accessibility Contrast Issues.

@@ -1,0 +1,2 @@
+Updating a version of a file in a file set does not update the title
+Give I have an existing file set with a title When I update the version of the file in the file set And the filename is different Then I should see the title of the file set change to reflect the new filename Currently, the file set title, which is first set to the filename of the initial uploaded file, does not change if the file version changes and the filename is different.

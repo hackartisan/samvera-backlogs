@@ -1,0 +1,2 @@
+Removes the delete work link from the drop down.
+This change removes the ability to delete a work from the edit page of a collection.

@@ -1,0 +1,2 @@
+Allow creators with no roles to index correctly
+Description Corrects a bug with creators that have no role specified in their csv file. Connected to #736

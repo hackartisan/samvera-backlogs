@@ -1,0 +1,2 @@
+Recently uploaded box - remove depositor
+Can we remove the Depositor from the Recently Uploaded box on the home page? Question: What do the key words do? Can we replace the placeholder (like for the top two items below) with something else?

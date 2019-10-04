@@ -1,0 +1,2 @@
+Index latitude and longitude into a single field for display. Story ursus#22
+We want to display latitude and longitude as a single field, so I added a solr index with the data in the format that we want to display in Ursus. Connected to UCLALibrary/ursus#22

@@ -1,0 +1,1 @@
+AMS2-536 fix css for more options button on search bar

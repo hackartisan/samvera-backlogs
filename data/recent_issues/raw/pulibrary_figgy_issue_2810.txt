@@ -1,0 +1,2 @@
+Schedule a full reindex on a frequent / regular basis
+So we can see any errors in honeybadger and improve the index-ready state of the data.

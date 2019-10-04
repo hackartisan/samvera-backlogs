@@ -1,0 +1,2 @@
+Playlist Manifest should use ProxyFileSet labels for titles of canvases, not FileSet label.
+Child of #2066

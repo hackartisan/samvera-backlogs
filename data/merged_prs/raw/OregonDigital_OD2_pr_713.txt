@@ -1,0 +1,2 @@
+Search list view: Move work title over
+Fixes #680 New:  Old:

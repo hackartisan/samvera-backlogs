@@ -1,0 +1,2 @@
+Move CalifornicaPoppy image to app/assets/images and use it in README
+Connected to #323

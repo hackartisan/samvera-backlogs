@@ -1,0 +1,2 @@
+Investigate possible changes to Extracted Text file use (Emory vs. Hyrax)
+Emory team realized that Hyrax is generating its own extracted_text file use which is using the same predicate. We need to decide if we should create another, distinct File Use to house Emory's extracted text files with a unique predicate to ensure we aren't colliding with Hyrax functionality. Emory's extracted_text files will tend to be proprietary OCR files (.xml and .pos) which are intended to be download-only; unclear what Hyrax expects.

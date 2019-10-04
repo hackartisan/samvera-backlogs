@@ -1,0 +1,2 @@
+[WIP] Refactor error logs handling
+Resolves #173  Use Rails application logs instead of STDOUT Will help tracking survey controller bug #158  @yf508 I have not tested this on my local dev.

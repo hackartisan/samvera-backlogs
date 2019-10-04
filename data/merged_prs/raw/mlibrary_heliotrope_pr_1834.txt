@@ -1,0 +1,1 @@
+HELIO-1833 only production should be indexed by search engines

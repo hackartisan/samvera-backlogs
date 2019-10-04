@@ -1,0 +1,2 @@
+ This is a combination of 8 commits.
+Trying this pull request thing again: DLTP-9 - refactor based on JF feedback. Cleanup linebreaks/spacing DLTP-51 - Used css to format whitespace within abstract text. Used js to add links when url found through regex on abstract text. DLTP-52 - Working with update to curate gem to get a proper label to show up on the button.

@@ -1,0 +1,2 @@
+removed extra w in url
+Just a quick fix on a url typo in the About page. @jrochkind I don't think this needs a review.

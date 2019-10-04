@@ -1,0 +1,2 @@
+Add convenience methods for nested struct maps
+This patches the multires_image_file_paths method to also search nested struct maps to support chapel recordings. A new method -- nested_struct_map_docs() -- can be used to access documents defined in nested structural metadata by type. nested_struct_map_docs("Document") would return all the documents with the type "Document" in the struct map. This is probably better implemented in ddr-models once we have a clearer idea of how other kinds of nested structural metadata will be formatted.

@@ -1,0 +1,2 @@
+create a basic login options page to be used for gabii
+Resolves #728 NOTE: There are some hardcoded things in here that are not good, but I figure once we have a new restricted resource we can revisit that. I left a set of TODO's for work after Gabii, but this should cover what we need for March 29.

@@ -1,0 +1,2 @@
+Rake task to fix license
+Note that this is a temporary measure and this rake task should not stick around past early 2019. Connected to UCLALibrary/amalgamated-samvera#216

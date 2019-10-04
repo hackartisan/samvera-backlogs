@@ -1,0 +1,2 @@
+added other affiliation local authority
+fixes #958 Screenshot for new form (other_affiliation):  Screenshot for edit form (other_affiliation):  Screenshot for new/edit form (validation of new "Other" entries)

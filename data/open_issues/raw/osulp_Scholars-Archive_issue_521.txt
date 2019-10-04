@@ -1,0 +1,2 @@
+Readme Builder from Dataset Ingest
+As a data manager, it would be useful for some of the entered metadata feed into a readme.txt file for the dataset.

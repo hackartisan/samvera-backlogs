@@ -1,0 +1,2 @@
+Fix error caused by not selecting school and refreshing
+This needed an extra check to make sure that it wasn't storing 'undefined' in the browser storage. Connected to #1937

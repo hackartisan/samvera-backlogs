@@ -1,0 +1,2 @@
+Adding rudimentary announcement system
+The idea is that an adminstrator would be able to go into the Admin section and create an Announcement that would then be displayed during the specified time frame. A user could then dismiss the announcements (assuming they were logged in)

@@ -1,0 +1,3 @@
+UV download link for the full page doesn't work
+It has figgy_prod in the link twice.
+dup of https://github.com/pulibrary/figgy/issues/2030

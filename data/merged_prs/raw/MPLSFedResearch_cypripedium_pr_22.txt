@@ -1,0 +1,2 @@
+Mount sidekiq UI
+Closes #21

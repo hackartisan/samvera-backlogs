@@ -1,0 +1,2 @@
+Next page displays when there is none
+This is occurring on the dashboard and the catalog. At the bottom of search results, there are set of links for Previous, Next, and page numbers. If you're on the last page of results, the link for Next will still be active when it should not. The same problem occurs in dashboard results at the top grouping of links as well.

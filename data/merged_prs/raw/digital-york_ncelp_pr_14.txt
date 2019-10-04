@@ -1,0 +1,2 @@
+Search result page
+First draft version of search result page:  facet defined resource display layout helper class to find icon for each file type

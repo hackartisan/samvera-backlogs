@@ -1,0 +1,3 @@
+Failures or warnings from background jobs should be surfaced in the UI
+Users are unable to access logs or Sidekiq, but would like to know if they need to reingest, so errors should be surfaced in the UI.
+Types of Jobs:  - [ ] AV Bag Ingest Job (#638) - [x] Derivatives Job (#1411) - [x] Fixity Failures (Fixity Dashboard) (#890, #895) - [ ] BrowseEverythingIngestJob (#638) - [ ] CharacterizationJob (#1552)

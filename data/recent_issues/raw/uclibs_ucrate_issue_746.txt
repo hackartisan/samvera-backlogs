@@ -1,0 +1,2 @@
+Adds doi field to the works manifest
+Descriptive summary The works manifest is missing the doi field. Expected behavior When I generate the works manifest it should contain the doi field. Actual behavior Works manifest is missing the doi field.

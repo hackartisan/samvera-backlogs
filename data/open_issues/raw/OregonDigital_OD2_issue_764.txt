@@ -1,0 +1,2 @@
+Update order of metadata fields on Work Show Page
+Descriptive summary The Metadata Team arranged an order for the metadata fields to display in on a work show page: https://docs.google.com/spreadsheets/d/14xLkWt8KI9jCdlvPrNATgORngJEhXKOCoV0LAew1BQ4/edit#gid=1891520168  (that should be on the Final_Order tab but double check) Expected behavior Work show page has metadata fields displayed in the described order. Related work Somewhat related to #143

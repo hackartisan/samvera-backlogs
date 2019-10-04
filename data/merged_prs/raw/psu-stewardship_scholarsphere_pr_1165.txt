@@ -1,0 +1,2 @@
+Updating local LDAP tests, ref #1163
+The responses from our LDAP server have changed slightly, making the NameDisambiguation test fail. We've updated the tests to correspond with the new output from LDAP. One test is marked pending because the user no longer exists.

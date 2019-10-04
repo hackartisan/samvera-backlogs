@@ -1,0 +1,2 @@
+Build a cantaloupe server for each tenejo instance
+cd  dev  stage  prod

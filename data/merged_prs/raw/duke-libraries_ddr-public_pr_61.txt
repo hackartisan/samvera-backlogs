@@ -1,0 +1,1 @@
+upgrade to ddr-alerts 1.0.0; closes #60

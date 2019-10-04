@@ -1,0 +1,2 @@
+Enable setting of access levels via CSV import
+I should be able to specify the access level of a work during the CSV import. TODO:  make access level the data dictionary term access_rights provide a controlled vocabulary for the different levels: public, PSU access, and private provide a display transformation that takes the access level term in access rights and displays it as a more friendly term, ex. authenticated is displayed as "PSU Access" see #683 for details ensure the work edit forms use the data dictionary term

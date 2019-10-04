@@ -1,0 +1,1 @@
+Searching for adding to recordings breaks "Back to Search"

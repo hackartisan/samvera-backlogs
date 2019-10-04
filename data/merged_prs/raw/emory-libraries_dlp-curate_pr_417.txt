@@ -1,0 +1,2 @@
+Fix for spec passing on PR, but failing on master
+This spec is passing when you make a PR, but failing on the master branch. When failing on the master branch it looks like the page has a different title. Since this spec is about whether or not you can visit the page and not specifically about the title of the page I just changed the spec to work with both.

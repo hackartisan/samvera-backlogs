@@ -1,0 +1,2 @@
+Work Show Metadata List
+Reorders the metadata to match the work form, moves other attributes out of the metadata partial and into the attribute rows partial, and makes adjustment to the spacing of the definition terms.

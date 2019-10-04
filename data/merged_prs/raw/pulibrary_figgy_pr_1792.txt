@@ -1,0 +1,2 @@
+Add missing metadata for WA-WC064
+Work towards #1702 I think this adds the missing photographer field needed for #1588 too.

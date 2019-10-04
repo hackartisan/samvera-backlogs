@@ -1,0 +1,2 @@
+Update the current uploader
+Use the hyrax uploader instead of our custom workflow, but make sure to use the total upload size that is in our interface. refs #835

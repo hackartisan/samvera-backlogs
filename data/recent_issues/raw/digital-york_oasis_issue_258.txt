@@ -1,0 +1,2 @@
+Change to a higher log level for production
+This line doesn't look right because it has caused a huge log file on live server: config.log_level = Figaro.env.log_level == 'debug' ? :debug : :info  Needs to check dev/staging env as well.

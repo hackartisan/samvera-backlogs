@@ -1,0 +1,1 @@
+No need to migrate extracted text since it will just be recreated

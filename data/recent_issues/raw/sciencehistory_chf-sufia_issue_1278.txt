@@ -1,0 +1,2 @@
+Place Digitization Funder field after Credit Line/Additional Credit on front end
+Due to metadata guidelines, in consultation with Hillary, we've decided to move the Digitization Funder field underneath "additional credit" field (or "credit line" when "additional credit" is blank).

@@ -1,0 +1,2 @@
+updated degree_name authority list from Master Degree Name List spreadsheet
+fixes #900

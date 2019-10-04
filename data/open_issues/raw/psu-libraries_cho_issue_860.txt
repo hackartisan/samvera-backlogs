@@ -1,0 +1,2 @@
+Date Facet
+The data dictionary index_type for date fields is EDTF, but we need also date facet, which is set in the same property. EDTF dates and range-based discovery is challenging, many other repositories seem to only have a Decade facet. At the very least we need a regular date facet, ideally it would classify dates into ranges as well, decade and century. At a minimum, we should facet by decade ranges. date_created and date_issued (issued) should be merged into a single date facet. (Facet only, still separate fields for search.)

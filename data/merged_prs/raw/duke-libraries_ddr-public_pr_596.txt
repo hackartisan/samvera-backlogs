@@ -1,0 +1,1 @@
+Update footer links for policies & documentation. Closes DDR-1560.

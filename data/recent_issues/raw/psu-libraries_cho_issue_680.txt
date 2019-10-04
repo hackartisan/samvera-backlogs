@@ -1,0 +1,2 @@
+Rename member_of_collection_ids to home_collection_id
+Rename the method in the data dictionary

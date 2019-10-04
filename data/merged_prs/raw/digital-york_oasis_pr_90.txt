@@ -1,0 +1,2 @@
+Issue 89 spacing problem in publcation field
+fixed #89

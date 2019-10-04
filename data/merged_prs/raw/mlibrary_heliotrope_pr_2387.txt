@@ -1,0 +1,2 @@
+HELIO-2733 - add new feature comparison table to fulcrum services
+adds styles and table for comparing different partnership models.

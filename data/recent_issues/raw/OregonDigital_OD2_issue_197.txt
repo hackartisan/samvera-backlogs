@@ -1,0 +1,2 @@
+Manage oEmbeds dashboard - oEmbed errors tab
+Descriptive summary oEmbed errors tab is rendering an unordered list of errors and the style isn't matching the "All oEmbed Works" tab. Here are some updates that I think would finish this view off. Expected behavior   Update tab title to 'oEmbed Errors', note the capital E in Errors  Use _list_oembeds.html.erb partial as the basis for _list_errored_oembeds.html.erb but render the list with assets_with_errored_oembed instead.

@@ -1,0 +1,2 @@
+Create blank "template" institutionalized collections
+Create ~10 collections with ~10 child collections. To be institutionalized under "NUCATS Grants Repository", and set to "private" visibility. For quicker turn around on institutionalize requests.

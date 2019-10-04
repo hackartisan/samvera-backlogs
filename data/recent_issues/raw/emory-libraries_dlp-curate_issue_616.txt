@@ -1,0 +1,2 @@
+Display all Technical Metadata on View FileSet page
+Expand the display of Technical Metadata on the View FileSet page so that it includes all the metadata extracted by FITS for the Preservation Master File List of technical metadata fields which may be extracted

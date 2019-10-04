@@ -1,0 +1,3 @@
+admin stats page- export to csv fails
+When I go to /admin/stats and  I click on "Export File Metadata" and I choose a start date and I click on "Export File Metadata" Then I should get a csv file downloaded (not an error page)  undefined method `find_by_date_created' for GenericWork:Class I believe this should now be exporting Work and or FileSet metadata.  We should take a look at this...
+May be taken over by the admin dashboard. Not story pointing for now. 

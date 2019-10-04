@@ -1,0 +1,2 @@
+Set the current user when creating works and file sets
+Description Sets the current user when creating works and file sets. Connected to #975 Changes  current user wasn't being applied to the change set even if it did have the method available current user also needed to be applied to file sets created in transactions current user should be passed along during csv import

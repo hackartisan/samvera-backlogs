@@ -1,0 +1,1 @@
+set the default database pool size to 50 for staging and production

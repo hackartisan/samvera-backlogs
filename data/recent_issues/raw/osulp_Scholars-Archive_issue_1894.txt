@@ -1,0 +1,2 @@
+Unexpected HTTP500 error related to view
+This needs fixing: method=GET path=/collections/1n79h965k format=html controller=Hyrax::CollectionsController action=show status=500 error='ActionView::Template::Error: undefined method 'guest_username_authentication_key' for #<Hyrax::CollectionsController:0x00007f6ea8323480>

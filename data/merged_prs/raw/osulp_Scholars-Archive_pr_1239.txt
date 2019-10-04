@@ -1,0 +1,2 @@
+allow creating works without files for admin users
+added admin check !current_user.admin? (user not an admin) in the form progress (default value for work_requires_files is true), so the view should skip the file requirement if the user is not an admin: <% if Hyrax.config.work_requires_files? && !current_user.admin? %>

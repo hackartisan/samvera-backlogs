@@ -1,0 +1,2 @@
+Allow detaching multiple Playlist Items at once.
+Closes #2716

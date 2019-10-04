@@ -1,0 +1,2 @@
+Add script to make solr catalog
+Bash script will download some information about every item stored in a solr core into a CSV file. Pulls some metadata so the catalog can be used for planning remediation and exporting efforts.

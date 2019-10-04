@@ -1,0 +1,2 @@
+Representative imagery
+Upload file to the public directory via ssh with the same name as the id, ex. pstma_mld.jpg. If no file exists, then nothing is shown. Put under one directory such as public/collection_images Child of #483

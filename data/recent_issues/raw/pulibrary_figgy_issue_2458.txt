@@ -1,0 +1,2 @@
+Permissions not working correctly
+All-hands feedback: staff users can't download TIFFs

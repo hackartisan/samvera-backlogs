@@ -1,0 +1,2 @@
+Can the A/V reorganization work for ScannedResources too?
+We have the ability to automatically reorganize A/V resources when the finding aid changes.  Can we use the same approach to allow reorganizing ScannedResources when finding aids change?

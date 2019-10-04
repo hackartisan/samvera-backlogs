@@ -1,0 +1,2 @@
+configure rdf_label to handle geonames
+Fixes: nulib/next-generation-repository#601  adds ::RDF::Vocab::GEONAMES.name to the rdf_label configuration so geonames can find labels in Subject Geographical

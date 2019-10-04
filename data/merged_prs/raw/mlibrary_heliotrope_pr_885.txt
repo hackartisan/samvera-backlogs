@@ -1,0 +1,2 @@
+embed controller serves full-page assets for iframes
+Resolves #836

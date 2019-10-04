@@ -1,0 +1,2 @@
+Updating locabulary for new departments
+$ bundle update locabulary DLTP-570

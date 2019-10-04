@@ -1,0 +1,2 @@
+Allow users to select collections when during bulk ingest
+Closes #1357

@@ -1,0 +1,2 @@
+Implements Sidekiq jobs for cleaning dead queues, deleting old guest users, and old searches
+Resolves #576 by introducing jobs for cleaning dead Sidekiq Queues, old guest user accounts, and old Blacklight searches

@@ -1,0 +1,2 @@
+load derivatives_path,libreoffice_path,redis_namespace from Figaro
+resolves #124

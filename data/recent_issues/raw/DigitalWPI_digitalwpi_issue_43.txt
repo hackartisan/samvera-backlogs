@@ -1,0 +1,2 @@
+Enable video transcoding
+digitalwpi/config/initializers/hyrax.rb                    Line 69       in       e8a5335                                                     # config.enable_ffmpeg = false                     Also, look at other features and recommend which features we might need to turn on.

@@ -1,0 +1,2 @@
+Resolve findings from the annual penetration assessment
+Descriptive summary Dennis is looking into the vulnerabilities found in a recent scan.  Very possible these are false positives based simply on the version of Apache that is being reported.

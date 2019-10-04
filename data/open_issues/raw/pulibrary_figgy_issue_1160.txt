@@ -1,0 +1,3 @@
+Don't display OCR in manifest if the ocr_language property is no longer set
+This happens if someone accidentally sets ocr_language, OCR runs, and then they unset it.
+I'm not certain that I understand this properly, or if this is simply an old issue.  I'm not able to replicate this with https://github.com/pulibrary/figgy/compare/issues-1160-ocr-manifest?expand=1

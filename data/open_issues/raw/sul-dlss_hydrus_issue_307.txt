@@ -1,0 +1,2 @@
+Avoid overriding Dor::WorkflowDS
+Instead implement workflow_step_is_done as a service.

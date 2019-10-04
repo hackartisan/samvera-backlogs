@@ -1,0 +1,2 @@
+Add partnering agencies to the admin CSV report
+Rollins school admins asked to add partnering agencies into the report. I modified the rake task and added partnering agencies as a part of the report. The docs haven't changed because the options for the rake command haven't changed.

@@ -1,0 +1,2 @@
+Mysql configuration for test on local and for travis-ci plus production as well. Connected to: #20
+Connects #20

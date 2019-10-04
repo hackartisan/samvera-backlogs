@@ -1,0 +1,2 @@
+Increase the test coverage of passwords_controller.rb
+Fixes part of #186 https://github.com/uclibs/ucrate/blob/develop/app/controllers/devise/passwords_controller.rb#L17

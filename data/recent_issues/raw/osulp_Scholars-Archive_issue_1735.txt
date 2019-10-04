@@ -1,0 +1,2 @@
+Collection description metadata not appearing on the Collection landing page
+Descriptive summary When one adds metadata in the Collection Description field for a Collection, the description doesn't appear on the showpage for the collection. This works on Nurax, so it seems to be something we did. Expected behavior metadata added to a collection shoudl appear on the collection showpage (unless we say not to show it in config somewhere) Actual behavior metadata does not appear on collection showpage

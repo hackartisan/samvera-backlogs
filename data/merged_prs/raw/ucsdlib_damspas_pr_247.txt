@@ -1,0 +1,2 @@
+Fixes #243 -- Removed custom "AddThis" CSS
+Removed the custom CSS we had in place to override the look of the previous version of the AddThis share button we were using on the Collections and Objects views.

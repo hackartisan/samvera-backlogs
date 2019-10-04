@@ -1,0 +1,3 @@
+[WIP] Get scholars-test working on Beavernetes
+Descriptive summary As the first step towards moving staging to Beavernetes, we need to get sa-test up and running. https://rancher.library.oregonstate.edu
+Most services have been spun up inside the `sa-test` namespace on the Beavernetes cluster. The `web` container needs a lot of the static assets from `shared` merged into it, so I'm working on an init-container to pre-populate it with the static assets   🛠🛠🛠

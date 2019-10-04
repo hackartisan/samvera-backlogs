@@ -1,0 +1,2 @@
+Survey form
+Implement download survey form  Added standard rails form Added Downloader model Added relationship between Resource and Downloader Modify default Hyrax behaviour while clicking 'Download' link

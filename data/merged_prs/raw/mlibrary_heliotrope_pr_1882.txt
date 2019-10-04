@@ -1,0 +1,2 @@
+extract script and method
+Script to export a monograph's manifest and file_set files. Usage: extract [-d ] <monograph_id>

@@ -1,0 +1,2 @@
+HELIO-1973 rake task and job to rebuild epub sqlite indexes
+This has been run on staging and reindexes epubs correctly. However, don't run it in production until HELIO-1966 is done.

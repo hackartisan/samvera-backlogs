@@ -1,0 +1,2 @@
+Move blacklight configs to separate concern
+This pull request includes a few changes related to how Blacklight can be configured from ddr-portals.  In addition to add_show_field and add_facet_field, you can now configure Blacklight using add_index_field from ddr-portals. Some Blacklight configurations previously set in the CatalogController are now set in ddr-portals/catalog. An updated version of ddr-portals is required -- see the index-field-config branch of ddr-portals.

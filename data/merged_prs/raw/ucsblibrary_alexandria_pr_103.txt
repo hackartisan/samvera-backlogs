@@ -1,0 +1,2 @@
+Add version to footer
+This commit adds a version to the footer. This includes the branch or tag that the software is on along with the SHA. The SHA is only visible if you hover over the branch name. This is based on the instructions at: https://curationexperts.github.io/playbook/every_project/git_sha.html It is using this path to revisions.log: /opt/alexandria/revisions.log

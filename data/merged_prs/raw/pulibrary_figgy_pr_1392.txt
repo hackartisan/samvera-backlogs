@@ -1,0 +1,2 @@
+Don't add anything to barcode dict if barcode couldn't be parsed
+fixes #1391

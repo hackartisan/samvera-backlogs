@@ -1,0 +1,2 @@
+Change uglifier settings in prod env
+I changed this earlier because an error was ocurring when I tried to deploy. It seems that when using this setting, the JS isn't compatible with IE11 This removes the short function syntax,()=>,  that was used in the bag_button bag file that was trigger this error when deploying. Connected to #278

@@ -1,0 +1,3 @@
+Circle CI added, remove travis
+
+circle ci started 15 seconds before travis, and built in 3min 40 sec and travis took 6 min 28 sec. significant performance increase. remove travis from CI, and implement CD in circle

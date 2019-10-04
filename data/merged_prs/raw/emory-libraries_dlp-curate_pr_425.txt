@@ -1,0 +1,2 @@
+Happy path tests for collection type
+Add thorough unit tests for collection type before we start making changes, to ensure we don't break any base functionality. Connected to #402

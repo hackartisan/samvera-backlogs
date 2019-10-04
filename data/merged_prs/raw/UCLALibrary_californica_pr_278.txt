@@ -1,0 +1,2 @@
+Metadata on single item view
+Feature test to check for all expected fields on a single item show page. Connected to #266

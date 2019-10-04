@@ -1,0 +1,2 @@
+ErrorPresenter for customized error messages, ref #607
+Returns a customized error page based on the class of exception raised. We'll need an additional update of the i18n config file with the specific message desired for each exception.

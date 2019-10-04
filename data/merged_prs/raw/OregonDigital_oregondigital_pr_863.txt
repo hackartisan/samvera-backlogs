@@ -1,0 +1,2 @@
+Updated contact form send to address to dsc.
+Fixes #862

@@ -1,0 +1,2 @@
+Adding designated communities policy
+Closes #311

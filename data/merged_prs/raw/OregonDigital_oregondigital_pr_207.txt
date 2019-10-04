@@ -1,0 +1,2 @@
+Feature/index rdf labels
+Closes #117 This pull request does a lot which could potentially take some time, so please review and make any suggestions. With this when an object with a controlled vocabulary is ingested it will spawn a job to automatically fetch and index the label for it (whilst fixing the label for all assets which have it wrong) - if that subject has been fetched in the last 7 days it won't actually do it.

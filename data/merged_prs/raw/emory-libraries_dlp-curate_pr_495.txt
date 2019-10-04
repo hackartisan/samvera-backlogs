@@ -1,0 +1,2 @@
+Auto-generate metadata guide
+This adds a class that assembles a Hash containing information about the metadata in the application and displays it as the field guide in the importer. The information included in the hash is the attribute name, the RDF predicate, the label used in the form, validation used in the model, the type of the value, and whether or not the field is singular or multiple.

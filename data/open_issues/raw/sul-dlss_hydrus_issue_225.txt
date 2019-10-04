@@ -1,0 +1,3 @@
+Capture required tasks for upgrading to Rails 5.2.x
+
+I believe we need to complete https://github.com/sul-dlss/hydrus/pull/188 first

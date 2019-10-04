@@ -1,0 +1,2 @@
+Remove the start over button
+This removes the start over button from the tabs. This is the first part of #1630. Connected to #1630

@@ -1,0 +1,2 @@
+Adjust the binary store test instance
+point the external data repo to a ram disk We believe this could possibly make the tests run faster

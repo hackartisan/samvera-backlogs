@@ -1,0 +1,2 @@
+genre now querying authority, specs written
+fixes https://github.com/nulib/next-generation-repository/issues/313

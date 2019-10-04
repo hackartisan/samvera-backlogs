@@ -1,0 +1,2 @@
+Investigate/confirm Hyrax editing forms relative to Emory customized FileSets
+Partially documented in this diagram. We will try to utilize existing Hyrax form structures whenever feasible. Outcomes: Most Hyrax forms work as expected relative to our FileSet customizations. Exceptions: File Manager's ordering feature does not "save" re-ordered results.

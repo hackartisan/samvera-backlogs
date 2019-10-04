@@ -1,0 +1,2 @@
+remove superfluous isbn fields
+Resolves HELIO-1838

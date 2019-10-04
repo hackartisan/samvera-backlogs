@@ -1,0 +1,2 @@
+Setup Workflow Demo
+ISSUE As a service manager, I would like to be able to show potential clients what workflow options we provide, so that clients can make informed decisions about adopting our offering. ACCEPTANCE   Some form of mediated deposit is configured  How to use the workflow is documented (in the Tenejo wiki for now)  There is a demo (either captured on the dce youtube channel or as steps for a demo on the wiki)

@@ -1,0 +1,2 @@
+Enable deploy on DCE servers
+Add dotenv-rails gem (needed for DCE deploy patterns) Rename cd-qa to dce-qa for clarity Add dce-cd deploy target for continuous deploy Link .env.production only on relevant servers  Connected to #222

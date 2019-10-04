@@ -1,0 +1,2 @@
+Attempting to fix an intermittent spec failure on CI build.
+Connected to #112 The error is: Capybara::Ambiguous: Ambiguous match, found 2 elements matching visible option "Testing Collection"

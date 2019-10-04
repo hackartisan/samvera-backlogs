@@ -1,0 +1,2 @@
+adding validity management to components
+This commit finishes the validity persistence started earlier. All components now will be valid when saved and invalid with interaction from the user, across sessions.

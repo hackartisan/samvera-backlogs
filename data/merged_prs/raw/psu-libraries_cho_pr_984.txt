@@ -1,0 +1,2 @@
+Install bundler
+Description Override the existing install_bundler task from the capistrano-rbenv-install gem to install the version of bundler that is used in the application. This avoids issues with incompatibilities between Ruby versions and versions of the bundler gem.

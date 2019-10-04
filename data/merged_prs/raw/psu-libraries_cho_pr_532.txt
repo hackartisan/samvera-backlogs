@@ -1,0 +1,2 @@
+Installing psu_dir gem
+Description Replaces LdapUser with functions from psu_dir. Fixes #417

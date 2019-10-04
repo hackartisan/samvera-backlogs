@@ -1,0 +1,2 @@
+Batch field update - Publisher
+Perform batch update on all Publisher fields in all records in DigitalHub as follows:  If field equals "Galter Health Sciences Library", update to - DigitalHub. Galter Health Sciences Library.  (including private records) If field equals "Galter Health Sciences Library & Learning Center", update to - DigitalHub. Galter Health Sciences Library & Learning Center  (including private records) If field is empty && record is NOT private, add "DigitalHub. Galter Health Sciences Library & Learning Center"

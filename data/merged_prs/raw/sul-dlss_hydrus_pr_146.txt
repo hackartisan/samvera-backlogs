@@ -1,0 +1,1 @@
+Use node for compiling assets. Fixes #101

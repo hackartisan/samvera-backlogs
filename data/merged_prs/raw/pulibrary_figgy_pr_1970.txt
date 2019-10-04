@@ -1,0 +1,2 @@
+fixes #1969 - Order Manager broken due to null thumbnail
+This bumps to LUX v1.0.2 which fixes this. Also tweaks some old action commits that have been changed since we moved off IIIF manifests.

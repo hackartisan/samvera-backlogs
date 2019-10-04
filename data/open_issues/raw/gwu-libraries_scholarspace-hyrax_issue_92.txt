@@ -1,0 +1,3 @@
+Internet Explorer 11 Compatibility View display problems
+When viewing with the IE Compatibility View setting enabled, the site appears almost as though on a mobile device: (ignore the left half of each screen shot, this is an artifact of taking the screenshot)   As per this thread https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!msg/samvera-tech/UvGiYegRG6E/CGJO1dO6AgAJ others have verified that this is an issue with both Hyrax 1.x and 2.x.
+Suggestion from @bkylekelly :   _Put this tag immediately below the opening `<head>` tag: `<meta http-equiv="X-UA-Compatible" content="IE=edge" />`_

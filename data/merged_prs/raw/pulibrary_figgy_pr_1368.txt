@@ -1,0 +1,2 @@
+Integrates MediaInfo for media resource characterization
+Resolves #1349 by:  Extending FileSet and FileMetadata for the media resource technical metadata Implementing the MediainfoCharacterizationService for extracting the technical metadata when a media resource is persisted

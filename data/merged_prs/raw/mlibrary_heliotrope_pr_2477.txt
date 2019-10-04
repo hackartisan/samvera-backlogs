@@ -1,0 +1,2 @@
+Updating scaling preferences to use native pdfViewer scaling
+Closes HELIO-2921. Ports the pdfViewer scaling options (auto/page-fit/etc) to a cozy-sun-bear preference panel and adapts the preview accordingly.

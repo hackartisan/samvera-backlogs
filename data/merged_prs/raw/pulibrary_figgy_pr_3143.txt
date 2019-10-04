@@ -1,0 +1,2 @@
+Ensures that the Selenium feature tests are run headlessly
+Otherwise, Selenium opens a browser when these test suites are run.

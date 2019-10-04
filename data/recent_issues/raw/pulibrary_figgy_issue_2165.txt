@@ -1,0 +1,2 @@
+Prefix numismatic coin attributes when indexing to Solr
+@tpendragon's comment: We should probably prefix these, otherwise when you load the resource from solr (which admittedly we don't do), it'll have a bunch of the metadata from a coin's issue.  https://github.com/pulibrary/figgy/blob/master/app/indexers/parent_issue_indexer.rb#L13

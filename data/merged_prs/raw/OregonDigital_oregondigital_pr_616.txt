@@ -1,0 +1,2 @@
+Add DC11.title as the RDF label for Europeana.
+Closes #608

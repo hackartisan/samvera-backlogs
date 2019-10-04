@@ -1,0 +1,2 @@
+Rearranged maximun restrictions and added new message about larger files
+Addresses #212

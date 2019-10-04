@@ -1,0 +1,2 @@
+#551 Increase Test Coverage
+Fixes #551 ; There were a couple of tests that needed to be ported over from scholar, and a new test needed to be added to test the analytics configuration. This pull request brings us up to 96.69% coverage.  The next least covered file has 15 un-hit lines, almost all of which are lines adding to our logging files or catching errors and then logging.  Adding tests for those logging statements would bring us above 97%, however prevailing wisdom seems to be against testing logging statements.

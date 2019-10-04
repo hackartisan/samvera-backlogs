@@ -1,0 +1,2 @@
+Add Sections to a Monograph
+Fixes #49

@@ -1,0 +1,1 @@
+Updating the restricted objects view. DHH-563

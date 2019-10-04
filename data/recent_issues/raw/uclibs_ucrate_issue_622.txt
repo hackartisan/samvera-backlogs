@@ -1,0 +1,2 @@
+Featured Work label on home page is not centered
+Descriptive summary The screenshot below says it all.  FEATURED WORK should be centered under the image.

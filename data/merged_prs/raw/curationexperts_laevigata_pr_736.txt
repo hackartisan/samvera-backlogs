@@ -1,0 +1,1 @@
+Disable browse everything until #730 fixed

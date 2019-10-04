@@ -1,0 +1,2 @@
+Fix missing translations for collection labels
+Connected to #470

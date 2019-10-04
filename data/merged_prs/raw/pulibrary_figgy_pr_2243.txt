@@ -1,0 +1,2 @@
+Adding monograms with attached FileSets
+Fixes #2102

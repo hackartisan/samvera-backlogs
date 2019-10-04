@@ -1,0 +1,2 @@
+Make Ethnographic Term a Controlled Vocabulary field
+Descriptive summary This work should follow the work done in #311 This lays out the ground work for adding a controlled vocabulary to hyrax utilizing the work done in hyrax. Expected behavior When a uri is punched into the form field, it should fetch labels and uris and index them properly.

@@ -1,0 +1,2 @@
+Fix issues with prod Fedora
+Rebuild Fedora  Ensure default permission template and admin set exist  Ensure deposit through curate works.

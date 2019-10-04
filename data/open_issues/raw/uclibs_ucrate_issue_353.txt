@@ -1,0 +1,4 @@
+Show DOI status on work show page for editors
+If I can edit a work and that work has a DOI minted, I should see a badge with the status of the DOI next to the DOI on the work show page and the work edit page, along with a link to our help information in the FAQ. Depends on #330
+@jamesvanmil Are the only DOI statues just "public" and "reserved"?  Or are there more?  Also, if an "open access" work has a DOI, is there ever a situation where the DOI should remain reserved?  Is it valid to say that DOIs should never be "reserved" when a work is "open access"?  Just curios.
+There's also 'unavailable', which would be used after a work with a DOI is made private.  For the second question - it's possible, but we haven't explored that use case. In our implementation a DOI will only become 'reserved' when one is requested for a private/authenticated work, and automatically switch to 'public' when the work is made available.

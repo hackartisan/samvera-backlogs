@@ -1,0 +1,2 @@
+added default publisher and language in edit form
+fixes #136 fixes #139

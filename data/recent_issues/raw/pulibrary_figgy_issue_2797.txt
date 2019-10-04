@@ -1,0 +1,2 @@
+Playlists should be able to generate a link to a manifest which has just a single track of that playlist
+Requested by Dan.

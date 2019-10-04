@@ -1,0 +1,2 @@
+Cap fix
+It looked like capistrano wasn't correctly restarting our app on deploy. Update to a newer deploy strategy; upgrade the gem while we're at it. Although the gem hasn't been touched in a while; is it possible it's no longer maintaned? Has everyone switched to puma?

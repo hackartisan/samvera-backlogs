@@ -1,0 +1,1 @@
+SPIKE: Research Amazon firewall and rate limiting options

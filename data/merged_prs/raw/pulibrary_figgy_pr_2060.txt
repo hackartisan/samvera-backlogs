@@ -1,0 +1,2 @@
+Update loofah to addrss CVE-2018-16468
+See https://github.com/pulibrary/figgy/network/alert/Gemfile.lock/loofah/open

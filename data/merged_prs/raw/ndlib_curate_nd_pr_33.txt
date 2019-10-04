@@ -1,0 +1,1 @@
+User object should wrap the Person object (proxy pattern)

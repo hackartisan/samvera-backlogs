@@ -1,0 +1,2 @@
+Empty child fix
+I tried this 2 ways; this way seemed a little messy but it works. The other (see b8f199e on branch empty-child-fix-2) was an attempt to handle it as much as possible in the helper, but it resulted in the viewer failing to show the default thumb, plus there was still a new conditional needed in the download link logic.

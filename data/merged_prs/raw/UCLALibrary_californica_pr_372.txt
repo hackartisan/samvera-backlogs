@@ -1,0 +1,2 @@
+Import Relation.isPartOf to dlcs_collection_name
+This is temporary scaffolding until we can do more complete collection work and refactor the importer to add items directly to Hyrax collections in Phase 2. Import the value of Relation.isPartOf into a field called dlcs_collection_name. This field is facetable and displayable, but not searchable. It renders as a facet, and it displays on the item show page. Import and show work feature spec has been updated accordingly. Connected to #367

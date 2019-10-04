@@ -1,0 +1,2 @@
+Updated alert message on homepage. [ci skip]
+Completes #536

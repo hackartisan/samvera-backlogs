@@ -1,0 +1,2 @@
+image not rendering in Universal Viewer on staging
+Descriptive summary Loading a jpg or jpeg to a work does not result in that image being viewable in Universal Viewer. Specific work in question: http://staging.oregondigital.org/concern/images/44558d285?locale=en#?c=0&m=0&s=0&cv=0

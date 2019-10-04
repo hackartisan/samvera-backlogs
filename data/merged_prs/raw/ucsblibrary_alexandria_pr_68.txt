@@ -1,0 +1,1 @@
+ObjectFactory#render_thumbnails: don't delete main cache directory

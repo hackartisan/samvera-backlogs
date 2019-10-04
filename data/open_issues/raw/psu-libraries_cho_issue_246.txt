@@ -1,0 +1,3 @@
+Implement a Object Type Template Index View Wireframe
+dependent on #245 Child of #320 Create the view, the controller action, and possibly a presenter Since there are so few types we will not need sorting, pagination, or search
+Relates to #327

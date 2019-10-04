@@ -1,0 +1,2 @@
+Add missing field(s) to work manifest report
+Descriptive summary When running a work manifest report (bundle exec rake manifest:works) the resulting .csv file is missing the License field.  It's also possible other fields are missing.  Add a License column to the report Research if other fields are missing (from any work type) and add them.  The fields will need to be added to https://github.com/uclibs/ucrate/blob/develop/app/services/works_report.rb#L30-L67

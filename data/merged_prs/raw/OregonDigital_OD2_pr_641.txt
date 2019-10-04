@@ -1,0 +1,2 @@
+adds download links
+Fixes #615

@@ -1,0 +1,1 @@
+Remove checks for new_ui and NEW_UI_ENABLED

@@ -1,0 +1,2 @@
+add travis ci configuration
+fixed travis ci build problem, introduced by figaro

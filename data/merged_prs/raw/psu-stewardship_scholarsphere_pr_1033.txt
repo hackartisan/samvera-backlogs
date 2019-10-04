@@ -1,0 +1,2 @@
+Adding Coveralls
+We have not been tracking test coverage. This allows us to see if any changes, pull requests, or commits increase or decrease our overall test coverage.

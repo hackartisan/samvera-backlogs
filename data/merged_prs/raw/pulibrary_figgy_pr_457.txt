@@ -1,0 +1,2 @@
+Displaying more info about boxes on the ephemera project show page
+Fixes #439

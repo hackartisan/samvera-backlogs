@@ -1,0 +1,2 @@
+Resolves #986: Investigate db:seed rake task
+Created a publishers.yml file inside of the db directory.

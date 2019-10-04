@@ -1,0 +1,1 @@
+Refactoring dams_object_helper to remove duplicated code. (DHH-835)

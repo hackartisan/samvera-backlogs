@@ -1,0 +1,2 @@
+Generate list of non-course-y course numbers for Dan
+Do recordings with non-course-y course numbers need special treatment?  Probably for each of these course numbers, we need a collection. Give Dan the list and ask whether they should have collections.  List should be a spreadsheet with course number and collection name headings; we populate the first and ask them to populate the second child of #2043

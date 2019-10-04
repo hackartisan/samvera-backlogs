@@ -1,0 +1,2 @@
+sys-out to tesseract malformed
+The system() call on 49 of of app/derivative-services/hocr_derivative_service.rb doesn't work: system("tesseract", file_path.to_s, temporary_output.path.to_s, "-l #{ocr_language.join('+')}", "hocr", out: File::NULL, err: File::NULL) produces no output because the language flag option isn't being handled. This seems to fix it: system("tesseract", file_path.to_s, temporary_output.path.to_s, "-l", "#{ocr_language.join('+')}", "hocr", out: File::NULL, err: File::NULL)

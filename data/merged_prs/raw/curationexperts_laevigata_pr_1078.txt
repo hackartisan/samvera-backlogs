@@ -1,0 +1,2 @@
+mvc for new ui
+This commit builds a new controller and some very minimal views for a very simple InProgressEtd model, behind the new_ui_enabled flag. It adds an RSpec config to set this flag to false for feature tests. The new controller allows for find_or_create_by a user_ppid property, which addresses the need for partial saves and one in_progress_etd per student. It currently requires a db migration, which will be added in a subsequent PR. Addresses #1072 and #1067

@@ -1,0 +1,2 @@
+Add recpatcha to contact form for non-authenticated users
+Fixes #61; May need to verify that this indeed receives the secret key and recaptcha authentication works. But, apart from that, this PR is in good shape. Changes proposed in this pull request:  Adds Google reCaptcha to the contact form. reCaptcha verification only for unauthenticated users.

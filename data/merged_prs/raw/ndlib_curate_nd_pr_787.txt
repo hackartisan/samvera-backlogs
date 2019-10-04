@@ -1,0 +1,2 @@
+Add API Token Management
+References https://jira.library.nd.edu/browse/DLTP-1653  Add ApiAccessToken table & migration Add index, new, create, and destroy routes for ApiAccessToken Add views, controller, and model Link to index view from my_actions Add ability controls for tokens

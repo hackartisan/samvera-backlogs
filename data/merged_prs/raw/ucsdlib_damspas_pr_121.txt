@@ -1,0 +1,2 @@
+Reconciling RDF predicate and class declarations with damsrepo and DAMS4 ontology
+Fixes DHH-720

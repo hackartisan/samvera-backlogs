@@ -1,0 +1,2 @@
+Auto-suggest entries from the controlled vocabularies
+Ensure that properties with controlled vocabs can auto-suggest terms  Extend or update the form's system test to show this works.

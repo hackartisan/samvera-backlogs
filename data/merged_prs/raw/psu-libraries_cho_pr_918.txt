@@ -1,0 +1,2 @@
+Paragraph-heading transformation for acknowledgments
+Description Creates a new kind of transformation that displays a property as a separate paragraph with a heading. This is used in conjunction with a new acknowledgments property that is available to collections. Connected to #572 Changes  add heading transformation acknowledgments property to collections MetadataFieldPresenter for displaying contents of field as separate paragraphs

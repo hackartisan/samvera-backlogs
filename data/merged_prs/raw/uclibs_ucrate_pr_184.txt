@@ -1,0 +1,2 @@
+update loofah
+Fixes #169

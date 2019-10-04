@@ -1,0 +1,2 @@
+HELIO-2635 - customize search resources buttons for each press
+Resolves HELIO-2635 by adding overrides to default search button for resources on monograph catalog pages.

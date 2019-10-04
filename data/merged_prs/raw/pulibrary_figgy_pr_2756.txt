@@ -1,0 +1,2 @@
+Don't display a filler thumbnail.
+Instead of displaying a filler thumbnail, this just shows an empty space if it can't resolve one. Closes #2717

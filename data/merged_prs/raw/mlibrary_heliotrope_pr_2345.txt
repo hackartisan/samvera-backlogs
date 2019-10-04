@@ -1,0 +1,2 @@
+create Monograph w/o files in UI
+HELIO-2688

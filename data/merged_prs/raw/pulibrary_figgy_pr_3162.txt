@@ -1,0 +1,2 @@
+Refresh remote metadata on change of SMID, no matter what
+Closes #1542

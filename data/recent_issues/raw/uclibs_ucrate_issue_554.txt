@@ -1,0 +1,2 @@
+Some fields not mapping correctly to Fedora
+Descriptive summary The description and date created fields are creating content in Fedora with a dc prefix.  However, Scholar 3 creates those fields in Fedora with a dcterms prefix. We need to tweak ucrate to use the dcterms prefix for description and date created. There may also be problems with the Degree Date, Publisher, and Type fields on ETDs, but that still needs to be tested.

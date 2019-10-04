@@ -1,0 +1,2 @@
+embed: overlay/hide Able Player's controls
+Resolves #1208

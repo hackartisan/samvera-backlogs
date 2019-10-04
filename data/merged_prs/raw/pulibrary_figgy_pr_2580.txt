@@ -1,0 +1,2 @@
+Pluralize directory names in spec/resources
+Closes #2579

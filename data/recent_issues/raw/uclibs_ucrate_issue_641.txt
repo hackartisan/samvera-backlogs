@@ -1,0 +1,2 @@
+Password reset email should come from scholar@uc.edu
+Descriptive summary When users try to use the password reset feature they receive an email from please-change-me-at-config-initializers-devise@example.com This should be scholar@uc.edu instead We should be able to change it in the Devise initializer.

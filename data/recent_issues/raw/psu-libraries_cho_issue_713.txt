@@ -1,0 +1,2 @@
+Search Bar Autocomplete and Screen Reader(s)
+Putting a ref to projectblacklight/blacklight#1907 so that I remember to fix this upstream.

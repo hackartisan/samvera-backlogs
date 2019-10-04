@@ -1,0 +1,2 @@
+Investigate Blacklight Sessioning
+What is blacklight doing in terms of sessions and history tracking? Users have a history when not logged in and can bookmark items. #444 persists a year later. How long is this user data held? Where is it held? Can it be disabled? Why should or shouldn't it be disabled? We also need to be sure we are complying with UL-AD14

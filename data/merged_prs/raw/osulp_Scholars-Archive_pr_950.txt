@@ -1,0 +1,2 @@
+added todo note and updated active_fedora_timeout_monkey_patch
+added note to remove monkey patch when active_fedora pr 1271 is released updated patch to override the connection options only

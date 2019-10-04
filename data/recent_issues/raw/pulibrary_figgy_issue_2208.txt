@@ -1,0 +1,2 @@
+Fix positioning of "refresh metadata" checkbox
+It lands right on the border of the pane and makes it look like it's a checkbox for all of "metadata."

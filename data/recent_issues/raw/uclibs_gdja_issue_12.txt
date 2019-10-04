@@ -1,0 +1,2 @@
+Add browse button, hide share button
+Descriptive summary Add browse button.

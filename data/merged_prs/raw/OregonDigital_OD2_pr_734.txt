@@ -1,0 +1,2 @@
+Update links in footer
+Fixes #728

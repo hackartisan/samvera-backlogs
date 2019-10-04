@@ -1,0 +1,2 @@
+Created an UnpackJob for unpacking epubs.
+See #1692, this is the first part of that epic. We're creating alternate paths to caching/unpacking epub and webgl content.

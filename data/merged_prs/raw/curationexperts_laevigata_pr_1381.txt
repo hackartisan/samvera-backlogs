@@ -1,0 +1,2 @@
+Set embargo and visibility on FileSet when adding to a work
+When attaching a file to a work, Hyrax sets an embargo on the FileSet, matching the work's permissions. However, we need to determine and set the FileSet embargo based on the work's status, not simply its visibility. Specifically:  we do not want to set FileSet embargo when work.files_embargoed is false when we do set an embargo, we want to set the FileSet visibility to restricted/Private, instead of open.

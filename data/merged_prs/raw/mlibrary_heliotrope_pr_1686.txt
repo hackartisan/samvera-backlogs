@@ -1,0 +1,2 @@
+change the feedback link for webgl
+Resolves #1674 If a webgl project, use a different feedback form on the e-reader so we can collect browser and OS information from users.

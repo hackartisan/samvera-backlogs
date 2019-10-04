@@ -1,0 +1,2 @@
+DLTP-213 override curate config method 
+deliver_fedora_integrity_message to write to database and log thru harbinger

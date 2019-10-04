@@ -1,0 +1,2 @@
+Adds trailing slash to geonames url from batch if missing
+Fixes nulib/next-generation-repository#644  Add "/" to end of geonames uri if missing update readme with current devstack commands

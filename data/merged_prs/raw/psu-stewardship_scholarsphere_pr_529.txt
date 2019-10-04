@@ -1,0 +1,1 @@
+Remove how-to videos and item from table of contents.

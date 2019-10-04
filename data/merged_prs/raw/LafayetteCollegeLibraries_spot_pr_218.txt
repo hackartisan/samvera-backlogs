@@ -1,0 +1,2 @@
+🐜 fix bug where only one RdfLabel was being stored
+we were calling RdfLabel.first_or_create(uri: uri), which was always returning the first RdfLabel item, regardless of if it matched the uri. changing it to RdfLabel.where(uri: uri).first_or_create does what we expect it to. i think we should be able to push this upstream, clear the RdfLabel contents from postgres, and run a reindex to fix the existing labels. 🤞 closes #217

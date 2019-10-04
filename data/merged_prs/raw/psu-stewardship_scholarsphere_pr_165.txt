@@ -1,0 +1,2 @@
+solr:compare task was not working as expected, ref #164
+Although it would have exited properly if solr and fedora were in sync, it would have failed because variables weren't set correctly. This fixes that problem, but it remains to be seen if it reports correctly in our staging and production environments.

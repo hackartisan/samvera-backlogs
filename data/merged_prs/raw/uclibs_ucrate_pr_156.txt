@@ -1,0 +1,2 @@
+Enable Shibboleth, order dependency
+Fixes #148 Present short summary (50 characters or less) This PR fixes a flaky test with order dependency. One of the examples disables Shibboleth and had to be reenabled for the tests to pass with seed 4197. Read issue comments for more info.

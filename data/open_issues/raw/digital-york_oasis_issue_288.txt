@@ -1,0 +1,2 @@
+Change footer text of Deposit requires changes notification
+Related to #282 When the OASIS team request changes to a summary before approving the depositor receives a notification. It currently looks like this:  I would like the text changed, please. New wording available in this document.

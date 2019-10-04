@@ -1,0 +1,2 @@
+Removes the On behalf of on edit views.
+Fixes #510 This PR hides the On behalf of when on the EDIT view.  This PR also reorganized the spec test around the form_progess to separate the Capybara part from the render part.

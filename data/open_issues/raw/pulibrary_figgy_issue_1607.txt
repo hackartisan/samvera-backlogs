@@ -1,0 +1,6 @@
+Ingest "Gabriel Perelle engravings (part of Versailles collection)" (pudl0083)
+Notes: VRA/GA, but records don't all map to Voyager - Triptychs, etc. Ping @joycebcat @escowles  - do you know what the story is here? Still doesn't map?
+Files: https://drive.google.com/drive/u/0/folders/0B4Wo5hgOEFY3ZlZGUU5OS3FIbDA
+http://pudl.princeton.edu/collections/pudl0083
+As in #1606 I can't find the VRA records in the drive. How is this related to #1606?  The images seem to be pages from this book https://catalog.princeton.edu/catalog/9161914
+So, this is one of several groupings from the Graphic Arts collection which were originally published in book format.  Graphic Arts has some or all of the prints from the publications as separate sheets (a disbound copy)  We may have a bound copy in our collection also.  In this case, you found the bib record for a bound copy of the original publications.  There are separate Voyager records for each plate in this grouping which came from the Graphic Arts db conversion to Voyager.    https://catalog.princeton.edu/catalog/10656175 -- this is one of the records in question  Are you going to need help finding the Voyager records? 

@@ -1,0 +1,2 @@
+Hide Relationships if empty
+We currently do not hide the Relationships section of a work if it is empty, and this makes it somewhat confusing especially if there is a child work and it doesn't show up there. If we change the partial to hide if empty, I believe that it would be more intuitive and easier to understand for the end user.

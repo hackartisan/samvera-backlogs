@@ -1,0 +1,2 @@
+Rake task and update to batch loader submodule
+allows us to Ingest works of various types in batch from the command line. also allows for adding works to collections in 2 ways. 1 setting the collection all works should be uploaded to or 2. by added them to any collection having the same name as a resource type of the project.

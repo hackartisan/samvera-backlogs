@@ -1,0 +1,2 @@
+435 Removed file name from view of asset tech info
+Resolves #435

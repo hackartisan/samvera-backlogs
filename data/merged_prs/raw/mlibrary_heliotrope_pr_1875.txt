@@ -1,0 +1,2 @@
+Add subjects, pub date; rework metadata display for monographs
+Resolves HELIO-1865 For the monograph catalog page, this work:  Changes metadata display from table to definition list for better use of HTML semantics Adds monograph subjects to the metadata list Adds publication year Modifies display of copyright information and holding contact Styles chapter download button Fixes discrepancies between placeholder and label search text on monograph and publisher pages.

@@ -1,0 +1,2 @@
+ADR for Fixity Checking of Preserved Material
+Include how we're going to perform fixity checking and roughly how often.

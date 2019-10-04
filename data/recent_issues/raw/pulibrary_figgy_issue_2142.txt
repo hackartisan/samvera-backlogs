@@ -1,0 +1,2 @@
+Add members list to Playlist for deleting ProxyFiles
+Child of #2066

@@ -1,0 +1,2 @@
+Admin group
+Adds the hydra-role-management gem to create roles for users; Adds solution to create user admins from role_map.yml file on dev (via seeds); Removes unique constraint and index from users.email since we are using uid for authentication; Creates user admin factory and adds initial tests for admin dashboard Closes #44 Connected to #36 Roles can be found at /roles (accessible by admins):  Select role to add users (accessible by admins):

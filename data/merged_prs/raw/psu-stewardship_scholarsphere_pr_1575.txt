@@ -1,0 +1,2 @@
+Cronjob to email users their monthly stats
+Merge this once we're ready to implement emails. Connected to #1520

@@ -1,0 +1,2 @@
+Cancel link should take back from Person edit view to Person show page.
+Ref ndlib/legacy-curate-planning#361

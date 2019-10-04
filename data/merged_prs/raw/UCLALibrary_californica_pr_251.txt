@@ -1,0 +1,2 @@
+Removed old code that we won't be using. For details, see comments in story #214
+Connected to #214

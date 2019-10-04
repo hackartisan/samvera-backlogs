@@ -1,0 +1,2 @@
+All collections manifest won't load when there's an ArchivalMediaCollection.
+Backtrace line 11 of [PROJECT_ROOT]/app/services/manifest_builder/record_property_builder_v3.rb: apply line 784 of [PROJECT_ROOT]/app/services/manifest_builder.rb: manifest line 15 of [PROJECT_ROOT]/app/services/manifest_builder.rb: build  View full backtrace and more info at honeybadger.io

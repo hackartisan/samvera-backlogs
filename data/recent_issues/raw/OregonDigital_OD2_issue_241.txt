@@ -1,0 +1,2 @@
+Made Identifier a required field
+Descriptive summary Identifier needs to be marked as a Required Field. Expected behavior Identifier is a required field. Related work #142

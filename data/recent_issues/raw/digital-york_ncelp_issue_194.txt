@@ -1,0 +1,2 @@
+Make 'parent collection' less prominent
+Could we please make the 'parent collection' a bit more subtle? Sitting between the description and works doesn't make sense to me. It breaks the flow and is too prominent.

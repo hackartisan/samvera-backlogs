@@ -1,0 +1,2 @@
+Leaflet: best-fit, tile 'seams' patch
+Resolves #884

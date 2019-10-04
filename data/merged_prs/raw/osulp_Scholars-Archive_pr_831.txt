@@ -1,0 +1,2 @@
+updated triple_powered_service to query rdf dc date
+updated ScholarsArchive::TriplePoweredService.fetch_all_labels to append RDF::Vocab::DC.date info to fetched labels when available fixes #706

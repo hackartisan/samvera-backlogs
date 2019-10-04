@@ -1,0 +1,2 @@
+Add embargo release rake task
+Fixes #200 Ported over the files from Scholar.

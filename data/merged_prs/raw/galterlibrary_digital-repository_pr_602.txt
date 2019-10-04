@@ -1,0 +1,2 @@
+Modify branding in header
+remove NUCATS branding nav menu fix closes #595. fixes #601.

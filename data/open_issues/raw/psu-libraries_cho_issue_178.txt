@@ -1,0 +1,2 @@
+Automated Usage Reports to Collection Curator(s)
+As a collection curator, I would like a monthly email report telling me how many times objects in my collection(s) were used or downloaded, So that I may keep tabs on usage. Frequency configurable. Related: #85

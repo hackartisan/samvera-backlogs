@@ -1,0 +1,2 @@
+Fix predicate URIs
+Mods URIs now have a slash before the # character, as our controlled vocab info says they should RDA Registry URIs now have a # character in them and resolve to a live page, but I have no idea if they're definitely correct

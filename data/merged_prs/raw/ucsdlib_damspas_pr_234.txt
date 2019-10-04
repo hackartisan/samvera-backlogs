@@ -1,0 +1,2 @@
+Add user group dams-editor and remove the dams-rci group. DM-186
+https://lib-jira.ucsd.edu:8443/browse/DM-186

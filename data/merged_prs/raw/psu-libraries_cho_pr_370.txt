@@ -1,0 +1,2 @@
+Add find_using as a class method
+This takes the existing find_using custom query and extends it to Valkyrie resources so that we can run ad hoc queries on specific resource types. Ex: >  MyClass.find_using(label: 'foo') => [MyClass< label: foo>]  I've found myself needing this feature lately as I look for specific work types and fields via their labels. It's been aliased to where to give it a more ActiveRecord flavor.

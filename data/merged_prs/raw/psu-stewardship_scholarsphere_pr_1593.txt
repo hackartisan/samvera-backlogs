@@ -1,0 +1,2 @@
+Ingest files from a server directory
+Creates a rake task for ingesting batches of files from a networked directory on the server. A work must exist already, and the directory containing the files must be named the same as the work's id. The rake task will scan the directory for any folders and ingest the files that are in them. This also includes the resque-cleaner gem which will make handling batch failures easier, as we can restart a group of failed jobs based on their error message:

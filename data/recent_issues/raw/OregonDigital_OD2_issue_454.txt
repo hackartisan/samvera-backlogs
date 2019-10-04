@@ -1,0 +1,2 @@
+Rake task to generate email that contains a list of all current works in a review queue
+Descriptive summary A rake task needs to be fired off at the end of each day which looks at all the works in a specific step of a workflow (like being reviewed) and sends an email out to the people who are assigned to that step of that workflow.

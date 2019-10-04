@@ -1,0 +1,2 @@
+Support featured works
+Need some investigation to see how to get featured works working in Hyrax.

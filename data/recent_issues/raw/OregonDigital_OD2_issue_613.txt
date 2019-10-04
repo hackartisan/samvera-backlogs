@@ -1,0 +1,2 @@
+Work Show Page: In right column, move Social Media section, adjust services
+Descriptive summary In the right column, move the Social Media section. Remove Google Plus and Tumblr. Add Instagram. https://github.com/samvera/hyrax/blob/master/app/views/hyrax/base/_social_media.html.erb Wireframe mockup: https://www.lucidchart.com/documents/edit/944f6fd3-53b5-466b-b49f-f0788ada80aa/0 (Information compiled by POSM group from updated wireframes) Expected behavior Social Media section has icons/links for Twitter, Facebook, and Instagram.

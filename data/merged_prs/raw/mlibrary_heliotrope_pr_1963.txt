@@ -1,0 +1,2 @@
+HELIO-2064 - Fix up default login redirect
+Redirect to the SP, rather than /shib_login in the production fallback Move the default entity ID to the sp_login_url to catch all cases Skip storing user location for all sessions controller actions  Note that this change should eliminate the need for the default_login action entirely. It should be removed and links updated to use /login.

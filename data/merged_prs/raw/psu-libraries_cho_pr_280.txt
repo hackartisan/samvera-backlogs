@@ -1,0 +1,2 @@
+Report errors from missing metadata
+If a work object lacked required metadata, the error was not reported. Also, choosing the work type should only happen at creation, and not during editing. This also makes a model's work type singular at the model level, and not just via the ChangeSet.

@@ -1,0 +1,2 @@
+Permissions for Finding Aid
+Provide a way to restrict a work type to only a group of people.

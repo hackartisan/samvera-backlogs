@@ -1,0 +1,2 @@
+Description field doesn't persist on generic works
+Descriptive summary When a generic work is created, the Description field is blank after the save.  It only happens with this work type and a recent commit likely introduced this bug.  Fix the description bug Just in case there's another field with this problem somewhere, verify that all fields in all 8 work types properly save when works are created/edited.

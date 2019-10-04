@@ -1,0 +1,2 @@
+Resolves #949 Fix Dashboard Page Titles
+Change page titles to "Dashboard Monographs" and "Dashboard Assets."

@@ -1,0 +1,2 @@
+Developer Page
+I thought that it might be a good idea to have a developer page on Scholar that would allow the developers to get some recognition. Similar to: https://parsecgaming.com/about https://developers.redhat.com/about/ https://devskiller.com/about-us/ Nothing extravagant, just a short bio and a Github link.

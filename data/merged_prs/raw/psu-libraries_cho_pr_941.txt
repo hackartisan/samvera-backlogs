@@ -1,0 +1,2 @@
+I#801
+Description This PR builds on the home screen refactor.  It should not be merged until after that and should be rebased with master at that point.  I am putting in a PR so my changes do not get lost, since I am a short timer... old highlight  new highlights   old resource links  new resource link with thumbnail  new resource link with out thumbnail  Connected to #801 Changes  bullet-point list of changes, if needed

@@ -1,0 +1,4 @@
+Add "refresh metadata" button to collections
+Button should trigger source metadata refresh for all child objects with imported metadata. part of this work should be removing everything that was needed for the nightly refresh, implemented in https://github.com/pulibrary/figgy/pull/2347/files, since this functionality replaces that. Ultimately, using this button requires #2489
+we can also revert https://github.com/pulibrary/princeton_ansible/pull/419 and https://github.com/pulibrary/princeton_ansible/pull/420  (although 419 has a change to the figgy staging vagrantfile that should be retained, most properly by re-adding it in a commit after reverting)
+Collections can have imported metadata now, so we may need to call this button something like "Refresh All Child Metadata"? Although it looks like we're back in the zone of wanting to automatically update finding aid metadata.

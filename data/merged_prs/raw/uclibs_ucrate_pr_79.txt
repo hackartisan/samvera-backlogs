@@ -1,0 +1,2 @@
+Remove Capybara screenshot from batch_edit_spec
+Removes a page.save_screenshot accidentally left over from debugging.

@@ -1,0 +1,2 @@
+Recordings should display which tracks a playlist are using from it in the "Playlists" view on a recording
+Requested by Dan.

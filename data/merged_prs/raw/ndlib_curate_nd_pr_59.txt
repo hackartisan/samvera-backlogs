@@ -1,0 +1,2 @@
+Providing a migration script for person content
+The datastream structure of Person changed from Qualified DC terms to RDF N Triples. This required a few hoops to jump through. Please review @dbrower @danhorst @rbalekai and ask for clarification or to verify that the migration is happening as you would expect.

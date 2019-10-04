@@ -1,0 +1,2 @@
+Adding to readme (DHH-677)
+Fixes https://lib-jira.ucsd.edu:8443/browse/DHH-677

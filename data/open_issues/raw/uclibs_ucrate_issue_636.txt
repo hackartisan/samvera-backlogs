@@ -1,0 +1,2 @@
+Close scholar_uc_leagacy issues or move to ucrate
+Descriptive summary Many open issues remain on https://github.com/uclibs/scholar_uc_legacy/issues Review the them and  Move issues that are still relevant to ucrate Close the rest of them.

@@ -1,0 +1,3 @@
+Grant individual access to a private object
+If this can be done by expanding the access token from playlists to scanned resources, that may be the simplest implementation.
+Other alternatives are: 1. Adding a read-only role 2. Generating PDFs and putting them on Google Drive or similar 3. Adding the student as a "staff" user 4. Object-level access controls 

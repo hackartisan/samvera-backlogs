@@ -1,0 +1,2 @@
+Deleting a FileSet should clear objects which use it as its thumbnail.
+Right now when you delete a FileSet, if it's the thumbnail_id of a resource it doesn't clear it, so you get a resource pointing at a non-existent FileSet. Scenario: I've ingested a thing, the first page was set as thumbnail, I delete the first page. The page no longer exists but is still set at the thumbnail ID for the resource.

@@ -1,0 +1,1 @@
+Fixed contact form emailing configuration setup

@@ -1,0 +1,2 @@
+Feature/sort collections
+Fixes #495

@@ -1,0 +1,2 @@
+section title is accessible from an asset show view
+Resolves #310

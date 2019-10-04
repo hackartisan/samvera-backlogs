@@ -1,0 +1,2 @@
+Get Kaltura working properly with Browse Everything
+Descriptive summary See uclibs/scholar_uc_legacy#1731

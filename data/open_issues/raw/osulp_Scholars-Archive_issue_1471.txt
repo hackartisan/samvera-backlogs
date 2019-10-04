@@ -1,0 +1,2 @@
+Featured Researcher Manager
+Implement a manager on the Featured Researcher content block tool that allows:   adding multiple featured researchers as independent content blocks  removing featured researcher blocks  featured researcher on homepage should cycle through featured researchers on the content blocks

@@ -1,0 +1,2 @@
+audio/wav is not a vallid mime type
+Per the IANA registry, audio/wav is not a registered MIME type.  We should update all instances in Figgy to use audio/x-wav instead.

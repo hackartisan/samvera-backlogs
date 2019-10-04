@@ -1,0 +1,1 @@
+Adding 'More' option to related resource links section. DHH-458

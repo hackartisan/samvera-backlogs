@@ -1,0 +1,2 @@
+Update IP for QA deploy
+This was changed to an elasticip. Connected to #290

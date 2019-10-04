@@ -1,0 +1,2 @@
+Redirect to Project on Box delete.
+Closes #235.

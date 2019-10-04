@@ -1,0 +1,2 @@
+Home Page Enhancements
+Post MVP, leverage javascript to enhance the homepage with dynamic content pulled from the repository. Perhaps a masonry tiled interface that randomized on load?

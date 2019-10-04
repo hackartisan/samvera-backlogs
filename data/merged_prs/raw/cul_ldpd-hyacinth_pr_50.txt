@@ -1,0 +1,2 @@
+Display URIs in edit window using checkbox
+As of Thu Apr 27 10:10:38 EDT 2017, for a limited time only, this branch is running on hyacinth_test.

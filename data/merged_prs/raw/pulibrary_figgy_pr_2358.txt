@@ -1,0 +1,2 @@
+Removing unwanted metadata from IIIF manifest metadata hash
+Fixes #784

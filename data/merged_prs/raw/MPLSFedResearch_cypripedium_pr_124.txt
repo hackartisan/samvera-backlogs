@@ -1,0 +1,2 @@
+Create an XML file containing records that have failed
+This commit introduces a ProblemRecord class that will create an XML document containing <record> elements that have failed during the import process. The resulting file will be stored in the /log directory with the name of the collection + the date in the filename. If the file does not exist, one will be created and if you run it multiple times problematic records will be appended to the existing file.

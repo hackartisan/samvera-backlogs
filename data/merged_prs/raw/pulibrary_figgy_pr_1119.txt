@@ -1,0 +1,2 @@
+Update ArchivalMediaCollection form to pull imported metadata
+resolves #1006; actual import work will be done in #753 and wired in at that time

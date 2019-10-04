@@ -1,0 +1,2 @@
+Ensure migration collections have expected permissions
+Ensure auto-created migration collections allow Repository Administrators to deposit into them. Connected to #469

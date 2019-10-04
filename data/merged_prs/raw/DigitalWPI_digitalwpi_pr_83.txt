@@ -1,0 +1,2 @@
+Fixed travis failures
+fixes #82

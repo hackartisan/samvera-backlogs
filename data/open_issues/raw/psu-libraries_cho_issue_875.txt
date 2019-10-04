@@ -1,0 +1,2 @@
+Use full MARC Relator in Metadata CSV
+Metadata CSV requires using the MARC Relator Code to specify a creator role in the creator field. Users should be able to use either the Code or the Term.

@@ -1,0 +1,4 @@
+Collection facet doesn't sort correctly
+The collection facet, whether for Digital Collections, DVS, or other, isn't sorting correctly:  The default display within the facet is sorted by neither A-Z nor frequency Clicking the 'More' link launches a modal with the same arbitrary sorting Clicking the A-Z Sort or Numerical Sort buttons shuffles the list, but not correctly. A-Z sorts only the current page of 20 alphabetically (page 2 has next page of results sorted A-Z). Numerical sort doesn't sort by frequency.
+Note that the same is true of the Admin Set, a.k.a.,"Collection Group" facet. 
+These facets both display a title/name derived from an identifier stored in solr -- so the default sorting algorithm doesn't work. It looks to me like the helper sorting methods for these only work if all the unique values in the field can be displayed in a single page/request -- without a "more" link.  Not sure how difficult this will be to fix. 

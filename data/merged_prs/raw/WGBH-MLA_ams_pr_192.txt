@@ -1,0 +1,2 @@
+591 search index design
+Updates catalog#index view per the ticket. Failing because it needs the solr_wrapper gem update in this PR: #190.

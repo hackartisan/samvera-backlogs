@@ -1,0 +1,2 @@
+rake tasks to audit records based on CSV
+Initially, the audit checks that each line of the CSV corresponds to a single record, and that record has a number of FileSets equal to the number of files in the "File Name" column of the CSV.

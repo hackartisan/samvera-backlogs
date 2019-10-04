@@ -1,0 +1,2 @@
+Bulk Edits: Circulars
+Descriptive summary Bulk edits to clear up series fields. These are all on one spreadsheet -- links to tabs below:   in_series  resource_type  subject  alt_title

@@ -1,0 +1,3 @@
+Add back Explore Collections tab on home page
+When we determine how we're using Collections
+This will go back in `app/views/hyrax/homepage/_home_content.html.erb`

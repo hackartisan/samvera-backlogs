@@ -1,0 +1,2 @@
+home page search builder is only public things, but of all types
+Closes #951

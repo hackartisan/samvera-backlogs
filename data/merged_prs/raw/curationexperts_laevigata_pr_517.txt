@@ -1,0 +1,2 @@
+Suppress work preview images under embargo
+Fixes #428

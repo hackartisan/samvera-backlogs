@@ -1,0 +1,1 @@
+Use minio for pyramid TIFFs in development

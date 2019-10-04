@@ -1,0 +1,2 @@
+improve rebrand data migration urls
+catch and change catch and change bare http://chemheritage.org

@@ -1,0 +1,2 @@
+figure out how to seperate sidekiq jobs
+... to an external server.

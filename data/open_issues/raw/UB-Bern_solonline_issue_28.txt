@@ -1,0 +1,3 @@
+Index translations for searching
+
+- [x] Resource_type - [x] Classifications - [x] Keywords

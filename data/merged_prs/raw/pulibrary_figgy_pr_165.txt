@@ -1,0 +1,2 @@
+Extend the storage adapters used for replaced derivative files
+Resolves #109 by ensuring that the storage adapter for derivatives is used for replaced, uploaded derivative files in FileSets  [ ] Implement the Valkyrie.config.derivatives_adapter (This was introduced upstream; please see #260 )  Avoid passing more than one storage adapter to PlumChangeSetPersister  Restructure the PlumChangeSetPersister to load the adapter from Controller files

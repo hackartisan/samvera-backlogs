@@ -1,0 +1,2 @@
+Fixes Institution Name in Dropdown for Viz Widget, Batch Edit, and Embargo Management
+Corrects full name and overrides the authenticated text for the embargo and lease dropdowns, so that the value is "Penn State" and not "Institution Name."

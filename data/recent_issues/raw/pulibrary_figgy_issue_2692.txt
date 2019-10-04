@@ -1,0 +1,2 @@
+Remove pending from DerivativeService Shared Specs
+Blocked by samvera-labs/valkyrie-derivatives#3

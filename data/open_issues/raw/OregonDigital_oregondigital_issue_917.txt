@@ -1,0 +1,6 @@
+Review UO images replaced by pre-migration access images
+Our old system wasn't preservation-ready, and as such we have had trouble finding some of the high-quality TIFF images.  I'll attach lists here of PIDs we know we want to double-check to see if we can find those images.  There may be others, but these are items caught by the image compare where the old access-quality images had to be reuploaded.
+[list-20151125.txt](https://github.com/OregonDigital/oregondigital/files/44418/list-20151125.txt) 
+@jechols : It would be useful to have the Identifiers as well, since that is how the files are named. 
+I can add that if you really want, but one thing I've learned working on this clean-up is that the identifiers don't always match the filenames - that assumption is in fact one of the reasons for migrating the wrong images in the first place. 
+As per our conversation, here they are with identifiers:  [list-20151125.txt](https://github.com/OregonDigital/oregondigital/files/47792/list-20151125.txt) 

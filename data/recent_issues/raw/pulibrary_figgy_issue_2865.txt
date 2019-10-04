@@ -1,0 +1,1 @@
+Don't sync a coin to OL if there is no parent numismatic issue

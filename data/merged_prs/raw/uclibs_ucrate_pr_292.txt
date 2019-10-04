@@ -1,0 +1,2 @@
+Fix sitemap collection links
+Fixes #286 Fix sitemap links for collections. Changes proposed in this pull request:  Tweak app/controllers/site_map_controller.rb to show correct collection urls Update spec

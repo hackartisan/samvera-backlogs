@@ -1,0 +1,2 @@
+Mount size config
+Added mount_size_[appname] variables to allow for mount sizes to be set at configuration

@@ -1,0 +1,2 @@
+Add coverall & simplecov gems
+Add simplecov gems to see our test coverage. https://rubygems.org/gems/simplecov Add coverall & simplecov gems to see our test coverage. https://rubygems.org/gems/coveralls Add any tests to get close to full test coverage.

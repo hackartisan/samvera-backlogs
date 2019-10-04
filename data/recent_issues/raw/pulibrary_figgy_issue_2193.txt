@@ -1,0 +1,2 @@
+Karachi map has 2 intermediate_files
+Maybe as a result of addressing this error? Backtrace line 74 of [PROJECT_ROOT]/app/derivative-services/image_derivative_service.rb: run_derivatives line 64 of [PROJECT_ROOT]/app/derivative-services/image_derivative_service.rb: create_derivatives line 39 of [PROJECT_ROOT]/app/derivative-services/scanned_map_derivative_service.rb: create_derivatives  View full backtrace and more info at honeybadger.io

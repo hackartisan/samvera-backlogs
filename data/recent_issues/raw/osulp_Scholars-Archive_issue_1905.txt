@@ -1,0 +1,2 @@
+CircleCi mysql-client busted
+It appears that the configuration in CircleCI depends on a package that has changed and is failing to build and run tests. It could be that reworking CircleCI, entirely, for SA would be a good idea and basing it off of how OD2 is configured.

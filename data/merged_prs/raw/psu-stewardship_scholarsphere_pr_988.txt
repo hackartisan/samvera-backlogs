@@ -1,0 +1,2 @@
+Only show the representative media section when editing a work
+This fixes the media section appearing on the new work page when the media hasn't been set. Only display the media section with values when we are editing a work.  Uses if action == edit and tests that the media section is not present on the new work form.

@@ -1,0 +1,2 @@
+update uv-seadragon-extension theme to display fullScreen btn in mobile screen
+closes pulibrary/orangelight#1630

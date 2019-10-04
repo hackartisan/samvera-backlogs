@@ -1,0 +1,2 @@
+Improve figaro production variable
+Will handle correctly true/false values and symbol :debug

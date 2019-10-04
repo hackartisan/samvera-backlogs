@@ -1,0 +1,2 @@
+update actor add_other_field_option and degree field validation
+fixes NoMethodError: undefined method title' for nil:NilClass on create related: #1383

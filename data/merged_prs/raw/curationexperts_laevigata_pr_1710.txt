@@ -1,0 +1,2 @@
+display partnering agency on review tab
+This commit adds the code required to display Partnering Agencies on the review tab. Connected to #1703

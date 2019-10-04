@@ -1,0 +1,2 @@
+Figure out why based_near isnt validating
+Descriptive summary Possibly because of some changes we made to the basic metadata or other pieces of work, its now not validating the based_near object when it is configured to work. To configure location to work, you have to set the geonames username to a valid username. In this case we use 'etsdev'. When it is set, and you try to save a work with a valid location, it says the object is invalid. We need to figure out why this is.

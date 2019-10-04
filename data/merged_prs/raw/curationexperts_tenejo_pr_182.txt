@@ -1,0 +1,2 @@
+Use released 2.1.0 version of Darlingtonia
+Connected to #179

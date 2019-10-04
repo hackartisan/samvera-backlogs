@@ -1,0 +1,2 @@
+check visibility of assets
+HELIO-2933

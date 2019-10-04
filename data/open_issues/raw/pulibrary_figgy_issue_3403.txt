@@ -1,0 +1,3 @@
+Bounding box selection widget for ScannedMaps is failing to render for certain resources
+Backtrace line 348 of [PROJECT_ROOT]/app/models/controlled_vocabulary.rb: json line 326 of [PROJECT_ROOT]/app/models/controlled_vocabulary.rb: all line 3 of [PROJECT_ROOT]/app/views/records/edit_fields/_holding_location.html.erb: _app_views_records_edit_fields__holding_location_html_erb___1664550733401658565_70351313377840  View full backtrace and more info at honeybadger.io
+This was originally derived from an older issue on Honeybadger affecting the resource https://figgy.princeton.edu/concern/scanned_maps/5ad38aac-05ad-4399-a544-eff73d102f57/edit

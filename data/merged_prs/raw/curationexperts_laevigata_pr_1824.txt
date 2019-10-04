@@ -1,0 +1,2 @@
+Fix broken banner URL
+Used the wrong helper in the CSS.

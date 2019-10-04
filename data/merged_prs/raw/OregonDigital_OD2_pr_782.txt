@@ -1,0 +1,2 @@
+Remove extra workType property definition
+Fixes #781

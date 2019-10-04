@@ -1,0 +1,2 @@
+Add a single value Ark to the Solr index
+Connected to #358 ARKs are available as a single-valued field for blacklight This requires us to add the "ark:/ " prefix to all identifiers in the  local development environment sample data test, dev and stage and environments production environments  And then re-index  Changes to be committed:  modified:   app/indexers/work_indexer.rb modified:   spec/indexers/work_indexer_spec.rb

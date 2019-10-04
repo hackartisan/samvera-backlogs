@@ -1,0 +1,2 @@
+Discuss pref_label and alt_label indexing.
+It seems like there needs to be a bit of discussion around indexing of pref labels and alt labels per #1288. Labels are coming in for multiple fields and we need to figure out how best to index those.

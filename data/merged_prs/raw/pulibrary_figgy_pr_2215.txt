@@ -1,0 +1,2 @@
+Updating Foreman config to run solr
+This allows running the application in development mode with only a single command, instead of having to run Solr in a separate window.

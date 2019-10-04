@@ -1,0 +1,2 @@
+Hyrax 2.4.1+BE1.0.0rc2 / Ordered Members Actors
+This PR updates donut use to Hyrax 2.4.1 plus jrgriffiniii's Browse Everything changes and geekscruff's ordered members actors.

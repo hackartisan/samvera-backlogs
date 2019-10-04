@@ -1,0 +1,2 @@
+add little i icon for age and exposure
+resolves #114

@@ -1,0 +1,2 @@
+Minor changes to rake add_persons task.
+Merged two person.csv files. Simplified the check_url code for places / people.

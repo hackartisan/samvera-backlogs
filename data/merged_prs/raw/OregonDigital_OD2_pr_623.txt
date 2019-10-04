@@ -1,0 +1,2 @@
+Hide badges for non-admins
+Fixes #603 mostly We don't have a curator role yet, this gives us a way to do it when we do

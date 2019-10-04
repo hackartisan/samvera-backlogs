@@ -1,0 +1,4 @@
+UI for bulk download
+As a fulfiller, I would like to download a large number of pages and/or items:  One or more items as TIFF images Several items as PDFs  There are service objects and Rake tasks to do this now, but no user interface.  Proposed UI:  On item show page, add button to download entire object as TIFFs. On the bulk edit page, add buttons to download all of the items as PDFs or TIFFs. In both cases, the exported files shoud be saved to a shared mount point and an email should be sent to the user to notify them the files are ready.
+@escowles Can you weigh in on this one?
+We have all of this functionality implemented in services and Rake tasks now, so this ticket is really about building a UI for that functionality.  This could be a good student project, so I'll update the ticket and keep this in the backlog for now.

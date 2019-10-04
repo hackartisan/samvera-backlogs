@@ -1,0 +1,2 @@
+Ensure we can delete and re-import a work
+Given that we are using ark-based identifiers, we might run into trouble if we delete a work and then try to re-import it   Write a system spec that tests this  If necessary, eradicate the work instead of using the delete or destroy command on the back end, to ensure a new work can be created with the same id

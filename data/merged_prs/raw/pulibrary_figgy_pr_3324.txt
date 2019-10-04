@@ -1,0 +1,2 @@
+Retry Cloud Fixity on Download Error
+Closes #3285

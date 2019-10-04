@@ -1,0 +1,2 @@
+displaying legacy submitting types in edit
+This commit will display a legacy submitting type when editing an Etd, if one exists. Connected to #1094

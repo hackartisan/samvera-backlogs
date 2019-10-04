@@ -1,0 +1,2 @@
+Add search fields for Advisor and Committee Member
+Also add to the "All Fields" field Fixes #1483

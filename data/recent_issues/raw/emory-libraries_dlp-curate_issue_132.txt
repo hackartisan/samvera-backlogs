@@ -1,0 +1,2 @@
+Use Shibboleth on curate-test
+Change env variable to use Shibboleth.  Test that login works  Ensure the admin setup rake task is run.  Revert changes that were made in order to disable database_auth on curate-test

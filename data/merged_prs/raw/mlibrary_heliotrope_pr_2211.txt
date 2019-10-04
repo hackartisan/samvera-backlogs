@@ -1,0 +1,2 @@
+Resolves HELIO-2476: reindex_everything
+When ActiveFedora::Base.reindex_everything times out or overflows the buffer try RestfulFedora.reindex_everything.

@@ -1,0 +1,1 @@
+Config derivatives location. Fixes #17

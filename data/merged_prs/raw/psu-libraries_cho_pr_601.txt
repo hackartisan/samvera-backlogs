@@ -1,0 +1,2 @@
+File Selection Button Alignment
+Removes the screen reader only class and exposes the i18n label to have the file selection elements below the collection datalist. Description Fixes #590 Why was this necessary? Alignment of the file selection form elements was too close to the collection member datalist and cuased user confusion. Changes Are there any major changes in this PR that will change the release process? No Checklist   i18n enabled  adequate test coverage  accessible interface

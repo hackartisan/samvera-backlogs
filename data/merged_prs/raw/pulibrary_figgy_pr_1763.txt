@@ -1,0 +1,2 @@
+Use casecmp to match against "TRUE"
+capitalize only does the first letter

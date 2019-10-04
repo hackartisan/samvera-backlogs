@@ -1,0 +1,2 @@
+Extending the EphemeraFolder feature tests for saving and creating subsequent folders
+Ensures that #509 is resolved

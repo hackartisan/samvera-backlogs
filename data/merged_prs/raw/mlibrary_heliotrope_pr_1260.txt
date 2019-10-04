@@ -1,0 +1,2 @@
+add NYUP to homepage
+resolves #1193

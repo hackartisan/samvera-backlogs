@@ -1,0 +1,2 @@
+Adding a test for a file actually exported from Excel
+The file saved from Excel includes a BOM character at the front of the file, which we need to handle refs #815 Fixes #815

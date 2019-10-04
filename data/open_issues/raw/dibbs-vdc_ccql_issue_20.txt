@@ -1,0 +1,4 @@
+Do we default to the uploader as creator for projects and works? 
+Should we allow entry of "Other" (non-vdc) people? What does the creator really mean?
+I think we need to find a way to differentiate between author and uploader, as they will not necessarily be the same person. And when it comes to citing this data, people will be confused if the true author is not easily identified. 
+From Grace:  We cannot have a non-VDC person because we need a url that refers to something real for the active discovery layer.   Hyrax allows for proxy uploaders. A proxy uploader needs to still be part of the VDC.  If the proxy requires you to be a VDC member, we need to change the registry process to add a proxy role.  Maybe add a proxy registry to the registration. Directory entry (person metadata) may have more than one person authentication associated with it. 

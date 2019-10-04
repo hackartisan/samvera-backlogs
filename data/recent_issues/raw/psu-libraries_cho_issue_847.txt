@@ -1,0 +1,2 @@
+Main Catalog Should Not Return Collections Objects
+The main catalog should return only resources, and not include collections. Based on #810, the current main catalog becomes "Browse resources" while collections are removed to "Browse collections" [#1025]. The Collection Type facet would need to be removed. Blocked by #810, #1025

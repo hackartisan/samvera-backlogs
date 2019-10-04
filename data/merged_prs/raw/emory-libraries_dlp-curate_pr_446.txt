@@ -1,0 +1,2 @@
+adds parent child relationship in show page
+Closes #284

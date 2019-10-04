@@ -1,0 +1,2 @@
+bin/marc: require SRU module
+It should be autoloaded, but we're getting an error trying to run this on a production server.

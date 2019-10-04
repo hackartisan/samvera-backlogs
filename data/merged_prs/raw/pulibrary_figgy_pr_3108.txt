@@ -1,0 +1,2 @@
+Numismatics namespace refactor
+Group all numismatics resources into a single directory and Refactor into a Numismatics namespace. app/resources/numismatics ├── accessions │   └── numismatics │       ├── accession.rb │       ├── accession_change_set.rb │       ├── accession_decorator.rb │       ├── accession_wayfinder.rb │       └── accessions_controller.rb ├── artists │   └── numismatics │       ├── artist.rb │       ├── artist_change_set.rb │       ├── artist_decorator.rb │       └── artist_wayfinder.rb

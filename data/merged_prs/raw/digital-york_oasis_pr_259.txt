@@ -1,0 +1,2 @@
+Apply security patches
+Update to Hyrax 2.0.3. All files as corrected at Hyrax gem engine are not overridden by us Updated Loofah to 2.2.3 as adviced by GH security alert Run bundle update so other gems were bumped to some higher version

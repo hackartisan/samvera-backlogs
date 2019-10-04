@@ -1,0 +1,2 @@
+'upload similar' feature
+From EM on 6 May 2019: so, all the metadata is kept from previous upload, and then you can just change one or two details and upload a new document?

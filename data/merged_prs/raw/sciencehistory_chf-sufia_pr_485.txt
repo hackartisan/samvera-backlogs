@@ -1,0 +1,2 @@
+Start of SyntheticCategories
+This is not the final UI. We don't have "splash pages" yet. I don't intend to expose the synthetic categories on the normal search results page, like it is now. But this gives us a smaller piece to review, including in production, to make sure the general idea is sound. refs #434, #435, #436, #437, #438, #439

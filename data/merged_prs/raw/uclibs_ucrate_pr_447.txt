@@ -1,0 +1,2 @@
+Set footer elements
+Fixes #412 Update footer to match production scholar. Make copyright date dynamic.

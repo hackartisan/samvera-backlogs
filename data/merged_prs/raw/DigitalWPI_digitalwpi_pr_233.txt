@@ -1,0 +1,2 @@
+added advisor as a facet
+Fixes #232 We need to run ActiveFedora::Base.reindex_everything from console after we push these changes to QA/Prod.

@@ -1,0 +1,2 @@
+Create FAQ's Page That Completes Link Between Help Button and Tutorials
+Add final link to FAQ page.  This commit closes dltp-220#

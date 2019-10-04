@@ -1,0 +1,2 @@
+Minor CSS tweaks.
+Minor CSS tweaks for set collection slideshows.

@@ -1,0 +1,2 @@
+ Display current visibility first in embargo edit
+When editing an embargo, I want to see the work's current visibility setting first in the drop down menu. Fixes #1552

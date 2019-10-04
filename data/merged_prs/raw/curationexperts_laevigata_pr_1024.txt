@@ -1,0 +1,2 @@
+Clarify developer setup instructions
+It's obvious once you get the error, but if you're following the developer setup instructions verbatim, they ask you to run the server without installing dependencies

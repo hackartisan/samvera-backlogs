@@ -1,0 +1,1 @@
+Bump DSC to latest 1.x version and remove unsupported configuration options

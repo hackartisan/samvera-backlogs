@@ -1,0 +1,2 @@
+Adding the directory information refresh
+fixes #1399

@@ -1,0 +1,2 @@
+Add Structure Editor to playlist.
+This also fixes manifest generation of playlists with deeply nested hierarchy. Closes #2653

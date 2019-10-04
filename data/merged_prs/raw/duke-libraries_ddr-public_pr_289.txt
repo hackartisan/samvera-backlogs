@@ -1,0 +1,2 @@
+Copy images into assets directory
+Images can be added to ddr-portals for about pages such as for the hmp portal: ddr-portals/hmp/assets/images/hmp-notes.jpg These will be copied to: app/assets/images/ddr-portals/hmp/hmp-notes.jpg Include this image in about pages or elsewhere with the following helper: image_tag("ddr-portals/hmp/hmp-notes.jpg")

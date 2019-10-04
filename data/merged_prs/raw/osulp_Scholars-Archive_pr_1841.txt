@@ -1,0 +1,2 @@
+allows for bulk updating ordered metadata
+fixes #1835

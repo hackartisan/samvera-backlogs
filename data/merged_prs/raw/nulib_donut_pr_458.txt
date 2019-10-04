@@ -1,0 +1,2 @@
+Use new method signature for CreatePyramidTiffJob
+CreatePyramidTiffJob no longer requires the file_id parameter.

@@ -1,0 +1,2 @@
+Selenium deprecations
+Remove database_cleaner: now that we've switched to system specs it's no longer needed Upgrade capybara to address deprecation warnings in tests  Connected to curationexperts/in-house#222 Connected to curationexperts/in-house#196

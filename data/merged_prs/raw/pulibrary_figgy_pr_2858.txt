@@ -1,0 +1,2 @@
+Deduplicate files before creating PendingUploads
+should be the last piece in order to close #2836

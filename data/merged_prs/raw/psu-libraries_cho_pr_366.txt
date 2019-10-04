@@ -1,0 +1,2 @@
+Test for change sets in new actions, ref #319
+This ensures test coverage matches throughout the existing controllers. We could later make this a shared spec if our controllers have a shared set of behaviors.

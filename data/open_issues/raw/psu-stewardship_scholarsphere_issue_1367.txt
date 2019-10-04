@@ -1,0 +1,2 @@
+Update Searches cron job to run more frequently
+Currently the searches cron job saves off the data and clears the table yearly.  The ops crew would like this to be run more frequently. I would assume monthly would be frequent enough, but that may impact our ability to get the search data back for mining.

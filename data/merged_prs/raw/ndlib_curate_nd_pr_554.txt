@@ -1,0 +1,2 @@
+Dltp 275 defect url users id edit is exposed through ORCID settings
+Claiming issue DLTP-275 @c753059436864cb8f8da8bb1cd087b07f059a5bc $ ./script/start-issue DLTP-275 [skip ci] fix user edit path to not show user id @7462897a162c10b1fe0fd514f2adffce8cc4bf89 Closing issue DLTP-275 @0bfab9903b6030e10353dfb5f00eadb0c6896128 $ ./script/close-issue DLTP-275

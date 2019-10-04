@@ -1,0 +1,2 @@
+Removes degree and advisor from GenericWork and Image.
+Fixes #343 Present short summary (50 characters or less) These fields are not needed on these two work types.

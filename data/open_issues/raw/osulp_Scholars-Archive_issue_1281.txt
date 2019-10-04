@@ -1,0 +1,4 @@
+Set up Collections after release of Collection Extensions
+First pass at what collections to build:   Collections for all academic units  Collections for all non-academic units  Evaluate DSpace Communities and Collections for candidates
+also consider the comments here: https://github.com/osulp/Scholars-Archive/issues/1054
+Just want to be sure that we continue to retain old dspace community/collection information until it can be moved over to samvera when collections are set up again. For example: http://dspace-ir.library.oregonstate.edu/xmlui/handle/1957/22391

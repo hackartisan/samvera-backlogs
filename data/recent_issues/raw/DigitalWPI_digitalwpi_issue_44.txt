@@ -1,0 +1,2 @@
+Get rid of robots.txt
+After the recent meeting, it is decided that we should allow search engines to crawl the application content and index. So, get rid of the robots.txt to allow the same. https://github.com/DigitalWPI/digitalwpi/blob/master/public/robots.txt

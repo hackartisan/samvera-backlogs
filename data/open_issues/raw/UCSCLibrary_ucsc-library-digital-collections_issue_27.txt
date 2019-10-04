@@ -1,0 +1,3 @@
+Failed resque job creating browse_everything derivatives
+Originally reported by: Edward Henry (Bitbucket: ethenry, GitHub: ethenry)  Although the derivatives seem to be created successfully, the  associated resque job fails because it attempts to delete the original file. It correctly does not have the privileges to delete the master files. We should modify that scripts to do whatever archiving we want to do on the original file.   Bitbucket: https://bitbucket.org/ethenry/ucsc-sufia-based-dams/issue/27
+We have now switched from resque to sidekiq. We have not tested browse_everything ingest since this time. 

@@ -1,0 +1,2 @@
+Fix state/visibility propagation.
+Without a pre-populated ChangeSet, it wasn't detecting array differences appropriately.

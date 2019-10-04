@@ -1,0 +1,2 @@
+Fixes #271 - https streaming issue on latest chrome
+Update deploy config

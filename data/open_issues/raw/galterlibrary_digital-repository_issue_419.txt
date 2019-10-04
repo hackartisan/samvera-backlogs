@@ -1,0 +1,1 @@
+Improve metadata details display, it looks all squished and ugly

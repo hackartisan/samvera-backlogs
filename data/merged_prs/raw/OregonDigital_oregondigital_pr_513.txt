@@ -1,0 +1,2 @@
+Closes #393 - Footer CSS
+Closes #393 - Footer CSS

@@ -1,0 +1,2 @@
+Update geo_works-derivatives gem
+Updates geo_works-derivatives gem for better GeoTIFF generation. See: pulibrary/geo_works-derivatives#12 Closes #1888

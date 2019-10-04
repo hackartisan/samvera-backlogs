@@ -1,0 +1,2 @@
+Setup Email on server
+Research & configure our application on how to send and receive emails from our application. This includes, if a user sends an email via the contact form or if we need to send out email regarding embargoes or anything else, what needs to be done.

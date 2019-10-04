@@ -1,0 +1,2 @@
+workflow admin list fails to load
+Descriptive summary ACK! Error message occurs when visiting the admin workflows page. Expected behavior The page to render a list of the works in a workflow process.

@@ -1,0 +1,2 @@
+Redirecting to previous page after login doesn't always work
+When I try to access a private resource (either because of visibility or pending state) when I am not logged in, I get redirected to the home page after logging in with CAS.  I should be redirected back to the private resource after logging in. Refs #2390

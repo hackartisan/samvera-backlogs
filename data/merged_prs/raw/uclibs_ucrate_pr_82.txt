@@ -1,0 +1,2 @@
+Make tests less fragile
+Some tweaks to get the tests passing more reliably. Also randomizes the test suite.

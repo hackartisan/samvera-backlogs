@@ -1,0 +1,2 @@
+Fix rich text not displaying on the edit form
+The type checking wasn't quite right for handling the edit and creation forms.

@@ -1,0 +1,2 @@
+Remove keyword from application spec test and locale files
+Fixes #321 Changed keyword to subject in spec files Deleted keyword in locale files Deleted keyword in collection presenter file

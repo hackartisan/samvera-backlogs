@@ -1,0 +1,2 @@
+Add missing files at more participants details
+Resolves missing fields as reported at #43

@@ -1,0 +1,2 @@
+Use ruby 2.3.3 in Travis
+Travis's ruby version did not match our locally-deployed one.

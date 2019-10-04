@@ -1,0 +1,2 @@
+Link to ArchivesSpace
+Attempts to view finding aids which are private will show a link to archivesspace rather than the unauthorized page. https://jira.library.nd.edu/browse/DLTP-1711

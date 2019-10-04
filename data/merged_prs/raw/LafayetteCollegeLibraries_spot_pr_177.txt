@@ -1,0 +1,2 @@
+add support for zipped exports
+we're going to want to export not only representative files but also all filesets belonging to an item. as well as metadata for the item. this aims to do that.   service for exporting items  controller for exports  access control for export (:load_and_authorize_resource)  add button to work view  add ability to export csv of metadata  closes #169

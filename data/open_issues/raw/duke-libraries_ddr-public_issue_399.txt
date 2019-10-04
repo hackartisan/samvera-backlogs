@@ -1,0 +1,2 @@
+render human-readable EDTF dates beyond digital collections
+Now that we have EDTF-formatted dates for collections beyond digital collections, we'll have to humanize the display more broadly. E.g., DVS collections currently display dates like these: 1983/2005 (National Sample Survey) 1973/2012 (LAPOP) 1992/2008 (Polidata)

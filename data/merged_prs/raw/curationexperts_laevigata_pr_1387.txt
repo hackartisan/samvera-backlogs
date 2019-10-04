@@ -1,0 +1,2 @@
+Add components for submission tab
+This introduces additional components that are used to read from the sharedState and from the savedData to render the completed form. There are portions that we will need to decide how to re-display that are marked with TODOs. This also has some small refactoring in App.vue. The sharedState was called form in that file, but not anywhere else. I changed this to be sharedState so as to follow the naming convention in the other files. Related to #1190

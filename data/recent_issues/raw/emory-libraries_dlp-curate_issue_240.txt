@@ -1,0 +1,2 @@
+Create service accounts for Fedora and Fedora test 
+Create and name target buckets for Fedora data  Generate the policies for respective service users  Use VPCP console to request the service users  Test out the credentials once received

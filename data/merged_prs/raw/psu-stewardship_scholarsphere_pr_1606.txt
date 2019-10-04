@@ -1,0 +1,2 @@
+Link to README Guide
+Updates the readme message and adds a URL to the readme guide.

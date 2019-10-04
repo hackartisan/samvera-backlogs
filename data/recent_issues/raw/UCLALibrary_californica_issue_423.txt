@@ -1,0 +1,2 @@
+Document californica internal ingest process
+As a software architect I would like a document outlining the steps taken by Hyrax during the ingest of an item, calling out which steps are blocking or non-blocking, and which are configurable or have hooks to easily change the called process ACCEPTANCE   Document is reviewed by @joshuago78

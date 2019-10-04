@@ -1,0 +1,2 @@
+update physical container edit hint
+per #998

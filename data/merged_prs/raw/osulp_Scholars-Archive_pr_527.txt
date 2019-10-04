@@ -1,0 +1,2 @@
+updates gems for Hyrax and related dependencies
+keeping hyrax gem and dependencies updated.. in particular changes license to optional metadata

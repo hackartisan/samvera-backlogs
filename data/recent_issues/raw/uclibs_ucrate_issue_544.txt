@@ -1,0 +1,2 @@
+Enable public_file_server for production
+Descriptive summary The Universal Viewer isn't working in production mode because we need to set config.public_file_server.enabled = true in config/environments/production.rb

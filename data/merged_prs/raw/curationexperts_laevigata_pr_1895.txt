@@ -1,0 +1,2 @@
+Keep degree, subfield and department values for migrated ETDs
+Do not lose values for department, degree, and subfield even if those values aren't in our current list of controlled vocabulary terms Update code throughout to use only active terms, except in places where an inactive term is needed to preserve an existing value for a migrated work

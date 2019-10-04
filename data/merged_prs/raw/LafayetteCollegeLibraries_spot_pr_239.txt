@@ -1,0 +1,2 @@
+use default background for collections without one
+adds a gradient image to use for collections without a banner image

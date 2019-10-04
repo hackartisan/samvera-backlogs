@@ -1,0 +1,2 @@
+Preserve metadata-only objects
+Child of #1876 Do we want to preserve metadata-only objects, like collections, or ephemera projects/boxes/vocabs?

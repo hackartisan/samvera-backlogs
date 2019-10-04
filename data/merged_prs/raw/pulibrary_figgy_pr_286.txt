@@ -1,0 +1,2 @@
+Sort Vocabulary Terms in Menus.
+Closes #277.

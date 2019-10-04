@@ -1,0 +1,3 @@
+User Export of Object Metadata
+As a digital scholar, I would like the ability to download raw metadata about any subset of digital collections (including an entire collection), using fields of my choosing (title, creator, date, etc.) in some sort of regular format (.csv, json, etc.), So that I may re-purpose the metadata in my own research projects.
+Related: #99 

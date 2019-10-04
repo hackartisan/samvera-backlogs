@@ -1,0 +1,2 @@
+no derivs for office docs
+Resolves #104

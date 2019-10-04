@@ -1,0 +1,3 @@
+experiment with GH-integrated project management stuff
+zube waffle
+The built-in Github "projects" feature has also improved somewhat since we last evaluated (and decided it didn't have enough to be useful), we could include that in our evaluation too. 

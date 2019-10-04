@@ -1,0 +1,2 @@
+Editing a work, Location dropdown doesn't seem to work
+Description In my local version of Donut, I can't get any values to populate when searching for "Location" when editing a work.  So I can't add a Location to a work to test if it's pulling through to the React app. To recreate Edit a work Try typing in a value for "Location" field.

@@ -1,0 +1,2 @@
+Confirm Locations URIs are pulling Geonames hierarchy
+Some are pulling narrowest term only. This is a label fetching issue not URI issue

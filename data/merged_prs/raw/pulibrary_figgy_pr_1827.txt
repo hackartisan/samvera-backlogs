@@ -1,0 +1,2 @@
+Fix show page rendered coverage
+Loading show page from Postgres changes the behavior of empty attributes. When loaded from Solr, an empty attribute on the document returns nil. When loaded from Postgres, an empty attribute on the document returns an empty array. The rendered_coverage method assumed a nil value. Closes #1823

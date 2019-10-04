@@ -1,0 +1,2 @@
+Public: Metadata in search results
+The following fields should appear in the Ursus search results (and any others should be removed):   Title  Description  Normalized Date  Date.creation  Resource Type

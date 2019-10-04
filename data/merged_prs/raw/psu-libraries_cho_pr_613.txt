@@ -1,0 +1,2 @@
+Remove single file upload from CSV import
+Description Fixes #549 Removes the ability to upload single files in a CSV. Why was this necessary? Single-file upload is no longer supported in a CSV, only bag upload.

@@ -1,0 +1,2 @@
+Escaping fulltext before sending to solr (DHH-724)
+Fixes https://lib-jira.ucsd.edu:8443/browse/DHH-724 Also fixing deprecations in controller tests

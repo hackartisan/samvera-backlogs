@@ -1,0 +1,2 @@
+Status report of the rows in a CSV Import
+This PR represents the first part of CAL-605:  Pass row id to import process so new background jobs can be tracked Use row_id instead of batch id and track ark in error messages  Importantly, this PR does NOT track the status of any background jobs a CSV row kicks off in deciding whether the row is complete or not.

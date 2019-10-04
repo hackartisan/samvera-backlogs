@@ -1,0 +1,2 @@
+Evaluate AWS ElastiCache
+ElastiCache is an alternative to Redis that some Samverians are using.   Install ElastiCache on a server in AWS  See if ElastiCache is compatible with DLP Curate

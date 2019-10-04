@@ -1,0 +1,2 @@
+Add collection selection
+This adds collection selection to the import page. When you submit the form, the collection ID is associated with the import in the database. This also includes some basic styling. After this is merged, you'll need to run db:migrate. Connected to #44

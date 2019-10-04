@@ -1,0 +1,2 @@
+add config sidekiq for named queues
+Add named queue:  hyrax_migrator and set concurrency to 5

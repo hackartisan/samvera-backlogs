@@ -1,0 +1,2 @@
+Description field not displayed on show page for production content
+Descriptive summary When pointing ucrate to production data, the description content isn't displayed on the work show page. THE PROBLEM IS ONLY WITH EXISTING PRODUCTION CONTENT FROM SCHOLAR.UC.EDU It is, however, properly showing on the description field on the work edit page. This might be a description/alt_description problem.  Could be a problem with the solr field.

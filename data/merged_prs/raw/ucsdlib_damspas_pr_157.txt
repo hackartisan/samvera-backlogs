@@ -1,0 +1,1 @@
+Fixing related resource datastream model and solr index issues.(DHH-746)

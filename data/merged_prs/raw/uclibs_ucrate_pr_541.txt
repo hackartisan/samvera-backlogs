@@ -1,0 +1,2 @@
+Set up create generic work feature spec
+Fixes #529 Refactor to include create work feature spec for Generic Works. Changes proposed in this pull request:  Add spec/features/create_work_feature_spec.rb Correct typo in Generic Work locale for publisher field

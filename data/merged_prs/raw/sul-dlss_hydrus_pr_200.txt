@@ -1,0 +1,1 @@
+Don't log 404 errors to Honeybadger

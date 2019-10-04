@@ -1,0 +1,2 @@
+Add 'Has Structure' facet
+Adds Yes/No facet for whether an item has logical structure Alphabetizes indexer in initializer for readability  Fixes #2775

@@ -1,0 +1,2 @@
+persist supplemental files
+This commit persists the supplemental file data exactly like the primary file data: encoding it with json, appending it to the form, and retrieving it from savedData back into the form elements for display.

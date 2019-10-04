@@ -1,0 +1,2 @@
+Update views for publications
+cleans up how views are handled and fixes the show feature spec

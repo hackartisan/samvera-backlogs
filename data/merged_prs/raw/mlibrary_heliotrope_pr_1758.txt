@@ -1,0 +1,1 @@
+Resolves #1757: Remove heliotrope:clear_*_cache(s) rake task.

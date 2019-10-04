@@ -1,0 +1,2 @@
+skip works with empty embargo_history
+fixes #1962

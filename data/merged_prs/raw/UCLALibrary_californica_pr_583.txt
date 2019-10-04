@@ -1,0 +1,2 @@
+Only eradicate objects if the ark matches
+Previously, we were matching too broadly and sometimes eradicating objects we shouldn't have matched on.

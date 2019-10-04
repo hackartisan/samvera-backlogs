@@ -1,0 +1,2 @@
+Issue#52 skin header footer (#11)
+Update NU styling to header/footer; re-organize Rails CSS manifest Add release alpha tag to title Update hyrax items in header

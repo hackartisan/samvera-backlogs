@@ -1,0 +1,2 @@
+implement rspec
+sets up rspec config and adds a couple tests

@@ -1,0 +1,2 @@
+[WIP] Disable use of Redis asynchronous job in staging/production environment
+Related to #149 Disable resque as workers require further configuration. With misconfigured Resque workers ingest of binary files does not work correctly.

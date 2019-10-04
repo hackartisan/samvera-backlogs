@@ -1,0 +1,2 @@
+don't `bundle install` with `--freeze`
+This was causing problems, I thought I fixed it a long time ago.

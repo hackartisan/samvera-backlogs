@@ -1,0 +1,2 @@
+Extends ManifestBuilder::CollectionNode in order to hide MVW members
+Resolves pulibrary/pomegranate#362 by extending ManifestBuilder::CollectionNode in order to hide member resources when both the parent and members belong to the same Collection

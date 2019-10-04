@@ -1,0 +1,2 @@
+Copy catalog_search_spec and contact_form_spec from Hyrax
+Fixes #67 These are the last of the feature specs being copied over from Hyrax

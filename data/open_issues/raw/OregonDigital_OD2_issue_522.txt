@@ -1,0 +1,3 @@
+WC5 - Build out production OD2 environment
+
+At our last quarterly meeting, we discussed using S3 for binary storage in Fedora and a separate relational database for metadata storage. Our goal was to get everything off the Fedora container's file system. Check my quick note in #518 about setting this up.  Basically these should explain how to do it: https://wiki.duraspace.org/display/FEDORA4x/How+to+add+Use+Amazon+Simple+Scalable+Storage+%28S3%29+for+Storing+Fedora+Content https://wiki.duraspace.org/display/FEDORA475/Configuring+JDBC+Object+Store

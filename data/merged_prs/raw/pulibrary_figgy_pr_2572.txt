@@ -1,0 +1,2 @@
+Add capybara-screenshot
+This gem automatically takes a screenshot whenever a javascript-enabled feature test fails. Occasionally very helpful for debugging.

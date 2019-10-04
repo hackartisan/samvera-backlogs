@@ -1,0 +1,2 @@
+updates contact form details
+fixes #341 Changes have to be made to the servers linked files as well

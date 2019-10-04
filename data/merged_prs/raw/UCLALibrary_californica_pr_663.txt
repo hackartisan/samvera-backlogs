@@ -1,0 +1,1 @@
+allow arks with suffixes

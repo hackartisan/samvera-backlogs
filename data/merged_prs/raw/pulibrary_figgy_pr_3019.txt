@@ -1,0 +1,2 @@
+PDF export
+Provides a rake task and background job for exporting PDFs Refactors PDF generation to reduce duplication between export and controllers  Advances #2968; Closes #2462

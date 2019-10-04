@@ -1,0 +1,2 @@
+Resolves HELIO-2422: Products Show Page
+Removed Component, Individual, Institution, publisher, and product show pages from the Fulcrum dashboard in favor of a more standard rails solution which uses nested resource views.

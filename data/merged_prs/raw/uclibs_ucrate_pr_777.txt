@@ -1,0 +1,2 @@
+Change DOI link on work show page
+Fixes #773 Modified the hydra-remote_identifier gem to use the updated url convention given to us from Datacite. This commit has an updated spec to test that the changes are being used

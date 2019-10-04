@@ -1,0 +1,2 @@
+HELIO-1270 - Csb/download widget
+Display a download widget in cozy sun bear that allows a user to download various ebook formats (epub, mobi, pdf) if 1) they are available and 2) the user has permission to download them. Includes: HELIO-1270

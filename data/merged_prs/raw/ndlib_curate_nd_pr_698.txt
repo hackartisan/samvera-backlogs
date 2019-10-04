@@ -1,0 +1,2 @@
+Display Editor on Books and Book Chapters
+DLTP-1395 : Some books do not have Authors, only Editors. This will allow Editors to be seen for Books and Book Chapters in the search.

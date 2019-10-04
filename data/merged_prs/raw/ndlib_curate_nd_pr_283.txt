@@ -1,0 +1,2 @@
+Hide thumbnail when restricted
+Bringing in work done by @jeremyf in curate File permission badges are now rendered correctly (had been displaying the access controls of the parent)   https://trello.com/c/YDB8nMww

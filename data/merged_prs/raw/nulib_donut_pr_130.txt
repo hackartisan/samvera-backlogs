@@ -1,0 +1,2 @@
+Adding authority select and autocomplete for creator
+Fixes: #129

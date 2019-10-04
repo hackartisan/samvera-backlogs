@@ -1,0 +1,1 @@
+Removing the dlt directory from the schedule.rb

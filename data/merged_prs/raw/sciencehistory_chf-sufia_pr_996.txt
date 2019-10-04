@@ -1,0 +1,2 @@
+Don't eat /collection/new with our custom collection show controller
+Fixes #995

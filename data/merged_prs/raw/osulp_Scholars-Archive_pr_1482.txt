@@ -1,0 +1,2 @@
+Set facet limits back to 5
+Fixes #1481

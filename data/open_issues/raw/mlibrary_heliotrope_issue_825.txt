@@ -1,0 +1,2 @@
+When a new publisher is created, create an empty publisher stylesheet
+When a new publisher is created, we will need to provision a publisher specific stylesheet for that publisher. When a new publisher is saved via the dashboard:   write a sass include file named _subdomain.scss (subdomain should be replaced with whatever the user has input in the subdomain field)  write to _subdomain.scss a generic template as outlined in #826  write to the last line of  /app/assets/stylesheets/themes.scss the name of the newly created sass include

@@ -1,0 +1,1 @@
+Improve Honeybadger signal-to-noise ratio

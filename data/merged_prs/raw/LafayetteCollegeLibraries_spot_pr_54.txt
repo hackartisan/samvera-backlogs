@@ -1,0 +1,2 @@
+bump rubyzip to 1.2.2
+fixes security issue raised with CVE-2018-1000544

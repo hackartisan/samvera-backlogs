@@ -1,0 +1,1 @@
+superusers get admin link, all users get dashboard link

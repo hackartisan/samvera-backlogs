@@ -1,0 +1,2 @@
+Lazy map resources in MemoryEfficientAllQuery
+This should resolve a hang in reindexing on prod which has been blocking reindex in service of #1782

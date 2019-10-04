@@ -1,0 +1,2 @@
+added scholars_archive reindex_everything_job
+added rake task to run ReindexEverythingJob and reindex from SOLR references #867

@@ -1,0 +1,2 @@
+Don't persist state/visibility to FileSets
+Closes #160

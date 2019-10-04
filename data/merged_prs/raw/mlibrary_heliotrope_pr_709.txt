@@ -1,0 +1,1 @@
+Resolves #702 Add label field to the file_set presenter

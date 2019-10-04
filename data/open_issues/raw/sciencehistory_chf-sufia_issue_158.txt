@@ -1,0 +1,3 @@
+set 'from' email address and name
+should be able to set in this config: https://github.com/chemheritage/chf-sufia/blob/master/config/initializers/devise.rb#L13
+(applies to reset password emails I guess?)

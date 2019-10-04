@@ -1,0 +1,2 @@
+expand collection landing page
+we expanded the collection metadata a few months ago (see bd90655 among others) + maybe we should take a little time to update the ui for them?

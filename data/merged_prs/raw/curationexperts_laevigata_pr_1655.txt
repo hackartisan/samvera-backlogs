@@ -1,0 +1,2 @@
+Add task to set visibility to 'open' for unembargoed, unhidden works
+In the event Etd visibility becomes out of sync with hidden and embargo status, this task ensures Etds that are intended to be public are set correctly. During one of our test legacy Etd migrations, we migrated open objects as 'restricted'. Running this task will clean them up. Connected to #1647

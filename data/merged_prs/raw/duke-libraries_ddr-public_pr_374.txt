@@ -1,0 +1,1 @@
+Fixes item count on generic collection pages

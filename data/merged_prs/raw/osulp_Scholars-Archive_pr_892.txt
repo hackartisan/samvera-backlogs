@@ -1,0 +1,2 @@
+added footer css to match OSU branding
+fixes #848

@@ -1,0 +1,3 @@
+Configure Controlled Vocabulary Support for Collections
+Descriptive summary In order to configure all the metadata for Collections, Collections need to be able to support controlled vocabularies. There is going to be some extra work involved with allowing it to support the CVs.
+Need to use base Work Types to begin.

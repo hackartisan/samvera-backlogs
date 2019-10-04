@@ -1,0 +1,2 @@
+Adjust indexing for Google Scholar
+Exclude multi-page collections but include combined-document somehow... Allow bots to index download, see if DOSS, only allow Google Scholar to download is so.

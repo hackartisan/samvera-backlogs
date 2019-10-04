@@ -1,0 +1,2 @@
+Issue 91 homepage logs position
+resolves #91

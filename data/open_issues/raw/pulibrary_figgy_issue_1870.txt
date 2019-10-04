@@ -1,0 +1,2 @@
+Raster Resources should not have WFS references
+Raster Resources should not have WFS references in the GeoBlacklight document.

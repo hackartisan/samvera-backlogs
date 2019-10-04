@@ -1,0 +1,2 @@
+Report form errors to honeybadger
+And pass along the current_user so we know who has been affected @jenlindner I meant to get this in before your last PR got merged.  I think we should report errors to honeybadger, not just put them in the log file. If they're in honeybadger we have a much better chance of seeing them Don't we need to do the render last, after any error reporting? I thought once it does a render it won't do anything after. I could be wrong about that.

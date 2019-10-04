@@ -1,0 +1,2 @@
+More specs for pbcore mapper spec
+Builds out factories for other PBCore elements under pbcoreDescriptionDocument. Adds helper methods for testing pbcore xml using xpath.

@@ -1,0 +1,1 @@
+Use Addressable::URI.join to allow for schema-agnostic urls

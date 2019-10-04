@@ -1,0 +1,2 @@
+Upgrade to Rails 5.1.6.2 patch level release 
+Fixes a security vulnerability discovered in actionview. See https://groups.google.com/forum/#!topic/rubyonrails-security/pFRKI96Sm8Q for more information.

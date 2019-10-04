@@ -1,0 +1,2 @@
+Display identifier as ark for geo resources
+Closes #1194

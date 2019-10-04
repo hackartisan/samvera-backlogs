@@ -1,0 +1,2 @@
+support for EPS files
+https://tools.lib.umich.edu/jira/browse/HELIO-88

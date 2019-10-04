@@ -1,0 +1,2 @@
+add contact page to nav / links
+we lost the link when we got rid of the navbar

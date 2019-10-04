@@ -1,0 +1,3 @@
+Model visibility and restrictions
+DRAFT ACCEPTANCE CRITERIA   Determine whether we should add different restriction levels to the existing visibility options in CC (Visible, Embargo, Lease), OR whether we need to add a separate field (i.e. an additional dimension to the business logic) to define different public/restriction types.  How to model a "Forthcoming" monograph (it has a landing page but none of its content is published)?
+Keep an eye on how "save as draft" is implemented in UMRDR: https://github.com/mlibrary/umrdr/issues/364 

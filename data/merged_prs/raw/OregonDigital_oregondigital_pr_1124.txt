@@ -1,0 +1,2 @@
+Add batch directory for docker
+Sets up docker-compose.yml to mount a local directory as the default batch directory, and adds that directory to the repo.

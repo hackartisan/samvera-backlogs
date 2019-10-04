@@ -1,0 +1,2 @@
+Resolves #729: Authentication
+Deployed to heliotrope-testing for your convenience. Also, you should run it locally in development to checkout the Fake-HTTP-Authentication.

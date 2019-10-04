@@ -1,0 +1,2 @@
+Revert "Persist copyright questions"
+Reverts #1560

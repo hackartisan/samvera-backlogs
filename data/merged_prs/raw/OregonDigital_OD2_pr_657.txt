@@ -1,0 +1,2 @@
+update homepage with how do i use section
+Adds new how to I use section. Need to make it look nicer, but this gets it into place. Fixes #601

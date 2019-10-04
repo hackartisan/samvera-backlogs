@@ -1,0 +1,2 @@
+Refactor FieldsForSolrDocument
+Description Refactors FieldForSolrDocument to be a little less "floggy."

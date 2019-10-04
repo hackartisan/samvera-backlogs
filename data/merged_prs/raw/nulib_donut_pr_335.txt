@@ -1,0 +1,2 @@
+Fixes bug where partial accession match is considered duplicate
+Fixes: nulib/next-generation-repository#630  index accession number as _ssim rather than _tesim which was causing the accession number to be tokenized at dashes and find duplicates for a partial match like "inu-wint-26-52" and  "inu-wint-26-52-placeholder" and then skip the batch item.

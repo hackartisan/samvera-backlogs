@@ -1,0 +1,1 @@
+Setting up redis to allow for a password to be configured in production

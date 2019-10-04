@@ -1,0 +1,2 @@
+Modify the My Works and My Collections links in the masthead
+Descriptive summary The "My Collection" link in the masthead at the top of the page currently links to /dashboard/collections.  However, it should link to /dashboard/my/collections so that it matches the "Collections" link in the sidebar. The same situation exists with the "My Works" link in the masthead.  It should be changed to /dashboard/my/works Make sure we are testing that these links have the proper paths.

@@ -1,0 +1,1 @@
+Avoid rubocop AnyInstance warning by extracting method

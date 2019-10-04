@@ -1,0 +1,2 @@
+Flush output immediately so that you can see progress
+...instead of waiting for output when the process ends

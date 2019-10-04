@@ -1,0 +1,1 @@
+include download link on catalog show view; closes #17

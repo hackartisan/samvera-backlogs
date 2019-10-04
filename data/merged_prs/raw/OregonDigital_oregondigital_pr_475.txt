@@ -1,0 +1,2 @@
+Adding a rake task to create an admin user for development environments
+This is by request of kb.dk folks (@cjen), who are playing around with the code base.

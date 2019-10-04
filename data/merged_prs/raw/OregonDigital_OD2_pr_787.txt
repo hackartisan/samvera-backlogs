@@ -1,0 +1,2 @@
+add GenericAsset to model crosswalk
+fixes OregonDigital/hyrax-migrator#137

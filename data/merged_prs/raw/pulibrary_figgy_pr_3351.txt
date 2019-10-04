@@ -1,0 +1,2 @@
+Recreate fileset from tombstone
+Adds infrastructure for resurrecting a FileSet tombstone into a resource. This doesn't add the UI for it yet, but there's enough going on here that it seemed prudent to split it. Closes #3321 Closes #3310 Progresses #3299

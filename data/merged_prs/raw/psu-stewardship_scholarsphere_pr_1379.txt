@@ -1,0 +1,2 @@
+When bagging file don't read the whole file into memory
+This changes the bagger class so that it doesn't read the whole file into memory when sending the file to BagIt. Instead it sends the data a line at a time.

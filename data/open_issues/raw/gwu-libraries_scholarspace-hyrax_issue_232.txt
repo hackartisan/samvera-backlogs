@@ -1,0 +1,3 @@
+Collection metadata doesn't render anywhere
+
+Create a user collection, and add metadata such as Abstract, etc.   Expected behavior is to see this metadata on the collection page.  However, only the title shows.

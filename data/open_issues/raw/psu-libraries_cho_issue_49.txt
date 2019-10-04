@@ -1,0 +1,3 @@
+view front and back of digitized object
+As an end user, I need to be able to view the front and the back of two-sided objects (e.g. postcards, trade cards, etc.), So that I can study it as a complete object and see where the side that matched my search fits into the context of the entire object.
+Compound objects. Be able to switch between them in the viewer. Front and back of a page for example. Is this different than the Universal Viewer? Separate viewer? Multiple files. Plum does this already. IIIF examples.

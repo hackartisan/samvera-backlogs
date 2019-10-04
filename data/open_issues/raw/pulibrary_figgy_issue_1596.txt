@@ -1,0 +1,4 @@
+Migrate "Afghanistan" (pudl0054)
+
+No PUDL collection page.
+Ingest from Isilon.

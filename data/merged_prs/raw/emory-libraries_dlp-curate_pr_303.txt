@@ -1,0 +1,2 @@
+Generates persistent identifiers for the Cor repository
+Closes #17 Closes #271

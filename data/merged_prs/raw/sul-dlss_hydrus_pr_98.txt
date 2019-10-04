@@ -1,0 +1,2 @@
+Point deploy hosts to new servers
+don't merge this yet until we're sure the new servers are good to go.

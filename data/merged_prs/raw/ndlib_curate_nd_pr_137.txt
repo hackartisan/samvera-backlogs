@@ -1,0 +1,2 @@
+Adding script to update curate/curate_nd
+To learn more about the script, ask it: $ ./script/update-curate-gem -h [skip ci]

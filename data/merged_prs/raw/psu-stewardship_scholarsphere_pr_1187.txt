@@ -1,0 +1,2 @@
+Updating to Solr 7.1.0
+Includes changes to configuration files so that it matches exactly with our current production environment. With apologies to @cam156 😄

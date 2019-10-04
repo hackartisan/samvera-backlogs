@@ -1,0 +1,2 @@
+Removes Legacy ETD banner on homepage
+Closes emory-libraries/etd-issues#54

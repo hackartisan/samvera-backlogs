@@ -1,0 +1,2 @@
+Permissions to Review Works
+Descriptive summary Admins can review all works, Collection curators can review only deposits to collections they own.

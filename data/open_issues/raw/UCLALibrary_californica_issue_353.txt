@@ -1,0 +1,3 @@
+Final? LADNN metadata import
+Re-import all data after Sprint 9 changes to the import code have been made  Requires #339 Requires #340 Requires UCLALibrary/amalgamated-samvera#201 Requires #349
+MARC subfields in local DAMS are being removed before ingest, Relation.isPartOf is now correct, and Name.repository value is correct but incomplete since nearly 1K lack any value. Jira ticket updated to fix: https://jira.library.ucla.edu/browse/DLCS-491

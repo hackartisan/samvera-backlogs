@@ -1,0 +1,2 @@
+Some child raster resources have same ARK id as parent scanned map
+A number of raster resources are assigned the same ARK ids as their parent resource. I can't replicate this behavior in the UI, so this must have been an issue during import. Example: https://figgy.princeton.edu/catalog/599335a7-8905-4167-9a71-4c1a9833e823 We need to assign new ARKs for the child resources and refresh the ARK metadata for the parents.

@@ -1,0 +1,2 @@
+Replaces content of deposit agreement with custom OSU agreement
+Fixes #40. This simply gets all the text in place according to issue #40, however, layout could potentially use some work. We can decide on what to do with the layout of the text on that page anytime.

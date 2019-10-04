@@ -1,0 +1,2 @@
+Semi-controlled properties
+The system of record id field is semi-controlled. It consists of a controlled prefix, and an uncontrolled id. The stored value for the property should be the concatenation of the prefix, a colon, and the uncontrolled id.   Research if Select2 support these requirements  If it can, implement them using Select2  If it cannot, validate using regex and the prefixes from the attached epic.  The form field should show an example.  Create/Update a feature test for this.

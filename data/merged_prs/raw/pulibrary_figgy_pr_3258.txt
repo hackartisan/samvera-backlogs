@@ -1,0 +1,1 @@
+Adding release notes for the changes which were introduced for #3257

@@ -1,0 +1,2 @@
+Allow search by photographer
+Requested during grounds and buildings ingest

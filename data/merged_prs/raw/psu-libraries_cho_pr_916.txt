@@ -1,0 +1,2 @@
+Default SolrDocument#file_sets to preservation file sets
+Description Distinguishes between preservation file sets and representative file sets for the purposes of display in the work landing page. Connected to #482

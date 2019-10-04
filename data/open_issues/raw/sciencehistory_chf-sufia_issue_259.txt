@@ -1,0 +1,2 @@
+date input ids use "hidden label" instead of, e.g., "start" or "finish"
+generic_work_date_of_work_attributes_0_hidden_label

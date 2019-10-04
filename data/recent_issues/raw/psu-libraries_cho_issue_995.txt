@@ -1,0 +1,2 @@
+FITS installation
+Install FITs on a job box for currently synchronous call to characterization on ingest, at a later point we may look to do this asyncronously. Related to #1039

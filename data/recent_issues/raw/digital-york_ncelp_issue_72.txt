@@ -1,0 +1,2 @@
+Resource details page - change labels font to not bold
+Can we make the font of the labels (the right hand column) not bold, so as to distinguish them a bit more from the field names?

@@ -1,0 +1,2 @@
+ASM2-515  & AMS2-516 
+Adds date filter to sidebar Adds Clear button to date filter to remove the filter Apply css to expand the filter and make it active css class when filter is applied.

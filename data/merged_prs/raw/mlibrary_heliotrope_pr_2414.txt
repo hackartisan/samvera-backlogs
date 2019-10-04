@@ -1,0 +1,2 @@
+Addresses HELIO-1989 Improve search and browse pagination link labels.
+Additions derived from projectblacklight/blacklight@abd69d1 with modifications to pass RuboCop/Ruumba.

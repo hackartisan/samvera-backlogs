@@ -1,0 +1,2 @@
+Adds aria-hidden=true to table header and adds scope attribute.
+First attempt at solving the column mismatch problem with JAWS screen reader by making the column header for thumbnails hidden just like the actual thumbnail.

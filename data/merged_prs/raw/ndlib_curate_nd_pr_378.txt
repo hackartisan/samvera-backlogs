@@ -1,0 +1,2 @@
+Removing unused configuration information
+In reviewing sufia-models and CurateND, there were no uses of the configured resource_types.

@@ -1,0 +1,2 @@
+Feature/pdf images refactor
+Fixes #720

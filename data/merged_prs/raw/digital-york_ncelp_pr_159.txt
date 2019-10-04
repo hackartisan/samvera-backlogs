@@ -1,0 +1,2 @@
+fix featured/unfeatured button display issue
+fix #153

@@ -1,0 +1,2 @@
+Standby Workers?
+We sometimes have large bulk ingest or OCR jobs that can take a week or more to complete.  Should we have some extra workers ready to spin up for situations like this?  Or should we just have extra workers all the time?

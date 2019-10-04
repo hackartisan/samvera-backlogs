@@ -1,0 +1,2 @@
+ Add workflow and identifier to archival media collection
+Adds DraftPublishWorkflow and identifier property to archival media collection. Modifies BagPathValidator to allow nil values so workflow state can be updated. Bag path is a required field, so the user must still enter an initial value in the form. Modifies BagPathValidator to test if a bag path directory actually exists.  Closes #1003 Closes #1004

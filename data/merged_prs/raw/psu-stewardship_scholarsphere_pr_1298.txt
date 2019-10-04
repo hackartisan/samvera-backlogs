@@ -1,0 +1,2 @@
+Upgrade bagit version
+This changes the bagit version to the lastest version and changes the hasing algorithm to use sha256, which is what is used in the Research Data Alliance examples.

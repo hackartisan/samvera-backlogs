@@ -1,0 +1,2 @@
+Left align add committee member button always
+ISSUE Always display the "Add Committee Member" button under the "Add Committee Chair" button.  Right now it jumps around depending on whether you've added committee members yet or not.

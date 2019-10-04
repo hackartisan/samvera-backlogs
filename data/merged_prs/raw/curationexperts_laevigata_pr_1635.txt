@@ -1,0 +1,1 @@
+Fix class loading problem. Connected to #1596

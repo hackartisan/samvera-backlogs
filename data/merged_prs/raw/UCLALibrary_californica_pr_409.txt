@@ -1,0 +1,2 @@
+Add a rake task to allow reindexing of the Works
+Connected to hhttps://github.com//issues/407 We want to be able to reindex the Works with the single value ark field ark_ssi  Changes to be committed:  new file:   lib/tasks/reindex.rake

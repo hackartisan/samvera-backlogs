@@ -1,0 +1,2 @@
+Ensure items are imported with an 'ark:/' prefix
+ACCEPTANCE Given a CSV import file with a column headed "Item Ark",   Import the value in the column to the ark property of the work or collection  Prepend the string 'ark:/' to the value in the field if it's missing  Requires #456 Child of UCLALibrary/ursus#270

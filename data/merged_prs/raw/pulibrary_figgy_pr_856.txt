@@ -1,0 +1,2 @@
+Scanned map thumbnail_id points to a file set
+GeoBlacklight document builders assumed that a map set's thumbnail id pointed to a ScannedMap. The thumbnail id should be the id for a file set instead. Closes #855

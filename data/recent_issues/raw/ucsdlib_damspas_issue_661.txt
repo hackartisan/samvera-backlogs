@@ -1,0 +1,2 @@
+Ignore characters when sorting by default title
+Descriptive summary Currently in the default sort (by title), titles with apostrophes or quotes get sorted first. Is it possible to ignore initial characters and force the alpha sort? Example

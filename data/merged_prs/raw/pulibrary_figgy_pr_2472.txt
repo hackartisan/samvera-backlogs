@@ -1,0 +1,2 @@
+Fix searching of Voyager Events
+It was searching for a string before, but storing an integer. Fixed by changing FindByStringProperty to FindByProperty and adding support for integers.

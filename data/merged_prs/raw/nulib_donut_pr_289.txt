@@ -1,0 +1,2 @@
+A bunch of tweaks and changes to make Donut ready for Terraform/AWS/Docker
+Keep the dump/load seed tasks available in production Replace BetterActiveElasticJobAdapter with our fork of ActiveElasticJob Other Docker/deploy-time changes  None of this should break dev or current staging environments.

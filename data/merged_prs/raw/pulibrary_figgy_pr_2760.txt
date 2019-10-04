@@ -1,0 +1,2 @@
+Implements a route for providing Universal Viewer configurations for digital exhibit platforms
+Implements a route and ApplicationController functionality for providing configurations to Universal Viewer installations which are embedded in digital exhibit platforms (this is necessary for pulibrary/pomegranate#562)

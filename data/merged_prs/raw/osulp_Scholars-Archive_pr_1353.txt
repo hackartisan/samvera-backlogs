@@ -1,0 +1,2 @@
+Reorder conference
+Fixes #1300

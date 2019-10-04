@@ -1,0 +1,2 @@
+fix purl url from http to https
+This fixes the "available online" feature at the top of item/collection pages by correctly pinging the PURL page to determine availability.

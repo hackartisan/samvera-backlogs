@@ -1,0 +1,2 @@
+Make Hyrax code work with S3 URLs
+Descriptive summary Hyrax doesn't like S3 because it doesn't know S3 exists.  This has to change so we can retrieve files (derivatives only, at least for now) stored in S3. Expected behavior When Hyrax tries to get at data in S3, it doesn't cry and throw a tantrum. Related work #526 is where this all started.  Read it in great detail if you can't sleep. Accessibility Concerns N/A - back-end-only work

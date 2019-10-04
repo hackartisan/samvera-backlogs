@@ -1,0 +1,2 @@
+Render 404 from public/404.html.erb, ref #924
+HydraCore uses a protected render_404 method that uses public/404.html.erb as a template. Our custom render_404 method is public, so HydraCore never calls it, calling its own protected method instead. Since they both have the same names, we can't really for HydraCore to use our public one. We're adding the 404.html.erb template so HydraCore will render it properly.

@@ -1,0 +1,2 @@
+Deploy v2.4.5
+Version 2.4.5 has been approved for release by Fran and Jody and should go to production September 4   All Emory ETD servers are running Laevigata v2.4.5

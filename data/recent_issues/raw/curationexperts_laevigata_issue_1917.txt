@@ -1,0 +1,2 @@
+[Emory laevigata qa/production] Notice: Error updating embargo release date for work Scavenger Receptor Expression is Differentially Affected by DNAzyme-Gold Nanoparticle Conjugates in a Lung Model: invalid value for Integer(): "None"
+Backtrace line 73 of [PROJECT_ROOT]/app/jobs/graduation_job.rb: rescue in update_embargo_release_date line 55 of [PROJECT_ROOT]/app/jobs/graduation_job.rb: update_embargo_release_date line 19 of [PROJECT_ROOT]/app/jobs/graduation_job.rb: perform  View full backtrace and more info at honeybadger.io

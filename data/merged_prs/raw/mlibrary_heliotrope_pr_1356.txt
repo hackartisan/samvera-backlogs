@@ -1,0 +1,1 @@
+Resolves #1350 update from factory-girl to factory-bot

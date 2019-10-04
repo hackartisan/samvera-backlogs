@@ -1,0 +1,2 @@
+Migrate image works from Plum
+Work towards migrating Image Works from Plum. ToDo:   Bounding box widget  Multiple FileSet types - One for scanned map and one for external metadata  Metadata extraction

@@ -1,0 +1,2 @@
+Avoid show.html.erb spec.
+It was running a ton of lookups for templates and was really really slow. This shaves off ~17 seconds from specs.

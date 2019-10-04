@@ -1,0 +1,2 @@
+Hook up collection code to new collection type facet_configurable code
+Descriptive summary With the collection type code set up for a collection type to know if its facets are configurable, we need to set up the ability for a collection to render facets in the proper place. This has to check whether or not a specific collection's collection type allows for configurable facets. A collection should respond to collection.facet_configurable? and return a true or false statement.

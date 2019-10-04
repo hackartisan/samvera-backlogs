@@ -1,0 +1,2 @@
+Remove visibility constant when loading Rails so it can be re-defined
+This constant needs to be removed from hydra-access-controls and replaced with out custom list. In prod, it is not enough to re-define it in an initializer. It needs to be removed explicility.

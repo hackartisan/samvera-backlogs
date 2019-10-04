@@ -1,0 +1,2 @@
+[#669] Institutionalize sub collections for Mason and Conner
+closes #669

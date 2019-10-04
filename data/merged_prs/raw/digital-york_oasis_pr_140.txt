@@ -1,0 +1,2 @@
+Use Figaro.env var for production
+Add more Figaro env variables to configure Hyrax initilise file:  minter statfle location derivatives location fits.sh path soffice path reltime notification redis namspace for OASIS  And enviroemtns production  dynamic asset compile log levels

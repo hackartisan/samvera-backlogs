@@ -1,0 +1,2 @@
+Persist legacy file ids
+Closes #376 Closes #377

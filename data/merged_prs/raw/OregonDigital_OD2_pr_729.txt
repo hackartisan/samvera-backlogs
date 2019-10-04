@@ -1,0 +1,2 @@
+Render facets before search results in HTML
+Fixes #680

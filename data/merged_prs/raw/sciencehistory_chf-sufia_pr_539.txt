@@ -1,0 +1,1 @@
+allow rights to be set to empty fixes #477

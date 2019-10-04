@@ -1,0 +1,2 @@
+add and style banner image/header
+Fixes #5  Requires manual entry of marketing text "Greek Digital Journal Archive" and upload banner image. Description can have multiple paragraphs and you can use code examples inside: Changes proposed in this pull request:  add banner svg to assets/images style marketing text and banner

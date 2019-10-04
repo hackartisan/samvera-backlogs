@@ -1,0 +1,2 @@
+Stop new works being featured automatically
+Any new upload seems to be added automatically to the featured works. Can we change that, please?

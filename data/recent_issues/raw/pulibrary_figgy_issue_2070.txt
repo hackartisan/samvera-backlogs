@@ -1,0 +1,2 @@
+Enable ScannedResource Form to use MediaReservesChangeSet
+Child of #2044 Depends on #2069

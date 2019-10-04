@@ -1,0 +1,2 @@
+Recordings should respect downloadability
+This doesn't provide the download options we want really, but we can look into that as part of #3070 Closes #3071

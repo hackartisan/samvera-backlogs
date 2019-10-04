@@ -1,0 +1,2 @@
+New permissions scheme
+This is implementing the new permissions scheme we discussed. It removes groups entirely from the application. System wide permissions can be added via the user endpoint. I will ticket the work to make an endpoint for project permissions. Additionally, this pull request includes the /users/authenticated endpoint that returns the abilities the logged-in user has.

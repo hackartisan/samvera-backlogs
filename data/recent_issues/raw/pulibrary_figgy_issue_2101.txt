@@ -1,0 +1,2 @@
+Save and ingest for coins
+There's a bit of a chicken-and-egg problem because the obvious choice for id (the coin id) is minted when the record is saved.  But they would like to be able to put TIFFs on disk, and have them automatically ingested. Child of #2025

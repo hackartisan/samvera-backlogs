@@ -1,0 +1,2 @@
+Add Capistrano support
+Fixes #761 This commit allows us to use the Capistrano tool to do all of our deploys. The official documentation is in the ucrate wiki (https://github.com/uclibs/ucrate/wiki/Deploy-using-Capistrano). The only change outside of deployment that this impacts is the clamav gem. Instead of the commented out line, it was put into a group called production, so when you do future bundles, you'll need to run bundle install --without production.

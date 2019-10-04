@@ -1,0 +1,2 @@
+change title field styles only
+resolves #84

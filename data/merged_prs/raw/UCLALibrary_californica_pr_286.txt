@@ -1,0 +1,2 @@
+Californica facets
+Make Californica facets match the acceptance criteria in #267 Connected to #267

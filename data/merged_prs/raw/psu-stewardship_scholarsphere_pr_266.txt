@@ -1,0 +1,2 @@
+Refactoring User with LdapUser
+Here are the results of our refactoring sessions, and some additional work I did which mostly extends what we initially started doing. Comments? @cam156 @hectorcorrea? I don't know where Dan and Derek are on Github.

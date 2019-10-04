@@ -1,0 +1,2 @@
+Configure Monit to restart Solr when unresponsive
+ISSUE We've seen Solr not restart unexpectedly under rare circumstances. ACCEPTANCE   Configure Monit to restart Solr when it's not responding as expected.

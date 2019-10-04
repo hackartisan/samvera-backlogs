@@ -1,0 +1,2 @@
+Bump to dor-services-client 2.0.0 and dor-services 7.2.4
+And correct openeable typo now that DSC uses openable instead as of 2.0.0. Refs sul-dlss/dor-services-app#322

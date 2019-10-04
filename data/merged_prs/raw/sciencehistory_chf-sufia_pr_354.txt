@@ -1,0 +1,1 @@
+Use whenever to cron-inize metadata report; wire it to capistrano

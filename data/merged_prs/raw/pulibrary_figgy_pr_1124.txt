@@ -1,0 +1,2 @@
+ Add portion note to geo resources
+Closes #1120

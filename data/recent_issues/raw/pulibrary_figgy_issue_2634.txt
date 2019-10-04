@@ -1,0 +1,2 @@
+Check for file sets with mime_type "text/plain"
+see #2632 for background. are there any more files like that, that didn't get characterized?

@@ -1,0 +1,2 @@
+institute a flag for new UI development
+This commit creates a flag which determines whether the work creating a new UI and partial-save feature is enabled or not. The flag is available via Rails.application.config_for('new_ui') and defaults to false. It is now employed in the routes file and our .travis.yml, in which we have a build for each flag value. Addresses #1065

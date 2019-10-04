@@ -1,0 +1,2 @@
+Styled left home page column to match right column, refs #9391
+I'm friendly. Can I come stay at develop's house?

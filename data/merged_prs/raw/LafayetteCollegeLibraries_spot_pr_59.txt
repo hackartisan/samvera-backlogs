@@ -1,0 +1,2 @@
+add physical_medium property to Publication model
+closes #58

@@ -1,0 +1,2 @@
+Getting batch upload to work correctly
+Added payload concern to urls to match with sufia Added data behavior work-form to get javascript to attach Added default adminset to the form so the default is selected by the hidden selector refs #1068

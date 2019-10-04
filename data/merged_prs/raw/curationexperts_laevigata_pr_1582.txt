@@ -1,0 +1,2 @@
+Fix for Abstract and ToC
+This fixes the display of abstract and toc on the submission tab. Connected to #1578

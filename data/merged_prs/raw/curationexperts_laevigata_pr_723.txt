@@ -1,0 +1,2 @@
+Updating footer
+Closes #695

@@ -1,0 +1,1 @@
+Move rights statement to end of display

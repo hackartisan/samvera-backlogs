@@ -1,0 +1,2 @@
+re-enabling nested indexing
+fixes https://github.com/nulib/next-generation-repository/issues/497 (in conjunction with upgrading to hyrax 2.1.0rc3, which has already happened) I tried this out locally and it worked successfully

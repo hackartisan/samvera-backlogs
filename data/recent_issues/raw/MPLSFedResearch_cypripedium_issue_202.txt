@@ -1,0 +1,2 @@
+SPIKE: Sample Data
+SPIKE: Populate DCE environment with test data ACCEPTANCE We can populate a test environment with   10-20 works  2 collections exist with 4-6 works  2 collections exist without any works  1 Admin set exists

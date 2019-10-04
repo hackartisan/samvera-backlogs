@@ -1,0 +1,2 @@
+Add the view for change password
+Fixes #113

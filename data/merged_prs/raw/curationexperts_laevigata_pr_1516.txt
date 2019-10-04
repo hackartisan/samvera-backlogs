@@ -1,0 +1,2 @@
+remove saved supplemental file metadata
+This commit ensures that saved supplemental file metadata is removed as well as saved supplemental files, following established patterns for finding and filtering and preventing duplicate entries as the other add/remove files functions. It relies on the supplementalFiles and supplementalFIlesMetadata arrays in the formStore, expects them to contain the same items in the same order.

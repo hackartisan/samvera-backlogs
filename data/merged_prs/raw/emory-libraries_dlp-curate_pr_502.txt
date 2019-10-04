@@ -1,0 +1,2 @@
+More string fields
+Add remaining import fields Connected to curationexperts/in-house#214

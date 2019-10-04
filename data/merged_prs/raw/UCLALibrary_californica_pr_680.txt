@@ -1,0 +1,2 @@
+Revert "Added Summary metadata field"
+Reverts #679 Some tests did not pass

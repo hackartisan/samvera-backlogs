@@ -1,0 +1,2 @@
+Feature/template permissions
+Closes #126 Closes #127

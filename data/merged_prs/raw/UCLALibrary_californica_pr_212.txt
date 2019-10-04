@@ -1,0 +1,2 @@
+Set 'repository' field when importing records from CSV.  Connected to #121
+When the collection is "Los Angeles Daily News Negatives", ignore what's in the CSV file, and hard-code the value of the repository field.  (This decision was discussed in story #70.) For all other collections, just import the values from the CSV file.

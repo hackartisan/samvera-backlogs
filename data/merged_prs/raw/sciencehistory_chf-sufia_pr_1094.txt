@@ -1,0 +1,2 @@
+Adding thumbnail
+Fixes #1070 . Trivial so I'm going to merge this myself.

@@ -1,0 +1,2 @@
+Changing attribute_to_html to be more efficient
+Override CurationConcerns to not bother with empty values and cache Renderer lookup Rename AttributeRenderer to plain Renderer since CurationConcerns looks first for a Renderer Added TimingLogger to allow for timing log separate from rails log refs #1233 Co-authored-by: Adam Wead amsterdamos@gmail.com

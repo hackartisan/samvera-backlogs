@@ -1,0 +1,2 @@
+Fix VoyagerUpdateJob
+Right now it's being passed a list of Resource IDs, but treating them like SourceMetadataIdentifiers.

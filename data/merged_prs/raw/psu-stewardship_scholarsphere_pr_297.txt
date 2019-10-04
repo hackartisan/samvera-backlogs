@@ -1,0 +1,2 @@
+Fixing collection dashboard tests
+allow for multiple titles additional toggle drop down menus on the pages

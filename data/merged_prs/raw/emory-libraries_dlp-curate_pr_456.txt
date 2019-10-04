@@ -1,0 +1,2 @@
+Adjust fieldname for Collections metadata
+Collections should have a finding_aid_link field instead of a related_material field. Connected to #450

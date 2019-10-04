@@ -1,0 +1,2 @@
+#show metadata fields without values are being rendered when they should not
+Descriptive summary Past behavior for metadata without values was to not render a row on the show page for a work. Our recent release of the application is causing these fields to show up now. Expected behavior If the metadata field has no values, the row will not be rendered. Actual behavior See screenshot:  Here's an example: https://ir.library.oregonstate.edu/concern/graduate_thesis_or_dissertations/kd17ct94m?locale=en

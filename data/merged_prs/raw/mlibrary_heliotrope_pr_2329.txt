@@ -1,0 +1,2 @@
+MonographPresenter.monograph_thumbnail generates entire img tag
+The thumbnails for real covers are resized by the image service but the generic work icon for monographs without covers was turning up at very large sizes sometimes. By moving the img tag construction inside the monograph_thumbnail method (which was generating the img src) we are able to add a max-width to the generic icon of whatever width we'd request for the real cover. Fixes #2617

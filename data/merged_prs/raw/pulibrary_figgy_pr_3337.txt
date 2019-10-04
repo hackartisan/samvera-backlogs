@@ -1,0 +1,2 @@
+DeleteMembersJob should rescue and log ObjectNotFoundErrors
+Fixes #3320

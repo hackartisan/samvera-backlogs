@@ -1,0 +1,2 @@
+improves bulk update task and fixes ordered property bugs
+bugs found on staging are addressed here. Generally speaking, the work.nested_ordered_* = nil aims to clear out the values for the metadata only be be replaced by the following line work.nested_ordered_*_attributes = ... with adjusted ordered values.

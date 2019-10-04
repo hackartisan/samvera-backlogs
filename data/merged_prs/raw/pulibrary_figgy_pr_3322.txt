@@ -1,0 +1,2 @@
+Support import from GCS structure
+Closes #3297 Confirmed that this can import A/V materials as well as ScannedResources.

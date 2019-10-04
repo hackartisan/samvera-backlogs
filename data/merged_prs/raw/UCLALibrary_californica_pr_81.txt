@@ -1,0 +1,2 @@
+Update dependencies
+Some of these dependencies are updated in the Red Hat build. It seems best to just run them now so they can be included in curren development cycles.

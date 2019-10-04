@@ -1,0 +1,2 @@
+Clean up dashboard stats
+ISSUE The Visitors stats on the dashboard never change.  (They're hardcoded to n/a and have no plans to wire in live data sources). ACCEPTANCE   Remove any boxes that have hardcoded values from the dashboard.  Move the nice graphs (User Activity, Repository Growth, and Repository Objects) to the top row of the dashboard.

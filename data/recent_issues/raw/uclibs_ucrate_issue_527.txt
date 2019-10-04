@@ -1,0 +1,2 @@
+Datasets should not require the Required Software field
+Descriptive summary Production Scholar does not require the user to fill in the Required Software field to save a work.  So we should remove it as a required field in ucrate.

@@ -1,0 +1,2 @@
+For properties with multiple, get top label of each URI.
+Fixes #1467 Adds back in the multiple? check and iterates over values to call top_label on each one.

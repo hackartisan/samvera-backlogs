@@ -1,0 +1,2 @@
+HELIO-1915 chapter download page size is now Letter (8.5x11)
+HELIO-1916 page images are scaled to fit Letter (minus a 50px margin)

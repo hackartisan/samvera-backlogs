@@ -1,0 +1,1 @@
+HELIO-2442 Undefined method "platform_admin?" for Ability Checkpoint

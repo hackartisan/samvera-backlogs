@@ -1,0 +1,2 @@
+Updating solr_wrapper to use different mirror
+Description Update solr wrapper to latest in master so we can use a different mirror. Why was this necessary? Travis appears to be timing out when downloading solr, indicating the url isn't responding. Changes Are there any major changes in this PR that will change the release process? No Checklist   i18n enabled  adequate test coverage  accessible interface

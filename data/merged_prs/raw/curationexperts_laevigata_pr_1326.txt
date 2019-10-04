@@ -1,0 +1,2 @@
+Updated method for continuous deploy
+Use travis file encryption for rsa key Documented in the DCE playbook

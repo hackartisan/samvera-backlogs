@@ -1,0 +1,2 @@
+Consistent CSS Styles
+This changes the Emory CSS to use the file layout and structure layed out in the playbook. It also overrides bootsrap fonts in the same way that was used in Mahonia. The fonts and colors are more consistent throughout the application and especially in the new form. Connected to #1701

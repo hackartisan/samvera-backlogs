@@ -1,0 +1,2 @@
+Initial setup for zizia importer
+Add a very basic zizia import Add a very basic metadata mapping (only title for right now) Cleanup between test runs for better test reliability Add a very basic CSV fixture object -- this will grow as we know more about the data we're trying to import  Connected to curationexperts#11

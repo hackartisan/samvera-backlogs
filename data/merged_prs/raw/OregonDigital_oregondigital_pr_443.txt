@@ -1,0 +1,2 @@
+Fixed sets for templates.
+This also makes it so that the correct value shows in the form when editing a set. Closes #431

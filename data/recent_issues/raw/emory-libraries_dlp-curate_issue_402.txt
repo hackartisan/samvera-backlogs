@@ -1,0 +1,2 @@
+Test standard Hyrax Collection/Collection Type settings
+Write a system spec for the collection edit form  Write an automated test for the settings of a standard collection type

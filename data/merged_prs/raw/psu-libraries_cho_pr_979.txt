@@ -1,0 +1,2 @@
+Add access controls to Valkyrie resources
+Description Access controls were already available to most of the resources in CHO, except file sets. This adds the controls to file sets, as well as as the tests for all the resources (collections, works, file sets) that ensures the access controls are working as expected. Connected to #973 Changes  add access controls to file sets create shared spec tests for access controls rename visibility to access level

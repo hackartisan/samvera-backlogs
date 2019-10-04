@@ -1,0 +1,2 @@
+Updating update-curate-gem
+Instead of using the directory structure on my machine assume that the CurateND and Curate directory are in the same parent directory. Also adding a guard condition to ensure that the directory exists.

@@ -1,0 +1,2 @@
+Correct the indexing for committee members
+This commit fixes the indexing for names on the form. It reuses the ID that is generated for them. Previously, this was using the index from the loop, but this wasn't returning a number in a way I would expect.

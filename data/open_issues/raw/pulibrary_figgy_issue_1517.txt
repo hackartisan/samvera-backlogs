@@ -1,0 +1,5 @@
+Require note field when item is marked "takedown"
+Without a note field it's unclear why it was taken down and under what circumstances it can be brought back.
+This came up at all-hands 1/19
+I tried to work this ticket, and adding the validation was pretty easy, but getting the workflow display to show an error was quite difficult because the form submits to the UPDATE action, and if a validation fails it sends it to the EDIT view. I tried to make it send to the SHOW view if it's related to the workflow note, but there isn't a SHOW view - that's handled by Blacklight. Trying to render the Blacklight show page throws an error, and I'm not sure how much setup we'd have to do to make it happen. :(
+The work I managed to do is in https://github.com/pulibrary/figgy/tree/takedown_note_required

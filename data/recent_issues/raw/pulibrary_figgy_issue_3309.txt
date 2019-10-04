@@ -1,0 +1,1 @@
+When I delete a fileset there should be a tombstone for it

@@ -1,0 +1,2 @@
+Add python version of DSpace to Bagit script
+This has the same functionality as the ds2bi.rb script. Run with python 2.x or python 3.

@@ -1,0 +1,2 @@
+Update README
+Fixes #720 Updates the README to have an updated shield for the develop branch and code coverage. It also fixed some sizing issues, outdated FITS version, and a few other things.

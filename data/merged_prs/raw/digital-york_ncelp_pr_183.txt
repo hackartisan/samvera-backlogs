@@ -1,0 +1,1 @@
+upgrade mini_magic to 4.9.4 to fix security issue

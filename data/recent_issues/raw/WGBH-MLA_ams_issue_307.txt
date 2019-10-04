@@ -1,0 +1,2 @@
+Show ID in Works Dashboard
+Add a column to the table in Works Dashboard (/dashboard/works) to display the work's ID

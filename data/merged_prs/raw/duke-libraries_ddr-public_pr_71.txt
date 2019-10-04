@@ -1,0 +1,1 @@
+replace download icon with download button; closes #70

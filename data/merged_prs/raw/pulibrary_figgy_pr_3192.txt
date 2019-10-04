@@ -1,0 +1,2 @@
+ Add authorization policy for accessing a reading room resource
+refs #3119

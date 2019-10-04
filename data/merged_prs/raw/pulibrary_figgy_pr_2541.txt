@@ -1,0 +1,2 @@
+Index box/folder labels for ephemera and all imported metadata
+Index all imported metadata attributes: Fixes #383 Index Box/Folder labels for ephemera: Fixes #2444

@@ -1,0 +1,2 @@
+Updating to Ruby 2.6.3
+Description Updates Ruby to version 2.6.3, making a minor change to a test's error message. Includes updates bundler, niftany, and rubocop, requiring many small changes to bring the code up-to-date with the latest requirements. Changes  update Ruby to 2.6.3 update bundler to 2.0.1, with required changes in Travis update niftany and rubocop

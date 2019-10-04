@@ -1,0 +1,2 @@
+Remove cron to refresh finding aid data
+closes #2449

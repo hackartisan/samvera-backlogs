@@ -1,0 +1,2 @@
+Fixes breaking feature tests for Selenium due to ephemera_project_add_box invocation
+Resolves #188 as an improper invocation of ephemera_project_add_box triggered certain breaking functional tests in which Selenium (and headless Chrome) are used

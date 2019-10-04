@@ -1,0 +1,2 @@
+Add Style Period controlled vocabulary
+Fixes #381

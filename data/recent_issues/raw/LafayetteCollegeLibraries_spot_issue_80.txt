@@ -1,0 +1,2 @@
+add date range support
+i think adding the Blacklight Range Limit is part of our parity goal, but there might be other ways to display/facet this data.

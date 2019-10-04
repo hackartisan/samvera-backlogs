@@ -1,0 +1,3 @@
+Mediated Submission Approval
+As a metadata manager, I need to be able to see all the fields for selected records in an approval queue (e.g., spreadsheet style), so I can quickly identify inconsistencies. Dependent on #94 Linda B.
+This is a request for the ability to batch approve groups of submissions. Each batch will be presented with check mark boxes per item with a select all option and paginated for batches of a large number of items.

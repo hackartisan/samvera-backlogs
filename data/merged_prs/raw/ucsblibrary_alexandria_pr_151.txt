@@ -1,0 +1,2 @@
+FAQ: update Fedora URL
+Closes DIGREPO-851

@@ -1,0 +1,2 @@
+Create tombstone pages for removed items
+Descriptive summary As part of our promise of persistency for works in SA@OSU, we need to implement tombstone pages for works that have been removed from the repository. This should be a page that the URI for the item resolves to with text to indicate that the item in question has been removed or withdrawn from the system.

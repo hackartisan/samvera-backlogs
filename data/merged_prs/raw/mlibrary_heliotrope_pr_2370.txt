@@ -1,0 +1,2 @@
+use publisher arg; lock before saving cover
+HELIO-2725

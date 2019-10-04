@@ -1,0 +1,2 @@
+cache cpd table
+fixes #1007 So this expires the cache of each member if a child or parent is saved. does not yet address the issue of soft_destroy.

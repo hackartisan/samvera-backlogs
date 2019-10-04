@@ -1,0 +1,2 @@
+Publication subtype
+Hochladen eines Artikels e. Publication subtype Braucht es das? Es wird ja bereits im Bereich Artikel eingegeben. An sich kann das Feld subtype wegfallen.

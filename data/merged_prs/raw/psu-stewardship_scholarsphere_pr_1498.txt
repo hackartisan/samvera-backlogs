@@ -1,0 +1,2 @@
+Do not test WorkZipService, just wiring
+The controller test does not need to retest the WorkZipService, so send a work with no files

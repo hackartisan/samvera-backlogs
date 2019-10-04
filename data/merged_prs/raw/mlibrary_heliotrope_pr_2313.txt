@@ -1,0 +1,2 @@
+export metadata from Solr
+HELIO-2395

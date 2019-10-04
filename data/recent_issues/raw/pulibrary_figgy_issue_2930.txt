@@ -1,0 +1,2 @@
+Unreliable behavior for the EventStream test suite
+Please see https://circleci.com/gh/pulibrary/figgy/15860, and note that this was resolved by continuously retriggering the build on CircleCI.

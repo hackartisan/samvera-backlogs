@@ -1,0 +1,2 @@
+updated catalog controller to adjust the search results view
+Screenshot: Showing only the first 150 words from abstract  closes #669

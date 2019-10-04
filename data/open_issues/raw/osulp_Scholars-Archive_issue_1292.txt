@@ -1,0 +1,3 @@
+Build an OER Collection
+Stefanie Buck asked if we could build a collection specifically for OERs. The requirements for this are somewhat unclear at this point, but we should:   Build a collection for the OER Work Type  Consult with Stefanie about other needs for this collection  note: requires implementation of Collection Extensions on Hyrax 2.1
+This collection is made and has been shared with Stefanie. I am waiting for feedback from her.

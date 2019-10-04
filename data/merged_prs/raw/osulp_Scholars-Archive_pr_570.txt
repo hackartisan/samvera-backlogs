@@ -1,0 +1,2 @@
+Adds the replaces metadata to the default metadata
+Fixes #563

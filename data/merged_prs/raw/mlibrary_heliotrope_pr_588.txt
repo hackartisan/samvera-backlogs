@@ -1,0 +1,2 @@
+style asset prev/next buttons; apply override styles for press themes;
+Resolves #579

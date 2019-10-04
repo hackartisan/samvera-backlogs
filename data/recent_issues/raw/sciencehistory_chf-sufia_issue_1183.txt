@@ -1,0 +1,2 @@
+Add related URL label for Oral History Collection
+Within Oral History Collection (https://digital.sciencehistory.org/collections/gt54kn818) please update "Related URL" to read "View Oral History catalog" instead.

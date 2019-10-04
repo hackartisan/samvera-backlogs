@@ -1,0 +1,2 @@
+Don't reindex ProcessedEvent
+Closes #1852.

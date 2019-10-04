@@ -1,0 +1,2 @@
+Add sidekiq-status gem
+This gem will give us more details about the status of jobs in the sidekiq interface. When this is installed there is a Statuses tab in the UI at the top of the screen.

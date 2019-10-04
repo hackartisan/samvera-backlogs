@@ -1,0 +1,3 @@
+Add terms to a field from a controlled vocabulary
+As a cataloger, I want to select terms from a controlled vocabulary(ies) when adding subjects or names to a record, So that records use the same controlled vocabulary(ies) across collections. Acceptance Criteria: The vocabularies presented (auto-suggest) to the cataloger will depend on the content-type. Related: #19 #103
+We would like to pick and choose source vocabularies.  We will have a mixture of strings and controlled vocabularies and need to determine if we are going to store the URI or the string or both.   

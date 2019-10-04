@@ -1,0 +1,2 @@
+solr/catalog_controller updates
+clean up solr configuration  adds an all_fields_search_timv copyField that accumulates all *_tesim entries and is used for the all_fields search removes local params for title/author/subject searches. these are moved to CatalogController   add tasks to reload solr config files  local: bundle exec rails spot:dev:reload_solr_config remote: cap solr:reload_config    closes #144 closes #146

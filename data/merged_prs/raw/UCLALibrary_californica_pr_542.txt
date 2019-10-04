@@ -1,0 +1,2 @@
+Update Dockerfile to include chrome-driver deps
+This adds the newer nodejs, yarn, chromium, and chrome-driver packages to the Dockerfile. These are already being used in the ursus Dockerfile.

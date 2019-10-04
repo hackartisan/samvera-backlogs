@@ -1,0 +1,2 @@
+NumismaticPlaces are showing up in search results
+Backtrace line 68 of [PROJECT_ROOT]/app/helpers/thumbnail_helper.rb: iiif_thumbnail_path line 26 of [PROJECT_ROOT]/app/helpers/thumbnail_helper.rb: figgy_thumbnail_path line 2 of [PROJECT_ROOT]/app/views/catalog/_thumbnail_list_default.html.erb: _app_views_catalog__thumbnail_list_default_html_erb___2399635826859538146_70296716430160  View full backtrace and more info at honeybadger.io

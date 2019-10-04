@@ -1,0 +1,2 @@
+add buy URL button to monograph catalog view
+closes #343

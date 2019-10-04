@@ -1,0 +1,2 @@
+Performant auto-suggest in Solr
+Blacklight's default suggest feature hurts performance because it copies multiple fields to a suggest field. This can increase index times substantially: <copyField source="*_tesim" dest="suggest"/> <copyField source="*_ssim" dest="suggest"/> We should configure Solr to use Blacklight's auto-suggest features in a performant way, perhaps by only copying certain fields and not all, or investigate other ways in which multiple fields can be used in an auto-suggest fashion, but without the performance impact.

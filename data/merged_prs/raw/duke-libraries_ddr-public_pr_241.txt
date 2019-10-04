@@ -1,0 +1,1 @@
+ensure showcase images fill the container area regardless of dimensions

@@ -1,0 +1,2 @@
+Bulk ingest to James V Forrestal papers MC051 (66b69907-a34e-4ef3-9d61-80c517ea5428)
+Items should be ingested from the Archives Share, MC051_new4_9_19 There's a subdirectory called color. Every directory in color should be ingested -instead- of the matching folder name in the root. Timeline is the next week or two.

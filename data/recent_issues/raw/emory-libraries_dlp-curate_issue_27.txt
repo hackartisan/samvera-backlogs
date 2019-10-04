@@ -1,0 +1,2 @@
+Determine environments strategy (dev, QA, prod)
+Discussed in release planning meeting 12/12 for 0.1 May result in a Decision Document, especially regarding dev environment

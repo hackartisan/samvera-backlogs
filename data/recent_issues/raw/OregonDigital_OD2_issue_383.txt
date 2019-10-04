@@ -1,0 +1,2 @@
+Make language CV using local CV
+Descriptive summary We want language to be a local yaml based CV with all the data and uris in a yaml file.

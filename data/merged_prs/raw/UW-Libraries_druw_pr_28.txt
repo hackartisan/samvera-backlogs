@@ -1,0 +1,2 @@
+Deposit
+This PR fixed the deposit buttons. It brings back the modal that allows you to select between multiple work types and it fixes the colors of the deposit buttons when logged in while multiple work types exist.

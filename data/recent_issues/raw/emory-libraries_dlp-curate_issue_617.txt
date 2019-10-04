@@ -1,0 +1,2 @@
+Implement thumbnail generation fix
+Following the investigation ticket: Thumbnails on local machines look fine, but curate-test and prod instances do not generate thumbs successfully.   update ImageMagick version on curate-test (seems to resolve issue)  update on curate prod

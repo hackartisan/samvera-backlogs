@@ -1,0 +1,2 @@
+Review footer content
+Following are changes to the current footer content:  Link to digital library service\ link to GH Updated veriosn of application - March 2018 Rename legal statement to privacy and cookis statement  Make a list of specific issues that shoud be made clear to public users (once #44 is implemented) and future depositors ( e.g. terms of deposit)

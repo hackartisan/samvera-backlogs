@@ -1,0 +1,2 @@
+Importer: import ARK as single-value field
+Our existing ARK identifiers are currently being imported as a multi-valued field. In order to use it in e.g. URLs, it should instead be imported as a single-value field. Q: Do any items have multiple ARKs? If so, perhaps use both "identifiers" and "primary identifier"??? Criteria:   ARKs are imported as a single-valued field "Identifier"  child of #336

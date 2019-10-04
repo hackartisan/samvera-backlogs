@@ -1,0 +1,2 @@
+Coin PDFs not working
+Getting "Something Went Wrong" error

@@ -1,0 +1,2 @@
+Remove Rob Olendorf from contact email list
+The contact form is still sending emails to Rob. We should change that.

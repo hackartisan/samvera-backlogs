@@ -1,0 +1,1 @@
+Safe shutdown of resque workers (to avoid dirty exit)

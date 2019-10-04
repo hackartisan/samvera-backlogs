@@ -1,0 +1,1 @@
+Ensure that the content attributes are encoded when building html

@@ -1,0 +1,2 @@
+Change collection members from a list to a link
+resolves #1332

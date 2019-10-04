@@ -1,0 +1,2 @@
+fixing dropdown ajax bug
+Closes #340

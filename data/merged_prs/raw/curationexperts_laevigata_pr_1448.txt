@@ -1,0 +1,2 @@
+committee members are not required for valid submission
+Addresses #1428 and removes subfield from tests, as they are not required either.

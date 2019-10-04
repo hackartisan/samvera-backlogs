@@ -1,0 +1,2 @@
+Use "Items in this Collection" on all collection pages
+Fixes #528 Adds Items in this Collection to the browse view portion of collections, not just the dashboard

@@ -1,0 +1,2 @@
+dashboard_works_spec.rb 
+~~~This PR is just to let you know what tests I am working on.~~~  This is ready to be merged. I renamed the file from `dashboard_files_spec.rb` to `dashboard_works_spec.rb` to reflect its new role. Notice that I left two TODOs in the code and created issue #303 to track them separately.

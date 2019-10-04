@@ -1,0 +1,2 @@
+Fix bug with Shibboleth attributes
+Fixes #647 Tweaks app/controllers/callbacks_controller.rb to match the version in scholar_uc_legacy Users are now properly assigned their title, department, affiliation, phone number, and email address. This has been tested on scholar-dev.uc.edu. The reviewer should compare this callbacks_controller.rb with the one from scholar_uc_legacy to make sure the code is consistent. We should apply this fix to scholar.uc.edu ASAP and treat it as an emergency deploy.

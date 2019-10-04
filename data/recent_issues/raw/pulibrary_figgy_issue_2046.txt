@@ -1,0 +1,2 @@
+scannedresource says `image_resource?` true
+How is this used? It won't really be accurate once we start putting audio files in scanned_resource

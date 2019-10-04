@@ -1,0 +1,1 @@
+AMS2-21 Adding user role as manger to admin set

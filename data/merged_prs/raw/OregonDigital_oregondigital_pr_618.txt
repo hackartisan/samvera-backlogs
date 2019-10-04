@@ -1,0 +1,2 @@
+Added google analytics.
+Adds google analytics. Work towards #467, just need to set up user accounts.

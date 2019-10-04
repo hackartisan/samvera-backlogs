@@ -1,0 +1,2 @@
+Achieve better b-tree distribution in Fedora
+ISSUE In our current ARK / ID implementation, we are treeify-ing the blade of the ARK - i.e. zz0037f8d becomes treeifyied to /zz/00/37/f8/zz0037f8d Looking at the UCLA arks, we're concerned that too many begin with the string zz00... and we won't get a good binary tree distribution.

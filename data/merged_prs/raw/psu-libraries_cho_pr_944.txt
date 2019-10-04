@@ -1,0 +1,2 @@
+Order collection’s works by their position in CSV
+Description Works are explicitly ordered by their position in the CSV. If multiple CSVs contain works referencing the same collection, these works are explicitly ordered by the order in which those CSVs were ingested, i.e. works ingested at a later time will be explicitly ordered as such. Connected to #802 Changes  Add order_index to Work::Submission and SubmissionChangeSet CsvDryRun uses the index of the work and the number of existing members in that works' home collection to generate said order_index

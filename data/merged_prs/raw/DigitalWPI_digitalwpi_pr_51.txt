@@ -1,0 +1,2 @@
+Robots and video
+Deleted robots.txt from set ffmpeg = true in initializer/hyrax.rb Resolves #43 and #44

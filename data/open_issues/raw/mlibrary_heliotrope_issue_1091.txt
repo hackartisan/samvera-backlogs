@@ -1,0 +1,2 @@
+Disseminate published open access books to other platforms?
+Automate the deposit/make books available in downloadable form from:    Open Access Publishing in European Networks (OAPEN)    Directory of Open Access Books (DOAB)  / http://www.doabooks.org/docs/doabUploadFieldDescription.pdf    HathiTrust (once EPUBs are supported)   Ensure MARC records are shared and indexed in:   OCLC Worldcat

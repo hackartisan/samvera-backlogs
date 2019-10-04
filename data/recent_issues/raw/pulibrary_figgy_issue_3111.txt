@@ -1,0 +1,2 @@
+Display cloud fixity on resources
+Following on from #3023 — we should display cloud fixity status next to local fixity status on resources.

@@ -1,0 +1,1 @@
+Allow ingest of PBCore XML digital instantiations

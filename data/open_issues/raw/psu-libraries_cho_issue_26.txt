@@ -1,0 +1,3 @@
+Request digitization while browsing
+As a user, I would like the ability to seamlessly request digitization of related (not-digitized) content while browsing through the CHO repository. (For example, letter #2 is digitized, but I see that it is part of a folder that has five letters, and I want to be able to request that the remaining letters be digitized by clicking a "request" button... maybe integrate with ArchivesSpace?)
+We should check with SCL digitization plans -- if we start digitizing whole collections only this won't be an issue. Aeon?

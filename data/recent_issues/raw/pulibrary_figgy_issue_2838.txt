@@ -1,0 +1,2 @@
+intermittently failing spec
+Here's a run on CI; it's also been observed in a local dev environment. https://circleci.com/gh/pulibrary/figgy/14905#tests/containers/3 RSpec bisect could not isolate the failure, so it's truly intermittent.

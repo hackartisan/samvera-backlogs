@@ -1,0 +1,2 @@
+Eager load on dortest
+Currently we get this warning $ bundle exec rails c dortest config.eager_load is set to nil. Please update your config/environments/*.rb files accordingly:    * development - set it to false   * test - set it to false (unless you use a tool that preloads your test environment)   * production - set it to true  Loading dortest environment (Rails 4.2.9)

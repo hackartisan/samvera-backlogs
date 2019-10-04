@@ -1,0 +1,2 @@
+Add a published step to workflow so admins can see published works
+Add a workflow step called published that objects use after the student has graudated and the work has been made public. Override Hyrax workflow admin dashboard behavior to show admins works in the published state. Make GraduationJob use this workflow state instead of just setting the work to public. Make GraduationSerivce return fake graduation data in dev environment so we can more easily test whether GraduationService is working as expected.  Fixes #895

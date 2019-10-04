@@ -1,0 +1,2 @@
+Fix the access control bug adjust the editor tools UI display for curators and editors. DM-186
+https://lib-jira.ucsd.edu:8443/browse/DM-186 https://lib-jira.ucsd.edu:8443/browse/DEPLOYKEY-269

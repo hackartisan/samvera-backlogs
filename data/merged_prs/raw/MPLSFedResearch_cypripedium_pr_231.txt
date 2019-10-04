@@ -1,0 +1,2 @@
+Fix name of ssh key for continuous deploy
+Fix name of ssh key for continuous deploy Connected to #222

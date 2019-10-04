@@ -1,0 +1,2 @@
+Create feature to turn off admin features and logins, without disabling public site
+When we need to do some data rangling that might mess with admins doing work (or vice versa) but should not upset public use.

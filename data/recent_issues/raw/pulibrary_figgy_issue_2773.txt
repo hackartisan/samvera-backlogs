@@ -1,0 +1,2 @@
+Implement Cloud Fixity Auditing
+Child of #1876 Depends on #2804   Randomly retrieve preservation Bags and fixity check them  A javascript function will be executed with a resource ID, which will fetch the object from GCS, figure out the checksum, and put a success or failure message on a Google Cloud pub/sub queue. Figgy will run a worker to pull down those messages and create Events to store that information locally.    Add status to Figgy object so you can tell when they were checked and what the outcome was  Add any of this kind of failure to the Fixity dashboard.

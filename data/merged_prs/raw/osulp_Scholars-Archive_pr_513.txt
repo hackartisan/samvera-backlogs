@@ -1,0 +1,2 @@
+adds sidekiq and redis for background jobs on production and staging
+fixes #298 fixes #504

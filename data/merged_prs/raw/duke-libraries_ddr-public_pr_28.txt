@@ -1,0 +1,1 @@
+allow download if user has read; closes #26

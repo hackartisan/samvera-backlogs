@@ -1,0 +1,2 @@
+Updated Webpack configuration
+This updates the webpacker gem, and the asscociated webpack and babel packages to allow usage of the newest webpack-dev-server. This also upgrades the yarn packages and updates tests for any changes. Connected to #1882

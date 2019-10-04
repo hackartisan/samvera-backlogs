@@ -1,0 +1,2 @@
+Viewer, fix focus on hidden UI
+Need to make sure the modal stays focused, if we're hiding a UI element that was browser focused.

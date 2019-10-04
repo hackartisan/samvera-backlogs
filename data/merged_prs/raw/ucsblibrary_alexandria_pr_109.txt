@@ -1,0 +1,1 @@
+Upgrade riiif to version 2.0.0. Story curationexperts/alexandria#15

@@ -1,0 +1,2 @@
+Remove display of Respository in the object level view
+Fixes #332 ; refs #332 Remove display of Respository in the object level view. @ucsdlib/developers - please review

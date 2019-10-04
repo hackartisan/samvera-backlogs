@@ -1,0 +1,2 @@
+Facetable subject
+Ideally we'll clean up bad subject metadata if it becomes a problem.

@@ -1,0 +1,2 @@
+Reporting on AAPB reindexes back to AMS users
+Description: As an AAPB Admin that pushed records to AAPB for reindexing, I see the log (or a summary) of the reindex that I started. Requires #263 Questions:  Where do we want this to show? An email that gets sent to the user? Somewhere on the dashboard? A message to the user (doesn't hyrax have notifications?) How do we get the log of the reindex back into AMS?

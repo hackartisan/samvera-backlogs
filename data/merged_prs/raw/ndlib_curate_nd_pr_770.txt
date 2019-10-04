@@ -1,0 +1,2 @@
+Add Banner Code to ETD metadata
+Resolves https://jira.library.nd.edu/browse/DLTP-1606

@@ -1,0 +1,2 @@
+Update license view in collections
+Fixes #454 Adds the license partial to have a link with the name of the license

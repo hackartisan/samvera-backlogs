@@ -1,0 +1,2 @@
+Add documentation to cor-cm repo
+General documentation for cor-cm ansible repo is needed   Create home page or wiki on base directory of repo  Create examples showing how to use scripts to build out servers

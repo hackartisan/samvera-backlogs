@@ -1,0 +1,2 @@
+rebase _form_progress.html.erb to get updates for hyrax 2.3.0
+fixes #1700 rebased progress form to get the following updates introduced in hyrax 2.3.0:  removed cancel button added another FlipFlop.show_deposit_agreement check added progress bar for immediate feedback after the form is submitted  see screenshots:

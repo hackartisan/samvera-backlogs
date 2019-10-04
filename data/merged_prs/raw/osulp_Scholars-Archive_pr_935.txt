@@ -1,0 +1,2 @@
+added rake task to cleanup fields
+fixes #929 closes #930

@@ -1,0 +1,3 @@
+[hydrus/production] ActionView::Template::Error: undefined method `RELS-EXT' for #<Hydrus::Item:0x...>
+Did you mean?  rels_ext
+Backtrace line 19 of [PROJECT_ROOT]/app/helpers/hydrus_form_helper.rb: syntax_highlighted_datastream line 12 of [PROJECT_ROOT]/app/views/datastreams/_datastreams.html.erb: block in _app_views_datastreams__datastreams_html_erb__3397890282568604088_70107872684080 line 7 of [PROJECT_ROOT]/app/views/datastreams/_datastreams.html.erb: each  View full backtrace and more info at honeybadger.io

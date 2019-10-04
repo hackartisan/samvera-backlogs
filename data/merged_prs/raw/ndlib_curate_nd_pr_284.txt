@@ -1,0 +1,2 @@
+Add permission badge to file show view
+This provides necessary information to help ease the ETD access remediation problem.

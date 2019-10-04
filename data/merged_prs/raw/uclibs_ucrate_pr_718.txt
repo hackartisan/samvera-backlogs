@@ -1,0 +1,2 @@
+Fix broken URLs in views
+Fixes #699 This should fix all of the listed URLs listed in #699.

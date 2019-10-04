@@ -1,0 +1,2 @@
+update cozy-sun-bear
+to include latest bug fixes and preferences customization

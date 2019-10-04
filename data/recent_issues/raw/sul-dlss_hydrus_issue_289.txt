@@ -1,0 +1,2 @@
+Stop setting DC for apos.
+hydrus/app/models/hydrus/collection.rb                    Line 267       in       bcf5b2d                                                     apo.datastreams['DC'].content    = Dor::DublinCoreService.new(apo).to_xml                     If we didn't need to do this, then DublinCoreService could move to common-accessioning.

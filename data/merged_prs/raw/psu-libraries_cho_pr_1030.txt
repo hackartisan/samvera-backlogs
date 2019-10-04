@@ -1,0 +1,2 @@
+Enable default values on change sets and resources
+Description Leverages a data dictionary field's default value on both change sets and resources. This allows us to specify a default value for access rights, as well as render the edit form with the access rights value selected in the radio button. Connected to #477 and #1012 Changes  adds a field's default value to both the change set and Valkyrie::Resource updates the radio_button partial to display with the object's access rights value selected by the radio button

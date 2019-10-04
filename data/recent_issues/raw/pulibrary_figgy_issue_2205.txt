@@ -1,0 +1,2 @@
+Manifest should have download links with auth token when present in URL
+Without it, the manifest loads in a viewer but the media can't play (it all redirects to our login page).

@@ -1,0 +1,2 @@
+Adds Google Analytics tracking code to BL layout in production.
+Closes #96

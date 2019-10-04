@@ -1,0 +1,2 @@
+disable Hyrax fileset versioning
+Per Laura and David, disable versions until bugs are fixed and provide help text suggesting to delete and re-ingest the file instead. overrides app/views/hyrax/file_sets/_versioning.html.erb from Hyrax  References nulib/next-generation-repository#476

@@ -1,0 +1,2 @@
+Coin/Issue numbers should be multiple in the database
+They are currently singular: {   "visibility":["open"],   "denomination":[],   "issue_number": 6,   "rights_statement": [{"@id": "http://rightsstatements.org/vocab/NKC/1.0/"}] }  Instead they should be multiple in the db ("issue_number":[6]) but singular in the app.

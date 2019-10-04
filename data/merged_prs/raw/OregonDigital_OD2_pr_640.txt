@@ -1,0 +1,2 @@
+Remove requirement to be logged in to see Add to My Shelf button
+Fixes #604

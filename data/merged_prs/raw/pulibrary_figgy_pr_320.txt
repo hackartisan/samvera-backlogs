@@ -1,0 +1,1 @@
+Displaying thumbnail shouldn't fail on error.

@@ -1,0 +1,2 @@
+when ingesting, don't break certain fields on semicolons
+title abstract description bibliographic citation

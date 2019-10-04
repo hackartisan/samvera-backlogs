@@ -1,0 +1,2 @@
+Sets eager_load to true for Production env
+This is to avoid an issue of the hyrax-batch_ingest gem calling const_get from within a job that is being executed in parallel; for some reason, it hangs indefinitely in a Sidekiq 'busy' state.

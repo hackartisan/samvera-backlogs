@@ -1,0 +1,2 @@
+Hide show page sidebar (action buttons) unless logged in
+fixes #3052

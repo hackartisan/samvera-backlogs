@@ -1,0 +1,2 @@
+Move 'contributor' to bottom of makers group for public display
+fixes #442

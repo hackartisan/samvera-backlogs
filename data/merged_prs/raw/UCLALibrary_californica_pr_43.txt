@@ -1,0 +1,2 @@
+Add a default admin user
+I will document the login and password in the wiki. Closes #11

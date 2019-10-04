@@ -1,0 +1,2 @@
+Add Collection model test
+Descriptive summary Test that the Collection model includes behavior and the proper indexer

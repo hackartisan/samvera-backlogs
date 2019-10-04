@@ -1,0 +1,2 @@
+Restructure the ManifestBuilder constructor to use keyword arguments
+Please see #3141 (comment) for context.

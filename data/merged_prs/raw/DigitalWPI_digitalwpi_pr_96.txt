@@ -1,0 +1,2 @@
+#92 Advisor bug fix
+i found that LinkedAttributeRenderer is what we needed. changed the _attribute_row.html.erb file to call that renderer instead of facet. Added advisor, orcid, committee, center, and extent in this way. other choices should be made by the library. Connects to #92 resolves #92

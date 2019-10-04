@@ -1,0 +1,2 @@
+Revert "Makes all fields available to admin"
+Reverts #1530 Several new issues were introduced.

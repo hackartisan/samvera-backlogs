@@ -1,0 +1,2 @@
+Make the CSV Template
+ACCEPTANCE   Choose the template to use to start import  Check a sample into tenejo version control and link it to this ticket  NOTE: Darlingtonia + a file column is a good starting point.  & Then figure out if we want to drop any column headers

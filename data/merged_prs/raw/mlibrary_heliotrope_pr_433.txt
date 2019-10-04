@@ -1,0 +1,2 @@
+section facet should match section order in monograph's ordered_members
+Resolves #406

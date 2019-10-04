@@ -1,0 +1,2 @@
+Misc. fixes needed to get playlist show page to display
+refs #2092

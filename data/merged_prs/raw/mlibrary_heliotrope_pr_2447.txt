@@ -1,0 +1,2 @@
+show ToC tab for all reader e-books
+HELIO-2873

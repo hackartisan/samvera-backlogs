@@ -1,0 +1,2 @@
+Set time zone in embargo notify task
+Descriptive summary There's a small change we made in scholar_uc to set the proper time zone when the embargo notify task runs each night.  We need to copy that to ucrate. See uclibs/scholar_uc_legacy@5292086 for the line we need to add and where it goes.  Note that the notify task has moved to lib/tasks/embargo_notify.rake in ucrate.

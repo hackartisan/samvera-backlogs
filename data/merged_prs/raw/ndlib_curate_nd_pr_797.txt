@@ -1,0 +1,2 @@
+[WIP] Format api show results
+Beginning work to format the json document returned by the api show route

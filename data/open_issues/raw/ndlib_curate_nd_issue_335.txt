@@ -1,0 +1,3 @@
+500 error for seaside content in curate using show route
+Visit https://curate.nd.edu/show/ARCH-SEASIDE:5472 I get a 500 error. I expected a 404 error.
+Same for the RBSC stuff, e.g. https://curate.nd.edu/collections/RBSC-INQ:COLLECTION  Also applies to the show view. 

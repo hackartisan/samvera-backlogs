@@ -1,0 +1,2 @@
+Error when accessing non-existent collection 
+Right now if you try to access a collection that does not exist you get this error: https://app.honeybadger.io/projects/59583/faults/45731729 This should return a 404 in the same way that accessing not-existent records does.   When you access a collection that does not exist it returns a 404 not a 500

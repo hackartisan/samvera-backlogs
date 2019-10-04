@@ -1,0 +1,2 @@
+Make a csv report for admins more generic, fix committee members bug
+Add attributes to the rake command to generate a report for any school, academic year, program Fix a bug when only one committee member and a chair is displayed in the report.

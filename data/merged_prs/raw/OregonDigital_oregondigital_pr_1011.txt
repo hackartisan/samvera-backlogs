@@ -1,0 +1,2 @@
+fix jetty submodule
+the url in .gitmodules had not been updated.

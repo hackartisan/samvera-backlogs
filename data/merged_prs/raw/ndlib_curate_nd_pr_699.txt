@@ -1,0 +1,2 @@
+Assign Group Editor to a list of PIDs
+DLTP-1368 : Created a batch means for assigning group IDs as Editors to a list of PIDs

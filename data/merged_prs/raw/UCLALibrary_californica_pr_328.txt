@@ -1,0 +1,2 @@
+Update loofah gem, which is a transitive dependency
+Connected to #317

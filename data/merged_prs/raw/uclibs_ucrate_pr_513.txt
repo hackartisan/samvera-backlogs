@@ -1,0 +1,2 @@
+Expand work creation feature specs
+Fixes #487

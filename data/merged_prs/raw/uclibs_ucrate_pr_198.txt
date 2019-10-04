@@ -1,0 +1,2 @@
+Show profile fields on the user show page
+Fixes #188 Pulled the file 'user_info.html.erb' from hyrax Changed 'department' to 'ucdepartment' so the department fields can show on the user show page.

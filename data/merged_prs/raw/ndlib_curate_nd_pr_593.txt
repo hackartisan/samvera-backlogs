@@ -1,0 +1,2 @@
+Adjusting JSON-LD Context to not have sub-Hashes
+In leveraging the JSON::LD::Writer.buffer(prefixes: CONTEXT), I did some digging into how that CONTEXT is written to the buffer. The JSON::LD::Context::TermDefinition is coercing the Hash into a string (see Ruby example below). class JSON::LD::Context::TermDefinition   def initialize(term, id = nil)     @term = term     @id = id.to_s if id # I believe this line is causing the grief   end end Closes DLTP-751

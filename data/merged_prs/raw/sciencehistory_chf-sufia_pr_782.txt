@@ -1,0 +1,1 @@
+fix rake task to get args

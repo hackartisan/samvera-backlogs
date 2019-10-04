@@ -1,0 +1,3 @@
+Implement Work Flows
+https://intranet.unibe.ch/projects/solonline/Freigegebene%20Dokumente
+Needs more testing by Bernhard to be sure that everything works.

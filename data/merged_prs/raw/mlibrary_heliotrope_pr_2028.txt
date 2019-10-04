@@ -1,0 +1,2 @@
+HELIO-2202 - brand lever press ereader
+add styles to brand lever press titles in the ereader; enable display of lever press logo in ereader

@@ -1,0 +1,2 @@
+Fixes #542. Changing a Section title should not break the Section facet.
+When a Section title is edited, we need to reindex all of it's file_sets since we use the file_sets indexes section_title_tesim to build the Section facet on the monograph_catalog page. Added a reindex_file_set_job that gets called from by section_controller#update when a section's title(s) has changed.

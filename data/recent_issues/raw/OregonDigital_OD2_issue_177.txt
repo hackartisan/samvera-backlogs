@@ -1,0 +1,2 @@
+add rubocop to application, and CI 
+Descriptive summary Add rubocop to help enforce consistent styles and make sure styles pass prior to tests running

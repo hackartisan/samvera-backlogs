@@ -1,0 +1,2 @@
+Don't sync a coin to Ol or build an Ol document  if there is no parent numismatic issue. 
+closes #2865, closes #2761

@@ -1,0 +1,2 @@
+Hide some Collection metadata fields
+Descriptive summary some of the metadata fields on collections are not useful in our context. suppressing them is the best way forward. Including:   keyword  license  publisher  identifier  resource type  implement nested label on related URL

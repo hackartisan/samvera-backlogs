@@ -1,0 +1,2 @@
+Recordings should not have access to structure manager
+Backtrace line 44 of [PROJECT_ROOT]/app/resources/scanned_resources/scanned_resources_controller.rb: structure  View full backtrace and more info at honeybadger.io

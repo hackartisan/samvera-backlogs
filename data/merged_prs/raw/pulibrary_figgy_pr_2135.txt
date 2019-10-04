@@ -1,0 +1,2 @@
+Adds a media reserve panel in the home page
+closes #2123

@@ -1,0 +1,2 @@
+Establish admin user group on local environment
+Write workflow to create users and make them admin using seed data  Write tests for admin group  Connected to #36

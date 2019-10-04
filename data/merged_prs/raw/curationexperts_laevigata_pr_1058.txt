@@ -1,0 +1,2 @@
+Remove deprecated `ActiveFedora::Base.human_readable_type=` call
+Human readable type is derived from i18n in Hyrax 2.0. Setting it manually here is deprecated.

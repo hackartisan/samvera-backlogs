@@ -1,0 +1,2 @@
+Addresses #821 cover images alt text.
+Monograph catalog page only tested via a hack because my dev machine is using placeholders instead of images for cover pages.

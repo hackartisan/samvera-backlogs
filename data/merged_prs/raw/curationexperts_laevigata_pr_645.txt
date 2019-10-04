@@ -1,0 +1,1 @@
+Which metadata fields to show in search results view. Story #27

@@ -1,0 +1,2 @@
+Fixes location saving
+Im still trying to figure out why two fields are rendering. It seems as though it has something to do with https://github.com/samvera/hyrax/blob/master/app/views/records/edit_fields/_based_near.html.erb#L2 When you remove the as: :controlled_vocabulary completely it only renders one field. Otherwise it renders two.

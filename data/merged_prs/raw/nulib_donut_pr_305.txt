@@ -1,0 +1,2 @@
+adding clamav to aws group
+part of https://github.com/nulib/next-generation-repository/issues/66 and https://github.com/nulib/next-generation-repository/issues/164 to check and see if virus scanning is working, you basically need to check for the absence of this error message https://github.com/samvera/hydra-works/blob/master/lib/hydra/works/virus_scanner.rb#L46

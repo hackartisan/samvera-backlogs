@@ -1,0 +1,2 @@
+Render a telephone link in user profile, ref #801
+Current links to telephone numbers were not doing anything. This allows the browser to trigger any configured applications to dial the number.

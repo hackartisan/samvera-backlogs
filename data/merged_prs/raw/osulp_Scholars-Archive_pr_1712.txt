@@ -1,0 +1,2 @@
+permit ordered fields in dataset form behavior
+fixes #1710 We missed permitting the new ordered fields in the dataset form behavior.  This update enables new changes in the form to be persisted.

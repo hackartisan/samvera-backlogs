@@ -1,0 +1,2 @@
+File download problem
+Two ETDs do not let non-admin users download their files, despite the ETDs being open access: https://etd.library.emory.edu/concern/etds/zs25x9505 https://etd.library.emory.edu/concern/etds/4t64gp05w

@@ -1,0 +1,2 @@
+Use test cas instead of library cas
+Changed config for development and tested running under ssl. Note: You must run under ssl for this to work: bundle exec thin start -p 3000 --ssl --ssl-key-file dev_server_keys/server.key --ssl-cert-file dev_server_keys/server.crt

@@ -1,0 +1,2 @@
+Enforce embargoes whether they are strings or booleans
+We have three fields that we use to determine what has been embargoed. Unfortunately, the application is not consistent about whether these should be a string value of "true" or a boolean value of true. This PR ensures that the presenter can interpret either case. Fixes #897

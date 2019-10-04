@@ -1,0 +1,2 @@
+fixing placement of digitization_funder in form and item show page
+Fixes #1278

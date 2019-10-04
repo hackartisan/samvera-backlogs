@@ -1,0 +1,2 @@
+Update visibility mapping
+I'm guessing that "Emory Network" should map to "authenticated". We should double-check this with Emily, but I think this should be good enough to allow us to start iterating on the metadata import. Connected to curationexperts/in-house#213

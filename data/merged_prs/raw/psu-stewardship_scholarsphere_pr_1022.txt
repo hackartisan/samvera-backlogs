@@ -1,0 +1,2 @@
+changing to users that still exists in LDAP
+Patricia Hswe left and Anthony D'Augelli retired. I updated the tests to use a person I hope will be around in LDAP for a long time and updated the status for Anthony D'Augelli.

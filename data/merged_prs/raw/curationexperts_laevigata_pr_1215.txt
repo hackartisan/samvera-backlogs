@@ -1,0 +1,1 @@
+Use dashboard layout when viewing school views. Story #1162

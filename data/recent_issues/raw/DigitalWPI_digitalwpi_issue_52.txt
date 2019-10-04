@@ -1,0 +1,2 @@
+Limit FileSet's size to an agreeable limit
+Discuss and set a limit on the file size of any given file that is being attached to the work. Most common limit is 3GB.

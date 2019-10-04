@@ -1,0 +1,2 @@
+Check for valid resource type
+Check that any resource type submitted is one of the controlled vocabulary options expected by Hyrax and raise an error if it isn't

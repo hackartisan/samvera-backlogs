@@ -1,0 +1,1 @@
+Removing defunct references to Sufia.queue  Fixes #344

@@ -1,0 +1,2 @@
+Overriding rights field to show a single value for the form
+refs #242

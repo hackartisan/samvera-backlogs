@@ -1,0 +1,2 @@
+Fixing OSF Archive spec for more explicit date
+Addresses https://travis-ci.org/ndlib/curate_nd/jobs/191005164

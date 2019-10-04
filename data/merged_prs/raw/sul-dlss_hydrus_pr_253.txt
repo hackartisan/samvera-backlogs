@@ -1,0 +1,2 @@
+Use dor-services-client for object registration and opening new versions
+Fixes #228 Also:  Configure TravisCI build to use docker-compose instead of recreating it Add dor-services-app to the docker-compose config Upgrade dor-services to 6.1.x Work around underlying changes to Dor::Editable Bump to latest dor-services-client and dor-services to pick up new patches (needed because of bugs discovered doing this work) Remove deprecation warnings and use client for opening new versions

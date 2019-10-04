@@ -1,0 +1,2 @@
+Add research field instructions
+This adds instructions to the research field selection dropdowns. Related to #1444

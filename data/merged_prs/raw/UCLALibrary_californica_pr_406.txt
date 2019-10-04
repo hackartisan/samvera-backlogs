@@ -1,0 +1,2 @@
+Make ARK available to blacklight as single-value field
+Add "ark:/" on the value in the solr index if it doesn't already exist  On branch single-value-ark_399 Changes to be committed:  modified:   app/indexers/work_indexer.rb deleted:    lib/tasks/.keep modified:   spec/indexers/work_indexer_spec.rb

@@ -1,0 +1,2 @@
+Don't apply remote identifier property to geo resources
+Closes #825

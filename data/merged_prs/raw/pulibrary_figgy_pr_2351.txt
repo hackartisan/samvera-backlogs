@@ -1,0 +1,2 @@
+Log all Sequel Queries in JSON.
+Cuts down our log size and should make for pretty logs in Datadog.

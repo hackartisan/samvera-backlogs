@@ -1,0 +1,2 @@
+Review Metadata Display Labels
+Received feedback that metadata field labels might not be clear to users. (Specifically Role and Resource Type.)  Review metadata display labels Compare with Summon and BlackCat Talk to Ruth UX Cage testing? Update data dictionary with new display labels, as appropriate  Related: #997

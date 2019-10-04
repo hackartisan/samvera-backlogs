@@ -1,0 +1,2 @@
+Automate daily re-indexing of news negatives
+Connected to #133 I realize there are improvements we want to make here, like this CSV file should be an environment variable. However, I'd really like to get this in asap so the branch doesn't get stale and we can start testing a complete re-index against the latest indexing code. Right now a complete re-index is failing on the DCE RHEL box b/c fedora is falling over. I'd like to get that solved asap.

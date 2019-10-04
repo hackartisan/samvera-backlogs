@@ -1,0 +1,2 @@
+Data Validation: Maker
+Can we only accept VIAF autocomplete entries?

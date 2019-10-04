@@ -1,0 +1,2 @@
+displaying copyright data to approvers
+Fixes #762

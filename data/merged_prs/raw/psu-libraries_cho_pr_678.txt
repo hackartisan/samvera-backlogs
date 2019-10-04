@@ -1,0 +1,2 @@
+Schema should control determination of required fields
+Description When a field is required, the Schema::MetadataField object should determine what to do when the field is missing. This allows fields to be required for different kinds of the same objects, such as submissions, and allows a field to be required by different classes. Connected to #443

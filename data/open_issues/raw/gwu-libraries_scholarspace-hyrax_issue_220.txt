@@ -1,0 +1,2 @@
+Export task for DC metadata
+Investigate best practice for export Dublin Core metadata to third party systems.  Use case is to make GWSS content searchable in Primo.  Some options are exporting DC metadata as XML or creating an OAI feed that can be harvested.

@@ -1,0 +1,2 @@
+Download notification
+STORY As a librarian, I’d like to be notified when my bags are ready for download. DETAILS Unless there's an easier option, we should use Hyrax's native notification system (both in-browser and e-mail) to deliver user notifications. ACCEPTANCE When I'm logged in   When my bagit export is done, I get an in-browser notification

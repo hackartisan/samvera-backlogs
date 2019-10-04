@@ -1,0 +1,2 @@
+Generate downloader report
+From Emma how many downloads have there been from the resource portal for NCELP in total so far? it would be nice to have some breakdown of how many from each type of person (as per the download survey - teacher, etc)

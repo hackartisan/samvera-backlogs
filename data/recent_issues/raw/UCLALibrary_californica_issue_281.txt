@@ -1,0 +1,2 @@
+Mgmt: Add photographer to the Californica edit view
+STORY As a librarian / archivist / metadata professional, I would like to be able to edit all of the descriptive metadata associated with an object, so that I can ensure it's correctness. ACCEPTANCE Ensure each of the following field appears on a single item edit page:   Photographer  depends on #279

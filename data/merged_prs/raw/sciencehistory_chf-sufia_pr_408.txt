@@ -1,0 +1,2 @@
+validations prevent non-member filesets being saved as thumbnail or representative
+In the case of representative, known to mess up display logic in bad ways, see #394. In case of thumbnail, just a precaution, enforce what I think are intended semantics. After spending a couple hours on it, I was not able to find any reasonable solution to fixing the front-end logic to not infinite loop on this kind of bad data. The validations should prevent it, not reasonable at this time to do the other checkbox there. Closes #394

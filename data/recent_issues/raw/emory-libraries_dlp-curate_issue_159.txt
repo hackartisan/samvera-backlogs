@@ -1,0 +1,2 @@
+Enable encryption on EC2 hosting Fedora
+To support performance testing for uploading files in an encrypted environment   Setup encryption  Deploy to curate-test

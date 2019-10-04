@@ -1,0 +1,2 @@
+new renderer to persist newlines
+Resolves #814

@@ -1,0 +1,3 @@
+Text editors for collection description blocks should allow rich text
+Descriptive summary need the ability to use rich text functionality in description fields on Collection landing pages to allow for:  formatting insertion of images linking out
+Hyrax currently has a WYSIWYG editor - needs more advanced text options.

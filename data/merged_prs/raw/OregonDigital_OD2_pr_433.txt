@@ -1,0 +1,2 @@
+Refactor to DRY CV and authority code
+Work on refactoring the mechanisms that are used to fetch and what not from the odd endpoints. Fixes #432

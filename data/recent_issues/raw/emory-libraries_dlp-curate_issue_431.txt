@@ -1,0 +1,2 @@
+Easily set up default admin set for tests
+Make a spec helper before block that sets up default admin set, workflow, and anything else that needs to happen before something can successfully be ingested. Something like this in the rails_helper:   config.before(admin_set: true) do      AdminSet.find_or_create   end  This will prevent intermittent test failures where everything got cleaned out and now we're missing required admin sets, workflows, collection labels, etc.

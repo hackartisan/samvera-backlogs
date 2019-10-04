@@ -1,0 +1,2 @@
+symlinks branding directory for deployment
+fixes #1718

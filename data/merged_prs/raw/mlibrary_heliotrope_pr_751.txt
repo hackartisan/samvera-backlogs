@@ -1,0 +1,2 @@
+update leaflet to 1.0.3
+Resolves #747  Version 1.0.3 of Leaflet adds accessibility features such as aria-labels, roles, and alt attributes to zoom tools and image tiles Required update leaflet-iiif to 1.0.2 for compatibility Moved Leaflet related files to vendor/assets

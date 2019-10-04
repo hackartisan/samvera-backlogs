@@ -1,0 +1,2 @@
+importer can add sections (and add files to sections)
+closes #160

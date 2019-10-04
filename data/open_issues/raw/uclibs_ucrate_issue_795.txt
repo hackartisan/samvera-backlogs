@@ -1,0 +1,2 @@
+Advanced Batch Issues
+(moved from uclibs/scholar_uc_legacy#1309)  Dynamic batch update form fields  Requirements (with respect to how requirements vary across work type, or to DOI status) Available fields (with respect to whether a field exists on an edited work type)

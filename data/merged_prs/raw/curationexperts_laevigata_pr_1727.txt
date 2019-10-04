@@ -1,0 +1,2 @@
+manage no partnering agency
+This commit changes the value submitted to an InProgressEtd for a Partnering Agency, in the case of not selecting a Partnering Agency, to the vocab string currently used for this case ('Does not apply (no collaborating organization)'). It also removes the string from display on the review tab when there are Partnering Agencies being submitted. Fixes #1703

@@ -1,0 +1,2 @@
+Reduce redundancy in integration specs.
+Brings in some Hyrax factories Removes db/seeds.rb. Seed data is now created with AMS.reset_data! Moves creation of seed data entirely into AMS::Seed module. Adds a benchmark around AMS.reset_data! to output the time. Refactors :asset factory to simply take in an AdminSet instance, rather than creating one based on parameters. Includes Warden test helpers in Rspec rails config, instead of each spec. Adds wait_for_hyrax helper from Thoughtbot to wait on autocomplete select boxes.

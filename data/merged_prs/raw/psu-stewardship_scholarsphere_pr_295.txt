@@ -1,0 +1,1 @@
+Fixes Collection View and Search tests

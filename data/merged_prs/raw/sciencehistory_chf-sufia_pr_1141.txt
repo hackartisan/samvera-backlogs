@@ -1,0 +1,2 @@
+use princeton mirror url for downloading solr in test
+Our travis builds are failing with network errors again trying to download solr. Will this fix it?

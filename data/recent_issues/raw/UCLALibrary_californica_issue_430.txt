@@ -1,0 +1,2 @@
+Add UCLA metadata fields to collection edit form
+STORY We've added the UCLA metadata fields like caption and normalized_date to the collection object model, but users can't currently edit them in the UI. ACCEPTANCE   The properties in https://github.com/UCLALibrary/californica/blob/master/app/models/ucla_metadata.rb should be editable in the collection edit form

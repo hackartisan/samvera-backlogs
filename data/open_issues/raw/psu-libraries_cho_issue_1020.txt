@@ -1,0 +1,2 @@
+New data dictionary fields for collection editor, metadata manager, and submitter
+Add fields to the data dictionary to assign applications roles on a per-collection basis. Fields will available to collections only and will have system-wide impact. Todo:  add to test, dev. and prod. dictionaries:  collection editor collection submitter   no validation or controlled vocabularies; string types only add fields to system checkup process (see #1010)

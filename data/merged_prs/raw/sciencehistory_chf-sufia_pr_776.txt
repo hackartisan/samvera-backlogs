@@ -1,0 +1,2 @@
+Charts genre 2
+Follow-on to #775; should not be merged until data migration task has been run. This PR  Removes the old term from the form options. Reverts the temporary form processing code which enforced use of the new term.

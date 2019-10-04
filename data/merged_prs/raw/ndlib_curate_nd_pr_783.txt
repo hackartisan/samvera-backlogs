@@ -1,0 +1,2 @@
+Add new document type "Program"
+Completes https://jira.library.nd.edu/browse/DLTP-1609 Add new document type Program Add metadata field event_speaker valid only for document type Program

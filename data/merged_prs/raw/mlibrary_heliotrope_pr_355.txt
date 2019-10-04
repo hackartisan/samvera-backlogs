@@ -1,0 +1,2 @@
+remove permissions badge from asset show page
+Closes #324

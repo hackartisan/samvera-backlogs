@@ -1,0 +1,2 @@
+move fixity/file-info for file_sets into admin block
+is fixity information useful to our users at all? does it make things more complex to show that a file set contains more than one file, even if one of those is just a plain-text of the ocr text?  things we could display in a larger block:  all of the contained files original sha1 (via file.file_hash) md5 checksum from FITS (via file.original_checksum) format original file? (file == fs.original_file) file size of each file (file.size)

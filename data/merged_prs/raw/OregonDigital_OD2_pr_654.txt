@@ -1,0 +1,2 @@
+open content
+Fixes #650

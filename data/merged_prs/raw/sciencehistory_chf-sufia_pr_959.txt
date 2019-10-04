@@ -1,0 +1,1 @@
+refactor asset/image url provision to use null/legacy service for none set

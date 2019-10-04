@@ -1,0 +1,2 @@
+Replace `sass-rails` with `sassc-rails`
+Connected to #321

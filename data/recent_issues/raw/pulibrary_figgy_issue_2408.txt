@@ -1,0 +1,2 @@
+Update Universal Viewer
+The timer is wrong sometimes in the current version when you click around between tracks.

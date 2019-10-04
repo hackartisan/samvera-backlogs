@@ -1,0 +1,2 @@
+Convert dates to strings in Sufia::StatsUsagePresenter, ref #934
+string_to_date was returning nil for parameters that were already DateTime objects because it does not implicitly convert them to strings. To fix, we explicitly call to_s to handle the conversion. @cam156 this is a new technique I was reading about from @jcoyne.

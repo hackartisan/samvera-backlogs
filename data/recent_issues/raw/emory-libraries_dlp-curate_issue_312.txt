@@ -1,0 +1,2 @@
+Patching and rebuilding process
+Provided by Steve Collins: The Issue needs to include how for each instance as well as testing.  Goal is to be able to keep every EC2 up to date, preferably automated following DevOps practices.

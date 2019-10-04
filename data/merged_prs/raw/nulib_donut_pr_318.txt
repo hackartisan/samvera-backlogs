@@ -1,0 +1,2 @@
+Fixes collection new/edit forms
+Fixes nulib/next-generation-repository#590 Since we overrode globally to make customizations to image model properties, the collection new/edit forms were erroneously pulling in those customizations (which didn't fully work).  rename app/views/records/edit_fields/ to app/views/images/edit_fields/ to scope the customizations to Images.

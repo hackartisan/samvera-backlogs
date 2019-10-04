@@ -1,0 +1,2 @@
+only try to use new fancy editable query constraint on user-facing catalog
+Raised an error when limiting to 'my works' redirected to my/works controller. https://app.honeybadger.io/projects/53196/faults/36500802 Fixes #972

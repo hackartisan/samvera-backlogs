@@ -1,0 +1,2 @@
+Only allow edit actions for shared items, ref #741
+Includes a small refactoring of the dashboard shares feature test, combining the original two tests into one, saving a few seconds on the test suite.

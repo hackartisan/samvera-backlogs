@@ -1,0 +1,2 @@
+uses Capistrano 2 and eliminates rake task for jetty restart
+attempts to fix #379, but have to merge this into master to fully test on server

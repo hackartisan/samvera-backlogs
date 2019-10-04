@@ -1,0 +1,2 @@
+Feature/related items parser
+Fixes #1621

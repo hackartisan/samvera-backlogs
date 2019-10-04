@@ -1,0 +1,2 @@
+Investigate Cleanup of UI Upload File Storage
+Establish a method to periodically purge the temp space to clear out storage used when users use the form to upload files. This method can we a ruby call inside the app or a bash cron script   Confirm which directories need to be purged with Collin  Write bash script, or ruby call that purges target directories  Persist script through rebuilds via Ansible

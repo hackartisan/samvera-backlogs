@@ -1,0 +1,2 @@
+Multiple Records Created for one item
+When a file ingest Fails and then is rerun we will have two works created. One with no content and one with the actual content. https://scholarsphere.psu.edu/concern/generic_works/3n583xt387 - Original https://scholarsphere.psu.edu/concern/generic_works/t1g05ff26f - New https://scholarsphere.psu.edu/concern/generic_works/4f4752g62b - Original https://scholarsphere.psu.edu/concern/generic_works/93197xn10h - New

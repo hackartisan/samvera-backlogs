@@ -1,0 +1,2 @@
+update aptrust rake and exporter for new subdomain
+Changes include: Modifications to authentication keys for the new fulcrum.org subdomain in the aptrust.yml files. Changes to rake task and exporter for new subdomain and bag naming. Improvements to rake method update_db_aptrust_status.

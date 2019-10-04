@@ -1,0 +1,2 @@
+updated email address
+Fixes #237. Tested this on QA. I did get an email at ENV['MAILUSER'] email address.

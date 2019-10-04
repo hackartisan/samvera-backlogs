@@ -1,0 +1,2 @@
+Remove Required for DOI from Publisher on Deposit (DLTP-1356)
+Found two of the deposit pages included the (Required for DOI). Removed text from both files

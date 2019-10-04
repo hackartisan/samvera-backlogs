@@ -1,0 +1,2 @@
+Only display Non-Aggregator Projects when creating digital object
+A digital object can only be created within a non-aggregator project. The list of project options should be limited only to those.

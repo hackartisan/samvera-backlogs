@@ -1,0 +1,1 @@
+Resolves #1110 don't use GA if it's not defined

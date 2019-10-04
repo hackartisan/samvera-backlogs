@@ -1,0 +1,2 @@
+Adds URLs to ETD show page, and degree awarded notification.
+No tests, as these are in views, although I'm happy to add them. Here's a before:  And after:

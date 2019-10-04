@@ -1,0 +1,2 @@
+Remove dependencies on HTTP request for IIIF manifest generation.
+Previously, building IIIF manifests could only be done in the context of an HTTP request, from which a URL was extracted for use in IIIF identifiers. This commit derives those identifiers from other sources so that manifests can be generated outside the HTTP request cycle, for example immediately upon ingest.

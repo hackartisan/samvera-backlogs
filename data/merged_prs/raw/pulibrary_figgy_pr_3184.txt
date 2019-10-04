@@ -1,0 +1,2 @@
+Ensures that the NumismaticsImportService imports Coins using ChangeSets (and generates derivatives for appended files)
+Resolves #3012

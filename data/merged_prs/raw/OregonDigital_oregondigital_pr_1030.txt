@@ -1,0 +1,2 @@
+remove extra queries
+fixes #1029 also removes unnecessary solr query/extract labels method, uses the instance already loaded from solr to get labels.

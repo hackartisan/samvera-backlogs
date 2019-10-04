@@ -1,0 +1,5 @@
+Ingest "Livingston Materials" (pudl0041)
+These don't appear to be ingested anywhere. Migrate? Ping @jpstroop @joycebcat
+I don't see any metadata for these items — no METS files, and the images are named "folio5/seconddraft", etc.
+I never did anything substantive with Livingston.  My only e-mail about this material shows a connection with the Jefferson letters.  May 2008: "Jefferson has been up in test since April 9th.  It includes the Livingston bits that were in either of the two Jefferson folders.  If there is more Livingston, I don’t know about it."
+Maybe from this collection? https://findingaids.princeton.edu/collections/C0280  I'm afraid I don't know much either, but it may be tied to the Jefferson letters?

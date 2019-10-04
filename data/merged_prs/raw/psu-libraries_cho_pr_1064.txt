@@ -1,0 +1,2 @@
+Updates for deployment
+Description Removes the package-lock.json file and updates the production configuration to make assets compile successfully.

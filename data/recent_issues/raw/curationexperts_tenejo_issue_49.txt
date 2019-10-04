@@ -1,0 +1,2 @@
+SPIKE: Virus Checking performance
+EXPERIMENT When running virus checking on enough files to get meaningful timings    Loading ClamAV once and running it on all files in the folder    Loading ClamAV multiple times, once for each individual file (like the actor stack would)    How many files do we need in our sample set

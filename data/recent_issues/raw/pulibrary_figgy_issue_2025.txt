@@ -1,0 +1,2 @@
+Migrate numismatics from Access to Figgy
+ToDo before migration:   Find all coin images  Find all monogram images  Ask numismatics team to change CE2 on Issue 3985 to "1918". Causing errors during import.  Fix "5709O.tif" and "5709R". Unknown tag 37680 (0x9330), is causing an error.  Make a list of duplicated images and remove dups.

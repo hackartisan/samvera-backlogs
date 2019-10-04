@@ -1,0 +1,2 @@
+Requiring Display name in creator
+This fixes one part of #1074 There is additionally a bug where any required field can be left off the form if the user deletes all of the input forms requiring the field.

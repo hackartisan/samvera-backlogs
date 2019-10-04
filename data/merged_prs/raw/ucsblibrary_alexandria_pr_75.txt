@@ -1,0 +1,2 @@
+views/welcome/using: add missing periods to TOC links
+Fixes DIGREPO-853.

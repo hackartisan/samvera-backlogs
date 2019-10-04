@@ -1,0 +1,2 @@
+Uploading in edit mode via BrowseEverything, #958
+Adding new files to existing works via BrowseEverything was failing because the form was not using the correct target selector. As a result, BE would insert the wrong html into the form and files could not be uploaded. This uses a new form method to determine the selector in each case, new and edit views for both single works and batches.

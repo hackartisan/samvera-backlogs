@@ -1,0 +1,1 @@
+Addresses HELIO-2319 bad leading comma in single-name citations

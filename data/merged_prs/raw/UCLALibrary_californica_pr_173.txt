@@ -1,0 +1,2 @@
+Add the rights holder term
+This commit adds the rights_attribute term to the model and changes the labels as specified in the issue. Connected to #145

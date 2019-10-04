@@ -1,0 +1,2 @@
+Revert "Lazy map resources in MemoryEfficientAllQuery"
+This reverts commit d34d45a. On staging, that commit resulted in only one batch of records reindexing. I, [2018-11-12T10:32:13.258438 #6424]  INFO -- : Clearing Solr I, [2018-11-12T10:32:13.299740 #6424]  INFO -- : Reindexing all records I, [2018-11-12T10:32:15.326994 #6424]  INFO -- : Indexing 1000 records I, [2018-11-12T10:32:22.463393 #6424]  INFO -- : Done  Reverting the commit on staging allows the full set of records to index

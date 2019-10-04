@@ -1,0 +1,2 @@
+Rework fixity checks
+Use UpdateFixityJob to create Fixity Events instead of storing the status as part of the FileSet. Replace recursive job with a cron that spawns X fixity checks per Y time period, queries for things that either don't have events or have old events. Run fixity on initial save, not on update generally.

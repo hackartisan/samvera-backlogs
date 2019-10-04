@@ -1,0 +1,5 @@
+A/V player breaks when accessing page via back button
+The player loads and plays as expected on initial view of a page. But if I click into one of the component lectures then use the back button to re-enter the course page, the player no longer works.
+This seems to have to do with browser caching of the media player. I think the browser's "back-forward cache" keeps the player loaded when you navigate away from the page, but then the page partially reloads and breaks when you navigate back. So far I can't figure out why it is partially reloading or how to fix it, but I am making progress in understanding the problem.
+Another relevant observation: if you navigate to a different domain and then press "back", the player loads correctly. It is only a problem when navigating back and forth within our domain.
+It looks like the mediaelement.js autoloading feature is trying to load the already-loaded player, causing a problem. I hope to fix the problem by loading mediaelement.js manually. 

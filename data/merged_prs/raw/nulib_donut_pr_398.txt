@@ -1,0 +1,2 @@
+Use system dates instead of Hyrax modified and create dates
+Use sytem_create_date and system_modified_date to populate our Elasticsearch dates - I wasn't aware of them when I implemented this at first and since have noticed that the system_modified_date seems slightly more reliable. End result, Elasticsearch index for an Image record will now have 3 dates to pick and choose from : "create_date": "2018-11-20T19:09:50+00:00" "modified_date": "2018-11-20T19:10:56+00:00" "uploaded_date": "2018-11-20T19:09:50+00:00"

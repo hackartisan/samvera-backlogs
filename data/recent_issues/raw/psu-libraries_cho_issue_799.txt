@@ -1,0 +1,2 @@
+Legacy statistics
+Need to add CSV files of old stat reports, as much as possible as administrative metadata. This will be messy when collections are broken up. May just have to stash them.

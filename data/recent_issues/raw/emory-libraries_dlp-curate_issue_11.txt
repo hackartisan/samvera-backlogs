@@ -1,0 +1,2 @@
+Feature: User & Permissions Management
+MVP components:  Shibboleth authentication Group and role-based editability settings on digital collections and assets Dashboard for recent user activity and modifications

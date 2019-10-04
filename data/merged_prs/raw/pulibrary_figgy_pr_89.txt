@@ -1,0 +1,2 @@
+Index member_of and restrict discovery.
+Closes #88.

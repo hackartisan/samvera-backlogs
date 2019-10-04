@@ -1,0 +1,2 @@
+Show Page redesign
+The buttons are at the bottom, and you have to scroll past the metadata and viewer.  Maybe we should make the buttons sticky at the bottom of the screen? Or move the viewer to the bottom of the page?

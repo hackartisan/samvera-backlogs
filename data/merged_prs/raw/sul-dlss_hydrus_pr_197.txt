@@ -1,0 +1,2 @@
+Use the hydra_jetty_verison setter
+This avoids a warning: lib/tasks/ci.rake:1: warning: already initialized constant ZIP_FILE

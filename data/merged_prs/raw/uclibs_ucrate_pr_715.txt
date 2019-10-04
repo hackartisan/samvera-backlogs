@@ -1,0 +1,2 @@
+update change_manager gem version
+Fixes #450 ; refs uclibs/change_manager#1 Change notification emails were not being consistently sent for proxy/editor removal. The change manager gem had some logic issues that have been fixed here: uclibs/change_manager#1 This PR updates the Gemfile to point to the updated change_manager ref Changes proposed in this pull request:  Update ref in Gemfile

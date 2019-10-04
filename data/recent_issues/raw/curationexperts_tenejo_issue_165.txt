@@ -1,0 +1,2 @@
+Make virus test optional
+This test is failing intermittently in Travis: Virus Scanning uploading a file with a virus   Make it optional OR  Refactor it so it passes consistently

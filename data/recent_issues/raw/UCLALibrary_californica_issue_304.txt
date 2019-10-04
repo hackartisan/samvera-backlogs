@@ -1,0 +1,2 @@
+Mgmt: Add a recreate derivatives rake task
+Sometimes thumbnails fail to generate (see attached screen shot). Add a rake task to re-generate derivatives.   I can regenerate derivatives for a specific ID  I can regenerate derivatives for everything  See https://github.com/curationexperts/laevigata/blob/master/lib/tasks/recreate_derivatives.rake for an example of how to do this.

@@ -1,0 +1,2 @@
+NumismaticAccessions shouldn't have member_ids
+Coins link to them instead of being members. Child of #2025

@@ -1,0 +1,2 @@
+Update rails to v4.2.11 to patch activejob & rack vulnerabilities.
+Matches rails version used by dul-hydra. Also updates logger version as 1.2.8 is no longer available.

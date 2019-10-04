@@ -1,0 +1,2 @@
+Updates styling on related geo members and fixes link to parent resource
+Closes #1125 and #1126

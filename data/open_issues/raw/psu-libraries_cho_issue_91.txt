@@ -1,0 +1,3 @@
+Access Plain Text
+As an Assistant Professor of History, I need to access the plain text of all of our Civil War diaries so that I may topic model them. As a Professor of Art History, I want to have access to the plain text of out of copyright scholarly European art periodicals So that I may topic model the journals to see patterns of art scholarship. John R. Related: #90 Dependent: #153
+This is for a single work. Automatic OCR - additional ticket. Give them access to the dirty, raw OCR. Maybe an alternative view. Kind of an annotation sort of thing. Conversion and download? Move to initial

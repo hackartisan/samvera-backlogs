@@ -1,0 +1,2 @@
+Validating bags for import
+Description Fixes: #561 Validates the structure and integrity of bags containing one or more works, each will multiple files and file sets. While it will parse bags of nested works, it doesn't yet validate these if the nested works have errors. This test has been marked pending and can be addressed when nested works are added later. Tests should cover all the cases outlined in the file specs Connected to #561

@@ -1,0 +1,2 @@
+Expose date ranges in JSON-LD.
+Necessary for LAE indexing.

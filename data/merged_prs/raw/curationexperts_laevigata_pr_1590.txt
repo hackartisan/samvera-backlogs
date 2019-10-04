@@ -1,0 +1,2 @@
+Fix supplemental file metadata when uploading from Box
+This commit fixes the supplemental file upload from box not having the name in the display. It also changes some instances where we were using FormData.set to FormData.append. FormData.set is not available on Safari and IE, but .append is. Related to #1572

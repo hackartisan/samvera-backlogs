@@ -1,0 +1,2 @@
+Create collection in ingest mets job if it didn't exist yet
+resolves #1673

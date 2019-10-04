@@ -1,0 +1,2 @@
+Monthly report email omits name
+Cynthia noticed that the email she received is missing her name in the salutation: Latest Report for the Month of September  Dear , You had 4 new downloads last month across your 270 files in ScholarSphere.  You can view your overall statistics in ScholarSphere by accessing your dashboard.  [...]

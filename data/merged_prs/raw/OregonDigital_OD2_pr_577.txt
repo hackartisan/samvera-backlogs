@@ -1,0 +1,2 @@
+Feature/indexing for configured collections
+Need to still figure out why repository isnt indexing. Then test. Merge after #569

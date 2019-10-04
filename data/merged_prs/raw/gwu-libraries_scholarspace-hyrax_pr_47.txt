@@ -1,0 +1,1 @@
+Overrides blur. Fixes #32.

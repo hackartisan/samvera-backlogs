@@ -1,0 +1,2 @@
+Feature/sets index
+Speeds up set pages by hitting solr instead of Fedora. Also adds new relic notification of deploys.

@@ -1,0 +1,1 @@
+User can pass in a default work type. Story #70

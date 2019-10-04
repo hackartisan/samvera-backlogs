@@ -1,0 +1,2 @@
+Fixes pieces of indexing
+This refines the indexing a bit more. Since we have our own custom metadata with some core pieces of metadata taken out, we need to remove a bit more of the hyrax work in order to replace it with our. IndexesLinkedMetadata IndexesBasicMetadata MetadataIndexer DeepIndexingService Are ones to look at. We had to take these out because they were trying to index values that we dont support anymore.

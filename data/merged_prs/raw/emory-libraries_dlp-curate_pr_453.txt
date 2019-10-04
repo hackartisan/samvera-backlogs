@@ -1,0 +1,2 @@
+Don't assign admin role if it is already assigned
+Connected to #444

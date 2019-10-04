@@ -1,0 +1,2 @@
+Removing options that are no longer used
+These options were only useful when we queried Google Analytics one time for each object.  They became an error during the refactoring when the initializer no longer accepted them, but the call in the rake file was not updated refs #1079

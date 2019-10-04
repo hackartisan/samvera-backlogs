@@ -1,0 +1,2 @@
+Delete more than one track from a Playlist at a time
+Requested by Dan

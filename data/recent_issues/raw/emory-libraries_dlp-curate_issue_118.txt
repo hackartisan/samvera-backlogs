@@ -1,0 +1,2 @@
+Move capistrano path to env var.
+Additional work from #117
