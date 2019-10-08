@@ -1,6 +1,27 @@
+## Run 1
+
+N=8
+
+### Top terms per cluster:
+Cluster 0: github hyrax rb com https app blob samvera master error
+Cluster 1: collection collections works work add page metadata items able need
+Cluster 2: use add like https need data image work images test
+Cluster 3: ingest princeton edu figgy catalog https pudl mets collection jpstroop
+Cluster 4: search results advanced facet text page terms date like searching
+Cluster 5: file files preservation work metadata fileset upload set csv acceptance
+Cluster 6: metadata fields work field form related edit type behavior display
+Cluster 7: page user users admin dashboard link add publisher content work
+
+### Notes
+
+We can see princeton tickets have their own cluster (3). Clearly we need to
+augment the stopwords list or clean the data beforehand to remove institution-specific terms.
+
+## Run 2
+
 N=16
 
-Top terms per cluster:
+### Top terms per cluster:
 Cluster 0: scholar_uc_legacy uclibs api uc scholar moved descriptive summary large student
 Cluster 1: add use need like data field create new date resource
 Cluster 2: file files work text thumbnail set version csv zip extracted
@@ -18,13 +39,11 @@ Cluster 13: edu princeton figgy catalog https concern psu http scholarsphere map
 Cluster 14: metadata fields field work uris controlled data use need form
 Cluster 15: collection collections works work page add metadata new need able
 
-N=8
-Top terms per cluster:
-Cluster 0: github hyrax rb com https app blob samvera master error
-Cluster 1: collection collections works work add page metadata items able need
-Cluster 2: use add like https need data image work images test
-Cluster 3: ingest princeton edu figgy catalog https pudl mets collection jpstroop
-Cluster 4: search results advanced facet text page terms date like searching
-Cluster 5: file files preservation work metadata fileset upload set csv acceptance
-Cluster 6: metadata fields work field form related edit type behavior display
-Cluster 7: page user users admin dashboard link add publisher content work
+### Notes
+
+More institutions are represented here.
+Individuals begin to show up as well. Need to clean up anything starting with
+`@`. Cleaning these may also get rid of some code, where instance variables are
+referenced.
+
+
