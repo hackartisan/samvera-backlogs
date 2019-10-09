@@ -1,0 +1,2 @@
+Ensure use can only select PDFs for thesis
+This uses the accept attribute on the file input control to ensure that the user can only select PDFs. This technique works in IE 10+ and Firefox, Safari, etc. Related to #1354

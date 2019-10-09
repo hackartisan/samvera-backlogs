@@ -1,0 +1,2 @@
+Allow markdown in description field for collections
+When editing a collection record, I can add markdown in the description field.  When the collection record is displayed, the markdown is rendered properly.

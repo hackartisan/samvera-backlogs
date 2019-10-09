@@ -1,0 +1,2 @@
+Delete object from AV Diss
+Description Delete object that was not structured correctly due to a mistake in the ingest spreadsheet. Object has not been published yet. 

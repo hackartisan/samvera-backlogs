@@ -1,0 +1,2 @@
+Install Niftany
+Installs the niftany gem to use for our Rubocop configurations. Includes at update to Rubocop, and small set of autocorrects, and an update to our todo list to account for the changes to the gem. Cleans up our erb files using erb-lint with a config file managed in Niftany. Renames the rubocop stage in Travis to niftany, and runs both rubocop and erb-lint to check for errors.

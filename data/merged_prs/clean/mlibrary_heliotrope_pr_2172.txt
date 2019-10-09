@@ -1,0 +1,1 @@
+HELIO-2427 - fix link to open access books; modify width of banner

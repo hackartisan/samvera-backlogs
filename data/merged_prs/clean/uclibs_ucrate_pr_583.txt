@@ -1,0 +1,2 @@
+Add collection command to README
+Fixes #575 Adds the create default collection command to the README

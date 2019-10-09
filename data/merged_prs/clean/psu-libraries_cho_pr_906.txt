@@ -1,0 +1,2 @@
+Updating to fix searching
+Description There were a number of issues with how the catalog was being searched. Connected to #839 ref  Changes  Updated the catalog controller to allow for search fields and all fields updating the tokenizer in the solr schema to break on all punctuation and underscore

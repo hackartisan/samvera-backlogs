@@ -1,0 +1,2 @@
+Capture new information about a publisher to display on publisher catalog page
+Adds new fields to the presses database; Modify views to incorporate display of new fields; Add spec check for footer links and set exceptions for press helper and html_safe Resolves HELIO-1924 and HELIO-1925

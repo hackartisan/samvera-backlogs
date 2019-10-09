@@ -1,0 +1,2 @@
+Batch Agent Creation Bugs
+CSV export of agents uses "Surname" and "Given Name" as column headers; CSV import for agents expects "surname" and "given_name" -- not round-tripable; should match style used for works (surname, given_name)   Rows and colums in the CSV Status table during Agent Import Preview are mis-aligned

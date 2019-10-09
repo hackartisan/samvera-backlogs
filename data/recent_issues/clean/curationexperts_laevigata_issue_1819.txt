@@ -1,0 +1,2 @@
+Re-migrate failed ETDs
+Migrate these 20 pids on staging-etd and report back to Fran: emory:r8ks7 emory:7s1md emory:pg74x emory:s00c9 emory:bpqzr emory:pshzp emory:d9276 emory:d7q71 emory:bpn7n emory:s1q70 emory:ft5gj emory:rhvp4 emory:pj14f emory:bnk0d emory:fzj29 emory:g09vv emory:8507k emory:rhmrp emory:fzmmq emory:pgpjx

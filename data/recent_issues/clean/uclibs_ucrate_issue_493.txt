@@ -1,0 +1,2 @@
+Test the application in production mode
+Descriptive summary Depends on #491 being merged We should make sure that the application starts and works correctly in production mode so that we are not surprised by anything when we deploy for the first time to scholar-qa.uc.edu

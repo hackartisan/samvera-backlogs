@@ -1,0 +1,2 @@
+Explicitly specify primary identifier
+This PR creates a single-value field for the ark (archival resource key) identifier, so it can be used in blacklight urls. The ark is found by searching the "identifiers" field for a value that starts with "ark:" This solution would not be suitable if a record has multiple arks – IDK if that is ever the case, but it might be useful if duplicate records are found and merged. Instead, it might make sense to allow the system to explicitly designate one of several identifiers as the primary.

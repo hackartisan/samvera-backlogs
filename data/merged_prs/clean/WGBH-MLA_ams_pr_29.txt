@@ -1,0 +1,2 @@
+Adds deployment details page
+Adds a script that will create a publicly available page containing deployment details, and modifies appspec.yml to run the script after deployments with CodeDeploy. Closes AMS2-131.

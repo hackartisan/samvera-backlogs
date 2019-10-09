@@ -1,0 +1,2 @@
+Student Work: Submission should notify advisor
+(moved from uclibs/scholar_uc_legacy#1178) Descriptive summary As a: Student Submitter. I want to: notify my advisors when I submit a work and select them as the advisor. So that: my advisor knows my student work has been posted in the repository. Expected behavior Actual behavior Steps to reproduce the behavior  Do this Then do this...  Related work Link to related issues or prior related work here.

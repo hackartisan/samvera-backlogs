@@ -1,0 +1,2 @@
+Addresses #1560 character encoding problem in Aboutware.
+Taking Conor's suggested fix after chasing my tail for a while.

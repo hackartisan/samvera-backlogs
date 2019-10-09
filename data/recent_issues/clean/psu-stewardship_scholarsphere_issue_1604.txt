@@ -1,0 +1,2 @@
+Read-only Solr queries through admin interface
+The ability to run arbitrary read-only queries against the Solr index will be important for current and future metadata remediation projects. This doesn't need to be a fancy UI: just some ability to submit queries and get raw results from the index. I know   has thoughts on how to implement this.  Also related to #1588

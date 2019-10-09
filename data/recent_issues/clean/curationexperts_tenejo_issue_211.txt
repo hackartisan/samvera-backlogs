@@ -1,0 +1,2 @@
+Check for sufficient space
+STORY I would like the system to give me a clear warning when there isn't enough space to process my import, so that I don't end up with hung jobs and objects in odd states. ACCEPTANCE When I submit an ingest job   The system calculates the size of files in my job  The system calculates how much additional space is required for derivatives, temp files, etc.  The system checks that enough space is available and gives me a clear error message if there is not enough space to process my ingest job.

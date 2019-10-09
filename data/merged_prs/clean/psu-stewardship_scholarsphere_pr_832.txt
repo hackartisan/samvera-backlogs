@@ -1,0 +1,2 @@
+Adds word break to name and filename class.
+Old one

@@ -1,0 +1,6 @@
+Downloading of Images
+I think its a browser issue. When I download an image, it opens up a new window and displays the image there. I would expect it to just download.
+ I'm seeing the same behavior on Chrome, Safari, and FireFox. I don't think Sufia is treating downloads differently based on file type, so it still could be a browser issue, or we have to update the DownloadsController to ensure a download.
+I'm also seeing this with plain-text content: 
+  On another app I am working on, there are images and other files to download and it saves automatically to my local system, so I don't think it is a browser issue, but more how you are handling the download. Here is the relevant code from this project at   It is using carrierwave in activeadmin, but the ```send_data``` method is rails.  ```ruby member_action :download, method: :get do     map = Map.find params[:id]     if map.file.file       download = open(map.file.path)       send_data download.read,                 filename: map.file.file.filename,                 type: map.file.content_type, disposition: 'attachment'     end   end ```
+We should put this into the list for cafe

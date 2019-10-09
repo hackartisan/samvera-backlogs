@@ -1,0 +1,2 @@
+NOP error handlers for UnityLoader
+Resolves #1617

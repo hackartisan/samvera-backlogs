@@ -1,0 +1,2 @@
+updated ordered creator model to reject empty items
+fixes #1564 This will allow us to reject partially empty items (i.e. items with an index but without a creator and vice versa). It should still reject the items when all of them are empty (excluding items where the destroy flag is turned on).

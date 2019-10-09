@@ -1,0 +1,2 @@
+Logging indexing failures as audit events (DHH-568)
+logging indexing failures as audit events adding paging to audit index minor gem updates to handle 2.1.4

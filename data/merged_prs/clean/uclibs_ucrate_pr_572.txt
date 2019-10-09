@@ -1,0 +1,2 @@
+Change Etd publisher field to single value
+Fixes #569 Brings back the unique etd_publisher field from scholar so that it doesn't allow for multiple values

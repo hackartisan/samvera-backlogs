@@ -1,0 +1,2 @@
+Add Fedora configuration to `dotenv`
+Add FCRepo configuration to the dotenv sample and rework the config YAML to use the variables.

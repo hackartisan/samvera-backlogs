@@ -1,0 +1,2 @@
+add demo or repo url to aptrust.yml.sample
+When using the aptrust api to check on the status of ingesting/ingested bag, you can contact the demo or production urls. Demo:  Repo:  These have various end points as described here: 

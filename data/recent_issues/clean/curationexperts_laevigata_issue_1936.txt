@@ -1,0 +1,2 @@
+Post-Graduation Email: Language Change 
+On the part of the form that asks users to submit a post-graduation email address, we would like to change the instructions to say "Please provide a post-graduation email address so that we can communicate with you about embargo information. This email address will be shared with your school in periodic automatic reports. If you do not want your email shared in these reports, please contact ." ACCEPTANCE   The text on the submission form has been updated to match what's provided above.

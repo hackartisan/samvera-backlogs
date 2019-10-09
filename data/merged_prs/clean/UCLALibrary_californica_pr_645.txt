@@ -1,0 +1,2 @@
+Switch sort title to _ssort field type
+This field type can be used for alpha sorting on strings.

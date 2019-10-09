@@ -1,0 +1,2 @@
+Allow works to be created without attaching files
+Fixes #209 Set 'config.work_requires_files' to false in 'config/initializers/hyrax.rb'

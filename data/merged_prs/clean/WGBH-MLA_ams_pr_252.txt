@@ -1,0 +1,2 @@
+Updates schema.rb
+We switched to MySQL and also pulled in a new migration that had been added while still using SQLite3... so need to re-run migrations using MySQL to get an up-to-date schema.rb.

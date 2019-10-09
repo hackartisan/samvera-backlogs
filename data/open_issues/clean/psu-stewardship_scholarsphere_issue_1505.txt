@@ -1,0 +1,4 @@
+clamav will need to be updated at some point
+We are currently not updating clam av due to the error outlined here:  When this issues is resolved we can then allow the RPM to be updated.
+Binaries pinned to an old version. Virus definition can still be updated. Other projects may be using a different gem. Solve this problem differently. Align other projects to use the same solution-perhaps an API.
+etda_workflow is using  which was updated in 2015.   I also found this one, which seems to be maintained 

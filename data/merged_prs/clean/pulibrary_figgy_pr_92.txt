@@ -1,0 +1,2 @@
+Ingest MVWs from METS files.
+Closes #16.

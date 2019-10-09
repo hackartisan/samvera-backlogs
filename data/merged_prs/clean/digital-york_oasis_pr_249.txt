@@ -1,0 +1,1 @@
+Re #246 Expose summary attributes to solr

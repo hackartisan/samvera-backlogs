@@ -1,0 +1,2 @@
+only show 'Exclusive to Fulcrum' in exclusivity facet
+Resolves #808

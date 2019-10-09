@@ -1,0 +1,2 @@
+Schedule daily cloud fixity checks
+fixes #3284

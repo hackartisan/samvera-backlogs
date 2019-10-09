@@ -1,0 +1,2 @@
+Replace Markdown with HTML in metadata stored in Fedora
+Since Markdown has to be converted to HTML for display and Solr already has an HTML stripper and HTML is well defined and other systems may be accessing the data stored in Fedora and ... [] Covert Markdown to HTML during the import process. [] Do a one time conversion of Markdown to HTML in production. [] Changes views and presenters as needed to work with HTML metadata fields.

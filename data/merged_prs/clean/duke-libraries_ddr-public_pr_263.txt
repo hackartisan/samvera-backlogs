@@ -1,0 +1,2 @@
+Update ddr-models to v2.4.1
+This updates ddr-public to use ddr-models v2.4.1, which adds contributor_facet and subject_facet fields to the solr index. To make use of this, your local copy of dul-hydra also needs to be updated to ddr-models v2.4.1. You will need to restart jetty and then reindex everything from the dul-hydra rails console -- ActiveFedora::Base.reindex_everything to make these new fields available for ddr-public.

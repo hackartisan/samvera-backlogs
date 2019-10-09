@@ -1,0 +1,2 @@
+allow definition of multi_value_character for ingest task
+adds the ability to define a custom multi-value character when ingesting (part of an effort to move us towards bars (|) rather than semicolons (;) as separators)

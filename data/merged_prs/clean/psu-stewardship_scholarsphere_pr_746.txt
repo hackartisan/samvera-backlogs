@@ -1,0 +1,1 @@
+Updates help text for both works and collections.

@@ -1,0 +1,2 @@
+Taking the order from solr
+The new version of Active tripples can shuffle the order of the data coming from Fedora.  Solr preserves the order so we are going to use that.

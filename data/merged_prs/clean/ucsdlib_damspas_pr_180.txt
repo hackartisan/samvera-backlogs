@@ -1,0 +1,1 @@
+Adding statistics link to drop down menu.(DHH-789)

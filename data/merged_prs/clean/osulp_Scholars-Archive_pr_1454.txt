@@ -1,0 +1,2 @@
+override blacklights facet partial to prevent the double rendering of facet_pagination
+Facet pagination is a very slow partial, SA is not displaying the "header" pagination so it shouldn't be rendered (and cause the _facet_pagination partial to slowly render again)

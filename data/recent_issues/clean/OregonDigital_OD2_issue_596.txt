@@ -1,0 +1,2 @@
+Homepage: When logged in, remove 'Share Your Work' button
+Descriptive summary When logged in, on Homepage, remove 'Share Your Work' button and 'Terms of Use' link Wireframe mockup (homepage logged in):  (Information compiled by POSM group from updated wireframes) Expected behavior 'Share Your Work' button and 'Terms of Use' link do not appear on the homepage when logged in.

@@ -1,0 +1,2 @@
+Set max sidekiq retries to 3
+Fixes #431 Set the maximum sidekiq retries to 3. Changes proposed in this pull request:  config/sidekiq.yml

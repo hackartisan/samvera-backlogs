@@ -1,0 +1,2 @@
+Fixes #1459 (the search part). Addresses search performance issues:
+Searches are now cached (30 days expiration) Search terms must be 3 characters or more Regexes aren't allowed in search terms

@@ -1,0 +1,2 @@
+Created new 503 static page.
+Fixes #951

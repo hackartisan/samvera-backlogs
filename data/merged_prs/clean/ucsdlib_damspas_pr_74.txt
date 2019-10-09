@@ -1,0 +1,2 @@
+Fixed the object viewer to display full title with non filing characters
+See 

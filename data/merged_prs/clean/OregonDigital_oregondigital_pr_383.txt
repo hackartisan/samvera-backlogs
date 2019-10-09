@@ -1,0 +1,2 @@
+Add tips for ingest form
+Closes #374

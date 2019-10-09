@@ -1,0 +1,2 @@
+Run specs in parallel in CircleCI
+This gets CI time from 10 minutes to 7 minutes. That being said, I'm unsure it's worth it, since it ties us to Coveralls for sure. What -is- interesting, is using the Solr box in docker caused some indexing errors related to nested documents we had never seen before. The properties were definitely wrong and looked nested, so it's strange that our Solr hasn't been complaining.

@@ -1,0 +1,2 @@
+Add data dictionary fields not in the work type (or file set) schema to a work (or file set)
+As a cataloger or curator, I would like to be able to use additional fields from the data dictionary to describe a work (file set) that are not part of the defined work type (file set) schema, So that I can be sure the unique aspects of this work are appropriately described. I do not want to modify the work type scheme because this is the only work of this work type (file set) that needs this particular field.

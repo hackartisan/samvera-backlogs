@@ -1,0 +1,4 @@
+6170960 is not a map
+Convert this to a scanned resource and fix the See the map label in the catalog.  
+This will require talking to someone in the maps lab so that it can have the "See the map" label removed from Voyager.
+Someone from RBSC. It's in the Historic Maps Collection: `HMC01.6568`

@@ -1,0 +1,2 @@
+Update sinatra and rack-protection
+Deals with  .

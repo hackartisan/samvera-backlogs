@@ -1,0 +1,2 @@
+Make corrections to the collection export enhancements.
+Fixes #662 ;  Re-enabled collection export link. Changed delete column header on exports page to actions. UCrate will now detect the timezone set on a users computer, set a cookie and then show the export in their timezone. Added column to export spreadsheet for work type. Added column to export spreadsheet for doi. Collection exports page now has dashboard styling. ETD publishers show up as publishers in the export spreadsheet.

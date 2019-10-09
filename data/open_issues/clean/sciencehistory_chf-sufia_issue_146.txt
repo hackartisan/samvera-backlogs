@@ -1,0 +1,3 @@
+Build mapping / parsing class for opac API / book data
+
+example book records: - B10340269 - B1040787x - B10359965 

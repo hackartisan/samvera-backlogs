@@ -1,0 +1,2 @@
+Increases featured works title length, removes depositor
+Partially fixes #74 (author will be new issue)

@@ -1,0 +1,2 @@
+Generate a discoverable collection with DB:seed
+The collection that we built in the DB:seed works for holding items, but is not showing up in facets or as an option when using and Add to Collection button.  We need to improve the creation of this seed collection

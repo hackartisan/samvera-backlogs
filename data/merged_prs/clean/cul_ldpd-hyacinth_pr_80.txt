@@ -1,0 +1,2 @@
+Cloning with SSH
+I had to reset the origin when I cloned it with https. It kept asking for my username and password. This might be how my git configuration it set up though. Do you remember having this problem?

@@ -1,0 +1,2 @@
+DZI glitch in "Aracana Naturae"
+URL:  Error message: Tile load failed: Image load aborted: [s3 path to the tile] Screenshot:

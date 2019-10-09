@@ -1,0 +1,2 @@
+Submitting an invalid source metadata identifier should result in the edit form being displayed with an error message
+Backtrace line 19 of [PROJECT_ROOT]/app/validators/source_metadata_identifier_validator.rb: rescue in validate line 9 of [PROJECT_ROOT]/app/validators/source_metadata_identifier_validator.rb: validate line 74 of [PROJECT_ROOT]/app/controllers/concerns/resource_controller.rb: update  View full backtrace and more info at honeybadger.io

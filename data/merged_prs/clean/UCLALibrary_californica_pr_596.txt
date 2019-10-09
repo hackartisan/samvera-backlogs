@@ -1,0 +1,2 @@
+CAL-581: move collection update index to end of ingest
+This builds on previous work that disabled collection size re-calculation during ingest. Now, we also turn off collection level solr indexing and collection level nested indexing during ingest, and then re-enable them once ingest is over.

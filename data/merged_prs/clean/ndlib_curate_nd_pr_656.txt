@@ -1,0 +1,1 @@
+DLTP-1182 - index patent number to allow uspto with comments present

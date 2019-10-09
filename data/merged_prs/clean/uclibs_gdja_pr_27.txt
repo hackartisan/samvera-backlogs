@@ -1,0 +1,2 @@
+customize journal form
+Fixes #26 Customize journal form. Changes proposed in this pull request:  Add custom fields to model and form Update journals.en locale

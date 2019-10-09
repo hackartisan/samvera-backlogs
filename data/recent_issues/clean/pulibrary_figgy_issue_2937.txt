@@ -1,0 +1,1 @@
+Link Coin find_place property to NumismaticPlace by ID

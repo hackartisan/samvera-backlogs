@@ -1,0 +1,2 @@
+APPINT-2377 Utilize passenger commands to restart app
+Capistrano needs updated so that it will restart the application at the end of the deploy again. It is currently not doing that.

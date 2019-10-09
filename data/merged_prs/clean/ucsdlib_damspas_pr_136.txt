@@ -1,0 +1,2 @@
+Adding support for indexer test records (DAMSKEY-536)
+See 

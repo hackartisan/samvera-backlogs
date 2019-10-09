@@ -1,0 +1,2 @@
+Revisit PDF thumbnail generation
+Consult with Hillary and Nicole, as well as other stakeholders (maybe the Oral Histories staff?) to examine the thumbnail generation code. The sharpen_shell_argsand  thumbnail_shell_args add_border_shell_args take a number of numerical arguments; these can and should be tweaked to come up with the sharpest and nicest-looking thumbnails we can. Once we come up with the right recipe, we should re-run the code on all the PDFs so the resulting thumbnails are consistent across the collection.

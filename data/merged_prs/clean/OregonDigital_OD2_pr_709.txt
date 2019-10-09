@@ -1,0 +1,2 @@
+Approve rake task
+fixes OregonDigital/hyrax-migrator#128

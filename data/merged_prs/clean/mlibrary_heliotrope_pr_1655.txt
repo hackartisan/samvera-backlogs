@@ -1,0 +1,1 @@
+Fixes #1646 UnityLoader is not defined errors

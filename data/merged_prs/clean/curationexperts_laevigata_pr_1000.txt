@@ -1,0 +1,2 @@
+Log all scheduled jobs
+It appears that some of our scheduled jobs stopped running as expected at some point and we didn't notice. Going forward, we should ensure that all scheduled jobs leave a record of their having run in the log file, which we should be able to track in splunk. Connected to #997

@@ -1,0 +1,2 @@
+Embargo files for works with batch-loader
+Resolves #106

@@ -1,0 +1,2 @@
+In search results label doesn't display properly
+The label material should display as material for teachers

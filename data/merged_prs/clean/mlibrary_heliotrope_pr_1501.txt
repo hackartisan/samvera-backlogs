@@ -1,0 +1,2 @@
+Adds Turner to Fulcrum homepage
+Resolves #1463

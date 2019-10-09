@@ -1,0 +1,2 @@
+Apply pre-graduation embargoes to added `FileSets`
+Adds a PregradEmbargo actor that sets a pregraduation embargo in the event that an :embargo_length is set. We use it in combination with the default InterpretVisibilityActor to get actor behavior that is closer to Hyrax's default behavior. Specifically, we confirm that embargoes are applied to FileSets when they are attached to a work through the actor stack. Connected to #430.

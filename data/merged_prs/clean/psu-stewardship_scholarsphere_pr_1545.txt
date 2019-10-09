@@ -1,0 +1,2 @@
+Making the admin group configurable
+We are planning to change the group name so I'm making it configurable so that is easier

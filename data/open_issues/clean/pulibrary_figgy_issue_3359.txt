@@ -1,0 +1,1 @@
+Add FIXITY_REQUEST_TOPIC to config/deploy.rb for google_cloud_function deploy, and then re-deploy it

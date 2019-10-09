@@ -1,0 +1,3 @@
+Indexing in external search engines
+This is a high-level issue that will need to be broken out into more granular ones at some point:  Indexed by Google Scholar Indexed by a integrated library search (Bento or Primo) Ability for web search engines (e.g., Google) to index metadata and full text of a document together.
+See  

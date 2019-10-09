@@ -1,0 +1,2 @@
+Update homepage featured views
+Update views with latest code from Hyrax, putting back Subject switch. Fixes #1452 Fixes #1705 Not logged in:  Logged in:

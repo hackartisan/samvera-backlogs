@@ -1,0 +1,2 @@
+Linking the tiny_mce assets to public.
+I believe it got removed when we also needed that directory to live in tmp for uploaded content This was manifesting itself by the old featured researchers not showing on the list of old researchers:  ref #804

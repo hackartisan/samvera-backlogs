@@ -1,0 +1,2 @@
+technique now querying authority, specs for new authority
+fixes  I believe i'm querying the correct authority based on the spreadsheet, but please make sure!

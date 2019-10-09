@@ -1,0 +1,5 @@
+Add conference field metadata
+From Mike Boock  Need to retrospectively add conference field metadata for all conference proceedings added to SA prior to migration including: conference name, conference location. Is there a way to batch edit metadata yet? If so, can I do that work until we have a metadata librarian?
+Related to 
+ this might be something to revisit wiht your new superpowers. 
+   It's on my list.

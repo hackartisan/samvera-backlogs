@@ -1,0 +1,2 @@
+Bulk update local identifiers for cicognara items
+It looks like any "local identifier" that starts with cico: needs to be modified to dcl:.

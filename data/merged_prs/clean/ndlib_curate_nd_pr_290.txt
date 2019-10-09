@@ -1,0 +1,2 @@
+Make single-use URLs valid for a time window
+Expiring a one-time-use token after a single request is not a sufficiently sophisticated solution. For example, Chrome uses range requests to incrementally fetch PDFs. The prior implementation of this feature would deny all rage requests after the first request resulting in Chrome rendering a "empty" PDF. Insead, “single-use” URLs will be valid for 24 hours after they have first been used to access a file.

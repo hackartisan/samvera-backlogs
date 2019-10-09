@@ -1,0 +1,2 @@
+Remove unwanted tools from document show view.
+Removes all show tools added by BL in Blacklight::Catalog::ComponentConfiguration except for bookmarks. Suppresses display of Tools partial unless bookmarks tool is applicable for that particular show view (e.g., must have logged in user).

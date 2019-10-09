@@ -1,0 +1,2 @@
+Assets track last time they were pushed to AAPB
+Description: As a user, I can see the last time an Asset pushed to AAPB for reindexing. Requires #264 Done when:   When an ID is pushed to AAPB it, the record gets updated to track that date/time.  When a user looks at an Asset show page, they sees the value for the most recent push to AAPB.  code and UI both make it clear to future devs/users that this value is the last time the records was PUSHED to AAPB, not that last time the record was SUCCESSFULLY INGESTED on AAPB.

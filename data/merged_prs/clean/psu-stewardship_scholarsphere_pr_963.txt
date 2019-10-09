@@ -1,0 +1,2 @@
+calling Blacklight.on_load to initialize flot
+refs #951 When the page loads things are still happening in the background and the code that is run in flot needs to wait a bit. Calling it during Blacklight.on_load makes sure the page is ready to be initialized

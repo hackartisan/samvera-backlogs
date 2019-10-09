@@ -1,0 +1,2 @@
+Display imported metadata on ArchivalMediaCollection
+Closes #1118

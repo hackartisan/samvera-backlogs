@@ -1,0 +1,1 @@
+Moved file to a location that nrpe and deploy can both access.

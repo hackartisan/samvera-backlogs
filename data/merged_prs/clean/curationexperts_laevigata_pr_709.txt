@@ -1,0 +1,2 @@
+copy-update to embargo schools
+fixes #553

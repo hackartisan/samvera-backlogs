@@ -1,0 +1,2 @@
+Update hydra-role-management gem to 1.0.2
+Fixes #774

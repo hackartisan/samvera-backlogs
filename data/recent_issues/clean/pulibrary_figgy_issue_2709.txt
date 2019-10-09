@@ -1,0 +1,2 @@
+Error in orangelight event generator
+The orangelight event generator should not generate a JSON version of the OL document. The document should be a hash instead. 

@@ -1,0 +1,2 @@
+Add Coverall
+Add coverall gem to track our test coverage over time.   modified:   Gemfile modified:   Gemfile.lock modified:   spec/spec_helper.rb

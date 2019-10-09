@@ -1,0 +1,2 @@
+Adding work level information into the csv file
+This PR modifies the output of the csv export which is emailed to Rob weekly to include work level information like resource type, work url and rights. The information was previously just in the GenericFile and when the code was translated to FileSets the results were just blank

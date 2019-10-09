@@ -1,0 +1,2 @@
+Add help text and style the form tabs
+This adds the help text and styles the from so that it has tabs. This is for #1182 and #1183

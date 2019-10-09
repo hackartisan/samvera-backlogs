@@ -1,0 +1,6 @@
+Should 6773457 items be maps or scanned resources?
+Marked as maps, but only covers of books. Also, maybe these should be a MVW? 
+These seem to be some sort of ingest problem. All of those have the same image (same checksum, filename, etc) as the image.
+I see 26 identical viewers on the catalog page: 
+It seems like the correct version might be  
+ Is the question "should this show up in the maps portal"?

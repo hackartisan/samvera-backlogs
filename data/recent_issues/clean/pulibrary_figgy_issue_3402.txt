@@ -1,0 +1,2 @@
+Revisit the Vuex store state for `fetching` in the Order Manager
+I introduced some changes in #3401 which rely upon window for supporting Order Manager operations, but these should really be abandoned in favor of something which properly operates on the Vuex Store: 

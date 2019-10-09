@@ -1,0 +1,2 @@
+env vars for cap and profile.d
+add cap role and update both cap and export env to have the env vars.

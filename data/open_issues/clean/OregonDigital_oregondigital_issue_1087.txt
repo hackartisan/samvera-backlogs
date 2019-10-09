@@ -1,0 +1,2 @@
+Add new ReplacePredicates Job
+Add a new job to replace predicates on a record, so when there's batch replacements they can be sent to the Resque worker queues.

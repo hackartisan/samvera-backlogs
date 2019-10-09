@@ -1,0 +1,1 @@
+Added subject facets like scientific name, lithology, series etc. DHH-793

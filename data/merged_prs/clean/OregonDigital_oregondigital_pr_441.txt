@@ -1,0 +1,2 @@
+Feature/metadata touchups
+This adds some metadata to Oregon RDF Datastream and fixes a typo in the mods namespace uri.

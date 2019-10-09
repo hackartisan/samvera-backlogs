@@ -1,0 +1,2 @@
+Prevent double-click for review button and link
+Clicks have to be 8 seconds apart for them to be counted.  Ideally we'd have a visual indicator that the control had been clicked, but prevention is more important than making it nice right now. closes #919

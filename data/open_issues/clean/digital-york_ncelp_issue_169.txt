@@ -1,0 +1,7 @@
+Clean up Download page
+The download page has a lot of information that is not very useful for the teachers, so I'd like to clean it up. Can you please  Make the download button bigger Remove all the info in the square boxes
+ Emma is really to do this asap. Is there any Sebastiaan could look at this?
+    I changed the buttons so now these are more noticeable. 
+ Looks better. Could we move the _Date modified_ to appear under _Date uploaded_? <img width="1348" alt="Screenshot 2019-08-22 at 12 48 00" src="">  Also, could we make the term _File Details_ smaller. Or even remove it?
+Done. I cleaned up the page as well.. removing the unnecessary padding around the social media buttons.
+Thanks! Can you push these changes to production?

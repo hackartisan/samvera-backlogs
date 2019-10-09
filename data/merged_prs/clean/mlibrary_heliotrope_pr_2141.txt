@@ -1,0 +1,1 @@
+HELIO-2244 system spec to verify permission and dashboards

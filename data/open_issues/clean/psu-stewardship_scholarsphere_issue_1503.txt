@@ -1,0 +1,3 @@
+depositor should not show up in the additional fields
+When I Edit a work And I click on Additional fields Then I should not see depositor at the bottom of the list When I create a new work And I click on Additional fields Then I should not see depositor at the bottom of the list
+This was introduced in 3381092069d9912e4a30898f50ca1a862e62192f  The problem is here:   Depositor has to be in self.terms so we can update it, but we probably just need to remove it from secondary terms so it's not rendered here:  

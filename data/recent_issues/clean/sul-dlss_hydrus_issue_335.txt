@@ -1,0 +1,2 @@
+APO / collection race condition
+When a new collection is created, an APO is also created for the collection. As part of the preservation ingest WF, the collection is checked to verify that the APO is available in preservation. If not, it raises an error.  In some cases, workflow processing is so fast that it produces a race condition. This issue appears intermittently in stage and production. The simplest solution is to remove the check APO step from the workflow. Creating ticket in Hydrus, but solution may be in another repo.

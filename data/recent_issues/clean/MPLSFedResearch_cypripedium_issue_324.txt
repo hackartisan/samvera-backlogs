@@ -1,0 +1,2 @@
+Upgrade passenger
+Passenger is running as the latest stable version  Child of #298

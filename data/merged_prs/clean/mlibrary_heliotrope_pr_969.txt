@@ -1,0 +1,2 @@
+change beta date to end in spring 2018
+FWIW, this fixup doesn't need to be deployed until the end of this sprint cycle.

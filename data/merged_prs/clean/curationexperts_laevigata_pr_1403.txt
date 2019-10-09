@@ -1,0 +1,2 @@
+Working submission to Hyrax
+This commit contains code that will allow for a working submission to Hyrax when creating a new Etd. There is also refactoring that is present in this commit that happened as part of that process.

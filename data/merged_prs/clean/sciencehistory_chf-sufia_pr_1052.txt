@@ -1,0 +1,2 @@
+get fileset to index visibility
+so we can filter to just public, in memory. Needed for PDF creation, make a PDF of just public members This stack is so ridiculous.

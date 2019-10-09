@@ -1,0 +1,2 @@
+Adding an expiration date for the GPDR cookie.
+Also fixing a bug in #1143 bug. We want to show the GDPR banner by default in dev and production, and hide it from the unit tests. See the note at  . Fixes #1154 .

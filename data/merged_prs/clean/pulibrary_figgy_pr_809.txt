@@ -1,0 +1,2 @@
+Add relation and references properties to scanned maps
+Closes #787

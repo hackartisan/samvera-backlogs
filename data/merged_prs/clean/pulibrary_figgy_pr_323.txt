@@ -1,0 +1,2 @@
+Implementing a HumanReadableTypeIndexer for indexing Multi-Volume Works
+Resolves #254

@@ -1,0 +1,2 @@
+Allow setting admin_set in batch csv
+Adds :admin_set_id to permitted_attributes in Importer::Factory::ObjectFactory Adds an admin_sets factory for future use if needed.

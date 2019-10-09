@@ -1,0 +1,2 @@
+Nginx maintenance
+Adds nginx logic and two cap tasks to show/hide a maintenance page. cap staging und:show_maintenance -s host=libvirt8.library.nd.edu  and cap staging und:hide_maintenance -s host=libvirt8.library.nd.edu

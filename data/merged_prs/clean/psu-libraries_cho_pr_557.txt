@@ -1,0 +1,2 @@
+FileSet resource class for grouping files
+Description Fixes #550 Provides a resource to group multiple Work::File objects together. This is analogous to the FileSet class in the Hydra works extension to PCDM. One original file is grouped together with multiple derivative files, including auto and manually generated derivatives, and extracted information such as text or other technical metadata. Changes Are there any major changes in this PR that will change the release process? No. Checklist   i18n enabled  adequate test coverage  accessible interface

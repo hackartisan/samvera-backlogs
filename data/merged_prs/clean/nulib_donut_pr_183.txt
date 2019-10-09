@@ -1,0 +1,2 @@
+QA caching
+Add authority label caching; turn off NestingIndexer

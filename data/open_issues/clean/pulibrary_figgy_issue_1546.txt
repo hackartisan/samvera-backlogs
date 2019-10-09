@@ -1,0 +1,3 @@
+Multi-volume PDF download
+Should it give more than just the first volume? discussed at digital studio users meeting 7/19/2018
+We believe this ticket references UV functionality.  suggests that the UV works as intended -- downloads the PDF for the volume you're currently viewing. We should confirm.

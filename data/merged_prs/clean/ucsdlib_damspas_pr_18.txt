@@ -1,0 +1,1 @@
+Fixing the notes displaying twice in collection level records. DHH-494

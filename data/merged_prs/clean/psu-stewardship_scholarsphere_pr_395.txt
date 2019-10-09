@@ -1,0 +1,2 @@
+Reconfiguring test suite to use Rspec rails_helper file
+By default, new Rspec installations within a Rails application create a spec_helper file and a rails_helper file. Errors can arise if the latter is not present. Additionally, the updated spec_helper file enables verify_partial_doubles which caused new failures because we were mocking methods that no longer existed on the test subject. The tests have been corrected, and now with the newly-enabled option, if we mock methods that aren't present in the test subject, the test will fail. FYI,  

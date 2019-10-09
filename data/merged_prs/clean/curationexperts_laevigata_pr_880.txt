@@ -1,0 +1,2 @@
+Do not submit hidden works to ProQuest
+If a work is marked as hidden, exclude it from ProQuest submission. Closes #879

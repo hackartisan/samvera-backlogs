@@ -1,0 +1,2 @@
+Configure Lux environment to use SOLR Cloud, Cantaloupe, etc.
+Pre-work for when DCE starts working on Lux Make sure Lux uses any shared components

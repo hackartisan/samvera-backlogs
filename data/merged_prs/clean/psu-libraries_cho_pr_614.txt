@@ -1,0 +1,2 @@
+Updating solr wrapper
+Updates solr wrapper to the latest version to fix some Travis errors.

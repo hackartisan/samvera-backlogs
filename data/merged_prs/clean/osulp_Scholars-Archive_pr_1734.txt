@@ -1,0 +1,2 @@
+force a secure cookie on production or staging
+fixes #1508 

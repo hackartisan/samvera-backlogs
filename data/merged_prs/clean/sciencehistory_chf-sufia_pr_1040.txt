@@ -1,0 +1,2 @@
+index MIME/IANA content-types for works
+Needed for DPLA oai-dc metadata, dc:format, PA Digital recommends. ref #965 Am a bit worried about it slowing down indexing, if indexing wasn't already fetching all members. But it appears to be okay for our standard use cases, in limited tests. Not sure if indexing was already pulling in members. For reasons of above, this does NOT try to descend into work-member children, just top level fileset children.

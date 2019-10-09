@@ -1,0 +1,4 @@
+listen to entire digitized audio
+As an end user, I need to be able to listen to the entire audio file, as well as individual segments, so I can study it as a complete object and see where the segments that match my search fit into the context of the entire audio file.
+Does the Universal Viewer handle audio video work? Universal Viewer can handle any formats for a consistent user experience? Do we need another solution to handle this? If it is separate than we need to match the user experience. HTML5 can be customized to match the viewer. Concerns around streaming audio or playing audio.
+This represents a simple HTML5-based viewer and something less sophisticated than the UV.

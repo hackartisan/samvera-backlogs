@@ -1,0 +1,1 @@
+Resolves #845: Platform Admin Edit Monograph

@@ -1,0 +1,2 @@
+Navbar: Change 'Forgot Your Password?' to 'Help'
+Descriptive summary Help page needs to be on every page in easy to find location, farthest right in the navbar. Forgot Your Password? links will vary by login system and need to go on a bigger login page. Create a placeholder Help page from within Hyrax. Wireframe mockup:  (Information compiled by POSM group from updated wireframes) Expected behavior 'Forgot Your Password?' changed to 'Help' Related work #520 Accessibility Concerns

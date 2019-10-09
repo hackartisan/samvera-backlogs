@@ -1,0 +1,2 @@
+Extracting reindex logic from active fedora
+Extracting the reindex logic from ActiveFedora @cb5f2fc1315fc1439d1cd0aad8f969ea711778d5 Why:  Because I'm encountering a case in which we are unable to reindex an object. With the current logic (even the extracted logic), if we encounter a failure reindexing an object, the entire process stops.  This change addresses the need by:  Copying the code from ActiveFedora and extracting methods to help organize the logic.  See  for reference. Adding asynchronous reindexing per object @a3fb73b2bce52accf91e92f8f00d09dbedddb753

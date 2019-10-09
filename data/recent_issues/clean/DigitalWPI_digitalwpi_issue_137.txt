@@ -1,0 +1,2 @@
+Research configuration fedora
+How to specify where fedora repo stores binaries, look at notes from fedora camp. make this location easy to back up

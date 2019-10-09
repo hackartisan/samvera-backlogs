@@ -1,0 +1,2 @@
+Update SHARE notify to work with new API
+This wraps up about two years of work. I can push to the SHARE staging with the SHARE 2.0 API. All the work is in two scripts, and the rails application is not touched at all. There is a how-to document in the DLT team drive. DLTP-670

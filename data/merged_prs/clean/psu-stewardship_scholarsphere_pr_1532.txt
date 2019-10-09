@@ -1,0 +1,2 @@
+Update Bootstrap to lateset 3.4.x to fix XSS vulnerability
+Adds latest Bootstrap to the SS gem file to override Sufia for a security vulnerability. Unable to update JS at this time because of the pinned version of Curation Concerns. Updating CC would require a migration for reverse membership. refs #1462

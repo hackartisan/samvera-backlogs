@@ -1,0 +1,2 @@
+Resolves #975: Facet Resource Type Label
+Locales trumps labels!!!! ./config/locales/en.yml

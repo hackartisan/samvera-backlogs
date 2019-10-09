@@ -1,0 +1,2 @@
+Refactor admin set configuration
+Fixes #399

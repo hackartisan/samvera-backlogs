@@ -1,0 +1,2 @@
+Explicitly target ruby version 2.3.1 for all cops.
+Was getting some ruumbacop warnings when I updated the hyrax2 branch and noticed it was targeting an earlier version of ruby, hence the explicit ruby version statement in the .ruumba.yml file of this pull request.

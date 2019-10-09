@@ -1,0 +1,2 @@
+ Make child scanned maps optionally discoverable
+Scanned maps that are normally suppressed in a GeoBlacklight search can be made discoverable by setting the the gbl_suppressed_override property to true. Closes #2393

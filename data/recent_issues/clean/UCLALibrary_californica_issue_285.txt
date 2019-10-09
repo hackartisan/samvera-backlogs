@@ -1,0 +1,2 @@
+Mgmt: Remove "edit" button
+The scope of the project at the moment does not include the functionality of being able to edit items in Californica. Currently UCLA is not using the standard rightsstatements.org metadata schema for rights, so the Californica edit feature will not work. Rather than work on correcting the UI for edit, we are electing to remove the Edit button at this stage. Acceptance Criteria   No edit button visible on Californica UI

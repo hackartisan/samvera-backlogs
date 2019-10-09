@@ -1,0 +1,4 @@
+Upload form: Implement nested terms under top-level terms for each metadata field
+For each meta-data field, nested terms need to be implemented under relevant top-level terms. This is expected for the following fields:  Topic (Teaching methods) Participant type Language feature Proficiency
+This will be a major piece of work. We can discuss this at our forthcoming May meeting. The changes required apart from the upload form will include: - customising metadata model and applying model changes to existing summaries - customising facet search  - customising brief and details summary page views.  See some closing notes for #1.
+Sebastian and Frank will investigate how to do this and report back at the end of the sprint in June/July

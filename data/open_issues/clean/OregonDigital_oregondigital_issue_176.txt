@@ -1,0 +1,7 @@
+Update OAI harvesters with new harvest URL
+
+Does this need a milestone?  Ongoing work is confusing to me.  Removed milestone for now, but it may make sense to have something for ongoing tasks...? 
+Two issues where OAI is currently need: 1) Western Waters collaboration 2) Possible Primo / Shared ILS configuration 3) Others? 
+We have a few LibraryFind instances scraping ContentDM's OAI. 
+I think this issue remains. In addition to Western Waters Digital Library, Oregon Explorer needs to be able to harvest from OD. 
+Since I'm still getting notifications for this, I thought I'd chime-in.  My assignment was just to map predicates to DC simple and qualified.  I did that, but who knows where it ended up.  can probably help with that if needed still.

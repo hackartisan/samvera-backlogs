@@ -1,0 +1,2 @@
+Feature/artscivocabs
+Added additional vocabs needed for ingest

@@ -1,0 +1,2 @@
+Remove keyword and add advisor facet
+Per conversation with  on Slack.

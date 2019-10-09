@@ -1,0 +1,2 @@
+Document bulk update process so that others are able to tackle it as well
+Descriptive summary We need to extend the process of running bulk updates to any dev on the team. Document the steps necessary to get the CSV provided by Sarah into place and processed by the rake task for performing bulk updates. Also, do this while completing #1770

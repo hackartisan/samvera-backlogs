@@ -1,0 +1,2 @@
+Orders ProxyFileSets in the ManifestBuilder test suite to pass
+Resolves #2156

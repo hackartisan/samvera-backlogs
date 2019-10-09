@@ -1,0 +1,3 @@
+Hide relationships on item landing page
+
+As of Hyrax 2.5.1:  For a non-logged-in user, the Relationships section header renders, but with no content beneath.  For a logged-in users, the section lists the administrative set(s) that the item is in.   The above is the case for items not in any collections.  We should test out how this looks when using Collections.

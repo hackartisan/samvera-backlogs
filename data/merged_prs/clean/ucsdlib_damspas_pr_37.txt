@@ -1,0 +1,1 @@
+removing ckeditor assets, switching to cdn

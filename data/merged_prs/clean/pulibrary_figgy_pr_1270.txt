@@ -1,0 +1,2 @@
+Fix original file and derivative deletion
+Closes #981

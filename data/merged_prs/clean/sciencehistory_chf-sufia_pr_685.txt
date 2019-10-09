@@ -1,0 +1,2 @@
+one more attempt at sanity max-height on images
+without messing things up with too short a max-height in some screen sizes Closes #676

@@ -1,0 +1,2 @@
+issue#203: Move up author field
+Take care #203 and #202

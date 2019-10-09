@@ -1,0 +1,2 @@
+Remove or Replace gemnasium badge on readme
+ACCEPTANCE   There is no longer a broken link to dependency reports on the README

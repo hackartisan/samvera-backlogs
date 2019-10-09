@@ -1,0 +1,2 @@
+added authority querying for contributor role
+fixes 

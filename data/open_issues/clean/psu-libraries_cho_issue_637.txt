@@ -1,0 +1,6 @@
+Parse and extract FITS terms
+Using the existing output from FITS, extract a set of defined terms and store their values as properties on the file resource. This ticket includes enhancing #796 to use FITS to derive mime-type instead of file extension and store the value as metadata on the file set. Running list of technical metadata to capture from fits and store on the file.  checksum_md5 [#68] checksum_sha512 [#68] mime-type [#69] filename_original filesize_binary filesize_decimal
+Look at   ~~ will provide a list of terms to extract from FITS~~ [Updated NT, 2019-01-25]
+#68 and #69 cover parsing checksum and mimetype into properties. For CHO MVP/1.x that is sufficient. May be expanded in future releases, users can view fits output if desired for full information.  Keeping this ticket open since #68 and #69 say it blocks them. But, perhaps it can be closed and those tickets can each be used as needed. Or this ticket could reflect the technical strategy to extract the data from the FITS output?
+Running list of technical metadata to capture from fits and store on the file. - checksum_md5 [#68] - checksum_sha512 [#68] - mime-type [#69] - filename - filesize_binary - filesize_decimal
+Change this to use the mime type from Fits: 

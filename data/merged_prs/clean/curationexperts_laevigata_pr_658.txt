@@ -1,0 +1,2 @@
+Embargo service should run against today's date if no date is specified
+Fixes #593

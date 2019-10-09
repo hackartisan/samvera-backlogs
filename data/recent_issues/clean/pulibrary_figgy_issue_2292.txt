@@ -1,0 +1,2 @@
+Can't remove imported metadata
+If I create a ScannedResource with imported metadata, I can't remove it.  I can go to the form, remove the source_metadata_identifier, and enter a title, but the title will not be saved and the title from the old imported metadata will be used.

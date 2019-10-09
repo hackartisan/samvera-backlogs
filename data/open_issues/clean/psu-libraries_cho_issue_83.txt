@@ -1,0 +1,6 @@
+Display Technical Metadata on File Page
+As a graphic designer or other person making printed materials, I want to know the technical specs of the CHO object (e.g. image size and density) before I download it, so that I can tell whether or not I can use it (e.g. whether or not I can enlarge it for my poster.) Dependent on #66 As a cautious user, I want to know the size of an object before I decide to download it, so that I don’t waste my time and the system’s time. Dependent on #14 Henry P.
+Taking the FITS characterization so it displays on the file page.
+Enhancement to #552 which will simply capture the FITS XML output and save it to the file set.  PO needs to decide what data should be captured in fields as technical metadata.
+Related: #68, #69
+Some aggregate/totals for work should be displayed on work show page, like file size, number of files; rest should be on file show page.

@@ -1,0 +1,5 @@
+Architect CHO Servers
+Before MVP is released, we need to  map out the server architecture for production, qa, staging, and test. (Not sure if we need both staging and test?) secure domain names, provision and configure VMs deploy code document architecture and server specs on wiki, ideally including diagrams
+Most of this will be done in 
+Verify, make necessary changes to capistrano configs, and deploy.
+On Hold for   

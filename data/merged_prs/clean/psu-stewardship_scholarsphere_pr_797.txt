@@ -1,0 +1,2 @@
+Sticky Widget No MOAR!!!
+Removes fixedsticky class from guts4form. Switches the fixed sticky on from fixed to static. Adds 1997 style back to top links. Adds text to translation file. Moves anchor to be around the heading in the widget, adds class to remove underline for anchor, updates spec test to reflect new name of tab for shared with me. Hides back to top link from xs devices. Fixes #777 and #778

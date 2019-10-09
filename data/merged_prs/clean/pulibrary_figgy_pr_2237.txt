@@ -1,0 +1,2 @@
+Only trigger coin auto ingest ajax call in coin file manager
+Fixes bug where coin discovery get request is made on every Figgy page load. Minor UI improvement: hides auto ingest button if no images are found.  Closes #2235

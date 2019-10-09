@@ -1,0 +1,1 @@
+Addresses HELIO-2348 revisit EBC no access banner language.

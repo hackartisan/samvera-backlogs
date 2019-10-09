@@ -1,0 +1,2 @@
+Remove button to create Audio Resource from the home page
+User feedback: "What is the difference between a "Recording" and an "Audio Resource"?"

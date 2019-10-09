@@ -1,0 +1,4 @@
+Change "Vocabulary" label when editing a Vocabulary to say "Category", add help text.
+
+We should user test the actual label. Maybe "Parent Vocabulary" would be more helpful.  Also consider adding help text.
+I think we should actually change this to work more like MVWs, where you only get that box when you're creating a category, and you don't get it when editing.

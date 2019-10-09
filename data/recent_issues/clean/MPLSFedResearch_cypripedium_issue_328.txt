@@ -1,0 +1,2 @@
+Collections inaccessible on prod and staging
+When a user clicks on a collection in prod or staging, they get a "We're sorry, something went wrong." This happens when clicking on the collection on the home page or from clicking on collection in search/browse. QA is unaffected. Works are unaffected.

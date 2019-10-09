@@ -1,0 +1,2 @@
+Rake task to fix collection type labels
+It runs on deploy so it will run on production without needing sysadmin intervention. Before:  After:  During deploy:

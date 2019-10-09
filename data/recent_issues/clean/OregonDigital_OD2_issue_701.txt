@@ -1,0 +1,2 @@
+Beeline upgrade causes NoMethodError
+Descriptive summary #677 Replaced rack-honeycomb with beeline-ruby, causing a namespacing issue.  needs to be reworked to Honeycomb.add_field Expected behavior Staging stands back up without NoMethodErrors Related work #677 Accessibility Concerns None

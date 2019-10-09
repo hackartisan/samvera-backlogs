@@ -1,0 +1,2 @@
+human-readable file size on tech info tab
+Resolves #1472

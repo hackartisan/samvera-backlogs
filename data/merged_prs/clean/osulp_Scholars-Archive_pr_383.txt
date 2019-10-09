@@ -1,0 +1,2 @@
+use the ENV variables for the database connection
+fixes #382

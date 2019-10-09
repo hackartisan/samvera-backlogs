@@ -1,0 +1,1 @@
+Adds ordering to related items and title. Separate from the refactor.

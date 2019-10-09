@@ -1,0 +1,2 @@
+Turn off solr-suggest
+Descriptive summary We need to turn off solr-suggest.  Having it on causes performance issues with solr indexing. See  for the procedure.  The change needs to be made to two different copies of solrconfig.xml.

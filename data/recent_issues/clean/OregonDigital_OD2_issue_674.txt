@@ -1,0 +1,2 @@
+Remove Identifier field from Collections
+Descriptive summary The initial ticket to configure Collection metadata fields said to add Identifier, but we don't have a use for this right now at the Collection level. The Collection pids play an important role ('osu-yearbooks') here and right now we can't think of needing additional Identifiers specified. If a use arises, we can add it back later. Expected behavior Identifier is not a metadata field on Collections. Related work #437 - Configure Collection level metadata fields

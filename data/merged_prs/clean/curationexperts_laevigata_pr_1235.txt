@@ -1,0 +1,2 @@
+New ui/add tab validation - About Me
+This might be easiest and simplest way to validate an InProgressEtd on a per-tab basis. The name of the tab is added to the data, and a custom Validator class uses a current_tab? to check the tab name and determine whether to run. If it runs, it checks the fields in a list stored in the HyraxEtd Form class, via a new method in the etd class (based on similar methods and lists for the current ETD tab contents). It might be a little repetitive, and there might be other flaws. It needs tests. So, I want to discuss.

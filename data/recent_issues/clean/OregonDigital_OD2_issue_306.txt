@@ -1,0 +1,2 @@
+UO campus DNS issues for oregondigital.org domain
+The UO DNS servers are still configured to resolve the oregondigital.org domain, rather than asking the AWS Route53 DNS servers. The side effect of this is that new DNS records (staging.oregondigital.org, etc.) do not work on the UO campus.  has a ticket open with UO IT

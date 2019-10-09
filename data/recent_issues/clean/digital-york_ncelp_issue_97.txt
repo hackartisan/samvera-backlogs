@@ -1,0 +1,2 @@
+Facet pages - clicking the previous /next button doesn't do anything
+Clicking on the previous / next button on the facet pages doesn't seem to do anything.

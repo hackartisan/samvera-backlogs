@@ -1,0 +1,2 @@
+Have a link to ORCID Settings page from user edit view.
+DLTP-245

@@ -1,0 +1,2 @@
+fixes a bug where facets where not showing up in the facet 'more' modal
+Resolves #377

@@ -1,0 +1,2 @@
+Clean up /opt/uploads directory
+Don't allow files in /opt/uploads to stick around forever. Clean them up when they've been there longer than 7 days. Generally, Californica won't be using this directory much, but we do use it when we regenerate derivatives, and it isn't inconceivable that someone will upload a file via the UI. Connected to #437

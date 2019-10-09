@@ -1,0 +1,2 @@
+Fix/docker
+Improves the docker/dev.sh script to actually follow the approach outlined in the README instead of sort of going rogue and doing its own thing.  And, uh... it doesn't break now, so that's a nice thing.

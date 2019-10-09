@@ -1,0 +1,2 @@
+TKI documentation 
+How to install TKI  How do we install Solomon TKI scripts  How to deploy  Post a link to the documentation in this issue and in box

@@ -1,0 +1,1 @@
+Addresses HELIO-1791 Modify reading order on asset show page

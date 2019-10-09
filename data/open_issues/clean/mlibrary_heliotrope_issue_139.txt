@@ -1,0 +1,3 @@
+Support for date ranges
+Base our support on the implementation in Deep Blue Data: 
+Per Jeremy, Low priority; nothing in the grant, nor in HEB, requires it AFAIK

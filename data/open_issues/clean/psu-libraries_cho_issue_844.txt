@@ -1,0 +1,2 @@
+Configuring linked_field index_type for something other than MARC Relators
+Presently the linked_field index_type data dictionary property is hard coded to be a value pair for MARC Relators and Creators. Should this be configurable based on the need? Are there other fields where we will need this type of ability? It's similar to specifying the source for a controlled vocabulary term, but we will have other ways to do that. ?

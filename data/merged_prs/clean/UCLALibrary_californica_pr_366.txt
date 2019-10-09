@@ -1,0 +1,2 @@
+Test if TRAVIS_TAG is not empty for stage deploy
+This allows us to perform continuous deployment to the staging server for any tagged release - this includes our proposals of:  sprintX.Y X.Y.ZrcN X.Y.Z  When a tag is created for any of the above, the release will be deployed to the stage environment.

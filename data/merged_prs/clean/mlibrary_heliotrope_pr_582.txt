@@ -1,0 +1,2 @@
+Resolves #263: Add a gallery view to the monograph_catalog page.
+Borrows heavily from  instead of just adding the gem since it comes with a lot of things we don't need.

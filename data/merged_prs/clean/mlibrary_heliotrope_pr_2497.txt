@@ -1,0 +1,2 @@
+change full-screen button title
+HELIO-2970

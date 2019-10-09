@@ -1,0 +1,2 @@
+Vagrant changes: reduce default RAM setting; add provisioning script
+adds provisioning and fixes 184

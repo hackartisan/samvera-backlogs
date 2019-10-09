@@ -1,0 +1,2 @@
+Fix Blacklight::FacetsHelperBehavior load order
+No clue.  Seriously.  No idea here.

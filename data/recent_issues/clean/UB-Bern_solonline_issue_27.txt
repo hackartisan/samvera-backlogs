@@ -1,0 +1,2 @@
+The view of results (i.e. recently uploaded) is squashed on some browsers?
+l. Ansicht «abstract»: sollte überschaubarer sein (Bernhard will give us more info: Browser & Screenshot)

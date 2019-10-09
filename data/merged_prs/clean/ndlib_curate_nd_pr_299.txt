@@ -1,0 +1,2 @@
+Removing erroneous department key duplication
+Because chemistry_and_biochemistry was duplicated the original department was not available in the listing. Because the key and the key attribute did not match for history_and_philosophy_of_science it was also not present in the organization listing.

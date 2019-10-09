@@ -1,0 +1,2 @@
+e_pub_checkpoint_authorization: true
+Yes, use checkpoint in development.

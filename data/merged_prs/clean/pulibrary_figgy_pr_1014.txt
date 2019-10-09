@@ -1,0 +1,2 @@
+Updating `browse-everything` upstream
+Resolves #999

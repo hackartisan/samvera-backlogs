@@ -1,0 +1,2 @@
+configures shared storage locations to work with deployed and local dev
+fixes #106

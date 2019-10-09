@@ -1,0 +1,2 @@
+Updates `PendingUpload#copied_file_name` to pass the auth. headers using another parameter key
+Resolves #2837 (but this should be more properly resolved by ensuring that the legacy arguments are still handled on 

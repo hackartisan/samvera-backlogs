@@ -1,0 +1,2 @@
+Update works Access Rights to Record Visibility
+DLTP-1351

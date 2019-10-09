@@ -1,0 +1,2 @@
+Fixes problem with Apply Changes (save) button in Vue Filemanager
+fixes #946

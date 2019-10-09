@@ -1,0 +1,2 @@
+sets link text to an identifiable color for the help text
+ref #1311 (not fully addressed throughout the application) This sets the link color, for the work type modal help text, to osu orange until #1311 is solved throughout the application.

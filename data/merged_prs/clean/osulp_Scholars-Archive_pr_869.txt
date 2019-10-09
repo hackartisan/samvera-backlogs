@@ -1,0 +1,2 @@
+Alters css for embargoes
+Fixes #868

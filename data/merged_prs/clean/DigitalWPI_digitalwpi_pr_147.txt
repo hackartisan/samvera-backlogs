@@ -1,0 +1,2 @@
+Added and removed facets
+Added and removed facets according to the changes suggested in the meeting.  Please review and comment on this PR once all the tests pass.  Once Aaron posts his comments, please review and merge.

@@ -1,0 +1,1 @@
+updats circle configuration for gem install

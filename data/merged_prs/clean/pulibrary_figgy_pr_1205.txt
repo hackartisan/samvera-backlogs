@@ -1,0 +1,1 @@
+Remove collections from ephemera box forms, fixes #1170

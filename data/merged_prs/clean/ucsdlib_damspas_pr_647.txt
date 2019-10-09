@@ -1,0 +1,2 @@
+vrr: email links should be https
+Fixes #646 This is one part of the solution, hopefully. Part 1:  updated the Apache rewrite rule from http -> https to bypass URI encoding Part 2: Make both staging and production email links use https instead of http Local Checklist   Tests written and passing locally?  Code style checked?  QA-ed locally?  Rebased with master branch?  Configuration updated (if needed)?  Documentation updated (if needed)?  /developers - please review

@@ -1,0 +1,2 @@
+Remove tumblr button
+I'm just commenting the button out using an "if false" block. In case Tumblr fixes their API, we can bring the button back in minutes. Fixes #1171 Fixes #1172

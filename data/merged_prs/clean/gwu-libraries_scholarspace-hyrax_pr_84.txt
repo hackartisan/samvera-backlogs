@@ -1,0 +1,1 @@
+Reindex task. Fixes #16

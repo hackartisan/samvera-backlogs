@@ -1,0 +1,2 @@
+archival media bag ingest takes way too long
+if there's just one file it takes a few minutes. But then it starts to take forever very quickly. one bag with 14 files (each in various formats) is taking > 1 hr.

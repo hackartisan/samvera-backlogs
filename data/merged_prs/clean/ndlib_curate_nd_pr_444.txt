@@ -1,0 +1,2 @@
+268 strip control characters from metadata when indexing
+Ensuring indexing sanitizes control characters Prior to this commit, if a document contained unexpected control characters – not "\t", "\n", or "\r" the indexing process would fail. With this commit, we are using the SanitizeControlCharactersForIndexing module to ensure extra control characters are not part of the add to solr document request.

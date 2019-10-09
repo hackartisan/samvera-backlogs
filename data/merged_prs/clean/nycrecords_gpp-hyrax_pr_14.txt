@@ -1,0 +1,2 @@
+Feature/GPP-288: Create Collection not working
+This PR fixes the create collection bug. The issue is resolved by modifying the _title.html.erb and _descrption.html.erb views to render for the publications (share) form and collection form separately.

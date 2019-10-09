@@ -1,0 +1,2 @@
+My Collections and My Works have Same Metadata as Collection Items
+Adds description list from collection show to expose additional details for creator, depositor, edit access. Keeps consistency throughout. Tests for creator and depositor instead of description.

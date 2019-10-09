@@ -1,0 +1,2 @@
+Gives unique names to figgy solr cores
+Fixes #796

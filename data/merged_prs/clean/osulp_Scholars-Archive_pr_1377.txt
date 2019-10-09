@@ -1,0 +1,2 @@
+support for more types of bulk work changes
+updates supporting the bulk changes in tickets #1376 fixes #1376

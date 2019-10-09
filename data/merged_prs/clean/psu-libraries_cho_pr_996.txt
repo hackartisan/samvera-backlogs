@@ -1,0 +1,2 @@
+Adding a local CodeClimate config file
+Description Adds a local CodeClimate config file to better track which files we exclude, and other future settings for the service.

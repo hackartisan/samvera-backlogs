@@ -1,0 +1,2 @@
+Titles importing from finding aids with parent components
+I'm currently scanning and uploading materials from the Scribner's author files for Edith Wharton.  When I tried to add C0101_001956, C0101_001957, and C0101_001971  to Figgy, I saw that the unit titles of parent components were being included along with those of child components, instead of just having the title of the child component. (see:    reported by Squirrel. Please let Squirrel and Faith know when this is resolved. this is similar to #1444 which was resolved. need to look into why it's happening again.

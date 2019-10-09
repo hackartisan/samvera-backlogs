@@ -1,0 +1,4 @@
+New content type: letters
+This is probably a SimpleResource with:  Images of the letter page(s) and envelope Draft/published workflow Collection membership Source metadata identifier (linking groups of letters to a bib record or finding aid component)  And forms for entering the following metadata:  Sender name and place Recipient name and place Date
+Deadline: 10/1/2019, when this collection will be opened, processed, and digitized: 
+The type is here as of #2733, but we'll need to figure out what exactly the ingest workflow is going to be like.

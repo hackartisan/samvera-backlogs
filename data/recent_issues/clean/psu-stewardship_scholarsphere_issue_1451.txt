@@ -1,0 +1,2 @@
+resolrize is broken
+f53d381 This commit is not passing the authentication information to fedora.  This was not noticed becuase the auth info was turned off on QA

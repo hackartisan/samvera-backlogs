@@ -1,0 +1,2 @@
+Coin resources should have ARK identifiers?
+Coins do not currently have an identifier property. As unique resources with their own metadata and image files, it seems to me that they should have ARKs.

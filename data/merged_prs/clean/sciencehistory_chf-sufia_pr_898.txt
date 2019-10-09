@@ -1,0 +1,2 @@
+don't copyfield to suggest on indexing
+ Solr will need to be restarted after deploying this for it to take effect, it looks to me like Solr actually is restarted as part of our ordinary every cap deploy. after "deploy:log_revision", "chf:restart_or_reload_solr"

@@ -1,0 +1,2 @@
+Issue 109 display issue in gallery masonry slideshow view
+fix #109

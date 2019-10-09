@@ -1,0 +1,2 @@
+Vue File Manager
+ Here's my rebased and squashed version of your vue-filemanager-refactor branch, with  some minor cleanup of http status code checks.

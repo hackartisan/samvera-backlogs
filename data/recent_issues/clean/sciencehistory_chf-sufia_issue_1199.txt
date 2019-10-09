@@ -1,0 +1,2 @@
+Change "from" field in the "reset password instructions" email
+At the reset password page, if you enter your email you will eventually get a message from “”. This could definitely be something more friendly. Maybe "".

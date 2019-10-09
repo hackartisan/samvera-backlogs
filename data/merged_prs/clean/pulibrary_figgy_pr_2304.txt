@@ -1,0 +1,2 @@
+Add ingest_folder to scanned_resources_controller
+fixes #2204 I tried to do this by putting the folder in the change set itself as a class property, but was a bit put off by the need to put it in both ChangeSet and DynamicChangeSet. So I just went with the example set in numismatics.

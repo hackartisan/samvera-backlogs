@@ -1,0 +1,2 @@
+Rails initial load problem
+config.eager_load = ture We should enable eager load. Doing so will create some issues. Comment out this line. Also, add , raise: false to this line. We will encounter another issue Cannot define multiple 'included' blocks for a Concern (ActiveSupport::Concern::MultipleIncludedBlocks). To fix this, we need run bundle install as bundle install --path vendor/bundle --without development. Because, development environment installs Spring that causes this issue.

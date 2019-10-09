@@ -1,0 +1,2 @@
+Rubocop rebase
+  I think this is going to need to be a group effort.

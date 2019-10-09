@@ -1,0 +1,2 @@
+updated robots.txt
+fixes #976 I'm excluding the paths to oai, the catalog, and the file stats, like University of Alberta for this commit. Stanford seems to be excluding everything, I'm wondering if we should do that instead. Princeton only has a Crawl-delay: 8 directive that seems to be for yahoo and bing. Should we also have this directive too? Any suggestions   ?

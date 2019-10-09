@@ -1,0 +1,2 @@
+Displaying collection creator as a cleaned facet
+This updates the collection page to show the cleaned name.

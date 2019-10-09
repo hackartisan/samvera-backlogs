@@ -1,0 +1,2 @@
+Supports controlled vocabularies for Ephemera Projects
+Addresses #168 with the models for controlled vocabularies within Ephemera Projects

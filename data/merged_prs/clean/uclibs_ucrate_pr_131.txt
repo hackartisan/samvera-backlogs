@@ -1,0 +1,2 @@
+Generate a RSS Feed
+Fixes #106 Adds a RSS Feed accessible at  Changes proposed in this pull request:  Adds a RSS Feed

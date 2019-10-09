@@ -1,0 +1,2 @@
+2603_update_aptrust_info_desc
+Per Jeremy's request in: JIRA (HELIO-2603) aptrust-info.txt: Description should say more about the bag

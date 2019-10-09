@@ -1,0 +1,3 @@
+field-by-field metadata help
+As a metadata specialist, I would like to be able to get reminders of metadata policies and procedures for the field I am working on, so I can supply the correct metadata without consulting a lot of external documents.
+ can you be more specific about what is intended by "reminders of metadata policies and procedures"? Tooltips? Field validation? Links to documentation? Auto-suggest?

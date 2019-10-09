@@ -1,0 +1,2 @@
+Pin circle image to Debian 9
+Fixes #619

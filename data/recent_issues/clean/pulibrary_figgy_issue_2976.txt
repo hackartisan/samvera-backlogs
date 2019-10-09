@@ -1,0 +1,2 @@
+Monograms should be linked to Coin (?)
+Currently we have monograms linked to NumismaticIssues, but in the database, monograms (Images table) are related to Coins.

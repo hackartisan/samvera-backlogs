@@ -1,0 +1,2 @@
+Styled the show page for CsvImport record.
+I added a link to the background job status page.  Until we get more sophisticated reporting on the import status, this is the way to see if the import is finished yet.   I styled the page to look more like the preview page so user will experience consistent style during the whole import process.   Connected to #101 The page now looks like this:

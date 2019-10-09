@@ -1,0 +1,2 @@
+Replace MaRC codes with double dashes
+Some subjects have MaRC codes (e.g., $z) as separators, instead of the usual double dash. Normalize these so they match the standard practice. Connected to UCLALibrary/amalgamated-samvera#51

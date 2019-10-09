@@ -1,0 +1,2 @@
+user-facing labels for 'visbility' facet that make more sense
+Closes #296

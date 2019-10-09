@@ -1,0 +1,2 @@
+Delete and regenerate all derivatives in Californica Prod
+As a nervous and fastidious librarian, I would like to clear out all our derivatives and regenerate the derivatives. Per discussion on californica #413 Acceptance Criteria   Items with corrupt files no longer display an incorrect thumbnail image, they instead display a placeholder.   Test object on californica-test:   Test object on californica-prod: 

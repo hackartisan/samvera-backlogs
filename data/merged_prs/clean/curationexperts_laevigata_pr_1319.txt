@@ -1,0 +1,2 @@
+Fix dotenv.sample so that it can be used without modification
+Fixes Psych syntax errors that occur in some environments.  Allows new developers to use README instructions without modifying .env.development Closes #1316 - Psych error with default .env.sample

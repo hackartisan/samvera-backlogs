@@ -1,0 +1,2 @@
+Add privacy statement to signup page (at least).
+Descriptive summary As a user of Oregon Digital logged in with my UO or OSU ID or my personal email, I'll want to be informed of how my use of the system is to become part of any record or not. Expected behavior Signup page (others?) should include at least a link to the privacy statement. Related work Implementation of #264

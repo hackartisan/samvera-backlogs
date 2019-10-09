@@ -1,0 +1,2 @@
+Select an existing collection to import into
+STORY As a librarian, I would like to be able to import my objects into an existing collection. ACCEPTANCE   The application provides a list of the existing collections that I can select from  I can select a collection (only one)  After I click the "Start Import" button, the application displays some kind of confirmation message that indicates the selected collection.

@@ -1,0 +1,1 @@
+add a rake task to reindex all hydrus collections and items

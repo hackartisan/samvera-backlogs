@@ -1,0 +1,2 @@
+AMS2-11 add new work asset
+Adds  adds new work type Asset adds custom presenter for single asset view adds new multiple date input for simple form override default form edit fields for date view change hyrax config to allow creating work without  files deposit agrement   Modify blacklight catalog controller for  Search Result Sorting Single Display

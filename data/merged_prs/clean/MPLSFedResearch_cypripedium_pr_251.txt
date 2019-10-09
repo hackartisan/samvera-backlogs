@@ -1,0 +1,2 @@
+Remove FileSetDerivatives override
+This is identical to the current version (except whitespace) so this is no longer needed. Connected to #248

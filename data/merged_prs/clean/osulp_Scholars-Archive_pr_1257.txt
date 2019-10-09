@@ -1,0 +1,2 @@
+Adds in smarter validation for unrequired fields
+This is my proposition for fixing the unrequired issue for degree grantors. It allows for the extension of unrequired fields beyond just PurchasedEResources. If a record has this behavior, and responds to the method, then it'll make decisions based on whether the field is nil or empty. If so, it'll skip it, if it has a value, then it'll validate that value is correct.

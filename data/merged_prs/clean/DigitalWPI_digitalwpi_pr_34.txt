@@ -1,0 +1,2 @@
+Order of metadata fields in search result
+resolves #32 changed which metadata fields display in the search results page and what order they display in. I was given the order by Aaron Neslin. The New Order: description, keyword, creator, contributor, publisher, date created, resource type, degree, department

@@ -1,0 +1,2 @@
+Ensures that the authorization tokens are passed to the ManifestBuilder and inserted into FileSet URLs
+Resolves #2205

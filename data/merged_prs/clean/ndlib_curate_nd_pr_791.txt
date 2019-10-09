@@ -1,0 +1,2 @@
+Use token to authenticate API request
+Fix logic so API token will mimic token's user to grant access to items.

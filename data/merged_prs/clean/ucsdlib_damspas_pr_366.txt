@@ -1,0 +1,2 @@
+Fix distored collection items search view
+Fixes #361  ; refs #361 Fix distorted item view display issue for RDCP collection Changes proposed in this pull request:  Remove the embedded html tags from the note field Add fixture files and test  /developers - please review

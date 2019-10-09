@@ -1,0 +1,2 @@
+Remove dup solr attributes
+Fixes #650

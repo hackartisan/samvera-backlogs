@@ -1,0 +1,2 @@
+Issue 63 visibility problem
+fixed #63

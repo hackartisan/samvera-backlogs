@@ -1,0 +1,5 @@
+I should be able to list and search for tombstones
+
+Does what is requested in this issue require additional UI functionality on the "File Manager" interface (i. e. something comparable to the viewing and list searching capabilities of Recordings for Playlist Views)?
+I don't think so, I think there's probably just a dashboard or something. We can probably wireframe it when we get to this ticket
+FileSet Tombstones will be accessible from the FileManager already. This UI would just be for Resource Tombstones.  Create a dashboard page which presents a searchable datatable. Initially populate with most recently deleted; otherwise max out at N search results. Each row will have a "restore" button.

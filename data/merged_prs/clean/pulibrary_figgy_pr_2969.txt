@@ -1,0 +1,2 @@
+Implements Preserver#local_checksum_for in order to locally calculate the MD5 checksum before uploading preserved files to a Cloud Storage
+Resolves #2897, but is blocked by samvera/valkyrie#722.

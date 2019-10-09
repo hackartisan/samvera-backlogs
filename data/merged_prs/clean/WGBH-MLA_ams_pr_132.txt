@@ -1,0 +1,2 @@
+Adds date range search filter
+Also,  Removes redundant solr/conf.

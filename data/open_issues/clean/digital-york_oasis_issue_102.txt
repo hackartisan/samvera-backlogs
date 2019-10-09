@@ -1,0 +1,3 @@
+OR search not working
+If enter keywords in the search box, e.g. 'German French', or even with a typo , e.g. 'German Frenccch', the system should still return results matching any of the keywords specified. In short, it should support 'OR' search by default. See comments on this #67
+This could be a solution:   

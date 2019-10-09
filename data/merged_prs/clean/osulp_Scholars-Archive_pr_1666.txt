@@ -1,0 +1,2 @@
+update fields for advanced search
+Advanced search still works with sorted fields. Just needed to update what fields showed up in the advanced search field Fixes #1649

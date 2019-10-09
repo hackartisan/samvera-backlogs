@@ -1,0 +1,1 @@
+HELIO-2248 Create COUNTER Book Access Denied (TR_B2)

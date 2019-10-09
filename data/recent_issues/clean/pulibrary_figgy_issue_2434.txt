@@ -1,0 +1,2 @@
+Welcome Addition Resources need to be batch updated to complete
+This is necessary in order to generate the ARKs for the resources published to DPUL

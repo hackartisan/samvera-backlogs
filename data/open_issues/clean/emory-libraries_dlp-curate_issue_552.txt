@@ -1,0 +1,2 @@
+Add new Health Sciences users to Curate product for Phase 1 Collections
+Repeats work from Rose, Oxford users ticket. Group users when adding them. Use the process like we have in place for the Admin YAML file. See the worksheet: Groups and Users tab for epic #275.   YAML file for each Health Sciences user group: Health Sciences Managers, Health Sciences Viewers, Health Sciences Depositors  Add users to each YAML file  Setup rake task to create group if missing, and add users to the group

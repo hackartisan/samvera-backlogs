@@ -1,0 +1,2 @@
+Fix for bug with batch edit of copyright status.
+Fixes #1059. Our subclassed model_attributes(params) in batch_edit_form.rb was converting the value of params[:rights] from a string to an array, but it did so after calling super instead of before. The test I wrote back in the spring now passes, so I'm removing the :skip .

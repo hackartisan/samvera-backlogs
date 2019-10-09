@@ -1,0 +1,2 @@
+Update geo_work-derivatives for compatibility with GDAL version 2
+Closes #954

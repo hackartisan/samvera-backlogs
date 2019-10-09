@@ -1,0 +1,2 @@
+Hide NumismaticAccessions from search results
+Hides NumismaticAccessions from search results Fixes and issue with the member validator Reorganizes accession specs to match new pattern

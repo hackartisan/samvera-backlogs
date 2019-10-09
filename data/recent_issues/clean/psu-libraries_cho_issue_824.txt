@@ -1,0 +1,2 @@
+Duplicate Identifiers Bug
+I accidentally made a duplicate collection for the work, not realizing old data would remain when a new branch was deployed. I assigned the same identifier (alternate_id) for a new collection and CHO didn't complain. The identfier (alternate_id) field maps to the valkyrie property that is supposed to be unique   

@@ -1,0 +1,2 @@
+Add facet for object to management search
+When searching for things to delete, it would helpful to facet on object type, such as work, collection, or file set.

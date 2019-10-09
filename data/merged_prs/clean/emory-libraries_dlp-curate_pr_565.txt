@@ -1,0 +1,1 @@
+Add renderers and label services for rights_statement and content_type

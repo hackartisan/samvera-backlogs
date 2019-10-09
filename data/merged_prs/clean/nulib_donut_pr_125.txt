@@ -1,0 +1,2 @@
+fields with authority drop downs update correctly now
+fixes  new pr because squashing

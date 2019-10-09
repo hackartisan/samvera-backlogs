@@ -1,0 +1,1 @@
+initial implementation of destroy and publish in digital objects API

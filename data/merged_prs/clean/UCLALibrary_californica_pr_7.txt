@@ -1,0 +1,2 @@
+Tailor deploy targets to cd, sandbox, and demo
+Fixes #30

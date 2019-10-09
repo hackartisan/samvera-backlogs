@@ -1,0 +1,2 @@
+Added image/png media type to small image viewer list.
+Fixes #1056

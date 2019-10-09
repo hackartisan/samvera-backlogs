@@ -1,0 +1,2 @@
+Run fixity checks on production
+Descriptive summary This is what we need to do to run fixity checks on content:  We should run this manually before releasing Scholar 4.0 and then possibly schedule it to run periodically. Of course, testing this on scholar-dev first is recommended.

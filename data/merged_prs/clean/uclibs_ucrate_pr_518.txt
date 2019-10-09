@@ -1,0 +1,2 @@
+fix etd :type/:genre field persistence
+Fixes #514 Genre was not persisting on ETDs because of incomplete config for the attribute on the model. Changes proposed in this pull request:  Specify not_multi for :genre on the etd model Add :genre attribute to model spec

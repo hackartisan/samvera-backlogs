@@ -1,0 +1,2 @@
+Validate creator input
+Description Checks the validity of the hashes used for creators, including the presence of the agent and role keys, as well as verifying that their respective resources exist. This work will be used in validating the agents submitted via csv for work import. Connected to #736

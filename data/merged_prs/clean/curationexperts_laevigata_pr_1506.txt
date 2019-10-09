@@ -1,0 +1,2 @@
+Js/remove files
+This commit removes some places the saved data was re-populating the form where it didn't need to, and makes sure it does happen when it does need to, in the publication to hyrax submit. It's called loadSavedData and was also being called before a tab save, when we only want it called after a tab save.

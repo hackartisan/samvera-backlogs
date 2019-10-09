@@ -1,0 +1,1 @@
+fixes #1529 - FileSet page_type was not getting persisted to figgy

@@ -1,0 +1,2 @@
+Resolves 1480 Test HEB Admin role
+This ticket evolved into the integration of Checkpoint into Heliotrope.  For further insights read/edit the confluence document Devise/CanCan VS Keycard/Checkpoint ( Basically this PR lays the foundation for using Checkpoint to authorize access to resources in Heliotrope.  The logical next step is to integrate Vizier (

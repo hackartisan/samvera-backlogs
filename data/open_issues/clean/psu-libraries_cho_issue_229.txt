@@ -1,0 +1,2 @@
+Request/purchase Prints
+As a maps collector, I would like to be able to request a high-quality print through CHO, So that I may easily obtain a facsimile. Tara L. Would probably be limited to certain work-types like maps, will need to work out implementation. Enhancement to: #202

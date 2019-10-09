@@ -1,0 +1,2 @@
+Blank search redirects to home page
+When I do a blank search:  It redirects to the home page.  It should show search results with all records found.

@@ -1,0 +1,2 @@
+Update Ruby version in README.md
+The Gemfile demands Ruby 2.4.2, but developer setup still called for a Ruby 2.3 version. This fixes up the instructions to provide the current Ruby dependency.

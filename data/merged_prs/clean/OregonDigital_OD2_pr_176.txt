@@ -1,0 +1,2 @@
+posts markers to honeycomb during staging/production boot
+these markers add context to honeycomb for the boot process during deployment fixes #175

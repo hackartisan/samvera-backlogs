@@ -1,0 +1,3 @@
+Hide blank fields
+e.g., “Last modified” above thumbnails, if blank
+![image]( 

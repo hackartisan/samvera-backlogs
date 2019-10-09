@@ -1,0 +1,2 @@
+Setup consistent test accounts across environments
+administrator account   regular user account 

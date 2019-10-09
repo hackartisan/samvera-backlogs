@@ -1,0 +1,2 @@
+BrowseEverything Google Drive ingest is failing for more than a threshold number of items
+A user has reported that, following the ingestion of a directory containing more than 460 files, only FileSets up to 460 have been ingested.  The example which was provided was: 

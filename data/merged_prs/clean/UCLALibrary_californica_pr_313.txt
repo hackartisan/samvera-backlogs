@@ -1,0 +1,2 @@
+Revise copyright statement in License
+Connected to UCLALibrary/amalgamated-samvera#179

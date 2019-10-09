@@ -1,0 +1,2 @@
+Update Solr to 6.4.1
+This gets us to the current Solr version used in production and also gets all our solr configs in similar state.

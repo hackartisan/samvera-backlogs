@@ -1,0 +1,2 @@
+pins to newer rack-honeycomb to keep from leaking login credentials
+fixes #188 Requires a docker-compose build

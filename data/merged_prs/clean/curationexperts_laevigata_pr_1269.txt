@@ -1,0 +1,2 @@
+Actually attach files with UploadedFile factory
+There are many places in our test suite where we could use this factory if it actually attached files. Fixing this should let us refactor and streamline many of our tests.

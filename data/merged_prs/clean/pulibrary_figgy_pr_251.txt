@@ -1,0 +1,2 @@
+Delete controlled fields w/ Vocabulary.
+Closes #242

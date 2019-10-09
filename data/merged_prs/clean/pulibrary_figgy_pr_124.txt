@@ -1,0 +1,2 @@
+Add Browse Everything CSS
+This doesn't add the loading text changes, because they always look a little strange. Closes #59

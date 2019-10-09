@@ -1,0 +1,4 @@
+auth'ed user should be able to create collection, but cannot
+user's SUNet is scherrer workgroup is dlss:hydrus-app-collection-creators When logged in, should be able to see the "create a new collection" button, but it does not appear. User reports he is using the "latest version of Firefox on Windows 7"
+For this user (scherrer), I went ahead and created a new collection on their behalf, gave them a role in the collection, and then scherrer was able to use the application.  Another test with another new user to the dlss:hydrus-app-collection-creators workgroup confirmed the eerroneous behavior.  Could it be that new members in the workgroup are not getting indexed into Hydrus' Solr? 
+ is it possible that this workgroup name has become an issue with the changes you are making related to argo?

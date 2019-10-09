@@ -1,0 +1,2 @@
+Use dor-services-client for registration
+sul-dlss/argo#1212

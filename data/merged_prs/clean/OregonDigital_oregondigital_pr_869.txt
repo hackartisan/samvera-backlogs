@@ -1,0 +1,2 @@
+Updating devise edit password url to use the real token
+From  Fixes #868

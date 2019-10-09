@@ -1,0 +1,2 @@
+update field texts in the model, re: GH issue: 48
+resolved #48

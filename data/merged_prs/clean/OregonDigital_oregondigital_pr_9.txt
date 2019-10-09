@@ -1,0 +1,2 @@
+Some minor changes to Collections
+Clearing out some pending tests that are now covered/implemented elsewhere. Also removing a blank before_destroy hook. It seems like collections take care of their own cleanup; I bulked up the delete test slightly to verify.

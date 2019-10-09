@@ -1,0 +1,2 @@
+Missing resources should redirect and error.
+This should prevent a whole suite of Honeybadger errors, and avoid displaying 500 errors to users when they can't do anything about it. Closes #2534

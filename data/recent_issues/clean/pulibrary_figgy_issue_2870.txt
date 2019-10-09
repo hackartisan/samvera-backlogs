@@ -1,0 +1,2 @@
+Add NumismaticPerson resource
+Add a manageable resource for NumismaticPerson Try merging the Ruler and Person tables in the old database because they are so similar.  Fields: name1 name2 epithet family born died class_of years_active_start years_active_end replaces

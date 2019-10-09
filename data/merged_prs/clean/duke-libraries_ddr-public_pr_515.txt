@@ -1,0 +1,2 @@
+Anonymize IPs for Google Analytics data collection
+Documentation: 

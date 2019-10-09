@@ -1,0 +1,2 @@
+Move hyrax feature specs to hyrax folder
+Fixes #350 Moved hyrax feature specs to the hyrax folder in spec/features. Also modified the rubocop.yml file to reflect these changes.

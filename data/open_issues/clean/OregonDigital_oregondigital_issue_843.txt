@@ -1,0 +1,2 @@
+urls in description are getting converted into uris
+: making a ticket as this issue has shown up a few times in percent for example,  and  in the original nt, the url is a string, after ingest, in downloaded nt, the url is in angle brackets. it is also not showing up in the public view.  has said agreed to let this go for now as the urls are not crucial information pertaining to the item.

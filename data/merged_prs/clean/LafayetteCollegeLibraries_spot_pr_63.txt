@@ -1,0 +1,2 @@
+Update publication form
+adds dropdown selector option to identifier form field single fields are actually displayed as single fields

@@ -1,0 +1,2 @@
+Removes unwanted fields from catalog#index
+Based on feedback from review on demo, we needed to remove some fields from catalog#index.

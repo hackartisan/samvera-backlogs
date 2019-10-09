@@ -1,0 +1,2 @@
+Add an error class for admin set errors
+The AdminSetActor provided a mostly unhelpful and hard to trace error message when an admin set could not be assigned. This provides a namespaced error and a structured message to improve handling.

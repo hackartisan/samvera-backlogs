@@ -1,0 +1,2 @@
+When I assign an ID to a featured researcher and then edit the featured researcher the id does not stick
+When I edit a features researcher And I assign an ID And I edit the featured researcher again And do not assign the ID Then the ID get blanked out Set ID  After Set  After Save and Edit  After Save and edit again

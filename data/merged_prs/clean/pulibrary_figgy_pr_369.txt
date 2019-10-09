@@ -1,0 +1,2 @@
+Migrate additional box properties
+Fixes #363

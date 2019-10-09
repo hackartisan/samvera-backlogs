@@ -1,0 +1,1 @@
+Revised responsive styles, especially for main navigation

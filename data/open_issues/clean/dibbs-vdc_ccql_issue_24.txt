@@ -1,0 +1,3 @@
+[Issue] Number of files in a directory
+Based on a test at Penn State, the upload of a directory containing many files exceeded the Hyrax limit (not sure what the limit is).  This issue can temporarily be circumvented by zipping the directory and ingesting as one file.
+Is this a duplicate of #61

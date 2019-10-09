@@ -1,0 +1,2 @@
+Improve the README link to the browse-everything configuration documentation
+It's difficult to locate in the current README

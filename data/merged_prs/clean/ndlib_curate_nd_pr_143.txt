@@ -1,0 +1,2 @@
+Remove extra </a> inserted by editor.
+Text editor appears to have tried to close the  for me. Removed the extra closing  that appeared before the link. dltp-220#

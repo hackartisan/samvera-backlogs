@@ -1,0 +1,2 @@
+Log preservation events related to Characterization
+Characterization: in the characterization job:  Characterization events: Metadata extraction (files/FITS) Format identification (files/FITS) Validation (files/FITS)

@@ -1,0 +1,2 @@
+reorder show and form. Fix Labels.
+Fixes #655 #656

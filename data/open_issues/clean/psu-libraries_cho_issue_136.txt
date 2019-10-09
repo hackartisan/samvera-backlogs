@@ -1,0 +1,2 @@
+Extract and Download A/V Media Clips
+As a researcher, I would like to select a clip from a recording to download, So that I can just have offline access to the portion useful for my research. Ben G.

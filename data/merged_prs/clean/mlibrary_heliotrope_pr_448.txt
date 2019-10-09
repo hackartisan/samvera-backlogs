@@ -1,0 +1,2 @@
+refactor typekit 
+Resolves #434   typekit loading now comes before other CSS and JS - dramatically reducing the FOUT (flash of unstyled font) time and ensuring the font is loaded completely;   reuses press helpers to remove logic from views;   mirror the pattern Seth created for storing Google Analytics IDs and store Typekit ID for a press in presses database   bundle exec rake db:migrate and bundle exec rake db:seed will need to be run for this to work.

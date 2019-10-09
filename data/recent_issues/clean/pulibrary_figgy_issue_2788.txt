@@ -1,0 +1,2 @@
+[Figgy/staging] NoMethodError: undefined method `ruler' for nil:NilClass
+Backtrace line 40 of [PROJECT_ROOT]/app/resources/coins/coin_decorator.rb: pub_created_display line 28 of [PROJECT_ROOT]/app/resources/coins/orangelight_coin_builder.rb: document_hash line 11 of [PROJECT_ROOT]/app/resources/coins/orangelight_coin_builder.rb: build  View full backtrace and more info at honeybadger.io

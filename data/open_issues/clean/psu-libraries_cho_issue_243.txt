@@ -1,0 +1,3 @@
+Create View Object Type Template Wireframe
+child of #320
+Make this very similar to the form. #241

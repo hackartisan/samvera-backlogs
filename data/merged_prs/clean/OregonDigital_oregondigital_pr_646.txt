@@ -1,0 +1,2 @@
+Speed up collection/show views
+This makes load_instance_from_solr -actually- work. There's remaining work to get #from_uri on GenericCollection for the set display in show to not hit Fedora, but it'll require an ActiveFedora patch (or we wait until AF7 and patch ActiveTriples.)

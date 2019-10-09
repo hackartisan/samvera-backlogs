@@ -1,0 +1,2 @@
+Dashboard Color Contrast Errors
+Adjusts the color contrast of the badges on the user dashboard and the text color of the placeholder text of the user search when adding collaborators. Fixes #1232 ALL CLEAR!

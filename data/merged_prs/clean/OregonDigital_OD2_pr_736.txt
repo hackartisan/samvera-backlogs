@@ -1,0 +1,2 @@
+Remove identifier metadata field from collections
+Fixes #674

@@ -1,0 +1,2 @@
+Disable file browse on work edit form
+For works that have been batch imported and have file sets attached, should we disable or replace the file browse/upload button on the work edit form (for now)? What would happen if a file was uploaded? In 1.x, #813 might be a pathway for adding/removing file sets on existing works.

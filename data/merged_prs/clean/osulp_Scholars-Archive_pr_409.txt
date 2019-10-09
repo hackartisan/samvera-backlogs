@@ -1,0 +1,2 @@
+integrates CAS login, includes default fcrepo_wrapper and solr_wrapper
+fixes #405 fixes #358

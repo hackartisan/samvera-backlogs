@@ -1,0 +1,2 @@
+Add alexandria url prefix to identifier for OAI
+This adds a url prefix to the identifier element in the OAI-PMH feed. The rules in Primo are setup so that they check for the http prefix to create links. This creates a configuration option to set the prefix and concats the prefix to existing identifier element in the solr document via the ObjectIndexer.

@@ -1,0 +1,2 @@
+Remove bookreader's embedded navbar init
+Closes #1229 Closes #1226 Removing the embedded navbar function doesn't appear to affect my local bookreader in any negative way, but should remove the false-positives which generated the above-mentioned tickets.

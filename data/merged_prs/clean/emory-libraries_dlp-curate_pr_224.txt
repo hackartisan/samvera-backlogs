@@ -1,0 +1,2 @@
+Adds visibility and other params to permitted_params for form
+Visibility and a few other params were getting escaped and being listed as unpermitted when saving form. This commit also edits data_classification and subject_geo metadata properties to align them with the given requirements. Closes #202

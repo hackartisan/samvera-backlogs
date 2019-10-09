@@ -1,0 +1,2 @@
+Catch any places where we can't update post-graduation email
+Make these errors more actionable. Often they are caused by fake (testing) data, but we can't just throw them away in case there's ever a real problem. This should make it obvious whether it's a real problem for a real student. Connected to #985

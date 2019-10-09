@@ -1,0 +1,2 @@
+Move collections controller override to a monkey patch
+Fixes #550 Fixes #547

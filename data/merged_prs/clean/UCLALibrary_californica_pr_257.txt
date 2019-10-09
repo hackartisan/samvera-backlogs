@@ -1,0 +1,2 @@
+Remove depositor field from search results
+Since this value will always be the same for all LADNN records, and it's a meaningless string ("") do not take up the user's attention by displaying it.

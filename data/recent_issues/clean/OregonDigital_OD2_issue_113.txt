@@ -1,0 +1,2 @@
+Offload oEmbed URL fetching from the server
+Descriptive summary The oEmbed currently renders the embed via the rails backend. This can cause the application to hang if the provider doesn't respond in a predicated way. Expected behavior oEmbed content appears on the page with minimal chance of application stalling Related work  may have done something similar #75

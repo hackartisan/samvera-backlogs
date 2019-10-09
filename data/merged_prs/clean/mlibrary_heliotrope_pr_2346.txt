@@ -1,0 +1,2 @@
+Markdown ignores hashtag; HTML in title
+HELIO-2663 and HELIO-2689

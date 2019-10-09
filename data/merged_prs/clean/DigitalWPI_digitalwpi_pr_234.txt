@@ -1,0 +1,2 @@
+update endnote citation url
+Fixes #229. We have three options for citations. Endnote, Zotero, mendeley. This feature was not a requirement and there is some further configuration for Zotero and Mendeley citations to work. Deleting them for now and have fixed the endnote export url.

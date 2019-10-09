@@ -1,0 +1,1 @@
+ArchivalMediaCollection ingest should mark Recordings it creates as able to be downloaded

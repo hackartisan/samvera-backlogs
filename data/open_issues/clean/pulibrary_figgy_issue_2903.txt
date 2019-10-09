@@ -1,0 +1,5 @@
+Improve handling for Google authentication errors
+These errors were reported by a user: This morning I've been scanning "Hydrocarbon Processing" magazine and uploading it into Figgy.  However, the files upload into Figgy, however, the images don't upload.   The link also disappeared.  The bib for Hydrocarbon Processing is:  626389.    I was uploading the files into:  Vol. 49, no. 7-12, 1970, now that link is gone.    
+I have not yet received details from the user who reported the issue, but can confirm that, for the "File Manager" interface, files are successfully ingested from Google Drive folders and shared folders.
+I also failed to reproduce any errors when ingesting items from private and shared Google Drive folders using the "Bulk Ingest" interface.
+The user now reports that this has been resolved without any intervention by PUL team members, but notes that there was an error initially which may be related to authentication (presumably, through the Google OAuth integration).

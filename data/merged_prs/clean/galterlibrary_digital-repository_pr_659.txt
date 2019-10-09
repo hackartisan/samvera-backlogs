@@ -1,0 +1,2 @@
+Release 1.15.0-disable_Original_Publisher-update_and_institutionalize_scripts
+Batch update for Publisher field script needs to be run. The rest were manually uploaded to the server and already run.

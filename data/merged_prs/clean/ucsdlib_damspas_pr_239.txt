@@ -1,0 +1,1 @@
+Fixing topic issue in index page.(DHH-854)

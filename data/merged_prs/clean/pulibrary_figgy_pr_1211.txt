@@ -1,0 +1,2 @@
+Remove download and iiif refs from restricted scanned maps
+Closes #1210 Closes pulibrary/pulmap#521 Closes pulibrary/pulmap#522

@@ -1,0 +1,2 @@
+Disabling via JS submit feature until agreement
+To avoid potential confusion, disabling the submit button unless they've agreed to the terms. Also adding a title for the submit button; It should be a helper text but this is what we have for now.

@@ -1,0 +1,2 @@
+workType cleanup
+Descriptive summary Add AAT URIs to items with uncontrolled or missing workType. Have spreadsheets for:   SCARC Collections -- 3,408 items  Non-SCARC Collections -- 10,821 items

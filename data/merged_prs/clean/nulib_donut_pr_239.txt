@@ -1,0 +1,2 @@
+taking adam weads fix from aic
+their issue: samvera/hydra-role-management#21 the file at the commit:  and it works locally too. Fixes nulib/next-generation-repository#467

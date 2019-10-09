@@ -1,0 +1,2 @@
+Use a separate actor to fix the representative/thumbnail instead of overriding OrderedMembersActor
+Overriding the OrderedMembersActor to fix the represenative/thumbnail images was the last change to Donut that I can imagine mucking with FileSet attachments. I've come up with a cleaner and more isolated way to do the same thing that is hopefully out of the way of the (deep breath) CreateWithRemoteFilesOrderedMembersActor (exhale) and might perform better.

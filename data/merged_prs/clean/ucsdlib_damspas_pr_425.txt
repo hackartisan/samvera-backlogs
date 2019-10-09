@@ -1,0 +1,2 @@
+Fixes #410 - Add support for metadata-only to collection level view
+Fixes #410  ; refs #410 /developers - please review

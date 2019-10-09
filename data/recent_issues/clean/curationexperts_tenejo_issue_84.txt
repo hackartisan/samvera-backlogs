@@ -1,0 +1,2 @@
+Query solr instead of fedora for collection selector
+Background Info: In the form to start a new CSV import, the selector drop-down calls Collection.all to generate the collection IDs and titles for the select options:  This causes all the collection records to be loaded from fedora, which is probably fine for the MVP release and fine for a small number of collections, but we would have better performance if we used a solr query instead. Acceptance Criteria:   Use a solr query to fetch the ids and titles instead of Collection.all.

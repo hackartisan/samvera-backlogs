@@ -1,0 +1,2 @@
+Bulk Edits: Bulletins
+Bulk edits - alt_title, subject, resource_type, in_series. Direct link to relevant tab:   1 Aug 2019: Bulletins

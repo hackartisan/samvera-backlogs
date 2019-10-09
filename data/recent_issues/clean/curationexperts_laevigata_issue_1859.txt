@@ -1,0 +1,2 @@
+Embargo Emails Cut Off Text
+According to Fran (emory-libraries/etd-issues#56 (comment)), the embargo emails are not including the full message text (

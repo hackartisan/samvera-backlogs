@@ -1,0 +1,4 @@
+File upload buttons are inaccessible
+Descriptive summary Some style change (probably Hyrax base theming, but I'm not sure) hides the file upload button elements off-screen.  This means keyboard users can't see the focus indicator around the button, and assistive tech for sighted people (vimium, for instance) can't enumerate the button. Expected behavior I should see the button on screen, and be able to find it with the keyboard as well as enumerate it with vimium.
+ is this our theming or Hyrax theming?
+ Good point - that is probably the base hyrax theme, but I'm not certain.  I'll adjust the description.

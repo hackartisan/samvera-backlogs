@@ -1,0 +1,2 @@
+Dashboard filters show "translation missing:en.hyrax..."
+I've started seeing this in Curate prod when I go to the Dashboard to select a work or a Collection. Not sure if this is indicating anything serious, but:

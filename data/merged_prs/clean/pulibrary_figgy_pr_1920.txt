@@ -1,0 +1,2 @@
+Modifies the handling of files within archival media bags in order to ensure that files for sides with multiple parts are ingested as separate FileSets
+Resolves #1907

@@ -1,0 +1,2 @@
+Run migration to populate new archival_collection_code property
+rake migrate: archival_collection_code

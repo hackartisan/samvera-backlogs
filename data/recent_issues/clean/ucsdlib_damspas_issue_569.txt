@@ -1,0 +1,2 @@
+Batch update file use values in SIO Explorer Cruises collection
+Descriptive summary For the items in the SIO Explorer Cruises collection  please replace the value: dams:usedocument-source</dams:use> with: dams:usedocument-service</dams:use> and reindex Rationale the document-source value does not trigger the pdf viewer Related work #568 #567

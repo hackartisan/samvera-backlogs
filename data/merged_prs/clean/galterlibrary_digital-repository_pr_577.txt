@@ -1,0 +1,2 @@
+allow twitterbot to crawl dh. fixes #573
+Using twitter card validator,  our robots.txt disallow crawling to the path of the image.

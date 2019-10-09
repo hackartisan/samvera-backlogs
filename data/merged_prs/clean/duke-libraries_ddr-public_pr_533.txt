@@ -1,0 +1,2 @@
+Add Research Guide link to collection_submast partial for whitelisted URLs
+Add line to local_env to configure the list of research guide URLs: RESEARCH_GUIDES: "guides.library.duke.edu, library.duke.edu" #comma separate multiple URLs

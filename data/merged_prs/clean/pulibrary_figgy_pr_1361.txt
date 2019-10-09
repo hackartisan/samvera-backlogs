@@ -1,0 +1,2 @@
+Use model when generating external metadata parent ChangeSet
+Fixes issue with incorrect visibility values when extracting geo metadata. Closes #1360

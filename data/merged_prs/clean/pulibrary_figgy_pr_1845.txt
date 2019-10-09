@@ -1,0 +1,2 @@
+Add figgy_title values to index
+Step 1 of 2 towards #1837 replaces #1843

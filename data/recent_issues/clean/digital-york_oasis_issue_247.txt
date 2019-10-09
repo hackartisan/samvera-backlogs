@@ -1,0 +1,2 @@
+Create new tabs on the homepage
+I've requested this before, but I realise I didn't make a Github issue for it. Could you please create 2 new tabs on the OASIS homepage:  OASIS activities and presentations What people say about OASIS  We would like them to be editable for me, so I can add the content.

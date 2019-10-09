@@ -1,0 +1,2 @@
+Send stats emails only on production jobs servers
+Adds an additional environment key for "service name" such as qa, production, stage, etc. which we can use to set the cron job for emailing monthly stats emails. This way, only the jobs server for the designated "production" service will send the emails. Fixes #1614

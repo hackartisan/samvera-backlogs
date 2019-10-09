@@ -1,0 +1,2 @@
+Removing delete options for repository objects
+Removing links to delete objects from CurateND 2a82e13 Per DLTP-1468, we do not want to expose, via the UI, a means of deleting objects. Object deletion runs contrary to the spirit of a repository. Removing destroy actions and routes 18ca151 As part of DLTP-1468 we no longer want to expose a means of deleting objects. This runs contrary to the spirit of a digital repository.

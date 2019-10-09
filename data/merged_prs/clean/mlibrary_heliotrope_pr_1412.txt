@@ -1,0 +1,2 @@
+pan buttons for Leaflet
+Resolves #1382

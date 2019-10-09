@@ -1,0 +1,2 @@
+Error when trying to parse updated bib records
+Backtrace line 30 of [PROJECT_ROOT]/app/services/voyager_updater/event_stream.rb: parsed_json line 15 of [PROJECT_ROOT]/app/services/voyager_updater/event_stream.rb: events line 22 of [PROJECT_ROOT]/app/services/voyager_updater/event_stream.rb: process!  View full backtrace and more info at honeybadger.io

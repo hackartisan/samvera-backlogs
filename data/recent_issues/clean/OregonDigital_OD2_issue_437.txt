@@ -1,0 +1,2 @@
+Configure Collection level metadata fields
+Metadata fields for use with collection records:   Title  Description  Thumbnail choice  Creator  Contributor  License  Publisher  Date Created  Subject  Language  Identifier  Related URL  Resource Type (Type)  Institution  Date  Repository

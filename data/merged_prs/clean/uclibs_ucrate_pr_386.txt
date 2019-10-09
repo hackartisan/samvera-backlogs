@@ -1,0 +1,2 @@
+Fix missing license wizard button
+Fixes #365 Depends on #366 The JS for the license wizard was missing a div in the view to render the button. I added a div class and simplified the style. Also added some feature specs to check that the button is showing where it should.

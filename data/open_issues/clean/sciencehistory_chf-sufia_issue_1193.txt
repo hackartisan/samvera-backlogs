@@ -1,0 +1,2 @@
+Clean up PDF generation code
+File app/services/chf/create_derivatives_on_s3_service.rb was messy to begin with. When we added PDF thumbnails, it got considerably messier, and it's now ripe for a bit of refactoring. This is a low-priority task, but it will save time in the long run.

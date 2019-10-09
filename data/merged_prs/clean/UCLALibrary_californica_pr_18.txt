@@ -1,0 +1,2 @@
+Add development setup to README.md
+Closes #3.

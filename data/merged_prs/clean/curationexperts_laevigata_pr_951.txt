@@ -1,0 +1,1 @@
+Security update for rails-html-sanitizer and loofah

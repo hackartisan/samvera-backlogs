@@ -1,0 +1,2 @@
+Log preservation events tied to Work Creation
+after the create_work job is successful:  Metadata extraction (object level, from Curate form, CSV, or Alma) Policy Assignment (assignment of rights/visibility level)

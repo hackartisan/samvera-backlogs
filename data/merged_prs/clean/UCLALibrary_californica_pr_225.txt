@@ -1,0 +1,2 @@
+Configure import directory and test `ActorRecordImporter` handling
+Allow configuration of a whitelisted local file import directory and test the Actor Stack's use of remote files attributes. To support end-to-end "remote" local file ingest, we need to add a #remote_files field to the mapper. Connected to #188.

@@ -1,0 +1,2 @@
+Feature/search and external link renderer
+fixes #640

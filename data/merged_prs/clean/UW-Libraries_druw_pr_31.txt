@@ -1,0 +1,2 @@
+Split current import rake task
+The rake import task previously took a DSpace export zip as input to create a new DRUW item. With this change, the rake import task takes a BagIt directory as its import directory. An additional script, utility/ds2bi.rb, can be used to create a BagIt directory from a DSpace export zip file.

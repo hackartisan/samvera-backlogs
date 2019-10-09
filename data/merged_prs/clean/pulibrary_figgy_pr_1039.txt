@@ -1,0 +1,2 @@
+Add a simple draft-publish workflow for use with plates (SimpleResource), refs #1031
+It's nearly identical to the folder workflow; the only difference is the names of the states / transitions.

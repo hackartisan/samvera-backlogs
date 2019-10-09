@@ -1,0 +1,2 @@
+Links Required Metadata and Files in Viz Widget to Tabs
+Moves text into locale for translation, removes icons from tabs, and links the requirements to the correct section of the tabs.

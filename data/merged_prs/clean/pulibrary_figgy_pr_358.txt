@@ -1,0 +1,2 @@
+Extending the BulkIngestService and implements the IngestDiskFolderJob for bulk directory ingestion
+Resolves #56 by:  Restructuring the BulkIngestService to properly handle ScannedMap Resources and ingestion for Multi-Volume Works Restructuring the BulkIngestService in order to ensure that Multi-Volume Works are ingested with child resources of ScannedResources while EphemeraFolders have ScannedResources ingested as children

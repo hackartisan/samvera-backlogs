@@ -1,0 +1,2 @@
+HELIO-2740 Minted DOIs cannot be updated in the UI
+This works in preview for both monographs and file_sets. Examples: Registered:   (it can take a few seconds for the ajax call to come back) Unregistered:  

@@ -1,0 +1,2 @@
+Updating response paths for orcid settings
+This, along with samvera-deprecated/orcid@7816a76, moves towards a better Orcid experience. In particular this addresses the behavior when a user creates their Orcid profile connection. Instead of giving a weird message, it redirects to the orcid settings with a message that their request has been submitted.

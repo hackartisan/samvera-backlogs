@@ -1,0 +1,4 @@
+Add privacy statement to signup page (at least).
+Descriptive summary As a user of Oregon Digital logged in with my UO or OSU ID or my personal email, I'll want to be informed of how my use of the system is to become part of any record or not. Expected behavior Signup page (others?) should include at least a link to the privacy statement. Related work Implementation of #264
+ is there currently a privacy statement or terms of use for OD? if not, please generate a tix to create that text.
+Composing the statement is #264   OSU and UO have privacy statements in the footer of their set pages on OD1. (Links to each libraries' website privacy statement.) I'm not a lawyer but think OD will want to either adopt one of those two that we can agree on, or create some hybrid, or get some other for use as a collaboration.

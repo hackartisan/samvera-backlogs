@@ -1,0 +1,2 @@
+Fix removing citation features
+Fixes #460 Removes a check for Endnote that was left in a spec. It wasn't caught before it got merged for some reason.

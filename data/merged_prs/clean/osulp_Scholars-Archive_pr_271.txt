@@ -1,0 +1,2 @@
+issue#256: solve search bar spill over page boundaries
+fix #256

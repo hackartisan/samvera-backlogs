@@ -1,0 +1,1 @@
+Add install directions for ffmpeg to README

@@ -1,0 +1,2 @@
+Permissions visibility widget may have a javascript issue
+Having our visibility set to private in our feature tests seems to be a requirement. This is a bit strange.  Setting them to back to private makes the tests function better.  This makes me wonder if there is an issue with the javascript or the structure of the page when Public information is shown

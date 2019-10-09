@@ -1,0 +1,3 @@
+Discuss advanced search layout and assess expected functionality
+
+Two initial thoughts - probably for a future sprint: 1) Implement multiple facet selection on the main results page, not just on the Advanced Search page 2) Reconfigure the advanced search page to function more like Web of Science basic search. This will clean up the UI significantly.

@@ -1,0 +1,2 @@
+Slug generation for Geo documents without a `held_by` fails.
+[Figgy/production] NoMethodError: undefined method `parameterize' for nil:NilClass Backtrace line 20 of [PROJECT_ROOT]/app/services/geo_discovery/document_builder/slug_builder.rb: slug line 12 of [PROJECT_ROOT]/app/services/geo_discovery/document_builder/slug_builder.rb: build line 15 of [PROJECT_ROOT]/app/services/geo_discovery/document_builder/composite_builder.rb: block in build  View full backtrace and more info at honeybadger.io

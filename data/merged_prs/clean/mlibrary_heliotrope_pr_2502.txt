@@ -1,0 +1,2 @@
+Resolves HELIO-2930: minor rubocop oddity
+Pretty much the same.

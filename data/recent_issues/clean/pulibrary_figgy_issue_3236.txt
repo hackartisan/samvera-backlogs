@@ -1,0 +1,2 @@
+Resources without a thumbnail set should use the first image
+Beth reported a couple of items were not displaying thumbnails:   I fixed them by manually setting a thumbnail for them, but they should be using the first image by default if no thumbnail is set.

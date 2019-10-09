@@ -1,0 +1,1 @@
+removing rvm and adding service validator to deployment script

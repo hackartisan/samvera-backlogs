@@ -1,0 +1,2 @@
+gems: add pry-byebug
+While looking into a few recent tickets I found that we didn't have this gem installed. I prefer the experience of using pry, but it's nice to have byebug integrated for debugging. /developers - please review

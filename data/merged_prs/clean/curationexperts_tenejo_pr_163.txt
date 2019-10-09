@@ -1,0 +1,2 @@
+Add read-only mode
+Add a FlipFlop feature toggle that puts the system into read-only mode. This will allow us to more easily migrate data behind the scenes. Add a rake task to put the repo in ready only mode. Also, add sidekiq rake task. This lets us control sidekiq more consistently, including stopping and starting it gracefully. Connected to #64

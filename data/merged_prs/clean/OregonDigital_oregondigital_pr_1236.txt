@@ -1,0 +1,2 @@
+use github repo for logger gem
+fixes #1235

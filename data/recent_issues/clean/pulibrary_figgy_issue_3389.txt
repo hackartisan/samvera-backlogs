@@ -1,0 +1,2 @@
+Initial views for some large images are not displaying
+It has been noticed that for some scanned maps, the initial view in the UV does not display. The image only appears after zooming in.   OpenSeadragon logs similar errors to the console for all cases: Tile a.Tile failed to load:  - error: Image load aborted  Notice the IIIF request with a width of 1px.

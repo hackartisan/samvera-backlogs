@@ -1,0 +1,2 @@
+Add range support to manifest.
+This uses proper 2.1 ranges too.

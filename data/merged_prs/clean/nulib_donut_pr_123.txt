@@ -1,0 +1,2 @@
+Add bootsnap gem for faster load times
+Let's make the application boot more quickly! Uses the bootsnap gem which will be installed by default in Rails 5.2.0.

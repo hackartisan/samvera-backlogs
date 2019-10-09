@@ -1,0 +1,2 @@
+Update FFmpeg video-derivative encoding (in test, qa, prod)
+Descriptive summary Update FFmpeg video-derivative encoding to use -ac 2 for mp4 derivatives. In the future, multichannel is going to be a thing, and if/when players can eventually support multichannel in the future, we can always recreate derivatives. Audio option -ac 2: Specifies the number of audio channels. Stereo audio is recommended for best compatibility. Wowza Streaming Engine doesn't support more than two audio channels.

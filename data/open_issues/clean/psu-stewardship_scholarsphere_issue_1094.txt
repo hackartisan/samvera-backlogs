@@ -1,0 +1,2 @@
+Activity for creating a collection
+When I create a collection And I go to my dashboard Then I should see activity in my activity stream The activity stream does not seem to be updated for collections.  This occurs in release 7.3.1 and release 7.3.2

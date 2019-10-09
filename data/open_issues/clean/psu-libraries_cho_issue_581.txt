@@ -1,0 +1,2 @@
+Enable child works
+Add a new property to Work::Submission that creates an inverse relationship between works. For example, a work can point to another indicating that it is the child of that work. The sort value should be captured from the directory name in the bag, ex. workID_00001, and stored in a property on the work. It does not need to be specified in the CSV because we're deriving from the directory name. Child of #408

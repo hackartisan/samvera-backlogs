@@ -1,0 +1,2 @@
+Update favicon to the current nd.edu favicon
+This replaces the old non-retina favicon based on the academic mark.

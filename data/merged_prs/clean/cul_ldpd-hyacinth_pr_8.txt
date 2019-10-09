@@ -1,0 +1,2 @@
+add a FileSystem DigitalObject::Base subclass, fixes HYACINTH-69
+ is this what you had in mind? If so will add the db migration in another PR.

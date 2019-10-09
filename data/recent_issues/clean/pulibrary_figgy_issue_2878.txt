@@ -1,0 +1,2 @@
+Reevaluate Rails session storage in order to ensure that cookies consume less than 4KB in client browsers
+Currently this appears to be triggering errors such as the following: 

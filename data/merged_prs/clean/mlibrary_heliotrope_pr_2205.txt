@@ -1,0 +1,2 @@
+Resolves HELIO-2445: Embed code for audio
+HELIO-2445

@@ -1,0 +1,2 @@
+add 'other' fields into search parameters
+add 3 new 'other' fields to Solr search parameters

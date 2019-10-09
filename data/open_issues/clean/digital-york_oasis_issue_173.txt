@@ -1,0 +1,2 @@
+Depositors should receive a notification if there is a comment on their summary
+When a summary is pending review and the admin leaves a comment the depositor should be notified. Currently they are only notified when an admin requests changes or when the summary is approved.

@@ -1,0 +1,2 @@
+Rake task for migrating. Beginning work
+This is the beginnings of the rake task. Need to set up reporting but wanted to get this in front of people.

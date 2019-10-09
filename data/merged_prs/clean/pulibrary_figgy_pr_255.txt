@@ -1,0 +1,2 @@
+Redirect to Box on Folder Delete.
+Closes #236.

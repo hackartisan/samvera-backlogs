@@ -1,0 +1,2 @@
+Adding BulkTask#deleted? status inquirerer
+Also adding a test for presence of all status inquirerers

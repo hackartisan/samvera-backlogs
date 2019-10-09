@@ -1,0 +1,2 @@
+Updates solr_wrapper
+Apache stopped publishing the version of Solr that the previous version of solr_wrapper was trying to pull down. Upgrading to ~> 2.0 fixes this.

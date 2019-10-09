@@ -1,0 +1,2 @@
+Display additional titles with main title in browse view
+Closes #377 screen shot:

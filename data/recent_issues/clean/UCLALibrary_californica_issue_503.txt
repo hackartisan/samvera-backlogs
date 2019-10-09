@@ -1,0 +1,2 @@
+Validate CSV via browser
+STORY As a librarian, I would like to be able to upload my import CSV myself, so that I don't have to take someone else's time to move my file to the right place. ACCEPTANCE   I can select a CSV to upload  I can click the "Upload" button to have the CSV uploaded & validated   The system reports any missing required headers CSV   Object Type  Title  Item ARK  Parent ARK  Rights.copyrightStatus  File Name      The system does not start the import (i.e. we still trigger it manually for now)  NOTE  Columns can be in any order.

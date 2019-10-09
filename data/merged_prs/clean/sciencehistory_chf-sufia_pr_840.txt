@@ -1,0 +1,2 @@
+Clean up and better branding of facets sidebar.
+PR into visual_ux_refresh branch

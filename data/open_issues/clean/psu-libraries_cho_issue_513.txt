@@ -1,0 +1,2 @@
+Create sync process for data dictionary configuration
+The data dictionary spreadsheet in Box needs to match the data dictionary config csv so that reconfiguring the system's metadata is a straight-forward process where the spreadsheet is exported as a csv and put into Github.

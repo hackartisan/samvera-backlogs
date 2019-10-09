@@ -1,0 +1,2 @@
+Ensure Hyrax supports multi-part objects
+Test creating a work within a work  Test creating multiple filesets within a work  Test adding multiple files within a fileset

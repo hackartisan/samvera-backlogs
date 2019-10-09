@@ -1,0 +1,1 @@
+Use Env vars for paths, and fall back to defaults.

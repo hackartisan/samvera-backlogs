@@ -1,0 +1,2 @@
+Force guest user to use the first available
+Should stop tons of guests being created. For Figgy we don't care about saving non-logged in searches and things. Closes #858

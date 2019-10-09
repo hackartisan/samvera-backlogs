@@ -1,0 +1,2 @@
+Better shared examples
+Add image metadata shared example Add hyrax basic metadata shared example Finish admin metadata shared example

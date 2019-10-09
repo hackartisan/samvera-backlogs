@@ -1,0 +1,2 @@
+Download statistics per journal type
+Requirements As an Admin I would like see summaries downloads statistics broken per journal of publication field. Rationale This can be used as en engagement information for somme journals publisher, allowing them to engage their authors in order to submit more summaries to OSIS service, such as for example Language Learning etc. Related issue We collect basic google statistics data, however, those are only page views not downloads clicks on the links.  See #4 and Hyrax pul request 3489

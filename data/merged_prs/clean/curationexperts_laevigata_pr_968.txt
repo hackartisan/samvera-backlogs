@@ -1,0 +1,2 @@
+enabling partnering agency in editing
+This commit makes the partnering agency inputs load when the edit form loads, rather than only upon selecting Rollins from the school select. There is also some minor js refactoring, a new Rollins edit spec, a check for correct partnering display in the create spec, and re-naming a few scenarios in specs for better clarity.

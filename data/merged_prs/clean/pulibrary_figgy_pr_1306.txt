@@ -1,0 +1,2 @@
+Extract bibid from directory name during bulk ingest
+Closes #1305

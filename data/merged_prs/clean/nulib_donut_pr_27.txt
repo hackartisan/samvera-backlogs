@@ -1,0 +1,2 @@
+Show Hyrax basic metadata on Image show page
+Fixes nulib/next-generation-repository#213

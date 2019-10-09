@@ -1,0 +1,2 @@
+Update FAQ page
+Fixes #780 Updates to FAQ page. Changes  Fix broken link to subject librarians page Fix styling on status emblems Update language about proxies and functionality

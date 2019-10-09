@@ -1,0 +1,2 @@
+Quiet tests
+Silences the vast majority of logging, deprecation warnings, etc. output during test suite execution.  There are still a few HoneyBadger warnings about ActionDispatch::TestProcess, but everything else is silent.

@@ -1,0 +1,2 @@
+Restart sidekiq with systemctl in production
+We need to ensure that sidekiq is always running in production. That means we need to make it a managed system service, so it will start running again if the system reboots or something unexpected like a crash happens. See  for more details

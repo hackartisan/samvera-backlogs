@@ -1,0 +1,2 @@
+Change Sort Dropdown Order
+On DLTP-1396, per request from Don, "newest and oldest date created" sort options were moved to be after "relevance" sort option

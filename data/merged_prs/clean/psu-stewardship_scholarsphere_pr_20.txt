@@ -1,0 +1,2 @@
+added object type facet #9198
+If someone could close the store when this merges, I'd appreciate it (I don't have access).

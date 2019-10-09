@@ -1,0 +1,2 @@
+Hot fix for INC0247116
+It appears that there is a dataset that has a nil description. This fix addresses the problem. It does not dive to the route cause.

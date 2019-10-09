@@ -1,0 +1,2 @@
+Batch edit of description field fails locally under Ruby 2.6.3
+This seems to be very specific, which makes me think it's only me, but when running batch_edit_spec.rb the test hangs when updating the description field. The test passes on Travis. We'll need to investigate more, so the ticket is here for future reference, but we can proceed with the Ruby upgrade.

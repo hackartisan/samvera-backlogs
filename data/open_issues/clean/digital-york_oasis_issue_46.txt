@@ -1,0 +1,2 @@
+Upload form: Provide description text next to "Additional fields" button
+Please provide the following description text new to the "Additional fields" button:

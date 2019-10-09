@@ -1,0 +1,2 @@
+Allow boxed folders to move between boxes.
+Closes #1936.

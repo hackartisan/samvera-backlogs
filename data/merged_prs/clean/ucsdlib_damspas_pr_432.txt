@@ -1,0 +1,2 @@
+Add Access note to browse by collection page for metadata-only collection 
+Fixes #409  ; refs #409 Display the access note for metadata-only view collections. /developers - please review

@@ -1,0 +1,3 @@
+Social Media Buttons
+Rick Stoddart recommended that we add some social media buttons for sharing items.
+We should look at adding these again.  Fast and easy buttons at   just need to figure out which services. 

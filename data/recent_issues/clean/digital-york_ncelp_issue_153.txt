@@ -1,0 +1,2 @@
+Unable to feature work
+Presumably related to #131. For most works the Feature option works fine, but for some I can't manage to do it. I've tried in Safari and Chrome. Both the feature and unfeature buttons appear at the same time and clicking them doesn't result in featuring / unfeaturing:

@@ -1,0 +1,1 @@
+Fixed sort by date created indexing issues.(DHH-734)

@@ -1,0 +1,2 @@
+refresh resource details page after saving survey form to avoid unwa…
+avoid unwanted popup survey form if already filled one while downloading other file associated with the same resource.

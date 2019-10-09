@@ -1,0 +1,2 @@
+Override how Hyrax creates system users and create default configuration
+Fixes an issue where Hyrax will raise an exception attempting to create a system user in a password-less configuration.

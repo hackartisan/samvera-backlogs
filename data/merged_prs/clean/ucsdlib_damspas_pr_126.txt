@@ -1,0 +1,2 @@
+Escaping fulltext before sending to solr (DHH-724)
+Fixes  Also fixing deprecations in controller tests

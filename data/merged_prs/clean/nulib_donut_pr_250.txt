@@ -1,0 +1,2 @@
+Add smart, configurable retry to Ldp and RSolr
+Monkeypatches Ldp::Client and RSolr::Client to wrap their web service calls in Retryable blocks

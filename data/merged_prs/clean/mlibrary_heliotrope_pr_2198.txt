@@ -1,0 +1,2 @@
+add download button that displays for platform admins only
+Resolves HELIO-2447 Styles download button and makes a couple minor tweaks to the display of cc licenses and pub year in monograph metadata.

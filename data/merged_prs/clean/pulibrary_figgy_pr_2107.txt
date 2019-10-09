@@ -1,0 +1,2 @@
+Add playlists controller
+refs #2092

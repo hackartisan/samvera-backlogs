@@ -1,0 +1,3 @@
+CheckFixityJob should not throw an error if a file is not found
+If a file isn't found, it means it was probably deleted before the Fixity job could be run. Backtrace line 27 of [PROJECT_ROOT]/app/storage_adapters/instrumented_storage_adapter.rb: block in find_by line 48 of [PROJECT_ROOT]/app/storage_adapters/instrumented_storage_adapter.rb: block in trace line 43 of [PROJECT_ROOT]/app/storage_adapters/instrumented_storage_adapter.rb: trace  View full backtrace and more info at honeybadger.io
+Happens also for CreateDerivativesJob

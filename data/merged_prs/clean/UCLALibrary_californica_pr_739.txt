@@ -1,0 +1,2 @@
+Import columns in csv's
+Connected to CAL-775 Connected to CAL-776 Connected to CAL-777  Import the "AltTitle.descriptive" column in CSVs to alternative_title Import the "Description.illustrations" column in CSVs to illustrations_note Import the "Description.binding" column in CSVs to binding_note    modified:   app/assets/markdown/importer_guide.md modified:   app/importers/californica_mapper.rb modified:   app/uploaders/csv_manifest_validator.rb modified:   spec/importers/californica_mapper_spec.rb

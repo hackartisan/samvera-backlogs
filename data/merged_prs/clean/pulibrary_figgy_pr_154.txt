@@ -1,0 +1,2 @@
+Token authentication for scripted access
+Fixes #69

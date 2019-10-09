@@ -1,0 +1,2 @@
+CSS Compound Object
+Refined to include active as well.

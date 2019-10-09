@@ -1,0 +1,2 @@
+Remove unused user guides, ref #794, #795
+Only one of these was accessed, just once, in August of 2014.

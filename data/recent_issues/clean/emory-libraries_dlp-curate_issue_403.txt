@@ -1,0 +1,2 @@
+Automate generation of Curate Collections and Admin Set
+Script the generation of the Default Admin Set and 3 migration collection entities   Generate Default Admin Set  Generate collections using Curate's "Library Collection" type  Generate Langmuir collection and settings - link to metadata spreadsheet  Generate Yellowbacks collection and settings - link to metadata spreadsheet  Generate Yearbooks collection and settings - link to metadata spreadsheet

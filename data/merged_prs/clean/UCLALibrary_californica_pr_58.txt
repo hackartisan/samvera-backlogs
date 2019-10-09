@@ -1,0 +1,2 @@
+Add extent to importer
+Inform parser about extent Add extent to MODS mapper Add extent to mapper fields in test Connected to #48

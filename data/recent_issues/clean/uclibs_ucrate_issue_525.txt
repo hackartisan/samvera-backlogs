@@ -1,0 +1,2 @@
+User profile page displays ucdepartment instead of department
+Descriptive summary The user profile page lists the user's department, but it currently displays the user's college + department instead of just department. In the example below we want to display just "Software Development" (user.department) instead of "UCL Software Development" (user.ucdepartment)

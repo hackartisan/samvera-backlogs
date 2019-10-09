@@ -1,0 +1,2 @@
+Update file checksum in FgdcUpdateService
+Closes #1887

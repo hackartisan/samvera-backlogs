@@ -1,0 +1,2 @@
+Move conference fields to Default model and metadata.
+Fixes #1096 Still need to update the MAP, including the Metadata Ordering tab

@@ -1,0 +1,2 @@
+Removed dead code that we no longer need
+We are submitting directly from the form now, instead of from the show page.

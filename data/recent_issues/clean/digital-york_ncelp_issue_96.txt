@@ -1,0 +1,1 @@
+Make resources public by default

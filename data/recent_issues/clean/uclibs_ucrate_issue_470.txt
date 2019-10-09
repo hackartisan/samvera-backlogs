@@ -1,0 +1,2 @@
+Remove the Rights field from work forms
+Descriptive summary We are going to deploy Scholar 4.0 without using the new Rights field.  We may enable down the road and maybe for just specific work types. We just want to remove it from the work form.  It can be left on the work show pages for now since those pages won't show it when there's no data in that field.  So we may only have to remove rights_statement from each of the work types in app/forms/hyrax/

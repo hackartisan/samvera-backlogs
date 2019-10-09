@@ -1,0 +1,2 @@
+update hyrax-migrator
+update gem to bring bag service intelligence update

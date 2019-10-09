@@ -1,0 +1,1 @@
+Email links from Cron need RAILS_RELATIVE_URL_ROOT

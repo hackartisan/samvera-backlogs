@@ -1,0 +1,2 @@
+Management Select Resources Catalog
+The Select Resources catalog from the Manage menu is supposed to be limited to works. But sometimes, it looses facets and collections and file sets appear. Is this good or bad? Should we be able to select them in this menu?

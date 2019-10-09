@@ -1,0 +1,2 @@
+Toolbar displays when not logged in on small screens
+If a user is signed in, then they get the collapsable toolbar. Otherwise don't render the toolbar. Fixes #484

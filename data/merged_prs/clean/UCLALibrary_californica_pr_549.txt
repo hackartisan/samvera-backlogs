@@ -1,0 +1,2 @@
+Change label for based_near from 'Location' to 'Based Near'
+Connected to #439

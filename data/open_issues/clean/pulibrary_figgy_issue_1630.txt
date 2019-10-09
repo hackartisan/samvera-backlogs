@@ -1,0 +1,4 @@
+Ingest "PUL Chronicle" (pudl0138)
+Notes: (migrate and keep dark)   Are these to be marked private or do we need some sort of embargo system?
+These are two series, containing about 200 issues.  These could be bulk-ingested into Figgy.
+Probably best to migrate each volume as a MVW, with the part number in a part note, and each issue as a child volume.

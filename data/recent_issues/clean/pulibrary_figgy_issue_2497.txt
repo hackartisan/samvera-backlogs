@@ -1,0 +1,2 @@
+[Figgy/staging] NoMethodError: undefined method `id' for nil:NilClass
+Backtrace line 427 of [PROJECT_ROOT]/app/services/manifest_builder.rb: download_url line 434 of [PROJECT_ROOT]/app/services/manifest_builder.rb: display_content line 8 of [PROJECT_ROOT]/app/services/manifest_builder/record_property_builder_v3.rb: apply  View full backtrace and more info at honeybadger.io

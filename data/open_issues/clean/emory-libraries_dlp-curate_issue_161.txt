@@ -1,0 +1,7 @@
+FileSets support reordering in creation form
+Research drag-and-drop options for reordering.  Provide a dropdown (or drag-and-drop) for each fileset that allows the user to select an order  If using a dropdown, ensure an order cannot be selected more than once.  Create/update a system test to reorder filesets.
+Relates to #119 and #127 - these epics aren't showing up as assignable.
+De-scoping this from 0.3 as of 6/5 because it is overcomplicating the file upload process.
+ we de-scoped this issue but it is the one remaining issue for the epic to "Create compound/multi-part objects through deposit form". How do want to handle the epic?
+ I removed the assignment of this issue from epic #127. 
+ I removed this issue from epic #119 

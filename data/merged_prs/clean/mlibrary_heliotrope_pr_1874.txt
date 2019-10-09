@@ -1,0 +1,1 @@
+HELIO-1922 Double quotes in chapter titles break chapter download

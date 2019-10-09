@@ -1,0 +1,2 @@
+Store batch_id as administrative metadata
+The batch_id that was used when an object (work, fileset, or file) was imported should be stored as administrative metadata. Enhancement to #597

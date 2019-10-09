@@ -1,0 +1,2 @@
+Facet for structure?
+Mentioned as a possibility by  — should we have a facet for whether an item has structure or not?  This would allow users to complete items and make them public, but still keep track of which items needed structural metadata to be added.  Right now, some items are kept in pending or metadata_review states to track which items still need structure.

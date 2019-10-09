@@ -1,0 +1,2 @@
+comment out citation links for now
+The original defaults don't work well, and we haven't yet had time to make better.

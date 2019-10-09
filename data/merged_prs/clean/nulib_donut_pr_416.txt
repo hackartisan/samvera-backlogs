@@ -1,0 +1,2 @@
+Allow unit_viewers to create single_use_links
+Fixes nulib/next-generation-repository#847  Overrides Hyrax's app/controllers/hyrax/single_use_links_controller.rb and app/views/hyrax/file_sets/show.html.erb to allow "unit_viewers" to create single_use_links

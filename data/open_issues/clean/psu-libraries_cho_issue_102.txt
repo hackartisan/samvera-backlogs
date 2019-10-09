@@ -1,0 +1,7 @@
+Hidden/Local Metadata Fields
+As a metadata manager, I need to be able to have local fields that aren't mapped to any other schema, so local-only information needs can be met without making the metadata difficult to aggregate. Linda B Collection landing page note: Only display public core fields with collection descriptive metadata
+These metadata fields would be permissions based - would appear to admins but not public.
+These fields should also be excluded from any OAI-PMH/ResouceSync based harvesting.
+Property of a field in the data dictionary. Boolean value indicating that it is hidden or not. Anyone who can edit the resource can see the field in display. Users who cannot view the field should be not able to search on it.
+Dependent on #350
+Related to #447. Local fields should only be viewed by system users, those who can created and edit in the application. Public users or other types of users would not see these fields.

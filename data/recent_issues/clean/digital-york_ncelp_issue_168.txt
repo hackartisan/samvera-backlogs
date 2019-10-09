@@ -1,0 +1,2 @@
+Unexpected symbols in file name
+The file name for the following resource shows unexpected symbols  The original text is: L'éléphant géant Maybe the apostrophe and diacritics are the culprits?

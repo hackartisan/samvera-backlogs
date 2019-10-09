@@ -1,0 +1,1 @@
+Display title for Folders in JSON-LD.

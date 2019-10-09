@@ -1,0 +1,2 @@
+Pin sqlite to ~> 1.3.13
+Rails 5.2.2 is incompatible with sqlite 1.4 Refs rails/rails#35153

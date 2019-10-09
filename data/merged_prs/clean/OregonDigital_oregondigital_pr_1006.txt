@@ -1,0 +1,2 @@
+disable od_content
+fixes #836

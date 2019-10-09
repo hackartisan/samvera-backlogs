@@ -1,0 +1,1 @@
+HELIO-1956 add 15 to per page dropdown for the press_catalog

@@ -1,0 +1,2 @@
+make the processor continue even if a job fails instead of halting
+Added some rescues to make the cron job try all items in the queue

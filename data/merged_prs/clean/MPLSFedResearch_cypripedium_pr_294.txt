@@ -1,0 +1,2 @@
+Fixed a problem where some types of markdown (such as blockquote) weren't being rendered properly.
+Connected to #257   Instead of using Rails sanitize method, use redcarpet's escape_html   Added html escape to the description and related_url fields for Work records.

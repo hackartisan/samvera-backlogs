@@ -1,0 +1,2 @@
+Adds file structure text to new work screen.
+Boom.

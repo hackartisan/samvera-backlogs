@@ -1,0 +1,1 @@
+Refactor showcase template logic to a helper

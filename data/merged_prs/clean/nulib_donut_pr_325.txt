@@ -1,0 +1,2 @@
+index location
+index latitude and longitude so we can use for geolocation.

@@ -1,0 +1,2 @@
+Edit Items in Mediated Approval Queue
+As a metadata specialist, I would like to edit items in the approval queue, So that I can fix them before approving them without having to reject it and kicking it back to the submitter. Dependent: #94 Related: #96

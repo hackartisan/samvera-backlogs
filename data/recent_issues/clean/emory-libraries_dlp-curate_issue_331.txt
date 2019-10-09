@@ -1,0 +1,2 @@
+Delete a FileSet from a work (but at least one FileSet needs to exist)
+To test:   Create a work with more than one fileset; select one of the FileSets and use one of Hyrax's standard "Delete" options to remove it  Try to remove the remaining FileSet and see what occurs

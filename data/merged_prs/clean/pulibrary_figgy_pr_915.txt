@@ -1,0 +1,2 @@
+Store vector and raster derivatives using geo_derivatives storage adapter
+Closes #905

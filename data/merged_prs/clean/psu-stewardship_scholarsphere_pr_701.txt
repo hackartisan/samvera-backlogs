@@ -1,0 +1,1 @@
+Description and keyword are required for collections, ref #674

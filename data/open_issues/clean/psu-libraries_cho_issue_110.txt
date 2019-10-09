@@ -1,0 +1,3 @@
+Geographic Range/Area Search
+As a graduate student/faculty, I need to search a range of geographic extent from a location (e.g. buffer radius from a given location), so that I can browse available results for incorporation into research.  Tara L.
+Select an area on a map or a geographic location and radius, get results

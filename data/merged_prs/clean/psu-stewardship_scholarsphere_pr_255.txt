@@ -1,0 +1,2 @@
+Change the stats to only be sent out weekly. refs #184
+Additionally set qa lists to be a group instead of just my id, so that after we have seen the change work we can remove ourselves without updating the code. I added Adam to the group.

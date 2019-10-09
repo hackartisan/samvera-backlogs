@@ -1,0 +1,2 @@
+Disable collection export
+Fixes #581 Removes the Collection Export from the sidebar in dashboard, and the button in the my collections in dashboard

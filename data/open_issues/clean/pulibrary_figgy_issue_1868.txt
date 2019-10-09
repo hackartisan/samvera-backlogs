@@ -1,0 +1,3 @@
+Updating an EphemeraBox is slow (30+s)
+
+I edited an EphemeraBox on Figgy staging, and saving was < 2 sec.

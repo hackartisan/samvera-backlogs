@@ -1,0 +1,2 @@
+Overrides predicate defined in Hyrax for license
+Fixes nulib/next-generation-repository#627  changes license predicate from   to  per spreadsheet: 

@@ -1,0 +1,2 @@
+Resolves #1311: Add Import And Heliotrope Actors To Stack
+Request to pull onto hyrax2.rc1

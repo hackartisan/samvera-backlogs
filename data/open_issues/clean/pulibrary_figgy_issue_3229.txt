@@ -1,0 +1,2 @@
+Document archival video ingest
+Include a link to bag structure document (“Request for quote document” I think this is the same as the "best practices" doc referred to in #3224) in documentation area. Try to clarify which bag requirements are super strict and where there might be wiggle room. Noted that one more difference between ingesting as an archival media collection vs just a recording is that the former, once complete, gets preserved. Use link built in #3224

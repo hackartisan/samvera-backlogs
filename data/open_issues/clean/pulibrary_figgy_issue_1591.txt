@@ -1,0 +1,8 @@
+Ingest "Berthier" (pudl0042)
+May become ScannedMaps? Ping  These look like maps?
+No PUDL collection page.
+
+Ingest as ScannedMaps
+This is a case where the majority of the images are text with some, admittedly nice, maps interspersed. I'm not really sure what to do in these cases. Ingest as a ScannedResource and just forgo ingesting the maps into GeoBlacklight? Ingest as ScannedMaps and have many non-image records in Pulmap? Some kind of mixed approach?
+A mixed approach seems like it is worth exploring.  Maybe we could ingest the whole collection as ScannedResources, and then ingest a subset as ScannedMaps?  Who would select the maps to ingest?
+`pudl0042` on the isilon PUDL directory is empty now? Also: 

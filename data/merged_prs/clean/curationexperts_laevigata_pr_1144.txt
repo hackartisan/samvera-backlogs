@@ -1,0 +1,2 @@
+Make User spec more tolerant of existing users
+This test was tightly bound to prior state (number of users). Since we're using transactional database cleanup, this makes it fragile in the case that any other tests fail to properly clean up created users. The fix checks the intended behavior more narrowly: does logging in twice with omniauth create only one user, finding that user for the second login?

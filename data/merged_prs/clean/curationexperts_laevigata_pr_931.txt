@@ -1,0 +1,2 @@
+Update `loofah` and `sanitize` dependencies
+These updates address CVE-2018-8048 and CVE-2018-3740.

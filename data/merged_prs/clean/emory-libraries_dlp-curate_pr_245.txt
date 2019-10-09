@@ -1,0 +1,2 @@
+Adds corejs version for babeljs
+This fixes a warning the test suite was emitting.

@@ -1,0 +1,2 @@
+Add formatting for fixity success valule
+fixes #901

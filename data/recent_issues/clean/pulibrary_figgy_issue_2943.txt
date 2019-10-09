@@ -1,0 +1,2 @@
+Remove the dependency for chromedriver-helper
+Support has ended for this Gem (please see 

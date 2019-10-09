@@ -1,0 +1,2 @@
+DLTP-191 Changing after filter to before filter 
+make service agreement routes as not stored location This change is part of  redirect users to correct place updating user profile. It was always redirect to home page after updating before this change

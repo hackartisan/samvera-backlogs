@@ -1,0 +1,2 @@
+Add representative media fields to dataset worktype
+Items in the dataset worktype do not have any of the representative media fields (see below). This would be useful, for example to set the readme file as the default download.

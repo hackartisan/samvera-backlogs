@@ -1,0 +1,2 @@
+Update title to display subscripts and superscripts
+Fixes #348  ; refs #348 /developers - please review

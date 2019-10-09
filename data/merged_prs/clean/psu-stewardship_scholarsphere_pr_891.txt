@@ -1,0 +1,2 @@
+Handle the fact that figaro converts everything to a string 
+Make the code work if we get a string or a boolean value from the configuration

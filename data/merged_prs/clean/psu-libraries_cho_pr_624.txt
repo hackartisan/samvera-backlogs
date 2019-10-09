@@ -1,0 +1,2 @@
+Update Valkyrie and enable optimistic locking
+Description Updates Valkyrie to 1.2.0.rc1 and enables optimistic locking on Work::Submission resources. Changes Are there any major changes in this PR that will change the release process? Postgres migration is required to add the new columns for the optimistic lock token. Checklist   i18n enabled  adequate test coverage  accessible interface

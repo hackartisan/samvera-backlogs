@@ -1,0 +1,2 @@
+Filter facets to remove initial articles and to upcase alpha characters
+(moved from uclibs/scholar_uc_legacy#572) This is to fix some sorting problems. This should be done in the index only (probably via solr schema); original metadata should be intact. Partially replaces uclibs/scholar_uc_legacy#561

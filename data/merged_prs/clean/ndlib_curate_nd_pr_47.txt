@@ -1,0 +1,2 @@
+Vm deploy
+The changes needed to deploy to the staging VM. It is probably good to put these into master sooner than later, since they are needed to get to Andy's testing VM. There are probably conflicts in the user model, among other things. I had to change it so I could get it to run on the staging machine. After you merge, can you keep this branch open, so I may use it for the pre-production deploy.

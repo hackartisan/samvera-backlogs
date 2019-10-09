@@ -1,0 +1,2 @@
+Add redirects for old manifest URLs
+Closes #686

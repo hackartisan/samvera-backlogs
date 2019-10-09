@@ -1,0 +1,2 @@
+Ensures that failures to extract the thumbnail ID from the imported Plum Solr Document are logged and handled
+Resolves #804

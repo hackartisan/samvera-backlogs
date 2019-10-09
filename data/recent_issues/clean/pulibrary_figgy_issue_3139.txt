@@ -1,0 +1,2 @@
+Users should be able to generate derivatives for resources with FileSet members
+Currently the File Management interface only provides users with ability to generate derivatives  for individual FileSets.  Being able to enqueue jobs for all members of a parent resource would be beneficial.

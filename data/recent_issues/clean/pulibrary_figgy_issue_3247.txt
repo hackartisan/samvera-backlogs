@@ -1,0 +1,2 @@
+Hidden files still ingesting
+See  This happened when ingesting from Browse Everything.

@@ -1,0 +1,2 @@
+Guard against bags that don't exist
+Description Raise an error when attempting to validate a bag that doesn't exist, otherwise, the default behavior of the BagIt gem is to create an empty bag using that path. Connects #549

@@ -1,0 +1,3 @@
+Bad tiff
+[Figgy/production] PDFGenerator::Error: PDFGenerator::Error Backtrace line 38 of [PROJECT_ROOT]/app/services/pdf_generator.rb: rescue in render line 15 of [PROJECT_ROOT]/app/services/pdf_generator.rb: render line 70 of [PROJECT_ROOT]/app/resources/scanned_resources/scanned_resources_controller.rb: pdf  View full backtrace and more info at honeybadger.io
+ I think this is a bad file. If you look at the file set page you will see the error:   When I download my system will not open it. Could you take a look?

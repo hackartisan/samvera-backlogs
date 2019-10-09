@@ -1,0 +1,2 @@
+Fix/share with notification, user email validations/handling/notification
+Prepares plumbing for user notifications, established user email related validations. fixes #316 fixes #244

@@ -1,0 +1,2 @@
+dont allow duplicate accession numbers through batch
+checks solr for existing Image with accession_number and skips record in batch if exists.  partially addresses #nulib/next-generation-repository#438 Still need to implement unique accession number through the UI so this check will likely move out of batch_item.rb to somewhere it can be reused. However, this check will substantially change the user exerience when running/rerunning batches so wanted it to be in place while we are testing because it will likely bring to light some other issues we need to address.

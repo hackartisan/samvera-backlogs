@@ -1,0 +1,2 @@
+OAI DPLA Feed: Add masterFileName
+Add dc:identifier masterFileName to dpla feed

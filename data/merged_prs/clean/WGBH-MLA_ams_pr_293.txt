@@ -1,0 +1,2 @@
+Check for errors
+#292 Adds method (check_for_errors) for each AMS model to surface validation errors and raise an exception.

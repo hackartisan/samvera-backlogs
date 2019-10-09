@@ -1,0 +1,2 @@
+Allows user to set thumbnail for MVW
+fixes #783

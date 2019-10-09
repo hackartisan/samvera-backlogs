@@ -1,0 +1,2 @@
+Save and Ingest isn't working for Music Items
+It recognizes where they are, but then doesn't queue up a job to ingest them.

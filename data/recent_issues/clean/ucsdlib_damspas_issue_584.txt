@@ -1,0 +1,2 @@
+Edit SIO Photographs CLR witout re-indexing all linked objects
+Descriptive summary For CLR  (SIO Photographs Collection) Add corporate subject <dams:corporateName rdf:resource=""/> (University of California (1868-1952). Division of War Research) without re-indexing all linked objects in SIO Photographs Collection or its parent collections

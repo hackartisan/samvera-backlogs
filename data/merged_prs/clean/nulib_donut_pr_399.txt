@@ -1,0 +1,2 @@
+Customize metadata array in public manifest
+Fixes nulib/next-generation-repository#183  customize metadata array for public manifest

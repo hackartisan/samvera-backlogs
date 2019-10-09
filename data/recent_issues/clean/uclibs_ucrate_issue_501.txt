@@ -1,0 +1,2 @@
+Develop strategy for making production unavailable during upgrade
+Descriptive summary We need to determine how we will prevent users from logging into scholar.uc.edu and making content changes while we are deploying 4.0 and performing our migration tasks. Somehow, users should see a message when they go to scholar.uc.edu letting them know what is happening.

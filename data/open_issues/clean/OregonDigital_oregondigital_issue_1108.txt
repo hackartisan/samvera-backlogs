@@ -1,0 +1,2 @@
+Two-page PDF won't return to page 1 from page 2.
+For example:  From the second page of a two-page PDF, one can't return to page one with the next and previous buttons.

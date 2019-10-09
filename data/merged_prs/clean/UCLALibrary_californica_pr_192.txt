@@ -1,0 +1,2 @@
+Remove MODS import tool
+We had a false start working on a MODS import tool. The relevant code is now dead. The rake task that used it was removed in 0648bd0. Closes #136.

@@ -1,0 +1,2 @@
+Adds support for RabbitMQ messaging 
+Resolves #104 by adding support for RabbitMQ messaging for the creation, updates, and deletion of Figgy resources In addition to the improvements identified by  , the following must be addressed:   Rebase using the latest commits on master  Refactor the messaging methods in PlumChangeSetPersister as registered handlers  Increase the coverage and quality of the test suites  Implement handlers for after_save_commit and after_delete_commit

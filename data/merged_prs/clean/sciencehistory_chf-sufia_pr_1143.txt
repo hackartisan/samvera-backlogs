@@ -1,0 +1,2 @@
+WIP Dont show the GDPR cookie banner to the tests
+Set Rails.application.config.hide_accept_cookies_banner in the test config file, then check it in the template. I also removed three references to the banner from the tests. Fixes #1139 .

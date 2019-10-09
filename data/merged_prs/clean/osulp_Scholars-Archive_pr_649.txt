@@ -1,0 +1,2 @@
+Edit sa_gtd_workflow.json
+edited workflow step names to make them more readable in the UI

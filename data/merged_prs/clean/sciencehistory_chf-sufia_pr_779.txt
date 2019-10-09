@@ -1,0 +1,2 @@
+allow setting of Rails log_level from ENV
+Useful for debugging sometimes

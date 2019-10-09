@@ -1,0 +1,1 @@
+Resolves #207: Handle Missing Press

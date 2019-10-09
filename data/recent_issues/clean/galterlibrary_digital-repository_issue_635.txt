@@ -1,0 +1,2 @@
+Generate monthly exports of DigitalHub metadata
+Run a report at the beginning of each month that includes all descriptive metadata for the prior month's new deposits (formatted according to previous export requests). For example, on 12/1/2018, export metadata for all items deposited from 11/1/2018-11/30/2018. File of exports can be emailed, or loaded into Box (

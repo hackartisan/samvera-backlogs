@@ -1,0 +1,2 @@
+Resource specific download bug
+While downloading this resource:  Gives an error:

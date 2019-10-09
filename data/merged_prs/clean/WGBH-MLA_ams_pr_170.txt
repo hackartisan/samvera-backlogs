@@ -1,0 +1,1 @@
+AMS2-487 fixes pbcore export

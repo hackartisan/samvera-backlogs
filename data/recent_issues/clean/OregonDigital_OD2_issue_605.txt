@@ -1,0 +1,2 @@
+Work Show Page: Remove model name in <h1>, change to work title
+Descriptive summary The model name of the work does not need to be in an <h1>, and the work title should be there instead. The model name does not need to show, the descriptive metadata should be sufficient. If we want to add it back in a smaller place later we can. Wireframe mockup:  (Information compiled by POSM group from updated wireframes) Expected behavior Work title is in the <h1>, not the model name. Accessibility Concerns <h1> being the work title is more relevant than the model name.

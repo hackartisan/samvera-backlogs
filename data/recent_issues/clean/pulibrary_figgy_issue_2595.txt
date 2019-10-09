@@ -1,0 +1,2 @@
+Refuse to update PULFA ARKs, but don't error
+We currently raise an exception when refusing to update PULFA ARKs:  But we should notify the user that the ARK won't be updated, but still allow saving and other actions to work.

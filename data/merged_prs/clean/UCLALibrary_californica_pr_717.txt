@@ -1,0 +1,2 @@
+Cache IIIF manifests to the Manifest Store Service
+If IIIF_MANIFEST_URL is set, submits the manifest to the service at that location in addition to saving it locally.

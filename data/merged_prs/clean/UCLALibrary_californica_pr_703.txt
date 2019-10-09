@@ -1,0 +1,2 @@
+Use new IIIF service for manifests and thumbnails
+Creates a helper function which generates IIIF links from access_copy, determining whether they should point to the old Cantaloupe or the new IIIF server. Uses this helper function in generating manifests. Uses the helper function for thumbnails.

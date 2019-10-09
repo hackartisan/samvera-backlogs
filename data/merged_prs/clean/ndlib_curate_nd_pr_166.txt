@@ -1,0 +1,2 @@
+Lower the beta ribbon below the modal overlay
+Fixes DLTP-304

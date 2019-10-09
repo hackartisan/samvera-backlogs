@@ -1,0 +1,2 @@
+Passenger performance tuning
+We recently experienced Passenger's queues getting backlogged.  This was resolved by killing the processes shown in passenger-status, but there could be opportunities to better optimize performance. Recommend starting from this guide:  

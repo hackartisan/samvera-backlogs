@@ -1,0 +1,2 @@
+Add part_of facet
+fixes #2427

@@ -1,0 +1,1 @@
+DIGREPO-865: don't render breadcrumbs for objects without a collection

@@ -1,0 +1,2 @@
+Rewrite code to shorten description/abstract
+PR #62 leaves something to be desired as a solution for #36 (presenting a truncated description) -- overriding app/helpers/hyrax_helper_behavior.rb is probably not a good idea in the long run; we should figure out a better way to accomplish this.

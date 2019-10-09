@@ -1,0 +1,2 @@
+Dltp 787 finding aid updates lead to 500
+Claiming issue DLTP-787 @a87a4d2384daa07fc6edad34b170293f860e6f68 $ ./script/start-issue DLTP-787 [skip ci] Redirect finding aids to show page @799dfacaacd0dfb08faa29f20cf67291f084b165 After edit or add, use the show page route rather than the curation concerns page (which didn't work for finding aids). Change expected path in specs @419f73d812e45411a2d740a6b88630a87525e07e Closing issue DLTP-787 @f4162fd8c44e342ae98cca5a9c01e6eb661af260 $ ./script/close-issue DLTP-787

@@ -1,0 +1,2 @@
+Adds creator label to OAI feed
+This changes the value in the creator OAI feed from the URI to the label.

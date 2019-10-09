@@ -1,0 +1,2 @@
+Front End Analysis
+Find out where the system is slow on the front end. Do an audit on the front end.  Are the thumbnails too big?  Utilize an existing tool to create a report.  Possibly use google developers tools or something from a search of tools. Does new relic give us this information?

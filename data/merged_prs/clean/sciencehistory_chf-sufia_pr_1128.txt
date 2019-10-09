@@ -1,0 +1,2 @@
+Tweaks to the "Recent Items" feature.
+Recent Items has been live for a couple weeks now.  To make the selection more interesting, we're increasing the size of the bag from which recent items candidates are picked at random. Was 15; is now 50. Any other suggestions for adjustments or fixes welcome.

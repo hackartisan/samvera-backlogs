@@ -1,0 +1,2 @@
+Re-generate Terms of Use Content Block
+Reload the Terms of Use Content Block from the file in version control. Run it like this: RAILS_ENV=production bundle exec rake emory:terms_of_service  See  Connected to #1760

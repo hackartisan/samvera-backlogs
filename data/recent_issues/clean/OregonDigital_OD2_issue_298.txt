@@ -1,0 +1,2 @@
+BrowseEverything fails unexpectedly for S3
+Descriptive summary S3 bucket has an image file in it, and the UI shows and allows to pick the image, but when it is tried to be imported by a background job it fails. Testing the S3 URL directly successfully fetched the image from S3.. so I'm not sure why "Error: Expired URL" is happening. Are these urls only single use? See ticket #297 for the error that was attempting to be emailed (but email failed to send too).

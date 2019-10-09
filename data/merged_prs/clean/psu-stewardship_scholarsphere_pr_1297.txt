@@ -1,0 +1,2 @@
+Redirect user to First Page when Changing Per Page Widget on My Works, Collections, etc.
+We added page symbol to hidden field exception, so that a user is redirected to the first page when changing the number of items per page. Added feature test to check that the hidden filed for page is no longer present when changing the number of items per page.

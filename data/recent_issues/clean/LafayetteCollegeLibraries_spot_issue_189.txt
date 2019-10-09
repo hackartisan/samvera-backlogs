@@ -1,0 +1,2 @@
+use Darlingtonia::LogStream?
+looks like darlingtonia provides functionality similar to our Spot::StreamLogger ( there are some differences (i like that it writes to a separate file; i'm not crazy about the file names it picks), so perhaps we just need to cherry-pick?

@@ -1,0 +1,2 @@
+Ensure Splunk is logging imports on all Tenejo environments
+ISSUE I just ran an import on  at approximately 2:50pm Central on 2/18/2019 and I don't see anything like a CSV import log. We'll need this logging configured correctly before we can run reliable ingest baselines. ACCEPTANCE   Logs have consistent names and locations in each environment  CSV Imports on tenejo-stage are visible in Splunk  CSV Imports on tenejo-dev are visible in splunk  CSV Imports on tenejo-prod () are visible in splunk

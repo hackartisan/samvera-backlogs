@@ -1,0 +1,2 @@
+Use mediaelement.js to play videos and select source
+Adds a select element that chooses the source for the video playback and downloads the selected source.

@@ -1,0 +1,1 @@
+Fixing the typeOfResource display problem. DCMKEY-397

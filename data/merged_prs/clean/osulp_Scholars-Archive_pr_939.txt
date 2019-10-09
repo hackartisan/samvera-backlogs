@@ -1,0 +1,2 @@
+return nil after sending error message to logs
+fixes #938 It turns out that we were sending the error to the logs, but we were not returning nil, which is the expected behavior when retrieving labels and the graph is not available (see  I found that sending the error to rails logger returned true by default, which ended up causing the query to fail on ScholarsArchive::TriplePoweredService.predicate_labels(graph) (see 

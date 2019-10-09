@@ -1,0 +1,2 @@
+Tweaks the flash message after uploading files when creating or …
+editing works. Makes the message a little more succinct, but perhaps this is a symptom of a larger UX issue.

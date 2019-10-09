@@ -1,0 +1,2 @@
+Patch to avoid timeouts when reindexing
+As suggested in  .  Fixes #173 .

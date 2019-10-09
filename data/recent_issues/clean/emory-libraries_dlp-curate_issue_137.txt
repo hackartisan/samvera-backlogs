@@ -1,0 +1,2 @@
+Configure non-local controlled vocabs
+Using the metadata spreadsheet Emily gave us, the form should use  non-local controlled vocabs for the properties that are have them in Curate.   Add the vocabs to the Questioning Authority configuration.  Set up any necessary services for the vocabs  Enable the vocabs for the appropriate properties in the form.  Add or update some of these properties to the form's system test.

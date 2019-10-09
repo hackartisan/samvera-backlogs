@@ -1,0 +1,2 @@
+New dropdown label for 'Creator' field
+Label: "School of" - alphabetical order like existing labels, so after "Publisher." Here is the Getty Thesaurus entry:  Please let me know if you need anything else from me!

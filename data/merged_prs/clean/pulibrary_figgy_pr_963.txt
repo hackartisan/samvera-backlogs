@@ -1,0 +1,2 @@
+Adds thumbnails to manifest children of a MVW
+fixes #952

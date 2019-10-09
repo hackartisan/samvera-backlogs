@@ -1,0 +1,2 @@
+updates hyrax-migrator engine
+updates hyrax-migrator to address a bug introduced using ActiveJob

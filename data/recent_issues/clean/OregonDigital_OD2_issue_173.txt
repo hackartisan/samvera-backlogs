@@ -1,0 +1,2 @@
+[SEE #155] [1] UO Login Via Saml
+Descriptive summary We will be using the gem  which will hook into omniauth and allow for authentication through the shibboleth system. This will live next to devise and CAS as another login option. It should create a new user that doesnt exist in the system, or login a user that exists. This has changed to use Saml instead of Shib.

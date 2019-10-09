@@ -1,0 +1,2 @@
+rdf labels not fetching correctly
+not entirely sure what's happening, but it looks like there's an issue with our rdf labels for location not being fetched properly.  ☝️ this is from a shakespeare bulletin item. the rdf value is: <>   <> <>; unlike the label,  is actually burlington vermont. it looks like the cache is being used regardless of the value

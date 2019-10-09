@@ -1,0 +1,3 @@
+Ingest "WW1 Pamphlets (MC248)" (pudl0108)
+Notes: Finding aid
+2484 items in `/mnt/hydra_sources/archives/MC248` named according to collection and component ID, so we should be able to bulk ingest these.

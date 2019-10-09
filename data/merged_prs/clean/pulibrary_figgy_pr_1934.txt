@@ -1,0 +1,2 @@
+Ensuring that the test cases for the general IngestArchivalMediaBagJob functionality use only one Bag fixture
+Resolves #1927

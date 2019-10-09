@@ -1,0 +1,2 @@
+Add ENV['BRANCH'] option to deployment
+Laevigata uses BRANCH_NAME to deploy a specific branch, but BRANCH is the variable used in ansible-samvera. This will let you change the branch when deploying with ansible-samvera.

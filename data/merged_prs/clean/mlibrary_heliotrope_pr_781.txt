@@ -1,0 +1,2 @@
+Blacklight sort by ordered members
+Resolves #692

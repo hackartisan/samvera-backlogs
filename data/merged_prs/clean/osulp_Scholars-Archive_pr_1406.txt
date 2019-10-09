@@ -1,0 +1,2 @@
+Feature/fix based near search
+Fixes #1405

@@ -1,0 +1,2 @@
+ Add NumismaticLoan resource
+Closes #2926

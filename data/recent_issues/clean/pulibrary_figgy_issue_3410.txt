@@ -1,0 +1,2 @@
+Bulk PDF export of "complete" items in Russian Illustrated Periodicals collection
+These are all multi-volume works. A professor needs PDFs. Timeline is asap. #3170 should make the rake task work for multi-volume works; it needs review.

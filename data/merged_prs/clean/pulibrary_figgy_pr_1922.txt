@@ -1,0 +1,2 @@
+Raises an instance of ArgumentError within BulkIngestService#attach_each_dir and BulkIngestService#attach_dir when directory paths point towards non-existent or empty directories
+Resolves #1679

@@ -1,0 +1,11 @@
+Mapping Metadata to Schemas
+As a metadata manager, I need to be able to be able to map metadata fields to standard schemas (e.g., Qualified Dublin Core), so metadata can be aggregated into different systems and/or reused. Linda B/Nathan T
+User should be able to view/download metadata record for an object serialized to various metadata schemas.  Dublin Core -- OAI-PMH for DPLA and Summon ~~VRA~~ ~~MODS~~  9/30: MVP/1.0 scoped to just dublin core. #232 created for backlog.
+Related: #21
+On a per item basis allow the returned format to be one of the above formats.  CLick a button and download the format.  OAI-PMH feed which is xml format (used for aggregating metadata) an API that responds in Dublin core XML.  Used by Summon to have the collections in in the CAT.  This is just the metadata, not the content.
+Allow input of translation file from our metadata to the schema.  We may need to validate against the xml schema we creating.  We will be adding more formats in the future so creating the mappings via YML may be wise
+The data could be coming from multiple field in our metadata for different work types
+Dublin Core mapping is most critical. If necessary, VRA and MODS can be split into other user stories.
+ can we assume the metadata will be coming from the fields in 's base map to begin with?    We might be able to start this by assuming the data would exists in a json format from the system natively and then convert that to the other formats.  That would allow us to do some work before the system decision was made.
+ Yes, the metadata will pull from the base schema and be mapped to other schemas. 's CHO base map should identify the mappings (source/target). 
+Give me everything, one collection, dates filter Sessions and continuing sessions  1) Controller for handling requests and filters 2) Converting each object to the correct format

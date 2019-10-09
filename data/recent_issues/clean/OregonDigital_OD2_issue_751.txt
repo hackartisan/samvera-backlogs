@@ -1,0 +1,2 @@
+Unravel any S3 / AWS work I've done
+Descriptive summary I need to generate tickets to support this.  I'm not sure offhand all the work we'll need - it may be very little has to be changed since I believe all my S3 work was still unmerged. Expected behavior Tickets will be made if necessary.  Hyrax hacks will be removed where they were explicitly for AWS support.

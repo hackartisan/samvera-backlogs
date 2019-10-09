@@ -1,0 +1,2 @@
+collection count on collection show lists _public_ item count
+And both for staff users. Closes #887 and ref #848

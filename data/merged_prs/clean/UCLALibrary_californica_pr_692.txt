@@ -1,0 +1,2 @@
+On ingest, don't create new record if the title starts with "DUPLICATE"
+This change raises an AttributeError instead, with a useful message that gets stored in the CsvRowImport database and displayed on the dashboard.

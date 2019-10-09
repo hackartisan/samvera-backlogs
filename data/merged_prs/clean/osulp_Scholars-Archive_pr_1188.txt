@@ -1,0 +1,2 @@
+reworks external/search linking and consistent styling
+fixes #1170

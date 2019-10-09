@@ -1,0 +1,2 @@
+Wipe content before running locales feature spec
+spec/features/locales_spec.rb was failing on some runs of the test suite because of content that gets created before this spec runs. So I'm adding :clean_repo at the start of the test like many of our other specs have.

@@ -1,0 +1,2 @@
+Style search box and add option to select portal scope
+This includes updating ddr-models to 2.1.0 from 2.1.0.rc2

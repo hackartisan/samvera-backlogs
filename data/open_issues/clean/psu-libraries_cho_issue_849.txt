@@ -1,0 +1,2 @@
+Create batch resource
+We should consider creating a Valkyrie batch resource for recording information and events about batches. Activities, such as transactions and validations could be tracked for resumption if interrupted. Could be useful for generating activity stream messages and other logs. The batch_id currently used could be stored as batch_label on the resource, since it might not be unique.

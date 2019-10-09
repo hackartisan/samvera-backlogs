@@ -1,0 +1,2 @@
+Work Show Page: In Right column, add new "Can I Use?" section with license/rights
+Descriptive summary In the right column, add new "Can I Use?" section. Display the license icon, title, and external link. If there is no license value, fall back to the Rights Statement value with icon, title and external link. But if there's both, only show License. Wireframe mockup:  (Information compiled by POSM group from updated wireframes) Expected behavior Can I Use? section highlights license or rights information for the work.

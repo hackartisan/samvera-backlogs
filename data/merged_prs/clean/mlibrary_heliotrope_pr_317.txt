@@ -1,0 +1,2 @@
+add technical metadata for the asset show page
+Resolves #311

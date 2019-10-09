@@ -1,0 +1,2 @@
+Add create collection command to the readme
+While following the readme to setup my system, I realized that it didn't include the command to create a default collection type.

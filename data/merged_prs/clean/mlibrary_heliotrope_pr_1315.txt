@@ -1,0 +1,2 @@
+1309 move download button
+Resolves #1309

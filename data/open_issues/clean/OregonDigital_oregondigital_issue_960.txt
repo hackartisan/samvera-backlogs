@@ -1,0 +1,2 @@
+Find a way to ensure consistency between data and derivatives
+Sometimes there are inconsistencies between our data and the derivatives that are generated. Possibly coming from failed derivatives, unreviewed or deleted assets, etc. We need some sort of cleanup script that can remove these orphans... Or just get  to delete them all by hand.

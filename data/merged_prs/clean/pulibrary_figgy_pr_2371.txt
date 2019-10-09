@@ -1,0 +1,2 @@
+Ensures that the NumismaticIssue ChangeSets use DateRange objects for the date_range attribute
+Resolves #2217

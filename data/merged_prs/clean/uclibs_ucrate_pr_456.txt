@@ -1,0 +1,2 @@
+Delete the double quote if the description or note ends in double quote.
+Fixes #441 Create a method to replace '"' to '" ', if the string ends with a double quote. Use this method in the 'works_controller_behavior.rb' to make sure 'description' and 'note' fields don't end with a double quote. Create a creating work spec file with the description and note ends with a double quote.

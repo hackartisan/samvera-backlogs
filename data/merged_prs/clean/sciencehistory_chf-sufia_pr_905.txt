@@ -1,0 +1,2 @@
+Smaller front-page hero
+With changes and crazy arithmatic to try to keep whitespace and alignment looking good at all screen sizes. Ref #761

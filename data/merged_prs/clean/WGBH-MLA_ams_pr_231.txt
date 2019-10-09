@@ -1,0 +1,2 @@
+Adds turbolinks tag to head for asset#show
+This ensures that turbolinks loads the video player.

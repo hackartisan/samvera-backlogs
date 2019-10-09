@@ -1,0 +1,2 @@
+Display AMC/MediaResources in search
+Closes #1177

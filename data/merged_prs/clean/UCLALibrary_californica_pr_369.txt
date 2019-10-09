@@ -1,0 +1,2 @@
+Fix locale fallback to work with latest i18n release
+See  for details.

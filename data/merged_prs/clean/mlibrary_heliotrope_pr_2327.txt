@@ -1,0 +1,2 @@
+2404_aptrust_clean_up
+Maybe small changes and improvements, basically clean up, related to APTrust. When other folks change the schema.rb file I sometime find those changes get bundled into my commit, as below with L702-703. Any suggestions on how to better handle this?

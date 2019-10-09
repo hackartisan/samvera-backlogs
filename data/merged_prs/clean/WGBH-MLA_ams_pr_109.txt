@@ -1,0 +1,2 @@
+Changes 'episode number' field to be a title type.
+Also, runs migrations if needed in AMS.reset_data!

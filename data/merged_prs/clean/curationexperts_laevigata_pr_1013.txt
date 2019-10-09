@@ -1,0 +1,2 @@
+Check that the do_not_send.yml file exists
+Just in case the file isn't on a server where this is deployed, don't raise an exception. Log an error message if the config file is missing.

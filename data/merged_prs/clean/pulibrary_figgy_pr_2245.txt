@@ -1,0 +1,2 @@
+Removing the authorized_link attribute partial for Playlists
+This was meant to have been removed in #2233

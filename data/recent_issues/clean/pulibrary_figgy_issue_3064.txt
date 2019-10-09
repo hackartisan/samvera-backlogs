@@ -1,0 +1,2 @@
+Support multiple rulers per numismatic issue
+Sometimes there is ambiguity in the ruler associated with a particular numismatic issue and the staff would like to associate multiple people with a single issue

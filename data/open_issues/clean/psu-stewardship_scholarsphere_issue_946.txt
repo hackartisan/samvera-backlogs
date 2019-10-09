@@ -1,0 +1,2 @@
+For a search I want to download analytics for the results
+dependent on #944 A user would execute a search for a creator and then on the search page there would be a button to download usage analytics for the the results

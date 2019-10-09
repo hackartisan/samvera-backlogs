@@ -1,0 +1,2 @@
+Make predicate for oEmbed property
+Also develop white list of external sources approved for us in OD2 (now #190)

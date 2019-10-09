@@ -1,0 +1,2 @@
+Add Publication importer
+adds an implementation of the Darlingtonia importer for Publications creates rake tasks for ingesting zipped BagIt files adds specs for PublicationIndexer

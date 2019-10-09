@@ -1,0 +1,2 @@
+Tripartite
+These changes allow us to deploy code changes to the three new Emory environments. Right now we have a total of 5 environments running: emory-stress-test - on a single server on DCE infrastructure cap stresstest deploy emory.curtionexperts.com - on 3 servers on Emory infrastructure cap aws deploy staging-etd.library.emory.edu - on 3 servers on Emory infrastructure cap staging deploy qa-etd.library.emory.edu - on 3 servers on Emory infrastructure cap qa deploy etd.library.emory.edu-in-waiting - on 3 servers on Emory infrastructure cap prod deploy

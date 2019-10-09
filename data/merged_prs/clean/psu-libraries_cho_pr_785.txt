@@ -1,0 +1,2 @@
+Bug fixes for system usability
+Description Fixes two minor problems:  allow non-EDTF dates that can be parsed as actual dates allow works without files  These allow CHO to function with existing works. Prior to this change, any edits to existing works would not work. Connected to #782

@@ -1,0 +1,2 @@
+keep an eye on hyrax-batch_ingest
+see:  i think i've got a good enough handle on Darlingtonia to continue to use it for the migration, but this might be super useful afterwards.

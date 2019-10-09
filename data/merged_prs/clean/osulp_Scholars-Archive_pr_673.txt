@@ -1,0 +1,2 @@
+moved location field into the Geographic related section in the forms
+fixes #634

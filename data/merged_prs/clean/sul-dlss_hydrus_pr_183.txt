@@ -1,0 +1,2 @@
+Move jetty configuration to the yaml file
+This allows us to do rake jetty:start hydrus:refreshfix and it won't try to proceed to the second task before the first is complete.

@@ -1,0 +1,2 @@
+Restricted File Sets
+As a collection curator, I need to restrict access to files and file sets on a resource, but display (and index) metadata, So that the digital assets are stored with the rest of the collection, the resource is discoverable, and I can respect donor agreements or other MOUs regarding the content. No viewer or embedded file should display or play. Derivatives should be generated in case the restriction is later removed, but (if) extracted text should not be indexed. Related: #351, #1054 Example: 

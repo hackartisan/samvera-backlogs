@@ -1,0 +1,1 @@
+Adds comment to lines that provide access to controller scope

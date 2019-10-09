@@ -1,0 +1,2 @@
+update hyrax.zh.yml
+Fixes #390 updated hyrax.zh.yml

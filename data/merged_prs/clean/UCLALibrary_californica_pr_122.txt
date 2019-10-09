@@ -1,0 +1,2 @@
+Add a default-url-options :host key
+Following the example here:  Adding this to config/application.rb should address issue #65 Connected to UCLALibrary/amalgamated-samvera#65

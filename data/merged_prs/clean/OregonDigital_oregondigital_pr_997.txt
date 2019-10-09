@@ -1,0 +1,2 @@
+Added identifier to search fields for Advanced Search.
+Fixes #971

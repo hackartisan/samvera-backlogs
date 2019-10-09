@@ -1,0 +1,2 @@
+Add Ethnographic Term as a controlled field
+Fixes #316

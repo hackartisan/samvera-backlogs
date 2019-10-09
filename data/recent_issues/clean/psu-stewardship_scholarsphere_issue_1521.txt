@@ -1,0 +1,2 @@
+How we are creating Agents for logged in users is a bit scary
+When looking into showing the email and login for the logged in user in the new work form (refs #1453) We ran into this code:  We are using this to create the agents for a logged in user.  That means for a user who we know the login and email, we are still using the name to differentiate the person.

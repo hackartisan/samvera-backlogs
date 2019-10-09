@@ -1,0 +1,1 @@
+Only persist if something's changed post-fetch

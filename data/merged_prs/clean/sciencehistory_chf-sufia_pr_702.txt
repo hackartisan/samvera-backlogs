@@ -1,0 +1,2 @@
+more flexibility in task/factory to create a dev work
+To let me create one with 200 filesets. This code is kind of spaghetti now, refactor at some point, maybe not actually using factories. But good for now

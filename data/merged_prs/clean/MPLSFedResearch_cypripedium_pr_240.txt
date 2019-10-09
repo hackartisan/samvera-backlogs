@@ -1,0 +1,2 @@
+Added date created sort, removed date uploaded sort. #208 and #210
+We don't enter dates in UTC format in the date created field, so instead of indexing with _dtsi, I used _ssi. For issues #208 and #210

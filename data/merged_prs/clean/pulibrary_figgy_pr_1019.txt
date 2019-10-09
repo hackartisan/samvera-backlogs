@@ -1,0 +1,2 @@
+Fixes issue with nil geo thumnail id value
+Closes #1018

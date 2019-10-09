@@ -1,0 +1,2 @@
+Implement Create Agent Form
+The create agent form throws an error. I am not sure if this is because some of the agent features are WIP or if because GUI creation of agents was never ticketed. Putting this in, just to make sure it doesn't fall through the cracks.

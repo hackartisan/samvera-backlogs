@@ -1,0 +1,1 @@
+display object parent; refactor download link; closes #39

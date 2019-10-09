@@ -1,0 +1,1 @@
+updates to hyrax2 gem

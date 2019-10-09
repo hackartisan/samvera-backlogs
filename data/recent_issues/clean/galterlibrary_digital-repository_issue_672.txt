@@ -1,0 +1,2 @@
+Block and throttle abusive requests
+Preventive measures from potential threats such as bad bots and (D)DoS events.

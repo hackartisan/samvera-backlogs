@@ -1,0 +1,2 @@
+Items marked complete and in preservation preserves all children inline
+I think this is because the state propagation saves the children, which then causes them to preserve themselves. Results in a very slow complete.

@@ -1,0 +1,2 @@
+Redirect to my works listing upon deletion, ref projecthydra/sufia#2447
+This fixes our problem locally, but fixes the issue samvera-deprecated/sufia#2447 and also references another fix for CC in samvera-deprecated/curation_concerns#1052

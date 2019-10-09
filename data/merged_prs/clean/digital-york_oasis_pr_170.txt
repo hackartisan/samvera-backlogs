@@ -1,0 +1,2 @@
+add licence info
+resolve #145

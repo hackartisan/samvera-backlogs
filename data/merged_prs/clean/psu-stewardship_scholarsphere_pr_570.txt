@@ -1,0 +1,2 @@
+Changing test to make sure the user is set before checking an attribute
+fixes #505 & #566

@@ -1,0 +1,2 @@
+Sort notifications most recent first by default
+STORY As a user, when I get a new notification (flagged by the little number on the bell in the header), and go to the notifications page, I'd like to see the new notifications first. ACCEPTANCE   The notifications page displays in most-recent to lease-recent order.

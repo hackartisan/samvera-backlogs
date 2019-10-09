@@ -1,0 +1,2 @@
+orphan FileSet edit/show pages
+Resolves #1346

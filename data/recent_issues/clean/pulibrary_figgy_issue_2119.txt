@@ -1,0 +1,2 @@
+Make search result visibility configurable on the model
+Method to control model visibility in the search results is starting to get unwieldy. I wonder it makes sense to move that configuration to the individual model. 

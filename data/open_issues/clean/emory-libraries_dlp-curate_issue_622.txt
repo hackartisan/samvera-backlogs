@@ -1,0 +1,3 @@
+Investigate ability to search by ID in Curate
+Can we configure the Curate search to search by an item's NOID ID?
+How is the ID stored in Solr? Can the ID field be added to Blacklight's search terms? (

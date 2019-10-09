@@ -1,0 +1,2 @@
+Remove the Back Link from Forms
+Description Removes the inconsistently working back link from the interface. References ticket: (if any) #414 Why was this necessary? The back link wasn't working consistently and there are other ways in the interface to get around Changes Deletes the back link from the works and collection views Are there any major changes in this PR that will change the release process? Checklist   i18n enabled  adequate test coverage  accessible interface

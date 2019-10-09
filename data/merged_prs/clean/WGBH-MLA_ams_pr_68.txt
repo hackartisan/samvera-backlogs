@@ -1,0 +1,2 @@
+Add fields for entering all date types
+This follows the same pattern for title types and description types.

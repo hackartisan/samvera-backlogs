@@ -1,0 +1,2 @@
+store logo in /public/uploads & allow removal
+Resolves #980 Resolves #1003

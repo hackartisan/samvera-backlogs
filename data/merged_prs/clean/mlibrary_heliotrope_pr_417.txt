@@ -1,0 +1,2 @@
+close IO object after reading bugfix #416
+Fixes #416

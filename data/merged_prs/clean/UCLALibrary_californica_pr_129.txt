@@ -1,0 +1,2 @@
+Change default .env database adapter to mysql
+connected to #127

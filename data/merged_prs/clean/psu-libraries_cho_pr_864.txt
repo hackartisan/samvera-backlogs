@@ -1,0 +1,2 @@
+Rake task to batch load works from csv
+Description Reads all the csv files from the network ingest directory, with their corresponding zip files, and imports them. If needed, it will created a collection with minimal metadata. This is largely throwaway code, but would be useful to have around for the duration of the MVP cycle where we could reload a bunch of csvs and zips with a single rake command.

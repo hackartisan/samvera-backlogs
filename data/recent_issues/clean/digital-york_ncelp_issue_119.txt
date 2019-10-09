@@ -1,0 +1,2 @@
+Logged in but dashboard has disappeared
+I'm logged in on the test site, but my dashboard option in the top right corner has disappeared. I can still get to it by going to the sign in page.

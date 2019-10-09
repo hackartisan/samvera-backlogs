@@ -1,0 +1,2 @@
+Change to use symbols for user and password
+The string is not really set, but the symbols are

@@ -1,0 +1,2 @@
+views/welcome/using: update references from Hydra to Samvera
+Closes DIGREPO-854.

@@ -1,0 +1,2 @@
+Dltp 634 After an object in a Collection is edited, it sometimes loses indexing related to the Collection it belongs to.
+Claiming issue DLTP-634 @7e2450da560ae6d0b3260c25549d8055a01d03c0 $ ./script/start-issue DLTP-634 [skip ci] Always reindex collection as part of active_fedora update_index @1be06d4f101742d0fe7b124439f45f975c0e6a1b Solr documents are updated on each save and collection object lose some of the collection related solr fields during update. So we are tapping into update_index to reindex collection so that they are always available.

@@ -1,0 +1,4 @@
+Sammelband manifests should not have a multi-part viewingHint
+Child of #247
+What should the viewingHint be? nil?
+a It should probably be selectable?

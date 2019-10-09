@@ -1,0 +1,3 @@
+Link to specific timecode of Media Object
+As a sports historian, I want to link to a specific time point in an audiovisual object, So that the people I'm sharing it with don't have to manual find that point in the recording. Ideally this would be possible via the persistent URL/ARK.
+Dependent: #47 #48

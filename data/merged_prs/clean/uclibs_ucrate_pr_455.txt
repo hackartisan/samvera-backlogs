@@ -1,0 +1,2 @@
+Implement Change Manager from Scholar
+Fixes #264 Implements the Change Manager from Scholar. Something to be made aware of is that when it is ran inline (not using sidekiq), the email items duplicate. Another known issue is that emails do not get sent out for removal for both proxies and editors.

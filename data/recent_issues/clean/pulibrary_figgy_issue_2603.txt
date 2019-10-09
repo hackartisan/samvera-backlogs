@@ -1,0 +1,2 @@
+Either clean up or don't allow deletion of subject entries from the UI
+Based on analysis of #2547 it seems that someone deleted a subject entry but it was still present on at least one ephemera folder.

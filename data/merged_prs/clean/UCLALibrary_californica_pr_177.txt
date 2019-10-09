@@ -1,0 +1,2 @@
+Add funding_note to the model
+This adds the funding_note term to the model. The predicate URI is not in RDF::Vocab so it is used directly in this commit. Connected to #171

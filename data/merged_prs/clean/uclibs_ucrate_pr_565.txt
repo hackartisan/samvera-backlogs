@@ -1,0 +1,2 @@
+Adds support for Google Analytics.
+Fixes #413 Present short summary (50 characters or less) This PR sets the variables needed for connecting to Google Analytics to provide view and download stats for each work and file_set. It also has the machinery for updating the totals in the dashboard. The updating machinery includes rake task, database migrations, and copy scripts. Refer to the notes on Legato for using in non-production environments :  Refer to config_vault for authentication file and google API connection information: 

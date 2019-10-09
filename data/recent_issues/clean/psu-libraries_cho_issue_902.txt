@@ -1,0 +1,2 @@
+Footer Text for Revision and Accessibility
+Move content "Current Revision:" to be inside of the link with the revision number rather than outside of it. Link text is out of context when read by a screen reader.

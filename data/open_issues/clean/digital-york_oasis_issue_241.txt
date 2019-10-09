@@ -1,0 +1,5 @@
+File uploader not working with Safari 12.0
+It shows an internal error on Safari 12.0 (13606.2.11)
+Works on Chrome 69.0.3498.100 and Firefox 60.0.1 (64-bit)
+We need too make clear for the users what browsers are supported and what issues are know. Add clear indication to user. 
+ I have just tested this on my Safari Version 12.0.1 (13606.2.104.1.2) and it works ok. I was testing this on my local development laptop. I think your error might be related to some temporary issue with our test server. We need to retest this on the test server, however, can you wait further test till we finish our work on this server as discussed recently. 

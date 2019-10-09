@@ -1,0 +1,2 @@
+Refactor Hyrax::CharacterizeJob spec
+Instead of testing Hyrax::CharacterizeJob via the CSV import process, give it its own tightly focused test. This will make refactoring of the CSV import process easier, and should make our test suite a little faster.

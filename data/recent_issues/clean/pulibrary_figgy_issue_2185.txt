@@ -1,0 +1,2 @@
+Regenerate derivatives for Ephemera items missing derivatives
+Reported by : I just did several ingests over the last week, for LAE and the 15M projects. Gabrielle just spoke with me about missing images from the recent LAE ingests. The missing images are sporadic; should Figgy be catching and regenerating missing items? Here’s an example: 

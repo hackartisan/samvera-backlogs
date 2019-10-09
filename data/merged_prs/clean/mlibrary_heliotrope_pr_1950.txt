@@ -1,0 +1,2 @@
+get batch create Monographs to work
+Resolves #HELIO-2047

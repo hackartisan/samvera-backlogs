@@ -1,0 +1,2 @@
+Builds are failing with asset precompilation
+Descriptive summary Since #549 asset precompilation started failing. Looks like not all of es6 syntax is supported, specifically backticks for variable interpolation. Example:  Expected behavior Assets precompile Related work #549 Accessibility Concerns N/A

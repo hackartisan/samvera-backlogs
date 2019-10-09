@@ -1,0 +1,2 @@
+Update dockerfile for debian package changes
+mysql-client -> mariadb-client chromedriver -> chromium-driver

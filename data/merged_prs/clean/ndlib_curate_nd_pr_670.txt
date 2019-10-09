@@ -1,0 +1,2 @@
+Remove people from "Type of Work" facet filter, take 2!
+DLTP-1259: Remove people from "Type of Work" facet filter: 984fdc4  The previous way (#667) fixed this at render time. After some discussion, it appears we don't need the Person types to show up in the query results. Removed the previous fix and replaced with an exclusion at query time. Added additional seed data to create several different types of works, including a Person

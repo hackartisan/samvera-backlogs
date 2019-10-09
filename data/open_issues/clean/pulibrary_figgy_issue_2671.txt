@@ -1,0 +1,4 @@
+Create a new Google OAuth project
+Figgy currently uses Google OAuth in order to provide access to Google Drive for file uploads (using Browse Everything).  This needs to be available to all developers.
+I'll need to investigate whether or not this is affected by  but I have not received any notifications that the OAuth settings for this need to be updated.
+The OAuth settings used for Google Drive access do *not* to be updated for Figgy in the production or staging environments in response to the Google+ API shutdown.

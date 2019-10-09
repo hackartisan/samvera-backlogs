@@ -1,0 +1,2 @@
+Feature/configure mail
+Fixes #88

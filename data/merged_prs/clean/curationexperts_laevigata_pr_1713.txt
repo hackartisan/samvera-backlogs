@@ -1,0 +1,2 @@
+Fix for missing submission button
+This commit retains whatever you have checked the agreement checkbox as you click around. If a user refreshes, they will need to check the box again. The button is disabled now instead of being hidden. It's no longer possible to end up in a state where the checkbox is out of sync with the button. Connected to #1687

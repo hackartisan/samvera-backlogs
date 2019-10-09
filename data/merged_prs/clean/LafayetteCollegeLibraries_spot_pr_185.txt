@@ -1,0 +1,2 @@
+add unpaywall importer
+experimental / proof-of-concept / breakable sidetrack to create an importer for items using the unpaywall.org api. todo   darlingtonia suite (record_importer, parser, mapper)  job for ingesting  provide admin_set for ingesting  dashboard form (see #190)  specs! specs! specs!   closes #101

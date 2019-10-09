@@ -1,0 +1,2 @@
+Refactor duplicated upload code into a module?
+There is a fair amount of code duplication around handling uploads between:     Do we want to refactor that out into a module?

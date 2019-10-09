@@ -1,0 +1,2 @@
+New Visibility Level: "Reading Room"
+Related to #3118 — this ticket is for adding the new permission setting to Figgy, #3118 is for making the access controls work in the viewer.   Add new authorization policy  Add new option to form  Add whitelist IPs to env via ansible

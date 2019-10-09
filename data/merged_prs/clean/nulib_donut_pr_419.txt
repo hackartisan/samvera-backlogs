@@ -1,0 +1,2 @@
+Limit pyramid TIFFs to 16383x16383 pixels
+partially fixes nulib/next-generation-repository#856 This PR addresses one of the two issues reported in next-generation-repository#856 by making sure pyramid TIFF derivatives never exceed sharp's internal pixel limit.

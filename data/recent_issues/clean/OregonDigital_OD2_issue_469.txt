@@ -1,0 +1,2 @@
+Change Description of Manifestion property ID
+Descriptive summary An update was made to the MAP, need to update code to match. Description of Manifestation property ID should be rdaw:P10271  (  )

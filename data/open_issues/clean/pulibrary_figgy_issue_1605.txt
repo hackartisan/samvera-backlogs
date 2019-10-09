@@ -1,0 +1,3 @@
+Ingest "A Japanese sugoroku" (pudl0082)
+Notes: Almost certainly 10636676, just needs to be ingested manually
+No PUDL collection page.

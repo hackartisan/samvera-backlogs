@@ -1,0 +1,2 @@
+Preview metadata from View Collection Page
+For August sprints, enable viewing of all populated metadata on the Collection View page. We can fine-tune which fields display to which users at a later time. Metadata Implementation - Collections We can use the same approach/layout conventions as are implemented for previewing work metadata. Checklist:   All populated fields display (omit empty fields)  Fields display using the Form Field Order in the spreadsheet above  Fields use Display Labels from the spreadsheet above

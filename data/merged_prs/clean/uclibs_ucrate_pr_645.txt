@@ -1,0 +1,2 @@
+Sets email address for password reset.
+Fixes #641 Sets the password reset email address to  in the devise initializer.

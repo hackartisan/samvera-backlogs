@@ -1,0 +1,2 @@
+add file for local sass variable overrides
+Fixes #4 Adds and configures file for local sass variable overrides.

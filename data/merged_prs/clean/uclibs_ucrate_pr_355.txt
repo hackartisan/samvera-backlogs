@@ -1,0 +1,2 @@
+Modifies batch upload to include the correct metadata.
+Fixes #304 Overwrites hyrax batch import to get the correct metadata fields for all work types on batch upload. This will get batch upload to work as it is in Scholar.

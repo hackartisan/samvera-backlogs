@@ -1,0 +1,2 @@
+Cast EDTF dates to strings
+When persisting edtf dates, they should be strings and not have datetime- appended to them. Related to #726 and #687

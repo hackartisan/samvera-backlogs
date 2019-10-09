@@ -1,0 +1,3 @@
+Send riiif changes upstream
+Time permitting we should submit a patch to the riiif gem to use netpbm for large tiffs if it's installed (#400, #416). Not sure if it would be accepted, but we should make the attempt and see if it's something other people would want. The code will need to be refactored, right now it relies too much on known environment (umich linux).
+The switch to netpbm over imagemagick is a pretty radical change (especially if expanded to all image formats, not just tiff). Maybe a fork makes more sense?

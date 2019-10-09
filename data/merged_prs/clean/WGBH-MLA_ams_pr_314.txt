@@ -1,0 +1,2 @@
+Adds ID to works dashboard
+Closes #307

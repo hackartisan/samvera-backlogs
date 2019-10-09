@@ -1,0 +1,2 @@
+Collection objects should have all metadata fields
+All UCLA metadata fields should be available to Collection objects as well as work objects. Refactor to put UCLA metadata configuration in an include-able module to keep things DRY. Connected to UCLALibrary/amalgamated-samvera#256 Connected to #426

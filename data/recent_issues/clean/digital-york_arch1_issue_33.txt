@@ -1,0 +1,2 @@
+Navigation not working
+Navigated to f. 308 v by the dropdown list: OK Navigated back to f. 308 r by the arrow buttons beneath the image: took me to image: Abp Reg 11 Colour reference image, so this form of navigation not working yet!

@@ -1,0 +1,2 @@
+OAI-PMH Controller
+A restful endpoint to handle get request. The controller should handle filtering by date, and collection ID. The controller will in the future handle additional formats.  has done this for ETDa and we may be able to get the code.

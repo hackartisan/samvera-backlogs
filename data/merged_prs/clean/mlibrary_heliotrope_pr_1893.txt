@@ -1,0 +1,1 @@
+HELIO-1940 CounterService not working for downloads

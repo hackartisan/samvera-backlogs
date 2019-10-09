@@ -1,0 +1,2 @@
+adding a logo that meets the specs of shibboleth
+As asked for in AEIM-1159 - set with a height of 150px.

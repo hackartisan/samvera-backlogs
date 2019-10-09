@@ -1,0 +1,2 @@
+Set honeybadger key via dotenv
+Instead of hard-coding the honeybadger API key, it should be set in .env.production at system build time. Connected to curationexperts/in-house#301

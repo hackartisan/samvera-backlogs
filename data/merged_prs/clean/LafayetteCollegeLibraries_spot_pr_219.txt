@@ -1,0 +1,2 @@
+use codeclimate for coverage reporting
+since we're already using it for the maintainability metric, let's use their code coverage reporting as well

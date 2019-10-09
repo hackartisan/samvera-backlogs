@@ -1,0 +1,2 @@
+Support bulk reindexing jobs for GeoBlacklight
+Currently, Figgy only publishes GeoBlacklight messages for bulk updates when the BULK env. variable is set (or, alternatively, when a user invokes the needed Rake command and explicitly sets this).  This is found within   Also, perhaps  could be generalized and a new class for bulk indexing could be introduced? Please see pulibrary/pulmap#599 (comment) for context.

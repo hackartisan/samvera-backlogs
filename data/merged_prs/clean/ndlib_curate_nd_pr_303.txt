@@ -1,0 +1,2 @@
+Refine admin interface
+This a collection of cosmetic, usability, and accessibility changes to the account management interface.

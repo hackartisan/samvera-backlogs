@@ -1,0 +1,2 @@
+Display collection title instead of ID
+Acceptance Criteria:    On the page to start a new CSV import, when I fill in the form and click 'Preview Import', the preview page should display the title of my selected collection (instead of the collection ID).    Then, when I click the 'Start Import' button, the show page for that import should also display the collection's title, not it's ID.

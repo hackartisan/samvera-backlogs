@@ -1,0 +1,2 @@
+install + set-up capistrano for staging deployment
+this adds some initial deploy scripts for Capistrano deployment, and also depends on some server-side configuration:   add deploy user  (see     add public key to deploy user  create directory for spot deployment  integrate Passenger with Apache (we'll handle this later)  closes #8

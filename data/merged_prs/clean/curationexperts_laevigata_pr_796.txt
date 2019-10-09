@@ -1,0 +1,2 @@
+Disable json view
+Closes #789

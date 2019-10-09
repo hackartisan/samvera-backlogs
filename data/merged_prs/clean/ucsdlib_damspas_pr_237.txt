@@ -1,0 +1,1 @@
+Improve log output with STDOUT logger and lograge with logstash format. DHH-844

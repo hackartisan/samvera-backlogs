@@ -1,0 +1,2 @@
+Use common solr & fedora installers for all projects
+I run multiple projects and often end up wiping out my stale development environment entirely.  At present, each project re-downloads the same solr and fedora installers to local temp directories, even if I already have a copy on my system.  I'd rather just download the installers once for any project that needs them. Using the download_dir: option in the wrapper config files allows multiple projects to use the same installer to install local versions of the services for each app.

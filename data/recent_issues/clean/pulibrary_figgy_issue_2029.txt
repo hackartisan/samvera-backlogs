@@ -1,0 +1,2 @@
+"Full Size" JPEGs should not have dimensions greater than 64k pixels
+JPEG image dimensions are limited to 65536 x 65536, so very wide images (e.g., scrolls like  are invalid when the user tries to download the full-size image as a JPEG. We should limit the size of JPEGs to 65536 pixels square

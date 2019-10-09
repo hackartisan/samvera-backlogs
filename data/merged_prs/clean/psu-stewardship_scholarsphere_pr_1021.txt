@@ -1,0 +1,2 @@
+Updating rubocop for security error
+Fixed some errors that were auto-correctable. Added a TODO for the rest of the new errors.

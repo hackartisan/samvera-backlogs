@@ -1,0 +1,2 @@
+Importer should set `Date Added`
+STORY As a tenejo client, I would like the system to track when items were added to the repository regardless of whether I added them via the single item UI or via CSV import. ACCEPTANCE   Items added via the CSV importer show the date the import was run in the Date Added column on the dashboard.

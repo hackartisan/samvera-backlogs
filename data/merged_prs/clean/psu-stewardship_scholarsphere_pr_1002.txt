@@ -1,0 +1,2 @@
+Make feature-only RSpec configs explicit
+We were getting strange RSpec errors with feature test helpers during non-feature tests. Before and after configs that were supposed to be run only on feature tests were actually running on all tests. This ensures that only feature tests will apply this configuration steps.

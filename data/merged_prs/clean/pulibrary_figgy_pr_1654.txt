@@ -1,0 +1,2 @@
+Ensuring that exceptions are raised if the parent resource cannot be accessed in `GeoserverMessageGenerator`
+Resolves #1641

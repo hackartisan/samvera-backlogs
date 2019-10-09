@@ -1,0 +1,2 @@
+Consider using file attachment description info in XML
+Currently, we are using attachments' file names as their descriptions, but the framework would allow a description distinct from the file name.   We are receiving description information in the ProQuest XML.   Using the attachment description information in the XML to populate the file description in Hyrax is an opportunity to improve the user experience and usability of the file attachments.

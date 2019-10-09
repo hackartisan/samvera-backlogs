@@ -1,0 +1,2 @@
+Adds contact form link in submission error message
+Closes emory-libraries/etd-issues#75 Connected to #1826

@@ -1,0 +1,2 @@
+configured sidekiq server, and deploy cleanup
+fixes #467 changes sidekiq address to something more generic for if/when sidekiq is replaced

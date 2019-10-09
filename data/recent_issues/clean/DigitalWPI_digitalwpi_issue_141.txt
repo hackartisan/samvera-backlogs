@@ -1,0 +1,2 @@
+move fedora data into nfs, and dump psql
+store fedora in nfs so snapshots can happen

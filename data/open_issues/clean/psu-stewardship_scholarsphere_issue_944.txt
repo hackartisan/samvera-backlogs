@@ -1,0 +1,7 @@
+Total Analytics for a work
+We should be able to see FileSet total downloads and Fileset total views at the work level. Does this need to be a graph or just a number?
+High level graph in ScholarSphere And a Download Button to get the graph data in csv
+work_id, file_id, action, timestamp
+From the work page I can download a report of all activity on the work, including work views, work downloads, files set views, and file set downloads.
+dependent on #625
+- "work downloads" do not exist yet, that's why this is dependent on #625

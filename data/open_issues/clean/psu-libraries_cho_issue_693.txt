@@ -1,0 +1,3 @@
+Determine, Implement, and Document Backup and Recovery Strategies for CHO
+This is NOT a preservation store. This is the application configuration, metadata (Postgres), and data backup and recovery strategies for business continuity. May include snapshots and/or tape copies, should specify the frequency, retention, and storage location of each. Document all of this. Related: #846
+As a repository manager, I would like to easily be able to save all or individual collection-specific configurations, So that I can easily rebuild or restore the collection in the event of a catastrophe.  Henry P.

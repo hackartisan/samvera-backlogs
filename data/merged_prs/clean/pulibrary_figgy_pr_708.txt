@@ -1,0 +1,2 @@
+Set visibility based on Date Created
+Closes #691. This adds a new checkbox to automatically set visibility/rights statement based on what the date of the object is. The checkbox looks like this:

@@ -1,0 +1,2 @@
+Create PWA manifest.
+Descriptive summary As a user on smartphone or other non-desktop device, I want an experience that appears and performs well with respect to my device and any of its limitations. Expected behavior Use a PWA manifest generator to create a good rounded experience for mobile users that save OD to their homescreen: For example:  More on manifests:  Related work Link to related tickets or prior related work here.

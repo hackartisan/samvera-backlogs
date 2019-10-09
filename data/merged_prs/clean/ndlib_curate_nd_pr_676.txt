@@ -1,0 +1,2 @@
+Remove double h1s
+Consolidate having two h1s into a single h1 span. Also fix typo in policy text.

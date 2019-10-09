@@ -1,0 +1,2 @@
+Add archival_collection_code to scanned resource
+populate it from source_metadata_identifier fixes #2339

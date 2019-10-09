@@ -1,0 +1,2 @@
+Refactor batch ingest
+Create batch/item relational model Import batch rows into tables Add Batch controller, index view and link from dashboard Create BatchJob and BatchItemJob for processing batches and rows Make BatchItem responsible for its own status updates and validation Enforce unique accession numbers Read email address of batch depositor from first line of csv file

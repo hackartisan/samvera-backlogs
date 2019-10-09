@@ -1,0 +1,2 @@
+Investigate FileSetDerivativesService Override
+Compare this override with the current Hyrax FileSetDerivativesService  If it is not required, remove it  If it is required, add tests for specific behavior

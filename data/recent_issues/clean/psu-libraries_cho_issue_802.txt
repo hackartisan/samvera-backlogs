@@ -1,0 +1,2 @@
+Ordering of Works
+Works, file sets, and files are not sorted properly on display. One approach would be to sort on the identifier, regardless of what is displayed. That might be easier for MVP. Or, preserve the order from the CSV? (Both, depending on ingest method?) Implementing ORE ordering might be the 1.x solution?

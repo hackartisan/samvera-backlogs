@@ -1,0 +1,2 @@
+Allow mapping of multiple ingest fields to a single californica field CAL-597
+Prerequisite of CAL-597, which (after CAL-584 creates the field) will map both AltTitle.other and AltTitle.translated to alternative_title.

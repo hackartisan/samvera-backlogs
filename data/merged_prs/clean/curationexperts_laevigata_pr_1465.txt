@@ -1,0 +1,1 @@
+fixing bug that caused error messages not to be displayed

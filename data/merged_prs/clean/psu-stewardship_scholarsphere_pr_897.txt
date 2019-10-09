@@ -1,0 +1,2 @@
+Removing daily stats from the schedule.
+They got added in here: e006cce#diff-b6de01cbd4b49ee8c835f6d988693033R41 Was this a request from  ?  Do we want a daily or a weekly email?  If we only want a weekly one we should not run the daily stats email.

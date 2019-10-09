@@ -1,0 +1,2 @@
+Generate seed data for testing
+Partial work for #104 I decided to open a PR just for creating seed data.  This is gets used by the manual test script I'm still working on. To test this, run bundle exec rake db:migrate then make sure  you can log in as all the generated users the admin user does have admin rights each user owns 10 works (except ) you can run the rake task over and over without errors

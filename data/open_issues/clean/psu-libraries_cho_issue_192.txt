@@ -1,0 +1,2 @@
+Deleting Nested Work Deletes all Child Works
+As a repository manager, I would like to the default behavior when deleting compound objects to delete all the child object, So that I don't accidentally create orphan child objects lacking a parent descriptive record. Not sure yet how we're handling compound objects, this user story is coming from a frustration with CONTENTdm that we want to avoid.

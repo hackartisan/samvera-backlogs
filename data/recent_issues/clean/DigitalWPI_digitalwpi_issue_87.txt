@@ -1,0 +1,2 @@
+License flag for batch loader
+WPI will have a common license, so the license flag should no longer be required but optionally default license can be added to all works for ingest  talk to jay about specifics

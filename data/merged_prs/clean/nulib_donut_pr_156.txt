@@ -1,0 +1,2 @@
+Use controlled vocabulary for language property
+Overrides Hyrax's basic_metadata language property, in order to add controlled vocabulary functionality Renames app/models/schema to app/models/schemas for consistency Adds a_model_with_nul_core_metadata.rb shared example

@@ -1,0 +1,2 @@
+Text change in upload form
+Please change the text for the OASIS links on the upload form to: Please, enter the link to one or more OASIS summaries which explain the research principles behind this resource.  Go on www.oasis-database.org to find a summary and copy the link to the field below.

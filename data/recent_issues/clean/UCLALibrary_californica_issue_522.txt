@@ -1,0 +1,2 @@
+Document actor stack actions
+As a project team member, I would like to have a detailed understanding of what each part of the actor stack does related to import. Approval criteria   A document exists that briefly documents the different actions that take place inside each actor during the import process.  For example, when do derivative files get created during import. See  Related to #423

@@ -1,0 +1,2 @@
+Ingest failed to upload three tiffs
+When attempting to ingest 27 tiffs from the cloud server to Samvera on 10/30 (before 3:52 pm), only 24 tiffs ended up being ingested.  I could have inadvertently overlooked the first three images but swore I selected them when selecting images for ingest.  At a later point, I added the remaining three images that didn't upload.  The collection can be found here:  To test the issue, I will go into staging to replicate this process and will keep you posted if I encounter difficulties.

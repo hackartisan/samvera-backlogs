@@ -1,0 +1,2 @@
+ordered metadata migration bug
+Descriptive summary Some works had not successfully migrated metadata ordering based on what was in the DSpace csv. Additionally, at least one work had duplicated creators because of a poor duplication check that didn't account for our original creator names having trailing tab characters. The migration, in these cases would use SOLR as the default sort order and disregard what was in the CSV originally. This is cause for remigrating the ordered metadata.

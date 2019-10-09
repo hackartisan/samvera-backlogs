@@ -1,0 +1,2 @@
+Limit description to 5 lines on catalog index page.
+Fixes #728 ; Descriptions on the catalog controller are now limited to five lines.  My approach was to use the Clamp.js library since there is no universally supported line clamping css approach.  Ended up adding class names to the facets on the catalog page, writing a function that selects all the elements with the description class and calls clamp.  If we decide that we want to change the number of lines we just change the number we pass clamp.

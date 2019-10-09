@@ -1,0 +1,2 @@
+Upgrade bootstap-sass to address security issue
+CVE-2019-8331 moderate severity Vulnerable versions: >= 3.0.0, < 3.4.1 Patched version: 3.4.1 In Bootstrap 4 before 4.3.1 and Bootstrap 3 before 3.4.1, XSS is possible in the tooltip or popover data-template attribute. For more information, see: 

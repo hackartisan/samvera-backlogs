@@ -1,0 +1,2 @@
+Templates
+Adds Create/Delete of Templates within Projects, as well as creation of Ephemera Folders based on a template. Closes #174, Closes #200

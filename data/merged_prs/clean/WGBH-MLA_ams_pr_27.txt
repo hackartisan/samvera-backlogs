@@ -1,0 +1,2 @@
+Merge from develop into master
+For Sprint 1, triggers a deployment to Staging server.

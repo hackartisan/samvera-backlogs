@@ -1,0 +1,2 @@
+Deleting place entry doesn't bring up a list of entries
+Tried to delete Arles - should have brought up a list of entries this place is linked to in the database, but instead, it was deleted. Searched online database to check whether Arles linked to entries or not - it is, to four entries, so should not be deleted if ‘delete’ button hit. Searched for York, York City, because I know it should be linked to many entries, tried to delete, and long list of entries to which attached came up, so that stills works.

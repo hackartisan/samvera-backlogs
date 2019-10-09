@@ -1,0 +1,2 @@
+Feature spec for creating an ETD
+It still needs more work, but this is a first pass at getting an end-to-end feature spec working. Added rubocop exclusions because this code is much more readable than what rubocop wanted.

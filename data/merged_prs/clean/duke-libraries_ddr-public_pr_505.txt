@@ -1,0 +1,2 @@
+Fix error when multiple related fields are defined.
+Also did some renaming of methods and commenting for clarity.

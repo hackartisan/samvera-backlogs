@@ -1,0 +1,2 @@
+Redirect to parent coin when deleting citation/artist
+closes #2675

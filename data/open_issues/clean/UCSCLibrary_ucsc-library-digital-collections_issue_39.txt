@@ -1,0 +1,5 @@
+Contact Form
+Reduce issue type options to: “Reporting a Problem” -- direct these issues to Ned “General Inquiry or Request” -- direct these issues to Special Collections ()
+Addressed in this commit (not yet deployed in production): 763a2464a75a8ed76bc800208301d6c26cb03113
+deployed
+The previous solution did not fully solve the problem; all enquiries were still being sent to a single email address regardless of the user's choice.  So far, all entries in this form have been requests for special collections. Therefore, until I get a chance to actually fix this, I am going to set special collections as the primary contact form email address. They can forward to us if they get any bug reports.

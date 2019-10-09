@@ -1,0 +1,2 @@
+Add Viewing Direction/Thumbnails to GraphQL
+Closes #1492

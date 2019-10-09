@@ -1,0 +1,2 @@
+Add ability to force suppressed geo resources to show in GeoBlacklight index
+Sometimes, we want geo resources that are part of a set (like sheets in an atlas) to be displayed in the GeoBlacklight index even though they are typically suppressed. The specific use case for this right now is to surface individual maps in the multi-volume Vandermaelen atlas. This will improve spatial searching for these items.

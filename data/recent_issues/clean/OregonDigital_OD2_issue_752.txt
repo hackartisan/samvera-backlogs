@@ -1,0 +1,2 @@
+WC7 - Setup on-premises k8s cluster
+During WC7 we need to build out the new on-premises staging environment at OSU.   Setup control plane and worker VMs  Setup Kubernetes cluster  Integrate with OSULP Rancher  Update CI/CD build/deploy pipeline  Provision storage  Test OD2 in new staging environment  lib-odcp1-3 (control plane nodes)  4 CPU 8GB RAM 100GB disk  lib-odwork1-4 (worker nodes)  4 CPU 24GB RAM 100GB disk  32 TB NFS Volume (high capacity asset/derivative storage)

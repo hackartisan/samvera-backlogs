@@ -1,0 +1,2 @@
+Testing revision - Show link to Parent Work from Child Work
+The original ticket #146 seems to have written for adding a link to a parent from a File Set show page, but the acceptance criteria and mockup for the epic #121 were to add a link to a work page. Mockup for epic 121 Child Work example - this is a work page, where I want to see a link to the Parent Object, using its Title as the link text as shown in the mockup Parent work - this is the parent work which has a child work attached to it

@@ -1,0 +1,2 @@
+The “Stop Masquerade” button no longer functions as expected
+When “Masquerade” is chosen next to an account listed at /admin/accounts a “Stop Masquerade” button appears at the top of the screen. Clicking on the “Stop Masquerade” button presents you with a blank screen. A user masquerade persists even if you log out, quit the browser, return, and log back in.

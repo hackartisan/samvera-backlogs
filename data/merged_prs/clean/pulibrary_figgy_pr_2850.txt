@@ -1,0 +1,2 @@
+Link NumismaticPlace by reference
+Links NumismaticPlace resources by reference instead of nesting. Creates interface for managing places.  Closes #2847

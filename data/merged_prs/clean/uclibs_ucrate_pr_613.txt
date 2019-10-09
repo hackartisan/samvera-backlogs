@@ -1,0 +1,2 @@
+Bug/#611 Uses eager_load_paths over autoload
+Fixes #611; Load lib directory into memory immediately on server start. We've found the source of the problem, and made a change locally on QA.  We think the problem came from a difference in autoloading and eager loading classes and methods.  autoload only pulls in things in the app folder into memory and pulls from things in lib and others as needed, which is fine locally.  Eager loading pulls everything into memory, which is important because we lose thread safety in prod.  This change was done in #1723 for scholar.

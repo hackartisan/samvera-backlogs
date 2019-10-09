@@ -1,0 +1,2 @@
+Feature/publisher cv
+Fixes #385

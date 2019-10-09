@@ -1,0 +1,2 @@
+Abstract field does not render newlines
+Descriptive summary Abstract is a textarea on the edit form, which allows newlines, but on the showpage these are not being rendered. They appear to be saved correctly though. Test item:  JSON output has Line 1\r\nLine 2\r\n\r\nLine 4\r\n\r\n\r\nLine 7 Expected behavior Abstract renders newlines as line breaks. Actual behavior Abstract renders on a single line. Steps to reproduce the behavior  Create work Write abstract, hit Enter for new line(s), add more text View showpage  Related work #1634

@@ -1,0 +1,2 @@
+Update file set layout
+This adapts the Hyrax file_set layout to appear closer to our work show page layout. previously  new layout    removes social media sharing moves show_actions partial over the metadata uses a table instead of definition list for metadata displays fixity info as a list rather than the summarized output (see #171 (comment))

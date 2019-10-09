@@ -1,0 +1,2 @@
+Tidying up against current state of Curate
+This adds migrations from Curate's engine Removes the VALID_CURATION_CONCERN_CLASS_NAMES which are now registered. Removes _form which caused problems with underlying Curate works  Related to ndlib/curate#240 Related to #314

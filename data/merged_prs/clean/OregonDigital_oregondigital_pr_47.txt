@@ -1,0 +1,1 @@
+Coveralls badge was pointing to a non-existent branch.

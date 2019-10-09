@@ -1,0 +1,2 @@
+Flat complex object support
+Work towards #768. This does everything except modify the cdm2bag script - the compound bag fixtures give an update on how new bags should generate complex objects. The only regression here is that if a proxy has a title (such as "Page 1" or "Image") it won't show it - it'll show the title of the object.

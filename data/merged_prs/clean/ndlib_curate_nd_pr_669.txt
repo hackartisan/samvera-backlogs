@@ -1,0 +1,1 @@
+Update close script for new jira transitions

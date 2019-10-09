@@ -1,0 +1,2 @@
+Always queue fixity jobs as super_low priority
+Always queue fixity jobs at the lowest level so they don't compete with ingest, derivatives processing, etc.

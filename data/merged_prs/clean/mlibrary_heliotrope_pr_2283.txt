@@ -1,0 +1,2 @@
+Resolves HELIO-2579: Download page-image epub chapters only for 'heb'.
+heb book  heliotrope book  Open the above links in incognito windows do see the difference between the TOC on different presses.

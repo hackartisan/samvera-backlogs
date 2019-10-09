@@ -1,0 +1,2 @@
+Monkey patch to run solr reindex
+related: #232 #233 When we run full solr reindex from console, the commands times out with Faraday::NetTimeout error. There is a monkey patch that I found here to fix this. Already tested this on QA.

@@ -1,0 +1,2 @@
+Translate design for OD2 home page
+Descriptive summary We need to take the page  drew up and translate it into code. The page can be found here:  If we can get this to a point thats "close enough" with some of the things not completely working yet (I.E the for educators and for researchers buttons) Then that would be considered "close enough"

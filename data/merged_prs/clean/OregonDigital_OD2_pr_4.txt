@@ -1,0 +1,2 @@
+adds local_env for protected ENV variables
+this gives the ability to store local_env.yml in a protected location, and then inject those values into the application on boot.

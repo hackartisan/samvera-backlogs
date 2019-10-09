@@ -1,0 +1,2 @@
+index iiif path for collection thumbnail
+Fixes: nulib/next-generation-repository#504  Indexes the iiif url for the collection thumbnail as thumbnail_iiif_url_ss

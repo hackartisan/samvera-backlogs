@@ -1,0 +1,2 @@
+Fix user spec
+Fixes untested area of user spec - password is too short, but the test doesn't throw an error since it's a soft save.  Also adds a test that "registered" is properly added after saving.

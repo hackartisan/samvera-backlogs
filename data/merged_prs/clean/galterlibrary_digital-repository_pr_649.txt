@@ -1,0 +1,2 @@
+closes #644 - add metadata extraction script
+Script was just living on the server, and should be a part of the code base so we do not lose it. We will need to come up with a different solution for these requests though, see #635

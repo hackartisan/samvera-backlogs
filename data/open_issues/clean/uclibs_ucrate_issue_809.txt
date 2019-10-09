@@ -1,0 +1,2 @@
+DOI metadata should be updated when work is edited
+Descriptive summary When a work with a DOI is created, several of the work's metadata fields are stored in the DOI itself at Datacite.  However, if the work is later edited Scholar currently does not update the DOI metadata.  So the work and the DOI may get out of sync. If the work's creator, title, publisher, or publication year are changed, those changes should propagate to the DOI.

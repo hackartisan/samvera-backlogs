@@ -1,0 +1,7 @@
+Support lanes to provide prioritization of hydrus workflow steps
+Per :  I do want to add an emphasis about queue prioritization. This is important for Hydrus deposits, especially in our busy season which happens to be right now! Lots of students will deposit in the next 4 weeks.
+The current approach is to provide prioritization via lanes. This will require: 1. Hydrus will specify a lane ("high") when creating the assembly wf. 2. The resque pool configuration in commons-accessioning will specify high queues that are placed before the default queues.  However, this will only provide prioritization for accession wf or preservation ingest wf.  is this good enough or does it require high priority for all workflows? In other words, does the lane need to cascade to downstream workflows?
+After the improvements we've made to the workflows recently, I'm not sure we've had any situations where it's taken more than a few minutes for anything to go through robots.  Rather than proposing a fix here, can we first state what the requirement for responsiveness is? How long is tolerable?
+Agreed, it would be nice to have some actual data to use for requirements and planning. 
+If a Hydrus deposit can be completely through all workflows in 30 minutes or less, the requirement is met.  The concern is that it must not get queued behind a large deposit of images or videos or Google Books, etc.
+Related to 

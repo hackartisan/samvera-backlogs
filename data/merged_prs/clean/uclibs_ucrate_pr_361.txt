@@ -1,0 +1,2 @@
+Add batch upload
+Fixes #306 Port over batch upload functionality from Scholar Changes proposed in this pull request:  DOIs remain unresolved

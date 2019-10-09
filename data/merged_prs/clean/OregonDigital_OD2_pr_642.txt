@@ -1,0 +1,2 @@
+Add search_and_external_link attribute renderer
+Fixes #530

@@ -1,0 +1,2 @@
+Verify all servers are using DNS for Isilon mounting
+Descriptive summary Some of the servers may be using hard coded IP addresses for Isilon mounts in /etc/fstab instead of ucdatapci.  Check all servers and make changes as needed. Do a test reboot after this to make sure everything mounts afterward. Logged as ticket 9722713

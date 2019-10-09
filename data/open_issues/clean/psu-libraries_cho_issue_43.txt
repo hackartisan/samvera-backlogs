@@ -1,0 +1,3 @@
+discover undigitized related objects
+As an end user, I would like to be able to seamlessly discover materials related to my search, even if those materials have not been digitized yet, so I know I've found everything relevant. Looks like: pre-configured links (or widget snippet views) to summon and/or aspace and/or catalog searches. Scoping this ticket to only include discovering undigitized related objects. #111 captures discovering realted objects.
+Related: #26 

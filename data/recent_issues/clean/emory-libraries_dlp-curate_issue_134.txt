@@ -1,0 +1,2 @@
+Configure the form to use our properties
+Using the metadata spreadsheet Emily gave us, the form should display fields for the properties that are editable in Curate.   Form has the appropriate fields.  System test can get to the form, and find some of the fields.

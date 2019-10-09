@@ -1,0 +1,2 @@
+Fixes all but one upload_and_delete_spec
+After merging this PR we are down to one failing feature test. Big thanks for the help 

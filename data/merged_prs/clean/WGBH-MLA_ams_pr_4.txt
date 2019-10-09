@@ -1,0 +1,2 @@
+Pins simple_form to 3.5.0
+Fixes AMS2-67.

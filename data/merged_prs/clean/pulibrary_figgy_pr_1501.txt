@@ -1,0 +1,2 @@
+Add graphql query for sourceMetadataIdentifier, startPage; mutation for startPage
+refs #1492

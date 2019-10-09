@@ -1,0 +1,2 @@
+Index the README file in Solr
+Indexing the README file in Solr improves performance because we don't have to pull files from Fedora each time a show page is displayed. Furthermore, we can correct any encoding errors in the indexed copy of the README file. We're using the force_encoding option to convert to UTF-8. Any errors that result are reported when the page displays. I can confirm this fixes the issue with this README  which is currently not displaying correctly.

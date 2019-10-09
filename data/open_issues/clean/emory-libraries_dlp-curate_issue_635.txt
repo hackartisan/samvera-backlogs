@@ -1,0 +1,2 @@
+Log events for Work Creation
+Work creation: after the create_work job is successful:  Object Validation

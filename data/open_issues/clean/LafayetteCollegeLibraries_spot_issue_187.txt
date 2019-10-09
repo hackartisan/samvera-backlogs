@@ -1,0 +1,3 @@
+need content for textual pages
+About page Help/Usage page Welcome tagline (see a1400c8)
+ I have written up some text for these pages in [the Google doc]( you made :)   Re: the Help Page... If you agree that it's a good idea, I can make a quickie google form for bug reports, asking folks to submit:      ~their email and name      ~URL and more detail/explanation about problem      ~browser they were using      ~ability to attach a screenshot      ~anything else?

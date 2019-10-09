@@ -1,0 +1,2 @@
+temporarily disable Leaflet map interaction for Safari 11
+This is to do with this: mlibrary/cozy-sun-bear#129

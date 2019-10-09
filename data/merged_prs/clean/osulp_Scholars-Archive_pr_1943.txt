@@ -1,0 +1,2 @@
+update copy single use link class
+fixes #1913

@@ -1,0 +1,2 @@
+Added specs for subject field. Story #94
+Connected to #94

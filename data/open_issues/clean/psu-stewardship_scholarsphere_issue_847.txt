@@ -1,0 +1,2 @@
+Notification and resolution workflow for background issues
+How do we notify the user that errors have occurred in the background ?  Can we have indicators and workflows that help the user fix the errors?

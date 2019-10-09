@@ -1,0 +1,6 @@
+Update linked resource factory
+Use a more idiomatic factory construction like LinkedResource.for(resource:) instead of LinkedResourceFactory.new(resource:).new.
+`*Factory.new(resource:).new` was a pattern I've followed based upon what I had observed elsewhere in the codebase (please see   I fully support this being refactored into a single class method invocation where appropriate.
+That's interesting. I agree with this ticket, but I also don't want to change the pattern in ChangeSetPersister handlers. I'll have to reflect on that. I think it's because the handlers were added after the fact and are there to respond to a duck typing that already existed? 
+In the change set persister the factories are created in one place and used in another. I think that's when it's appropriate to use a factory class (*Factory). Here, I checked the invocations before writing this ticket, and that's not done. Moving the factory from its own class to a `for` method on the `LinkedResource` class would help differentiate the use case.
+Agreed. Also, I like the factory class when you're dependency injecting multiple factories and need some extra parameter to be available. When you're just abstracting away the polymorphism the method pattern is easier to look at. 

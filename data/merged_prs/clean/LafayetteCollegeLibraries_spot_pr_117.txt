@@ -1,0 +1,2 @@
+add stream logger for RecordImporter
+adds the ability for us to write Darlingtonia output to a Logger instance   ensure that it works in practice  closes #116

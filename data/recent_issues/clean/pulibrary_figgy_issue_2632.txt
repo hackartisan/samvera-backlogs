@@ -1,0 +1,2 @@
+Fileset cannot generate derivatives because it's being characterized as `text/plain`
+deleting the fileset and uploading the image again does not fix the problem. fileset:  parent: 

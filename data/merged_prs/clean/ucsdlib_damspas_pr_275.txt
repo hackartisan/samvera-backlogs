@@ -1,0 +1,2 @@
+Fixes 272 - Replacing old contact form with MachForm
+The new form contains a CAPTCHA to help with spam issues we’ve been having.

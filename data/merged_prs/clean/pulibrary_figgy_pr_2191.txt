@@ -1,0 +1,2 @@
+No instance variables in ChangeSetPersister
+Fixes thread-safety when saving multiple resources through the same ChangeSetPersister. Closes #2190 I can't figure out how to add a test to this.

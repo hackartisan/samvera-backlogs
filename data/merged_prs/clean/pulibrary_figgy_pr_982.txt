@@ -1,0 +1,2 @@
+Ensures that the aspect ratio for images in PDF documents is preserved
+Resolves #938

@@ -1,0 +1,3 @@
+Convert from EZid api - Needed by March 2020
+Production release of the JSON api should be stable in the fall.
+When we convert we want to send the mapped resource type in resourceTypeGeneral and the original resource type in resourceType ``` base_body(object).merge!('datacite.resourcetypegeneral' => EZID_RESOURCE_TYPES[object.resource_type.first],                          'datacite.resourcetype' => object.resource_type.first) ``` 

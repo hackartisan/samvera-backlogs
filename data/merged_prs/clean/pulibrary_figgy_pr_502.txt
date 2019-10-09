@@ -1,0 +1,1 @@
+Refactor manifest builder, fixes #311

@@ -1,0 +1,2 @@
+Set file upload limit to 2.5 GB
+Set upload limit in the repository (this may be in multiple places)  Set upload limit in the server config.  Test manually.

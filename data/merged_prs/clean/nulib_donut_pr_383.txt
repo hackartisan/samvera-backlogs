@@ -1,0 +1,2 @@
+fix indexing of String date_modified and date_uploaded dates
+fixes nulib/next-generation-repository#784

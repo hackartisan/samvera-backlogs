@@ -1,0 +1,2 @@
+Add related items helper
+This pull request adds the related_item_documents helper method to fetch related item documents. It takes as input a document and a list of related item field configurations from ddr-portals. For now I've put an example of using the helper in _show_default.html.erb. There is a ddr-portals branch with the same name (item-series) that demonstrates how to configure one or more related item fields for a collection.

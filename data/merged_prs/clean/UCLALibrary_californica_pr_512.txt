@@ -1,0 +1,2 @@
+Update mapper to expect 'AltIdentifier.local'
+instead of 'Alternate Identifier.local' or 'Alt ID.local' connected to #444

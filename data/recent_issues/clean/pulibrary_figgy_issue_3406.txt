@@ -1,0 +1,2 @@
+Split up EAL Item
+ needs to be split into three ScannedResources. Requested by Tom Ventimiglia:  Vols. 1-10 correspond to  Vols. 11-12 to  new messages Vols. 13-16 to 

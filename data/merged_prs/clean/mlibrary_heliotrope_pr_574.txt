@@ -1,0 +1,2 @@
+create penn state theme
+resolves #494 add penn state specific styles to theme.scss modify seeds file to change description add penn state logo will still need final press description and feedback from psu press partners

@@ -1,0 +1,2 @@
+Add ingest scripts to repository
+As the recent ingest to Sandbox is successful, we can go ahead add those scripts to the repository so that we can support future ingests using the same ingest rake tasks.

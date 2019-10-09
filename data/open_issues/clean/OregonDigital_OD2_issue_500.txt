@@ -1,0 +1,3 @@
+Show Controlled Vocab Labels and URIs on form
+Descriptive summary In order to understand the metadata in OD while editing a work it is necessary to see both the URI for the metadata element as well as the Label for the URI. Proposed Behavior when Editing a Work:  URI enabled fields show existing URI with the label next to the URI (see mockup below) Entering a URI returns the label IN the label area, while retaining the URI in the URI area URI and Label remain "locked" upon further edit (as is current behavior for URIs)
+<img width="880" alt="Screen Shot 2019-04-15 at 2 01 24 PM" src=""> 

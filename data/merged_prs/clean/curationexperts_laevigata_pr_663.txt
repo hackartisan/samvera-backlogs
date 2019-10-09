@@ -1,0 +1,2 @@
+Make submission agreement more noticeable
+Fixes #610

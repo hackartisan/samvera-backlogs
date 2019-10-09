@@ -1,0 +1,1 @@
+Use a query for fileset failed/succeeded count.

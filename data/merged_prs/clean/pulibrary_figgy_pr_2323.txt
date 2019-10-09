@@ -1,0 +1,2 @@
+Extending BulkIngestController in order to handle the bulk creation of resources using files downloaded from a cloud storage provider
+Resolves #2274

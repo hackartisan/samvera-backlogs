@@ -1,0 +1,2 @@
+Allow user to choose TAR or ZIP as bag export format 
+ACCEPTANCE When I select one or more works,   I can choose whether to export them to bags using TAR or ZIP  POSSIBLE MOCK-UP

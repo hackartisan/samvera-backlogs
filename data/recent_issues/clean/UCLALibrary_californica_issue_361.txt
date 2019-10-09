@@ -1,0 +1,2 @@
+Document pre-ingest preparation workflow for loading a collection into Samvera
+As a digital library team member or as a Samvera Project team member, I want to have a document that guides me through the steps of ingesting a new collection into Samvera. Acceptance Criteria   A draft document accessible on UCLA Confluence exists that guides someone through the current state process of ingesting a new collection  Selected team members have reviewed the document   -dce      

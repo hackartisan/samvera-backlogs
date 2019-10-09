@@ -1,0 +1,2 @@
+adds missing degree grantors
+fixes #1313

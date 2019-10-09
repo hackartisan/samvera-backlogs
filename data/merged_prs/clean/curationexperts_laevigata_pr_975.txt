@@ -1,0 +1,2 @@
+Return empty metadata instead of `nil`
+Some submissions fail at the EtdsController due to missing supplemental file metadata. The reason this is missing coming from the form is currently unknown, but there's no reason the submission needs to fail in this case. Instead, we return an empty metadata set and save the uploaded file. We notify Honeybadger of the error with relevant metadata. Resolves 

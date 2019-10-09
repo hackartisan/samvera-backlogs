@@ -1,0 +1,2 @@
+DIGREPO-843: enable concurrent ingests
+Currently only for CSVs, and buggy (multiple copies of a collection are sometimes created).

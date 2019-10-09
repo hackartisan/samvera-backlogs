@@ -1,0 +1,2 @@
+Ensures that Collections are built using the LicenseBuilder and RenderingBuilder
+Resolves #379

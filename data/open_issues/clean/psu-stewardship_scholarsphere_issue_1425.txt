@@ -1,0 +1,3 @@
+NSF Grant Numbers
+As more agencies require publications of data sets related to grants, it would be great to have a metadata field to capture the grant number (we can later link grants and data sets). This would be two fields the numbers and the funding unit.  Use this for funding unit: 
+Could possibly explore integrating with grants and contracts.  We do not know which field we would use for the RDF field FOF Funded by might be the best . 

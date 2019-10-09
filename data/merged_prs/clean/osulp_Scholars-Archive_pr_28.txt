@@ -1,0 +1,2 @@
+Push hiding buttons to Sufia
+Closes #25

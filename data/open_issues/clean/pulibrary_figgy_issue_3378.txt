@@ -1,0 +1,3 @@
+BrowseEverything is ingesting non-existent BMP files from Google Drive
+This behavior was reported by a user: I have some files that I am uploading from google drive that are originally tiffs but are ingesting as bmps. Anyone have any idea why that might be happening?  this record   The BMPs appear to have been uploaded with TIFFs:  The user confirms that these BMP files do not exist in the Google Drive Folder.
+I'm now not certain that this is related to `browse-everything`, as I could not reproduce this using Google Drive Folders containing image files in the TIFF.

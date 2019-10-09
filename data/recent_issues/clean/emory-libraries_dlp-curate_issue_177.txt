@@ -1,0 +1,2 @@
+Support custom terms in external vocabs
+Allow a user to type in their own terms in select2 for certain fields:   Institution (D1) Subject – Time Periods (D33) Role – Creator (D45) Role – Contributor (D46) Role Sponsor (D50) Role - Grant/Funding Agency (D53) Rights Holder (D58)    Ensure those terms save correctly.  Create/Update a feature test to show this works.

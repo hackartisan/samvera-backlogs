@@ -1,0 +1,2 @@
+Load the SOLR config in a Dotenv compatible way
+When solr.yaml contains Dotenv-gem lines (e.g. url: <%= ENV['myUrl'] %>, these expression-printing tags were treated as literals rather than being translated into their corresponding variable values (stored in .env file). The error seen in the app logging is: ActionView::Template::Error (bad URI(is not URI?): <%= ENV['myUrl'] %>/): This commit fixes the situation.

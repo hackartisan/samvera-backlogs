@@ -1,0 +1,2 @@
+Restoring deleted schema.rb file
+This was previously deleted in 2a94cdf

@@ -1,0 +1,2 @@
+Select worktype text
+fixes #1325 fixes #1286

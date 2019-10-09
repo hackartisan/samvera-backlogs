@@ -1,0 +1,2 @@
+Move `babel-preset-es2015` out of dev dependencies
+Similar to a Gemfile, package.json has dev dependencies. This was added to dev dependencies, but needs to be present to deploy. This commit moves it. Related to #1233

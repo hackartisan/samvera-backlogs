@@ -1,0 +1,2 @@
+Collection object search results section crops some images awkwardly
+Noted in 6/2/2016 Test Fest. Some collection thumbnails, especially ones that are portrait-oriented, look odd when present in the Matching Collections section of search results. They are top-aligned and thus crop off the bottom.  We might want to center these w/CSS.

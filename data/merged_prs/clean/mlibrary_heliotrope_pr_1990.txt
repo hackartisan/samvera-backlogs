@@ -1,0 +1,1 @@
+revert digest RE:Hyrax #1079

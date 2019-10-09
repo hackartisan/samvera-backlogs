@@ -1,0 +1,2 @@
+Add error handling to audio derivatives service
+Other derivative services set error messages on the file set when they error out (and clear them when derivatives are cleared). Audio should also, for consistency. There is a lot of duplicate code in this process between derivative services. Should we consider extracting a derivative cleaner class or something? hocr derivative service also has no error message functionality. Do we want to add it there also?

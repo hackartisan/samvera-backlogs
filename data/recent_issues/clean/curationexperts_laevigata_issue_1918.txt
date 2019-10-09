@@ -1,0 +1,2 @@
+Error updating embargo release date for work
+[Emory laevigata PROD/production] Notice: Error updating embargo release date for work A Matter of Life and Death: How Eulogists Inform and Influence Homegoings: invalid value for Integer(): "None" Backtrace line 73 of [PROJECT_ROOT]/app/jobs/graduation_job.rb: rescue in update_embargo_release_date line 55 of [PROJECT_ROOT]/app/jobs/graduation_job.rb: update_embargo_release_date line 19 of [PROJECT_ROOT]/app/jobs/graduation_job.rb: perform  View full backtrace and more info at honeybadger.io

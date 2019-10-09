@@ -1,0 +1,2 @@
+Feature/handle yaml
+fixes #902

@@ -1,0 +1,2 @@
+add pseudo class selectors for aligning holding contact
+Closes #530 add pseudo class selectors for aligning holding contact output with table row headings

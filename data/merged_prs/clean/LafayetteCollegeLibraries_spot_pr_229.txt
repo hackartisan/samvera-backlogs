@@ -1,0 +1,2 @@
+set up staging environment
+WIP until everything is set-up closes #8

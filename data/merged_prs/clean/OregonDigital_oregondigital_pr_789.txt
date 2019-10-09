@@ -1,0 +1,2 @@
+Fix crash on downloading GenericAsset data
+Closes #783

@@ -1,0 +1,2 @@
+Ensures that the browse-everything bag uploader for ArchivalMediaCollections does not collide with the DOM binding for ScannedResource file uploader
+Otherwise,  breaks this for resource (e. g. ScannedResource) file management

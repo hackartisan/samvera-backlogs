@@ -1,0 +1,2 @@
+fix mixed line endings
+It's always been like that. There are a bunch of CR line endings in the internationalization part of Able Player's code. Makes it annoying to edit.

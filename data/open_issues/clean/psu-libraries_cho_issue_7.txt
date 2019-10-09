@@ -1,0 +1,6 @@
+Apply Analytics Tracking Code
+As a collection curator, I want to access usage statistics, So that I can view and assess user pathways through CHO Access for user experience and collection analysis. Acceptance Criteria: Analytics for search, browse, results, objects, and index pages. Minimal implementation does not display analytics to front and back-end users. Full implementation displays analytics to front and back-end users, with some flexibility in manipulating the data for back-end users. Originally pointed at 20
+I would really like it if we did not use Google Analytics for CHO Access due to privacy concerns of our patrons. I would prefer to implement [PiWik]( at University Libraries.
+See 
+[Google] Analytics best practices report for digital libraries. Hopefully will carry over for piwik. 
+#427 is a bare-bones implementation of analytics tracking. This ticket represents a more nuanced and strategic implementation. * gathering statistics for downloads * user interaction data * how much time is being spent on specific actions * utilize strategies outlined in best practices report (noted above)

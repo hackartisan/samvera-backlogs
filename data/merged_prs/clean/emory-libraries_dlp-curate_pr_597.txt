@@ -1,0 +1,1 @@
+Add place of production to view work page

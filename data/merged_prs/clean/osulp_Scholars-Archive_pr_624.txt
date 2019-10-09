@@ -1,0 +1,2 @@
+adds iso639-2 languages as a local QA
+fixes #583

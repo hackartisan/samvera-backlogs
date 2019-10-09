@@ -1,0 +1,2 @@
+better parsing of date_uploaded from magazine mapper
+we probably should have been doing this all along, to be honest. this improves support for date_uploaded values in the newspaper metadata. business rules:  only one date? no date_uploaded duplicate dates? no date_uploaded newer date becomes date_uploaded others get mapped to date_issued  closes #151

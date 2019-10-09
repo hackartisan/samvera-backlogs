@@ -1,0 +1,2 @@
+Moving code out of seed into appropriate classes
+This allows it to be tested This is a precursor to adding more functionality to the Schema configuration to allow for each schema to override data dictionary field attribute values refs #437 Description References ticket: (if any) Why was this necessary? Changes Are there any major changes in this PR that will change the release process? Checklist   i18n enabled  adequate test coverage  accessible interface

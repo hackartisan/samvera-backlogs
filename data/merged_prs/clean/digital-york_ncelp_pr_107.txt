@@ -1,0 +1,2 @@
+conditionally rendering oasis/iris link div
+resolves #85

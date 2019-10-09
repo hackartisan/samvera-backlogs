@@ -1,0 +1,1 @@
+Update z-index in add_content or in sticky bar

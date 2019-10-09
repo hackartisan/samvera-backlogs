@@ -1,0 +1,4 @@
+Linking summaries
+With the 'language summary written in' feature we're encouraging submissions in various languages. It is very possible that the same summary will be available in multiple languages. Is there any way for two language versions of the same summary to be linked?
+We can have a new field to define the link, e.g. related_summaries or other name making sense to people.
+Ok, that sounds all right. Would it take much time to do this?

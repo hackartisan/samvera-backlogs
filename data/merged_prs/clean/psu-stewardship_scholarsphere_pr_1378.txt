@@ -1,0 +1,2 @@
+Splitting out benchmark tests according to browser
+Another refactor of our benchmark tests. This renames the tests and has them run separately for each browser via environment variables. For Example: BENCHMARK_BROWSER="firefox" BENCHMARK_URL="" bundle exec rspec spec/local_upload_spec.rb  The README has been removed in favor of a wiki page and the unused variables page has been removed as well.

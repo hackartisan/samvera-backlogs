@@ -1,0 +1,3 @@
+loading the dashboard is unacceptably slow
+from the user name link in the top right of the page, select dashboard...load time is slow
+A little testing showed these two views (provided in the Hyrax gem) as being the bulk of the time to render: - `/app/views/hyrax/dashboard/show_admin.html.erb within layouts/dashboard (482.4ms)` (regularly between 650ms and 350ms)  - `/app/views/_user_util_links.html.erb (352.9ms)` (usually quite fast, but can be quite slow because of the database query tied to rendering the count of mailboxer notifications for the current user) : 

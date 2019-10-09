@@ -1,0 +1,2 @@
+Add a placeholder image for unauthorized file access
+Hyrax 2.1.0 added a deprecation to stop using redirect_to default_image Best practice is now to provide a specific image for unauthorized download requests.  The new generator provides this in new apps but does not provide it for existing applications which must manually add it. This has become a problem when external systems scan etd.library.emory.edu and attempt to access invalid or unauthorized links, causing lots of noisy deprecation warnings in our log files. Addresses curationexperts/in-house#155

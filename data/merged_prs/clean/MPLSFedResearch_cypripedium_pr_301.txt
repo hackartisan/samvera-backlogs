@@ -1,0 +1,2 @@
+Update staging deploy IP
+This switches the deploy IP to the new Elastic IP. Connected to #290

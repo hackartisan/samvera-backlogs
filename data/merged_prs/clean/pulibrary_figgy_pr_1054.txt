@@ -1,0 +1,2 @@
+Add test for ephemera folder indexer
+Adds a test for use in future refactoring

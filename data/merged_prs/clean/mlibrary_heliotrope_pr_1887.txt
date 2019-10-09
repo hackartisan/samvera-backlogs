@@ -1,0 +1,1 @@
+HELIO-1935 exclude lib/tasks from coveralls

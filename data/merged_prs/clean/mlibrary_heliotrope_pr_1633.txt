@@ -1,0 +1,1 @@
+Addresses #1586 synchronizing [X] state with 3D Model toggle control.

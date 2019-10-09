@@ -1,0 +1,2 @@
+Replace conference_section predicate on all works needed
+Descriptive summary Once #1781 is completed, find all works with the old, wrong predicate for conference_section:  Can't rely on just Solr. Replace with correct predicate on those works and save. Related work #1781

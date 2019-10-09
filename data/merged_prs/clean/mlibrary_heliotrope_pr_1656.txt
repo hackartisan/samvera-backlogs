@@ -1,0 +1,2 @@
+.unityweb files are already gzipped
+Resolves #1645

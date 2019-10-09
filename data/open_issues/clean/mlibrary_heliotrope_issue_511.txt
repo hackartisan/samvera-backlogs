@@ -1,0 +1,3 @@
+Browse list of books on the platform
+As a general public user, I should be able to see all of the books on the platform, regardless of the publisher.    Display basic book metadata (title, author, description, publisher, pub date) and a link to the book's catalog page.  If the book has an EPUB attached, display a link/button to "Read online"  Apply the Fulcrum style guide/branding to the page  List includes all published books in the application
+Needs mockup

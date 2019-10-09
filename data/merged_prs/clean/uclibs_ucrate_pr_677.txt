@@ -1,0 +1,2 @@
+Define timezone to fix embargo spec failures
+Fixes #655 This fix defines the current timezone as Eastern Time (US & Canada), so that the embargo specs don't fail after 7:00 PM (Due to UTC conversion). When testing locally, I only had 2 specs fail rspec ./spec/features/hyrax/embargo_spec.rb:79 rspec ./spec/features/hyrax/embargo_spec.rb:15 I don't know if the other specs are fixed by this, or there needs to be other fixes implemented

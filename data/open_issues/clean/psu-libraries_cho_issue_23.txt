@@ -1,0 +1,2 @@
+User collections
+As a user I would like the ability to pull together objects from across the repository and save them in some way so that I can easily refer to them as a group at a later time. Additional user story from Catherine A. As an instructor/student user I want my created personal collections to be persistent across computers and platforms so that I can access it from anywhere.

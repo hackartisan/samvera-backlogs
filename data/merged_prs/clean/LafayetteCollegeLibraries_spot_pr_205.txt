@@ -1,0 +1,2 @@
+move all overrides to their own files
+i've been running into issues locally where every-so-often Hyrax::CollectionsController will forget that i've set the presenter_class attribute to Spot::CollectionPresenter and will get errors about not-defined methods. my guess is that this is because of classes being reloaded after boot and not remembering the attribute changes from the initializers. so it's not a production problem but it is really annoying when dev-ing. moving the definitions into class_eval calls should prevent this, i think.

@@ -1,0 +1,2 @@
+Add login button option for 401 pages.
+Also change unauthorized page to display the noid instead of the item id (which includes the fedora namespace). issue #257

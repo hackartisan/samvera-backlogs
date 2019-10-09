@@ -1,0 +1,2 @@
+Investigate direct connection of Cantaloupe to S3 (vs. Http through fedora) for file access
+ACCEPTANCE Give an image stored in S3 with a known identifier - e.g. test_image.jpg or 98310afc.tiff   I can request that image via the standard cantaloupe IIIF 2.1 Image API e.g.       I can request different file formats using the .png, .jpg, .tif suffixes (per the API format specification)  I can scale the image to 15% of full size using the pct:15 (per the API size specification)  Cantaloupe requests the file directly from S3 (i.e. not via a request through fedora)

@@ -1,0 +1,2 @@
+Display visibility notice that takes both the visibility property and workflow into account
+Fixes #682

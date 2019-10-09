@@ -1,0 +1,2 @@
+Use first file as representative/thumbnail
+Fixes nulib/next-generation-repository#844

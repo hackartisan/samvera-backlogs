@@ -1,0 +1,2 @@
+Add imported metadata to collections
+closes #3077

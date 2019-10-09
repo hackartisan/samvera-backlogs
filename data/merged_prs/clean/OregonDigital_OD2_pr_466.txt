@@ -1,0 +1,2 @@
+Use POST method to query solr
+Fixes #463 We use FAR too much metadata to query via GET.  Here's some docs about the underlying Rsolr details.  And the config in Blacklight this changes.

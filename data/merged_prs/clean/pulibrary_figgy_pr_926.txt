@@ -1,0 +1,2 @@
+Places Vue Filemanager status alert in unobtrusive place
+This prevents blocking user from interacting with Filemanager and thus provides a temporary workaround for #920

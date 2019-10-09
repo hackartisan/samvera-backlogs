@@ -1,0 +1,2 @@
+Ruby25
+fixes #75 there was a bug with the version of rubygems (2.7.3) that ships with ruby 2.5.0, so you have you update to the latest version of rubygems before running the specs otherwise nothing can run. (travis-ci/travis-ci#8978)

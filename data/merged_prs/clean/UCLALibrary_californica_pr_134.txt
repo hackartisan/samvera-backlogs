@@ -1,0 +1,2 @@
+Upgrade Hyrax to 2.2.4
+See release notes:  Declining to update terms.html.erb since we will probably want to revise this text substantially anyway.

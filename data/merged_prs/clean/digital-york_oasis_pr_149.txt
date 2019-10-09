@@ -1,0 +1,2 @@
+Add Resque configuration
+Get application configured with dedicated resque/redis server  two separate queues for ingest and update separate oasis-test, development, production queues prefixes names

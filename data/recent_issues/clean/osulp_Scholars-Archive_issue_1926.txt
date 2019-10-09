@@ -1,0 +1,2 @@
+Remove blur from masthead since we have no type over image
+Descriptive summary Blur is added to the masthead image in case text is used over the image, but since we're not using text here, we don't need the blur. Expected behavior Masthead image doesn't have blur. Actual behavior Masthead image has blur.

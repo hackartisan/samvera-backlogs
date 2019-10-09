@@ -1,0 +1,4 @@
+Transfer Kobe collection files to Cor staging
+Kobe file paths:  Estimated file size: 25 GB Estimated file count: 195 (tifs)
+CSV file has been downloaded and massaged for 'rclone';  Started 'rclone' transfer 10/02/2019 @ 4:45PM
+![Kobe.png](  File transfer complete after 1 hour 26 minutes.  Destination folder on 'curate.library.emory.edu': /mnt/prod_efs/Collections/dmfiles/Libraries/Oxford_SpecColl/OX-MSS011  MD5 checks will begin 10/03/2019.

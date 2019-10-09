@@ -1,0 +1,2 @@
+Update FAQ questions and answers.
+I only reworded unintelligible questions, and removed some unnecessary or old text from answers. I'm unsure if the text needs to go through any kind of review. The FAQ questions themselves could be grouped better, and there were a few questions which i think are missing, such as "How do I use it?" and "what is a preservation repository?", and "what kind of things should be deposited?"

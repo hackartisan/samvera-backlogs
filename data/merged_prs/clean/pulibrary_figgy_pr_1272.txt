@@ -1,0 +1,2 @@
+Fix original file and derivative deletion
+Trying this one again. Closes #981

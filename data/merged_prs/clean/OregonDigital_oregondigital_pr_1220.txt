@@ -1,0 +1,2 @@
+Fix/update ruby vips
+updating ruby-vips gets rid of the gobject-introspection dependency, which is preventing us from building on production.

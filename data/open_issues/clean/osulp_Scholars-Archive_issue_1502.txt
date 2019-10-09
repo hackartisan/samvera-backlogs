@@ -1,0 +1,2 @@
+[Advanced Search] Add search button at top of page
+Currently, the search button on the advanced search page is at the bottom, requiring one to scroll to the bottom of the page to enact the search. Do: Add the search button to the top of the page, next to the Start Over button.

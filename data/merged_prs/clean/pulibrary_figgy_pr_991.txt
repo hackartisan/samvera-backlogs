@@ -1,0 +1,2 @@
+Allows for enlarged/zoomable image viewing in Vue Filemanager
+fixes #763

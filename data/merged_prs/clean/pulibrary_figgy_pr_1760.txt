@@ -1,0 +1,2 @@
+Ingest mets file itself during mets ingest
+fixes #1736

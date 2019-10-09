@@ -1,0 +1,1 @@
+Migrated content should mint a new id with noid

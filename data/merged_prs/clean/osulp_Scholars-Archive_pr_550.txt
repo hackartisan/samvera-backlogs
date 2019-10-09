@@ -1,0 +1,2 @@
+Configure Geonames username in app. Geonames search working
+Fixes #541 Geonames is configured in the application now. Also, the Geonames credentials exist in LastPass and Geonames account is set up such that the free webapp service is working. This allows the location field to autocomplete in scholars archive.

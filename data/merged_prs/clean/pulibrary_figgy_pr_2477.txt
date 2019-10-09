@@ -1,0 +1,2 @@
+Support adding one track.
+We learned a lot about javascript today. Closes #2316

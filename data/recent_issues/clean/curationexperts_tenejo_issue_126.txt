@@ -1,0 +1,2 @@
+Refresh or back doesn't work on preview back
+If you refresh the preview page or hit the back button in the browser you get the following error: ActiveRecord::RecordNotFound in CsvImportsController#show Couldn't find CsvImport with 'id'=preview

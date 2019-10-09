@@ -1,0 +1,2 @@
+Improved Bulk Bag Ingest
+This breaks CSV ingests but makes bulk bag ingests able to be restarted and diagnosed from the UI.

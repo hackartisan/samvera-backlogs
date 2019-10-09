@@ -1,0 +1,2 @@
+Make bennett tiffs available for import in all environments
+Copy files from Netapp\Dlib\Masters\dlmasters\bennett\masters to opt/data for loading next collection   californica-dev  californica-test  californica-stage  californica (prod)

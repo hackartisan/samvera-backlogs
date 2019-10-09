@@ -1,0 +1,2 @@
+Adding order manager support to Ephemera Folders
+Fixes #1333

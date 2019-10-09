@@ -1,0 +1,2 @@
+Don't join multi-val titles with 'and'; don't show breadcrumb when no parents
+fixes #588, fixes #587

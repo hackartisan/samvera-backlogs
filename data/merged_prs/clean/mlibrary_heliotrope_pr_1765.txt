@@ -1,0 +1,2 @@
+Update CSB with Safari bug fix
+Includes updated version of CSB with fixes for CSB#78 as well as local changes to heliotrope e-reader CSS to account for the share button and close reader button.

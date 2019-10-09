@@ -1,0 +1,4 @@
+Log preservation events related to Characterization
+Characterization: in the characterization job:  Characterization events: Metadata extraction (files/FITS) Format identification (files/FITS) Validation (files/FITS)
+We will log this as one "event", since all these happen at the same time.
+Pseudocode is something like  ``` Find work for this fileset Create new preservation_event object Fill it in Attach it to the work and save it ```

@@ -1,0 +1,2 @@
+Member url with parent_id should be redirected to the member's url when detaching the member from the parent.
+Numismatic issue with 2 coins (Coin 9, Coin 14):  Detaching coin 9 from the numismatic_issue should not keep the parent_id in the url when user visits coin 9  It should redirect to 

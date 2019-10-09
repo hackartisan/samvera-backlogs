@@ -1,0 +1,2 @@
+Clean up download temporary files
+Descriptive summary #666 Provides a way to create temporary CSV files for download. Those will need to be cleaned from the filesystem at some point. The two major ways to do this are a queued job to remove the file at some arbitrary point after creation or a background job that periodically cleans out unused files. I prefer the queued deletion after, say, 12 hours. Expected behavior Files created from #666 are removed after they are no longer needed. Related work #666 Accessibility Concerns None

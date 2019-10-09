@@ -1,0 +1,2 @@
+Allow physical container to be emptied; add feature spec to prevent regression
+Looks like whatever was preventing me from doing feature specs involving form submission is resolved. I must have made a config change somewhere along the way that fixed this! This PR includes another feature spec fix which I did first just to see whether they were working.

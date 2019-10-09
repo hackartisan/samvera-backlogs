@@ -1,0 +1,2 @@
+Add a stage for DCE's qa server
+This adds a stage that can be used to deploy to DCE's server: 

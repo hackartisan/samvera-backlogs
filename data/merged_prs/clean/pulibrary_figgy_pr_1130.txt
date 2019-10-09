@@ -1,0 +1,2 @@
+Don't merge imported identifier in geoblacklight metadata decorator
+Closes #1106

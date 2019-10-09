@@ -1,0 +1,2 @@
+Removes file_format and keyword from form unless admin
+Fixes #814 Fixes #783

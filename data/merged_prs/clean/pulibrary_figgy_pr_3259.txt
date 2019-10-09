@@ -1,0 +1,2 @@
+Introduces a "fetching" property to the OrderManagerControls component
+Relates to #3233 by introducing a "fetching" property to the OrderManagerControls component in order to prevent users from submitting GraphQL update mutations between Resource updates

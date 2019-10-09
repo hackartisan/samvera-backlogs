@@ -1,0 +1,2 @@
+disable user account creation in production, #266
+Resolves #266

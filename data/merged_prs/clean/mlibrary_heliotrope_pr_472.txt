@@ -1,0 +1,2 @@
+rake task to clean up IIIF files and tmp/uploads
+#297

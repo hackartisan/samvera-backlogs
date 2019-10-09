@@ -1,0 +1,2 @@
+Feature/destroy user session
+Fixes #47 Overrides DevisecCasAuthenticatable's creation of its routes to link destroy_user_session to devises original way of ending user sessions. Doesn't log you out of cas but logs you out of SA@OSU.

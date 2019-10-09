@@ -1,0 +1,2 @@
+Added honeybadger
+Solves #200

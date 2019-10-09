@@ -1,0 +1,2 @@
+use facet fields to improve speed of facet pagination functionality
+fixes #1349

@@ -1,0 +1,2 @@
+Feature a Collection or a work
+Currently we can only feature works.  We would also like the ability to feature collections.

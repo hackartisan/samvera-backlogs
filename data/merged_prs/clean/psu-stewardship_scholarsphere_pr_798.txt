@@ -1,0 +1,2 @@
+Changing the office processor to convert office docs into a png instead of pdf
+then into a jpeg so that the processing is faster soffice --convert_to pdf seems to hang for complex documents soffice --convert_to png seems to work faster for all types of documents We still go ahead and convert it to a jpeg again so that we create a small image.

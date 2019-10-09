@@ -1,0 +1,2 @@
+update hyrax-migrator gem to update relationships
+update for hyrax-migrator that includes:  admin_set_id update in admin_set_membership_service (fixes OregonDigital/hyrax-migrator#146) fix for relationships (fixes OregonDigital/hyrax-migrator#141)

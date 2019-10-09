@@ -1,0 +1,3 @@
+When a work has no filesets then it should show the work icon (box)
+It should also show No items instead on the item list example: 
+This should be a change to the null presenter

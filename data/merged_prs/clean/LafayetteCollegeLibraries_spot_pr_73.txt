@@ -1,0 +1,2 @@
+add uris to imports
+for our controlled vocabulary properties, this adds methods to mappers to ensure that URIs are passed through and, when applicable, nested attributes are sent in their preferred hash format. to do still   add language support for LDR  add locations for Shakespeare Bulletin items

@@ -1,0 +1,2 @@
+Fix collection indexing
+fixes  BatchItems with no collection id/name caused this error to be raised because there was no member_of_collections key in the hash, but records with collection references do. I just changed the call to do a safe check before running the enumerator

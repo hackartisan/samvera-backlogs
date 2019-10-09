@@ -1,0 +1,2 @@
+Release 1.87
+Descriptive summary  Version: 1.87 Release Manager:  Product Owner and Reviewer:  Operations:    To Verify   #575 Add embed URL to audio and image objects  ucsdlib/damsrepo#73 Add Update DOI record function

@@ -1,0 +1,2 @@
+When Updating versions an old thumbnail can be used
+When updating versions an old thumbnail will be used if the new file type does not produce a thumbnail Upload a png Edit the file set and upload a new version that is a tif The tif produces  no thumbnail so the png thumbnail is still being used

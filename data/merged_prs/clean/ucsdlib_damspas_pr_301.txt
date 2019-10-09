@@ -1,0 +1,2 @@
+Add nofollow link to file download
+Fixes #300  ; refs #300 Changes proposed in this pull request:  Add rel=nofollow to the download links  /developers - please review

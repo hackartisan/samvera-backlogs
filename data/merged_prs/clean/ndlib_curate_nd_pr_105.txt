@@ -1,0 +1,2 @@
+Adding Contributing document
+ could you review this and comment on unclear things? Is there pertinent information that would help you out? [skip ci]

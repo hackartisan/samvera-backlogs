@@ -1,0 +1,2 @@
+Update Catalog Page
+Default catalog page should updated to explain the catalog. Search resources or browse collections and search within them. Search help. 

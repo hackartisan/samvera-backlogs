@@ -1,0 +1,2 @@
+Update to Hyrax 2.1.0_beta1b_qa
+Fixes #135 This updates ucrate to use Hyrax v2.1.0_beta1b_qa.  This is the same Hyrax version nurax is using and incorporates fixes based on the recent QA testing. Most of this commit just tweaks our feature specs to match the changes made to the same specs in Hyrax.

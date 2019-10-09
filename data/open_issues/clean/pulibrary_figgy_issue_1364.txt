@@ -1,0 +1,3 @@
+Explore IIIF 3.0 Migration Support
+Discuss with community members how to support publishing IIIF Manifests between versions for different viewers.
+UV gotcha:  IIIF image `service` declarations have to have an `@id` and `@type` key rather than `id` and `type`, and the `profile` has to be ``. `@type` should be `ImageService2`.  You can find an example v3 manifest here: 

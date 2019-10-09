@@ -1,0 +1,2 @@
+Enabling headless testing in features
+Makes changes to our local js-based login methods, and the methods included with Warden so that headless versions of chrome are used when running tests. With thanks to     

@@ -1,0 +1,2 @@
+Add last modified to work show pages
+Fixes #600 Adds the last modified section to the work show page

@@ -1,0 +1,4 @@
+Update Batch Details view to explain deleted items
+Done when:  There is a method for "expunging" BatchItem instances that have completed, but who had siblings and/or children that failed, and the method does the following:  deletes the repository object deletes repo_object_id for BatchItem instances where the repository ID has been deleted.   Uses hyrax-batch_ingest gem after samvera-labs/hyrax-batch_ingest#138 has been merged.
+ can you update this ticket with a comment on the ultimate decisions we made? just so we have the record. 
+>  can you update this ticket with a comment on the ultimate decisions we made? just so we have the record.  I updated the ticket description

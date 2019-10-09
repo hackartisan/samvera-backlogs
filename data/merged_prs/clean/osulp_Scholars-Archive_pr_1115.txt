@@ -1,0 +1,2 @@
+updated gitignore and sitemap config
+updated gitignore to ignore sitemap files in the public directory updated sitemap config to create create index and sitemap files in a shared directory

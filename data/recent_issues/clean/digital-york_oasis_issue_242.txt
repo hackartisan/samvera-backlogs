@@ -1,0 +1,2 @@
+Alignment of search results
+In the search results the alignment is different for each summary (see arrows below). Could they be made to look the same or is there a reason for this?

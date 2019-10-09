@@ -1,0 +1,2 @@
+Investigate integration(s) with Canvas
+Descriptive summary Brainstorm and research ways in which Scholar can integrate with the new Canvas LMS. One possibility: Instructors can easily archive the materials for a course into Scholar after the semester has ended.  This could include the syllabus, files, links, logs of chats, discussions, etc.

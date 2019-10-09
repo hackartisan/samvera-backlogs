@@ -1,0 +1,2 @@
+FileSet form fields that should be a controlled list/pulldown/radio
+There are some FileSet form fields that should not be free text but something else. "Allow Download" for instance needs to be lowercase "yes", not "Yes" which is very confusing.  Find all the form elements that should be controlled, make them radio buttons or dropdowns. Maybe reconsider using english "yes"/"no" and opt for true/false or 0/1.

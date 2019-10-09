@@ -1,0 +1,2 @@
+add a fulcrum branded loader icon to e-reader
+HELIO-1750 #done #comment add CSS styles and override CSB to use fulcrum loading icon that appears when e-reader is loading a new section of an EPUB.

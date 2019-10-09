@@ -1,0 +1,2 @@
+Changes search placeholder
+Fixes #648

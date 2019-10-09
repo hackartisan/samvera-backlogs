@@ -1,0 +1,2 @@
+Add monogram properties to coin orangelight document
+Advances pulibrary/orangelight#1616. Co-authored-by: Christina Chortaria 

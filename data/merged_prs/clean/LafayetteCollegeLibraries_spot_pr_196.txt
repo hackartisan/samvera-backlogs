@@ -1,0 +1,2 @@
+add support for specifying collections on ingest
+adds the option to pass collection ids to the record importer to add new items to a collection bundle exec rails spot:ingest \   work_class=Publication \   source=ldr \   path=/path/to/ldr-bags \   collection_ids=abc123,def456 from the command-line, use a comma (no space!) separator closes #69

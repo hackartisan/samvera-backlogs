@@ -1,0 +1,1 @@
+Allow update via json to power new file manager, fixes #551

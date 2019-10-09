@@ -1,0 +1,2 @@
+disallow a changing work type in the validation
+Description Adding a validation to not allow work type to change Connected to #817 Changes  Add a validation to disallow work type from changing Allow work_type to be modified by the hash validator, so the error message will be produced

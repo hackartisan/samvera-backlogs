@@ -1,0 +1,2 @@
+Feature/stats styling
+fixes #233 fixes #214

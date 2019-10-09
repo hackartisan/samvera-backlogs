@@ -1,0 +1,2 @@
+BulkIngestService now preserves file names for WAV
+Closes #2420

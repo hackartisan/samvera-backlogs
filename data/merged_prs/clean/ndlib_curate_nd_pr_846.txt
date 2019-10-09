@@ -1,0 +1,2 @@
+Add config for image viewer
+Add configurable options for iiif viewer urls to environment config files. Currently all point to production environment, but may be changed once other environment options are available. Also, at  request, the iiif viewer was changed to open in a new tab.

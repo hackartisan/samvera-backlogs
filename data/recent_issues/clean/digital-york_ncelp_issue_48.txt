@@ -1,0 +1,2 @@
+Text changes in the field descriptions
+Can we make some text changes in the descriptions on the upload form. I've marked the changes in purple in the metadata doc.

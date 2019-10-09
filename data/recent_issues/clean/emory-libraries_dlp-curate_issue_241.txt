@@ -1,0 +1,2 @@
+Security hardening for AWS at Emory
+Review security group to minimize access  Remove any unneeded accounts, users or accounts without passwords  Test to ensure functionality is still working

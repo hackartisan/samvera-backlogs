@@ -1,0 +1,2 @@
+Only reference jettywrapper when in test
+That gem isn't loaded in production

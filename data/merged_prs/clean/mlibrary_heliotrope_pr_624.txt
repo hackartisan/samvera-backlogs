@@ -1,0 +1,2 @@
+Resolves a series of accessibility issues for fulcrum static pages
+Resolves #607 Resolves #608 Resolves #609 Resolves #610 Resolves #611 Resolves #612 Resolves #613

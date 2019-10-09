@@ -1,0 +1,2 @@
+Adjust common objects behavior
+This improves several things about the common objects viewer. Addresses #273

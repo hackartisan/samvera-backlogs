@@ -1,0 +1,2 @@
+adds configuration to allow for remote debugging the web app in a docker container
+Gems for remote debugging, and an example override for running the server in debug mode. Thrashed around a lot with this until I figured out that puma, running with workers, was the underlying problem preventing the remote debugging from working properly.

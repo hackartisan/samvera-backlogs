@@ -1,0 +1,2 @@
+Set up cypripedium-cd server for continuous deployment
+ACCEPTANCE   We have a new environment set up for continuous deployment  Master gets deployed to cypripedium-cd on new commits

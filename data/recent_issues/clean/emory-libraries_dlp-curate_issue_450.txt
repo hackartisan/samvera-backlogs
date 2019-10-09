@@ -1,0 +1,2 @@
+Adjust fieldname for Collections metadata: Related Material - Finding Aid
+In the Curate Collection-level metadata,  was implemented with the fieldname related_material. Its intent is to store a URL which links to an online Finding Aid. This Collection-level fieldname should be adjusted to a distinct name to avoid confusion with the work-level field :related_material, because it has a more specific meaning and uses a distinct predicate. Suggestion change this to :finding_aid_link Relates to epic #75 and other Collection-related tickets: #403; #406; #387

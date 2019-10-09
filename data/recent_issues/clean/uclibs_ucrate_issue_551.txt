@@ -1,0 +1,2 @@
+Increase code test coverage
+Descriptive summary   Identify lines of code not touched by tests (see Coveralls reports)   Determine if Hyrax tests need to be moved to ucrate to cover overrides   Write new tests to verify behavior of uncovered lines

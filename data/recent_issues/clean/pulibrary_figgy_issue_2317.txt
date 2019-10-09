@@ -1,0 +1,2 @@
+UV title doesn't change when switching between songs
+Right now it pulls the title from either the table of contents node or the title of the manifest, not the canvas title. To fix this in the short term, we're going to have to create a fake structure with ranges that just have the titles of the tracks.

@@ -1,0 +1,2 @@
+Ansible: rails secret
+check to see if rails secret is already set, if so dont re-generate or export so it doesnt change unless it needs to.

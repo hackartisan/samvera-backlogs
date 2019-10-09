@@ -1,0 +1,1 @@
+Rake task to request cloud fixity check of a single resource

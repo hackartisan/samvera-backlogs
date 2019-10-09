@@ -1,0 +1,2 @@
+Add firstrun.sh and instructions
+Makes for a slightly more streamlined process when you need to start fresh

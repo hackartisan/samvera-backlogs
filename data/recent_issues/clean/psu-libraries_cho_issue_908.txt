@@ -1,0 +1,2 @@
+Capture rescued exceptions
+Related to #835 This will register exceptions that do occur but that we rescue and otherwise might not notice. We can use NewRelic to register the error. TODO:  create service class to process rescued exceptions for every rescue block in the application, add the service class and pass in the exception configure the service class to use NewRelic's method for registering an exception  See 

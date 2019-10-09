@@ -1,0 +1,2 @@
+Create Asian Artifacts and Medical Artifacts Collections for Phase 1
+These collections are not in scope for DCE to migrate, but Emory will do so separately.   create Asian Artifacts Collection in Test  create Medical Artifacts Collection in Test  Needs to be added to Collection automation task

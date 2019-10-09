@@ -1,0 +1,1 @@
+Allow FileSets to render the edit form.

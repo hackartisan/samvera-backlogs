@@ -1,0 +1,1 @@
+change keyword in Judical Work to new attribute class (BEFORE ANY IMPORT!)

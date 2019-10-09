@@ -1,0 +1,1 @@
+Deleted accessors that are part of ActiveFedora::Crosswalks now.

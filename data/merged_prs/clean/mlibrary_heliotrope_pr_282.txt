@@ -1,0 +1,2 @@
+fix for facet limit bug #278
+Resolves #278

@@ -1,0 +1,2 @@
+add volume/issue to MagazineMapper#title
+extends MagazineMapper's handling of #title to include:  TitleInfoNonSort TitleInfoTItle PartDetailTypeVolume PartDetailTypeIssue PartDate_NaturalLanguage  where applicable. closes #118

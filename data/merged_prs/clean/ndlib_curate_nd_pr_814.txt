@@ -1,0 +1,2 @@
+Removing unused LDAP code
+This code is uncalled within the code base. It was used existed prior to adopting the JS behavior for looking up a NetID / Name.

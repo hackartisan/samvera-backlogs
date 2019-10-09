@@ -1,0 +1,2 @@
+bundle update
+Addresses a vulnerability in devise. Upgrades other gems. Ensures we don't use the (not totally stable) bundler 2.0 in docker

@@ -1,0 +1,2 @@
+Travis: Remove unused directive sudo: false
+This PR removes a now-unused setting from Travis config.  [ci skip], since it's just configuration.

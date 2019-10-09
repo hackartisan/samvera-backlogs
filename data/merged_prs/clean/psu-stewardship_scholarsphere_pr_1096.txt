@@ -1,0 +1,2 @@
+Enable ordered creators with custom predicate, ref #949, #1049
+Implementing an ordered aggregation for creators was not preserving their order. The ordered aggregation is removed in favor of a simpler property and a second custom predicate that maintains the order of creators as a delimited string of ids.

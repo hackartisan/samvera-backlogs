@@ -1,0 +1,3 @@
+Structure manager thumbnails are missing for map sets
+Thumbnails in the structure manager are not displaying for map sets (ScannedResources with child ScannedResources).
+I can't replicate this locally. Exploring the issue on figgy-staging with rails console didn't yield any information either. I'm kind of stuck here.

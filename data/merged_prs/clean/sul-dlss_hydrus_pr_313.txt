@@ -1,0 +1,2 @@
+Removes hydrus-flavored assembly wf in favor of plain-old assembly wf.
+closes #312

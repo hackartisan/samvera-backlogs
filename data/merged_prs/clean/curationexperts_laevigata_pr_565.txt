@@ -1,0 +1,2 @@
+More styling
+Closes #560 Closes #555 Closes #554 Closes #552 Closes #561

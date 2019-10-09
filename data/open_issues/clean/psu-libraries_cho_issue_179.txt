@@ -1,0 +1,2 @@
+Popular Content Report
+As a repository manager, I would like to know the most popular content over a specified time period (by collection, contributor, or systemwide) So that I may analyze collection development decisions.

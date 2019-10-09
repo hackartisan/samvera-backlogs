@@ -1,0 +1,2 @@
+fix display bug for summaries with 'other' journals
+fixed #245

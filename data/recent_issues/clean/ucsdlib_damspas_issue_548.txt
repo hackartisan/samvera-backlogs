@@ -1,0 +1,2 @@
+Edit subject in Milo Woodbridge CLR
+Descriptive summary Need to edit a corporateName in the Milo Woodbridge CLR without re-indexing all objects in linked collections (California Explores the Ocean and Scripps Institution of Oceanography Photographs ) Edit request In CLR  corporateName/CorporateName Current value:  "Scripps Aquarium-Museum" New value:  "T. Wayland Vaughan Aquarium-Museum"

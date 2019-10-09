@@ -1,0 +1,2 @@
+Add Whenever to capistrano deploy
+This simple PR only adds the whenever deployment to make the background processes run.

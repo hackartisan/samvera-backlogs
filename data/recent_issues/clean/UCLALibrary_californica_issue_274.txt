@@ -1,0 +1,2 @@
+DevOps: Californica (Backup &) Recovery
+As a DevOps engineer, I need a quick, easy, and repeatable way to recover from data corruptions   On the production management environment   Solr Index  Database  Shared images  Fedora  Redis  Other system state

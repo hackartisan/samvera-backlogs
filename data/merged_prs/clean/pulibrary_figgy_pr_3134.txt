@@ -1,0 +1,2 @@
+Preserve in a background job, always.
+Updates were way too slow for preserved resources that were updating all children.

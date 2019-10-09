@@ -1,0 +1,2 @@
+Remove Files and Filesets from the Search Results
+Description Fixes #498 Why was this necessary? Product owner requested that files and file sets are not returned in the listing of search results. Changes Updates the blacklight search builder to filter on Collections and Works. Are there any major changes in this PR that will change the release process? No Checklist   i18n enabled  adequate test coverage  accessible interface

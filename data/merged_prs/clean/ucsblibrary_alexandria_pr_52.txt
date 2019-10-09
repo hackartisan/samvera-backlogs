@@ -1,0 +1,2 @@
+DIGREPO-837: fix rights_holder_label for older repo states
+Fixes DIGREPO-837.

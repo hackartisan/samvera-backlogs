@@ -1,0 +1,2 @@
+Fix for school display on edit form
+This changes the School component to check if you are editing a record, and then returns the school that is saved instead of the one that is selected in the current submission form. Connected to #1869

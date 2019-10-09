@@ -1,0 +1,1 @@
+rewrote specs for s3; slight refactor of specs to make rubocop happy

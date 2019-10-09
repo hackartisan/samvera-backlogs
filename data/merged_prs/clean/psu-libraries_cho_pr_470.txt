@@ -1,0 +1,2 @@
+Deleted the Form Class and moved functionality to Changeset
+Refactoring the form class and form to go back towards the change set that we already get from Valkyrie. Removes the form class and cleans up the spec tests. Corrects rubocop errors and excludes a file to the rubocop_todo yml Description References ticket: (if any) #403 Why was this necessary? Changes Removed the Form Class and used Chageset where the Form Class was used. Checklist   i18n enabled  adequate test coverage  accessible interface

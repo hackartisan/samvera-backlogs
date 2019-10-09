@@ -1,0 +1,2 @@
+Resolves HELIO-2102: Purge Presenters
+Presenters no longer referenced, dead code.

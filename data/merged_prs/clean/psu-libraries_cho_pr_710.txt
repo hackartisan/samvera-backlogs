@@ -1,0 +1,2 @@
+Support for dates, including EDTF date types
+Description Field types designated as "date" can now be validated as EDTF dates, as well as indexed as dates in Solr. The default is to index imprecise dates to midnight of the first day of their earliest range. Valkyrie will store the value of the date as a string, according to how it was initially entered by the user; however, it will be cast to a Time object if it can be. EDTF dates will not be cast to Date objects, and will only come back as the same strings as they were entered. Connected to #267

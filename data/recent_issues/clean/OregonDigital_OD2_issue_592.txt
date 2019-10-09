@@ -1,0 +1,2 @@
+Homepage: Remove "For Educators" and "For Researchers" buttons
+Descriptive summary These buttons will be replaced by an expanded "How Do I Use?" section. Wireframe mockup:  (Information compiled by POSM group from updated wireframes) Expected behavior "For Educators" and "For Researchers" buttons no longer exist. Related work Link to related tickets or prior related work here.

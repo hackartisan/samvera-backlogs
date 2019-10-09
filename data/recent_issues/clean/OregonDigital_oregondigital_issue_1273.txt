@@ -1,0 +1,2 @@
+Review localCollectionName values export for incorrect URIs or missing data
+An export of items with a localCollectionName was done on March 30.   UO items cleaned up  OSU items cleaned up   Review for things like missing Institution, URIs with typos or other missing info causing a mismatch.

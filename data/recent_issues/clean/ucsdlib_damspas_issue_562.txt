@@ -1,0 +1,2 @@
+Correct Unit value for Makua Beach collection
+From damsmanager created by hjsyoo : ucsdlib/damsmanager#287 Descriptive summary Change value of Unit/Repository for the collection page,  to RDCP (or other standard value). The object page has already been assigned the correct Unit. Rationale This collection page was incorrectly assigned DLP during ingest. Related work 

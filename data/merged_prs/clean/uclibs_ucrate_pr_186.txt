@@ -1,0 +1,2 @@
+Increase the test coverage of callbacks_controller
+Fixes part of #168  Increase the test coverage of callbacks_controller.rb

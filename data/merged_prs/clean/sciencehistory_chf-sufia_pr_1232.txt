@@ -1,0 +1,2 @@
+update rails and some dependencies
+some security fixes. 

@@ -1,0 +1,1 @@
+Pull configuration for notifications from secrets

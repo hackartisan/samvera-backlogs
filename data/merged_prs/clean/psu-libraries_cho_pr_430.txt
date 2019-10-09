@@ -1,0 +1,2 @@
+Tab test Change
+Description Adds the outline to the Bootstrap dropdown when tabbing through the interface. References ticket: (if any) #305 Why was this necessary? A visual focus indicator is import for those individuals who navigate through the interface using a keyboard. Changes Updates the blacklight style sheet to target a specific class of a dropdown Are there any major changes in this PR that will change the release process? Checklist   i18n enabled  adequate test coverage  accessible interface

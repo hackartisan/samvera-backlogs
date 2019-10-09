@@ -1,0 +1,2 @@
+Metadata properties display repeating 4 times on work show page
+Descriptive summary Metadata properties on a work show page are appearing 4 times:   Expected behavior Metadata properties display once.

@@ -1,0 +1,2 @@
+Using Devise::Controllers::StoreLocation
+Stores user locations on appropriate GET requests Uses stored location to redirect back after login  Fixes #2395

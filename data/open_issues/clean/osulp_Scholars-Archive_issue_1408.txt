@@ -1,0 +1,2 @@
+Add OCR text extraction job for documents, add fulltext to index, keywords in context in results
+Add job to extract OCR text from PDFs, also Office documents (?)   For OD we put this in an external datastream, 'content_ocr'    Add text to search index  Add keyword in context in search results to show hits:   Allow a way to view full text on an item page? (maybe just by admins)  Some of the OD code is here:  

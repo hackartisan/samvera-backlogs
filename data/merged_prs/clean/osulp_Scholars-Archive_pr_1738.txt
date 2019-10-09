@@ -1,0 +1,2 @@
+Add default index to ordered fields
+fixes #1731  updated nested ordered fields to default index to 0 when building the initial object in the forms updated default model to reject items when all properties are blank or when only the content is blank recovered original param entries from the logs to reset creator and title for 

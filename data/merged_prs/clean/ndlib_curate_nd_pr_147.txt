@@ -1,0 +1,2 @@
+Help Request Information should be included
+Set sender_email in help_request to the results of the email form field This update goes along with a pull request of the same name on curate repository. This will also need the curate version bumped.  dltp-255#

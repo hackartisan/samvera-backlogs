@@ -1,0 +1,2 @@
+Locking browse-everything version to known-good state
+There is/was a leaky event handler in browse everything that stomped on ALL checkbox inputs. This broke the accept terms of deposit checkbox in some circumstances. Thanks to  for locating the problem.  Addresses #249

@@ -1,0 +1,1 @@
+mint noid using create(:object)

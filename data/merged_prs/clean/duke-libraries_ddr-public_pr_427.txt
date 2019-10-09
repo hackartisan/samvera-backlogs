@@ -1,0 +1,2 @@
+add :apply_gated_discovery and :include_only_published to processor chain
+Fixes issue where item and collection counts are incorrect because they do not account for the user's current role (i.e. gated discovery).

@@ -1,0 +1,2 @@
+Embargo capability
+Adding embargo capability will be useful for works that are going to be eventually Open Access but have a time stamp that forbids them from opening it at the time of deposit. it will be a place for a date when the work will automatically switch to being Open Access.

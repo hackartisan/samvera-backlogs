@@ -1,0 +1,3 @@
+Make sure embargo items are preserved
+Export filesets of embargo items (private and institution) in Bags for preservation. It will require login ScholarsArchive as admin before download, similar to 
+related to #1726

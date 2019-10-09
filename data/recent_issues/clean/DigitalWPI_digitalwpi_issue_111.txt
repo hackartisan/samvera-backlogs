@@ -1,0 +1,2 @@
+Understand and Solr.yml config in QA
+we need to figure out the solr issues in the qa sever and fix them.

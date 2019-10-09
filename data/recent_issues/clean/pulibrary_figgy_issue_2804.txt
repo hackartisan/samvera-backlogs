@@ -1,0 +1,2 @@
+Create a Figgy GraphQL endpoint for events associated with a resource
+The first use case for this is to say "PreservationObject Fixity Verified" These events should be stored outside the resource, so that updating or creating them don't cause the resource's updated_at to change which may trigger a new bag.

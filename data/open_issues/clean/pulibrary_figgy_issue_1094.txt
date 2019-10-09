@@ -1,0 +1,4 @@
+Add icon for Archival Media Collection
+probably makes sense to do at the same time as #1048
+After conferring with  , it's preferable to delay fully resolving this until  is merged.
+No longer on hold - #1396 was merged.

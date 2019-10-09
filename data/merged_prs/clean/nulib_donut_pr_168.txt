@@ -1,0 +1,2 @@
+Add dockerized dev environment
+Adds a completely dockerized fedora, solr, cantaloupe, and minio environment for development, and updates the README with instructions for use.

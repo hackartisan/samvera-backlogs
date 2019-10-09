@@ -1,0 +1,2 @@
+500 error for show route
+The URL  causes a 500 error. I think it is because the item is a collection object.

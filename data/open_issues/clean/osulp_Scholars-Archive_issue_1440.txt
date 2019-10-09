@@ -1,0 +1,3 @@
+Academic affiliation isnt being persisted after redirecting back to the edit page on failed save
+On a failed save, after validation fails, all the fields get re-set into their fields except academic affiliation.
+ is this solved by #1442 or is it still an open issue?

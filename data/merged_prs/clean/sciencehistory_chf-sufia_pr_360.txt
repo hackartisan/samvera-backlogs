@@ -1,0 +1,2 @@
+dynamically look up fits_path
+On my dev machine, fits is just called 'fits' a what do you think of this solution?

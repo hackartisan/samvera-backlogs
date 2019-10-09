@@ -1,0 +1,2 @@
+Deletion request for dataMares object
+Descriptive summary Please delete  which is currently in Curator only view. Per depositor's email on 6/28/17, "it is very sensitive information that we just realized that can't be released yet (not even metadata)." As part of cleanup for this collection, let's remove this completely from the DAMS since there's minimal benefit to having it remain on the server and a non-trivial risk to having it accidentally exposed to public view. Related work  

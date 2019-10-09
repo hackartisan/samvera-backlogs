@@ -1,0 +1,2 @@
+Enable cross-region replication in S3
+As part of our AWS@Emory configuration, we should make sure we have cross-region replication enabled so that we have 2 copies of files for preservation requirements for our version 1 of Cor Relates to epic #205 for Preservation Storage   Research s3 cross replication  Enable s3 cross replication for fedora-cor bucket

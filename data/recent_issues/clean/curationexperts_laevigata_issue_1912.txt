@@ -1,0 +1,2 @@
+Update application display name
+STORY In order to provide better clarity where other systems reference or link to the ETD application, Emory would like to update the application display name from “Electronic Theses and Dissertations”  → “Emory Theses and Dissertations” ACCEPTANCE   Logotext in upper left corner of header is updated  Other references to "Electronic Theses..." are changed to "Emory Theses..."

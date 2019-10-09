@@ -1,0 +1,2 @@
+Re-instate functionality to pull titles from wavs
+This is not super-high priority but it does seem like it would be helpful. Re-open and resolve #2307 Un-revert commit (and let's squash them) from #2406

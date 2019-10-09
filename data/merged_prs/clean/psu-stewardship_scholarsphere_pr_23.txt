@@ -1,0 +1,2 @@
+Updating to latest Sufia with fixes, refs #9378 #9312
+ This commit removes a ton of css files that weren't being used... at least as far as I can tell.  The files were there but either their require statements were commented-out or just weren't there at all. Since there was no require_tree statement, they weren't getting compiled into the asset pipeline. Other than than, this brings us up-to-date with the latest Sufia and fixes some responsiveness in the header.

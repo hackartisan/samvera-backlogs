@@ -1,0 +1,2 @@
+Error pages for admin routes
+Given I am not logged in When I visit /admin/queues or /admin/stats Then I should see "Page not Found" Presently, there's just a blank page for queues, and a redirect to login for stats.

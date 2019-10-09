@@ -1,0 +1,2 @@
+Delete extracted bags after validation and import
+Description Deletes extracted bags from the extraction directory after they are validated or imported. Refactors the existing csv import process into a transaction for better maintainability and error handling. Connected to #829

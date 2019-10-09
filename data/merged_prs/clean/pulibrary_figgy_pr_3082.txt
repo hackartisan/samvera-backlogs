@@ -1,0 +1,2 @@
+updates numismatic_controllers_place test depositor
+closes #3081

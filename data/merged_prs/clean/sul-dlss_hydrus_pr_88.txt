@@ -1,0 +1,2 @@
+Fix duplicate key in hash
+Fixes #77

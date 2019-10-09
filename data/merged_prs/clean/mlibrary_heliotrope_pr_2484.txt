@@ -1,0 +1,2 @@
+HELIO-2931 replace chromedriver-helper (deprecated) with
+webdrivers gem to fix system specs. Also: address 

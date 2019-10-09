@@ -1,0 +1,2 @@
+oEmbed error email notifications
+Descriptive summary On new oEmbed error, an email should be sent to the initial depositor of the work. Expected behavior  New oEmbed errors generate an email to the work depositor Email should include the error, the oEmbed URL, and dashboard/resolution link. Repeat errors should not trigger spam messaging.  Related work Resolves checkbox for #77

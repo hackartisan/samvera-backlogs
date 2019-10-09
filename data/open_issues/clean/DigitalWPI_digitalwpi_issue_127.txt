@@ -1,0 +1,3 @@
+ssl for the data servers
+
+We should think about this issue sometime soon. SSL for [Solr]( and [Fedora]( 

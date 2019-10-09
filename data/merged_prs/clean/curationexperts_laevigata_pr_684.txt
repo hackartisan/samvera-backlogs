@@ -1,0 +1,2 @@
+Remove unpopulated menu items
+Fixes #676

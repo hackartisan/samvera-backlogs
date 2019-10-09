@@ -1,0 +1,2 @@
+Calculating default for date_created
+Prior to this change, the :date_created attribute's default was the day that the application was last deployed. By using a lambda, the default for the :date_created will be calculated on initialization. See  Related to DLTP-267

@@ -1,0 +1,2 @@
+Add cap stage for demo environment
+Also, remove redundant git uri Connected to curationexperts#8

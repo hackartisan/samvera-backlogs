@@ -1,0 +1,2 @@
+Redirect handle to solrquery
+this update exposes dspace_collection and dspace_community as search fields so that we can search the catalog as follows: localhost:3000/catalog?q=hello+world&search_field=dspace_collection  references #1015

@@ -1,0 +1,1 @@
+Feature/complex object components fix

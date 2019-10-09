@@ -1,0 +1,2 @@
+mobile viewport for Open Seadragon is sometimes too tall
+Especially for landscape-oriented items, the vertical padding is huge, making it challenging to navigate the item.

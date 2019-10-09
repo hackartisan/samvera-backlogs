@@ -1,0 +1,2 @@
+Create new Solr EC2
+Create EC2 instance  Manually Solr cloud cluster  Put Solr EC2s behind ELB

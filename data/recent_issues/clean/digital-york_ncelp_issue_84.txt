@@ -1,0 +1,2 @@
+Increase font size resource title on details page
+Can we please make the resource title bigger and and a different colour (blue R232 B125 G30).

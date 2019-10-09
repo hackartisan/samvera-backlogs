@@ -1,0 +1,2 @@
+Add remaining Handle redirects for Communities with sub-Communities.
+Fixes #1141

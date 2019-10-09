@@ -1,0 +1,2 @@
+config: remove MODS_RESOURCE_MAP
+Moved into metadata-ci and not used by ADRL directly.

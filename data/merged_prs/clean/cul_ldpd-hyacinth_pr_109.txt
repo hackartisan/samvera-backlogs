@@ -1,0 +1,1 @@
+Adding authorization for projects endpoint

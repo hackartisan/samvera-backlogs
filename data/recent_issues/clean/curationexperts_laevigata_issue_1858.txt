@@ -1,0 +1,2 @@
+Add and remove Emory superusers
+Anna Miles is no longer with Emory, and should no longer be a super user.    Kylie Shannon (KSHANN4)  and Jody Bailey (JEBAIL5)  should be added as super users.

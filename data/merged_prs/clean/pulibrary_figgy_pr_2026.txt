@@ -1,0 +1,2 @@
+Fixing home page typo
+Reported by Dan Walker: "adhering" is misspelled as "adhereing" in the home page text.

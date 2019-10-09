@@ -1,0 +1,3 @@
+Replace TravisCI with CircleCI
+We should move our continuous integration service over to CircleCI. It's got a lot of advantages over Travis.
+I'd love to help with this effort! 

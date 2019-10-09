@@ -1,0 +1,2 @@
+Delete 42 duplicate objects in Larcom-Skinner Jones
+Descriptive summary Still unsure how this happened, as the ARK reports only contain 353 objects, yet 395 are in the Larcom-Skinner Jones Collection. So requesting those 42 duplicate objects for deletion. Attaching the ARKs to delete on spreadsheet. arks_to_delete.xlsx

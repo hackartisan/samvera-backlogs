@@ -1,0 +1,2 @@
+Search Results: List View: Metadata fields update
+Descriptive summary On Search Results, List View, change the metadata fields that are shown (below Title):  Creator: show up to 3 creators, display 'and others' when more than 3 Date Description: Truncate to 20 words, with ellipsis Resource Type  Wireframe mockup, List View:  (Information compiled by POSM group from updated wireframes) Expected behavior Metadata fields shown in search results are changed to Creator, Date, Description, and Resource Type.

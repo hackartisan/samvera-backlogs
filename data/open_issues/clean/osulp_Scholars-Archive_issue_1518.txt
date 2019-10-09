@@ -1,0 +1,1 @@
+Is HTTPS caching ok?

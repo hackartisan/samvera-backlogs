@@ -1,0 +1,2 @@
+Do not raise an error if the auto_placeholder version already exists
+It might be leftover from a previous migration attempt. The real check for whether something has already been migrated is whether it has externally stored files. Fixes #1387

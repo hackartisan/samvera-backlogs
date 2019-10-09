@@ -1,0 +1,6 @@
+Search by rights metadata
+As a user, I would like to search the entire repository by rights metadata, So that I can see only objects that I am able to re-use in a particular way in my research.
+Related #34 
+Rights as a facet. Merge into #34
+Merged into #34. Closing.
+Re-opening so we remember to make rights a facetable field.

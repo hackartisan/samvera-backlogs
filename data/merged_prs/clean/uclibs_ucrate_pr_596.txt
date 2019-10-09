@@ -1,0 +1,2 @@
+Fix work_loader spec test
+Fixes #590 Removes one of the committee_members so the test doesn't fail due to fedora not always returning in the same order.

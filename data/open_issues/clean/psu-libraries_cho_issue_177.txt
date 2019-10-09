@@ -1,0 +1,3 @@
+Downloadable Reports
+As a repository manager, I would like to download admin reports as tabular data, So that I may manipulate the data or visualize it as my needs see fit.
+Hyrax Analyticx Working Group will produce recommendations for a reporting dashboard 

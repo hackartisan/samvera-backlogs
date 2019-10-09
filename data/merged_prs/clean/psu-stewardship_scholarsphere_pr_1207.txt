@@ -1,0 +1,2 @@
+Create spaces in text fields for indexing
+Uses Solr's MappingCharFilterFactory to replace underscores and other characters with spaces so that search on their parts yields search results. Text and string fields are copied to the all_text_timv field, removing the suggest fields, which aren't being used. Note: This will require reindexing Solr for the fix to take effect.

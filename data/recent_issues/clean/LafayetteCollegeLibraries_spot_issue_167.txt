@@ -1,0 +1,2 @@
+add slugs to collections?
+is it worth the effort to add slugs to collections? we could store them as identifiers with a ldr_slug: prefix (or something), and have a separate form field so that they stand out. this would mean dipping into the CollectionsController, which might be dangerous?

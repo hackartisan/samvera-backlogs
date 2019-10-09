@@ -1,0 +1,2 @@
+Improve CI to exit cleanly.
+Circle currently is saying tests failed because Solr took too long to shut down, despite all the tests passing.

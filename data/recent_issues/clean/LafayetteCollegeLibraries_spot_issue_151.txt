@@ -1,0 +1,2 @@
+more newspaper mapper date problems 
+another surprise! more of our newspapers have multiple dates in dc:date. so let's:  remove the MAGIC_DATE const when there's two dates, use the lower date as the original date issued, and the upper one as the date-uploaded

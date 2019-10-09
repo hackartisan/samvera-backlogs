@@ -1,0 +1,2 @@
+Disable Original Publisher field
+Disable Original Publisher field, and transfer values to Digital Publisher field. As of the creation of this ticket, there were no values in the Original Publisher field. Ideally this merge will happen ASAP to prevent any further use of the Original Publisher field.

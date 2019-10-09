@@ -1,0 +1,2 @@
+Pick list on Contact Form misbehaves slightly
+Descriptive summary Contact form has a pick list for the type of information being conveyed by the contact form submission. The drop down does not behave as expected. Expected behavior Dropdown should show the "Select an Issue Type" value as the default (when you arrive at the page, this should be what you see in this drop down menu. Current behavior Dropdown shows blank with "select an issue type" as an option to select - this does not make sense.

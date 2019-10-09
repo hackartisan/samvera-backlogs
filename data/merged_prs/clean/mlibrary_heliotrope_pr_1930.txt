@@ -1,0 +1,2 @@
+Resolves HELIO-2010: Remove Help link from Shib Login Options
+./app/assets/javascripts/idpselect/idpselect.js      };      idpEntryDiv.appendChild(a);       buildHelpText(idpEntryDiv);         // buildHelpText(idpEntryDiv);                                              parentDiv.appendChild(idpEntryDiv);  };

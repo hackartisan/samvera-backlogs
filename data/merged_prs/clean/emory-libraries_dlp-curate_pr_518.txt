@@ -1,0 +1,2 @@
+Adds additional file metadata properties
+Adds additional properties to fits_document for metadata extraction Copies and appends to hydra-works' characterization_service_spec

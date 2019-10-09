@@ -1,0 +1,2 @@
+adds ActionMailer and views related to embargo lifting cron..etc
+fixes #273 and fixes #303

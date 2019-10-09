@@ -1,0 +1,2 @@
+Fix intermittently failing spec.
+I'm not sure why this spec fails sometimes without this - it seems almost like it's a race condition happening inside rspec, which makes no sense to me.

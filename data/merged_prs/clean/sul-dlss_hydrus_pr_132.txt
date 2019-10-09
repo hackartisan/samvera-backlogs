@@ -1,0 +1,2 @@
+Pass contributor to avoid an unbound variable
+Fixes #131

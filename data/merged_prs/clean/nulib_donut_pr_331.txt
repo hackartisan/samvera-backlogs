@@ -1,0 +1,2 @@
+index collections in elastic search index
+Adds to_common_index to Collections as the front end needs to display collection info

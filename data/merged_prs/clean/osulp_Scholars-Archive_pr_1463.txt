@@ -1,0 +1,2 @@
+Remove academic affiliation as required field.
+Fixes #1462 (previously changed for #1421)

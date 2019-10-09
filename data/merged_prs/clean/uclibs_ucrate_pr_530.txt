@@ -1,0 +1,2 @@
+Implement DOI minting
+Fixes #330 Implements the DOI minting from Scholar 3. Currently the only issue is that the testing for private works doesn't work due to the edit_users getting set to empty, however this is not the case for development.

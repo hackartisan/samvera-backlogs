@@ -1,0 +1,2 @@
+Added curator id to the file urls for dams statistics. DM-146
+Added curator id to the file path and object url to track curator access for RDCP statistics, 

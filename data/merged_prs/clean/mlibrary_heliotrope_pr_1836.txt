@@ -1,0 +1,2 @@
+HELIO-1478 Use a role based mediated deposit workflow for heb ingest
+This is safe to merge as-is. Until we register the new workflow and then associate an admin_set/permissions template, nothing will need to change in staging/testing/preview/production. After the merge, I'll update, I don't know maybe testing and register the workflow/make an admin set. I'll document the process in confluence and then when we release to production we'll duplicate it.

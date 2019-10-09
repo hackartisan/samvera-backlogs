@@ -1,0 +1,2 @@
+Delete old version of file (rake task)
+Create a rake task to delete an old version of a file. This is to remove files that might have sensitive information on them. See this Wiki page for some ideas on how to do this:  See also ticket #219

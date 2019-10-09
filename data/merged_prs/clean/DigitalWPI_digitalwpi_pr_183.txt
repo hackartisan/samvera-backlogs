@@ -1,0 +1,2 @@
+fixes #182, after deliberation decided to only add the task
+runs like rails wpi:move_to_col -- --worktype=StudentWork --collection=iqp --where='{:id => "ww72bb48n"}' does StudentWork.where with the where and yada yada

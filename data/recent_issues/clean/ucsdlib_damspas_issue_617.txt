@@ -1,0 +1,2 @@
+Add topics to Pacific Basin Nautical Charts Objects
+For all 1046 Objects in the Pacific Basin Nautical Charts (bb0786509m) Collection:  add topic "Maps" (bb4643132s) delete dams:genreForm "Nautical charts" (bb4301893z) add dams:topic "Nautical charts" (bb2151653q)

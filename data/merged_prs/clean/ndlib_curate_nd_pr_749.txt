@@ -1,0 +1,2 @@
+Fix Reindex collections
+Fixes  and  Issue 1550 was caused by PR #736 which was reversed with PR #744 This changes the fix for DTLP-1513 without causing the problems which caused DLTP-1550. Changes  Add nested Library Collections to seed data for testing Remove duplicate reindexing from reindex_worker. Calling update_index already does the nested indexing. Fix raw_child_documents_of method. It didn't work when the solr_doc existed but didn't have the nested indexing fields in it. It also found only the default number of rows rather than the full set of children.

@@ -1,0 +1,2 @@
+disables clamav until it can be verified to work on production
+see #1653

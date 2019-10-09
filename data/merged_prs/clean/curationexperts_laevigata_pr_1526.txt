@@ -1,0 +1,2 @@
+fixing bug
+This code fixes a bug that caused a js error from trying to reference an undefined value, there's a guard clause now (like the other similar functions).

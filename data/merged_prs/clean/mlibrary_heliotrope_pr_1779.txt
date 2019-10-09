@@ -1,0 +1,2 @@
+epub and webgl UnpackJob triggers
+The UnpackJob should be called when a FileSet's FeaturedRepresentatives is "set" (epub, webgl only) The UnpackJob should be called when a FileSet (that's already a FeaturedRepersentative of epub, webgl) is "reversioned"  See #1692 This is working on heliotrope-testing

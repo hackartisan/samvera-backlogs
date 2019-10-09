@@ -1,0 +1,2 @@
+DLTP-1459 Frontend changes
+Changed front-end settings to allow for ldap search of netid

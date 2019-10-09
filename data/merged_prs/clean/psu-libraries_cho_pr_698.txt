@@ -1,0 +1,2 @@
+Return the work when searching for a file name
+Returns the parent Work when searching for the title of a File. This code was copied from ScholarSphere and adapted for CHO. Description Fixes #122 Why was this necessary? Product owner and stakeholders would like to keep search results refined but still return works when searching finer grained details.

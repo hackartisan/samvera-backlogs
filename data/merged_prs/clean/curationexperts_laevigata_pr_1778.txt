@@ -1,0 +1,2 @@
+Fix occassional spec failure in EtdEmbargoService tests
+If an embargo already exists when this file is run (some other test has failed to clean up), there's a chance for this test to fail since the empty case is false. Since we're already cleaning up the other examples, we can just clean everything. Connected to #1656

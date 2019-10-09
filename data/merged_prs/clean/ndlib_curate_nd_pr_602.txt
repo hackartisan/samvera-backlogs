@@ -1,0 +1,2 @@
+Dltp 881 removing video as a subtype o
+Based on grep research (using "Newsletter" since it's unique), this is the only place it needs to be removed. I've also put together a batch ingest thing to redo the existing videos as Video vs. as a Document -> Video.

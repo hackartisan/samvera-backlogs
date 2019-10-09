@@ -1,0 +1,2 @@
+Proxy Depositor - On Behalf Of to Use Name instead of Access ID
+Passing key value options to the collection to display the person's name instead of the userid in the on behalf of dropdown in the create new work form. Fixes #587 Adam is my proxy  Proxy deposit display in My Works  Displays Correctly in Work Show  Displays Correctly in Recent Additions

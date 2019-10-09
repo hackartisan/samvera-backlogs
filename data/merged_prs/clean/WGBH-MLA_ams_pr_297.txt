@@ -1,0 +1,2 @@
+Add 'Last Pushed' Date (push to AAPB)
+-Add last_pushed to AdminData, insert into solr during to-AAPB push -Improve Pushes Views -Chill out ajax calls on pushes#new form, adding loading img -Show Last Pushed in Asset Show page -Fix bundle exec issue in AAPB push ingest command

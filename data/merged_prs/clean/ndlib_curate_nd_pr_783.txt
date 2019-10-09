@@ -1,0 +1,2 @@
+Add new document type "Program"
+Completes  Add new document type Program Add metadata field event_speaker valid only for document type Program

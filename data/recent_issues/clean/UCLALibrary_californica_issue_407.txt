@@ -1,0 +1,2 @@
+Re-index all the Work records in Dev, Stage & Test
+Connected to  #409 Subsequent to #406, and as a prerequisite to using arks in Ursus urls, we need to reindex all our server environments Acceptance – all environments have been reindexed so that the single-valued solr field ark-ssi is available for use in Ursus urls:   californica-dev  californica-test  californica-stage   Acceptance   Write a rake task that reindexed all the Work records

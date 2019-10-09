@@ -1,0 +1,5 @@
+Check files with JHove
+It doesn't have to be done as part of the critical path of generating derivatives, but we should check file validity with JHove for the formats that are supported.
+I'm not super familiar with jhove, what's this get us? 
+Mostly validating the format of TIFFs and some other formats to identify corruption or malformedness.
+ Notes that we could use JHove for fixity checking, so this would replace the existing Ruby-based fixity checking instead of being added as an extra step.  One complication is that JHove currently calculates CRC32, MD5 and SHA1, while we do MD5, SHA1 and SHA256.  But it looks like adding SHA256 support to JHove wouldn't be hard: 

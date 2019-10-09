@@ -1,0 +1,2 @@
+AMS2-650 allow instantiation admin data
+This might need some refactoring in future.

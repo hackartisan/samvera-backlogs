@@ -1,0 +1,2 @@
+Can we assume bags will be valid?
+Bag validation takes a long time. Do archives folks validate them as part of their workflow prior to load? If so, we may be duplicating effort. If not, could we find / create a tool that would help them feel confident before loading into figgy?

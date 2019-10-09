@@ -1,0 +1,2 @@
+Feature/mobile ui improvements
+Fixes #1040.

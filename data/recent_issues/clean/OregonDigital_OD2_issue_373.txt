@@ -1,0 +1,2 @@
+resource_type and date_modified mismatch in MAP
+Descriptive summary Type (resource_type, line 157) should be multivalued in the MAP to match the multiplicity of this value in Hyrax, OD2 override this and make resource_type single valued? Modified (date_modified, line 183) should be singular value in the MAP to match the multiplicity of this value in Hyrax.

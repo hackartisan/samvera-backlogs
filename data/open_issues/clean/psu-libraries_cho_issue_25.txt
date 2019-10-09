@@ -1,0 +1,4 @@
+View contextual information
+As a user, I would like to be able to view contextual information about an archival object (archival collection, folder, box, other related items - both digital and analog, etc.) when browsing, so that I can have a fuller understanding of the context surrounding an object.
+ArchivesSpace integration
+ It's the "when browsing" part that makes this difficult, eh? I would like to propose that at least surfacing the Collection Title for objects in a search result could be feasible and not require ASpace integration (since we put Collection Title in a record's metadata). If it helps conceptualize this, check out DPLA's report on representing collections (which I helped write and research): 

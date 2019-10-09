@@ -1,0 +1,2 @@
+Addressing most serious gemnasium warnings (DHH-689)
+Upgrading to rails 4.2.3 Updating page code validation and protect_from_forgery declaration

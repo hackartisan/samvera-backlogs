@@ -1,0 +1,2 @@
+Enable DOIs in batch upload
+Descriptive summary Enable DOIs for batch upload. At the time of implementation of batch, DOI minting wasn't yet resolved. Since the DOI feature has now been instated, we need to enable for batch upload as well.

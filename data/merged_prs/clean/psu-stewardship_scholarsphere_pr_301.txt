@@ -1,0 +1,1 @@
+Fixes dashboard_highlights_spec test

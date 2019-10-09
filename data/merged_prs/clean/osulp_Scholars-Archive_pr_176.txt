@@ -1,0 +1,2 @@
+Added add and remove buttons where needed
+Fixes #159 This adds a remove button to the last element of a group of fields under a certain metadata field. 1)When the form is first visited, the last field will only have the add button 2)When removing a field not at the bottom of the list, it keeps both buttons on the last field 3)When removing the field at the bottom, it adds the add and remove buttons to the field above it. 4)When adding a field, the add button will move to the newly created field with a remove button.

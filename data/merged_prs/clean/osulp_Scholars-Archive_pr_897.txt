@@ -1,0 +1,2 @@
+updated article metadata form and set proper ordering
+ref #656  fixed ordering for Article metadata (including Default) created accessor attributes for dates :dates_section and geographic coordinates :geo_section in Default in order to group the related fields and allow rendering flexibility in the forms. This was needed to be able to set the proper ordering as requested in #656

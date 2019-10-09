@@ -1,0 +1,1 @@
+bugfix due to limitation of rsolr-ext for facet limit

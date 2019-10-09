@@ -1,0 +1,2 @@
+Make Rightsholder uncontrolled
+Remediate Rightsholder URIs to strings.

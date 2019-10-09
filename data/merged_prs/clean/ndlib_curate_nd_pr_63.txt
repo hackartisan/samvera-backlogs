@@ -1,0 +1,2 @@
+Restrict write access to whitelisted users.
+Closes ndlib/legacy-curate-planning#313

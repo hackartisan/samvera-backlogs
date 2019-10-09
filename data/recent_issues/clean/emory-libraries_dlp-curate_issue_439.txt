@@ -1,0 +1,2 @@
+Required fields should appear first on the edit form
+ACCEPTANCE   Required fields are listed first on the work edit form  Non-required fields are listed in a collapsible section of the form with the toggle label "More Fields"/"Fewer Fields"

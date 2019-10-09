@@ -1,0 +1,2 @@
+updated selector in nested_field js to reset textarea elements
+ It looks like not all the ids were being identified when adding, removing, and resetting items because of the new element (textarea) introduced for description and abstracts, but this update should take care of these cases.

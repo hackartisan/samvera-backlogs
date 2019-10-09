@@ -1,0 +1,2 @@
+Add wikidata to Scientific CV
+Also added custom fetch code to handle wikidata as well as retain itis and ubio support. Fixes #1143

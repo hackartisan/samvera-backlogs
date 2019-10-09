@@ -1,0 +1,2 @@
+Plain-text passwords being leaked into request params
+Descriptive summary Request parameters for user logins from Devise are being submitted in plain-text in our Honeycomb events.  Honeycomb scrapes several objects within each request to build its events. this includes request.params, which is where user information is getting stored (request.params.user).

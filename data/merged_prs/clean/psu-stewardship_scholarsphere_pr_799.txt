@@ -1,0 +1,2 @@
+Remove private visibility option
+This comprises two commits: The first removes the private visibility option from works and collections, and the second updates our testing suite to use PhantomJS 2.1.1, which should correct the intermittent failures with our JS-based feature tests.

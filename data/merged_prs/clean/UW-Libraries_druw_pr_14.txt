@@ -1,0 +1,2 @@
+Add hyrax.en.yml.kate and regenerated hyrax.en.yml
+Update of hyrax gem regenerates hyrax.en.yml and does not seem to include anything not in the community repo file hyrax.en.yml The shorter file will result in page title errors in the browser tabs and hover over text for the static page links.

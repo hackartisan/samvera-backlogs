@@ -1,0 +1,2 @@
+Technical Metadata Properties
+Find where technical md lives and what the characterization job does  Working with the Technical MD spec in the epic, add the fields to the File or FileSet model.

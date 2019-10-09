@@ -1,0 +1,1 @@
+Maps: don't use pan&zoom when user doesn't have access

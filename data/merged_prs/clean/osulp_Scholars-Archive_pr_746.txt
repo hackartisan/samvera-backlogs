@@ -1,0 +1,1 @@
+updates Hyrax, uses Rails 5 bundler synced bins

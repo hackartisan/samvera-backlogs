@@ -1,0 +1,2 @@
+Configure Coveralls Reporting
+ISSUE Coverage data is being generated during CircleCI builds, but we need to configure CircleCI properly in order to send that data to Coveralls.  ACCEPTANCE   Set the COVERALLS_REPO_TOKEN environment token in CircleCI docs   Go to  and look up the "Repo Token" (DCE doesn't have access to do this)  Go to  and create a new environment variable with the name COVERALLS_REPO_TOKEN and the value you just looked up in Coveralls

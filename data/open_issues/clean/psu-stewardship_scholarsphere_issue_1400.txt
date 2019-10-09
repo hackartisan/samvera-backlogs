@@ -1,0 +1,2 @@
+My Works is being listed Twice in the Breadcrumbs
+When I view the "My Works" tab and select one of my works to view, the breadcrumbs on the show page for that work lists "My Works" twice in the breadcrumbs.

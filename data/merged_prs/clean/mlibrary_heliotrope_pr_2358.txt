@@ -1,0 +1,2 @@
+Partially :Resolves 2561: Implement PDF Watermarks for EBC
+It works, now all that is need is the final wording of the watermark.

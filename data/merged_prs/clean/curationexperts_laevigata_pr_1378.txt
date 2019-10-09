@@ -1,0 +1,2 @@
+Additional accessibility features
+This commit has additional markup changes to make the form more accessible to keyboard users and screen reader software. It also includes a fix for the logo issue in #1276. That was a display error in Safari, but was also present in IE, which I noticed during testing. Related to #1056

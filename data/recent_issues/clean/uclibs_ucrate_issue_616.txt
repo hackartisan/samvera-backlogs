@@ -1,0 +1,2 @@
+Fix image for featured collection on scholar.uc.edu
+Descriptive summary The image for the featured collection on the home page of scholar.uc.edu is missing. We need to  figure out why restore the image  The current featured collection is 

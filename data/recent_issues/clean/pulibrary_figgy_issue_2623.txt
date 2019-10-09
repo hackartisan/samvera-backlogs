@@ -1,0 +1,2 @@
+Document the way we use the scanned resource model for lots of other things and make new change sets
+We've been working with this for a while now; do we like it? child of #2691

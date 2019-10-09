@@ -1,0 +1,3 @@
+ScholarSphere Readonly Mode Cap command
+Instead of following the instructions here:   Make it so you can run something like cap production read_only
+Additional cap command to turn off read-only mode.

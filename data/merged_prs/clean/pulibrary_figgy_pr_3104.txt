@@ -1,0 +1,2 @@
+Descriptive Proxy Recordings display as Recordings
+This makes the change set human readable model take priority over the fact that it has ScannedResource children. Hides "Create a Playlist" button for descriptive proxies Displays the member list if it's a descriptive proxy.  Closes #3100

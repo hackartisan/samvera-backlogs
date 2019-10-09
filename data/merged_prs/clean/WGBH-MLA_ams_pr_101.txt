@@ -1,0 +1,2 @@
+Refactors how data is reset for tests.
+Adds AMS.reset_data! method to encapsulate resetting data. Resets data before each example by default; can override with keep_data: true. Changes Rake tasks from hydra:clean:server and hydra:clean:test_server to ams:reset_data and ams:reset_test_data, respectively. Requires a confirmation from user before resetting data.  Closes AMS2-360

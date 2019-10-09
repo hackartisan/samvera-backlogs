@@ -1,0 +1,2 @@
+Edits user admin setup to use database authentication
+Implements a temporary solution to use database for authentication on production Closes #36 and #45 for now

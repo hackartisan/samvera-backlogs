@@ -1,0 +1,3 @@
+Browse not working
+Click 'Browse' -> any register will lead to en empty page.
+After resolved the problem with the first level browse page, clicking any register will lead to an incorrect second page, e.g. the folios are not rendered properly.

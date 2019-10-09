@@ -1,0 +1,2 @@
+Fix locales for worktype select modal
+Fixes #391 Add missing locales to hyrax.en.yml for all worktypes.

@@ -1,0 +1,1 @@
+Resolves #1630 webgl in-game links to epub paragraphs work

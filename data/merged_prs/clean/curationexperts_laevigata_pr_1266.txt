@@ -1,0 +1,2 @@
+Add file upload progress to the form and limit to PDF
+These are basic enhancements to the form, including a progress bar for the file uploader and the HTML5 file upload file type validation attribute.

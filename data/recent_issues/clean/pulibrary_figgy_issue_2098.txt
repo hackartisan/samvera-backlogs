@@ -1,0 +1,2 @@
+Playlist Show Page should have a search which displays MediaReserves to add
+The search should be javascript-y, return all MediaReserves that match the query, and next to that will be the same button that a MediaReserves show page has in #2096 Requires #2096 Implementation ideas: You could query solr, you could use the blacklight API, or you could write a custom query which uses a fulltext index in postgres. Important Note: Search should match MediaReserve titles, source metadata identifiers, composers, etc. Just by title isn't sufficient. Child of #2066 Wireframe in #2099

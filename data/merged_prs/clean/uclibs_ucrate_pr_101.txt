@@ -1,0 +1,2 @@
+Update to latest Hyrax gem version
+Updates UCrate to use the version of the Hyrax gem from 2/20/2018. The update broke one feature test because of changes to Hyrax code.  I pulled in an update version of spec/features/collection_spec.rb to fix it.

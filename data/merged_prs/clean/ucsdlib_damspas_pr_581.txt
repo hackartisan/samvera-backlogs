@@ -1,0 +1,2 @@
+More queue debugging and refactor fix
+Fixed a spelling issue in the rake tasks after a late in the game refactor, added more detailed logging and error display in the admin queue manager.

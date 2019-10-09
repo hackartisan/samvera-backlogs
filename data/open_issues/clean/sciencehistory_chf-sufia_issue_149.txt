@@ -1,0 +1,2 @@
+display opac connection errors in a more conventional way
+once displaying data in the box is no longer needed.

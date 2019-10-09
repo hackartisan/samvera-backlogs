@@ -1,0 +1,2 @@
+Check validity of configuration files during deployment
+Description Checks for the presence of required settings in specified configuration files, and if the setting is a directory, checks to see if that directory exists on the system. Connected to #617

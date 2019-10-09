@@ -1,0 +1,1 @@
+Add specs for ezid metadata retrieval

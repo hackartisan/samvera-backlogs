@@ -1,0 +1,2 @@
+Upgraded ddr-models to v1.9.0, etc.
+Upgraded ddr-models to v1.9.0 (closes #24) Display authenticated user's username; display 'Logout' button when user is authn'd Pinned jettywrapper to 1.x (fixes #52) Moved sqlite3 to dev/test group in Gemfile (closes #53)

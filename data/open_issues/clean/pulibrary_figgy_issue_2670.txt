@@ -1,0 +1,3 @@
+Ephemera maps
+New use case: an ephemera item is also a scanned map, and should be included in Pulmap.  Maybe the item should just be a scanned map and included in the ephemera DPUL collection (see #2669)?
+Seems like a good one to consider in the context of this discussion 

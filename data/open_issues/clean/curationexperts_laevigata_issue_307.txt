@@ -1,0 +1,2 @@
+Record workflow events to the object
+Every time a significant event happens, it gets logged to the object   date and time of the event  who did it  what happened    Plan: Use premis event predicate to record a string literal that includes the above info

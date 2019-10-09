@@ -1,0 +1,3 @@
+Set up continuous integration
+Start with 
+- [x] Add `.travis.yml`, configure app on travis-ci site, add notification configs for email and Slack - [ ] Fix to achieve successful CI build

@@ -1,0 +1,2 @@
+Updating Note Display
+Moving specified list of identifiers to curator-only display Making other identifiers public Adding properly-titleized display labels where available  Fixes 

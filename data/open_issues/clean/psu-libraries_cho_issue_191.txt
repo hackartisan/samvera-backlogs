@@ -1,0 +1,2 @@
+Update Controlled Vocabulary On the Fly
+As a metadata specialist, I would like to easily update a local controlled vocabulary as I edit object records, So that I don't have to exit the object record, add/edit a controlled term, and go back to the object record to use the new/changed term. Would only be for local controlled vocab, not things like LCSH.

@@ -1,0 +1,2 @@
+Removing project_url from OSF Ingest request
+Per discussions with Mark and Don, sending the project URL is the path of confusion.

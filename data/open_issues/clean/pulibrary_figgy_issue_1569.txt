@@ -1,0 +1,4 @@
+Ingest Latin American A/V in production
+
+Dup of #1559?
+a I intended this ticket to be for production ingest — I'll rename it.

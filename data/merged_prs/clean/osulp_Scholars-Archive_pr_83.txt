@@ -1,0 +1,2 @@
+Fixed profile email spilling over
+Fixes #64

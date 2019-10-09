@@ -1,0 +1,2 @@
+Work Show Page: Add placeholder section for MLA Citation
+Descriptive summary Below the descriptive metadata in the wide left column, add a new placeholder section for a static, generated MLA Citation section, and include the label. Wireframe mockup:  (Information compiled by POSM group from updated wireframes) Expected behavior MLA Citation section displays below descriptive metadata.

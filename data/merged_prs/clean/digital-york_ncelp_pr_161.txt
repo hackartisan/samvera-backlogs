@@ -1,0 +1,2 @@
+customize fields in collection form
+Resolves #160 The default Hyrax collection form tries to load all metadata, including language. However, language_other has been added to support 'other' language option in Resource form. This change redefines the fields to be shown in the collection form, e.g. to exclude the 'language' field.

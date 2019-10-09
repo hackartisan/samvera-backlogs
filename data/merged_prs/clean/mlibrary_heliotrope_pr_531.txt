@@ -1,0 +1,2 @@
+Request for a non-existent monograph or section returns unauthorized response.
+resolves #180

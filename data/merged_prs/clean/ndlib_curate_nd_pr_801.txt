@@ -1,0 +1,2 @@
+Update download route
+Rename route from api_path to api_item_download_path

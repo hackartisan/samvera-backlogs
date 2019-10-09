@@ -1,0 +1,2 @@
+Add an EBS Fileshare 
+Create the EBS file system (encrypted  or un-encrypted)  Attach to a VM  Create linux XFS file system  Modify /etc/fstab file system will auto mount after restart

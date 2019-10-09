@@ -1,0 +1,2 @@
+Improve handling of DOIs
+Investigate handling of DOIs as identifiers in GWSS.  See  One issue with the existing implementation is that the Identifier field used performs a faceted search when it's clicked on rather than linking out to the DOI url.

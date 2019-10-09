@@ -1,0 +1,2 @@
+Update rubocop
+Stop trying to run rubocop on vendor/ (that's where travis installs all the gems). Updated the hostname for purl-test.  The old one was giving 301 redirects rather than the expected 200 status code.

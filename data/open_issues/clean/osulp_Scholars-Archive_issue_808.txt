@@ -1,0 +1,11 @@
+Support MetaArchive preservation
+MetaArchive uses OAI-PMH to harvest and preserve DSpace contents, a new approach should be implemented for SA@OSU in Hyrax:  exporting Fedora objects as Bags putting Bags to a temp storage space for MetaArchive harvesting
+- Ask MetaArchive harvesting DSpace before migration in September - Harvesting SA@OSU around January with Bags - Setup Bags ingestion path between the time
+We need a bulk metadata export script for Hyrax to: 1. Export the records as CSV 2. Export not only descriptive metadata, but also information such as adminset, parent/children works, and Fedora resource URIs 3. Could use a combination of SOLR search and Fedora REST API   The Bags export script will the use the exported CSV to retrieve contents using the import-export-util plugin.
+Update: Metaarchive confirms that it had successfully crawled all the DSpace AUs by September 2.
+#963 fixes Bags export from Hyrax. 
+ please update on this issue. I believe this is resolved (?).
+Use this issue to track all the tasks for MetaArchive preservation.   - [x] OSU create a S3 bucket as MA staging server  - [x] Finalize preservation workflow and Bag format with MA  - [x] Revise Hyrax Bag exporting script to meet MA requests   - [ ] Run test with MA crawler with exported Bags  - [ ] Export ETD/EESC Bags with finalized Bag export script to S3  - [ ] MA crawl and preserve Bags 
+include #1285 
+ update please?
+related to #1726 

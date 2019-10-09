@@ -1,0 +1,2 @@
+Child works get added as batch items as their jobs kick off
+Description: As an ingester, I need to see all works created during a batch ingest, so that I can see the errors and statuses of assets AND their children and grandchildren. Done when:   Batch Details page reflects all Assets, Physical Instantiations, Digital Instantiations, and Essence Tracks  Batch item count increases as batch continues to process  Errors on a child objects report on that objects entry on the Batch Detail page

@@ -1,0 +1,2 @@
+Improve the structure for authorized link URLs
+Currently, these #2039 structured these as simply URLs with auth_token as an additional querystring parameter.  For example:    Attribute Name Values     Authorized Link     This should be restructured in order to be more friendly to browsers and humans. Child of #1986

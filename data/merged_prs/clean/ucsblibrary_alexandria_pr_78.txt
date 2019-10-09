@@ -1,0 +1,2 @@
+config: use secret server for psql credentials
+Closes DIGREPO-855.

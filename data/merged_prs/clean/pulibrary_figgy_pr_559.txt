@@ -1,0 +1,2 @@
+Use ImageMagick to characterize.
+Closes #556.

@@ -1,0 +1,2 @@
+Creator Labels are no longer connected, Work Edit, FileSet Edit, Collection Edit
+The labels for role and creator are no longer attached to their input field.  I Wave errors for no label and orphaned label  inspection showing label-for and actual id are not the same  refs #310

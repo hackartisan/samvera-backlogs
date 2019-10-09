@@ -1,0 +1,2 @@
+Move the gem install generator into the Dockerfile 
+Existing code had to run the gem install generator in the entrypoint, which meant running it every time the container is 'up' and also running it twice on the web and workers. Some changes to the underlying gem means that we can now run it in the Dockerfile and then not have to run it everytime we bring the container up and down.

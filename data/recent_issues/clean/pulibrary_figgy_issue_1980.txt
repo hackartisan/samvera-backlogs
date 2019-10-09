@@ -1,0 +1,2 @@
+MVWs show a link instead of an image in the members thumbnail column
+In the members list for MVWs, the thumbnail column should include an image, but it currently displays the link instead:  See 

@@ -1,0 +1,2 @@
+Resolve GitHub security alerts
+Descriptive summary GitHub is reporting vulnerabilities in versions of 2 gems were are using:  devise:   Upgrade devise to version 4.6.0 Note: we are overriding some devise views (app/views/devise).  So make sure those views are still current after the upgrade  actionview:   Upgrade Rails to version 5.1.6.2 Note: this may require also updating  to rails 5.1.6.2

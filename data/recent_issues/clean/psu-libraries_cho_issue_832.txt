@@ -1,0 +1,2 @@
+Sort Data Dictionary Fields on Show Page
+The data dictionary fields should display alphabetically on the data dictionary show page.

@@ -1,0 +1,2 @@
+Add Quill for editing abstract and toc
+This adds the Quill editor for rich text editing of the abstract and table of contents. There will need to be a follow up PR that sets the toolbar options. The text that is output by Quill is bound to a hidden input field with the correct name for the form submission.  Related to #1189

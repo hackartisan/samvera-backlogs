@@ -1,0 +1,2 @@
+oembed support for pdfs
+expand oembed_controller to also handle pdfs

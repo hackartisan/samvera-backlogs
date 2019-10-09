@@ -1,0 +1,2 @@
+group permissions - Student worker
+add to ability.rb a rule that anyone that is a student worker can Create certain work types and FileSets. add users or groups to collections as depositors already exists in GUI how to manage the groups from GUI? how to ensure that Student Workers only create the right kind of works? how to ensure the student workers can only create works as a part of a collection, and one they are a depositor in

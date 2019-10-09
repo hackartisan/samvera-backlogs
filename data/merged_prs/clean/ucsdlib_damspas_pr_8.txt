@@ -1,0 +1,2 @@
+Adding download buttons for all file types (admin only)
+Adding download action to file controller to trigger Content-Disposition: attachment Adding download button for admin users for all files that didn't have them Also fixing routing spec  Fixes 

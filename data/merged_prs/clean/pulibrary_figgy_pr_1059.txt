@@ -1,0 +1,2 @@
+Fixes `SimpleResource` membership admin. controls and PUL logo links in Manifests
+Fully resolves #1028

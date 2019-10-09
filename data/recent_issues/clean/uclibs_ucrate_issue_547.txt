@@ -1,0 +1,2 @@
+Update restart_sidekiq.sh to use ruby 2.5.x
+Descriptive summary Update script/restart_sidekiq.sh to use /srv/apps/.gem/ruby/2.5.0/bin instead of /srv/apps/.gem/ruby/2.4.0/bin See 

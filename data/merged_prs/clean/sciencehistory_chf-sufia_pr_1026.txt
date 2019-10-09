@@ -1,0 +1,2 @@
+Edit the README.md to remind new users to add a default Sipity workflow.
+Don't use markdown a lot - hope this works.

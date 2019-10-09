@@ -1,0 +1,2 @@
+Sortable Embargo Index
+Implements sorting on release date for the embargo index view. To achieve this, we add DataTables support to the embargos table. The embargo presenter is extended to expose a sortable date. Connected to #1070.

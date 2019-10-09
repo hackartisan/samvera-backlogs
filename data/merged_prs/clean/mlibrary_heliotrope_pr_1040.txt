@@ -1,0 +1,2 @@
+Rebrand Hydra to Samvera in static HTML pages.
+Addresses #974 for static pages.

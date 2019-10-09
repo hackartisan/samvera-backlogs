@@ -1,0 +1,2 @@
+Configure Fedora for MYSQL and S3
+Fedora has an example repository.json file   Adapt the example for use as a template  Adjust Ansible to set up the RDS and S3 services the template needs  Add the template to Ansible  Add or update any variables needed by the template.  Deploy and test

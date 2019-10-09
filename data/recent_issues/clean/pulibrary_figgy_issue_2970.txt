@@ -1,0 +1,2 @@
+State/Visibility Propagation Caused StaleObjectError
+To the user, all he did was try to edit an object to have a new collection and got a "something went wrong" page. What actually happened was saving that object propagated state/visibility (maybe FileSets didn't have their visibility set right?), and one of them had just finished being characterized.

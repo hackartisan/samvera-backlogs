@@ -1,0 +1,1 @@
+SRU: move methods out of rake task, speed up cylinder download

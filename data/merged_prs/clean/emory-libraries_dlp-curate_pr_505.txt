@@ -1,0 +1,2 @@
+Use controlled vocab for sensitive_material field
+Connected to curationexperts/in-house#221

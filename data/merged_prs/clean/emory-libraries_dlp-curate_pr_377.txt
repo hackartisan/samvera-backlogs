@@ -1,0 +1,2 @@
+Fix typo
+Typo in initializers/hyrax.rb prevents thumbnails from persisting

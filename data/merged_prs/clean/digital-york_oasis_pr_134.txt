@@ -1,0 +1,2 @@
+Use html checkbox for data selection
+fixed #81 Upload form will support select/deselect.

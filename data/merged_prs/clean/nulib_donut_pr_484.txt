@@ -1,0 +1,1 @@
+Make batch display faster

@@ -1,0 +1,2 @@
+Use dc_source_sm in generated GeoBlacklight documents
+Closes #2508

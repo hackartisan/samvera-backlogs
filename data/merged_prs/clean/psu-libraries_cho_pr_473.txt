@@ -1,0 +1,2 @@
+Change work_type to work_type_id
+Co-authored-by: Michael Tribone  Description Changed the work_type attribute for Work::Submission and Work::SubmissionChangeSet to work_type_id, using the Valkyrie ID instead of just a string. Fixes: #419 Why was this necessary? We needed to be more consistent about attributes names and remove confusion over object properties and id properties. Changes Are there any major changes in this PR that will change the release process? No Checklist   i18n enabled  adequate test coverage  accessible interface

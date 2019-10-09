@@ -1,0 +1,2 @@
+update presenters and forms to inherit from generic. Abstract properties
+Fixes #146

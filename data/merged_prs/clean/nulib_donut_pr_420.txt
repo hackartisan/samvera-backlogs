@@ -1,0 +1,2 @@
+Check that controlled vocab uris in batch are valid format
+fixes nulib/next-generation-repository#717  Validates that controlled vocabularies only contain uri's in formats described here: 

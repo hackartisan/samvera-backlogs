@@ -1,0 +1,3 @@
+Reuse Metadata from ArchivesSpace
+As a collections manager/metadata specialist starting a new project to digitize Special Collections material, I would like to auto-generate a new collection's initial metadata directly from ArchivesSpace, so that I don't have to manipulate and transform metadata using spreadsheets. Ben G.
+Initially -- offer lookup on work input form to pull in metadata Enhancement -- ability to do this in batch, spawning empty records in a staging area Enhancement -- Download CSV of staged empty works for metadata refinement and eventual batch load.

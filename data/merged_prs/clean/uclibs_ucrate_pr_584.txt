@@ -1,0 +1,2 @@
+Fixes owner file permission problem with proxy deposit.
+Fixes #488 and samvera/hyrax#3416 Present short summary (50 characters or less) Added a condition to the attach_files_to_work_job that adds the owner to the work_permissions map that gets used to set the file permissions.  This should be reviewed manually with config.active_job.queue_adapter = :sidekiq set in your environment. We should also add a line in our manual test script to verify this also.

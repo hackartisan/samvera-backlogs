@@ -1,0 +1,2 @@
+DLTP 588 As a Librarian, I need additional fields to properly describe journal articles.
+This handled everything in  except the ISSNs, which I'll need to examine more fully in future. Can someone review?

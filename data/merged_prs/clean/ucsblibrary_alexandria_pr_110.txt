@@ -1,0 +1,2 @@
+pin simple_form, upgrade other deps 
+Sinatra: 

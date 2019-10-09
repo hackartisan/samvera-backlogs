@@ -1,0 +1,4 @@
+Use `:test` adapter for ActiveJob in specs
+Descriptive summary We should research samvera/hyrax#2888 and decide if we should make this change in UCrate as well. Currently we are using the :inline adapter for tests: samvera/hyrax#2888 Maybe using the :test adapter will be more efficient?
+Referencing the PR that will resolve this for Hyrax: 
+Waiting for us to update UCrate to Hyrax v2.1.0.rc1.

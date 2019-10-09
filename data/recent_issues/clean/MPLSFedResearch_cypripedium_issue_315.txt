@@ -1,0 +1,2 @@
+Add geonames username to ansible build
+Does FRBM have a geonames username to enable the geographic authorities? If so, get it and add it to the ansible build. Child of #298

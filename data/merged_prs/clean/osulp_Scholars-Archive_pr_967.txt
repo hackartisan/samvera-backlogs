@@ -1,0 +1,2 @@
+fixed job name in reindex_everything task
+ref #867

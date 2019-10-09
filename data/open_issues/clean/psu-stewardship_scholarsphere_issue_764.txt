@@ -1,0 +1,10 @@
+As a user depositing content,  I would like to use my ORCID ID to fill in my creator fields. 
+PSU has an ORCID membership and we should probably be supporting ORCID more anyway. We can leverage this to encourage people to use ORCIDs to populate their forms and also get ORCIDs.
+As a depositor, I would like to be able to automatically link my ORCID to my content so that my content is easier to search and site, and disambiguates me from other creators.
+Associate orcid with the work information in the header?
+The creators should not just be text fields, but could/should be related to actual scholarsphere users/ orcid. Allow the creator to be entered as orcid or id instead of just text.
+Create a fedora object for each user   * First Name   * Last Name   * ORCID   * Alias list   * employee ID or login (optional)  Need a creator form that allows a logged in user to create new users for creators.  Chemical Heritage Foundation may have an implementation of this.  1. Fedora Object for the User #961 1. extract the orcid from ldap #939 1. Migrate our current user from the database into fedora #989  1. Create a work form for inputting Orcid  and display name (default to depositor Orcid & ldap name) #990  1. Keep track of aliases #991  1. Allow for querying with aliases to match all the records for that user #992  1. Allow for querying on Orcid #993 
+For 3.1 we are going to not include integration with the ORCID
+On the call yesterday Alexandria showed an example of how they added users to fedora:  &   This does not fulfill our requirements, but it might be a starting point. 
+Don't call it a User though, it should be  a Person or something like that. User might clash with devise models and also doesn't really convey the purpose of the model. Sorry to put my hand too deeply into implementation!
+<img width="961" alt="screen shot 2017-08-23 at 10 42 10 am" src=""> 

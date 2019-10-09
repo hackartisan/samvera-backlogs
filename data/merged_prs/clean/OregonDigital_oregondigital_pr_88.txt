@@ -1,0 +1,2 @@
+Updated Hybag.
+This adds the new version of hybag, which gives us configurable model names for bulk imports.

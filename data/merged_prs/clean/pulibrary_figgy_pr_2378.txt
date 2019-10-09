@@ -1,0 +1,2 @@
+Implementing the FindManyByStringProperty custom query and GraphQL ResourcesByBibIds query
+This provides a GraphQL query for retrieving multiple resources for a set of bib. IDs (this will be necessary for resolving pulibrary/orangelight/issues/1534).  This ensures that only a single query must be made using GraphQL in order to retrieve a set of thumbnail IDs for a set of bib. IDs.

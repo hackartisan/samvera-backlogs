@@ -1,0 +1,2 @@
+Add automated catch of bad version as long as it is not the last version
+This is assuming that the rake task has been run on ScholarSphere 2.8.4 to create a new version of cvs files that have bad versions before the export and import

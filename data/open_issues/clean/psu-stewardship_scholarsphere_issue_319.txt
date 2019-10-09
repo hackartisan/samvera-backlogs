@@ -1,0 +1,3 @@
+user story for 'view' statistics
+As a service manager of ScholarSphere, I need to know how often items have been viewed in the past week / month / year, so I can show impact as part of promoting the service.
+ : does the google analytic report capture this data for you?  

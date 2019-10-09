@@ -1,0 +1,4 @@
+Local controlled vocabulary
+As a metadata specialist, I would like to use a local controlled vocabulary within a collection, So that I use consistent terms across the app when describing the content
+Not a dupe
+Although not required, it would be much easier if we could use Questioning Authority for this. We could use simple yaml files or use database sources. That would also provide the means for managing the terms in the future.

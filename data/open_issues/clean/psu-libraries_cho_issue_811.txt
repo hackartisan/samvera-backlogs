@@ -1,0 +1,2 @@
+About page
+New static page (with eventual WSYWG/CMS) for about content. Should be linked in nav menus. Nathan will provide content.

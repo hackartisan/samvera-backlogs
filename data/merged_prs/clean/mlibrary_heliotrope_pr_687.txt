@@ -1,0 +1,2 @@
+Don't run unnecessary background jobs during specs.  Goal is to speed up specs, story #673
+Don't run background jobs during specs if the specs aren't testing the outcome of the job. Part of story #673

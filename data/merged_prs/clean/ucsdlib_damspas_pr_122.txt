@@ -1,0 +1,1 @@
+Adding logging to determine why counter-redirection isn't working in production

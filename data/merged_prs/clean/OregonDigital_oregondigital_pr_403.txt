@@ -1,0 +1,2 @@
+Configure Devise's sender address.
+Closes #389

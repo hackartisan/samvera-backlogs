@@ -1,0 +1,2 @@
+Bulk Edits: AE subcollection adds & misc fields
+Bulk edits - Applied Economics dept subcollections and misc alt_title, subject, resource_type, etc. Direct links to relevant tabs:    Applied Econ subcoll    Misc edits

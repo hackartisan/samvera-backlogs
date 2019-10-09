@@ -1,0 +1,2 @@
+Load approvers from a config file and make workflow setup idempotent
+Replaces PR #257 with something cleaner

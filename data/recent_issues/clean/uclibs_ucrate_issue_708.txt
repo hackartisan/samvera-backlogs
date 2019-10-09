@@ -1,0 +1,2 @@
+Spell out "DOI" on work show pages and edit forms
+Descriptive summary Using "DOI" as a header will confuse some people and is a potential accessibility issue.  We should change it to "Digital Object Identifier (DOI)" on the work show pages and work edit forms

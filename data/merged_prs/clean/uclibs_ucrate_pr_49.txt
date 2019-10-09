@@ -1,0 +1,2 @@
+Add .travis.yml
+fixes #43

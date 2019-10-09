@@ -1,0 +1,2 @@
+A service is trying to access a non-existent ephemera folder manifest
+Backtrace line 118 of [PROJECT_ROOT]/app/adapters/instrumented_adapter.rb: block in find_by line 48 of [PROJECT_ROOT]/app/adapters/instrumented_adapter.rb: block in trace line 44 of [PROJECT_ROOT]/app/adapters/instrumented_adapter.rb: trace  View full backtrace and more info at honeybadger.io 

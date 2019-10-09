@@ -1,0 +1,2 @@
+Bulk load testing data
+Descriptive summary Generate a simple (throwaway-able) script that can process a CSV of metadata to create/recreate works and upload related files to OD2 Staging. Expected behavior This will, initially, work with ActiveFedora worktypes and be capable of reloading a bunch of test metadata and files for the sake of testing staging.

@@ -1,0 +1,2 @@
+Add project name to the sample .env
+There needs to be a project name set for the footer to work properly. It needs to match the deploy_to target in config/deploy.rb.

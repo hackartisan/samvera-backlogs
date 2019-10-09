@@ -1,0 +1,2 @@
+Updating `browse-everything` from upstream for supporting Team Drives
+Resolves #1133

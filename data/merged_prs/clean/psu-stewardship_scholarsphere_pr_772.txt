@@ -1,0 +1,2 @@
+Adds aria hidden true to toolbar icons
+Pretty much says it all. ⬆️

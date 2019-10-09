@@ -1,0 +1,2 @@
+Complete solr_document.rb
+add missing fields.

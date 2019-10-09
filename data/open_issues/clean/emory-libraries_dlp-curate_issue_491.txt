@@ -1,0 +1,2 @@
+Preview Image content in the Universal Viewer so that I verify file quality related to access controls for images.
+ACCEPTANCE Given a public hi-res image   I have an option to download the full image Given a public low-res image  I have an option to download a reduced resolution version of the image Given a public view-only image  I am not provided any download options  Using the IIIF endpoint, I can only request a reduced resolution version of the image

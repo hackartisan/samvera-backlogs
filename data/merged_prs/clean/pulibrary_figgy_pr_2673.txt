@@ -1,0 +1,2 @@
+Ensure fq makes it all the way to solr in iiif search
+fixes #2656

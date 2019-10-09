@@ -1,0 +1,2 @@
+Add active_elastic_job gem and BetterActiveElasticJobAdapter class
+Run bundle install to pick up changes to the Gemfile.

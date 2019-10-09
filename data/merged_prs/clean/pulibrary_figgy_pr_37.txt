@@ -1,0 +1,2 @@
+File Characterization
+Adds height/width/mime_type and three different checksums to files on ingest.

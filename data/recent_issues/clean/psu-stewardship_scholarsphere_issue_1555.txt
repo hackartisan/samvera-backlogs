@@ -1,0 +1,2 @@
+The sitemap has http instead of https
+Google is not indexing our data since the sitemap is saying http and we are redirecting to https.  We should change the sitemap generator to have the correct https urls. 

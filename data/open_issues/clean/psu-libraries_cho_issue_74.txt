@@ -1,0 +1,3 @@
+Download a page from a book-like object
+As a graduate student, I want to download only a page from a book-like object, So that it I can just the part I need and not the whole object.
+Having a download link in the Universal Viewer for the active page. Options for page turner for single, two, grid. Indicate which page to be downloaded.

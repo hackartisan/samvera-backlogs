@@ -1,0 +1,2 @@
+Update fields displayed for search results
+closes #330

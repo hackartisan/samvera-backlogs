@@ -1,0 +1,2 @@
+Webhook Url, fix specs, and shorten trx id
+Sets basic auth in webhook url. Fixes uploads controller spec. This broke due to adding S3 into initiate_trx along with adding an expectation for the json that was being returned. Shortens trx_id from SecureRandom.hex(32) to SecureRandom.hex(8)

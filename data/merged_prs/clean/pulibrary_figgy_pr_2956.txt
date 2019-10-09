@@ -1,0 +1,2 @@
+Implements the FindCloudFixityFailures custom query for finding Events for fixity failures (which didn't later succeed)
+Resolves #2946

@@ -1,0 +1,2 @@
+Investigate fixity service job provided by Hyrax
+Confirm if Hyrax only provides single file checking (and which one)  Confirm which queue(s) the job goes in  Check if job is queued for at the work level or a FileSet level

@@ -1,0 +1,2 @@
+Change all references to tenejo to californica.
+Changing all references to tenejo to californica, should address the lingering referneces to Tenejo in the web UI. Connected to #99.

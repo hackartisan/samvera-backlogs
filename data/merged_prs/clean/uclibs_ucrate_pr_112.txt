@@ -1,0 +1,2 @@
+Bundle update and pin capybara
+Does a bundle update to pull down all updated gems. Also pins capybara to a version < 2.18.0.  (They had to do this in Hyrax as well to prevent some specs from failing.)

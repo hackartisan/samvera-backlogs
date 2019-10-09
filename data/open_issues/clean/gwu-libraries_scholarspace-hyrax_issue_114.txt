@@ -1,0 +1,2 @@
+Determine how to set initial minter seed
+See  - unless the seed is specified, the minter will always generate the same sequence for each deployment.

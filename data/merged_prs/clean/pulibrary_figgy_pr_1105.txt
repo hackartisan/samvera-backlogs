@@ -1,0 +1,2 @@
+Allow resources to attach child resources of different types
+Closes #1082

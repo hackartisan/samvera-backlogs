@@ -1,0 +1,2 @@
+Use image assets from DDR-Portals
+Also adds some helpers for embedding repository hosted multires images.

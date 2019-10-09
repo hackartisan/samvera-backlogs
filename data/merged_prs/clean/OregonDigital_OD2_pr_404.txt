@@ -1,0 +1,2 @@
+Refactor existing single endpoint controlled vocabularies
+Fixes #400

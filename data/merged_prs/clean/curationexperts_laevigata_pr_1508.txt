@@ -1,0 +1,2 @@
+Add supplemental files from Box
+This introduces a class that manages whether the user is uplading primary or supplemental files and then pushes the files to the appropriate place based on what mode they are in. Related to #1475

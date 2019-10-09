@@ -1,0 +1,2 @@
+IIIF Auth implementation
+Allows display of items that require campus login  Specification: 

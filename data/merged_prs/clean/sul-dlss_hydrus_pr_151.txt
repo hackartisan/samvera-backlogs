@@ -1,0 +1,2 @@
+contact form bug
+fixes #150  fix routing for contact us page add tests for contact form fix rails 5 deprecation for mail delivery remove apparently unused error route

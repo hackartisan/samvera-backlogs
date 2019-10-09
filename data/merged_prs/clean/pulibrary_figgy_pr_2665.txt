@@ -1,0 +1,2 @@
+Include artist table in coin
+closes #2582

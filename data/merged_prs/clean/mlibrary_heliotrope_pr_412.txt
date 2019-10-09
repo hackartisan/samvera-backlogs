@@ -1,0 +1,2 @@
+modify monograph catalog controller to display captions, not descriptions
+Closes #398

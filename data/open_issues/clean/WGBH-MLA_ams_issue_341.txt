@@ -1,0 +1,2 @@
+Draft of Poster Design for Samvera Connect
+Because We want to get things laid out spatially with placeholders before filling in blanks with copy and data. Done when We have a saved representation of how the poster will be laid out spatially, including:   title  all sections we want to include  Depends on #337

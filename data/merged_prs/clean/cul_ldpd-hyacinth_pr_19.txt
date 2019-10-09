@@ -1,0 +1,2 @@
+Add AND, OR functionality to permission check
+require_project_permission! now accepts an array of permissions and provides AND, OR logic Specs for new code uses a partial double, and config changes were made to spec_helper.rb to catch calls to unimplemented methods. An existing spec with such a call was updated.

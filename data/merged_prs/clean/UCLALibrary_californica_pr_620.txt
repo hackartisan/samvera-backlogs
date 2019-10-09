@@ -1,0 +1,2 @@
+validate files are present in CSV upload
+Validates that files listed in a csv are present in CsvManifestValidator.manifest_uploader.model.import_file_path. If import_file_path is nil, no validation is performed and no warnings are given. Unfortunately, when validation messages are displayed in the preview screen the CSVImport has not yet been saved to the database, and the unsaved object passed to CsvManifestValidator has manifest_uploader.model.import_file_path == nil. Thus, this functionality is not yet available.

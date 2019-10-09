@@ -1,0 +1,2 @@
+Investigate "OD system maintenance" message appearing on old CDM URLs
+OD's "system is down for maintenance" is reported as showing for this URL:  That's not one of the URL types we supported in our CDM redirects, but that should still redirect to the homepage, not give the system down message when it's not. We should also double check that the supported CDM redirects are still working, there may be an issue after the change to https, where there nginx redirect script needs to be updated.

@@ -1,0 +1,2 @@
+Chore/#110 increase test coverage of shibboleth
+Fixes #110

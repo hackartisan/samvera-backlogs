@@ -1,0 +1,1 @@
+Take the max of integers, not strings (doesn't interpolate i guess)

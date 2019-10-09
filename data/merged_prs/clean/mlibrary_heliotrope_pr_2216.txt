@@ -1,0 +1,2 @@
+Resolves HELIO-2486: EPUB access page.
+Set request attributes for logged in users.

@@ -1,0 +1,2 @@
+Configure required fields for the form
+Using the metadata spreadsheet Emily gave us, the form should require fields for the properties that are required in Curate.   Configure the required fields  Add the required fields to the form's system test.

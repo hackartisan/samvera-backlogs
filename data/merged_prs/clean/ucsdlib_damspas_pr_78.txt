@@ -1,0 +1,1 @@
+Allow for download of more than one master file. DHH-559

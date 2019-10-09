@@ -1,0 +1,2 @@
+Secure SOLR  instance 
+Create a password for the instance  Test with the ARCH environment

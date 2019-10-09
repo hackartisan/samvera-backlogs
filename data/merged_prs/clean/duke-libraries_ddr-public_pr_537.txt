@@ -1,0 +1,1 @@
+Map dc:rights to rights_note in DPLA feed.

@@ -1,0 +1,1 @@
+remove accidental definition of a global #logger method

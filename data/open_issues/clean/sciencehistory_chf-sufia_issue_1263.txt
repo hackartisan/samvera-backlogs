@@ -1,0 +1,2 @@
+Honeybadger comments are not working
+The 500 error page has a form for user comments which are supposed to be displayed alongside the error on the Honeybadger error page site. The form accompanying error  was filled out but the comments appear to have been lost. Should be possible to reproduce this readily.

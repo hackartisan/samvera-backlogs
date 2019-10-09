@@ -1,0 +1,3 @@
+Batch Import (Not Preview) Error Messaging Improvements
+The error messaging when the actuall import is performed does not give any specifics on what file was being processed, what was doing the processing, or where the things were in the overall process. Messages need to be specific so library staff are able to correct errors in the batch. Also, in one test import, some works/files seemed to be imported even though a failed import message was displayed. Related #834, #826
+This might be addressed by #700, #717, and some others, evaluate when those are complete

@@ -1,0 +1,2 @@
+Update ActiveFedora version
+Recent ActiveFedora releases have performance improvements that may speed up ActiveFedora::Cleaner.clean! and other bulk object handling tasks. See  and  Ran bundle update active-fedora. Connects to #238

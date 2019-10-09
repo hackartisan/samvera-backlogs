@@ -1,0 +1,2 @@
+Collection size is not zero bytes, ref #9753
+This was fixed in Sufia, but I avoided putting the follow-up test as a feature, since that would require uploading files and would slow down the test suite. Instead, the size property on the file is mocked in a unit environment, similarly to the way it is in the Sufia test.

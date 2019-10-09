@@ -1,0 +1,2 @@
+Feature/document reader
+This implements the OpenLibrary bookreader, with updates to work with the newer versions of jQuery/jQuery UI/etc. Right now it uses 1000x1000 PNGs as the derivatives. Eventually we'll probably want JP2s scaled on the fly out of IIP.

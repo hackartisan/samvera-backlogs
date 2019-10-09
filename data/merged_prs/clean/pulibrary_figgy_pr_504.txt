@@ -1,0 +1,1 @@
+Use Box number instead of title on eph project page, fixes #488

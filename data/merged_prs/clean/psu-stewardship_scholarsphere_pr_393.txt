@@ -1,0 +1,2 @@
+Upgrading to Sufia 7.2 (official) and other dependent gems
+Fixes #388 and samvera-deprecated/sufia#917.

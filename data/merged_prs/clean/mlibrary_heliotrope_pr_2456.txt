@@ -1,0 +1,2 @@
+Update PDF Viewer
+incorporate updated viewer.js that only listens for r keypress install locale and cmaps directories fill out PDFReader to respond to cozy-sun-bear keyboard navigation events tweak cozy-honey-bear-reader.css to address sidebar issues

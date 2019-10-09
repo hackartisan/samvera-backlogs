@@ -1,0 +1,2 @@
+Work around to avoid the singin message
+Closes ndlib/legacy-curate-planning#224

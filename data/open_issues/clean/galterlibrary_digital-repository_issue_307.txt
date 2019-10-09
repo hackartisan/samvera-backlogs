@@ -1,0 +1,2 @@
+Adding to collections - admin
+As admin I cannot see all the collections, especially collections I created, as an option when trying to "Add to Collection" a file from the catalog. See below:

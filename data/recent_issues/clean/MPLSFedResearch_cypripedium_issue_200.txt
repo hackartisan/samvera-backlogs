@@ -1,0 +1,2 @@
+Migration documentation
+STORY As a system owner I would like the upgrade/migration process to be well documented DETAILS ACCEPTANCE

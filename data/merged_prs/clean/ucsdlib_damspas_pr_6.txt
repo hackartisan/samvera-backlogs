@@ -1,0 +1,1 @@
+Grouped notes of the same type to be under one label. Fixed grouping of relatedResources of the same type. DHH-364 DHH-444

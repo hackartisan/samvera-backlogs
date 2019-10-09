@@ -1,0 +1,3 @@
+Items should be indexed after loading by ingest_etd task
+Currently requires manually invoking reindex_everything to get new items loaded via ingest_etd script to be indexed.
+One hypothesis is that this is due to the fact that script-uploaded items are not currently being placed in a workflow.  Not sure yet how to do this in code, but try placing them in the default workflow. (Already tried `Hyrax::Workflow::ActivateObject.call target:gwe` but this did not seem to trigger indexing)

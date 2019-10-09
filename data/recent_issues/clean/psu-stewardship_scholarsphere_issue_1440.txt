@@ -1,0 +1,2 @@
+Get timing numbers for more efficient tests
+After we have done the upgrades to the test suites how do we look.

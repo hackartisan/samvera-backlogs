@@ -1,0 +1,2 @@
+HELIO-2205 - changes to the Fulcrum homepage and other pages
+Resolves HELIO-2205 Changes to homepage, accessibility page, about page, and minor tweaks to other files to consistently reflect those changes.

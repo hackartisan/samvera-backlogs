@@ -1,0 +1,2 @@
+File set permissions are not getting updated when the resource or collection's access rights change.
+File set permissions are not getting updated when the work or collection's access rights change. Originally posted by  in #990 (comment) Adam mentions it should be fixed in #1026, but there are many questions in that ticket. This is important so wanted to track this issue separately.

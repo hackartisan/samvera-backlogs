@@ -1,0 +1,2 @@
+use unpaywall to get base metadata for new item
+this might be a good alternative to #190, where:  user provides DOI we fetch metadata + files from unpaywall user fills in/corrects rest of the metadata + submits new publication

@@ -1,0 +1,2 @@
+Data seeder is broken
+I get a stale object error when I run it now. anyone else?

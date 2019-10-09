@@ -1,0 +1,7 @@
+Support archival a/v workflow by providing functionality on more fields from pbcore
+Needs further discussion. staff want to be able to sort or facet based on original media type (e.g. what are all the cassettes we've recorded?) and digitization vendor (e.g. which vendor was best for cassettes?) to use in planning future projects.
+ We're reviewing tickets, can you confirm that this is still something you want?
+I could still see it being helpful, but I don’t see this as essential at this point. I would say making sure we can ingest other formats (video) is a much higher priority.
+ Thanks! Do you want us to keep this ticket around, or should we close it and see if it comes up again in the future?
+I’m ok with closing it and seeing if it comes up again (unless you have some sort of workflow in place for keeping track of “someday maybe” tickets). ☺  
+ We do have that workflow! I'll put it in place there.

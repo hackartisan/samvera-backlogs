@@ -1,0 +1,2 @@
+Indicate to "contact us" for large data files
+We should add a note that the best way to ingest very large data sets (~ >4GB) is to get in touch with us (REPUB) for manual ingest.

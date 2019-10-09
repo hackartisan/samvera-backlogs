@@ -1,0 +1,2 @@
+Make summary attributes easier accessable
+In the current model, attributes are not registered in Solr document, therefore it's a bit complex to retrieve them from the view pages, e.g. @presenter.solr_document._source[field_name+"_tesim"] We need a cleaner way to access these attributes

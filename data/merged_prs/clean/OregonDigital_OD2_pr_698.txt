@@ -1,0 +1,2 @@
+Connects file & metadata downloads to view
+Fixes #669 Depends on #691 adds <worktype>/<id>/download and <worktype>/<id>/metadata routes to download zip/csv. Once roles are in /download can be used to switch on high/low res.

@@ -1,0 +1,2 @@
+Add autocomplete for most Coin and NumismaticIssue
+Lookup values instead of pre-loading all of them, because that's really slow.

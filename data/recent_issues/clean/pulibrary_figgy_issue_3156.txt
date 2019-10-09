@@ -1,0 +1,2 @@
+UV can't play a collection of recordings
+This is a problem for our AV bags because they're typically a grouping of barcodes under one component ID. We can probably fix this by inlining all the child file sets for generation of the manifest (like we do for Sammelbands.)

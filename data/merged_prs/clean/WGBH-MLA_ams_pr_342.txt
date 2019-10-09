@@ -1,0 +1,2 @@
+Add script to ensure sidekiq is running
+Adds a bash script that ensures sidekiq is running. This script is intended to be run as a cron job (see comments). Also modifies the ToggleSidekiq lib, which can be used from the Rails console to start/stop/restart sidekiq.

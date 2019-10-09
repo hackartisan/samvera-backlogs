@@ -1,0 +1,2 @@
+Remove deprecated human_readable_type=
+Fixes #339 Remove human_readable_type assignment from from models and add names to locale.

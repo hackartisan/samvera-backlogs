@@ -1,0 +1,2 @@
+Resolves #1287 Remove Media Tab On Catalog Page If No Assets
+Monograph Presenter Assets?

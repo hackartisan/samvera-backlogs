@@ -1,0 +1,1 @@
+Make sure geonames URIs point to the right host

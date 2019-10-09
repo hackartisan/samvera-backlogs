@@ -1,0 +1,3 @@
+Make fields consistent width on edit page
+Descriptive summary Dropdowns, text fields, and text boxes are different widths. Some are fine being short, such as the nested geographic coordinates, but non-nested fields should all be the same width. Expected behavior Non-nested fields are all the same width. Question: Should the fields extend no matter how wide the window gets or not? Actual behavior  Steps to reproduce the behavior  Access edit page on SA  Related work #1811
+what is best practice for mobile viewing as far as form fields changing size based on screen size?     

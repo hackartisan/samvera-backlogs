@@ -1,0 +1,2 @@
+grants & funding; acknowledgment; ARK; number of pages
+Grant & Funding should have been in the vivo core domain:  Acknowledgment can be either:  OR:  ARK should be in our namespace: ... ark:/88131/g8 All items have this:  Number: Instead of this:  USE:  Actual number of pages: Instead of this:  USE this: 

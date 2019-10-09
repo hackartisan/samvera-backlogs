@@ -1,0 +1,2 @@
+Resolves #1363, Full-text search improvements in the EBook Reader
+Full sentences only in the context snippet from the search term. Added a pretty simple attempt at "developing exact term matching"  Also included (via an update Gemfile) are cozy-sun-bear changes that:  Add chapter title to search results Display "No search results" message if there are no search results  See mlibrary/cozy-sun-bear#109

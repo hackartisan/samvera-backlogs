@@ -1,0 +1,1 @@
+Fixed the status 404 error caused by referer controler handling with local access.

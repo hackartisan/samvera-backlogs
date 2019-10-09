@@ -1,0 +1,2 @@
+Update course part_of when skipping pre-ingested Recordings
+This is for #3237

@@ -1,0 +1,2 @@
+Set PDF as file to download
+For every summary we upload a PDF and a word document. We need a copy of the word document in case we need to make any changes later. However, when someone downloads a summary we would like it to be the PDF. I think this used to be the case, but something has changed. For the following summary, for example, the download is is the word doc:  I've tried changing this in the file manager, but that doesn't seem to do anything.

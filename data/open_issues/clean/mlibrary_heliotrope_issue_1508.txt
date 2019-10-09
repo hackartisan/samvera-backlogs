@@ -1,0 +1,2 @@
+Upload custom video poster derivatives
+Much like thumbnails, users should be able to upload custom video posters.   either conditionally add this upload to the "thumbnail" tab on the FileSet edit page (in which case rename the tab to "derivatives", maybe) or create a new poster tab which appears if the FileSet is a video  follow the existing thumbnail overwriting functionality (minus the glyphicon override) to allow the poster upload

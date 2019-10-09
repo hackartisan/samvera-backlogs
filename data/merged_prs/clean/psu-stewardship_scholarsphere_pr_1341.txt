@@ -1,0 +1,2 @@
+Replace system create date with date uploaded
+Uses the date uploaded field in Solr to query for works in the stats reports. Fixes #933

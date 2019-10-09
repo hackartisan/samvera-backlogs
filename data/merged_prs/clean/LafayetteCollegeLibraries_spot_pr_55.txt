@@ -1,0 +1,2 @@
+Spot approval workflow
+Add a workflow called spot_one_step_process that puts a work in a "processing" state until it is approved, at which point it is "processed". The work is not publicly discoverable until it is processed. Add feature test for workflow Add hyrax actor_create method for factory objects

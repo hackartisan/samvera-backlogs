@@ -1,0 +1,2 @@
+Ephemera: Delete button is too close to other buttons
+Separate delete buttons from other buttons to avoid accidentally clicking them

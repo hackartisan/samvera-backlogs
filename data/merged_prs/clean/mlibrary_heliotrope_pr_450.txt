@@ -1,0 +1,2 @@
+remove share buttons for soft launch
+temporarily hide share button on asset page during the soft launch to prevent preview-heliotrope URLs from easily being shared.

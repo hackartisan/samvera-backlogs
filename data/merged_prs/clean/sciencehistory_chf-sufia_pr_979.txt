@@ -1,0 +1,2 @@
+New genre term: Pesticides
+Closes #949

@@ -1,0 +1,2 @@
+use Darlingtonia::Validator::Error instead of strings
+this Struct was introduced a year ago + would allow more detailed output to the error stream. see: 

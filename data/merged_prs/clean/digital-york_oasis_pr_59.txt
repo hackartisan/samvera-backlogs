@@ -1,0 +1,2 @@
+Issue 36 - customized facets - searching and displaying label from id for author…
+fixed #36

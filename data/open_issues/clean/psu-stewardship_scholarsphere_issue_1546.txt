@@ -1,0 +1,4 @@
+Agent is only filled in with email and id if the user exists in the system
+
+the first one was found at random (no email or id), the second one was found via id (has email and id) ![screen shot 2019-02-27 at 9 29 08 am]( 
+This could be a data issue with agents already existing in the system without emails.

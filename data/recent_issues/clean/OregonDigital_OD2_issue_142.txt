@@ -1,0 +1,2 @@
+Configure Required Fields For Metadata
+Descriptive summary Now that we have the metadata configured in the application, we need to make sure to add in the required fields. These are the fields that will be expected to be filled out every time a new work is generated. This information is found in the MAP and can be added to the application in the metadata field. The way this is done is actually in the form. There is a field on the form called self.required_fields you can add required fields by writing self.required_fields= [:field1, field2, ....]

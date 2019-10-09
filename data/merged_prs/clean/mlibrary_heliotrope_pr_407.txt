@@ -1,0 +1,2 @@
+change cardinality/semi-colon splitting of some metadata
+Closes #395

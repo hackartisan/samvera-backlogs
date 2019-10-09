@@ -1,0 +1,2 @@
+Add namespace-magicky files
+Closes #145 Using RAILS_ENV=staging, this seems to fix the namespace problem described in the ticket's last comments

@@ -1,0 +1,2 @@
+non-spinning static loading svg for thumbs
+I think the spinning SVG was putting too much load on CPU when there were hundreds of them on a page, especially on slower devices

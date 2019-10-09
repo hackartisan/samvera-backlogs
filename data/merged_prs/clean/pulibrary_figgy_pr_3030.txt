@@ -1,0 +1,1 @@
+Indexing rights statement label and adding it as a facet

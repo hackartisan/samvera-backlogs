@@ -1,0 +1,2 @@
+Copy Fran on all embargo expiration emails
+All embargo expiration emails should also go to 

@@ -1,0 +1,2 @@
+Can't specify collection type through nav
+When you use the navigation bar to create a collection, it will immediately go into the new collection page, where as when you try to create a new collection through the dashboard it will prompt you for a collection type. When navigating using the navigation bar, the user should still have the option to select a collection type.

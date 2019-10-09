@@ -1,0 +1,2 @@
+[2] BrowseEverything 
+Descriptive summary Enable browse_everything for file_system in development and s3 for staging and production. This functionality will aid in our ingest process both for the migration effort and for the application in the future. See  Expected behavior development : Browse everything allows users to pick files located in a local filesystem path staging / production : Browse everything allows users to pick files that are located in a bucket (configured using an ENV) Relates to OregonDigital/hyrax-migrator#26

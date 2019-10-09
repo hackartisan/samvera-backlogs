@@ -1,0 +1,2 @@
+Removes deprecated code
+Fixes #705

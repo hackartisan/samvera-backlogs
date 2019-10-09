@@ -1,0 +1,2 @@
+adds direct download google analytics
+fixes #309

@@ -1,0 +1,2 @@
+Adding relative path to files in the CSV import process
+Description  Adds a configuration option for csv binary file base path Uses the relative path to find the files  References ticket: (if any)  refs #490 Why was this necessary?  Allows for the csv file to be uploaded and the binary content to be on a share on the server Changes Are there any major changes in this PR that will change the release process? No Checklist   i18n enabled  adequate test coverage  accessible interface

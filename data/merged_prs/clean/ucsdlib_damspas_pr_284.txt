@@ -1,0 +1,2 @@
+Clean up old form code
+Fixes #282  ; refs #282 Clean up after the old form since we have replaced the contact form with an embedded MachForm. Changes proposed in this pull request:  Remove contact_form model Remove mail_form gem Add Test Remove some views that are not in in used  /developers - please review

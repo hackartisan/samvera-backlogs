@@ -1,0 +1,1 @@
+remove references to fields not present on Solr doc

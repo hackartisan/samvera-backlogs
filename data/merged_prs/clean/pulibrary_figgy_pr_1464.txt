@@ -1,0 +1,2 @@
+Propagate read_groups access to FileSets in change set persister
+resolves #1441

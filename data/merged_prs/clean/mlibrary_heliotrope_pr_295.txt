@@ -1,0 +1,2 @@
+iiif and leaflet for #179
+Resolves #179

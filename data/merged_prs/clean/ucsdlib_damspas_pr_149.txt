@@ -1,0 +1,1 @@
+Updated Solrizer to retry on error and skip indexing the record if still failed. DHH-605

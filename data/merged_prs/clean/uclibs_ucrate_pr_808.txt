@@ -1,0 +1,2 @@
+Always show english worktype in work show view
+Fixes #788 In Nurax, worktype is always displayed in English on the work show view. Previously, we were translating this value, we should stop to be inline with Hyrax/Nurax. Changes proposed in this pull request:  Breakout worktype name translations to the worktype yamls Update worktype selector view to show locale values from worktype yamls

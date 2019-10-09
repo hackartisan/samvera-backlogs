@@ -1,0 +1,2 @@
+Fix docker
+Ignores potentially huge stuff when building docker images, stolen from  No ports are exposed by docker-compose.yml; devs can copy docker-compose.override.yml-example to docker-compose.override.yml (or create their own) to customize ports as it makes sense

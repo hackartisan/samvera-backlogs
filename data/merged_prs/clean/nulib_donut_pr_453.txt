@@ -1,0 +1,1 @@
+Try to handle truncated VIPS intermediate file more elegantly

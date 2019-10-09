@@ -1,0 +1,2 @@
+Feature/rewrite generator
+Adds generator for rewrites from old ContentDM URLs.

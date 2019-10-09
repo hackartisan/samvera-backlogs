@@ -1,0 +1,2 @@
+Locking out users
+Fixes #1107 . We won't add tests for this one (see below.)

@@ -1,0 +1,3 @@
+Document browser compatibility
+Since the incorporation of the graphql order manager, Figgy is not longer compatible with IE 11 or below.
+We plan to expand browser compatibility for LUX. It's described here and simply requires updating the browserlist that babel uses when transpiling: 

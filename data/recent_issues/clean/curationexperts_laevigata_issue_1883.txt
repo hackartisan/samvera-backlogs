@@ -1,0 +1,2 @@
+Search and Sort Broken
+Column sort for tables on the Review Submissions, and Manage Users pages no longer works, and search boxes which used to be present on Notifications page, and the Manage Embargoes page are missing. See 

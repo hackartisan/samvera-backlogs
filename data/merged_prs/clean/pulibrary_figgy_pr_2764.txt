@@ -1,0 +1,2 @@
+converts numismatics fields to solr string types to support link to search
+Advances pulibrary/orangelight#1607

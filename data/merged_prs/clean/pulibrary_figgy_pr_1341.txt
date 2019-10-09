@@ -1,0 +1,2 @@
+Stubs the Logger in order to suppress Bagit errors while executing tests
+Resolves #1243

@@ -1,0 +1,2 @@
+ObjectIndexer: #file_sets doesn't guarantee order
+Fixes DIGREPO-886.

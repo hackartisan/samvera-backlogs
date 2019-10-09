@@ -1,0 +1,2 @@
+parse out Date Uploaded from Date Issued in newspapers collection
+In the newspapers collection, dc:date sometimes has two values - one of these is the issued date for the publication and one is the date ingested into the old repository.

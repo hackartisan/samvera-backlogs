@@ -1,0 +1,4 @@
+Improve Type-Ahead UI 
+The ingest form should give some kind of indication when type-ahead lookups are in progress, and some indication when they have failed. It's hard to tell whether it's just being slow, or something is broken.
+ Might make this a problem. 
+See  for an example of a fix. 

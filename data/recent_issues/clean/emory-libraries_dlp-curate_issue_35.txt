@@ -1,0 +1,2 @@
+Provision working storage based on initial migration estimates
+Discussed in 12/12 release planning meeting for 0.1   Identify estimates for phase 1 collections - 

@@ -1,0 +1,2 @@
+fix DIGREPO-805
+This should never actually happen, but when it does, don't 500.

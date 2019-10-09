@@ -1,0 +1,2 @@
+Routes for new UI. Part of story #1285
+The new route for an ETD will now redirect to the new route for the proxy inProgressEtd record, so that the correct controller is reflected in the route in the standard Rails RESTful way.  (The old code was hijacking another controller's route.)   I removed the new view, since it won't be used.  The new action in the controller does a find_or_create and then immediately redirects to the edit action, so the new view should never be needed.  For the same reason, I removed the create action from the routes.  We won't ever need that route.

@@ -1,0 +1,2 @@
+Add "Sign In" link to 404 error page when accessing curator only objects
+Descriptive summary Investigate if it is possible to add a link to Sign In as a curator on 404 pages which are usually seen when trying to access an ARK that is curator only. If so, it would be ideal to log in directly from the 404 error page and have it remember/retain the URL/ARK one was trying to access.  Rationale Cristela et al. in the DL Operations Group stated that it's annoying to have to jump from page to page to access a curator only object if not already logged in.

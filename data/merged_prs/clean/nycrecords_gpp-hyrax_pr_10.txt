@@ -1,0 +1,2 @@
+Feature/GPP-263: Integrate with NYC.ID (SAML)
+This PR ingrates SAML using omniauth-saml into the application. See SAML setup instructions.

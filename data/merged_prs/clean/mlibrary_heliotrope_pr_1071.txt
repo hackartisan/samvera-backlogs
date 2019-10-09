@@ -1,0 +1,2 @@
+order monographs by date_uploaded desc
+Resolves #1069

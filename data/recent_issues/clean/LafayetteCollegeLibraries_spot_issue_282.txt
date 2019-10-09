@@ -1,0 +1,2 @@
+build a collections#index view
+we currently don't have a way of browsing items based on collections (the link on the homepage directs users to the dss.laf/collections page). since the collections_controller doesn't implement an #index method, we could use this to land users on a has_model_ssim:Collection search.

@@ -1,0 +1,2 @@
+Increase QA redirect limit
+Fixes #391 The original ticket mentions the issue occurs when the Sparonotolgy endpoint is hit with http. Turns out this breaks our term matching after the redirect limit is raised.

@@ -1,0 +1,2 @@
+Port over Scholar's ETD manager functionality
+Fixes #248

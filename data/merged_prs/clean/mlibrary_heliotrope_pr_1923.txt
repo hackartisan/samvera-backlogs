@@ -1,0 +1,1 @@
+Resolves HELIO-2005: API for Components

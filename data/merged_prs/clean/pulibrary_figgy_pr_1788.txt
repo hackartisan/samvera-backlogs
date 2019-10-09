@@ -1,0 +1,2 @@
+Multi-volume map sets
+Closes #1786

@@ -1,0 +1,2 @@
+IIIF Search is returning results from unrelated canvases
+Searching for "Design" on  returns nearly 2k results.

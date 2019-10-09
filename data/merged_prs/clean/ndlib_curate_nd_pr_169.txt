@@ -1,0 +1,2 @@
+[skip-ci] DLTP-264 Classify works by college and department
+Adding department yml Moving department class and intializer to curate Adding all departments from google doc

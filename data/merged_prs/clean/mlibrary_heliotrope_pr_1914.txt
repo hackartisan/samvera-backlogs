@@ -1,0 +1,2 @@
+Fix up Shibboleth login
+There are detailed comments in each of these commits about these fixes to the login/logout process. This is now functional for development as well as in production with a proxy and real SP in place.

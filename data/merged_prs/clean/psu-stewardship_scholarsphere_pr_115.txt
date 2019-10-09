@@ -1,0 +1,2 @@
+Allow only editable collections in the collection list. fixes #109
+Overriding to find only collections with edit access.  Sufia currently finds any collections (read, or edit access). Doing this here for the moment to facilitate the release.  Need to have a community discussion to see if this is need/wanted in sufia.  I can not see why a a user might select a collection they do not have edit access to, but there may be a change in sufia I am unaware of.

@@ -1,0 +1,2 @@
+Large index
+These fields aren't used. They also cause problems for large text fields. Fixes #948.

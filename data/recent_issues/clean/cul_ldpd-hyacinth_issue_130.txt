@@ -1,0 +1,2 @@
+Permissions Page for Aggregator Projects
+Permissions page for Aggregator Projects will not have the ability to create, delete or add rights  for digital objects.

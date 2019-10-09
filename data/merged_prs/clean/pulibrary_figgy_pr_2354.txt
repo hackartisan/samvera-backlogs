@@ -1,0 +1,2 @@
+Skip CSRF protection for GraphQL
+It's not useful, and right now it's just throwing a log message since the session is a null session.

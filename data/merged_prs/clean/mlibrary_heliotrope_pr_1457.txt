@@ -1,0 +1,2 @@
+Remove skip link from EPUB show page
+Resolves part 1 of #1409 Moves skip link markup out of app/views/layouts/boilerplate.html.erb and to its own partial that is called on pages that use the navigation menu header (the idea of the skip link is to give keyboard users an option to skip tabbing through the navigation so this seems to make the most sense to me); Discovered EPUB monograph catalog show page was missing maincontent anchor -- this is added now; As a result of moving skip links to their own partial, it is no longer included on the EPUB show page.

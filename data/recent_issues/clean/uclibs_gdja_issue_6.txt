@@ -1,0 +1,2 @@
+Add about text to homepage
+Descriptive summary We need a partial for about text.

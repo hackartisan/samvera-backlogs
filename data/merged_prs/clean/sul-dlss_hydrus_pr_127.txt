@@ -1,0 +1,2 @@
+Extract Item.create into ItemService.create
+The Item class is too big and the create method has too many lines

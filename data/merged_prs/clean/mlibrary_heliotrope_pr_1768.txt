@@ -1,0 +1,2 @@
+Resolves #1752: Code button as html button
+<form action="">         <button type="submit" formtarget="_blank" class="btn btn-default">Open New Window</button>       </form>

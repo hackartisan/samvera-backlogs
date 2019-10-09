@@ -1,0 +1,2 @@
+clean up Monograph's ListSource
+HELIO-2484

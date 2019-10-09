@@ -1,0 +1,2 @@
+Search Results: List View: Truncate long titles to 10 words
+Descriptive summary On Search Results, List View, truncate long titles so they don't wrap too long and push further content down. Use truncate_words method to not have awkward splits mid-word. Have ellipsis at the end. Example code 'And they found that many people were sleeping better.'.truncate_words(5, omission: '...') Wireframe mockup, List View:  (Information compiled by POSM group from updated wireframes) Expected behavior Title is truncated after 10 words. No mid-word splits. Ellipsis at the end.

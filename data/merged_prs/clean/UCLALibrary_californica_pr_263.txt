@@ -1,0 +1,2 @@
+Add Copa De Oro to Californica README
+The key to floating an image in Github flavored markup. <img align="left" width="100" src=""> Also adjusts a few other lines to be better spaced and syntax highlighted for better readability.  On branch 134-add-pic-to-readme-jd Changes to be committed: modified:   README.md Connected to UCLALibrary/amalgamated-samvera#134

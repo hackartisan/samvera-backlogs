@@ -1,0 +1,1 @@
+Fix nested authors in search results.

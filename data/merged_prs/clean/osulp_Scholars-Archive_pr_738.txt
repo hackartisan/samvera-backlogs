@@ -1,0 +1,2 @@
+Adds honors college model
+Fixes #672 Just need to add admin set on prod server.

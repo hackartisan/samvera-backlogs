@@ -1,0 +1,2 @@
+image viewer, more robust errors
+For certain kinds of errors, a spinner was left forever, now we notice and remove spinner, and add error message if needed. should make debugging a little bit less confusing in some cases.

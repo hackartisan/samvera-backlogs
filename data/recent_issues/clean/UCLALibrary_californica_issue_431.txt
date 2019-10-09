@@ -1,0 +1,2 @@
+Add UCLA metadata to collection show view
+STORY We've added the UCLA metadata fields like caption and normalized_date to the collection object model, we need to ensure they show up on the collection view pages. ACCEPTANCE When the properties in  are populated with values   They appear on the collection show page ./collections/[id]  They appear on the collection dashboard show page ./dashboard/collections/[id]  Child of #385

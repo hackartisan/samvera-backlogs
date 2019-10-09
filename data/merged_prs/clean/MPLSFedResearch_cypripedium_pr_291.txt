@@ -1,0 +1,2 @@
+Change bag click event initialization
+This changes the click behavior of the bag buttons so that they only post once. To do this I converted some of the plain JS to jQuery and moved the button initialization to the application.js file so that it is not re-initialized when Turbolinks is reloaded.

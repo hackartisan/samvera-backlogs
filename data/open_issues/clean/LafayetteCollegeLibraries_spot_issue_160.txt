@@ -1,0 +1,2 @@
+admin interface for sidekiq monitoring
+this seemed relatively straight-forward until i realized that, in environments other than dev, the sidekiq server will live separate from the main rails app. so how do we monitor this? leftover from #155

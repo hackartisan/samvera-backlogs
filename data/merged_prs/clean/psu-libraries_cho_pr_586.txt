@@ -1,0 +1,2 @@
+Adding a fits output to file
+Description Added a property to store the output added an operation to create the output Fixes #552 Why was this necessary? Changes Are there any major changes in this PR that will change the release process? no Checklist   i18n enabled  adequate test coverage  accessible interface

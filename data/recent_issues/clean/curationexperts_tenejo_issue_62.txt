@@ -1,0 +1,2 @@
+Initial Documentation of CSV fields
+ACCEPTANCE   For each field in  provide a sentence or two about what should be in the field.  Give examples where helpful.  Indicate which fields can be multi-valued.  Document how to add multiple values to multi-valued fields.  Check documentation into Github.  Display the documentation in the application

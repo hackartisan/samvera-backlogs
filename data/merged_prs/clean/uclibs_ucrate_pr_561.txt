@@ -1,0 +1,2 @@
+Revert "Adds support for Google Analytics."
+Reverts #538

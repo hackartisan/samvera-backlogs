@@ -1,0 +1,2 @@
+Preserve returns in multiline descriptions.
+Fixes #267  ; Preserves new lines in multiline descriptions. Changes proposed in this pull request:  When displaying a description on the work show page, we should format new lines as paragraph delinators.

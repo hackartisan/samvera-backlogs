@@ -1,0 +1,2 @@
+Share Your Work button not shown when logged in for some users
+Probably the [Share Your Work] button should always be shown. For Stefanie the button is not shown when logged in, for me it is (in chrome and Firefox in Citrix).

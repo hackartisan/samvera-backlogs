@@ -1,0 +1,5 @@
+Seperate out databases to different server(s)
+Move postgresql and redis off of the application server. This is  Best practice Makes rebuilding app simpler Allows for better scaling, which we haven't yet needed
+Would make #806 much simpler since the ruby servers would not have any state we need to worry about when upgrading or swapping out.
+This also might be a good time to adjust the basic layout of the roles to either better match a new upstream in ansible-samvera or to rebuild the roles to be more unique to our institution.
+Code's been adjusted here, we just need to do it.

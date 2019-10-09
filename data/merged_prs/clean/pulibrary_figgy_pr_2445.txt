@@ -1,0 +1,2 @@
+VoyagerUpdateJob should use Figgy IDs
+Closes #2440.

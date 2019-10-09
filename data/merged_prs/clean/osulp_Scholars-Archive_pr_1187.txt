@@ -1,0 +1,2 @@
+tooltips for internal/external links and a little bugfix
+fixes #1144 Fixes a typo, but the mis-typed class name isn't desired anyhow (it gives a bad looking style otherwise)

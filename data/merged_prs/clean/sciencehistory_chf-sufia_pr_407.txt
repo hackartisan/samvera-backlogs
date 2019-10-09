@@ -1,0 +1,2 @@
+Upgrade sufia from 7.2 to 7.3 and ActiveFedora to 11.1.5
+For review / comment. I'd like to deploy to staging and ask some users to test before deploying to production.

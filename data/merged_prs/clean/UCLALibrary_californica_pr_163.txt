@@ -1,0 +1,2 @@
+Add normalized date to model
+This adds the normalized date term to the model and configures the label and facet/search options as specified in the issue. Connected to #152

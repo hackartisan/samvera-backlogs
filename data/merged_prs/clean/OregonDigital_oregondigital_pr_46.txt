@@ -1,0 +1,2 @@
+Spec out registration system
+Fixes #43

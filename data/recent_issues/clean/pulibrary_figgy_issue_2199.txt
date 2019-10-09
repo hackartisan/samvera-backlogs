@@ -1,0 +1,1 @@
+Header for list of ProxyFileSets in a Playlist should say "Tracks", not "Recordings"

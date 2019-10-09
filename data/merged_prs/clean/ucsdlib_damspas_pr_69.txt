@@ -1,0 +1,2 @@
+Remove the duplicated solr name value in to_slor instead of the view level.
+See 

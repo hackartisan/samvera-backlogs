@@ -1,0 +1,2 @@
+As a data curator and product owner I would like to automatically have proxy for all users so that I can assist in uploading and curating their data without too much hassle.
+Not  sure this is doable, but I think it would make things more seamless especially for large file uploads.

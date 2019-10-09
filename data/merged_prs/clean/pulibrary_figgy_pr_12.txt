@@ -1,0 +1,2 @@
+Rely on AR Transactions for safe indexing
+This is definitely bypassing some of Valkyrie's interface to get a feature it doesn't have yet, but I'd like to have it early on, before we can all figure out what the right interface is for transaction support in Valkyrie.

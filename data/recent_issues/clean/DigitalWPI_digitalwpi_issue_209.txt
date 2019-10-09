@@ -1,0 +1,2 @@
+ActionView monkey patch
+We have one more critical security vulnerability with the gem ActionView We can fix it by updating ActionView which needs rails 5.1.6.2 and most of our gems only work with 5.1.6.1. There is a monkey patch to mitigate the issue.

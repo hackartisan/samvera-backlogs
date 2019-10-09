@@ -1,0 +1,2 @@
+Fix embargo edit screen
+Do not fail if embargo release date is nil or if visibility is nil. Connected to #1505

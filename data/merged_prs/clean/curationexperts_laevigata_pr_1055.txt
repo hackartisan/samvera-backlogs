@@ -1,0 +1,2 @@
+Upgrade to Hyrax 2.1.0
+Completes the upgrade to Hyrax 2.1.

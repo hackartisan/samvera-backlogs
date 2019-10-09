@@ -1,0 +1,2 @@
+add resource_type validator and specs
+fixes part of  i figured i'd go with smaller PRs with a feature in each one

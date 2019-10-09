@@ -1,0 +1,2 @@
+facet items 
+things to facet by: advisor, contributor, sponsor, date, project center, geo location / based near, language, publisher, degree, "unit", collection, resource type, subject.

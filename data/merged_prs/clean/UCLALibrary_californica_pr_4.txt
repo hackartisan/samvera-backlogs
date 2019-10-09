@@ -1,0 +1,2 @@
+Update dependencies
+Ran bundle update. Fixes CVE-2018-3760 (sprockets vulnerability).

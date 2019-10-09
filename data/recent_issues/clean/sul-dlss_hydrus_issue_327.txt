@@ -1,0 +1,3 @@
+[hydrus/stage] NoMethodError: super: no superclass method `close_version' for #<Hydrus::Item:0x...>
+Did you mean?  object_version
+Backtrace line 210 of [PROJECT_ROOT]/app/models/hydrus/item.rb: close_version line 118 of [PROJECT_ROOT]/app/models/hydrus/item.rb: do_publish line 99 of [PROJECT_ROOT]/app/models/hydrus/item.rb: publish_directly  View full backtrace and more info at honeybadger.io

@@ -1,0 +1,2 @@
+Set max per page to 999
+See issue #346. The collection_facet_sort method seems to rely on this being set above the number of collections.

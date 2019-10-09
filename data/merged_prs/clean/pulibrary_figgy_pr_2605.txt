@@ -1,0 +1,2 @@
+In bibid queries don't return resources without a graphql type
+Closes #2411

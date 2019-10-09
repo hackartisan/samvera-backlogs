@@ -1,0 +1,2 @@
+Update columns available in batch dashboard
+User Story As a user, I need to see the batch id and the original filename on the batch dashboard, so that when I am going to a batch, I know which one in the long list to go to. Done Looks Like  Column for batch id Column for original filename

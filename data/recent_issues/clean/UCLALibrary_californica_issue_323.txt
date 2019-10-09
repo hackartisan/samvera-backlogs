@@ -1,0 +1,2 @@
+Add the poppy image directly to the repo
+ISSUE The poppy image used in the repository's readme is sourced from and external system which may become unavailable at some future point. ACCEPTANCE   Store a local copy of the image in the repo (probably under app/assets/images)  Point the readme at the local copy of the image

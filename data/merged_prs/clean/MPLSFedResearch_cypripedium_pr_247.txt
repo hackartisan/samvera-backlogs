@@ -1,0 +1,2 @@
+Tell Coveralls to ignore auto-generated files
+This adds a simplecov configuration file that excludes these boilerplate files from coverage calculations. Connected to #212

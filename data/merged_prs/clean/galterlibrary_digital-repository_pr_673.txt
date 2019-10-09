@@ -1,0 +1,2 @@
+[#672] Handle Abusive Requests
+Use rack-attack to throttle requests. Based on recent events, we track subnets and set limits based on:  if a user is signed in or not if the request path is to /catalog(?|/)  NU networks are whitelisted, and known abusive subnets are handled in the apache configs. closes #672

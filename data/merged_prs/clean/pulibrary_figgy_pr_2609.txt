@@ -1,0 +1,2 @@
+Cleanup EphemeraTerm references on delete.
+Closes #241

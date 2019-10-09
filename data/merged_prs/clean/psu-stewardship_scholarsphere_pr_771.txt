@@ -1,0 +1,2 @@
+Adding in the zotero controller so that I can pass the user id instead of the user object
+refs #769 I had to copy the entire controller to make a less than one line change.  Less than great I know, but... I also copied the tests in. I created an issue over in sufia: samvera-deprecated/sufia#3163

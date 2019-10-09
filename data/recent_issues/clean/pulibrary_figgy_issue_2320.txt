@@ -1,0 +1,2 @@
+Handle error when you try to access a playlist viewer with no auth token
+Backtrace line 264 of [PROJECT_ROOT]/app/models/ability.rb: token_readable? line 149 of [PROJECT_ROOT]/app/models/ability.rb: valkyrie_test_manifest line 144 of [PROJECT_ROOT]/app/models/ability.rb: block in manifest_permissions  View full backtrace and more info at honeybadger.io

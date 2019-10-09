@@ -1,0 +1,2 @@
+Add restricted note info to complex object view
+Fixes #415   ; refs #415 Add restricted view info for metadata-only complex object view. /developers - please review

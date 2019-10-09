@@ -1,0 +1,2 @@
+Add a job to delete a subject from all ephemera folders
+I will probably just run this job from the console for now, but I wanted some tested code refs #2604

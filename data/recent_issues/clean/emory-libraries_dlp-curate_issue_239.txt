@@ -1,0 +1,2 @@
+Build out ELB in the AWS at Emory account  
+Build ELB with proper routing to Solr and other instances  Test out the routing

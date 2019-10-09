@@ -1,0 +1,2 @@
+Resolves #1576: User whitelist for cosign
+Only allow login for users listed in the Users table.

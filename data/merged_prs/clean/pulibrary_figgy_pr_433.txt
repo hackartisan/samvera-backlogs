@@ -1,0 +1,2 @@
+Don't render viewing hint for collection children.
+It's expensive to determine if an object needs a multi-part viewing hint or not, and the information isn't useful for a collection sub-manifest.

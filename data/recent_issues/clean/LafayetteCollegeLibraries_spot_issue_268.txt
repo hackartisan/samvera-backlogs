@@ -1,0 +1,2 @@
+add ux to copy permalink to item on catalog#index
+this has been asked for a lot by our stakeholders and i keep forgetting to make an issue for it. there's a desire to have a clear way to copy the url for an item at the catalog results view. this can probably be a third-party widget like clipboard.js?

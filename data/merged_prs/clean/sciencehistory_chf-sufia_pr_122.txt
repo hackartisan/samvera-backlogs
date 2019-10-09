@@ -1,0 +1,2 @@
+Add and edit tooltips, fixes #115 and #118
+Added tooltips for Inscription and Additional Credit. Edited tooltips for Medium, plus some formatting and examples in other fields.

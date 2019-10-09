@@ -1,0 +1,2 @@
+Fixes Date Collected Help text and configures date help text
+Fixes #787

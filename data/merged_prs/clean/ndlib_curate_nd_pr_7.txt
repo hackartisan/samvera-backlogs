@@ -1,0 +1,2 @@
+Removing, for now, the Breadcrumbs
+Because I can't reliably clear up the duplicate Breadcrumb rendering, I'm removing it for now.

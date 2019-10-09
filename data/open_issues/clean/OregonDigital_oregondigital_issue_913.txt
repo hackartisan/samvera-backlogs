@@ -1,0 +1,2 @@
+Test updated OAI endpoint
+From OD meeting on 11/16: Once  has pushed her OAI endpoint changes and is ready for test, run the open harvester against the new endpoint.  Test parameters for MWDL are here: 

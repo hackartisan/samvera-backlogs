@@ -1,0 +1,2 @@
+update GTD workflow so that items don't get stuck
+items were getting stuck in Pending Review state. Removed Request Review action and replaced it with Restart Review Process action that takes item back to Graduate School Review state

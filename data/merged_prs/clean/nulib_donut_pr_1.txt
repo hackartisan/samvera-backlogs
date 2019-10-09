@@ -1,0 +1,2 @@
+36 aws
+AWS deployment configuration, mostly lifted from 

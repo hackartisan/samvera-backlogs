@@ -1,0 +1,2 @@
+Cap
+Cap deploy enabled, production database gem added, JavaScript runtime enabled.

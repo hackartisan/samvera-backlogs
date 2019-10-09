@@ -1,0 +1,2 @@
+Warning message to user about representative image and visibility options
+Adds guiding message about permissions and display for filesets on the fileset edit page.

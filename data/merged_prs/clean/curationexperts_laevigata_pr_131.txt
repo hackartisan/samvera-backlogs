@@ -1,0 +1,2 @@
+Automate admin sets
+Addresses #79 This uses an initializer to create four AdminSets, and give them each the one step mediated deposit workflow. These admin sets are owned by a fake user, "" whose password is hardcoded. Obviously we'll need to change that when we have shibboleth auth working, but I think the mechanism is good.

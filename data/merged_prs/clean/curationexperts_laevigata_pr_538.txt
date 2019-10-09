@@ -1,0 +1,2 @@
+Check for graduation, update ETD appropriately
+Keep work hidden until graduation Closes #513  Take a look? I've got a spot to slot in querying the registrar data.

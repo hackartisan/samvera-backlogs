@@ -1,0 +1,2 @@
+Enable changing text for requirements, ref #640
+Changes the text of the requirements links so that at screen reader informs the user as to whether the requirements are met. Additionally, the links themselves need some Javascript reworking so they would active the tabs when clicked.

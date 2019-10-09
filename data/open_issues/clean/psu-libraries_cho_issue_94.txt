@@ -1,0 +1,3 @@
+Mediated Submission
+As a collection curator, I would like my student assistant's  descriptive work to be submitted to an approval queue before the  object (or changes) are displayed to the public, So that I can ensure the descriptive quality and accuracy of the digital object.
+Should be able to be turned on or off per collection. When turned on, it applies to all users. Different collections may need different mediation workflows. Adam says most or all of this functionality is available in hyrax.

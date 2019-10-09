@@ -1,0 +1,4 @@
+Cool URIs / Semantic URLs
+As a remote researcher, I would like objects to have a sensible URL displayed in the browser, So that it's the briefest URL to the object. I.e.: This ( instead of this (
+Good piece on this: [www.hanselman.com/blog/URLsAreUI.aspx](www.hanselman.com/blog/URLsAreUI.aspx)
+For MVP, take out _concern_ and use human-readable object types, for example _works_ instead of _generic_works_

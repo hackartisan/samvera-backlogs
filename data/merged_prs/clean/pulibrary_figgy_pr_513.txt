@@ -1,0 +1,2 @@
+Ensures that the "Delete" buttons are not rendered within Ephemera Project show templates
+Resolves #508

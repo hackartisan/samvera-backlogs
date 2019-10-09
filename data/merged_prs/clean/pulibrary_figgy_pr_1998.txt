@@ -1,0 +1,2 @@
+Ensures that cases where FileMetadata for derivative PDFs missing files trigger a regeneration in response to client requests in the ScannedResourcesController
+Resolves #1994 and resolves #1997

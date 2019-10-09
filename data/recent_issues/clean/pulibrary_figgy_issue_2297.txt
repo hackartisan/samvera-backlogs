@@ -1,0 +1,2 @@
+Map folders contain Thumbs.db files which MIME::Type.type_for does not recognize
+[Figgy/production] NoMethodError: undefined method `content_type' for nil:NilClass Backtrace line 166 of [PROJECT_ROOT]/app/services/bulk_ingest_service.rb: block in files line 160 of [PROJECT_ROOT]/app/services/bulk_ingest_service.rb: each line 160 of [PROJECT_ROOT]/app/services/bulk_ingest_service.rb: each_with_index  View full backtrace and more info at honeybadger.io

@@ -1,0 +1,3 @@
+Edit files on shared with me gives an error
+This may have to do with the fact that the administrator sees all files in the shared list
+Related to #506. Verify this is still an issue after #506 has been completed.

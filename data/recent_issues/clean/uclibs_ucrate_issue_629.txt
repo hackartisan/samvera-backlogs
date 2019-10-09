@@ -1,0 +1,2 @@
+Find a better order for metadata fields on work show pages
+Descriptive summary In general, metadata fields should be listed on work show pages in the same order they are listed on the work edit forms. However, there may be some special cases for some fields. Todo:  Reorder any fields that are not in the same order as the edit form Check with  and Hannah on special cases See the order at 

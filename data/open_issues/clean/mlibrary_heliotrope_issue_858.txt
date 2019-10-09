@@ -1,0 +1,4 @@
+Monograph draft or published status
+On the dashboard, display the status of the book (aka monograph). Start with draft or published status (we will more than likely need to change or extend these status as we develop the workflow).
+4/27/17: Decided to wait until after Hyrax to see what we have available to us. Also, start with Discoverable status (not draft/published).
+Related to #839 ?

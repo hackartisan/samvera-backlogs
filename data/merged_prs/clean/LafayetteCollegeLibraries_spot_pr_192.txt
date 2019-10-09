@@ -1,0 +1,2 @@
+update catalog_controller labels / expand search result metadata container
+explicitly uses blacklight field locales for facet/index labels expands the metadata container on search results from col-md-6 to col-md-10 for everything but collections (which use the last 4/12 to display counts)

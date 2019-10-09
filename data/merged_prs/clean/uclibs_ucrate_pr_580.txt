@@ -1,0 +1,2 @@
+Bug/#550 Resolves facet filtering bug
+Fixes #550 ; The department facet should not be shown unless the college facet has been set.  Previously, setting any facet would result in the department facet being shown.  This PR streamlines the filtered_facet_field_names method and adds a spec.

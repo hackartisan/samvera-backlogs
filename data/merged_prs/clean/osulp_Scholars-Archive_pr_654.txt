@@ -1,0 +1,2 @@
+move from degree_name to degree_field for local QA
+fixes #653

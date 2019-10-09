@@ -1,0 +1,2 @@
+Changes playback fields on EssenceTrack model
+Replaces playback_frame_per_sec and playback_inch_per_sec with playback_speed and playback_speed_units.

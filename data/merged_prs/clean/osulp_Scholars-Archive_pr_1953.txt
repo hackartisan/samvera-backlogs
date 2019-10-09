@@ -1,0 +1,2 @@
+update spacing on visibility panel
+Fixes #1798

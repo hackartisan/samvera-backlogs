@@ -1,0 +1,2 @@
+Use local cache directories during test runs
+Not all environments (like mine) give the default user access to create directories under /opt.  When running the test suite locally or on a CI server, it should be fine to use caching directories under the local tmp/ directory.

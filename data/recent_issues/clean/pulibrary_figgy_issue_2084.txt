@@ -1,0 +1,2 @@
+Playlist viewer should work without Solr
+Child of #2066

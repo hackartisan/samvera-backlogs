@@ -1,0 +1,1 @@
+Fix batch edits' permissions problems and tests

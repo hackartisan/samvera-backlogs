@@ -1,0 +1,2 @@
+Addresses #1055 adding Analytics page for platform admins.
+This will probably not suffice to close the ticket, since I believe the intent is for press admins to be able to see analytics tailored for them. Renamed concerns/analytics_presenter.rb to CCAnalyticsPresenter to avoid a naming conflict. That and my AnalyticsPresenter should probably be merged or refactored in some dramatically smarter way.

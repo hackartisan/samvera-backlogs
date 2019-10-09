@@ -1,0 +1,2 @@
+Enable S3 dropbox via BrowseEverything
+Resolves nulib/next-generation-repository#323

@@ -1,0 +1,2 @@
+T46 Adds metadata fields for Advisor and Committee Member
+Fixes #46

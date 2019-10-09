@@ -1,0 +1,2 @@
+Remove remnant references to "Collection" in views
+I made an initial attempt to change references to "Collection" to "Project". However, it was incomplete, and there are still remnant references in this application.  These should be cleaned up. Some code modifications aren't so straightforward, as the human readable type of collections is used within Solr and in part of the application. So, changing it might require changes in actual code logic.

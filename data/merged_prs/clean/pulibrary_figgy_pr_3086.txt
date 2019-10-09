@@ -1,0 +1,2 @@
+Make ruler property multiple
+Closes #3064

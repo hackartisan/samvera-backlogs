@@ -1,0 +1,2 @@
+Testing revision: see FileSet Use when viewing FileSet
+The mockup for viewing a FileSet includes the ability to see what the FileSet's use is - see annotation 3 on the document. Also relates to #378, where the third category is not available in the form's drop-down menu.   View FileSet page should indicate the FileSet's use (Primary Content, Supplemental Content, Supplemental Preservation File)

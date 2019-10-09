@@ -1,0 +1,2 @@
+Update Devise to 4.6.1
+Description Addresses CVE-2019-5421, a security issue with Devise.

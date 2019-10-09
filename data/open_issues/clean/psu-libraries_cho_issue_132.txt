@@ -1,0 +1,4 @@
+Persistent URLs for Searches
+As a researcher (or SCL staff member helping a researcher), I would like a static/semantic URL for a canned search result in the digital collections site, so that I can easily retain, share or refer to a set of digitized items for later. Ben G. Related: #22
+No ARKs!
+For MVP, use Blacklight bookmark feature where searches can be stored in a table.

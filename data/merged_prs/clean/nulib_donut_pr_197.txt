@@ -1,0 +1,2 @@
+handle batch level validation failure
+If there is a failure at the batch level during header validation, raise and rescue a custom error UI will display a batch item error for row number zero with details about the validation problem. The Job does not retry

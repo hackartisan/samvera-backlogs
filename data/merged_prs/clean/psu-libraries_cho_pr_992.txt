@@ -1,0 +1,2 @@
+Use registered group to govern access
+Description Blanket read ability should not be given to any registered user, only read access to resources that have explicitly granted such access to a registered user. There also does not need to be a public group. Public membership is implied for all users. Changes  replace public with psu as the default groups for registered users remove read access to any resource for authenticated users

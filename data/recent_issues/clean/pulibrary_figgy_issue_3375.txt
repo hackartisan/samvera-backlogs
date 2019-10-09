@@ -1,0 +1,2 @@
+Refresh metadata for objects with PULFA source_metadata_identifiers
+We currently update items with Bib numbers, but not PULFA identifiers. We were concerned about the performance of updating metadata from PULFA, but I just ran this manually, and it updated 28k records in about 70 seconds.

@@ -1,0 +1,3 @@
+Search Bar Autocomplete and Screen Reader(s)
+Putting a ref to projectblacklight/blacklight#1907 so that I remember to fix this upstream.
+Do we want autocomplete? And if so do we want the autocomplete provided by Blacklight if it is fixed? Or do we want to implement autocomplete in another way?   Related  

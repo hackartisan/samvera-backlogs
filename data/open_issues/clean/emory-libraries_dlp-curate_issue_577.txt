@@ -1,0 +1,4 @@
+Transfer Medical Artifacts collection files to Cor staging
+Medical Artifacts file paths:  Estimated size: 36 GB Estimated counts: 240 (tifs)
+CSV downloaded and massaged for 'rclone'.  'rclone' transfer started 10/02/2019 @ 4:47PM
+![Artifacts.png](  File transfer complete after 1 hour 42 minutes.  Destination folder on 'curate.library.emory.edu': /mnt/prod_efs/Collections/dmfiles/Libraries/Health_Sciences/HS-S023  MD5 checks will begin 10/03/2019.

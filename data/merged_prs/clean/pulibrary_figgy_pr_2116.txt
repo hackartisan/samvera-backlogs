@@ -1,0 +1,2 @@
+Adding coin/issue number management
+Fixes #2103

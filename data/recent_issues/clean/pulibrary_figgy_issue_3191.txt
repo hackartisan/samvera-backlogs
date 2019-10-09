@@ -1,0 +1,2 @@
+Should 6773457 items be maps or scanned resources?
+Marked as maps, but only covers of books. Also, maybe these should be a MVW? 

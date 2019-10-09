@@ -1,0 +1,2 @@
+[2] Replace Resource Type local authority values
+Descriptive summary Change the Resource Type local authority values to a specific subset of DCMI Type vocabulary options, and use URIs as id values, matching what is used in OD1.   Complex Object  Dataset  Image  Moving Image  Physical Object  Sound  Text Expected behavior Resource Type has these and only these values. Related work Link to related tickets or prior related work here.

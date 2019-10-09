@@ -1,0 +1,2 @@
+secure sidekiq
+no one should see sidekiq from the web

@@ -1,0 +1,2 @@
+add type to catalog view
+Fixes #55

@@ -1,0 +1,2 @@
+Adding instructions and setup for local external files
+Augments our cleanup task to clean out external files when cleaning the rest of the application.

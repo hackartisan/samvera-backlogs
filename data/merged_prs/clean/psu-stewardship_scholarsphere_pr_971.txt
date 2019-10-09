@@ -1,0 +1,2 @@
+Multiple file sets with different permissions
+This enables the display of works with different files sets of differing permissions, if the representative is of a lesser visibility. For example, a non-public representative for a public work. There's some test refactoring as well, and I've also resigned the edit form slightly with headings for each section: required metadata, media, and additional metadata.  should have a look to check accessibility issues. Here's what the new form looks like:

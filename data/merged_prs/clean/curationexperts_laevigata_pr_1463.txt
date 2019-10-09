@@ -1,0 +1,2 @@
+Added a catchall route for the new UI edit form in case we missed any edit links in the UI
+We've already changed all the known edit links to use the new form, but there may be some edit links lurking in hyrax that we don't know about (or that are added in the future), so this route will redirect them to the new edit form.

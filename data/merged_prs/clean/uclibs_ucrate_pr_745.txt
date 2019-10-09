@@ -1,0 +1,2 @@
+Update the welcome page
+Fixes #721 The "How do I get started?" section of  now uses the correct button location for creating a new work

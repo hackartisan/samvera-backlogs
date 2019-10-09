@@ -1,0 +1,2 @@
+Collection manifests are loading really slow
+ It looks like it's running a query for every object in a collection. Maybe to get thumbnails?

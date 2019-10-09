@@ -1,0 +1,2 @@
+Don't display inaccessible manifests in Collection manifest.
+Fixes display for IIIF Universe

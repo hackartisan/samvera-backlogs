@@ -1,0 +1,2 @@
+added js to handle the ability to reset ids for nested items during u…
+fixes #1563 This PR implements the idea of resetting the ids of each existing item during the form load to allow them to be reindexed on save. This allows the flexibility to update the field such as the index field in the edit forms (currently not supported by active fedora on save) and also the freedom to add/remove or drag the item to the proper order.

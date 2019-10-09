@@ -1,0 +1,2 @@
+remove G+ links; FileSet links open new tab
+HELIO-2717

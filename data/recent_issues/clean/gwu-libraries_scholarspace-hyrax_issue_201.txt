@@ -1,0 +1,2 @@
+Default administrative set for GW Works is ETDs
+When staff use the manual uploader form to create a GW Work, the default Administrative Set is ETDs. Staff have to remember to click a new tab to update it. The error rate has been high as a result (many GW Works in the ETD administrative set).

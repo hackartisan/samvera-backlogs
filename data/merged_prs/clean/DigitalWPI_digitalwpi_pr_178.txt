@@ -1,0 +1,2 @@
+new variable changes for NFS, and more production ready inits
+i think this should be merged, since our ansible stuff was merged as well, and we should have ansible push master now instead of task

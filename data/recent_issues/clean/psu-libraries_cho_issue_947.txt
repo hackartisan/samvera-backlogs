@@ -1,0 +1,2 @@
+Login button is black on dark blue
+When not logged in, the login button cannot be seen very well due to the color contrast:

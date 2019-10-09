@@ -1,0 +1,2 @@
+Remove Bitstreams from Multiple Items
+As a collection curator I need to simultaneously remove multiple images associated with multiple items without removing the metadata for the items So that I can improve the quality of the collection Stephanie M.

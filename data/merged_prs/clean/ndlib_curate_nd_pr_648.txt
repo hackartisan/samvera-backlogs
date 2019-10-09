@@ -1,0 +1,2 @@
+Removing #html_safe for query parameters
+Not certain why these are here, but they expose a vulnerability that needs to be removed. This could create some unforeseen upstream consequences in the form of odd rendering of search results (if we are expecting to render HTML from content), but we'll address those as they surface. Closes DLTP-1145

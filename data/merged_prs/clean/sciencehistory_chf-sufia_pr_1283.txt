@@ -1,0 +1,2 @@
+Adding Bauman collection bank note thumbnail
+Fixes #1282

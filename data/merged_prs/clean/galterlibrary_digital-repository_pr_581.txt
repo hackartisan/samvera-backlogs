@@ -1,0 +1,1 @@
+dynamic copyright, timecop gem. closes #569

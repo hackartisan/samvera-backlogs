@@ -1,0 +1,2 @@
+Extends `BulkIngestService` in order to support ingesting directories of WAV files for ScannedResources
+Resolves #2014

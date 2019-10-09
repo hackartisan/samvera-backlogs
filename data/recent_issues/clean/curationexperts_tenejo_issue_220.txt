@@ -1,0 +1,2 @@
+Typo in iiif urls
+iiif urls have the region and the size swapped They say: "", But they should say: "", (note that in the correct one, the full is before the default size of 600)

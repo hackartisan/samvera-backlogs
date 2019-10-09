@@ -1,0 +1,3 @@
+Add missing translations to localization files
+ACCEPTANCE We have Non-Jargon language (translations) for   en.hyrax.dashboard.my.heading.visibility - see   en.hyrax.dashboard.my.heading.collection_type - see 
+I thought this was working locally, but on pushing it's not.

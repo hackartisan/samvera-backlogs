@@ -1,0 +1,2 @@
+adding tabbed UI from wireframes
+Adding in the locale file tab settings, and the form partials required to override the default Hyrax form. Added one new create etd feature scenario to confirm the presence of the tabs and altered the existing submission scenario only enough to reflect the new names/link texts.

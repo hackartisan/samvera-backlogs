@@ -1,0 +1,2 @@
+Add Undo and Redo Features in Vue Filemanager
+should be buttons and key commands

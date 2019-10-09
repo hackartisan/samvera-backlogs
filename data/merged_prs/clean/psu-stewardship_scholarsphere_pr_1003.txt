@@ -1,0 +1,2 @@
+Replace broken thumbnail images with defaults, ref #892
+This is the "option three" solution. See my notes to #892. It should only apply to images within the catalog display, which are search results. Any other image would appear with the standard "?" in the blue box or broken image default.

@@ -1,0 +1,1 @@
+AMS2-359 fix aws-sdk conflict

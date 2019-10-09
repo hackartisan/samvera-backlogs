@@ -1,0 +1,2 @@
+forces database connection to try reconnecting
+fixes #1023

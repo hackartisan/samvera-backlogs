@@ -1,0 +1,2 @@
+Allow `data-turbolinks` attribute in views
+This configures the default html sanitizer to allow data-turbolinks. Without this, links to binary files do not display correctly.

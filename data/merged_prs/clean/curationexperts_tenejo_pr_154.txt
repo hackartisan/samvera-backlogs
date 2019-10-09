@@ -1,0 +1,2 @@
+Revert "Merge pull request #151 from curationexperts/add-clamav"
+This reverts commit e403f14, reversing changes made to beeeb9d.

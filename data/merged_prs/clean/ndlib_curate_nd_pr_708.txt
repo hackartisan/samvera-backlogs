@@ -1,0 +1,2 @@
+Changed Language
+Per Request, 'Upload a File' is now 'Upload Files' and the file size warning has been removed.

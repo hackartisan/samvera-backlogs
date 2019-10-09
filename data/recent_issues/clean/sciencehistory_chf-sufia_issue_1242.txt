@@ -1,0 +1,2 @@
+New field for provenance
+Please create a free-text field entitled "Provenance" to be located underneath "Creator." Instructional form text should read as follows: For fine art materials, input provenance information following Provenance Style Guide document (P:\Eddleman Institute\Museum\Collections\Art Collections\Provenance\Provenance_Style_Guide.docx). Provenance information can either be found in Past Perfect or within provenance files in the Museum department. Thank you!

@@ -1,0 +1,1 @@
+Provide "Category -- Subject" links to faceted results, fixes #377"

@@ -1,0 +1,1 @@
+Show admin tools to anyone who can edit a resource

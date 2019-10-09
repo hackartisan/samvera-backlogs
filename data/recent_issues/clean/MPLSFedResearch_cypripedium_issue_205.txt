@@ -1,0 +1,2 @@
+PAIRING: Sort within Collections by Title
+STORY As a researcher, I want to be able to sort collection results by Title ACCEPTANCE   On a collection page (like  I have the option to sort results within the collection by Title  Child of #189

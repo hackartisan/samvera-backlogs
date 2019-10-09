@@ -1,0 +1,1 @@
+Allow creators to be subjects.

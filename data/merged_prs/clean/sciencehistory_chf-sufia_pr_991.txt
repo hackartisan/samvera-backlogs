@@ -1,0 +1,1 @@
+correct cap deploy url to new github org sciencehistory

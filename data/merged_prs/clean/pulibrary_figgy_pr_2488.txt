@@ -1,0 +1,2 @@
+Add 'approximate' flag to date range, date range to simple resource
+closes #2437

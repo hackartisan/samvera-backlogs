@@ -1,0 +1,1 @@
+Attach Child menu should just be a button if there's only one option

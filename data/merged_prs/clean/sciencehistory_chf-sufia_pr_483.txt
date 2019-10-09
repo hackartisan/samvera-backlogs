@@ -1,0 +1,2 @@
+localize sufia/uploader.js to override max file size
+Closes #190

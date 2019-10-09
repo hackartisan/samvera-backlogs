@@ -1,0 +1,3 @@
+Display README for Software or Program Code
+It looks like README.txt/md files are only displayed on a Work page if the Work is a Dataset. They should also display for Works with type "Software or Program Code"
+  I think the issue is that this:   Should refer to `'Software or Program Code'`(and `'Map or Cartographic Material'` for that matter). 

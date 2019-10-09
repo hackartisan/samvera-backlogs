@@ -1,0 +1,4 @@
+Migration QA Checklist
+Descriptive summary Let's use this ticket to collect our thoughts and priority on each of the validations that should be checked during migration.  Work completed migration Work includes all original files from the exported BAG Work visibility / access matches what was originally set Metadata fields were successfully crosswalked
+  Please add your thoughts
+i'm interested to hear more about how these checks can happen? i think these are all the right things to be thinking about.

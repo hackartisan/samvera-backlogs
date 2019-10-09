@@ -1,0 +1,2 @@
+Tweak the configs and rake tasks to work well with the docker-stack gem *and* standalone devstack.
+Adds a rake donut:setup_and_specs task to make using devstack easier without breaking the standalone docker-stack build.

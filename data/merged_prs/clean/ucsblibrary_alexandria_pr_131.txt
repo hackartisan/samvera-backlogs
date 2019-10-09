@@ -1,0 +1,2 @@
+Additional OAI/DC mapping
+This commit improves the accuracy of the solr field to DC terms mapping that is used for OAI-PMH publishing.

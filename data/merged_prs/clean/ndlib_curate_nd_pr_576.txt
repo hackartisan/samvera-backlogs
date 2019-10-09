@@ -1,0 +1,2 @@
+Rendering Rights input for Finding Aid
+Prior to this change, if I were to edit the finding aid, and the object did not have Rights already set, the data would be invalid.

@@ -1,0 +1,2 @@
+input styles lose border-radius on multiple fields with language-tagging
+with #90 we're getting a strange bug where the form fields for properties with language-tagged inputs are losing their border-radius properties when another row is added. default layout (single term):  when a row is added:  from a quick look, it appears that this is something related to bootstrap's input-group css. see:  see: 

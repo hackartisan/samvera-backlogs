@@ -1,0 +1,3 @@
+Navigation bar to jump from one object to the next missing on staging environment
+Descriptive summary On the staging environment, the top navigation bar to click from one item to the next does not display. Compare:  With:
+Any updates on this?

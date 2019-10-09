@@ -1,0 +1,2 @@
+cache rdf labels for fetching
+especially on ingest, a lot of our rdf values are identical, but indexing will still fetch the resource every time. we should extend the triples resource class to check a cache first and fetch the label when not present.

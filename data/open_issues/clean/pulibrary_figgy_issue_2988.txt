@@ -1,0 +1,9 @@
+Images do not display in UV on figgy-staging
+There’s a problem with figgy-staging that I don’t understand. I thought it was just the coins I imported last night, but it appears in other resources as well. The UV fails to load image tiles, throwing this error: Tile a.Tile failed to load:  - error: Image load aborted  No clue why the domain and TLD are being dropped. The manifest looks fine to me.  No idea how long this has been happening. Related to the shift to NGINX? A Cantaloupe issue?
+Calling `info.json` returns the malformed url, so I'm guessing something is up with Cantaloupe:  
+The cantaloupe proxy on figgy-staging is not forwarding the fully qualified domain name. As a temporary fix, I manually set the `X-Forwarded-Host` to `figgy-staging.princeton.edu`.  /etc/nginx/sites-enabled/passenger: line 44 ``` # proxy_set_header X-Forwarded-Host $host; proxy_set_header X-Forwarded-Host "figgy-staging.princeton.edu"; ```   Can you take a look at this?
+I tried fiddling with setting figgy-staging's Host and X-Forwarded-Host variables on lib-adc1 and none of them seemed to stick after reloading. I dunno if nginx plus is doing something weird or what.
+you bring up a good point here  the changes you were making on `lib-adc1` wouldn't reflect on figgy-staging because it wasn't the active node. when running this on prem you only run them active/passive and adc1 was the passive one. if you run `ip a` grep for 146 to know which one is active. (this needs to be documented)
+will work on this. 
+Is this still an issue?  I'm not able to reproduce this with any Figgy resource in staging which uses Canteloupe as the image server.
+This is still an issue because my temporary fix from May 8 is still in place. 

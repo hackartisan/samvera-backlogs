@@ -1,0 +1,1 @@
+Ignore the BlockLength cop for specs

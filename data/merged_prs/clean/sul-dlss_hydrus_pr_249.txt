@@ -1,0 +1,2 @@
+Stop using Hydra-head
+So that we can upgrade to Rails 5

@@ -1,0 +1,2 @@
+Display a Date Record Last Updated at bottom of object pages
+Descriptive summary Display a Date Record Last Updated on bottom of all object landing pages. Frequently, data or metadata is updated in an object, but the Date:Issued and Publication year are intentionally not changed. Date Last Updated will succinctly indicate to the user when something on the page has been revised.   Can make it a label.  will come up with display spec. SC&A is okay with this displaying on their content too.

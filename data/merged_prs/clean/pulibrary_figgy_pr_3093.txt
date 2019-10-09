@@ -1,0 +1,2 @@
+Add generator for an archival recording
+closes #3069

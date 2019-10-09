@@ -1,0 +1,9 @@
+Change Publisher values to URIs, add Creator controlled vocabulary class to Publisher
+Publisher is not set to a controlled vocabulary class, so any time URIs are used they don't show up. Check to make sure we don't have existing data in collections that includes both URIs and strings.
+Items with Publisher: * Total: 8425 * UO: 729 * OSU: 6682   * Rocky Shore 93: 300   * Middle East Waters: 5235   * SCARC: 1108   * Daily Barometer: 37 
+Removing LCSH from this predicate; remediate to LCNAF, ULAN, and ON:Publisher.
+this seems to be it for UO: oregondigital:fx71cj478	Free Men Speak, Inc.	 oregondigital:fx71cq835	N. J. Bocquet	 
+UO records updated.
+in addition to loc names, opns creator and publisher, I found just a few using:  and one of these  (oregondigital:df70bv78t)
+  Can you scrape the loc orgs for me?
+Finished with the loc orgs and wikidata entries. Replaced URIs with ones from authorized sources

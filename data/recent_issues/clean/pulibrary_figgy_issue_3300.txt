@@ -1,0 +1,2 @@
+If I delete a preserved Resource, there should be a place I can see that and restore it from preservation.
+Implementation Details:  The directory structure will be hidden in GCS because it's only in versioned storage, so we'll need the latest metageneration # for the entire structure, or some way to get it. Storage adapter that just hides that?

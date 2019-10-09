@@ -1,0 +1,2 @@
+Browse Collection Page
+We need a dedicated page for users to browse available collections in CHO. #810 specifies a place for this in the main navigation and #847 specifies that the main (current) catalog should be used for resources only (browse resources). The Collection Type facet from the current main catalog should be moved over to this page. This could be a collections catalog, powered by collection-level metadata, with facets for browsing.

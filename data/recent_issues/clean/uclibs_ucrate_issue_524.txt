@@ -1,0 +1,2 @@
+Work show pages should include submitter
+Descriptive summary On work show pages, production scholar lists the name of the user who created a work as "Submitter" (directly under "Creator" and above "College") ucrate currently doesn't list the submitter.  There's no way to tell who the owner of the work is.  So it needs to be added. If the user does not have a first/last name in their profile, their email address should be listed as the submitter.

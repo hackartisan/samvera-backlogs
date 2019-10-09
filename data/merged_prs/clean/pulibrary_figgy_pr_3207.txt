@@ -1,0 +1,2 @@
+Updating browse-everything and ensuring that the BulkIngestService excludes hidden files
+Resolves #3201 and #3194, but I should clarify here that I experienced significant difficulty reproducing these errors within a macOS environment.  Dir seems to attempt to avoid parsing for hidden file entries:  Note, this will not match Unix-like hidden files (dotfiles). In order to include those in the match results, you must use the File::FNM_DOTMATCH flag or something like "{,.}".  (

@@ -1,0 +1,1 @@
+Add headless browser support for JS-based tests. DHH-820

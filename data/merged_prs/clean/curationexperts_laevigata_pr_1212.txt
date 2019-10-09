@@ -1,0 +1,2 @@
+Remove redundant css in hyrax.scss
+Only the last setting for each value gets read, the first is redundant.

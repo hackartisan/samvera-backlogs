@@ -1,0 +1,2 @@
+Provide OCR for full document on a Scanned Resource manifest
+Necessary to provide a generic implementation for pulibrary/cicognara-rails#332

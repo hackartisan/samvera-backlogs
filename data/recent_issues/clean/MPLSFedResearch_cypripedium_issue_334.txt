@@ -1,0 +1,2 @@
+Resolve deprecation warnings
+ISSUE There are deprecation errors flooding the apache error log on Federal Reserve systems making it hard to use the logs for other diagnostics. ACCEPTANCE   The apache error logs for cypripedium servers are free of deprecation errors  NOTE There may be breadcrumbs in curationexperts/laevigata#1868 and curationexperts/laevigata#1867

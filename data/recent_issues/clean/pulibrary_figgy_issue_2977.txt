@@ -1,0 +1,2 @@
+Improve the Rake queue management for Redis tasks
+Should users wish to cancel asynchronous jobs initiated using Rake, this cannot be easily done.

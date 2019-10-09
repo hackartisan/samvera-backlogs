@@ -1,0 +1,1 @@
+Fix Capistrano task that records deployed version

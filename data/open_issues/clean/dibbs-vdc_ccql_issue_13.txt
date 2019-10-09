@@ -1,0 +1,2 @@
+[Bug] Registered twice using the same email
+From Robert: I have registered twice so far using the same email. Shouldn't allow me to do that.

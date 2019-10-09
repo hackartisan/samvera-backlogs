@@ -1,0 +1,2 @@
+Implements a Preserver::Importer Class for importing resources from file identifiers
+Resolves #2894

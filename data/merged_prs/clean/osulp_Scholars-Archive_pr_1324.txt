@@ -1,0 +1,2 @@
+footer details
+fixes #1171

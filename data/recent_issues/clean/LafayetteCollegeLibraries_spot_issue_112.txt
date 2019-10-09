@@ -1,0 +1,2 @@
+parse out title language from LDR metadata
+the migration metadata from LDR denotes the language of the title by appending a _<en> at the end of the value, so we'll need to parse this out + add the language to the literal

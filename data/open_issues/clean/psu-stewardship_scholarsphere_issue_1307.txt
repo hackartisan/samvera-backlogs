@@ -1,0 +1,3 @@
+Consistent interface for finding a collection
+At this point we have 3 different interfaces for finding a collection: Work creation, work editing, Batch work creation, and My Listing pages.  All three are different.  I believe the one for the Work creation should be distributed to the other 2 places. See #863
+Replace all instances with an HTML5 Data list

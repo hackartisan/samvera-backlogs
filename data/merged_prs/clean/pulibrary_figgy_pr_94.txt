@@ -1,0 +1,2 @@
+Renders imported metadata for ScannedResources
+Resolves #20 and #93 by delegating ScannedResourceDecorator accessor methods to primary_imported_metadata (with the prefix "imported_") and explicitly exposing these prefixed values within "display_attributes".

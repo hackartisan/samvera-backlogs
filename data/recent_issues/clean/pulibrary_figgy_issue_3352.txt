@@ -1,0 +1,2 @@
+PDF generation errors for ephemera
+Backtrace line 94 of [PROJECT_ROOT]/app/services/pdf_generator/cover_page_generator.rb: block in apply line 46 of [PROJECT_ROOT]/app/services/pdf_generator/cover_page_generator.rb: apply line 16 of [PROJECT_ROOT]/app/services/pdf_generator.rb: render  View full backtrace and more info at honeybadger.io

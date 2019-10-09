@@ -1,0 +1,2 @@
+HELIO-2201 - move styles from representative file into heliotrope.scss
+To deal with CSS not loading from the file representative and turbolinks interference.

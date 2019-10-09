@@ -1,0 +1,3 @@
+Build ONS updating system for fields that allow "other" 
+metadata fields with controlled vocabularies in opaquenamespace need to have a system in place for updating the controlled vocab when "Other" is selected, followed by the user entering a string.
+so, currently an email notification goes out to scholarsarchive@oregonstate dot edu - a human then has to check the information in the Other field and update ONS required. do we feel like this is sufficient, or is there more work to be done on this at a future date?     

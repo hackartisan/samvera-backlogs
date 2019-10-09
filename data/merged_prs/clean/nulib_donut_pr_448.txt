@@ -1,0 +1,2 @@
+Use post instead of get for solr queries
+Fixes nulib/next-generation-repository#951 Co-authored-by: Karen Shaw 

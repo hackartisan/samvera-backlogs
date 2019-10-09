@@ -1,0 +1,3 @@
+Add A/V predicates to MAP
+We will be ingesting more audio and video assets in the future. Add anticipated EBUCore predicates and note collections that might need remediation.
+Metadeities decided to delay this until after migration. There is no use case at the moment.

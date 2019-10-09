@@ -1,0 +1,2 @@
+Fix resource URL and canvas width/height type.
+Necessary for manifests to be considered valid.

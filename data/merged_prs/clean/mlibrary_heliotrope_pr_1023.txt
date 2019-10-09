@@ -1,0 +1,2 @@
+Resolves #1021: Import Monograph Use NOID
+class Monograph < ActiveFedora::Base include ActiveFedora::Noid::Model

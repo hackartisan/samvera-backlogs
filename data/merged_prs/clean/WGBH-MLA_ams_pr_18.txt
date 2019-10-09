@@ -1,0 +1,2 @@
+adding production deployment config
+This should fix the current broken build in travis

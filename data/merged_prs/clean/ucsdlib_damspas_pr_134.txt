@@ -1,0 +1,2 @@
+Component metadata refactor
+Adding component parameter to primary metadata partial Replacing most of component metadata partial with call to primary metadata partial  Fixes 

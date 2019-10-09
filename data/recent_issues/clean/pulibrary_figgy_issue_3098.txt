@@ -1,0 +1,1 @@
+Clear ArchivalMediaCollections/MediaResources from Staging

@@ -1,0 +1,6 @@
+Push Links to Digitized Object to Descriptive Record Systems
+As a collection curator, I would like links to automatically appear in external descriptive systems when an object is digitized, So that user access is facilitated through all descriptive records. Would require pushing to ArchivesSpace via API for archival material and to Catalog for non-archival material.
+Related: #22 
+Here's an example of how the Aspace API can be used to create digital object records in Aspace and send files. This just stores the files on a file system and of course we'd want them in CHO. But thought it might be a helpful example. 
+
+Related #142 

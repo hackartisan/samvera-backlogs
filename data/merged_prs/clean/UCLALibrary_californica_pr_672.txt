@@ -1,0 +1,2 @@
+Require full path for "File Name"
+The full path will be stored relative to the "Masters" directory at /opt/data/Masters. In production, this is mounted from the netapp. If the input file name starts with "Masters/", it will be used as is. Otherwise, it will be prepended with "Masters/dlmasters/", in order to match the content of DLCS exports.

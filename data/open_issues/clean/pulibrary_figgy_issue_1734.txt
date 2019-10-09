@@ -1,0 +1,2 @@
+Manifest image annotation '@id' is not a valid IIIF url.
+The link  should be 

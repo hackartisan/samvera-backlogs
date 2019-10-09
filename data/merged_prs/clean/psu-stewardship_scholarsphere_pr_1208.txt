@@ -1,0 +1,2 @@
+Adding bootsnap to make the load process faster for rails
+It takes running a single test from 15 seconds to 8 seconds.  It is only helping with the load process, by caching load paths.  It will not cut the entire run time of the test suite by half.

@@ -1,0 +1,2 @@
+add ability to set model during import
+we're currently defaulting to Publication because that's all we have now, but it won't be for long! (see: 

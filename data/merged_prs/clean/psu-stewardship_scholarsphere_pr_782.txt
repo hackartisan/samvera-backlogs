@@ -1,0 +1,2 @@
+Work vs Collection Help Text
+Adjusts text for new work and adds work vs collection text to new collection to be consistent. Fixes #604 and #599

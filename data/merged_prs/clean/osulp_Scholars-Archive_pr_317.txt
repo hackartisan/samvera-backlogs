@@ -1,0 +1,2 @@
+adds missing data-index in partial for proper form POST to remove perms
+fixes #314

@@ -1,0 +1,2 @@
+Dltp 587 generic file show view is uninte
+Claiming issue dltp-587 @b348d979d8afe8a3243250c9f3dc46e8b9fdf088 $ ./script/start-issue dltp-587 [skip ci] Exclude files section from Generic File show page @78069466a0db2066d1b2a0c3c6140387e4a9f1a0 Closing issue dltp-587 @c24631607cf5ba61e0d140aa4bbc6bad9243cff0 $ ./script/close-issue dltp-587

@@ -1,0 +1,2 @@
+Remove artist property from numismatic issue
+We now add artists as nested resources. 

@@ -1,0 +1,2 @@
+Refactor uploads controller
+Move S3 logic into storage_for_ingest service. Create memory_bucket to replace S3 logic in tests. Move metadata logic into separate formatters. Add simple metadata validation (returns 406 error) Complete specs for uploads controller methods.

@@ -1,0 +1,2 @@
+Issue 114 hover text details page
+resolves #114

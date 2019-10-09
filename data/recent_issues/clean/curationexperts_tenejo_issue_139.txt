@@ -1,0 +1,2 @@
+Add splunk to tenejo
+All our tenejo servers should send their logs to splunk so if we hit a systems problem (e.g., tomcat stopping for no known reason) we can track it down easily.

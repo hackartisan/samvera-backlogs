@@ -1,0 +1,2 @@
+Feature/display degree grantors label
+fixes #1040

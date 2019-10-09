@@ -1,0 +1,2 @@
+Small cleanups to change_set_persister_spec
+borne out of work for #1687

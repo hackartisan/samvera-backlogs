@@ -1,0 +1,2 @@
+Integrate Shibboleth Authentication
+Integrated Shibboleth and removed devise :database_authenticatable and added devise :rememberable which explicit leaves only devise :http_header_authenticatable for authentication.  Rememberable should remember if a session has been authenticated. A request was made to A&E to reconfigure heliotrope-testing to use Shibboleth only (a.k.a. remove CoSign configuration).   As it is now they both exist and CoSign is being used for login authentication. This branch was deployed to heliotrope-testing and publisher heliotrope has a restricted EPUB.

@@ -1,0 +1,2 @@
+Use construct_page_title consistently
+Some templates were putting the '//' into page titles. Change to use the helper method (which already does that).

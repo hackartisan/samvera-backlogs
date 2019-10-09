@@ -1,0 +1,2 @@
+installing fontawesome
+This commit installs the Font Awesome Vue component. 

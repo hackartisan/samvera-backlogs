@@ -1,0 +1,3 @@
+Tag requirements 
+Provided by Steve Collins: there may be some required for AWS@Emory.  We may want to add on to them.
+  Steve provide this link as requirements to look into for tagging.  He recommended we use tagging that reflect the landing zone as the applications will move their in the future. 

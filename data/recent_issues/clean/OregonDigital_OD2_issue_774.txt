@@ -1,0 +1,2 @@
+Removing user from role causes RecordNotFound error
+Descriptive summary Whatever is rendering the roles management interface, renders id=user-email instead of id=user-id for the 'remove user' button. This causes a lookup error and fails to remove the user. Example page: staging.uoregon.edu/roles/1/edit Expected behavior User is removed from role successfully. Related work Accessibility Concerns

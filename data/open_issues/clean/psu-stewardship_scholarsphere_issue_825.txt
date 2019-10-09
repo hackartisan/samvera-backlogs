@@ -1,0 +1,2 @@
+Evaluate labels for "Files Available for Upload" table
+Under "Files Available for Upload" and "Listing of files ready to be uploaded" there is a table with column labels of "File", "Size", and "Actions". It seems as though the "Size" and "Actions" columns never end up having content in them. Also, the "Size" seems to be listed within a different area within the first column of the table. Feel free to close this issue if things are as they are needed.

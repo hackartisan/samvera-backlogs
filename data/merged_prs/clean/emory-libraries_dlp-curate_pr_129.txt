@@ -1,0 +1,2 @@
+Validates fileset use metadata against controlled vocab
+closes #83

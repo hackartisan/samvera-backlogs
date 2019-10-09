@@ -1,0 +1,2 @@
+Organize all sample configs in the own directory
+ The plethora of .sample files has always irked me. Does this seem like a better idea?

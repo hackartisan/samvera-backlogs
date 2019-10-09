@@ -1,0 +1,2 @@
+Don't queue empty CleanupFilesJobs.
+Closes #2882

@@ -1,0 +1,2 @@
+Use gemified cozy sun bear
+Resolves #926  Uses gemified version for cozy-sun-bear to resolve font issues in asset pipeline; Removes epub.js and cozy related files in vendor and asset directories (these files are delivered from the gem now); adjusts epub show page to remove inline styling on width of div, updates show page to use current widget configuration for permalinks.

@@ -1,0 +1,2 @@
+Fix/oai loop
+this definitely fixes a logic problem, but not sure that it fixes gbwarnerpapers hanging. :(

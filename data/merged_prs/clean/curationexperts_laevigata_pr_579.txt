@@ -1,0 +1,2 @@
+Ensure we match the right AdminSet when checking user authz
+Fixes #551

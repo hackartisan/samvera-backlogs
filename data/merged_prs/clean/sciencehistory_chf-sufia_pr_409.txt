@@ -1,0 +1,2 @@
+'Place of creation' dropdown should be before 'place of interview' in edit view
+Closes #251

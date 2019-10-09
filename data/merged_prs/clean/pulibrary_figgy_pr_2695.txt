@@ -1,0 +1,2 @@
+Add part_of to Playlists.
+Closes #2648

@@ -1,0 +1,2 @@
+Bad Gateway when downloading a single-use link
+After creating a single-use link, when I visit the link in another browser, I get "Bad Gateway". This was observed in QA but hasn't been testing in production yet.

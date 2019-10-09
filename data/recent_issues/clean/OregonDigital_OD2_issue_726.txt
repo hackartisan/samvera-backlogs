@@ -1,0 +1,2 @@
+In gallery view, three-across tiling presents last row as full column width
+Descriptive summary Users expect three-across visual consistency for navigation of gallery results Expected behavior Rows of three are maintained; additional items are either paginated on a different results list page, or are presented in the same column width as other gallery items, across browsers. Related work May relate to #686. Accessibility Concerns None known. See image attached from:  Fails the same way in Edge, Chrome, Firefox.

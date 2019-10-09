@@ -1,0 +1,2 @@
+Adding field to designate a project an 'Aggregator Project'
+On CREATE endpoint and form add a field that can be set to 'true' to signify that a project is an aggregator project. This field should only be editable on CREATE.  Update Project Model to contain a new field called is_aggregator Update CREATE endpoint Update Project New Form

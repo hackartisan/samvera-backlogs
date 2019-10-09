@@ -1,0 +1,2 @@
+Add meta tags for the metadata added to GenericFile
+They need to be mapped to schema or og vocabularies like the other ones.

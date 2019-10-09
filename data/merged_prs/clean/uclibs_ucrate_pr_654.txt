@@ -1,0 +1,2 @@
+Change order of attribute row file
+Fixes #629

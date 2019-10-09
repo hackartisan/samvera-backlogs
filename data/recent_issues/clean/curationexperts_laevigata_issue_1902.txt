@@ -1,0 +1,2 @@
+Upgrade to Hyrax 2.5.1
+Although we do not believe the ETD application is vulnerable to the specific security issue this release was created to address, we want to keep up to date with Hyrax versions when possible.

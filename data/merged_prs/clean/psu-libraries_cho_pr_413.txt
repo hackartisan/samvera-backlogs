@@ -1,0 +1,2 @@
+Define relationships between collections and works
+Description References ticket: #381 Why was this necessary? Defines the relationship between works and collections. This is the first of two PRs, the second of which will implement the wireframes that allow the user to assign works to collections. This PR covers persisting the relationship from work to collection, and then retrieving the reverse, collection to works. Changes Are there any major changes in this PR that will change the release process? No Checklist   i18n enabled  adequate test coverage  accessible interface

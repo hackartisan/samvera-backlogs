@@ -1,0 +1,3 @@
+Get hydra about page integrated into app
+
+This about page shows last 15 commits, versions of technologies, tags, etc. This is per what was discussed on March 17th about a more rigid deploy process. 

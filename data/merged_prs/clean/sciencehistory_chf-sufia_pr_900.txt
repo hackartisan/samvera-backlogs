@@ -1,0 +1,2 @@
+Index earliest and latest date_of_works for sorting
+Separate PR so it can be in master first for a reindex. Towards #712

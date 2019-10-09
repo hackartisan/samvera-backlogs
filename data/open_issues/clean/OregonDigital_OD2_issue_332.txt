@@ -1,0 +1,5 @@
+Representative Media not visible on form
+Descriptive summary The fields necessary for selecting the representative media don't appear on the deposit form. I ran into this bug by uploading a second file to a work, then noticed I wasn't able to select that it be used for the works thumbnail image. Expected behavior It seems like we want to be able select/set the representative media for a work and in doing so change the thumbnail that's displayed on the #show page.
+I think this is because there isnt any secondary terms on the form. We ran into this with SA as well. Fix is to pull out the representative media piece in the views out into a place where it doesn't rely on a secondary term to exist.
+Are you looking for this interface?  ![image](  Thumbnail changes the search page, representative media the show page. It seems to work for me, or am I missing something?
+File Manager works, but it's also in the form, at the bottom. I don't believe they show up until media has been ingested. Here's a screenshot from ScholarsArchive@OSU  ![image]( 

@@ -1,0 +1,2 @@
+Change read-only switch to be resilient during provisioning
+The current implementation updates the app_config file, which is overridden by ansible during provisioning. If we wanted to provision during a read-only downtime we would get messed up. So find another way to make the switch!

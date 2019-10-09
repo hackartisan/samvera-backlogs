@@ -1,0 +1,2 @@
+add emphasis tags around the monograph title on an asset show page
+Closes #397 On asset pages, the parent monograph's title is italicized.

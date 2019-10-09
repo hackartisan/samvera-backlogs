@@ -1,0 +1,2 @@
+Fix issue with capturing and rendering Google Analytics info, ref #842
+GA was not registering any file downloads because the configured dom id wasn't there. Also, the rake tasks that were caching this information were not executing. Since download links can be in multiple places, we're opting for a class that can be applied to any link and will register that event in Google. The rake task wasn't executing because existing loading mechanisms weren't including all the correct code from the Legato gem.

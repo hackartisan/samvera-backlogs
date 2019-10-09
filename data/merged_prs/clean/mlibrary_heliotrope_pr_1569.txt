@@ -1,0 +1,2 @@
+update csb to latest version that uses CFI for location tracking
+Resolves #1568

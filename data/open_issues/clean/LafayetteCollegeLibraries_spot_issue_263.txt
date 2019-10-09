@@ -1,0 +1,2 @@
+add pagination for item members
+something i had missed: Hyrax::WorkShowPresenter#list_of_item_ids_to_display is set-up to return a paginated array. so our display of the members needs to have a pagination mechanism. not super high priority: the item that drew my attention is a test item that isn't on the schedule for migration + none of the other works have more than one or two file-sets.

@@ -1,0 +1,2 @@
+Split out `orderable_files?`
+Closes #2106

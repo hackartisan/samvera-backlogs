@@ -1,0 +1,2 @@
+Update to CC 1.7.0
+Resolves #676 To test you'll need to first: bundle install Then run the migrations: bundle exec rake db:migrate and then load the default workflow: bundle exec rake curation_concerns:workflow:load If you want to revert back out, I think there are 2 migrations, so I guess rake db:rollback twice to get rid of all the sipity tables.

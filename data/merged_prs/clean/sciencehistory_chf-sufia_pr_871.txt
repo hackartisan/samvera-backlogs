@@ -1,0 +1,2 @@
+longer homepage intro text
+with more space made for it in the pretty hacky CSS Closes #759

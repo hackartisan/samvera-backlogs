@@ -1,0 +1,2 @@
+show entire minnesota logo in footer
+Closes #547

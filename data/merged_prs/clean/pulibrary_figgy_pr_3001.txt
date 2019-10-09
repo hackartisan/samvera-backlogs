@@ -1,0 +1,2 @@
+Allow users with CAS login to download campus-only geo files
+Closes #2442

@@ -1,0 +1,2 @@
+reindex_works, make solr commits more like what I THINK
+was being done before.

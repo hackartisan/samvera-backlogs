@@ -1,0 +1,1 @@
+Remove tests requirement to deploy to staging

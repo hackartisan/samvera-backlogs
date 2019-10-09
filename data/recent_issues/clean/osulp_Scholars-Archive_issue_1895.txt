@@ -1,0 +1,2 @@
+Bulk Update rights_statement buggy
+Bulk updating rake task suffers from a logic bug when bulk updating rights_statement metadata.  returns false for rights_statement because it is explicitly not "multiple" however it is stored in an array. Our rake task needs to account for this and could just return true if the property is rights_statement. 

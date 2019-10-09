@@ -1,0 +1,2 @@
+HELIO-2643 - resolves CSB-208 and CSB-210
+Updates to use latest from CSB, which resolves CSB-208 and CSB-210. In FF, tall tables with a height greater than the size of the canvas do not reflow onto the next page and become clipped. This fix introduces a feature that detects the clipping in FF, and presents a button for the reader to open the table in modal window. See attached screenshots. Tested on preview.

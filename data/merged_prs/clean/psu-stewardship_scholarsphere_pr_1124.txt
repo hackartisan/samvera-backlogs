@@ -1,0 +1,2 @@
+First name initial matches should not match last character of first name
+We should not match Jessica Moyer with A Moyer just becuase the given name ends with the first initial.  Solr is allowing this to come back so we are filtering it when we validate.

@@ -1,0 +1,2 @@
+handle section titles w/markdown
+Resolves #629

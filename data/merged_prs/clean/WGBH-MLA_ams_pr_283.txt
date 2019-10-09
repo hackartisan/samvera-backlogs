@@ -1,0 +1,2 @@
+Fix Bracket Issue For Admin Data Fields
+Fixes bracket issue for admindata fields. Admin data handling in pbcore_xml_mapper did not account for single- versus multi-value fields. Now, it do.

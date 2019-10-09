@@ -1,0 +1,2 @@
+import and set open sans
+Fixes #847

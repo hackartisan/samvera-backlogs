@@ -1,0 +1,2 @@
+Feature/templates
+Closes #147 Note that permissions are a separate ticket

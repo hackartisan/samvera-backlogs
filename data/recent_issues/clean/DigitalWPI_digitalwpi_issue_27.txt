@@ -1,0 +1,2 @@
+setup robots.txt to not let google index the application
+User-agent: * Disallow: /

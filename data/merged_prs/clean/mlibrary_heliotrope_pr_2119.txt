@@ -1,0 +1,2 @@
+Resolves HELIO-2333: Refactor Fulcrum dashboard to mirror API behavior
+Creating/deleting a grant for an Individual or an Institution to read a Product also a adds/removes the Individual's lessee or Institution's lessee to/from the Product's lessees.

@@ -1,0 +1,2 @@
+Add middleware to strip */* from accept headers.
+Rails has a bug with priority in content negotiation and this is a hack to fix it until it's fixed upstream. See rails/rails#9940

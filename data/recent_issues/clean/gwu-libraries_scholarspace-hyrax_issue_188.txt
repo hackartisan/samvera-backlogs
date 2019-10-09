@@ -1,0 +1,2 @@
+Patch to avoid Ldp::Conflict
+As per samvera/hyrax#3128 (comment) , action to fix is:  Add to your hyrax app... /config/initializers/noid_rails.rb ::Noid::Rails.config.identifier_in_use = lambda do |id|  ActiveFedora::Base.exists?(id) || ActiveFedora::Base.gone?(id) end

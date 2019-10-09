@@ -1,0 +1,2 @@
+Security Vulnerabilities with third party JS
+Dev tools lists 3 libraries with security vulnerabilities.  Bootstrap 3.3.7 jQuery 1.12.4 jQuery UI 1.11.4  The version of jQuery that we are using is from 2016. Recommend a plan to upgrade the libraries to the most current versions.

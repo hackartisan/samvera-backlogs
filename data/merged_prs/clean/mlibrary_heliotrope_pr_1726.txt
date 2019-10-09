@@ -1,0 +1,2 @@
+Safari 11: re-enable Leaflet interaction
+Resolves #1579

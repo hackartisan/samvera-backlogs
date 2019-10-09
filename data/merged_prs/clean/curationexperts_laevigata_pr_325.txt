@@ -1,0 +1,2 @@
+Rename Faculty to CommitteeMember
+ As we discussed :)

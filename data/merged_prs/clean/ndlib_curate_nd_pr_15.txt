@@ -1,0 +1,2 @@
+Adding SeniorThesis#advisor field
+This requires an approximation of a qualified dublin core Contrbiutor field. I have also enabled this to be multi-value. IDR-178 #resolve

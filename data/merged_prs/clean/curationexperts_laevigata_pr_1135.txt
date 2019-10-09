@@ -1,0 +1,2 @@
+Remove several deprecated calls from tests
+The old style (Hyrax 1.0) actor stack calls were deprecated during the 2.0 upgrade. This removes some of the calls from tests, reducing the overall deprecated call footprint.

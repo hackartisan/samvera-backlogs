@@ -1,0 +1,1 @@
+Added record counts to log, and changed log to append so we won't overwrite every line.

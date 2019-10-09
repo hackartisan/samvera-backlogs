@@ -1,0 +1,2 @@
+VRR Cron times may be causing race condition w/ Aeon API
+Descriptive summary This is hinted at in an email we received from the Aeon dev staff, and seems to be the case in our local tests. It seems to be 'whichever cron run gets there first' actually processes the queues. We should offset the cron runs between production and staging to try and mitigate this. Rationale Until the new version of the Aeon API is out, we need to rule out this race condition possibility.

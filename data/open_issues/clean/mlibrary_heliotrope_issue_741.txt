@@ -1,0 +1,2 @@
+[EPIC] Roles
+EPIC As a registered user I can be assigned roles. PLATFORM ROLES  admin  can assign/withdraw roles can create/modify/destroy presses can create/modify/destroy content can create/modify/destroy registered users    PRESS ROLES Are scoped to an individual press  admin  can assign/withdraw roles   editor  can create/modify/destroy content   user  can be assigned a role (the purpose of this role is to filter registered users visibility)    NOTE: Destroy may result in dangling references, perhaps it shouldn't be allowed or perhaps not accessible from the GUI.

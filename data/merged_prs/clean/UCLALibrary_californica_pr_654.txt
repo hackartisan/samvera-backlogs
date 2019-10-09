@@ -1,0 +1,2 @@
+Add visibility field to importer. Story 679
+There is a list of allowed values for visibility.   If the CSV file doesn't specify visibility, it defaults to the most restricted level of access.   Out of scope: The importer cannot handle visibility values of 'embargo' or 'lease'.  If we need that functionality in the future, we can add that code later.

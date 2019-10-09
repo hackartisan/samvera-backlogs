@@ -1,0 +1,2 @@
+Digital Object Page displays correct fields
+The Digital Object Page should only displayed the fields that are: a) enabled by the Project, or b) unrestricted by the Project and enabled by any of the Aggregator Projects

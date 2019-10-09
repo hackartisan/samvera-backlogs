@@ -1,0 +1,2 @@
+Set default search fields to the same as 'all fields', fixes #673
+ any reason why our default search fields shouldn't be the same as our 'all fields' keyword search?

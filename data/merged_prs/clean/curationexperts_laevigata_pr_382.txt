@@ -1,0 +1,2 @@
+Update capfile to match current version of capistrano
+Currently we can't deploy latest code to aws because we get the error "Capfile locked at 3.8.1, but 3.8.2 is loaded." This PR should fix that.

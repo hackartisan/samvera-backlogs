@@ -1,0 +1,2 @@
+Navbar
+This is an initial fix for the search bar issue #18. It brings the button back onto the screen on Chrome and reconnects the button to the search bar on FF. I still need to work on getting behavior consistent between Chrome and FF. Currently, the search field is short on FF and long on Chrome. Also, you can search My * on Chrome, but only All of DRUW on FF.

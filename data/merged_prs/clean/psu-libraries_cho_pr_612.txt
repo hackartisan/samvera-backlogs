@@ -1,0 +1,2 @@
+Rename new_create to create
+Description Why was this necessary? The method on ImportFactory::Work was incorrectly named. This renames it to the more consistent create.

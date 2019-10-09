@@ -1,0 +1,2 @@
+Resolves HELIO-29: Search by ISBN
+This branch has been deployed to testing and staging. The How-to article  list the steps taken. NOTE: Step 4: Reindex can also be done as a job from the fulcrum dashboard:  NOTE: Only Monographs need to be reindexed for this PR

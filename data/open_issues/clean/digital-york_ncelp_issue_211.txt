@@ -1,0 +1,2 @@
+Batch uploads
+Make batch uploads available. Either using the standard Hyrax functionality or by creating a feature like the IRIS Upload similar.

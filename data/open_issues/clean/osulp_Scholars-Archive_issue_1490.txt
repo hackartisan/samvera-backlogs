@@ -1,0 +1,2 @@
+For GTDs - fix visibility for MFA degrees
+If Degree Name - MFA is selected on a GTD, set the visibility to only allow Oregon State University as a visibility option.

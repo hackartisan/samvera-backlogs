@@ -1,0 +1,2 @@
+Add custom development seed data
+DLTP-1354: Add custom development seed data cc55f70  These changes don't directly address 1354, but add they ability to create development seed data, which will be helpful for testing 1354 This adds a user that has an associated Person/Profile and a user that has no associated Person/Profile in order to recreate a scenario for 1354 Added a rake task to run the custom seeds. Ex: the seeds/dev.rb seed script can be run with bundle exec rake db:seed:dev

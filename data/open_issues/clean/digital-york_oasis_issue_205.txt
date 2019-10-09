@@ -1,0 +1,12 @@
+Search engine optimisation for OASIS
+Not for the current sprint (maybe autumn?). Investigate and implement search engine optimisation for the website? We want to be found! :-)
+ what search terms a user might use to find OASIS?  Searching for [Open Accessible Summaries in Language Studies](  gives good results [Oasis Database](  brings us in 3rd place. [OASIS language](  brings 1st place.
+ That's really good! What about if people can't quite remember the name of the project and enter things like:  language learning summaries language teaching summaries etc.  Is there anything we can do for that?
+SEO optimization requires lots of work, e.g. [the list from this article](    For now, we certainly can add some meta tags to OASIS, please could you provide me with a full list of the OASIS keywords? 
+ You mean a full list of things people might search for?
+Yes  
+ Ok, thanks. I'll put a list together and check with Emma and Lisa-Maria to see if they have any additions.
+ We've send the list out to the wider project team for them to comment on. I'll will send it to you next week when they have had a chance to respond.
+ You can find the list [here]( 
+ I'm trying to add more specific meta keywords for each summary detail page. What fields are the best source for these keywords, topic, participant type?
+ I'm not entirely sure what you mean. I think topic would be most informative as it's the most specific field we have.

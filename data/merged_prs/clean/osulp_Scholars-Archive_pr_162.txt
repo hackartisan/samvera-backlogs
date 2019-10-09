@@ -1,0 +1,2 @@
+Feature/configurable marmotta
+Fixes #158

@@ -1,0 +1,2 @@
+Dockerize test environment
+Uses docker containers instead of solr_wrapper and fcrepo_wrapper Adds rake tasks for starting/stopping/cleaning dev and test server stacks Updates README to reflect those changes

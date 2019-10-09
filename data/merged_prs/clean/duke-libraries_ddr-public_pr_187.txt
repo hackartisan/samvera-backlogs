@@ -1,0 +1,1 @@
+suppress search scope Digital Collections, minor facet display revisions

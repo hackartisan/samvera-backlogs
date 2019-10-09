@@ -1,0 +1,2 @@
+get batch edit form working
+this pulls the Hyrax::Forms::BatchEditForm into our code base and edits it to match our work properties. i imagine this will have changes down the road, but it at least allows us to use the batch edit capabilities closes #106

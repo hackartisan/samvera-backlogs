@@ -1,0 +1,2 @@
+Add an HTML5 viewer for audio files.
+fixes #1226

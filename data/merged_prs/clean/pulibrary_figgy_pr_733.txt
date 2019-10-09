@@ -1,0 +1,2 @@
+Dont create empty updated at
+Having a bunch of empty updated_at/created_at values when saving to postgres was making it take even longer to parse in Valkyrie.

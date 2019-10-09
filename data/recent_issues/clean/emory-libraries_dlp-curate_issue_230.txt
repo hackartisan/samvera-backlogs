@@ -1,0 +1,2 @@
+Create Ansible role(s) managing Elastic Load Balancer(ELB)
+Create ansible role that manages a list of elb  Configure ELB listeners on host based routing  Test this role with Solr cluster of at least 3 ec2s

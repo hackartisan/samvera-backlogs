@@ -1,0 +1,2 @@
+Visibility radios
+Whenever we're ready to add these to the UI. We may want to wait until all the front-end apps are set up.

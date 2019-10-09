@@ -1,0 +1,2 @@
+Extracting text from random files fails
+When running bundle exec rake cho:benchmark:works, Solr will fail attempting to extract text from a randomly-generated file. Metrics::Work.build_temp_file uses Faker::File.file_name to create a filename. If the name happens to be a text-type of extension, Solr will attempt to extract the text. See Work::File.extractable? To fix this, we should generate random files that are not text-based, or better yet, generate random binary files with the correct extensions, and random text files that contain actual (random) text.

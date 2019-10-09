@@ -1,0 +1,2 @@
+cap: update solrconfig & core
+when we do cap:deploy it should copy the solr config file to relevant data server  also add cap tasks to generate new solr core?

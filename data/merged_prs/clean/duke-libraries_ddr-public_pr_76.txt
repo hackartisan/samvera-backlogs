@@ -1,0 +1,2 @@
+Exclude master file objects from public interface.
+Applies filters to searches and document retrievals such that objects with a file_use attribute of 'master' are excluded. Closes #74

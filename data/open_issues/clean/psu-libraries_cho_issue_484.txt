@@ -1,0 +1,5 @@
+Optimize metadata display on collection and work landing pages
+As a public user, I would like to see work metadata displayed in a way that gives me the most important first, So that I don't have to read through fields that are less important. Non-core fields can be in separate tab or accordian section, some sort of accessible, supressed or inconspicuous UI element. Related: #127, #483
+  should the data dictionary (and work-type schemas) have a field for indicating the ordering of metadata fields on show pages? Thinking this might not be the same for all works.
+Make sure display order is the same for landing and edit pages.
+Specify display order in work type and collection schemas.

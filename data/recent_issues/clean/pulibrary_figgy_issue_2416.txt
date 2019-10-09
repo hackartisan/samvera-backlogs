@@ -1,0 +1,2 @@
+Intermittent Postgres errors with GraphQL queries
+Backtrace line 23 of [PROJECT_ROOT]/config/initializers/sequel_active_support_notification.rb: block in log_connection_yield line 17 of [PROJECT_ROOT]/config/initializers/sequel_active_support_notification.rb: log_connection_yield line 76 of [PROJECT_ROOT]/app/adapters/indexing_adapter.rb: block in buffer_into_index  View full backtrace and more info at honeybadger.io [Figgy/production] Sequel::DatabaseDisconnectError: PG::ConnectionBad: PQconsumeInput() SSL error: decryption failed or bad record mac

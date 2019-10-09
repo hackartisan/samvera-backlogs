@@ -1,0 +1,3 @@
+Collections Report
+As a repository manager, I would like to know the number of collections, by creation date, by collection curator, and by content-type, So that I may include the information in other CHO reports.
+Hyrax Analyticx Working Group will produce recommendations for admin stats 

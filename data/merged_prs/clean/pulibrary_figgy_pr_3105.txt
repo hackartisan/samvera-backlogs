@@ -1,0 +1,2 @@
+IngestArchivalMediaBagJob should make Recordings downloadable
+Closes #3073

@@ -1,0 +1,2 @@
+HELIO-2038 - update accessibility page
+Resolves HELIO-2038 Updated the accessibility page with new content; posted VPAT; add link to accessibility and terms of service pages from the "Powered by" Fulcrum list of links that appear on publisher sites.

@@ -1,0 +1,2 @@
+fix to populate access_copy from File Name
+This fixes a bug that prevented images from displaying for newly-imported works. The field access_copy should eventually be filled from a new CSV column created by bucketeer. This column is not yet ready, however, so for now we will continue to populate it from "File Name".

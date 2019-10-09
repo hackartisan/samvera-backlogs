@@ -1,0 +1,2 @@
+Updates to the latest commit on jrgriffiniii/browse-everything
+This ensures that the latest revision introduced in samvera/browse-everything#229 is used on the jrgriffiniii branch until that is merged.

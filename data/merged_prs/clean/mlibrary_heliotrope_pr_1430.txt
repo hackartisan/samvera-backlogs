@@ -1,0 +1,2 @@
+Leaflet usability and tracking changes
+Resolves #1126 Resolves #1302

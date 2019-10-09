@@ -1,0 +1,2 @@
+Update SS Footer
+Removes references and links to Information Technology Services form the footer. All Libraries. All the time. refs #909

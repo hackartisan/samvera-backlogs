@@ -1,0 +1,2 @@
+[Figgy/production] NoMethodError: undefined method `[]' for nil:NilClass
+Backtrace line 8 of [PROJECT_ROOT]/app/services/manifest_builder/record_property_builder_v3.rb: apply line 611 of [PROJECT_ROOT]/app/services/manifest_builder.rb: manifest line 15 of [PROJECT_ROOT]/app/services/manifest_builder.rb: build  View full backtrace and more info at honeybadger.io

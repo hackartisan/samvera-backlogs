@@ -1,0 +1,2 @@
+Create system_users that are compatible with our Devise setup
+Connected to #810

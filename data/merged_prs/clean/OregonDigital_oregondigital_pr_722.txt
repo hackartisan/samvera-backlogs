@@ -1,0 +1,2 @@
+Make creator controlled vocabulary turn strings into URIS.
+Closes #719

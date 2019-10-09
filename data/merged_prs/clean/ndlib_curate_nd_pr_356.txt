@@ -1,0 +1,2 @@
+Updates to contributing documentation
+Importing multi-commit message generator script @c04ee35ba97e3a1f51f5eac3d173a2a3312c0e03 Build a handy outline (like this one) of the commits on a feature branch to serve as the basis of a pull request. While on a feature branch, this command will copy the outline to your clipboard: ./script/build-multi-commit-message | pbcopy Updating contributing documentation @280d083e7d9b3766f8a1bdaf2d028df5eeec4720 Relevant elements were taken from ndlib/sipity:CONTRIBUTING.md

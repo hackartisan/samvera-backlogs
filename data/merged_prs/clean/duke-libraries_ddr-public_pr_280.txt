@@ -1,0 +1,1 @@
+Use rights statement from metadata or fallback

@@ -1,0 +1,3 @@
+Look into how mirador compares to vanilla OSD viewer
+
+Mirador is a node.js based app that runs it's own stand-alone app. There's a gem that attempts integration but it has not been updated for over a year:   The options are: 1. Get a new server and run Mirador on it. Drawback of that approach is that only public objects can be viewed, unless we extend mirador to somehow authenticate with Sufia. 2. Work on rails integration, bring it up to date.

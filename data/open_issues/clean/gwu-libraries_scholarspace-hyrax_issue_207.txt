@@ -1,0 +1,2 @@
+Update translation yml files [i18n]
+Follow  I think (?) following the steps above will take hyrax.en.yml and create updated, translated hyrax.*.yml files.  Currently the non-English files are out of date and need updating.

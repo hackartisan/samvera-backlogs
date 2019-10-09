@@ -1,0 +1,1 @@
+Update Ability class with the numismatic classes

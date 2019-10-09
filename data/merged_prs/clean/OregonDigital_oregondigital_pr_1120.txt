@@ -1,0 +1,2 @@
+Remove slashes from end of new properties
+I mistakenly added a slash at the end of the new properties, since the Europeana URIs had them. Our new ones don't.

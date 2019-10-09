@@ -1,0 +1,2 @@
+Production Logging as JSON
+Improves DataDog log collection.

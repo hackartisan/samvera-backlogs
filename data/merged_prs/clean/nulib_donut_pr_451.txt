@@ -1,0 +1,2 @@
+Add FITS dependencies to LD library path
+This is a container build-only PR, so there's not much use waiting for tests to pass.

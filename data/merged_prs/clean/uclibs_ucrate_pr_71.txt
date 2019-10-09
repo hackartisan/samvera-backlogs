@@ -1,0 +1,2 @@
+Update to Rails 5.1.4
+Fixes #70

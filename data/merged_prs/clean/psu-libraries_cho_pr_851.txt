@@ -1,0 +1,2 @@
+Update to the latest new_relic_rpm gem
+Update to the latest new_relic_rpm gem. Enables continued access to the New Relic suite of performance monitoring tools.

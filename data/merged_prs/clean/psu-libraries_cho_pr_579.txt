@@ -1,0 +1,2 @@
+Allow core fields to be overridden
+Description add sort to catalog data dictionary display add sort to core fields make sure the order index does not get overriden Fixes #437 Why was this necessary? Allows core field to be overridden without killing the order index.  Not this does not update the order on the show and index views, but does update the order on the edit and new forms. Changes Are there any major changes in this PR that will change the release process? no Checklist   i18n enabled  adequate test coverage  accessible interface

@@ -1,0 +1,2 @@
+Fix Color Contrast Error for User Profile
+Ends an open  from develop and uses the middle gray for the user profile to improve the contrast ratio.

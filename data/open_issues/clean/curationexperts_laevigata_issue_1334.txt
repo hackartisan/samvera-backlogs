@@ -1,0 +1,2 @@
+Duplicate predicate: graduation_year and graduation_date
+ISSUE There are two attributes mapped to the same predicate   One appears to be multiple and one appears to be singular.  It's unclear how and when one or the other should be used. graduation_date:	["Summer 2019"] graduation_year:	"Summer 2019" ACCEPTANCE   Remove one of the attributes OR  Add use notation to 

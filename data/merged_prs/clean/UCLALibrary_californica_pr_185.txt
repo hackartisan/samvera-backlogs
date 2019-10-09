@@ -1,0 +1,2 @@
+Update extent attribute
+This commit updates the extent attribute as specified in #158 Connected to #158

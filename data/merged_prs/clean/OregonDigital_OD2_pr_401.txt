@@ -1,0 +1,2 @@
+Force index strategy to be defined in metadata concerns
+Fixes #397 by defaulting all metadata to the indexing methods defined in the metadata concerns. eg: 

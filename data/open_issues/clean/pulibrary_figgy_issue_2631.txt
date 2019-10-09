@@ -1,0 +1,5 @@
+Permanent URLs for collection and item manifests
+Collection manifests should use the URLs based on ARKs, e.g.,  instead of the URLs that use Figgy IDs There should be a lookup function for collection manifests, either by assigning them ARKs or something similar
+Also, these URLs should be exposed in the UI and it should be clear that this is what should be used in citations. 
+Currently, the URLs for the manifests show up in DPUL only as a IIIF drag-and-drop icon just below the viewer (and not at all in Figgy or other apps). But "these URLs should be exposed in the UI and it should be clear that this is what should be used in citations" sounds like the actual URL should be displayed as a metadata field, and/or in the metadata drawer, with a label like "Permanent Manifest URL" or something like that.
+⬆️ yes, that

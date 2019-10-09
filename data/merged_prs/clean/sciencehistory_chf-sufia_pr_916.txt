@@ -1,0 +1,2 @@
+"Part of" on search results
+Closes #769 See background at: 

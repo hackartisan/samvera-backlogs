@@ -1,0 +1,2 @@
+IIIF Badge on Object Page 
+As an online user, I want to know that an image is being delivered via IIIF, So that I know additional functionality is available to me, like drag and drop into external IIIF viewer to allow user to remix content from multiple IIIF compatible sites. See discussion: 

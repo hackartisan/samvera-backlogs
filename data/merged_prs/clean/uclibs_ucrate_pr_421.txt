@@ -1,0 +1,2 @@
+Update to hyrax 2.2.1
+Fixes #363 Updated Hyrax to 2.2.1. Updated the feature specs, the Gemfile, and a handful of other things.

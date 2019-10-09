@@ -1,0 +1,2 @@
+Preserve the filename if given to IngestFileJob via opts
+This fixes an issue where files that are uploaded via the versions uploader retain their temporary filename. The inital file upload form creates a temporary file with the original filename, but the version upload does not. Related to #1278

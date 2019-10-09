@@ -1,0 +1,2 @@
+Display local and cloud fixity on show pages
+When I view an object's show page, I should see a summary of local and cloud fixity checking status and dates checked.  Something like: Fixity  Local: All Files OK, oldest check 03/21/2019 Cloud: Not checked

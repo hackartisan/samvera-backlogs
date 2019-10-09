@@ -1,0 +1,2 @@
+Comments out the autocomplete feature
+Description Fixes #536 Why was this necessary? The autocomplete has a few accessibility issues and it also stores each state of the autocomplete in the search history, so we are "removing" the autocomplete by commenting it out in the catalog controller. Changes Are there any major changes in this PR that will change the release process? Nope Checklist   i18n enabled  adequate test coverage  accessible interface

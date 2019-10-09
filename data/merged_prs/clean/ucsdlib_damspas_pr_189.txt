@@ -1,0 +1,1 @@
+Disable spellcheck to fix slow solr query in collections lookup. DHH-802

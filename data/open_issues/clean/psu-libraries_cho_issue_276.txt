@@ -1,0 +1,2 @@
+Use headless chrome for JS feature testing
+When it comes time to write feature tests that exercise our Javascript, don't use poltergeist! Use Chrome in headless mode. It's not that much faster, but it's a lot more reliable. See: samvera/hyrax@f5a86cb

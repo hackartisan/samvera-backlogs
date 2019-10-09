@@ -1,0 +1,2 @@
+DLTP-591 Departments and Units is appearing twice on Finding Aid pages.
+When looking at it, I found the Library Collection was also duplicated above and below.

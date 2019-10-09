@@ -1,0 +1,2 @@
+Fixes post staging run of this import:adrl_arks task
+To run on staging RAILS_ENV=production bundle exec rake 'import:adrl_arks[/opt/alexandria/current/tmp/merritt_proquest.csv, /opt/alexandria/current/tmp/adrl_arks.csv]' --trace

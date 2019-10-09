@@ -1,0 +1,1 @@
+I should be able to restore a resource from its tombstone

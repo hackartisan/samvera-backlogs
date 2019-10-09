@@ -1,0 +1,2 @@
+Travis tweaks
+Descriptive summary A couple changes to the .travis.yml:   Set ruby to 2.5.3   Get rid of the phantomjs stuff since we don't need it anymore: 

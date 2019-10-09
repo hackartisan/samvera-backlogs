@@ -1,0 +1,2 @@
+tool for locating flipped/rotated new images
+related to #907 it would be useful to be able to identify derivatives that are flipped or rotated for new assets. Possibly this could be a modifcation of the tool  built for identifying probs post-migration, but would compare the source image and the jpeg.

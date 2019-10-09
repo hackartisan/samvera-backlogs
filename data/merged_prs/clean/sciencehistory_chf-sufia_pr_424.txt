@@ -1,0 +1,1 @@
+Update README and comments to clarify remote rake cap task

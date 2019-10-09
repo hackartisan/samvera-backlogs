@@ -1,0 +1,2 @@
+Fix auto-populate creator
+Fixes #767 Fixes our issue where the setCurrentUserAsCreator function was throwing an error on the collection page because of a missing div. It appears that initially we didn't want to have it auto-populate. I kept the etd_creator field as not auto-populating since that seems to be the current use case.

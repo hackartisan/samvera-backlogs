@@ -1,0 +1,2 @@
+Updates to the zip jobs process
+Adds the necessary changes to Capistrano for deploying and addresses the issue of public zips that haven't been created yet.

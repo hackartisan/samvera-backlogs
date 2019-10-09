@@ -1,0 +1,2 @@
+no image for external resources, tidy a little
+Resolve #881

@@ -1,0 +1,5 @@
+Discuss restarting redis and workers upon app reload.
+After an app gets deployed, it could be possible to get it to force restart redis and resque-pool to make sure all services are running fresh.
+SIDEKICKQUE
+Related to monit.d restart configurations
+  still an issue? if so, add milestone. 

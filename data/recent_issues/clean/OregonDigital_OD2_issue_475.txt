@@ -1,0 +1,2 @@
+UO login works but persists - will not logout
+Descriptive summary After successful UO login, cannot log back out. Cookie issue? Cached credentials? Expected behavior Can use logout link to exit session. Related work #173 is related

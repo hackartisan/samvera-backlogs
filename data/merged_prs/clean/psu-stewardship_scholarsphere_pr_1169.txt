@@ -1,0 +1,2 @@
+Map our resource types to those in EzId, ref #1167
+Our resource types are not compatible with those used in EzId. When sending DOI requests to EzId, we change the resource type sent to EzId to match their vocabulary.

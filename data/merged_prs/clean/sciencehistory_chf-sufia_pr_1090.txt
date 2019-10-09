@@ -1,0 +1,2 @@
+Remove sqlite dependency
+The "bundle install" command should no longer need to install sqlite, since we're no longer using it in development, staging, or production.

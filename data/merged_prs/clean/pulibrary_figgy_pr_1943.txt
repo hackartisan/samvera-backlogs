@@ -1,0 +1,2 @@
+Update valkyrie to 1.2.1 from 1.2.0
+fixes #1881

@@ -1,0 +1,2 @@
+Enhance show route
+This makes the appearance of a work in the common objects viewer much closer to how works are rendered. (There is still no thumbnail view, but including the application header was the primary objective.)

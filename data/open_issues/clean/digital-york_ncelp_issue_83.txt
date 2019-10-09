@@ -1,0 +1,4 @@
+Fix alignment in left hand facet list
+In the search results the > in the top facet is misaligned.
+tested in Chrome/Firefox but cannot reproduce this problem.
+ this seems to be a Safari thing again. I don't have the issue in Chrome.

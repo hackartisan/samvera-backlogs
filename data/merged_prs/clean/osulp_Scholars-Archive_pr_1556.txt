@@ -1,0 +1,2 @@
+Funding statement render just as text, not link.
+Fixes #1539

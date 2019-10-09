@@ -1,0 +1,2 @@
+Don't put search service inside an array
+fixes #2663

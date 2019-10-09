@@ -1,0 +1,2 @@
+Make authorized link point to viewer.
+Closes #2309

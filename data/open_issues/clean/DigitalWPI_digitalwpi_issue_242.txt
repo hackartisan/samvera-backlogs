@@ -1,0 +1,2 @@
+Export works to JSON/CSV
+add export to index view and collection view to bulk export works in JSON/CSV format.

@@ -1,0 +1,2 @@
+Repository Manager : Audit Log
+(moved from uclibs/scholar_uc_legacy#1044) Descriptive summary As a: Repository administrator. I want to have a log to audit editor and delegate actions. So that: there is a log of changes. Criteria: (Check what is already in SUFIA) Expected behavior The Admin Dashboard should have a log of edit actions for all works.

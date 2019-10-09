@@ -1,0 +1,2 @@
+view pdf in browser
+Fixes #10

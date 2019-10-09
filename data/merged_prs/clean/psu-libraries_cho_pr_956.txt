@@ -1,0 +1,2 @@
+Fix detection of invalid UTF-8 characters
+Description Fixes the detection of invalid UTF-8 characters in string and text field types. Connected to #93

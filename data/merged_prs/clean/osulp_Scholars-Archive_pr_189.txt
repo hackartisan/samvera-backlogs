@@ -1,0 +1,1 @@
+#133: add CC0 as default rights

@@ -1,0 +1,1 @@
+Adds contentadmin role w/rights. Fixes #5

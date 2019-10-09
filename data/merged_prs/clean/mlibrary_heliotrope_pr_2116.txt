@@ -1,0 +1,2 @@
+Preparation for HELIO-2150: Shibboleth returns to um login bug
+Added more debug logging in preparation for bug hunting.

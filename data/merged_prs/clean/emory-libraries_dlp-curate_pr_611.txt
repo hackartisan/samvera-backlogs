@@ -1,0 +1,2 @@
+Update Zizia
+This updates Ziza with the latest version which includes the ability to choose from multiple ways of updating files. This also adds :clean to specs that have been failing intermittently on CircleCI

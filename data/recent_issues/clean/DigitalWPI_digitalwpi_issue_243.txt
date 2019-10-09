@@ -1,0 +1,2 @@
+Remove "and"
+In the index view, remove "and" from keyword and contributor list

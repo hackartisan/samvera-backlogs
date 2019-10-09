@@ -1,0 +1,2 @@
+Update bcrypt gem
+On Fedora 28 (the Linux distro) the bcrypt gem is broken until the fix introduced in 3.1.12. This changes the Gemfile so that we have at least that version of bcrypt. This came up because  uses Fedora on desktops. See codahale/bcrypt-ruby#170

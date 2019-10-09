@@ -1,0 +1,3 @@
+Check Redis database size
+Are there flags that could allow for more memory.  Why is it using lots of swap space.
+ 

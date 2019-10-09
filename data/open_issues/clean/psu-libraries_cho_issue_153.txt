@@ -1,0 +1,4 @@
+OCRing
+As a repository manager, I would like all textual content to automatically or on-demand be run through OCR, so that full-text content may be indexed and searched and made available ad plain-text for download. File types to be OCR/indexed include: TIFF, PDF, Word, Open Office, HTML, XML Ann P. [NT -- extraction of existing machine readable text is already in CHO, this ticket is just OCR.]
+We may not want something to receive OCR for reasons of information security. (Indexing may raise the risk-level by making it easier to find.) Should this be a flag on a per-work basis? Collection-level flag?
+Test using ABBYY Recognition Server and Tesseract

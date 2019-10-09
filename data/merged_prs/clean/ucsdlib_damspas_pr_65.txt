@@ -1,0 +1,2 @@
+Adding feature tests for IP-based authentication (DHH-617)
+See 

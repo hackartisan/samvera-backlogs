@@ -1,0 +1,2 @@
+fix click on child work to launch viewer
+a  spotted the bug from code alone at: #687 (comment) go you.

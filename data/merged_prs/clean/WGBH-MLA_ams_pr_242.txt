@@ -1,0 +1,2 @@
+382 rights link
+Changes rights link to multi-select and adds controlled RightsLink controlled vocab.

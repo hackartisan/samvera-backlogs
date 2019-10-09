@@ -1,0 +1,3 @@
+500 error for seaside content in curate using show route
+Visit  I get a 500 error. I expected a 404 error.
+Same for the RBSC stuff, e.g.   Also applies to the show view. 

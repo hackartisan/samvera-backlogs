@@ -1,0 +1,1 @@
+prevent viewer alerts from stacking on next/prev

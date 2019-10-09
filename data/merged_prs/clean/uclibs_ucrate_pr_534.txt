@@ -1,0 +1,2 @@
+Remove joined date from user profile page
+Fixes #526 Removes the joined date from the user profile page, and adds a test to check

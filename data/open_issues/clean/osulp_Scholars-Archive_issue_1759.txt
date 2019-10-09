@@ -1,0 +1,2 @@
+Enforce check of deprecated ONS terms
+Descriptive summary I cleaned up some old and wrong MAIS degree fields (example).  deprecated them but they are still showing up in the drop downs. Deprecated terms in ONS should not show up as options. Expected behavior When a term is deprecated in ONS, the system should recognize it and remove it from the list of options so it cannot be used. Actual behavior Deprecated terms show up in drop down.

@@ -1,0 +1,2 @@
+Assume a representative thumbnail if there isn't one
+Description If the representative file set lacks a thumbnail, or otherwise doesn't have a representative file set at all, choose the first file set that has a thumbnail and use that for display purposes. Connected to #827

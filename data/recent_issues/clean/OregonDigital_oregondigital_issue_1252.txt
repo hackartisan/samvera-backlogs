@@ -1,0 +1,2 @@
+change default_url_host to https
+currently in app.yml in production it's set to  change to https it's not really being used except for in the oembed code, but it's causing browsers to block the oembed content.

@@ -1,0 +1,2 @@
+Downloading and updating file content
+Fixes #21 Todo:   Test coverage  Use #find instead of #select  Generalize to asset instead of file_set in downloads controller

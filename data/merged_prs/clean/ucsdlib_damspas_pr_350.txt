@@ -1,0 +1,2 @@
+Fixes #349 - Upgrade the nokogiri gem to fix the vulnerability issue.
+Fixes #349 Upgrade the nokogiri gem to 1.8.1 to fix the vulnerability issue. /developers - please review

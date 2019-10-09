@@ -1,0 +1,2 @@
+migrate identifier to local_id
+Migrates use of identifier to local_id in picking url for documents. Also accommodates case where local_id is not present.

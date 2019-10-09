@@ -1,0 +1,2 @@
+HELIO-2874 Take generic Work methods out of the MonographPresenter
+and add them to a CommonWorkPresenter mixin

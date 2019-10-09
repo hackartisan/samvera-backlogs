@@ -1,0 +1,2 @@
+Add a styled label for required fields in CSV docs
+Connected to #511

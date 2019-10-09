@@ -1,0 +1,2 @@
+Fixes #347 - Carousel refinement (pt. 2)
+Carousel refinement in part with repo of oregon-digital-set-content Fixes #347

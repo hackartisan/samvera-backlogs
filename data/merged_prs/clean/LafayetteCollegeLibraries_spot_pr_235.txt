@@ -1,0 +1,2 @@
+use the fits servlet (if available) for characterization
+work in progress to use the FITS Servlet for characterization, rather than booting up FITS for each characterization job.   needs specs

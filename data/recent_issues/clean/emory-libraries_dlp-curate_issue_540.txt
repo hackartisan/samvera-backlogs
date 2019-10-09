@@ -1,0 +1,2 @@
+Request full Alma record publishing for Yellowbacks and Yearbooks
+Submit a ticket to Core Systems to update the small sample set to include all the records for Yellowbacks  Copy records to cot-data-transfer repo

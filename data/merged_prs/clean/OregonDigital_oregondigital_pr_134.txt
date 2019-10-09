@@ -1,0 +1,2 @@
+Make vocabulary typeahead exist on new elements
+Fixes issue where typeahead would be created properly for elements that were on the form when it was loaded, but not for elements created via "Add subject" and similar dynamic field buttons.

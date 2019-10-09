@@ -1,0 +1,6 @@
+Create user activity log and display recent activities in dashboard home
+Things to track when a user performs an action in the dashboard: Date/Time Publisher Affiliation of the user or content Book or Asset title/ID Action (Modify, Add, Delete) User We need to come up with examples of how these fields are formed into some sort of message. For example:  jmcglone Added Book Title to University Press  Display the most recent (10 ) activities on the dashboard homepage with a link to the full log.
+Review Hyrax first
+DBD has an issue similar to this,  Depending on scheduling we should try to develop a solution with them.
+Looks like the update to Hyrax definitely includes at least part of what we want. This is from heliotrope with Hyrax 1.0.1.  ![user-activity-fulcurm-hyrax](  
+In hyrax2 there's still the Activity Log for *normal user* in their dashboard, but if you're an admin you won't see one. We'll need to decide what we want to show to platform_admin, press_admins and press_editor users...  Hyrax 2 Admin User: ![hyrax2-admin-user](  Hyrax 2 Normal User: ![hyrax2-normal-user](

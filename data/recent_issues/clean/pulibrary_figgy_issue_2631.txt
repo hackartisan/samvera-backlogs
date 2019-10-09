@@ -1,0 +1,2 @@
+Permanent URLs for collection and item manifests
+Collection manifests should use the URLs based on ARKs, e.g.,  instead of the URLs that use Figgy IDs There should be a lookup function for collection manifests, either by assigning them ARKs or something similar

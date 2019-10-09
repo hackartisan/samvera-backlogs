@@ -1,0 +1,2 @@
+Feature: Persistent Identifiers and URLs
+MVP components:  Generation of persistent ID in [scheme(s) TBD] Cross-application resolution of identifiers Tombstone support for deleted, decommissioned objects

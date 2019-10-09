@@ -1,0 +1,2 @@
+Playlist authorized link should point to viewer
+This worked before, but it got reverted by 5962e6e#diff-127a850b7d7b20173ad3fba88f8a25e3R117

@@ -1,0 +1,2 @@
+Addresses HELIO-2662 Filter by Created/Action for the share_link_logs
+Original issue is pair of typos, then this exposed an issue with LIKE queries against DATETIME values.

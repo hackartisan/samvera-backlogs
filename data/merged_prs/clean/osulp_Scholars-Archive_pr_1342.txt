@@ -1,0 +1,2 @@
+Changes additional fields button
+Fixes #670

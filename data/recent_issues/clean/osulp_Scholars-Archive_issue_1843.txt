@@ -1,0 +1,2 @@
+Bulk Edits: Extension docs
+Cleanup in multiple fields, additions and replacements. All changes in one tab:   25 Apr 2019

@@ -1,0 +1,2 @@
+add genreForms and dedicatee
+fixes #1066 fixes #1065 add lcgenreforms.rb add changes to oai add comma remove hasVersion in both places

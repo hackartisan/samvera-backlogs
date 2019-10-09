@@ -1,0 +1,2 @@
+Show collection thumbnails in search results
+STORY As a collection owner, want the same collection image to show up in search results that shows up in the collection dashboard, so that users have a visual proxy for the collection. ACCEPTANCE When a collection has a thumbnail set   The collection't Thumbnail is displayed in search results  Dashboard Current Behavior   Search Results ✓&locale=en&search_field=all_fields&q=Los+Angeles+Daily+News+Negatives  Child of #385

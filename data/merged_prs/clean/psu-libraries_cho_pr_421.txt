@@ -1,0 +1,2 @@
+Add simple test coverage for rails application classes
+Description Why was this necessary? Coveralls had some 0% tests for some of our Rails application classes. Changes Are there any major changes in this PR that will change the release process? No Checklist   i18n enabled  adequate test coverage  accessible interface

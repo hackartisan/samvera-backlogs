@@ -1,0 +1,2 @@
+reindex and then delete older records
+Records that existed from before the reindex and weren't touched. Ie, records that were deleted in the original store, but still had existed in the index somehow.  DELETE_PREVIOUS=true bundle exec rake chf:reindex   note new option to chf:reindex task, can now delete deleted/not-present records, based on them being records that weren't touched in the reindex.

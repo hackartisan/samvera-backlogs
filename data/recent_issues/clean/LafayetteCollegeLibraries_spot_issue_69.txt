@@ -1,0 +1,2 @@
+add ability to set collection with import tool
+most/all of our initial imported items will be going into a collection and it would be nice to be able to set that during the import (rather than clicking through the ui for potentially hundreds of items)

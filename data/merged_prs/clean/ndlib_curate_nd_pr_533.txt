@@ -1,0 +1,2 @@
+571 issue on GitHub
+Claiming issue 571 @5dced68855d6504d7b4e8ea3cb16970e61178830 relates to #571 $ ./script/start-issue 571 [skip ci] Add "request access" button for etd files @b9717f54cf778570a9d2b301b66e7dbbb1d03964 Text varies according to private, embargo, or institution access rights. This required a new method in access_renderer to take into account embargo date combined with viewable by institution. Closing issue 571 @7dc2d873d662a2753bf56e57994785928f6d9b00 Closes #571 $ ./script/close-issue 571

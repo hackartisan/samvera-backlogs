@@ -1,0 +1,2 @@
+Nested numismatic references
+Coin and NumismaticIssue references are difficult to collapse into a single string. We will probably need to create a References model and nest that in the coin and issue forms. Perhaps with data tables? Child of #2025

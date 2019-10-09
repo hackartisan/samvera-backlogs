@@ -1,0 +1,2 @@
+updated browse button text
+fixes #99

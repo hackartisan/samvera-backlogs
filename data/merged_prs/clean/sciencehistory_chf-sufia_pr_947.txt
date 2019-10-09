@@ -1,0 +1,2 @@
+new portraits and people image
+closes #946

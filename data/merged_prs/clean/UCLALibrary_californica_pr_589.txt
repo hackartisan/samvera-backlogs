@@ -1,0 +1,2 @@
+Map Rights.servicesContact to services_contact
+Collection objects have a metadata value for Rights.servicesContact that will now map to a services_contact field This is now recognized by the CSV importer This field can now be edited via the collection edit form This field now appears with the correct label on Collection view pages

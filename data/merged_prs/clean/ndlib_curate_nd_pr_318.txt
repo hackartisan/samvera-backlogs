@@ -1,0 +1,2 @@
+Replace old citation class to use citeproc gem
+In process changed how old class was collection metadata...it was putting the advisor and contributors as the author?? I'm sure this will require more attention in the future, in particular with the metadata passed to the citeproc gem. [Don't merge yet]

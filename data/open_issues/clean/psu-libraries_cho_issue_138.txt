@@ -1,0 +1,5 @@
+Responsive User Interface
+As a researcher, I would like to browse and search for digitized objects using any device, So that I can utilize digital collections when not in front of a desktop computer. Ben G.
+Related: #165
+We may want to create a list of device categories so that we perform various tests of sample devices from those categories. The behavior of the interface should degrade gracefully. Admin interfaces or components like universal viewer may need to be tested on a per-page basis as they are likely the sticker issues.
+Check for complete responsiveness as the we near final MVP release.

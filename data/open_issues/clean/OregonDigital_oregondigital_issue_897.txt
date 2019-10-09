@@ -1,0 +1,2 @@
+Add Geographic controlled vocabulary class to Place of Publication, Place of Production
+Place of Publication and Place of Production don't have the Controlled Vocabulary set so when URIs are used they aren't showing up in item records. Add it to the models and then reindex specific collections. Known collections to use these: Artist's Books at UO, incoming Middle East Waters at OSU

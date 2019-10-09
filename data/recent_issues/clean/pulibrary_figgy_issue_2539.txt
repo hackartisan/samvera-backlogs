@@ -1,0 +1,2 @@
+If a derivative fails to generate, it should throw an error.
+Right now it just continued silently, which made the job not retry.

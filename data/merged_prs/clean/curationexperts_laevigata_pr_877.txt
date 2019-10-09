@@ -1,0 +1,2 @@
+Send ProQuest exported ETD packages
+Export the package according to ProQuest specifications Transmit package to ProQuest SFTP server Cleanup exported package once it's no longer needed Send email notifications to ProQuest and application owners telling them what files we sent Send individual notifications to each ETD depositor informing them their work has been sent to ProQuest Schedule nightly sending of notifications Make ProQuest email address configurable Make location of Registrar data (needed for ProQuest address info) configurable  Fixes #290

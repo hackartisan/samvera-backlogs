@@ -1,0 +1,2 @@
+Remove old features from All Works tab
+Descriptive summary The old show number of items drop down and search boxes are still visible on the All Works tab and need to be removed:

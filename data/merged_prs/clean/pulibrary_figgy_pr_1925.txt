@@ -1,0 +1,2 @@
+Introduces a work-around for Faraday HTTP proxy warnings using ENV['NO_PROXY']
+Please see 

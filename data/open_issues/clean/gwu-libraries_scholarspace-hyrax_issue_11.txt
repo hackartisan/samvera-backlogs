@@ -1,0 +1,5 @@
+Add back Shibboleth integration
+
+Consider 
+Consider doing this first for POE repo, then applying here.
+Ref  

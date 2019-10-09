@@ -1,0 +1,2 @@
+[WIP] added task to set conference name based on known dspace collection
+fixes #1096

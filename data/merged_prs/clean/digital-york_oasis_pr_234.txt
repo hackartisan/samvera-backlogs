@@ -1,0 +1,2 @@
+Issue 222 make metadata fields clickable
+Make all authority fields clickable in search result page and details page, the fields with free texts are excluded.

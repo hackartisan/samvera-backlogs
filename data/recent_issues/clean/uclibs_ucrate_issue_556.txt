@@ -1,0 +1,2 @@
+Ignore manifest csv files
+Descriptive summary When we run the manifest it generates some .csv files in the vendor/ directory that show up as untracked files to git.  So we should add vendor/*.csv to .gitignore

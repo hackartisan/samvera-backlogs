@@ -1,0 +1,2 @@
+VRR links in production are not working
+Descriptive summary Links from VRR emails are resulting in "Not authorized" messages. This is not replicated on staging, indicating a difference between the staging and production configuration. Rationale Broken links are useless, almost as useless as a staging environment that doesn't mirror a production environment. Expected behavior VRR email links correctly authorize the user Actual behavior VRR email links result in not authorized message

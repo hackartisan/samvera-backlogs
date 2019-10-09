@@ -1,0 +1,4 @@
+Configure, setup, install, and code for OAI endpoint
+Descriptive summary OD provides its works and metadata to other groups that harvest the data using an OAI-PMH Harvester. Current OD OAI endpoint is:  Example result for a set/collection is:  OD Wiki page, more details and known harvesters:   Expected behavior  OAI endpoint works oai_dc and oai_qdc formats are supported OAI sets are configured, likely corresponding to AdminSets  Related work Link to related tickets or prior related work here.
+Related Work in Scholars Archive: 
+I revised the Descriptive summary and Expected behavior sections.

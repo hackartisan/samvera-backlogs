@@ -1,0 +1,2 @@
+Resolves firefox referencerror
+Resolves reference error for Firefox. closes #2073

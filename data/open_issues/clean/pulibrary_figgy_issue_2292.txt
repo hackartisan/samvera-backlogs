@@ -1,0 +1,5 @@
+Can't remove imported metadata
+If I create a ScannedResource with imported metadata, I can't remove it.  I can go to the form, remove the source_metadata_identifier, and enter a title, but the title will not be saved and the title from the old imported metadata will be used.
+What's the use case?
+The main place I've seen this is Cicognara volumes that were ingested with a BibID, but then we move them to be children of a multi-volume work.  The main reason to move the existing object instead of reingesting is if someone's spent time creating a structure for the object.
+Makes sense. Should be easy

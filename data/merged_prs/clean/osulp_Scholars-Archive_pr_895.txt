@@ -1,0 +1,1 @@
+add collection icon to replace default collection icon

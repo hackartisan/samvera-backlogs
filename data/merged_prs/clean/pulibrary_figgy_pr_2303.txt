@@ -1,0 +1,2 @@
+Use embedded title for file label and FileSet title on media files
+fixes #2230

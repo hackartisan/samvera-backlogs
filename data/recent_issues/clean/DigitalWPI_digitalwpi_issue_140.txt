@@ -1,0 +1,2 @@
+Solr backup
+learn how to back up and restore solr, configure to put in nfs

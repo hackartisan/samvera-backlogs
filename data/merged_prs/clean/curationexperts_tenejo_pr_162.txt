@@ -1,0 +1,2 @@
+Location import
+The location field should accept urls of the form  As of the latest master branch of Darlingtonia, these are now transformed into what Hyrax expects to see, where they will be transformed into Hyrax::ControlledVocabularies::Location objects. Connected to #135

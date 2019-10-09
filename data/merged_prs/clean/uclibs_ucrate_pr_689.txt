@@ -1,0 +1,2 @@
+Refactor shibboleth tests and callbacks controller.
+Fixes #688 ; Increases effectiveness of our tests for the callback controller, refactors callbacks controller, reduces nested control statements.

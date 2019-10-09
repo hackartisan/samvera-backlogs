@@ -1,0 +1,2 @@
+visibility info badge error
+state is "needs qa" but badge says it will sync

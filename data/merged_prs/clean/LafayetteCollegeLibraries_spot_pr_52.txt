@@ -1,0 +1,2 @@
+Deployable to spot.curationexperts.com
+This capistrano setup follows the guide at  It makes this application deployable to a server that has been set up via ansible-samvera:   * Set solr settings via dotenv * Set fedora settings via dotenv * Add host to database setup * Cap deploy for DCE sandbox * Add .env.production to cap deploy * Remove the copy dotenv file step from deploy (ansible-samvera put this in place already)

@@ -1,0 +1,2 @@
+Only import Box file picker CSS if visible
+This commit changes the way the Box file picker CSS is loaded. If it isn't on the screen the css won't be loaded. This is needed because the Box css overrides a lot of our custom Bootstrap styles. Related to #1455

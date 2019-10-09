@@ -1,0 +1,2 @@
+Index imported metadata values as plain strings without brackets, class names, etc.
+Fixes #3268

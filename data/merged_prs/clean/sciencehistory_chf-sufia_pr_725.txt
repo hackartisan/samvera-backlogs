@@ -1,0 +1,1 @@
+Add comment about serve_static_files to prod config

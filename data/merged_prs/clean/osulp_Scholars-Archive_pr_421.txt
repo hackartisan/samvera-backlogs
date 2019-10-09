@@ -1,0 +1,2 @@
+Feature/geo nested fields
+fixes #372 fixes #373 fixes #407

@@ -1,0 +1,2 @@
+Transfer Kobe collection files to Cor staging
+Kobe file paths:  Estimated file size: 25 GB Estimated file count: 195 (tifs)

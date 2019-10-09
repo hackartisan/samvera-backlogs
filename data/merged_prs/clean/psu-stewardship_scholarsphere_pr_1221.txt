@@ -1,0 +1,2 @@
+Adding indexing of other aliases to current alias
+refs #992 I am not entirely certain the performance impact re indexing all aliases on an Agent when one alias changes has.  Not sure if we should or should not include this with the current release... This does allow for Carolyn Cole linked to Carolyn Munson as a alias Work1 - Display name Carolyn Cole Work2 - Display name Carolyn Munson Search for Cole returns work1 & work2 Search for Munson returns work2 & work1 # this is the part this PR is fixing

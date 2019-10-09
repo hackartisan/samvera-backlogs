@@ -1,0 +1,2 @@
+Page Titles for Works and File Sets and File Set Titles in Work Show
+Removes the page_title method from the file set presenter and updates the show page for the file set. Removes the page_title method from the work show presenter and adds the page title to the CC show page.

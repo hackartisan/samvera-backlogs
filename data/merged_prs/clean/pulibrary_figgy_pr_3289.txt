@@ -1,0 +1,2 @@
+Add migration to fix PreservationObjects with no FileMetadata IDs
+This generates IDs for those PreservationObjects which don't have them in their FileMetadata nodes (a result of a bug which has since been fixed), and also deletes any events which try to associate with child_ids that don't exist. Edit: A fair warning that since most of our events are from the pilot, a vast majority of our events are going to get deleted (all but 553 of them.) However, there's no reasonable way to determine which binary_node an Event was meant for, so it can't really be helped.

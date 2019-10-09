@@ -1,0 +1,2 @@
+Removed the codes for the RDF edit form, changed the Edit button to link to damsmanager. DM-112
+Remove the the RDF edit form implementation and update the Edit button in the object page to point to damsmanager. Please update private-config for the proxy URL parameter for the edit link in local environment. 

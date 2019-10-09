@@ -1,0 +1,2 @@
+Management: handle sass gem deprecation
+ISSUE The sass gem currently used by the application will go end-of-life on 26 March 2019. DETAILS A thorough upgrade guide for upgrading to the sash-rails gem can be found here;  ACCEPTANCE   CALIFORNICA no longer depends on the sass gem (i.e. it no longer show up in Gemfile.lock)

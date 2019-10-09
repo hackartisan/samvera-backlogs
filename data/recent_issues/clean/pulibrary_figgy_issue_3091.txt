@@ -1,0 +1,2 @@
+Imported provenance in scanned map causes errors
+A scanned map with an imported provenance causes the related document to have incorrect slugs in Pulmap:   We use Provenance in Figgy to store the base of Pulmap of slug. The record above should be indexed as .../princeton-mp48sg69x. There is a conflict with the property name. We should probably create a new property for this information. held_by maybe?

@@ -1,0 +1,1 @@
+Switching log level to error for performance.

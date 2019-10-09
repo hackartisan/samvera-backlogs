@@ -1,0 +1,2 @@
+downcase ISBN formats and creator/contributor roles
+HELIO-2403

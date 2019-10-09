@@ -1,0 +1,2 @@
+Upgrade to Valkyrie 2.0.0
+Confirmed this is working on Staging.

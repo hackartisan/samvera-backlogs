@@ -1,0 +1,2 @@
+Index structural metadata
+We should index structural metadata so that items can be retrieved by searching for the structure labels.

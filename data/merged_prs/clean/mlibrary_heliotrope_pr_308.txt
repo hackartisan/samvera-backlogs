@@ -1,0 +1,2 @@
+Modify Asset UI to look like Elderberry
+Closes #251 There are still many TODOs stubbed out in the code -- find them in the comments. Of particular interest -- this PR breaks out _attribute_rows into specific partials related to their respective tab (info, permissions, stats, technical info), moves Leaflet / media to its own partial, and makes the Leaflet viewer responsive.

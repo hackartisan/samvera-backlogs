@@ -1,0 +1,2 @@
+Log when a virus is detected
+When a virus is detected we get a log entry that   Displays the file name  Displayed the depositer's ID

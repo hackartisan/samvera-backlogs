@@ -1,0 +1,2 @@
+clean up restricted vocab metadata
+Resolves #465

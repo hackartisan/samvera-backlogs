@@ -1,0 +1,2 @@
+Add route to pass ids of objects to be indexed
+The route accepts a JSON array of object identifiers. It will add background jobs to do the indexing. The route is behind a new constraint which requires an API key. There is a config file for API keys, and it is added to the deploy. (hence future deploys may break until the file is added to the secrets repos). Addresses DLTP-117 Note the changes to protect_from_forgery.

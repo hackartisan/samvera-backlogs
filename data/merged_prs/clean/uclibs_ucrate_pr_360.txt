@@ -1,0 +1,2 @@
+Add help to top of workform
+Fixes #289 Add help text to top of work-form for all worktypes. Changes proposed in this pull request:  Add view partial override  app/views/hyrax/base/_form_metadata.html.erb Add locales for help text and links Add spec

@@ -1,0 +1,2 @@
+Specify test shoulder in development/test ezid.yml
+Simple change: just changed the hash key to the official EZID test shoulder from 'shoulder' to 'test_shoulder'. Matches 'test_user' and 'test_password'.

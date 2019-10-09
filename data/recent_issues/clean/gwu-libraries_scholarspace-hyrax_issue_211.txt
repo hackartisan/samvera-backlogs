@@ -1,0 +1,2 @@
+Migrate bibliographic citation values to new Source field
+Ref. #198 Ref. #194

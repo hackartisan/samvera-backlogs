@@ -1,0 +1,2 @@
+The new solr IP address for staging.
+For the Ubuntu 18.04 LTS upgrade.

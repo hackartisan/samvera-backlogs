@@ -1,0 +1,2 @@
+Validate all our configuration files prior to deploying, ref #644
+ here's a suggestion avoid future problems with our configuration files on the servers. This will check for the presence of keys in our application.yml on the server during the Capistrano deploy process and if the keys don't matchup, the deploy aborts. Currently, it's only checking the one yaml file, but it could be expanded to check others. The required keys are defined in lib/scholarsphere/config.rb which might not be the best place.

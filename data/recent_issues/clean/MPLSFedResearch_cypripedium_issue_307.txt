@@ -1,0 +1,2 @@
+Run on postgres in dev and test
+The Rails community recommends that a project NOT run on postgres in development but sqlite in dev and test, and we have seen this cause problems on other projects.   Cypripedium should run on postgres in dev and test, to match the database we use in production  The setup for the local postgres database should be well documented in the README for ease of developer setup  The database.yml file should use dotenv conventions  Child of #298

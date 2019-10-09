@@ -1,0 +1,2 @@
+Use case: recordings with no records in voyager
+do we need to do anything special to accommodate these?

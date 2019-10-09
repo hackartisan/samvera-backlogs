@@ -1,0 +1,2 @@
+Allow Galter Website users to upload files directly from the website
+Flesh-out details later.

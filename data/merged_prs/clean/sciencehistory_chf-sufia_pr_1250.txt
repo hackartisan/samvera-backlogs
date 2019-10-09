@@ -1,0 +1,2 @@
+Better generic work export test
+Workaround for an ActiveFedora (and possibly FactoryGirl) bug . Just reloading the work to be exported makes it go away. Since that's not what we're testing here, not worth investigating further. Cleans up the test; better comments, slightly terser, etc. Removes a bunch of parentheses in no-argument method definitions in the exporter itself.

@@ -1,0 +1,2 @@
+adjust hero font weight for BAR
+Based on feedback during Steering demo, make the font weight of BAR's hero area heavier so it is easier to read.

@@ -1,0 +1,2 @@
+Issue 236 files disappeared issue
+Resolves #236 Two fixes:  The customized indexer tries to index oasis_licences which doesn't exist anymore. for authorities, add additional check in id_to_label method

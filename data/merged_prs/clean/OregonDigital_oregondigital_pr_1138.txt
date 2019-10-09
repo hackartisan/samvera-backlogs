@@ -1,0 +1,2 @@
+Remove Europeana rights config from system
+Remove the Europeana rights vocab, remove it from the Rights controlled vocabulary and update fixtures. Fixes #1131

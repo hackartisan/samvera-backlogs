@@ -1,0 +1,2 @@
+Fix white screen during initial form load
+This was caused by Turbolinks. This changes the initilization a little bit to make sure that it is loaded in the correct way. Related to #1353

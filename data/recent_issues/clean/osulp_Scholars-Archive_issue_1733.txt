@@ -1,0 +1,2 @@
+Collections page buttons buried at bottom
+Descriptive summary Pagination buttons for collections are half-buried at bottom of page:  Expected behavior As on regular pages:

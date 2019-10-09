@@ -1,0 +1,2 @@
+Resolves #1106, The GA cache can have more than 10,000 results
+The should fix the inaccurate GA counts once it goes into production.

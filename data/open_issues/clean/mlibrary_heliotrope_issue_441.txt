@@ -1,0 +1,3 @@
+Add aiff file support
+This originally related to #342. We were having some problems with job characterization of audio files. It turns out that .aiff is not supported by hydra-works, but we've been asking Presses to submit .aiff files. The near term fix is to ask for .wav files. But we should submit a pull request to hydra-works at some point with .aiff support. 
+Try adding it to the list of mime types and it might work!

@@ -1,0 +1,1 @@
+Consolidate solr queries for members, reduces load times for large works

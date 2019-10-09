@@ -1,0 +1,2 @@
+Adding support for suppressDiscovery restriction
+Fixes 

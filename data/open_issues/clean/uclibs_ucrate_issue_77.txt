@@ -1,0 +1,2 @@
+Add faceting to collections show page
+Descriptive summary When a user is viewing a collection show page, the user should be able to use facets to limit the items displayed in the collection.  The user should be able to facet by type of work, creator, date, and subject. Trello: 

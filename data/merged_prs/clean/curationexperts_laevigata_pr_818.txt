@@ -1,0 +1,2 @@
+Fix ActiveRecord::RecordNotUnique errors on system user creation
+Fixes 

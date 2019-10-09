@@ -1,0 +1,2 @@
+Feature: Data and Security Compliance
+MVP components:  Compliance with Emory LITS Architecture and Security requirements  Long term, we want to align with data policies which are still not yet established.

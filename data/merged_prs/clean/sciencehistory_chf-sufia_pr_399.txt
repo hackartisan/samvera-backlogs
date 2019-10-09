@@ -1,0 +1,2 @@
+Change Genre term "Records (Documents)" to "Documents"
+Fixes #201

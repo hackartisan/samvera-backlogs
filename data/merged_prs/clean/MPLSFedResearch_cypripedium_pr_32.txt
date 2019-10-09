@@ -1,0 +1,2 @@
+Specify ruby version in Gemfile
+Fixes #26

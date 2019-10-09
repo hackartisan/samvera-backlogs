@@ -1,0 +1,2 @@
+Fix LDP conflict for tests
+Descriptive summary We know that the tests have an issue with LDP::Conflict. We need to figure out why this is happening. It is assumed that the issue comes from the way the database gets cleaned after every example. We can either, try to mint before, or after the example runs so that way we know that the minter is in a good state. Or we can change the way the database cleans. ( instead of truncation). Explore solutions.

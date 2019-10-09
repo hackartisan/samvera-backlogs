@@ -1,0 +1,2 @@
+mp4 video derivatives from mov sources don't play
+MP4 derivatives created from mov sources do not play:  Quicktime moves result in errors playing. When downloading and playing locally, there's just a green or pixelated screen. The ffmpeg command for converting them may need some adjustment: ffmpeg -i movie.mov  -s 320x240 -vcodec mpeg4 -acodec aac -strict -2 -g 30 -b:v 345k -ac 2 -ab 96k -ar 44100 test.mp4

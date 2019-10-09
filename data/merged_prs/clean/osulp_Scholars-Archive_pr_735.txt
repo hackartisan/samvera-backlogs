@@ -1,0 +1,2 @@
+Feature/auto admin set
+Fixes #662

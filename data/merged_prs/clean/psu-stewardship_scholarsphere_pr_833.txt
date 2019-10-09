@@ -1,0 +1,2 @@
+Update audit_repository script, ref #783
+The previous script used a class that no longer existed. We've updated the script to use the new Sufia service which reports errors in the same way as previous audits. Failures are written to the ChecksumAuditLog files are only re-checked if the CurationConcerns.config.max_days_between_audits has passed since the last audit.

@@ -1,0 +1,2 @@
+adds application code to docker image, ignores local artifacts
+adds the missing application code to the docker image for deployment and ignores local overrides and artifacts

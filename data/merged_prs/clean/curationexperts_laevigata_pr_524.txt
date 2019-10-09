@@ -1,0 +1,2 @@
+Do not create an embargo unless it's requested
+Fixes #520

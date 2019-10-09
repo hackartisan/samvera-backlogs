@@ -1,0 +1,2 @@
+[newspaper-mapper] prevent skipping dc:dates when less than one
+fixes a bug where the newspaper mapper wasn't providing date_issued values when only one existed (introduced in 62f95c6 when we were trying to separate date-uploaded from date-issued).

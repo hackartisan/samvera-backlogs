@@ -1,0 +1,2 @@
+Move fixity cron back to app box
+The rails postgres wasn't configured to allow connections outside of localhost. We probably should change that; definitely will need to if we want to move fixity cron onto jobs box. Changing that configuration will require scheduled downtime for the staff side (will there be an impact for non-logged-in users?) In the meantime move this cron back to the app box.

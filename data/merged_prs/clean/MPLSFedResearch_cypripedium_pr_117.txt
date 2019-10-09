@@ -1,0 +1,2 @@
+Importer/add custom attributes
+I'm keeping track of these attributes over here: #115 This should import everything in the XML some date attributes and the DOI attribute, which I need to ask some question about. I'll do those in a separate PR.

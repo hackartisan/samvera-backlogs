@@ -1,0 +1,2 @@
+Show record count on preview screen
+Acceptance Criteria   On the page to start a new CSV import, when I fill in the form and click 'Preview Import', the preview screen should display the number of records that are in the CSV file.

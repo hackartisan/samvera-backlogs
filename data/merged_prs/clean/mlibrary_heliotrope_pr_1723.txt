@@ -1,0 +1,2 @@
+add Gabii blog post to fulcrum static pages
+Resolves #1720

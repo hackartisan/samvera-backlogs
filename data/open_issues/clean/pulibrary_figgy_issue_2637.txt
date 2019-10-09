@@ -1,0 +1,3 @@
+[Figgy/production] MiniMagick::Error: cache resources exhausted
+Backtrace line 165 of [PROJECT_ROOT]/app/derivative_services/jp2_derivative_service.rb: cleaned_file line 156 of [PROJECT_ROOT]/app/derivative_services/jp2_derivative_service.rb: clean_filename line 88 of [PROJECT_ROOT]/app/derivative_services/jp2_derivative_service.rb: rescue in run_tiff_derivatives  View full backtrace and more info at honeybadger.io
+similar error in 

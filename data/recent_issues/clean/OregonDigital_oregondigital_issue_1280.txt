@@ -1,0 +1,2 @@
+Cleanup for institutions, sets, and primary sets
+Some items in OD1 did not have URIs for set, primary set, and/or institution, which is required information for admin set functionality in OD2. Please remediate these items: 

@@ -1,0 +1,2 @@
+Enable wildcards for searching
+Currently wildcards are not supported in OD1. From the advanced search page: "Truncation and wildcards are not supported - word-stemming is done automatically." This would be helpful to search for roots of identifiers, like uaref3_b0018_f01* would show all items from box 18 folder 1 in the search results. Right now, searching by identifier only works for exact item identifiers.  suggested this fix: projectblacklight/blacklight_advanced_search#11  

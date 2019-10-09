@@ -1,0 +1,2 @@
+Soviet Posters Ephemera: multiple creators
+Thomas Keenan has asked for the ability to have multiple creators for the Soviet Posters ephemera project:  Some of our posters have multiple artists, and we would like to list the names of each in both Cyrillic and Roman script.  depends on #1139

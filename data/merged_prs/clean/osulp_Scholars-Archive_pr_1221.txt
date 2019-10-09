@@ -1,0 +1,2 @@
+Change stats dates to reflect migration, remove alter of legacy statistics
+fix #1169 Use stats model to get date_available and use them for start date if exists

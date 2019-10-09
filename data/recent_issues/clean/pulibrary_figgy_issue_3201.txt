@@ -1,0 +1,2 @@
+File manager upload should filter out hidden files
+In one case there was a hidden file for each tiff (about 300). These all ingested and were listed first in the viewer. So when the viewer loaded on the first page, it pops up with an error. Removing each file one at a time in the UI would be prohibitively time-consuming.

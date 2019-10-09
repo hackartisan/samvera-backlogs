@@ -1,0 +1,2 @@
+Feature/related url with label
+fixes #759  Added NestedRelatedItems with properties label (DC.title) and related_url (RFDS.seeAlso) for the backend. Used DC.relation as the predicate for the parent NestedRelatedItems, but it can be changed if needed. For the front-end, added MultiValueLabelUrlInput (inherits from MultiValueInput in hydra editor  MultiValueLabelUrlInput was extended from MultiValueInput to render multiple inputs (one for each property in NestedRelatedItems) and support html classes, names and ids used in the form.

@@ -1,0 +1,2 @@
+Cho::Metrics::Work todos
+The metric class recreates a file each time it is used, maybe it should just reuse the one?  This class and and work::File both define extractible.  Should it be put in a place where both items could utilize it?

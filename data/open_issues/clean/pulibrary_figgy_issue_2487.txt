@@ -1,0 +1,2 @@
+document_adder.vue needs tests
+0e1c8d7 has some initial stabs at it.

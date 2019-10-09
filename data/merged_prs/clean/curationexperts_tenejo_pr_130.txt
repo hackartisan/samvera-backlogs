@@ -1,0 +1,2 @@
+Install chromedriver-helper
+I could not get the tests running locally without having this installed. I also found this stackoverflow thread helpful: 

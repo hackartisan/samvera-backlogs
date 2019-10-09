@@ -1,0 +1,2 @@
+Use manifests from the manifest-store service
+Feature is wrapped in a Flipflop toggle. If the flag is disabled, or if the 'iiif_manifest_url' field is empty, then defaults to serving a manifest directly from californica. The flag is disabled by default, because we need to wait for CORS headers to be set on the service's end before the feature will work.

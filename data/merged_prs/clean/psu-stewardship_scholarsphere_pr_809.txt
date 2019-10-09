@@ -1,0 +1,2 @@
+Rhel7 cap2
+Moving develop to the new hardware by merging in the cap changes

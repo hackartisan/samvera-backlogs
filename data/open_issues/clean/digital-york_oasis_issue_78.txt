@@ -1,0 +1,5 @@
+Upload form: It is not possible to "deselect" a term in a multiple choice field
+If a user selects a term in a multiple choice field (e.g. Proficiency of learners), it is not possible for the user to then deselect the field - i.e. not select any field. For the option fields (under "Additional fields" the user must be able to decide not to select any field. For example: I selected "Other" under "Proficiency of learners" and now I cannot deselect it.
+  What we can do is: * For mandatory fields: this bug doesn't apply as user needs to select at least an item before they can submit/save. * For optional fields, we can have an empty field as shown below. Would it be ok? ![image]( 
+ I agree, leave an empty field at the top of the list, for optional fields.
+This is related to #81, which has been fixed. So changing some of the fields from dropdown list to checkbox could avoid this problem.

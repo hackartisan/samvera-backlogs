@@ -1,0 +1,2 @@
+Adding configuration for contact email
+Description Integrates our contact form with ServiceNow so that incidents are created when requests are made through the form. Fixes #1572 Changes  adds a contact email configuration option so that we can specify which email to send requests for help. updates the contact form to only sent confirmation emails if the user is outside Penn State. sets the "no reply" to the be the default from email for all mailers

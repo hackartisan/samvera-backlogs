@@ -1,0 +1,2 @@
+Octet-Stream content type in header
+This is incompatible with IE11+ and Microsoft Edge.

@@ -1,0 +1,2 @@
+Move 'T Series' and 'Grants Resources' to 'NUCATS Grants Repository'
+collection. closes #641

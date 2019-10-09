@@ -1,0 +1,2 @@
+Document acceptable data types for Curate application
+In order to fully address the Security review for Curate, we need formal documentation about what types of data the applications will manage.   Statement of data types/classification for the Curate repository to be confirmed by LTDS leadership

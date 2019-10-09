@@ -1,0 +1,2 @@
+Refactoring file transactions
+Description This removes transactions under Transaction::File because they are not used anymore because we have files contained in file sets. The file validation step is also removed, which makes file-based operations a little easier to understand. Now, any change set that does not support files simply passes on to the next step in the workflow. Connected to #553

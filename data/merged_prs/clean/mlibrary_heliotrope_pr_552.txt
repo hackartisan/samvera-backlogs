@@ -1,0 +1,2 @@
+Add press release/blog post and posner case study to home page
+Closes #517 and posts press release to blog

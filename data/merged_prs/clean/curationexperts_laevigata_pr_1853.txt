@@ -1,0 +1,2 @@
+Bundle update --conservative
+Update gems for bug fixes but exclude breaking changes. Update some style to match latest rubocop requirements.

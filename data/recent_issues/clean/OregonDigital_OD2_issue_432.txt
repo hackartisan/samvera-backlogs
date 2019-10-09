@@ -1,0 +1,2 @@
+Refactor duplicated code between authorities and CVs
+Descriptive summary UBIO and ITIS both introduced duplicated code. This code needs to be extracted out into a service of some sort.

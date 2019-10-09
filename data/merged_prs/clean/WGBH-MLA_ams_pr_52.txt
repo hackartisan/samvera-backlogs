@@ -1,0 +1,1 @@
+DigitalInstantiation  removing field from presenter and model

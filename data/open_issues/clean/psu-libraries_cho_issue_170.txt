@@ -1,0 +1,2 @@
+Files Report
+As a repository manager, I would like to know the number of files in total, by deposit date, broken down by access level, So that I can include these numbers in other reports about CHO.

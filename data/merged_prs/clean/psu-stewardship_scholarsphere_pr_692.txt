@@ -1,0 +1,2 @@
+Addresses Accessibility for Label and Fieldset on Viz Widget
+Puts the visibility legend in locale and moves radio button out of label element. Adds some aria attributes to the viz widget and removes html and classes that aren't needed in the embargo and lease options.

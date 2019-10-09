@@ -1,0 +1,2 @@
+Contact form CAPTCHA not working for non-logged in users
+Descriptive summary The contact form on scholar.uc.edu requires the user to fill out a CAPTCHA to send a message IF THE USER IS NOT LOGGED IN.  The CAPTCHA appears to work, but when you try to send the message it returns with the flash message Sorry, this message was not sent successfully. You must complete the Captcha to confirm the form. The form submits fine for logged-in users. It's possible that the Google CAPTCHA credentials we are using on scholar.uc.edu are wrong.

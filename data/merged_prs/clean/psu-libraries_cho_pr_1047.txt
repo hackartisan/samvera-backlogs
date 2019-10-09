@@ -1,0 +1,2 @@
+Making rubocop changes
+Description Updates the rubocop config and todo to address lines longer than 120 characters and provides a little refactoring. Changes  shorten lines longer than 120 characters fix possible bug with ldap groups that should be updated if more than 24 hours has passed

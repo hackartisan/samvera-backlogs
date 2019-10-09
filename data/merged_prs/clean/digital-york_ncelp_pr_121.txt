@@ -1,0 +1,2 @@
+hide fields if not filled
+resolves #111

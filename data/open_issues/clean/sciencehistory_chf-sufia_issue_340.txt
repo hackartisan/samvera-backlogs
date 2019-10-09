@@ -1,0 +1,3 @@
+Create a test set
+a subset of actual objects to be used on staging; production is too big to copy at this point because any time we run a job on staging as a test it takes longer than is useful. A test set would be a cross-section of the collection as much as possible, a few hundred objects.
+a  and  need to discuss what is needed in the staging data set and expected uses.

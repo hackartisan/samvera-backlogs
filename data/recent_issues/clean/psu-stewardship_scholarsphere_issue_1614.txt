@@ -1,0 +1,2 @@
+User stats emails should not be sent on system other than prod
+Stage and QA likely have the same cron jobs as prod, which means they will send out emails on the same date as prod. We should not do this.

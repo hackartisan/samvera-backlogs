@@ -1,0 +1,1 @@
+In gallery view hide all metadata besides title. Fixes #45

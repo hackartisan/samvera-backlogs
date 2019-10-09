@@ -1,0 +1,1 @@
+Move VIPS image resize to sub-process

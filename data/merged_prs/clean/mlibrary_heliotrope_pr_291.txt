@@ -1,0 +1,2 @@
+update to CC 1.1
+Resolves #285

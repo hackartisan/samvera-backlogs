@@ -1,0 +1,4 @@
+Improve workflow communication
+Context Initial discussion around this proposal is at #262. It was discovered that default Hyrax workflow "Comment only" option will confuse the communication with a user. Proposal As discussed with  we agreed that following things should happened before Service will be trialed with a real user deposits.  Remove "Comment only" option Create dedicated How to deposit a Summary help page. This will include information about request changes communication Change default change request email footer information. It should point to the help pages with specific section about workflow communication.
+ As you pointed out the depositor and administrator receive the same email when a summary is deposited. Is there any way we can create two different notifications for depositor and admin?
+**New requirement**: Ideally, we should be able to send different messages to admin and uploader.

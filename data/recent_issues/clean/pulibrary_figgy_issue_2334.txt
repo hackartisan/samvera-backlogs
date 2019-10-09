@@ -1,0 +1,2 @@
+clarify "pulfa-like" comment
+ could you clarify the comment here?  I've never seen a pulfa id like this; in particular I've never seen one with spaces or one that looks like a date. If this is a type of pulfa id I'd be very interested in a link to the object. If it's not, can you update the comment to reflect how the dates are used in these directories? Is it possible that the ingest code is checking the directory to see if it's a pulfa id, and then (with the new behavior) not finding it and descending down the directory tree to look for more directories?

@@ -1,0 +1,2 @@
+Add metadata fields for Assets in Carillon project
+List of fields to come.

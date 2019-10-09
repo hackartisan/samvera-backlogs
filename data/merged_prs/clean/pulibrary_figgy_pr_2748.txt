@@ -1,0 +1,2 @@
+add facet fields for orangelight coin search
+Co-authored-by: Nikitas Tampakis  closes #2747

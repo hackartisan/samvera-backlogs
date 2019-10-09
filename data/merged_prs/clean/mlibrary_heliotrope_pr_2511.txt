@@ -1,0 +1,2 @@
+Tweak page shadow effect
+Use page shadow from cozy-sun-bear to be cross-platform and consistent.

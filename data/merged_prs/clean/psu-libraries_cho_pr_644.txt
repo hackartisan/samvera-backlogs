@@ -1,0 +1,2 @@
+Removing id attribute declaration
+Description The id attribute is now included in Valkyrie::Resource so we don't need to define it in our resources. This gets rid of some warnings during the test suite.

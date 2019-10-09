@@ -1,0 +1,2 @@
+Fix location facet
+Previously, location was not being indexed or displayed as a facet, so when it appeared in the facet menu the values didn't make a lot of sense. This change makes the location facet more useful.

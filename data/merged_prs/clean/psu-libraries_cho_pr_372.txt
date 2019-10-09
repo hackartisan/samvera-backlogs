@@ -1,0 +1,2 @@
+ Implement set of required work types
+This gives us the ability to create new works with pre-defined work types. It does not include the changes required to make the work form display only fields that are available via the work type. I'd like to see that work get separated out into a different ticket, because there may be some outstanding questions, but mainly I wanted to get these changes up and in front of our eyes sooner rather than later.

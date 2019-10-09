@@ -1,0 +1,2 @@
+stop Hyrax setting Monograph cover
+HELIO-2701

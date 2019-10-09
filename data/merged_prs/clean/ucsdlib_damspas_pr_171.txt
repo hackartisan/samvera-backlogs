@@ -1,0 +1,1 @@
+Added supplemental fulltext support for files like Word and Excel documents, .html, .txt and .csv etc. DAMSKEY-559

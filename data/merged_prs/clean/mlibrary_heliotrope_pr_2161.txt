@@ -1,0 +1,2 @@
+add 'All Rights Reserved' license
+HELIO-2402

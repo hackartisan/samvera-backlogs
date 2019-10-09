@@ -1,0 +1,2 @@
+styles for mobile views of gallery
+Resolves HELIO-1949; adding media queries for sort and filter display in smaller screen sizes.

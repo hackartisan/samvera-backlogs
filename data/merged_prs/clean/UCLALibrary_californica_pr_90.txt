@@ -1,0 +1,2 @@
+Prepare configuration for UCLA deployment
+Adds dotenv configuration variables for more control in deployment. Changes capistrano config not to use nokogiri system libraries. Sets passenger registry directory to /var/run Changes the name of the apache service to httpd for Red Hat Switches the database over to mysql with mysql2 Adds pkg-config gem

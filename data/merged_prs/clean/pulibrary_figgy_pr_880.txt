@@ -1,0 +1,2 @@
+Instrument Valkyrie via Datadog
+Gives us nice profiling of traces on Datadog to tell how much time is spent in Valkyrie for MetadataAdapters.

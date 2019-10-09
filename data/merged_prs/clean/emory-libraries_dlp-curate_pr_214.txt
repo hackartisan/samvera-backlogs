@@ -1,0 +1,2 @@
+Revert to Hyrax 3.0.0.pre.beta1
+Fixes an issue with an unfulfillable valkyrie dependency.

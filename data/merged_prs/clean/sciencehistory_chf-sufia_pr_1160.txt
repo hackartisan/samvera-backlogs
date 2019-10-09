@@ -1,0 +1,2 @@
+Adding 'Center for Oral History' option to the file_creator dropdown
+Fixes #1159.

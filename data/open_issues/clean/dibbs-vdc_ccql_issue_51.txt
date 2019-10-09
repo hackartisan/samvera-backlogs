@@ -1,0 +1,2 @@
+vdc_creator should probably be a link, not an id
+Currently, vdc_creator stores the Fedora id for the person, not a link. I think it should be changed to be a link, instead. You can get the id from the link by using something like ActiveFedora::Base.uri_to_id(uri) wherever you'd need it.

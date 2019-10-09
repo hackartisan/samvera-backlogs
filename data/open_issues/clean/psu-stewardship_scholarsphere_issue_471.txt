@@ -1,0 +1,2 @@
+What are we testing during User testing
+Randomly give the different types first, data set or Collection Give the user a group of files ( Data Set, or Collection of file) Describe the DataSet to  the users Ask to store them in ScholarSphere talk out loud about pain points ect. Need to create groups of Images on Box Need to create a dataset on Box We want to test both the cloud upload and the local machine upload.

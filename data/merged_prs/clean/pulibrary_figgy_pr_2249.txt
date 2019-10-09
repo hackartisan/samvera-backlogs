@@ -1,0 +1,2 @@
+Add image id to manifests
+I'm not sure whether this will fix dpul altogether or if widget will have to be re-assembled after this fix. but they're pretty broken already so I think that's okay we'll just have to check and adjust them if needed (see pulibrary/pomegranate#441) closes #2246

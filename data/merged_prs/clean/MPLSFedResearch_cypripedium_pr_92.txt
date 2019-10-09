@@ -1,0 +1,1 @@
+Delete contentdm_record.rb

@@ -1,0 +1,4 @@
+Side-by-Side Image Compairson
+As a public user, I would like to see two images side-by-side, So that I may compare the two images in one browser window. Ann P.
+Mirador does this. We could provide an instance or use an existing one. Providing the links to the iiif manifests would allow users to select which images they want to compare:  
+While Universal Viewer is the primary object viewer, we could still give users the ability to throw images into Mirador for viewing. If we have the IIIF logo with the presentation manifest, maybe a Mirador button could be placed nearby?  [Huntington Library]( does something like this in CONTENTdm. (Doesn't seem to work in Firefox.)  [University of Toronto]( Has a neat Mirador digital collection browser too, though there are some usability issues.

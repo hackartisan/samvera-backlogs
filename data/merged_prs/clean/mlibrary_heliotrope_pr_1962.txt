@@ -1,0 +1,2 @@
+allow all creators to be searched
+Resolves HELIO-2081

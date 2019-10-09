@@ -1,0 +1,5 @@
+Accessibility and the menu bar
+We should investigate accessibility issues with the menu bar, specifically with the agent and work csv import options.
+Not sure this is necessary. The menu bar in its current form is unlikely to be in the final application. It's essentially a stand-in for a fuller administrative interface. Guess it will depend on when we cut the MVP.
+The menubar is using Bootstrap components. It seems very likely that the final interface, both administrative and user-facing, would use some kind of menu, so we should identify accessibility issues early at least. This ticket could also be used for investigating other UI options for menus that might be more accessible.
+Related: #788 

@@ -1,0 +1,2 @@
+List of "my recently deposited" objects with file status
+As an imaging tech I need an easy-to-access list of the X (15? 25?) most recent things I have ingested, along with the ingest / processing status of the files (whether there were errors, how many images are finished processing). Related to #2461 Related to #3217

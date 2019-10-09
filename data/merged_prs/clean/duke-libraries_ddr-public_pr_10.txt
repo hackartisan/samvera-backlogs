@@ -1,0 +1,1 @@
+add children to collection and item show pages

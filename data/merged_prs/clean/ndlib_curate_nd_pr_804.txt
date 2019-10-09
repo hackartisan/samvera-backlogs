@@ -1,0 +1,2 @@
+API Access Tokens for Everyone!!
+Any user can create API access tokens for their netid, and see all tokens they have created. Only admin users can create tokens for any user and see all tokens.

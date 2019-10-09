@@ -1,0 +1,2 @@
+Deleting group redirects to groups#index DLTP-1481
+Prior to this commit, when deleting a group, the action would redirect the user to the catalog controller's index. This was confusing and something unexpected in the Rails default behavior. With this commit, whenever a group is deleted, the user is redirected to the groups#index action. DLTP-1481

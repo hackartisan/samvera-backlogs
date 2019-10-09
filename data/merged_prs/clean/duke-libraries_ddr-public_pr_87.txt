@@ -1,0 +1,1 @@
+Rollback exclusion of master fileUse objects; closes #86

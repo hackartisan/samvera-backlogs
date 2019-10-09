@@ -1,0 +1,2 @@
+[1] Create and implement contact page and email text
+Descriptive summary Work can be done on the contact form to make sure the wording is correct on it, it provides the proper information and links, and tells people the proper person to contact if they need further assistance. Expected Behavior Contact form emails are sent properly and look correct.

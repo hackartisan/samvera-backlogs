@@ -1,0 +1,2 @@
+'Medium' facet should only show for logged-in users
+Closes #364

@@ -1,0 +1,2 @@
+update keyword labels
+Update keyword labels for topic and participant type. As described in #248

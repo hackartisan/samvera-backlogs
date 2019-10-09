@@ -1,0 +1,3 @@
+Display breadcrumbs of parent collections
+Descriptive summary The top of the works show page and collection show page should display breadcrumbs displaying the hierarchy of parent collections above the current level. Example from the DRC:  University of Cincinnati Libraries -> Historical Records -> Cincinnati Subway and Street Improvements -> Rapid Transit Construction See top of page at   Trello: 
+What if there's more than one parent collection?

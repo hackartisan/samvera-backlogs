@@ -1,0 +1,2 @@
+allowing AWS importer to get further
+squashed commits of #95

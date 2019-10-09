@@ -1,0 +1,5 @@
+Should some ScannedResources be converted to ScannedMaps?
+So they can be indexed and searched in Pulmap? Example: 
+ I'm unsure what we'd have to do to close this ticket. Maybe there are specific things we know we need to convert? Or is this ticket just around to remind us to talk about it?
+Mostly to remind us to talk about it. If we decide to, we might want to make a list of items to convert in Figgy.
+The scanned resources bib record will need a bounding box if we do this.

@@ -1,0 +1,3 @@
+Thumbnails for private ScannedMaps (and other spatial resources) should be rendered in the catalog
+Thumbnails for private ScannedMaps are currently rendered for pulmap, and this behavior should be consistent across platforms.
+This would also let users know that an item was digitized and needed approval for the viewer to display.

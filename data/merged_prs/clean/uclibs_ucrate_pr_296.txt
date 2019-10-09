@@ -1,0 +1,2 @@
+Update content on static pages to match Scholar
+Fixes #288 Add agreement and terms routes. Overwrite terms view.

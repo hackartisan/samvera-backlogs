@@ -1,0 +1,2 @@
+Add a warning to read-only mode
+Warn someone who is enabling read-only mode that they need to leave their window open because they won't be able to create a new session once read-only mode is on. Connected to #547

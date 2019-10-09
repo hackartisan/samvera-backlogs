@@ -1,0 +1,2 @@
+Updating Solr to 6.4.2
+Our server environments were updated to use Solr 6.4.2, so our testing and local development environments should follow suit. Updates the config files to reflect the current solr version.

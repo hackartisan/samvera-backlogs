@@ -1,0 +1,1 @@
+Allows to view top 20 active users

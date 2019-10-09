@@ -1,0 +1,2 @@
+improve social media sharing buttons
+closes #711

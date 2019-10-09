@@ -1,0 +1,2 @@
+Fix rubocop error.
+Removes offensive blank line.

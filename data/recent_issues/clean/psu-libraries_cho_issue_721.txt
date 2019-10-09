@@ -1,0 +1,2 @@
+"Index Type" in Data Dictionary does not work for Collections
+Due to display transformations, editing the "Index Type" (no_facet/facet) for the member_of_collection_ids field has no effect. Related to #459 Related to #689

@@ -1,0 +1,2 @@
+Filemanager / Ordermanager refactor to fix issue #785
+Closes #785 Co-authored-by: Shaun Ellis 

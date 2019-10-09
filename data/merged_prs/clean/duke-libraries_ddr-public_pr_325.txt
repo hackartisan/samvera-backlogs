@@ -1,0 +1,1 @@
+Honor portal URLs for permanent_id redirects

@@ -1,0 +1,1 @@
+Add warning about changing config/authorities/languages.yml

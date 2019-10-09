@@ -1,0 +1,2 @@
+Clean up deprecation warnings, ref #1001
+This makes a number of changes to remove deprecation warnings and other warnings when running RSpec:  corrects Figaro warnings due to ignored or incorrect variable values removes the deprecation warning on FileSet#file_format by using its derived value from Solr removes a number of deprecation warnings due to Blacklight::Document preferring hash-like objects updates Ldp.contains to RDF::Vocab::LDP.contains removes instances of stub from RSpec tests

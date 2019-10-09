@@ -1,0 +1,2 @@
+HELIO-2760 - branding for university of sussex library
+Adds branding elements for Sussex

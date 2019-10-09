@@ -1,0 +1,2 @@
+remove extraneous blacklight controllers
+these were installed with the blacklight range_limit/advanced_search plugin generators. i don't think we actually use them, so it's probably safe to remove them  app/controllers/saved_searches_controller.rb app/controllers/search_history_controller.rb

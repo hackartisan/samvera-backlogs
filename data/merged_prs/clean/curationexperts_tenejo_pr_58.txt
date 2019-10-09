@@ -1,0 +1,1 @@
+Code cleanup.  Remove duplicate solr/conf directory.  Use solr/config instead

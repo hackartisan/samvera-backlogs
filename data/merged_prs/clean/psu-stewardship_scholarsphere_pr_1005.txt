@@ -1,0 +1,2 @@
+Limit selection of representative file sets, ref #892
+Selection of representative file sets should be limited to those whose visibility matches that of the work. This alters some of the decisions that were made in 7fce7ed. Instead of allowing less-visible representatives, only equally visible file sets will be allowed for representatives or thumbnails.

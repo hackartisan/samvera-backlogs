@@ -1,0 +1,2 @@
+Resolves HELIO-2507: Press catalog conditional logic removes labels.
+Explicit labels for config.add_facet_fields.

@@ -1,0 +1,2 @@
+Possible solution to screen reader issue
+Comment out set focus on typeahead control.

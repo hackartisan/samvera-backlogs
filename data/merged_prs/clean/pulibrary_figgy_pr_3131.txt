@@ -1,0 +1,2 @@
+Ensures that ScannedResourcesController#change_set_class returns DynamicChangeSet when the change_set parameter is invalid
+Resolves #2722 (previously this was only handled at the level of ResourceController#new, but this is invoked from other contexts; please see 

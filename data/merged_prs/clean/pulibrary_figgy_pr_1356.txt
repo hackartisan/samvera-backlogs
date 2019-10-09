@@ -1,0 +1,2 @@
+Ensures that `IngestFolderLocator#folder_pathname` handles cases where the directory cannot be found
+Resolves #1345

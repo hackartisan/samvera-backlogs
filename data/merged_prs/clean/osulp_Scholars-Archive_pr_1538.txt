@@ -1,0 +1,2 @@
+[WIP] Update embargo task to log and use embargo actor
+This adds the beginnings of a reworked embargo release task.

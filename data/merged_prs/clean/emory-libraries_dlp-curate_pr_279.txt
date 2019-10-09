@@ -1,0 +1,2 @@
+Adds validations for collection metadata properties
+Closes #267

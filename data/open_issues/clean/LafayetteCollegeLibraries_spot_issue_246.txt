@@ -1,0 +1,3 @@
+refactor/cleanup ingest code
+code related to ingesting items is kinda all over the place; we've got a range of importers/mappers/etc. for implementing darlingtonia, and two jobs, one that calls the other + is filled with setup code. maybe we can consolidate this down to an ingest service that the job calls (if memory serves, best-practices are to keep yr jobs simple + use services).
+important to note: in july 2019 darlingtonia was [deprecated]( in favor of a new gem, [zizia]( which adds a UI component.   since our ingest workflow still works and is fairly sturdy it might be fine for us to put this off until after the migration and then build out a new process for ingesting items going forward

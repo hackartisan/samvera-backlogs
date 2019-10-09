@@ -1,0 +1,6 @@
+RSS feed for new SA?
+Is there an RSS feed for the new IR? Can it be set up for different collections or presence of metadata?  from Mike Boock
+There is for search results.  RSS:  Atom:   Atom Feed for 'Master's Thesis' Resource Type:   RSS doesn't look very useful as it is right now. The Atom feed has more metadata and updated dates.  To get a different specific results feed, on a Results page, right click, select 'View page source' or equivalent, then search/look for RSS or Atom to get the exact feed URL.
+ did someone ask for a feed or was this just curiosity?
+   This was from Mike Boock notes -- all I have is what's already on the ticket.
+I think this can be closed. There are at least a couple communities that auto-populate web pages with SA content/results. Here's an example of one that uses an old feed URL:   I'll look for others and let them all know that they need to change their URLs. 

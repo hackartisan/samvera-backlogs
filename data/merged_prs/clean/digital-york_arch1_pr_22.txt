@@ -1,0 +1,2 @@
+Updates to various things
+Quite a few different changes in here:  new and revised rake tasks for processing spreadsheets for folios/images revisions to remove_empty_fields.rb to ensure blanks are deleted (lots of changes in here, which I've tested and tested but need to keep an eye on) also minor change to entry.js to make single dates send a destroy = 1 some changes to register_folio.rb mostly performance improvements and tidying up things; also adding support for alternate images (UV)

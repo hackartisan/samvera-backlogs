@@ -1,0 +1,2 @@
+allow to_value to be blank and clear all values
+when given * under from and an empty cell under to, clear all values for given property this update applies to multi-value properties both ordered and unordered if given an unordered property (i.e. additional_information) check if value under to is present before proceeding with the update

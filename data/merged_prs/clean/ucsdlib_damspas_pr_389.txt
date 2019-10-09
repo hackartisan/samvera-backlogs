@@ -1,0 +1,2 @@
+Bump rails from 4.2.7.1 to 4.2.10
+Bumps rails from 4.2.7.1 to 4.2.10.  Commits   Dependabot will resolve any conflicts with this PR as long as you don't alter it yourself. You can also trigger a rebase manually by commenting  rebase. If you'd like to skip this version, you can just close this PR. If you have any feedback just mention  in the comments below.

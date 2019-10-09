@@ -1,0 +1,2 @@
+Allow forced organization label
+This lets us use the console to force a label if fetch is being wonky - as it's doing in dbpedia.

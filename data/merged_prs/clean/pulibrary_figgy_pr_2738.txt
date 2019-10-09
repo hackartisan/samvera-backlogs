@@ -1,0 +1,2 @@
+Add pub_created_display field to coin document
+Generates a summary field for display in Orangelight search results. Closes #2735 Closes pulibrary/orangelight#1606

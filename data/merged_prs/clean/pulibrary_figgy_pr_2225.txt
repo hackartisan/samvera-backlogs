@@ -1,0 +1,2 @@
+"Save and Ingest" functionality on coin file manager
+Fixes #2219

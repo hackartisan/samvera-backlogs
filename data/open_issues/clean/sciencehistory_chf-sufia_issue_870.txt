@@ -1,0 +1,6 @@
+Move content to local_env.yml
+To make addresses easier to change look at moving the email address used to local_env rather than keeping it in the code. Also makes it less obvious.
+Check if the following files can be merged into local_env.yml - [ ] blacklight.yml - [ ] fedora.yml - [ ] local_env.yml - [ ] resque-pool.yml - [ ] solr.yml - [ ] database.yml - [ ] initializers - [ ] redis.yml   - [ ] secrets.yml
+ awesome, can you give me a URL for where I find these things in ansible bitbucket repo, so I can see how they are generated currently, and what's being put in them?
+I think `initializers` is a directory, not a file? I am not sure what if any files within that dir are ansible-provided? Or maybe I'm just confused and not sure what it is! 
+It is the `shared/config` directory in sufia not the `initializers` that has the files. The ansible code can be found in  The templates folder has the the yml files currently being managed that the role pushes out.

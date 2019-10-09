@@ -1,0 +1,2 @@
+Completes new user creation for AMS admins
+Adds form for admins for User creation Creates admin user seed  Closes AMS2-54, Closes AMS2-55, Closes AMS2-57, Closes AMS2-3

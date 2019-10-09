@@ -1,0 +1,2 @@
+new collection thumb for 3x816n34q
+Closes #934 once rake task is run on production ./bin/rake chf:collection_images[sj139253d=3x816n34q_2x.jpg]

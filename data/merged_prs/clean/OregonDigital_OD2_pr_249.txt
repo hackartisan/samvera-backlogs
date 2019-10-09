@@ -1,0 +1,2 @@
+update colour content to color content
+Fixes #88 Per  QA Colour Content has been switched to color content

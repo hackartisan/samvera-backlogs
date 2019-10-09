@@ -1,0 +1,2 @@
+makes the help details more noticable
+fixes #1276   collaborated and approved (tm)

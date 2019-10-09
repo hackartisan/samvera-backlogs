@@ -1,0 +1,2 @@
+Create a system to track metadata readiness for ingest
+STORY We need a consistent way for the team to easily identify which metadata is ready for ingest, which metadata has been ingested, and what actions need to be taken next related to preparing and ingesting metadata.

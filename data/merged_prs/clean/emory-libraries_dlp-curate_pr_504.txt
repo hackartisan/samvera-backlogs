@@ -1,0 +1,2 @@
+Sync expected CSV headers with latest import mapper
+ Here is another place we're tracking all the fields. It'd be great if we could generate this list on the fly too. For future work. :) Connected to curationexperts/in-house#214

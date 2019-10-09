@@ -1,0 +1,2 @@
+Adds 'brakeman' gem to Gemfile
+Brakeman is a static code analysis tool for rails apps 

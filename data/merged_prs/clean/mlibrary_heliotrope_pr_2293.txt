@@ -1,0 +1,2 @@
+2603_update_aptrust_info_desc
+Closes #2286 Add a branded publisher name and a few other items to aptrust-info.txt in each bag.

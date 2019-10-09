@@ -1,0 +1,2 @@
+Addresses HELIO-2450 EPUB Search does not work for numbers.
+Add end-of-string anchor in addition to \W non-word at end. Searching for e.g., "1390" in Gabii now returns results.

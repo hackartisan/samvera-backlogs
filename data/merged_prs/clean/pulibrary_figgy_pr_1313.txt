@@ -1,0 +1,2 @@
+Update pul_metadata_services to get more fields on pulfa collection
+fixes #1083

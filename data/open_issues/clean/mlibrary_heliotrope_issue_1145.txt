@@ -1,0 +1,2 @@
+Check Accessibility on mobile devices
+Deque comply tool does not check devices, we will need to test heliotrope by a person using a mobile device that knows how to use accessibility features of a mobile device.   work with D&D team to gather a pool of users who are proficient in using assistive technology on mobile devices.  have users do basic tasks from supplemental content usability testing.  create new tickets to address problems that arise during usability tests.

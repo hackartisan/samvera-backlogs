@@ -1,0 +1,2 @@
+Dltp 1414 assess why item pages are slow 
+In the _related_files partial, <% if curation_concern.generic_files.present? %> and <% if curation_concern.with_empty_contents? %> both accessed all of the files. These two calls were changed to use only one page of files to speed up load time. 

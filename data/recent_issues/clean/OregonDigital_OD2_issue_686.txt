@@ -1,0 +1,2 @@
+Search Results: Gallery View: Truncate long titles to 5 words
+Descriptive summary On Search Results, Gallery view, there isn't much width for long titles, so truncate those longer than 5 words. Wireframe mockup, Gallery (or 'Grid') View:  (Information compiled by POSM group from updated wireframes) Expected behavior Titles are truncated at 5 words, with an ellipsis at the end. Related work #681

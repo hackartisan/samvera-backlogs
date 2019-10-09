@@ -1,0 +1,2 @@
+POST a marker to honeycomb during production/staging deployment
+Descriptive summary POST a marker to honeycomb that a deployment happened: $ curl  -X POST  -H "X-Honeycomb-Team: ${HONEYCOMB_KEY}"  -d '{"message":"${RAILS_ENV} - ${DEPLOYED_VERSION} deployed", "type":"deploy"}'

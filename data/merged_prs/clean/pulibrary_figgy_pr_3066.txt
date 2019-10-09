@@ -1,0 +1,2 @@
+Change attach child button to drop-up
+With the action bar being sticky the dropdown fell off the screen. fixes #3061

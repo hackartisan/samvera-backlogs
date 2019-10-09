@@ -1,0 +1,2 @@
+Fix Save and Duplicate Metadata Button
+Closes #654

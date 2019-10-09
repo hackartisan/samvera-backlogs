@@ -1,0 +1,1 @@
+Resolves #771: Add download functionality

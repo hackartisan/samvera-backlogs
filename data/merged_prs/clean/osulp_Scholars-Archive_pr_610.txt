@@ -1,0 +1,2 @@
+Adds two new models with forms and show pages working properly.
+This needs to be checked out. There may be some useless files here and maybe some discussion could be had about making the views/hyrax/base/_attribute_rows partial look a bit nicer. Also the solr_document is getting a bit longer now. Im working on writing specs for these and the other models that exist in hyrax.

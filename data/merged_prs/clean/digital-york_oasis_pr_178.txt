@@ -1,0 +1,2 @@
+Issue 156 terms in signup page
+Add additional terms and conditions to signup page.

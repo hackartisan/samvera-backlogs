@@ -1,0 +1,2 @@
+Add usage details to metadta profile
+Add a simple configuration file to initialize a contant array of metadata help text when the application starts.  Currently the text only appears in the metadata profile pages, but could also be added to the edit form as pop-up help text in the future. The main goal here is to get as much metadata configuration information into version control and inspectable from within the application, so that maintaining one or more offline metadata spreadsheets becomes unnecessary.

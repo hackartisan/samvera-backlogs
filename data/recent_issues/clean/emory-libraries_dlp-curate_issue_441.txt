@@ -1,0 +1,2 @@
+Submitting a fileset via the UI results in MANY copies
+ENVIRONMENT:  RELEASE: v0.3.3 STEPS TO REPRODUCE  Find an existing work Attach one or more files or fillets  EXPECTED BEHAVIOR Each selected file is only attached once ACTUAL BEHAVIOR Each file is attached multiple times See 

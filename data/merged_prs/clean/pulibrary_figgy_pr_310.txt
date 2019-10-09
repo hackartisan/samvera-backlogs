@@ -1,0 +1,2 @@
+Vocab URI's for EphemeraFolders
+Resolves #243, #257, and #226

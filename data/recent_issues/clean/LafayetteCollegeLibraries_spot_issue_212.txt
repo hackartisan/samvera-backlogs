@@ -1,0 +1,2 @@
+[capistrano] only run db:seed on first deploy?
+just putting this here to remember to return to it. i'd love to be able to seed the database on the first run only (or when forced to). this might help prevent weirdness with seeded collections whose metadata is updated.

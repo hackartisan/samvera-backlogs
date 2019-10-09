@@ -1,0 +1,2 @@
+Development Production Resque Worker Environment: devproque
+Allows you to run a production resque worker in your development environment. QUEUE=* VERBOSE=1 RAILS_ENV=devproque bundle exec rake resque:work This worker will eager load the rails application once hence the actor stack will be created like the one in production and you'll be able to use the ExtractIngestJob to copy content from fulcrum.org into your development environment.

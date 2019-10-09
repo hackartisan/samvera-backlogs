@@ -1,0 +1,2 @@
+Honeybadger notifications on fixity failures
+fixes #3221

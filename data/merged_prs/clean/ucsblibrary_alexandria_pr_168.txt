@@ -1,0 +1,2 @@
+ObjectFactory#create: reindex after save
+When we overrode member_ids in the ObjectIndexer, the ordered_member_ids information didn't exist, because the FileSets hadn't been saved. See 

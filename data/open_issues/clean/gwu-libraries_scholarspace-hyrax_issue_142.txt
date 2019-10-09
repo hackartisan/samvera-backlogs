@@ -1,0 +1,2 @@
+Automate deployment
+Consider using Capistrano (and Ansible).  See the following examples:     As well as:    - particularly the "Automated Deployment" section, ref. both Ansible and Capistrano

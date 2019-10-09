@@ -1,0 +1,2 @@
+Make Copyright Claimant uncontrolled
+Remediate Copyright Claimant URIs to strings.

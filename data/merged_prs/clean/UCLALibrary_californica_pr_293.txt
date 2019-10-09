@@ -1,0 +1,2 @@
+On work show page, changed 'Subject' label to 'Subjects'. Story #272
+Connected to #272

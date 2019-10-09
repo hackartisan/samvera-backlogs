@@ -1,0 +1,2 @@
+Testing revision for 270: textarea inputs for selected fields: Rights Statement (Uncontrolled) needs multiple lines
+For #270, the Rights Statement Free-Text (uncontrolled) entry should be multi-line. Grant [agency] should be single line, but Grant [information] should be multi-line. See the metadata implementation worksheet.  Also relates to swapping the controlled and uncontrolled rights properties.

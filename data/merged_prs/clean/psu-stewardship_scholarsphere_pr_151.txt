@@ -1,0 +1,2 @@
+Load GenericFile from Solr for show view #146
+Fixes #146

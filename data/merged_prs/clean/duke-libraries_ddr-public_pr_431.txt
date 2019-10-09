@@ -1,0 +1,1 @@
+Check read permission before returning feed.xml and media.json; Fixes #429

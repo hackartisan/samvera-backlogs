@@ -1,0 +1,2 @@
+Add rake tasks to set up admin role, admin users
+fix #448

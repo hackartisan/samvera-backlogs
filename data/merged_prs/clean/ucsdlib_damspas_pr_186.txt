@@ -1,0 +1,1 @@
+Updated to retrive the related collections by title for efficiency and dismiss the collection page 500 error. DHH-802

@@ -1,0 +1,6 @@
+Add ability to force suppressed resources to show in figgy index
+Children in a multi-volume resource (or in a MapSet) with bibids that are different from their parent resource need to be indexed so they can be searched. Also, it would be useful to have the ability to override index suppression for other edge cases.
+Okay. I think if this is the case we probably want to lower the complexity of the searching logic and just start indexing a visible_in_search flag or something.
+👍 we talked about moving this logic out of the SearchBuilder.  Having each model implement a method that says whether it should be visible or not seems like a more flexible way to handle this.  So if the whole class should be suppressed, it can just be  ``` def discoverable?   false end ```  But if it's more complex, then the method impl. can check whether there's a parent, or if the bibid matches the parent record, or whatever the logic needs to be.
+ Can you comment on this when you get a chance?
+I was thinking about the Vandermaelen Atlas here. Icebox is appropriate until we finally get that ingested.

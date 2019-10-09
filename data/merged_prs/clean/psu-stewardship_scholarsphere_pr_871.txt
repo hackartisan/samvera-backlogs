@@ -1,0 +1,2 @@
+Display events for works, ref #853
+Sufia captures events that occur on works, but they were not being displayed in the UI. This displays the same partial that we use for file set events, only the events are attached to the work presenter.

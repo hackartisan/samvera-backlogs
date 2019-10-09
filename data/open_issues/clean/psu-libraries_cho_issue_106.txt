@@ -1,0 +1,3 @@
+Batch Editing of Metadata for Selected Records
+As a metadata manager, I need to be able to see all the fields for selected records I've chosen for editing (e.g., spreadsheet style) so I can quickly identify inconsistencies. Linda B.
+Moving to backlog, batch editing can be done via CSV offline.

@@ -1,0 +1,2 @@
+Feature/docker improvements
+Improves docker cleanup when running tests Doesn't blow away set_content data, and copies it from within the container if it isn't already in your oregondigital directory

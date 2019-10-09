@@ -1,0 +1,2 @@
+Disable realtime notifications
+Fixes #84 Set “config.realtime_notifications = false”

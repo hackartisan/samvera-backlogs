@@ -1,0 +1,2 @@
+Use atom feed from later version of blacklight.
+Closes #647

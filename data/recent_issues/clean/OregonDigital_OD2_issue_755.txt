@@ -1,0 +1,2 @@
+Ability to be able to search an item
+Descriptive summary This ability should check to see if a user can search items with the caveat that a UO authenticated user can search everything except OSU restricted items. current_ability.can?(:search, solr_document) which will look at the metadata for what institution it is restricted to. If no restrictions, then it should not filter that work out.

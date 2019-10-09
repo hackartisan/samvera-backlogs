@@ -1,0 +1,2 @@
+Re-Index Facets on Change to "Index Type" in Data Dictionary
+When a user edits a field in the data dictionary to change the "Index Type" property to "facet' from "no_facet", and the metadata already contains values for that field, Solr must re-index to populate the facets. This should happen automatically when the change is saved. Related to #459 Related to #689

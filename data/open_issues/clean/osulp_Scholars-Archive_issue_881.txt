@@ -1,0 +1,3 @@
+Add email notification when ScholarsArchive::HandleErrorLoggingService logs an error
+It would be useful to notify an administrator via ENV['SCHOLARSARCHIVE_ADMIN_EMAIL'] when one of these errors gets logged. That way we dont have to try to keep checking in on the log files to see when these errors are being logged.
+not sure we still need this.   can either of you see when the last time we had one of these errors on SA Hyrax?

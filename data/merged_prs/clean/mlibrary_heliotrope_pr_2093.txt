@@ -1,0 +1,2 @@
+Resolves HELIO-2274: Fix HEB Admin access to dashboard
+Hot fix which assumes that 'users' are affliated with UofM by unique id or friends account.

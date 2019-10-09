@@ -1,0 +1,2 @@
+Search Results: Gallery View: Metadata fields update
+Descriptive summary On Search Result, Gallery View, change the metadata fields that are displayed (below Title).  Creator: show up to 3 creators, display 'and others' when more than 3 Date Description: Truncate to 10 words, with ellipsis Resource Type  Wireframe mockup, Gallery (or 'Grid') View:  (Information compiled by POSM group from updated wireframes) Expected behavior Metadata fields shown are only Creator, Date, Description, and Resource Type. Related work #683

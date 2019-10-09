@@ -1,0 +1,1 @@
+Revert bundler version back to 1

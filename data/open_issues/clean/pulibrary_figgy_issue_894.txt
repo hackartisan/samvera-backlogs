@@ -1,0 +1,2 @@
+Redesign 'home' as a dashboard
+We're starting to add reports and other data displays. The create icons are taking up a lot of real estate. This should be redesigned as a proper dashboard since that's the use it's shaping up to fill.

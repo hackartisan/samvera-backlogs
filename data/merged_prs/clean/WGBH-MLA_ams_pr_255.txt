@@ -1,0 +1,2 @@
+Overwrites dashboard my_controller.rb to add Batch ID filter
+Filtering by batch_id just needed the addition of the hyrax_batch_ingest_batch_id to the dashboard controller configure_facets method.

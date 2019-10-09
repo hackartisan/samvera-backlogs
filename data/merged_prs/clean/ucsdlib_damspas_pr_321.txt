@@ -1,0 +1,2 @@
+Add rubyzip gem.
+Fixes deployment issue. /developers - please review

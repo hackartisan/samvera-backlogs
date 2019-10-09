@@ -1,0 +1,2 @@
+Generate manifests for all content
+Descriptive summary We want to generate a manifest of all content and users right before we deploy 4.0.  This will help us verify all is well after our deploy tasks.

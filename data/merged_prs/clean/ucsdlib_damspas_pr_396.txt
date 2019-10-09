@@ -1,0 +1,2 @@
+Fixes -#395 Update ruby dependency to 2.4.2
+Fixes #395 /developers - please review

@@ -1,0 +1,2 @@
+fix download errors in sandbox
+E-project-121418-075233 when looking at project, scrolling down and clicking action->download gives error, why?

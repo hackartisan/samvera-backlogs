@@ -1,0 +1,2 @@
+bugfix for bulk updates to set field to nil instead of empty string
+fixes a bug with bulk update.. when the to field is empty the intention is to remove the value not set it to an empty string. fixes related to #1797

@@ -1,0 +1,2 @@
+Clean Ursus solr before reindexing. Connected to #214
+I added a method to delete all the solr docs from the 2nd solr. I refactored the reindex method to pull out code that is needed in both methods. I updated the rake task to clean out the ursus solr before reindex.

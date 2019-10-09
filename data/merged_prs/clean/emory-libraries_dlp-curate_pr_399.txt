@@ -1,0 +1,2 @@
+Update Zizia for guide changes
+This updates the version of Zizia and adds a spec that tests that the importer guide page is rendering.

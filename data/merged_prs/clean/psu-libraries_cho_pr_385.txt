@@ -1,0 +1,2 @@
+Add facet for collection types, ref #374
+Description Each collection type should have a facet for discovery of additional collections of the same type. This adds a custom indexer to index the collection type value into Solr. Changes Are there any major changes in this PR that will change the release process? No. Checklist   i18n enabled  adequate test coverage  accessible interface

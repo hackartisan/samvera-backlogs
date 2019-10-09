@@ -1,0 +1,2 @@
+Enhance UserSetup task to lower db queries
+Enhance removal and addition of users to a user_group. Refer: 

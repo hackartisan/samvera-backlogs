@@ -1,0 +1,2 @@
+Increase the test coverage of passwords_controller.rb
+Fixes part of #186 

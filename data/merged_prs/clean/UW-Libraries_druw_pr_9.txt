@@ -1,0 +1,1 @@
+Shorten About dropdown and remove privacy static page and references.

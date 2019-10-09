@@ -1,0 +1,2 @@
+allows docker containers to use webconsole in development
+adds 192.* addresses to webconsole in development

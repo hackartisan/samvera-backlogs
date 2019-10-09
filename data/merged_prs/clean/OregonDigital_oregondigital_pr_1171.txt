@@ -1,0 +1,2 @@
+Add more dates to Decade facet processor.
+Fixes #1169 Modify decade facet processor to include award date If no Date is present, fall back to Award Date. Added date issued and date created to Decade facet. Updated and clarified specs Change date value checks to nil? Clarified CSS selector for facets, since now Decade facet is present Updated specs to use factory's created date, and changed date to help differentiate returned values Clarified date sorting with nil date

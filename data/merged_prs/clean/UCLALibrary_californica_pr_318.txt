@@ -1,0 +1,1 @@
+Delete unnecessary code.  The Coveralls config should handle everything.

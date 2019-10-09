@@ -1,0 +1,2 @@
+Ephemera: Widescreen mode
+Having the viewer at the top of the edit form is nice, but when cataloging from the images, it would be even nicer to have it side-by-side with the form (and to have the full size viewer with better navigation to scroll to the end for page counts).  If there is enough screen real-estate, having this as a super-widescreen mode would be great.

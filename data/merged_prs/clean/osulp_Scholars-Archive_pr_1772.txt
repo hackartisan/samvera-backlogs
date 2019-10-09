@@ -1,0 +1,2 @@
+Feature/preservation with bags
+fix #1726

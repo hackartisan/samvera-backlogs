@@ -1,0 +1,2 @@
+Update monsido token
+Use the correct token. Also, only send the token in produciton.

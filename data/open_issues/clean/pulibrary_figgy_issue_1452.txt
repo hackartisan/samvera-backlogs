@@ -1,0 +1,6 @@
+Bulk ingest not pulling data from PULFA
+Currently does not pull data from finding aids site.
+Looking at the code, I don't see why this wouldn't work with a PULFA component ID — should this be "Save & Ingest doesn't work with archival materials", or is there some part that errors?  *update:* `rake bulk:ingest BIB=AC044_c0003 DIR=tmp/files` successfully pulled metadata from PULFA, so I think this works on the command line, but not with Save & Ingest.
+This was a report about the bulk ingest page ( Save & Ingest works with PULFA IDs.
+I should note I haven't tried to replicate; just created the ticket based on slack discussion.
+Sorry, I was confusing that with the `bulk:ingest` rake task.

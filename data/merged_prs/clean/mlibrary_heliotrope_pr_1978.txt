@@ -1,0 +1,2 @@
+HELIO-2052 Fix TOC Anchor tag for EPUBs
+This can make some quite long TOCs for reflowable epubs,    Refactoring/deduplication of some of the cfi related code will happen in HELIO-2069

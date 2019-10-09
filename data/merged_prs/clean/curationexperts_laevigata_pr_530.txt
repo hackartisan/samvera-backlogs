@@ -1,0 +1,2 @@
+load tinymce when user logged in (not role dependent)
+Fixes #456

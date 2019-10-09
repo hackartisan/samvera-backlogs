@@ -1,0 +1,2 @@
+Evaluate what SOLR is doing exactly in order to refine that.
+Descriptive summary To provide the most accurate search results for the collections in our OD, evaluate what SOLR is doing exactly. Expected behavior SOLR's configuration might be improved for more accurate search results. Related work #236

@@ -1,0 +1,2 @@
+Ensure sidekiq gets restarted, or doesn't die
+Problem: Sidekiq stops for reasons unknown. Solution: Ensure Sidekiq either keeps running, or gets restarted. Done when: Sidekiq logs can confirm that any downtime is under whatever threshold we decide (e.g. 1 minute). NOTE: This needs to be tested in production environment, so it may need to be deployed before the ticket can be closed.

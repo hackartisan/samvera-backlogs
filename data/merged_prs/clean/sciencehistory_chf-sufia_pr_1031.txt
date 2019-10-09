@@ -1,0 +1,2 @@
+Small screen CSS fixes
+closes #879

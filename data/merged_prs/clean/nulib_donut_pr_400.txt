@@ -1,0 +1,2 @@
+Remove /var/log/puma and just log to stdout
+Just let puma write to stdout instead of logging to a file inside the container

@@ -1,0 +1,2 @@
+Create the Person/Profile for new users
+DLTP-1354: Create the Person/Profile for new users 68045e8  Added a call to create the Person and Profile for an authenticated user if one does not exist, using the net id as the name. This should allow assigning the user as an editor of a work as long as they've logged in.

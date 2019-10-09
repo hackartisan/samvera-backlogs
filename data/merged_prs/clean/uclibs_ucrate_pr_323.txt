@@ -1,0 +1,2 @@
+Add the View Profile and Edit Profile links back to the menu
+Fixes #308

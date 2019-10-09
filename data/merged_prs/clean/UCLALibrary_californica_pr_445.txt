@@ -1,0 +1,2 @@
+Update connell fixture to match expected local identifier header
+Connected to #435

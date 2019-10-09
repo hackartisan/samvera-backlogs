@@ -1,0 +1,2 @@
+Update Cicognara regex to allow for suffixes (e.g. '1234A')
+Update Cicognara number regex to handle a few variants (brackets and letter suffixes) Update add_510 to check for regex match before using it to try to extract Cicognara number  Fixes #2685

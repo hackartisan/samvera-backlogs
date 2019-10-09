@@ -1,0 +1,2 @@
+Update changelog for MVP 7
+Description Updates to the changelog for MVP 7. Connected to #819

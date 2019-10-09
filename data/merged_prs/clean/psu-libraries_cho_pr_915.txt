@@ -1,0 +1,2 @@
+Remove file upload from work edit form
+Description For works that have been batch imported and have file sets attached, there is no meaningful reason to be able to edit the file. Connected to #845 Changes  Remove file upload from work submissions form, if the resource has been persisted

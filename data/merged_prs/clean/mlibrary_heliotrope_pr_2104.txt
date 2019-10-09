@@ -1,0 +1,2 @@
+Partial resolution of HELIO-2198: Refactor API to use checkpoint
+Added Individuals to API and refactored in preparation for adding Grants to API.

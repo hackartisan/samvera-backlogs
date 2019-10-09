@@ -1,0 +1,2 @@
+[WIP] Collections index
+Was #548; closed/reopened so we could go ahead and merge a subset of commits, use a more appropriate branch name.

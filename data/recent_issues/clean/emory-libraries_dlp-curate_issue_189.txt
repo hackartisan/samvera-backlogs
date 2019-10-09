@@ -1,0 +1,2 @@
+Test UCLA ansible solr scripts for solr cloud 
+Test script to see if they can create solr cloud cluster  Research solr cloud ansible modules

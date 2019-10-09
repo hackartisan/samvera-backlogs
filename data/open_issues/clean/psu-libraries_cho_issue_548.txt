@@ -1,0 +1,3 @@
+Generate Derivitives
+If derivatives (_service, _text, _access) are not included in the bag, they need to be generated. If a _preservation_redacted file is present, it should be used to generate the derivative, not the unredacted _preservation file. Dependent: #545
+Related to #135, #153, #168. All work-types.

@@ -1,0 +1,2 @@
+WIP show rudimentary html5 player on front end
+better filenames for mp3 derivative download (in content-disposition header), that use the same logic and match the filenames for image derivatives (eg jpeg)    "Original file type" output in right-hand metadata column should output proper labels for FLAC and MP3, rather than empty space

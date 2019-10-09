@@ -1,0 +1,2 @@
+Updating resque pool to provide options
+The characterize jobs are starving the other jobs out.

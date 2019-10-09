@@ -1,0 +1,5 @@
+Transcripts and/or corrected OCR
+We should add support for human-edited transcripts or corrected OCR.  These differ from machine-generated OCR because they should not be overwritten by automatic processes.
+One question I have is about transcripts (which would not typically have coordinates) — can we use them for IIIF search-within?
+We can use them for search-within and just not provide coordinates, yeah.
+ mentioned a contact at Harvard who may be a source of higher-quality text extraction for our Chinese manuscripts.

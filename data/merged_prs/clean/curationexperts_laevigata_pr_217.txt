@@ -1,0 +1,2 @@
+Adds primary? and supplementary? methods to FileSets
+Primacy is tracked in the #primary predicate. Fixes #96.

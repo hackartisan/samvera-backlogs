@@ -1,0 +1,2 @@
+Add image to empty NAAMES component (bb7512314s)
+Descriptive summary The NAAMES component (bb7512314s) currently has an empty Component 17 ("SP2 number size distribution"), and needs a .png image added to it. The file is naames-RUSSELL-SP2NumberSizeDistribution_Atlantis_20170830_R0_SummaryPlot.png and is located at: //rdcp-staging/rdcp-0112-naames/Working_Files/NAAMES3_processedfiles and summary plots/ Related work ucsdlib/dams-metadata/issues/140

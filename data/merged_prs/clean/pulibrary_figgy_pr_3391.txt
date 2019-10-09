@@ -1,0 +1,2 @@
+Set UV OpenSeadragon module option immediateRender to true
+Closes #3389

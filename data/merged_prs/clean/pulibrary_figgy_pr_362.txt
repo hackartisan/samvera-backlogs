@@ -1,0 +1,1 @@
+Add a factory to MultiChecksum, use it from plum importer; fixes #151

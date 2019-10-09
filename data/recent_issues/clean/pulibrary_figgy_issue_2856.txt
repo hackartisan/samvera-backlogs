@@ -1,0 +1,2 @@
+Link NumismaticAccessions to Coins by reference
+Numismatic accessions are not currently linked to coin resources by reference, they should be. Remove the number_in_accession  property from Coin. We already have accession_number.

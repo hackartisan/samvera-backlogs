@@ -1,0 +1,1 @@
+Fixes bootsnap requires in Gemfile

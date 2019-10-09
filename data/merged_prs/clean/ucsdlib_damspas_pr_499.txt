@@ -1,0 +1,2 @@
+Remove host, username, password from db defaults
+Local Checklist   QA-ed locally?  Rebased with master branch?  What does this PR do? Removes the ENV fetching of environment variables from the default database environment block, and ensure that each environment handles these individually. Why are we doing this? Any context of related work? These default DEV ENV variables won't exist in all environments, and thus the fetch calls will fail. Remove, and allow individual environments to specify as needed. /developers - please review

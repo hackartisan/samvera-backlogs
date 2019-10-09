@@ -1,0 +1,2 @@
+Seed additional geo resources
+Adds additional geo resources to data seeder Re-organizes data seeder class for easier navigation of the code.  Closes #1110

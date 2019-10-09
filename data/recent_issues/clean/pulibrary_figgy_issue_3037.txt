@@ -1,0 +1,2 @@
+Merge MediaResource and Recording models?
+These have very similar functionality and could be merged.  Doing this would close #3036.  But we would need to add MP3 generation/download to MediaResource, since that is required for fulfillment use cases.

@@ -1,0 +1,2 @@
+Render "Remove from Collection" button, ref #886
+The button that removes an item from a collection was not rendered if the collection only had one item. Updating the view allows the button to be used no matter how many items are in the collection.

@@ -1,0 +1,2 @@
+Remove font-awesome libraries from JS pack
+These assests are already included with Hyrax. We don't need to have these included via a JS library.

@@ -1,0 +1,2 @@
+Download entirely from disk
+Change the WorkZip service to access the data from Isilon not from fedora.

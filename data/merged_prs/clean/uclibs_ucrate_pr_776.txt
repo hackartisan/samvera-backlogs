@@ -1,0 +1,2 @@
+Fix DOI embargo change
+Fixes #774 Created a new job that sends an API call to Datacite to change the status of a DOI from draft to findable. Also reworked the release_embargo script to be compatible everywhere

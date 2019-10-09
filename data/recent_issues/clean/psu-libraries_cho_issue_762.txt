@@ -1,0 +1,2 @@
+Display text from a selected datalist element
+When using datalist attributes for collection members or roles, the value is displayed after selection. Ex: <option value="">Adapter</option> We'd like to see "Adapter" shown, but what happens currently is the URI is displayed.

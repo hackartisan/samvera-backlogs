@@ -1,0 +1,2 @@
+Update README with UTF-8 information
+This adds instructions for how to handle a CSV export being manually edited. Connected to  UCLALibrary/amalgamated-samvera#135

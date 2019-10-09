@@ -1,0 +1,2 @@
+Add production gems
+passenger pg redis

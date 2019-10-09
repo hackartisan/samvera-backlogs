@@ -1,0 +1,2 @@
+Delete an item
+Descriptive summary Only collection curators and admins can delete items. No other roles should be allowed to delete items.

@@ -1,0 +1,2 @@
+Feature/fix ipad
+Closes #474

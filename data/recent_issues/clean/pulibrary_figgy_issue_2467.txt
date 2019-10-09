@@ -1,0 +1,1 @@
+Titles are not updated in the player when the track is changed

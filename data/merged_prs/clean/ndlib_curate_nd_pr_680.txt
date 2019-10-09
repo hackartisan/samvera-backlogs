@@ -1,0 +1,2 @@
+Applied language changes to DOI form
+set "Leave the DOI field blank" as default

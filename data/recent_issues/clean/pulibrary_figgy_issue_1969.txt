@@ -1,0 +1,2 @@
+Order Manager does not load when thumbnail id is nil
+Order Manager does not load when thumbnail id is nil or invalid.

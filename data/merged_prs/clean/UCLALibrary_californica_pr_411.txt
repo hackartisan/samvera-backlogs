@@ -1,0 +1,2 @@
+Upgrade darlingtonia
+This gives us:  improved logging, including summary success/failure at the end of each import the ability to attach works to collections at ingest time the ability to track imports by batch number, which will be increasingly important as we scale the number of concurrent imports  The output now looks like this: event: finish_import, batch_id: , successful_record_count: 19, failed_record_count: 0  We aren't using batch ids yet, but when we want to scale up to many concurrent imports these are going to become very important. Connected to #339

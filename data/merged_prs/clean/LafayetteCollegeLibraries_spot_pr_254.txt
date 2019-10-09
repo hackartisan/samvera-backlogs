@@ -1,0 +1,2 @@
+add jpeg compression to Spot::FileSetAccessMasterService
+from local tests, this reduces the access-master TIFF to something like a third of its size uncompressed (which is usually larger than the original).

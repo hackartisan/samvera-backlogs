@@ -1,0 +1,2 @@
+adds pul-icons boilerplate to the project
+This adds PDF and XML file icons. Unblocks #1101, #1094, and #1048 See the doc for adding icons

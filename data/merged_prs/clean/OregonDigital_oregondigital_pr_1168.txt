@@ -1,0 +1,2 @@
+add set to uri list
+fixes #1167

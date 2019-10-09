@@ -1,0 +1,2 @@
+Remove active link to previous batch item deleted from Donut
+In the batch accession history view, don't make the work id linkable if the work has been deleted.

@@ -1,0 +1,2 @@
+fix social media bug
+_social_media partial was being rendered on file set page, and then expecting our custom filesetpresenter. we fix in two ways: make sure our custom fileset presenter is used in FileSetsController, but also stop rendering social media buttons on file set page, they don't work right anyway, we don't need them there.

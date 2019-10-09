@@ -1,0 +1,2 @@
+Resolves HEILO-1564: Map Keycard/Shibboleth identity information to
+legacy dlpsInstitutionId

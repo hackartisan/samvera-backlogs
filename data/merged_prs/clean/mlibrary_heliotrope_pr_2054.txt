@@ -1,0 +1,2 @@
+HELIO-2236 - change HEB message on monograph catalog
+Resolves HELIO-2236 Updates HEB's DLXS message to reflect new shutdown date of December 2018.

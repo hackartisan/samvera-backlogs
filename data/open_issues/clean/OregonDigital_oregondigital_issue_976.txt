@@ -1,0 +1,3 @@
+Admin destroyed page fails
+ breaks with an HTTP500 standard error
+Since this was something I kept just putting off...   You just need this duplicated, but for the destroyed controller. 

@@ -1,0 +1,2 @@
+Fix IIIF urls for cantaloupe
+Fixes #220

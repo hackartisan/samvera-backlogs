@@ -1,0 +1,2 @@
+RMB Haight-Ashbury: swap title and alt title properties
+Special Collections has requested that all of the values in title be reassigned to title alternative, and all of the values in title alternative be switched to title.

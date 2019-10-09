@@ -1,0 +1,2 @@
+Add collection field/value to existing LADNN data
+LADNN data was ingested before #372, which sets the dlcs_collection_name field. This field needs to be manually set, eg w/ a rake task. Accpetance:  For each item in the DLCS spreadsheet, dlcs_collection_name is set to "Los Angeles Daily News Negatives. Department of Special Collections, Charles E. Young Research Library, University of California at Los Angeles." in each environment:   dev  test  staging  production

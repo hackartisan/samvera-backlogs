@@ -1,0 +1,2 @@
+Buttons don't work in IE11
+I updated QA and Staging to Cypripedium 2.0 and buttons no longer work in IE 11. When you click on a button, nothing happens. I tried "add work," "select an action," and tried to switch from '"my works" to "all works" in the dashboard. Two other staff members confirmed this behavior. Other browsers are fine, but IE 11 is the default (and for some staff, only) browser available. Buttons still work in production, which I haven't pushed 2.0 to yet.

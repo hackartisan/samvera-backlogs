@@ -1,0 +1,2 @@
+Try honeybadger.io for error reporting/management
+Descriptive summary Try  with UCrate to see if it would be a good solution for tracking exceptions in the app.  It's free for open source apps.

@@ -1,0 +1,9 @@
+WIP Download SOLR from a local URL
+Amend solr_wrapper so it can download SOLR from a local URL. The URL should be accessible to us (both locally and on Travis) but not to anyone else.
+I am pretty sure solr_wrapper already has a feature to download Solr from whatever URL you give it. Although I don't remember how to use it, needs to be investigated.   In our case, we are thinking of one of our S3 buckets. The sticking point may be authentication issues. 
+If the solr wrapper config files are run through ERB, it might be as simple as embedding via ERB some code that generates a signed S3 URL on every boot. 
+Yes, solr_wrapper can definitely download the code (and the checksum) from arbitrary URLs.
+we'd have to consider costs of downloading from S3 every time CI runs.  
+> If the solr wrapper config files are run through ERB, it might be as simple as embedding via ERB some code that generates a signed S3 URL on every boot.  They're not -- they use yml for all the paths and urls. There's no opportunity to make changes to the urls at download time .... as solr_wrapper currently stands.
+ yml files are often run through ERB first. I believe the solr_wrapper ones might be.   So you can put `<%= ruby_code %>` in the YML, and it is interpreted, and is expected to result in legal YML. So for instance:        some_key: '<%= SomeClass.class_method_that_outputs_a_string %>'  Let's see... yes, solr_wrapper does that convenient thing, so that should work:    Note the `ERB.new` in there.  So if you put the ERB tags `<%= %>` in there, it is run through ERB first, executing what's inside the tags and replacing them with whatever that code outputs, before giving the result to the YAML parser. 
+Cool. I did *not* realize this was going on. Never seen this pattern before. Very cool.

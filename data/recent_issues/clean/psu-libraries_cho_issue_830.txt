@@ -1,0 +1,2 @@
+Implement access controls for objects
+Enable fine-grained permissions on works, collections, and other objects in CHO using access controls.  investigate Valkyrie's and Blacklight's access controls enable setting of groups, users, and visibility on resources enforce access controls via Solr searches as well as at the object-level  Child of #798

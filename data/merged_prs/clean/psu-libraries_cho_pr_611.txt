@@ -1,0 +1,2 @@
+Operation to import files from a bag
+Description Connects to #580 Creates a transaction that imports a work from a bag and attaches it to a new work during the csv import process. Why was this necessary? This enables us to import works from a bag and a csv file. Changes  new convenience methods on Import::File and Import::FileSet to better enable import Import::Work operation to add file sets and files from a bag to a new work updated feature test that uses bags to import works via csv

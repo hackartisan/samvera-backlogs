@@ -1,0 +1,2 @@
+Explicit sorting by name when reading from the file system
+Description When reading bags off the disk, the order of file sets and any nested works is dependent on the order in which they are read off of the file system. In some cases, Travis was reading these in a different order than our local machines. To make this explicit, the files and directories within a bag are sorted on their identifiers, in the case of works, or their filenames, in the case of file sets.

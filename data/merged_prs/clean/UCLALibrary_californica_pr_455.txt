@@ -1,0 +1,2 @@
+add xray to Gemfile
+connected to #429 (but only incidentally)

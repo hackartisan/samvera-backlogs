@@ -1,0 +1,2 @@
+Modify Holding Contact label on show and form
+Closes #488 By default, display the Holding Contact label on the asset show page For the NW theme, do not show the Holding Contact label Change the Holding Contact field in the asset edit form to a text area to allow for complex formatting of the Holding Contact text

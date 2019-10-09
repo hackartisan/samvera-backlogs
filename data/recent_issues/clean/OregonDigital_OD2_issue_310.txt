@@ -1,0 +1,2 @@
+Add sidekiq UI for adminstrators
+Descriptive summary Sidekiq has a nice administration UI that can be mounted on the OD2 application. This has been used in OSU ScholarsArchive at /sidekiq. Setup the same integration to  Expected behavior A user who is an administrator can use the Sidekiq web UI at 

@@ -1,0 +1,2 @@
+Add additional QA-driven dropdowns
+This commit includes the additional dropdowns that are driven by QA authorities to the form. There are also some minor changes in this dealing with the naming of the files. Vue components are typically capitalized so I've followed that pattern in the file names. In JS, objects that can be initialized with new are typically capitalized. There is also an additonal spec for the School component

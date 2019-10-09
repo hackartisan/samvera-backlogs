@@ -1,0 +1,4 @@
+Ingest "Watermark specimens" (pudl0120)
+Notes: SHOULD WORK - could be a map set, but ingest as a SR for now  Should we ingest these as an SR or a ScannedMap?
+Files: 
+No PUDL collection page.

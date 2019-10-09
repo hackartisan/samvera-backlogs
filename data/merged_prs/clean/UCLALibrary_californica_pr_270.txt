@@ -1,0 +1,2 @@
+Skip records with ENV['SKIP']
+When a long running ingest fails partway through, we want to be able to restart it where it left off. We can now do this by setting a SKIP environment variable like this: SKIP=5 rake californica:ingest:sample Connected to UCLALibrary/amalgamated-samvera#137

@@ -1,0 +1,2 @@
+Sanborn map GeoBlacklight records have no date value
+Date values from Sanborn records do not have solr_year_i or dct_temporal_sm values. Example:  This makes filtering our Sanborn collection by date very difficult.

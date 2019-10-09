@@ -1,0 +1,2 @@
+Disable fixing fedora index on fetch
+Because of this, fetch jobs are taking hours per fetch, and there's thousands of fetch jobs, when a full reindex takes 6 hours. This process is only useful if a label changes. My theory is that's pretty rare.

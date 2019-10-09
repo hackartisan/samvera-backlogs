@@ -1,0 +1,2 @@
+Update GraphQL to return more records
+GraphQL should return non-private complete items, but provide an authorization message property which Orangelight or Finding Aids should display if there’s some other way to access the material (login or be on campus/VPN or reading room or whatever). It should also not return the thumbnail URL. May also need an authorization code. This will support orangelight logic in determining how to display links to digital objects.

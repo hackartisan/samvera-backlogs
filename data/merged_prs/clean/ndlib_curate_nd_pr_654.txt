@@ -1,0 +1,2 @@
+DLTP-1179: Fix the fixity report
+Changes:  The problem was due to the api changing its id key from "Id" to "ID" and the data type changing to int from string (ndlib/bendo#167). Changed the code to match both of these changes. Also fixed a new rendering problem that was causing the limit block to render over the bottom half of the form. Not sure what caused this since it appears nothing has change. Fixed the display to be grid.

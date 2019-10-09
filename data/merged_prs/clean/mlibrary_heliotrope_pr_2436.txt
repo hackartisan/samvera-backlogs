@@ -1,0 +1,2 @@
+Resolves HELIO-2798: Extend FileSet embeds to support a Leaflet map
+First iteration on embed functionality for maps.

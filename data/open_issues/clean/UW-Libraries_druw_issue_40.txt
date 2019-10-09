@@ -1,0 +1,8 @@
+Batch upload to hyrax v2.1.0 from within a collection fails
+Track this issue.
+This is still broken in v2.4.1 and v3.0.0.pre.beta1 How can we just remove the following line "To create a separate work for each of the files, go to Batch upload" from the "Add new work" form?
+It would be worth seeing how it renders if we just remove the text for `batch_link` and `batch_upload_hint` by replacing them with "" in hyrax.en.yml. Otherwise, we'll need to start customizing files to remove it entirely.  
+Do you know how to edit  to make that happen? 
+I'm failing to hide that in the form by editing hyrax.en.yml I may have indentations incorrect. 
+Copying and editing the following in my local VM for now. 
+Even better, copying line from 3.0.0.pre.beta1 _form.html.erb makes editing hyrax.en.yml work to hide this line. ```<p class="switch-upload-type"><%= t('.batch_upload_hint') %> <%= link_to t('.batch_link'), hyrax.new_batch_upload_path %></p>```

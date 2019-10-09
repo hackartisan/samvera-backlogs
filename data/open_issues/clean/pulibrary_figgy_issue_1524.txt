@@ -1,0 +1,2 @@
+show me the vocabulary terms that don't have URIs
+Purpose of this report is so that URIs can be added to those that don't have any.

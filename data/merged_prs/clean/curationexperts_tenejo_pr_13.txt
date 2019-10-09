@@ -1,0 +1,2 @@
+Fix derivative regeneration task (`NoMethodError`)
+This task referenced a method name that only existed briefly during development. Note that we should document a standard approach to testing rake tasks.

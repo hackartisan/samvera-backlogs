@@ -1,0 +1,2 @@
+Handle zip file downloads based on item in request
+When download route receives a work id, initiate a zip download of all authorized files. When download route receives a file id, initiate a normal download of single file. When there are no authorized files to download on the work, return an error.

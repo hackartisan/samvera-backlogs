@@ -1,0 +1,2 @@
+loads ERB from config/config.yml, updates example config
+fixes #319

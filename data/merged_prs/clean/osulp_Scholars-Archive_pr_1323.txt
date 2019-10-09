@@ -1,0 +1,2 @@
+Revise legacy stats process
+fix #1302

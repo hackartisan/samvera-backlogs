@@ -1,0 +1,2 @@
+updated style in result list view
+fixes #594

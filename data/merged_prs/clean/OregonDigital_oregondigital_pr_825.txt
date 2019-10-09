@@ -1,0 +1,1 @@
+Add capybara screenshots to circle artifacts.

@@ -1,0 +1,2 @@
+Feature/suppress children in oai
+fixes #957 Here's a first try. I didn't add anything to the initial query, but I did put the check for parents in before the token is set.

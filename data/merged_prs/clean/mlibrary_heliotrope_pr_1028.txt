@@ -1,0 +1,2 @@
+Fixes #1025, /dashboard/works error
+Manually added some code that normally would have been created by a hyrax generator.

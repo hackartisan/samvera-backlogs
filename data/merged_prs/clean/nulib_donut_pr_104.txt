@@ -1,0 +1,2 @@
+Adding authority for style period auto-suggest
+Adds dropdown with autosuggest from AAT for Style Period. Fixes jquery-ui require in application.scss Tests the autcomplete input field and url are present.

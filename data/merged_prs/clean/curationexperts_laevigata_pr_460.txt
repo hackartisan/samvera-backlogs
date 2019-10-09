@@ -1,0 +1,2 @@
+Update user model to match new shibboleth AuthHash structure
+Fixes an issue where Emory folks can't authenticate with shibboleth.

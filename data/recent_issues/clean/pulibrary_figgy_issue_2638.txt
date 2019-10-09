@@ -1,0 +1,2 @@
+Numismatics orangelight document incorrect
+The technique property in the numismatics orangelight document should be technique_t. 

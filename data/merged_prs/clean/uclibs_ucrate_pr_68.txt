@@ -1,0 +1,2 @@
+Copy create work spec from Hyrax
+Partial work on #67  Lays the needed groundwork to support capybara tests with javascript Copies over the create_generic_work_spec.rb from Hyrax  This brings coverage up to 96%

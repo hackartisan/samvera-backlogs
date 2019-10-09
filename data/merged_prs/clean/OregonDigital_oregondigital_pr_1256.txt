@@ -1,0 +1,2 @@
+Add loc_reponse_to_qa method
+Fixes #1255 This is the same method that the Subject CV has, forces use of the id.loc.gov links out of the JSON response that QA gets.

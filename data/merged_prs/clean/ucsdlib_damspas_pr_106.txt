@@ -1,0 +1,2 @@
+Adding to readme (DHH-677)
+Fixes 

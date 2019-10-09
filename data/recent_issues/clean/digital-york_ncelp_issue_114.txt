@@ -1,0 +1,2 @@
+Resource details page - Hover text for Hours of prior instruction and Target age range
+On the Resource Details page can the field names_Hours of prior instruction_ and Target age range have a hover text / pop up?   Text for Hours of prior instruction: exposure table   Text for Target age range: These ages are intended as a guideline. Defining who this resource is for is ultimately up to the judgement of the downloader. Suggestions are based on typical language curriculum structures in UK schools.

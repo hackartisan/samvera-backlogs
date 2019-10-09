@@ -1,0 +1,2 @@
+Changed to use the #reject method instead of the bang #reject!.
+See  The bang #reject! method may return nil unexpectedly when there is no matched for rejecting.

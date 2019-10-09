@@ -1,0 +1,2 @@
+display embargo information even after embargo expiry
+Descriptive summary embargo information is still useful after the embargo has expired. i would like to find a way to display the embargo end date and the reason for the embargo on the metadata record for any item that currently or previously had an embargo.

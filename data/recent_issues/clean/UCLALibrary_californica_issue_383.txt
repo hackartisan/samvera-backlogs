@@ -1,0 +1,2 @@
+Add cantaloupe to californica docker-compose
+child of UCLALibrary/amalgamated-samvera#240 use the uclalibrary/cantaloupe-docker image, add delegate script from  Acceptance:   make sure riiif is disabled  cantaloupe service added to docker-compose.yl  images work

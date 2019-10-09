@@ -1,0 +1,2 @@
+Display collection name not ID
+This commit changes the view so that the collection name is displayed, not just the ID. It does this with a Solr query so that it's not looking it up in Fedora. Connected to #84 Connected to #85

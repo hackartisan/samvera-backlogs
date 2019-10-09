@@ -1,0 +1,2 @@
+Migrate Oxford Yearbooks Collection
+Story As a [user profile], I want [functionality], so that [business goal] Acceptance Criteria Use one or more of the following options to provide acceptance criteria. Notes Add notes here Links to Additional Information Add links here Checklist   Item 1  Item 2  Given/When/Then  Given (some context) and (some other optional context) When (some action is carried out) Then (a set of observable consequences should occur)

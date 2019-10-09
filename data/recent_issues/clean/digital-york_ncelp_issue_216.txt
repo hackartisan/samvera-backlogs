@@ -1,0 +1,2 @@
+Hierarchies
+Create a hierarchical / nested structure for some of the facets.

@@ -1,0 +1,2 @@
+remove broken monogram thumbnail link
+Removes the manage monogram thumbnail link because it points to an invalid url:  Click "view" instead to view monogram object.

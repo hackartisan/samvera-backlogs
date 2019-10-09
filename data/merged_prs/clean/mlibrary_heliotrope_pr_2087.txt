@@ -1,0 +1,2 @@
+Resolves HELIO-2273: Refactor model CRUD specs to use checkpoint
+Removed and replaced controller specs with request specs.

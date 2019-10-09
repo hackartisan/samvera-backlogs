@@ -1,0 +1,1 @@
+Periodically failing numismatic_places_controller test

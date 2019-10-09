@@ -1,0 +1,2 @@
+Generate Blacklight skeleton app for Lux
+Current plan is to transfer digital.library to aws@emory account first, due to blacklight's relative simplicity vs hyrax, but our dlp-lux repo doesn't have an app in it yet. I believe if you follow the instructions here it will create a skeleton app.    Generate skeleton application and push it to dlp-lux  Optional: Add some Emory branding.

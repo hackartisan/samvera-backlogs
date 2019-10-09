@@ -1,0 +1,2 @@
+adding help text and index type to data dictionary field
+refs #326

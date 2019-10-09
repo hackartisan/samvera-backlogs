@@ -1,0 +1,2 @@
+Add controller, link to create Archival Media Collection
+resolves #1087 Currently linked to a form that renders Collection objects; that should be addressed as part of #1006

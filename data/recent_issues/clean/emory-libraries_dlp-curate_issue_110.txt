@@ -1,0 +1,2 @@
+Test SolrDoc for new metadata
+Create/Save a work with a specific set of metadata Retrieve the work from Solr (there is a Solr query service for this, you should get a Solr document back) Test that the stored metadata is stored into Solr correctly.  The metadata should span the matrix of types of MD we put into Solr (single/multiple, faceted, searchable, etc.) This might be helpful: 

@@ -1,0 +1,2 @@
+Adds seperators for set page titles.
+Closes #335

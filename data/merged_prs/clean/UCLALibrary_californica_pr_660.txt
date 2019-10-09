@@ -1,0 +1,2 @@
+More complete example in manifest view spec
+This provides a more complete example in the view spec for the IIIF Manifest. Instead of checking for indvidual properties it compares everything from a template at one time.

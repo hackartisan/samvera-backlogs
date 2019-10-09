@@ -1,0 +1,2 @@
+Use FactoryGirl::create_for_repository
+This uses a new method for creating factory resources that allows us to use the data mapper pattern. It was copied from Princeton's Figgy application, which was in turn taking from an issue in FactoryGirl itself. FactoryGirl doesn't support persistence via a data mapper pattern, but the CreateStategyForRepositoryPattern adds the ability to it.

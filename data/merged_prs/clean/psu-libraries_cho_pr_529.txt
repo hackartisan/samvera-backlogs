@@ -1,0 +1,2 @@
+Update to Blacklight 7
+Description Overrides to catalog/show and catalog/index have been removed. This means the overrides to swap content and sidebar display are no longer happening. Modifies the styles a bit to use default font sizes from Bootstrap 4 and fixes the tall search button issue. Addreses some SCSS lint errors for syntax and specificity. Fixes #467 and #428 Changes Are there any major changes in this PR that will change the release process? No Checklist   i18n enabled  adequate test coverage  accessible interface

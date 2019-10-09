@@ -1,0 +1,2 @@
+CSV report of all PhD records in new ETDs for the academic year 17-18
+ This rake command generates a csv report that includes the following fields: Author's name, faculty advisor, committee members, date of submission, and student program.

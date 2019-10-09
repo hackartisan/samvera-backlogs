@@ -1,0 +1,2 @@
+Configuring Ldap Service per environment
+We will be using Service DN credentials. So moving service_dn to secrets Closes #39

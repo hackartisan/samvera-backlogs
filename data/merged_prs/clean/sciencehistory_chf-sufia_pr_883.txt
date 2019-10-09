@@ -1,0 +1,2 @@
+S3 permissions
+Applies a read permission to all objects in the dzi bucket. Means that the permission for access is now at the bucket level if we need to copy items between buckets, which causes a loss of ACLs, or any other edits that might cause an object to lose the ACL for access. Bucket policy was taken from the AWS default example for universal read access.

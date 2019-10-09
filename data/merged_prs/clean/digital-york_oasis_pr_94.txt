@@ -1,0 +1,2 @@
+Issue 49 help texts to multiple choice fields
+done #49

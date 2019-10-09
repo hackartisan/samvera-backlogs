@@ -1,0 +1,2 @@
+renders proper link path to queues-monitor
+fixes #467

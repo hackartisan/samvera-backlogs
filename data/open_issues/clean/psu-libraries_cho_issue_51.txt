@@ -1,0 +1,3 @@
+Learning Tools Interoperability (LTI) with Canvas
+As an instructor I need the digital repository to be able to integrate with Canvas, So I can easily add objects in the repository as resources for my course in Canvas.
+This user story could use fleshing out and feedback from Library Learning Services.

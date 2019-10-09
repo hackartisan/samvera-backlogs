@@ -1,0 +1,2 @@
+hide workflow and visibility badges
+Fixes #44

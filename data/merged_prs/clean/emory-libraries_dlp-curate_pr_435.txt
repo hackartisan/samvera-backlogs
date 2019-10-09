@@ -1,0 +1,2 @@
+Add UV config
+This adds the basic UV config to turn it on and have it display images in developement mode. If the IIIF_SERVER_URL is not set it will use Riiif to display the images. When Cantaloupe is setup that variable should be set.

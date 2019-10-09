@@ -1,0 +1,2 @@
+Sparontologies does not content negotiate as expected. 
+Descriptive summary In rails console, irb(main):022:0> graph = RDF::Graph.load(' => #<RDF::Graph:0x2b1fb3ce3aa8(default)> irb(main):023:0> graph.statements => []  doesnt work, graph = RDF::Graph.load(' => #<RDF::Graph:0x2b1fb3de87b4(default)> irb(main):025:0> graph.statements  does. Something is still up with sparontologies that we cant get labels per expected.

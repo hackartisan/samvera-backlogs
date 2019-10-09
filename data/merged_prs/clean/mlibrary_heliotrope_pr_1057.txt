@@ -1,0 +1,2 @@
+Resolves #974 Hydra to Samvera rebranding, redux.
+Changes footer to point to samvera.org and Samvera GitHub.

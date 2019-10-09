@@ -1,0 +1,2 @@
+Display title on search page
+Display title on search page @347daa82b880dba87cdf33e6b17199ebde8aba04 Changes to allow callbacks to fire appropriately.

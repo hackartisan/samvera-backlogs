@@ -1,0 +1,2 @@
+Setup Travis and Coveralls for parallel builds
+This commit adds the additional configuration required to report test coverage when using parallel builds in travis. See:  Related to #1221

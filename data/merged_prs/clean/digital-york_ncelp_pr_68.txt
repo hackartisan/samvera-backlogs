@@ -1,0 +1,2 @@
+customize recently uploaded widget, remove deposit, add topics
+resolved #53

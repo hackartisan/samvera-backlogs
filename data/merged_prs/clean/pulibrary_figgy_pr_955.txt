@@ -1,0 +1,2 @@
+Test that manage users page adds 'cas' provider
+, this seems to be working. Here is a test; not sure if you want it merged or not. closes #933

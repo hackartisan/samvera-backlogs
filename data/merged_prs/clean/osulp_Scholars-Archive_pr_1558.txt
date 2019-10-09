@@ -1,0 +1,2 @@
+Fix/human readable type
+human_readable_type= on models was deprecated in Hyrax: samvera/hyrax#2197

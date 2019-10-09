@@ -1,0 +1,2 @@
+Accession form reorg
+Reorganize the Numismatic Accession form to match the order of the existing application:  accession number number in accession accession date number of items accession type cost account acquired from person acquired from firm info private info references  Child of #2025

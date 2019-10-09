@@ -1,0 +1,2 @@
+Upload files when importing
+This commit introduces a ImportFile class that generates the path to the file specified in the import XML and then opens the file to send to the actor stack. Closes #73

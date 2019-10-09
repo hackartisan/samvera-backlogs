@@ -1,0 +1,2 @@
+shared files: role_map no, browse-everything yes
+Closes #215. Also breaks the linked_dirs and linked_files statements into multiple lines to satisfy rubocop.

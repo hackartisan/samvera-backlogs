@@ -1,0 +1,2 @@
+added custom citations partial for google scholar
+fixes #1108  added the logic to render a date for citation_publication_date. for citation_pdf_url, we used the representative_id to check when there is file sets listed. If representative_id is not set, then we iterate over the member_presenters to get the first member (child work) download url. expose citation_journal_title, citation_volume, citation_issue if the work is an article

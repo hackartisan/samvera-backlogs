@@ -1,0 +1,2 @@
+Render newlines in note fields
+Fixes #418 In order to preserve newlines in note fields, we add a custom rendered. Port over :note field renderer from production Scholar. hat tip 

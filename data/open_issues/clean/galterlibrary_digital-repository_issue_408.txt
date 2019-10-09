@@ -1,0 +1,1 @@
+File versioning allows to upload unauthorized file formats

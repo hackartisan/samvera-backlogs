@@ -1,0 +1,2 @@
+Updated test to use chromedriver
+Additionally swapped javascript signin with login_as from devise. Connected to #1441

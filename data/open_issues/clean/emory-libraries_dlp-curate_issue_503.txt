@@ -1,0 +1,2 @@
+Align Collection field names/labels to match revised Work fields 
+Related to work queued in #407 for revising Work-level field names and labels, update equivalent Collection properties to align with them.

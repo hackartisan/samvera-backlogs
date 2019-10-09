@@ -1,0 +1,2 @@
+Link NumismaticPerson resources to NumismaticArtist by ID
+closes #2911

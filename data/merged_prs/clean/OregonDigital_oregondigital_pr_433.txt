@@ -1,0 +1,2 @@
+Fixes Document Size View Issue
+Calculating the size of the images turns out to be resource intensive, so this caches everything in a YML datastream (and consequently in solr, although this implementation doesn't use that data.) Closes #424

@@ -1,0 +1,2 @@
+Restore ApplyPermissionTemplateActor
+Josh, Andy, Bess, Mark and Lisa all discussed the import actor stack, documented here:  We agreed the stripped down version mostly looked fine, except that we should add the ApplyPermissionTemplateActor back in.

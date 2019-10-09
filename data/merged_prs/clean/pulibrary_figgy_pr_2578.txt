@@ -1,0 +1,2 @@
+Reorganize numismatic issue and coin forms
+Reorganize numismatic issue and coin forms according to feedback in this google doc:   Reorders edit and show page attributes. Removes place, find, and object_type from Coin resources. Removes description and geographic_origin from Numismatic Issue resources. Adds numismatic_collection to Coins.  Closes #2455

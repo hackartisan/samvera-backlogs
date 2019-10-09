@@ -1,0 +1,2 @@
+rake task to generate urls to stress test riiif and netpbm
+This relates to #400 (testing riiif to make sure there are no memory problems)

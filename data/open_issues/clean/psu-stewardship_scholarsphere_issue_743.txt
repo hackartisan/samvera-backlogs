@@ -1,0 +1,4 @@
+Need to set upload set id when batch uploading
+
+We migrated the batch to upload set id in #664 when we imported data from the old system.  Do we want to continue setting the upload set when the user uploads items in a batch.
+I'm not to worried about this. Its just if they were uploaded together right?

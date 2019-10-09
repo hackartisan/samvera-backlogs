@@ -1,0 +1,2 @@
+cleanup Elasticsearch representative_file and thumbnail indexing
+fixes nulib/next-generation-repository#804

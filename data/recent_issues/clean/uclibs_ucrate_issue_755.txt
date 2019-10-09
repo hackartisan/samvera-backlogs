@@ -1,0 +1,2 @@
+DOI intentifer_url fields still have EZID domains
+Descriptive summary work.identifier_url for works that had DOIs before our migration still have EZID domains in them.  Example:  Those fields should be modified to use  The incorrect URL is preventing users from editing their existing works with DOIs.

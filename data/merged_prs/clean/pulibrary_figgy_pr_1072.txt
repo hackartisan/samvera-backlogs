@@ -1,0 +1,2 @@
+Add SimpleResource to discoverable classes in search_builder
+Resolves #1040; a new indexer was not required

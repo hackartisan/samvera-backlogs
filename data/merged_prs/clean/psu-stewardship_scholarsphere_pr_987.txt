@@ -1,0 +1,2 @@
+Redirecting the work download to the representative fileset
+This will handle legacy urls for download.  In the future we will want to download the entire item not redirect, but that is for a later date.

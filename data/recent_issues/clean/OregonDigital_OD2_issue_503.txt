@@ -1,0 +1,2 @@
+image not rendering in Universal Viewer on staging
+Descriptive summary Loading a jpg or jpeg to a work does not result in that image being viewable in Universal Viewer. Specific work in question: 

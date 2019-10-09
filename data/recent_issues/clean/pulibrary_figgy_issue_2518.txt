@@ -1,0 +1,2 @@
+New recording form should have title "New recording"
+Currently says "New scanned resource"

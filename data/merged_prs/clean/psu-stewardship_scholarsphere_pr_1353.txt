@@ -1,0 +1,2 @@
+Better processing of term queries in Solr
+Increases test coverage for TermQuery and handles any exception that might be returned from RSolr. Related to #1175

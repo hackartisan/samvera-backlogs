@@ -1,0 +1,2 @@
+Configures facets to display the same as Scholar.
+Fixes #245 ; Present short summary (50 characters or less) Configures facets to display the same as in Scholar Tests explicitly expect the facets we want on the page, they also expect exactly 6 facets, instead of explicitly expecting a page not to have facets. This gets around a scenario where the facet name we expect not to be there is present, but not the same display name due to translation or something in that vein. Changes proposed in this pull request: Configures facets to display the same as in Scholar

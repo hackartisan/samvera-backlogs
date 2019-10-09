@@ -1,0 +1,2 @@
+Shibboleth Form Submission
+Submit a Shibboleth form with the initial set of parameters needed for Curate. 

@@ -1,0 +1,2 @@
+Set student work type as an additional facet
+(moved from uclibs/scholar_uc_legacy#745) With new student work type, the additional type is the only type in the facets. Change to also include 'Student work' as a extra work type.

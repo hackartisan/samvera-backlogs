@@ -1,0 +1,2 @@
+Images display with featured researchers
+Images are displayed inline on the featured researchers page, but are not adding enough white space so that there is separation between different researchers:

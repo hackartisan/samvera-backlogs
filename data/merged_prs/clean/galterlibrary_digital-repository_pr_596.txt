@@ -1,0 +1,2 @@
+Add bot-thwarting measures to contact form
+Fixes #593

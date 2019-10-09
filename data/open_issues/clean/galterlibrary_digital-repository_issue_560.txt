@@ -1,0 +1,5 @@
+DOI not appearing on an item page
+The following presentation does not have a DOI link on the page:  Piotr confirmed that it does have one (10.18131/G3HB19) and that it is a valid link: dx.doi.org/10.18131/G3HB19 Piotr believes it is an index problem but is looking into this further.
+The original issue was resolved by updated index manually for that item, however we should index periodically.
++1 on updating index periodically.  
+Now I remember the problem with re-indexing things. We have enough objects that they don't fit in memory and would blow up the box. This needs to be done in stages somehow. We might need to use Fedora's API to pull all IDs then reindex each.

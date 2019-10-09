@@ -1,0 +1,2 @@
+Resolves HELIO-2582: Turnsole Greensub Refactor
+Primarily added named parameters to the Greensub service methods. For example: Greensub.subscribed?(subscriber, product) --> Greensub.subscribed?(subscriber:, product:)

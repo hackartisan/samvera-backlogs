@@ -1,0 +1,2 @@
+fixing a few bugs in the migration process
+This PR just hardens the migration process.  1000 was a mistake since we have over 7000 items. Random errors cause the process to fail so I added a capture The creators for some records were blank.  This could be becuase we were removing them, but it seemed good to handle that case Added a throw catch so if the alias is not found we do not clear the creators Check the Alias database for the display name if it has not been found in the hash

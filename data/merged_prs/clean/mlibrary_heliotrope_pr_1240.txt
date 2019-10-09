@@ -1,0 +1,2 @@
+Resolves #1238 Factory for lib objects
+I moved some stuff around so it looks bigger than it is actually. The meat is here: app/services/factory_service.rb

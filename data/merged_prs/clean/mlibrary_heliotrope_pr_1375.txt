@@ -1,0 +1,2 @@
+coveralls wear add filter
+filter out spec, lib/spec, and config folders

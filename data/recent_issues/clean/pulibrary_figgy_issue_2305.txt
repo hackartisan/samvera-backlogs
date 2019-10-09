@@ -1,0 +1,2 @@
+Order Manager errors for thumbnails need to be isolated
+Otherwise invalid thumbnail properties (e. g. missing iiifServiceUrl in the response to GraphQL queries for  will break the Order Manager

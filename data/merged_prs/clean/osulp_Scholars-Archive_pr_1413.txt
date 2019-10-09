@@ -1,0 +1,2 @@
+Changes more conference layout stuff
+Fixes #1412

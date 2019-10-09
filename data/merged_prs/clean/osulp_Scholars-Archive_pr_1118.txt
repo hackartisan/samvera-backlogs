@@ -1,0 +1,2 @@
+update query to fix results not being included in the review submissions
+using ActiveFedora::SolrService instead of Hyrax::WorkRelation.new.search_with_conditions to query for review submissions

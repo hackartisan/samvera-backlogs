@@ -1,0 +1,2 @@
+Feature/#261 hide admin set controls displays
+Closes #261  ; Hides admin set controls and displays for works. Changes proposed in this pull request:  Hides admin set controls and displays for works

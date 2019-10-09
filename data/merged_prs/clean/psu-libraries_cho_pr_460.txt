@@ -1,0 +1,2 @@
+CVE-2018-8048 - Loofah XSS Vulnerability
+Update the loofah gem to address security vulnerability.

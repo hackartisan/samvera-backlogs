@@ -1,0 +1,2 @@
+don't use HTML entities for special characters
+#2823

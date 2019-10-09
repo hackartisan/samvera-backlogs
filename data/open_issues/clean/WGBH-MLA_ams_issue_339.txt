@@ -1,0 +1,2 @@
+Develop benchmarks
+Because They will provide the tests that produce the results that we plan to present at Samvera connect. Done when Benchmarks to test the following have been committed:   ActiveFedora::Base.create!  Hyrax::CurationConcern.actor.create  AAPB::BatchIngest::BatchItemIngester.ingest

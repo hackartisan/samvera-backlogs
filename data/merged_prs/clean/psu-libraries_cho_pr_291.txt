@@ -1,0 +1,2 @@
+Custom FindUsing query
+Allows you to query for any attribute in a Valkyrie-backed resource.

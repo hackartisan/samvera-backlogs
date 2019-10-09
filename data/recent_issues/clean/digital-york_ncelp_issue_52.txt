@@ -1,0 +1,2 @@
+Change some fields from required to optional
+While uploading some actual resources we have created I noticed that I had to fill in fields that didn't really apply to them. I'm sorry, I didn't think these through properly. The following should be changed to optional:  Topic Thematic / semantic field Modality /  mode (skill) Target age range Hours of prior instruction

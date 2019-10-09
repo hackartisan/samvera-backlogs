@@ -1,0 +1,5 @@
+Reserve a NOID
+A trusted app can request a NOID for any hydra object (asset, monograph)  The returned NOID is not already used in the Hyrda repo and is reserved so that it won't be assigned to anything else  At a later time, the same trusted app can submit/create a Hydra object and assign it that same NOID as its Hydra ID.
+similar model is used in Sipity 
+Likely upcoming changes with NOIDs and Hyrax,  might change how we want to think about this issue.
+Note that on last week's Samvera Tech call, we decided **not** to deprecate NOID usage in Hyrax.

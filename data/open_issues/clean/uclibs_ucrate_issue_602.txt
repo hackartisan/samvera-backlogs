@@ -1,0 +1,2 @@
+Enhance language translations
+Descriptive summary Make sure that all text in the application can be translated to Spanish and Chinese. Lots of enhancements were made in #571, but more fixes are needed. Pages to focus on:  login page profile page profile edit page new work page & edit work page new collection page and edit collection page people page footer dashboard

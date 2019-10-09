@@ -1,0 +1,2 @@
+Add Configurable Facets attribute and checkbox to Collection Type Edit form
+Descriptive summary In order to make facets configurable for some collection types, we need  to be able to tell OD2 which collection types allow configurable facets. We should add this functionality to the Edit form for the collection type, under the Settings Tab (see pic below). Selecting this checkbox makes the collection facet configuration page available for any collection of that type.  Related work #528 Accessibility Concerns  Navigation and selection on the Edit page for collection type

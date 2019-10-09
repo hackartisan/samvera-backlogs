@@ -1,0 +1,2 @@
+Switch to local RVM and upgrade Ruby
+Ruby upgrade 2.2.2 -> 2.3.7 RVM installed for user deploy version 1.29.3 Passenger reconfigured to use local RVM galter-resque service generation added, to account for RVM and Ruby upgrades Passenger upgrade 5.2.0 -> 5.2.3 ImageMagic deployment made optional to speed-up deployments Detailed deployment and rollback instruction in #612 Tested deployment and rollback on staging and office servers.

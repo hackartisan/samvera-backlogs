@@ -1,0 +1,2 @@
+Regenerating derivatives should clear error message
+E.g. this item had derivatives regenerated and is fine. However, its file manager page still shows the error:  I have a sample test I'm going to push up in a branch

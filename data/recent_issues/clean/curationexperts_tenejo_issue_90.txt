@@ -1,0 +1,2 @@
+Label fields in the CSV to match edit UI
+STORY As a new user to Tenejo, it's confusing that a field like "Location" shows up in the CSV. As a new user to Tenejo, I would like the CSV field names to match the labels in the browser interface, so that I don't have to look things up in additional documentation. ACCEPTANCE   The CSV template fields exactly match the text of the label for the field in the edit form  IDEA? consider using the field's internationalization value as the CSV template column header?

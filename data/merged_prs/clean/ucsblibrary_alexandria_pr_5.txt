@@ -1,0 +1,1 @@
+[rubocop] fix more Metrics/LineLength violations in specs

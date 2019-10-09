@@ -1,0 +1,2 @@
+Modifies batch edit to set a base values.
+Fixes #305 Batch edit works with the following fields.  We will still need to create different issues for some of the other fields.

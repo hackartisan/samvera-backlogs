@@ -1,0 +1,2 @@
+Moved default collection image to public root
+Description Moves the default image used in a collection's landing page to the root of the public folder, and outside any server-managed directory. This ensures that we can update the image within the git repo and the change will be made at the next deploy. Also moves the spec test for the representative image presenter to the correct subdirectory.

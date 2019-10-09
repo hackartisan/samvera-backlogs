@@ -1,0 +1,2 @@
+Resolves HELIO-2103: Purge Paragraph
+Dead code.

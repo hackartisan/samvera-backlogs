@@ -1,0 +1,2 @@
+Adding a to_h to the parameters
+Rails 5 changed the class and we are looking for a Hash later Added a test for the save since it currently is untested

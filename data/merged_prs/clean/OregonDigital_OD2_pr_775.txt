@@ -1,0 +1,2 @@
+Sets base in place for osu and uo visbility
+This is mostly just hacked into place, but its almost there. Currently the form is still submitting 'restricted' as the visibility when osu or uo is chosen, but once that gets fixed then it should be working for the most part.

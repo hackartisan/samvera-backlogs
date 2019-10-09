@@ -1,0 +1,2 @@
+Update RubyTika
+Swaps RubyTikaApp for a forked version updated to Tika 1.8. Brings tika-config file into Figgy. Tests example of zipped shapefile with documentation that was causing issues.  Closes #1753

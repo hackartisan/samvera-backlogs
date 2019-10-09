@@ -1,0 +1,2 @@
+Permalinks to non-public dc collection index pages
+Currently attempts to load the page and causes a method error missing. It should redirect the browser to a login page. 11:55:20 FATAL:  ActionView::Template::Error (undefined method `title' for nil:NilClass)

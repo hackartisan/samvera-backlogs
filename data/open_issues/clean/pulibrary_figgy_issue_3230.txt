@@ -1,0 +1,2 @@
+Document how collections are used
+A: Used to load into DPUL but can also be used however you want. If you want to bulk complete they need to be in a collection. Collections also have notifications re: pending stuff.

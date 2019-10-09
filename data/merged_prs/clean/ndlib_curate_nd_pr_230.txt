@@ -1,0 +1,2 @@
+Move FAQ to be at top level. Add report a problem to footer.
+Also put "report a problem" at top of the FAQ page. Fixes issue #218.

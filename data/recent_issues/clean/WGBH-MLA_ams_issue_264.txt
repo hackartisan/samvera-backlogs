@@ -1,0 +1,2 @@
+Reindexing on AAPB from AMS
+Description: As the AMS, I can export records as zipped PBCore xml description documents, scp that zipped file to AAPB, and kick off the reindexing of that xml on AAPB. Done when:   The zipped file of exported records is copied onto the AAPB machine  From only actions taken in AMS, the task to reindex those records starts on AAPB

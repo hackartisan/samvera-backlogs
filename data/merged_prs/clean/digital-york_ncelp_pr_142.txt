@@ -1,0 +1,2 @@
+upgrade to hyrax 2.5
+Upgrade Hyrax to 2.5.0

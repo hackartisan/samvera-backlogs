@@ -1,0 +1,2 @@
+Adding canonical name to alias
+This allows for user to query via the canonical name and find the aliases A record with a display name "Carolyn Munson" tied to the Carolyn Cole agent will be found when the user queries for "cole" The opposite is not true though. With a record with a display name "Carolyn Munson" and a record of with a display name of "Carolyn Cole", tied to the Carolyn Cole agent only the "Carolyn Munson" record would be  be found when the user queries for "munson" refs #992

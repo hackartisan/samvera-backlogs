@@ -1,0 +1,2 @@
+Visibility (access level) for collections
+Collection edit form has the following options for visibility settings, with only the public option implemented: Visibility  Public Authenticated Private  All options need to be implemented and expand slightly. Options (and what the mean) outlined below. Access Level  Public Access (anyone who can get to CHO) PSU Access (WebAccess authenticated users) Private Access (user or group of users)

@@ -1,0 +1,2 @@
+Users should be able to (re)generate PDFs for ScannedResources
+Repository administrators (or any developer) may need to manually regenerate the PDF derivatives offered for downloads in a given ScannedResource

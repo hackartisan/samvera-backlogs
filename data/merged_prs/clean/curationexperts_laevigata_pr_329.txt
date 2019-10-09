@@ -1,0 +1,2 @@
+Adding rights_statement
+Closes #162

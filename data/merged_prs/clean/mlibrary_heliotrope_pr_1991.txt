@@ -1,0 +1,2 @@
+HELIO-2133 Add press to counter report table
+Code is on staging, tested the rake task, all looks good.

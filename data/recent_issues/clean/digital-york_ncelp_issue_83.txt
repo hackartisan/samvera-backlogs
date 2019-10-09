@@ -1,0 +1,2 @@
+Fix alignment in left hand facet list
+In the search results the > in the top facet is misaligned.

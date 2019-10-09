@@ -1,0 +1,2 @@
+Publish a manifest for a Range
+The way to achieve this is to create manifests for portions of a resource. For ranges we'll either need a new route or we'll use a query string param, e.g.  Note we need to check on persistence of range ids. Currently we believe they are not persistent, i.e. all the range IDs for a given resource might change if the structure is edited at all.

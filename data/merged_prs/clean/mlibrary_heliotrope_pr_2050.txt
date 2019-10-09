@@ -1,0 +1,2 @@
+HELIO-1778: download blank CSV
+Resolves HELIO-1778

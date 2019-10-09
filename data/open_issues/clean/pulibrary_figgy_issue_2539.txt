@@ -1,0 +1,8 @@
+If a derivative fails to generate, it should throw an error.
+Right now it just continued silently, which made the job not retry.
+To replicate: break ImageMagick and try to generate derivatives.
+I could not find a way to disable this on the CircleCI environment (uninstalling ImageMagick using Homebrew on my local development environment *did* trigger the failures needed to reproduce this), hence I am going to proceed with testing for this by just raising errors within the context of RSpec tests.
+I'm uncertain if retriggering the job explicitly in this manner would be acceptable: 
+ hm. it seems like the ticket is asking for the error to make it all the way out so that sidekiq will re-run the job. Is there something up the stack that is stifling the error?
+For my local environment, `MiniMagick::Error: ImageMagick/GraphicsMagick is not installed` is still being propagated up through the stack for `CreateDerivativesJob` (I assume that this is how the job restarts are triggered), I'll look to improve the work on the branch in order to ensure that nothing should be getting stifled.
+This seems to be addressed by the changes proposed in  with the understanding that this is just a different message for `MiniMagick::Error`.  I will proceed by adding this as an additional test case and closing 

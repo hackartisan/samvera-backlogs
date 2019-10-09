@@ -1,0 +1,2 @@
+Search results screen creator links to maker_facet
+They were trying to link to individual type-specific facets before, which don't exist, causing a 0-results screen with confusing UI on click. We just have a single facet for creators, so link there. Closes #454

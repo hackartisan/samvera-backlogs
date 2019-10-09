@@ -1,0 +1,2 @@
+Split mailer test into smaller fixtures to reduce vulnerability to order
+fluctuation fixes #1771

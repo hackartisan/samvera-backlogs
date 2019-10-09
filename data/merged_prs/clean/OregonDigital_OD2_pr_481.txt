@@ -1,0 +1,2 @@
+Fix Donor facet label
+Fixes #480

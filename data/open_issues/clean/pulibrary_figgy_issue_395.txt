@@ -1,0 +1,4 @@
+Gracefully handle changing a collection or ephemera project slug
+If I change the slug of a collection or ephemera project, DPUL exhibits should keep working.
+In order to fix this we need to make sync send collection IDs instead of collection slugs and make DPUL collections store collection IDs to synchronize on.  Confirm that DPUL allows you to change the slug.
+See current process at 

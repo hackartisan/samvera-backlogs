@@ -1,0 +1,2 @@
+Advanced search
+hier noch mein Vorschlag für die «Erweiterte Suche» bei SOL-ONline. Folgende Felder: •	Autor •	Titel •	Zeitschriftentitel / Schriftenreihe •	Jahr •	Thema •	Klassifikation •	Urteil Funktionen: •	Bei jedem Suchfeld, schlägt SOL-ONline bereits aus den einzelnen Indices Einträge vor. •	Suchfelder können optional ausgewählt werden. Beispiel jusbib:  •	Es können zusätzliche Suchfelder gesetzt werden. •	Es gibt die Option, einen zeitlichen Rahmen bei der Suche festzulegen (Bspl. jusbib) •	Von den Boole’schen Operatoren würde ich noch absehen.

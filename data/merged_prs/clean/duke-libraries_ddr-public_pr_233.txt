@@ -1,0 +1,2 @@
+Add rake tasks to generate sitemaps for collections
+Adds two rake tasks for generating sitemaps: rake ddr_public:sitemap:generate[collection_pid] rake ddr_public:sitemap:index (Invoked automatically after 'generate') Sitemaps are written to: public/sitemaps/ (e.g. public/sitemaps/wdukesons.xml) The index is written to: public/sitemaps/repository.xml Since the root url is required in the sitemap and this is not available from rake an additional configuration line is needed in config/local_env.yml for the sitemaps to be generated with complete URLs: In local_env.yml ROOT_URL: 

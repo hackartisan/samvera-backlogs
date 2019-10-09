@@ -1,0 +1,2 @@
+Creation of default thumbnails
+We should have a capability to create generic thumbnails that will apply to popular formats (e.g. an excel spreadsheet or an SPSS .sav file.

@@ -1,0 +1,2 @@
+Authorized link in Playlist should point to UV, not catalog link.
+They're going to want to copy in the UV link.

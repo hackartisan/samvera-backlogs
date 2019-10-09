@@ -1,0 +1,2 @@
+Updating FAQ answers
+Making this PR so others can review it. Like  Mainly correcting wrong answers. Also added a few questions that I have heard others asking.

@@ -1,0 +1,2 @@
+Issue#52 skin header footer
+This contains initial, basic skinning of the header and footer parts of the application.  Some pages/links are not working for me locally, so some things might look a little wonky navigating deeper into the application... fyi.   If anyone sees anything, just log an issue and I'll fix it.

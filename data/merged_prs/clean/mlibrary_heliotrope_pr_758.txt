@@ -1,0 +1,2 @@
+Resolves #123: Dashboard list all users
+The password to  users is password.

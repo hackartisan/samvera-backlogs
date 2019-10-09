@@ -1,0 +1,3 @@
+Overrides List
+To create a checklist of Hyrax files we override  This is in order to help with future migration to the upgraded version of Hyrax. We need to keep track of all Hyrax gem files we were overriding in the OASIS app.  I suggest we create a simple wiki page in this repository. Here is an example of how this could look like. This will give us a checklist to go over when we do upgrade since those files won't get any bug fixes/enhancements from the Hyrax engine.
+ I have introduced new [wiki page]( 

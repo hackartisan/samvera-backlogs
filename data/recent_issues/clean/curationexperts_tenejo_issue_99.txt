@@ -1,0 +1,2 @@
+Configure basic Hyrax virus checking
+ACCEPTANCE   The system does not attach infected files to works  Write up how to configure Hyrax to do virus checking

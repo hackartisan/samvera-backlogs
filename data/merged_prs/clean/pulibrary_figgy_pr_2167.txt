@@ -1,0 +1,2 @@
+Update Valkyrie-Sequel to fix Single Values
+Closes #2162

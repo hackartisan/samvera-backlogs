@@ -1,0 +1,2 @@
+Ci documentation
+closes #98

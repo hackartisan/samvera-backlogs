@@ -1,0 +1,3 @@
+Add the ability to have RDF literals with language tags from a form for SimpleResource
+This is how we store them in ScannedResources, but for those we don't render the language tag in the form because they're read-only and just from the MARC. Final wireframe:
+See wireframe in #1716

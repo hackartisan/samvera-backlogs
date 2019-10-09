@@ -1,0 +1,2 @@
+Resolves #1580: Asset Link 422 Error
+Stole Roger's tweak from FishRappr and it seems to have resolved the issue. Roger Espinosa [10:08] Actually. We found (in fishrappr) that the code we took from DBD was stripping too much for anonymous users. Greg Kostin [10:11]  Did you fix it in fishrappr?  If so, how? Roger Espinosa [10:13] I tweaked the clear_session_user method we borrowed. Because it seemed that UMRDR was aggressively assuming you were going to log in.

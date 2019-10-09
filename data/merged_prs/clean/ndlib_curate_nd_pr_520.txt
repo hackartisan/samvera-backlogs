@@ -1,0 +1,2 @@
+Adding fault tolerance to start-issue
+Gurad that:  jira must be in your $PATH ~/.jira.d/config.yml exists  Also preventing ludicrous branch name length. [skip ci]

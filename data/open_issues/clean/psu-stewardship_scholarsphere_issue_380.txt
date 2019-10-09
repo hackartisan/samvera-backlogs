@@ -1,0 +1,4 @@
+Publication and Curation Services' library page moved 
+The help page refers to the old publication and curation page. Created a one line code change 75962ea   I believe the page moved from  to  Did I find the correct page?
+I am deploying this fix tomorrow morning. 
+That page is good for now. It will likely change as we vamp up the services on Libraries' website. 

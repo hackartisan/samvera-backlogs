@@ -1,0 +1,2 @@
+Adds in new 404 errors processed through asset pipeline
+Need to figure out how to get the pages copied over to the proper place when a deployment happens. Might need to happen on kubernetes? 

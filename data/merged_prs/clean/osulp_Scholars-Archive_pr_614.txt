@@ -1,0 +1,2 @@
+added work url in the show page
+Added citeable url for the current work in the show page. fixes #520 Screenshot:

@@ -1,0 +1,2 @@
+second part of two-part bug fix
+This commit fixes a call to a method that requires a parameter, which hadn't been passing the parameter.

@@ -1,0 +1,2 @@
+Resolves #560: Add google analytics pageviews to monographs
+Monograph pageviews include views of the monograph, any of the monograph's file_sets and any searches of file_sets. This has been tested in preview with live GA data and looks ok.

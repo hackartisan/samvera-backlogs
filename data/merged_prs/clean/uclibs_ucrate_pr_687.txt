@@ -1,0 +1,2 @@
+#671 - Update Shibboleth attributes on every login.
+Fixes #671  ; Added a method to our callbacks controller that updates a users affiliation and department on each Shibboleth login. Changes proposed in this pull request:  Update Shibboleth attributes.

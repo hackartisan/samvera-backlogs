@@ -1,0 +1,2 @@
+Clean up stale tenejo branches
+ACCEPTANCE Review  and   Remove, rebase, or merge branches significantly behind master

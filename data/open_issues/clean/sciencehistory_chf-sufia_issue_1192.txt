@@ -1,0 +1,4 @@
+"Share work with other users" does not work when batch editing
+When clicking on "edit selected" after selecting more than one work, then clicking on the permissions tab and granting a user edit access under "share work with other users," states that edits are saved but doesn't actually update the records with this permission status.
+Revisiting this ticket since Jessica Strawn needs edit access to museum fine art objects.  Using the following facets being department: museum/format: image seem to hone in on all the records she needs edit access to.  You can also give her edit access to all the museum objects if easier.  Thank you!
+Batch editing metadata fields still seems to work; just the permissions batch edits is broken per tests conducted today.

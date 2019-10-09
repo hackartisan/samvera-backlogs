@@ -1,0 +1,5 @@
+AAT autocomplete for Medium field
+This will probably need more discussion. It looks like use of Getty APIs require a license, and the Medium field is low priority for now.
+Just discovered that it's not documented in the README but QA does have an AAT wrapper so this should be simple to implement if we figure out the license question. A person in my code club has been working with Getty TGN so I can ask her about licensing if you think that would be helpful. 
+  There doesn't seem to be a clear fee structure, but licensing info says: Contact us at , subject line: Licensing, to learn the amount of the fees and terms of licenses. Please include an explanation of how you intend to use the data and whether your institution is for-profit or not-for-profit.  
+look into this in future -- API costs money; alternative is data loads. For now use free-text field and see what data is entered. 

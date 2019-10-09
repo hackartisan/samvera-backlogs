@@ -1,0 +1,3 @@
+swap out jquery-ui autocomplete for typeahead.js (or another library that allows multiple data sources)
+This will give us the added functionality we need for querying multiple data sources on the same field.
+- typeahead on github:  - typeahead examples:  - jquery typeahead UI component:  - bloodhound (the data part of typeahead) documentation:  - Collection of links related to the mess resulting from the fact that typeahead doesn't come with any CSS:   *\*    *\*    *\*    *\*    *\*  

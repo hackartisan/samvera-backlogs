@@ -1,0 +1,2 @@
+Extending the PlumChangeSetPersister::Characterize pattern to PublishCreatedMessage
+Please see #267 for reference

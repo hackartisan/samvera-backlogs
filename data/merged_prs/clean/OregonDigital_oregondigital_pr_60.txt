@@ -1,0 +1,2 @@
+Sets controller
+This enables pulling in the generic content from the other repo, viewing all sets (needs updated for prettiness), viewing a specific page from the other repo, searching within a set landing page, and tests for all that. Still need to add facet magic and the rendering of other sub-pages within a collection landing page - these can likely be in other pull requests.

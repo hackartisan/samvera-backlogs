@@ -1,0 +1,2 @@
+Update hydra_config.rb
+Need to add line due to future deprecation per sidekiq.log: DEPRECATION WARNING: You must set 'config.user_key_field = Devise.authentication_keys.first' in your config/initializer/hydra_config.rb file. The default value will be removed in hydra-access-controls 12. (called from user_key_field at /usr/lib64/ruby/gems/2.4.0/gems/hydra-access-controls-10.5.0/lib/hydra/config.rb:39)

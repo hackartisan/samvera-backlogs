@@ -1,0 +1,3 @@
+Move Locations from TGN to Geonames vocab where possible
+Historic place names will remain TGN. All extant place names need to move to Geonames URIs. This is exclusively work for UO in the following collections:  aa-images building-or gb-warner-nosatsu
+ An aa-images spreadsheet with new geonames URIs to replace TGNs is in DigitalProjects/Metadata/OD2_Remediation/tgn_cleanup/TGN2Geonames_all.xlsx. There is also a spreadsheet in the same location KeepTGN_all.xlsx for reference.  The new geonames URIs should move to Location (dct:spatial). The tgn URIs should stay in ons:tgn (which will be replaced by the new predicate dbpedia-owl:HistoricPlace)

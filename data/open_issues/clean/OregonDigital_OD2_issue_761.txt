@@ -1,0 +1,3 @@
+Permissions to Review Works
+Descriptive summary Admins can review all works, Collection curators can review only deposits to collections they own.
+QA:  - [ ] Login as an admin, submit a work, and it should be reviewable  - [ ] Login as a collection curator, verify you have the approval workflow role, create a work in a collection (relationships tab add to collection), you SHOULD NOT be able to review it since it is your own work.  - [ ] Login as a depositor, verify you have the depositor workflow role, create a work in a collection, you SHOULD NOT be able to review it  - [ ] Log back in as a collection curator, find the depositor's work and you SHOULD be able to review it.

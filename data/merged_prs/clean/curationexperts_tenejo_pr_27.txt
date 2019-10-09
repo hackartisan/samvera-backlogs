@@ -1,0 +1,2 @@
+Change solr version to one that still provides md5
+Solr has stopped providing an md5 checksum, which solr wrapper is looking for. Pin solr version to 6.6.5, the last version that still seems to have an md5 checksum.

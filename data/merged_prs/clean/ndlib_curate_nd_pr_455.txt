@@ -1,0 +1,2 @@
+412 updating legacy senior thesis records causes a server error
+Claiming issue 412 @b39a6aa7efe85e417c8ee05db02a38cf63bddbdc relates to #412 $ ./script/start-issue 412 [skip ci] Restrict date map in model.rb if not blank @a59c46bdca71960c62c0bf2bf3cabf488579c022 Restrict date mapping in model.rb to non-blank @214649a5a1ad961acabf5e5f56b91a0d016e23d2 Closing issue 412 @287934ef8c45a74565d35e9efaeb672b8ee8c5e2 Closes #412 $ ./script/close-issue 412

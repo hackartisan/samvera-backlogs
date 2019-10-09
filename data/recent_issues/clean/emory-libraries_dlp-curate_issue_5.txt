@@ -1,0 +1,2 @@
+Feature: Metadata Management
+MVP components:  Support for Emory Core Metadata and DLP Metadata Application Profile Create and edit descriptive, rights, administrative and preservation workflows metadata Integrate authorities data and controlled vocabularies from Library of Congress, Rightsstatement.org, and other sources Automatically generated technical/file characterization metadata Automatically generated preservation events metadata

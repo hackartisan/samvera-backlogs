@@ -1,0 +1,2 @@
+oEmbed URLs are checked against a whitelist of sources/domains
+Descriptive summary We don't particularly want to support any available oEmbed source, but a few major ones. Plus a whitelist helps us confirm that they work as expected. Expected behavior oEmbed URLs not recognized should be refused, with note to contact project team to look into including as an additional source. Recognized oEmbed URLs should perform as expected. Related work #75 #190

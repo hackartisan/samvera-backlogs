@@ -1,0 +1,2 @@
+Grouping Objects in Approval Queue
+As a metadata manager, I need to be able to search for subsets of the approval queue, so I can work on similar approvals in batches. Dependent on #94 Linda B.

@@ -1,0 +1,6 @@
+CHO Objects in Google Search Results
+As a collection curator, I would like my objects in CHO to prominently feature in related Google search results, so that as many people as possible will find my objects Tara L. Done looks like: XML Sitemaps, SEO optimization, embedded schema.org metadata, embedded opengraph metadata, rightst statements embedded as RDF #570 As a linked data strategist, I want to explore reuse of our data by reconciling it with other ontologies such as schema.org. If I have precise predicates, I can do this. [Ruth K-T]
+
+Related: #215
+[Recommendations for the application of Schema.org to aggregated Cultural Heritage metadata to increase relevance and visibility to search engines: the case of Europeana](
+Implement sitemap and Schema.org tags in the page.  And [Opengraph]( [added by NT 9/17/18]

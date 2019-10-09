@@ -1,0 +1,2 @@
+Request production access to AWS SES (email) services
+Right now we are in the sandbox and can only deliver to approved addresses. Requesting production access will allow us to send email to addresses that haven't been manually approved:    Sending an email for the password reset form is sucessful for non-approved email addresses

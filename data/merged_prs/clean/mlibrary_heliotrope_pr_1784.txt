@@ -1,0 +1,2 @@
+Accessibility fixes for monograph and asset tabs
+Resolves #1753 Corrects ARIA semantics to correctly announce tabs and tab panel activation; Toggles ARIA semantics on tab switching; captures keydown events to allow for navigation between tabs; sets focus to tab panel upon selecting a tab; adds headings to tab panels to ensure tab panels are discovered in document outline; Moves inline JS to tab.js to be included in asset pipeline.

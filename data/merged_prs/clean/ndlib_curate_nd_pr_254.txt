@@ -1,0 +1,2 @@
+CSS changes for grid search result view
+Thumbnails should remain centered regardless of size or aspect ratio. Thumbnail images should not be cropped or stretched.

@@ -1,0 +1,2 @@
+Accessing Logs
+As the repository manager, I would like to view and download application and server logs for CHO, So that I can troubleshoot and diagnose problems that occur. I expect the CHO log to include all activity stream messages.

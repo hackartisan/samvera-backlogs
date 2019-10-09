@@ -1,0 +1,2 @@
+Add permalinks and display permalink on work show page
+As discussed with the library team, we should have permalinks for works and collections, so that end users can bookmark works.

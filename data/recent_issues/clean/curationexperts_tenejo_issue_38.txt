@@ -1,0 +1,2 @@
+SPIKE: Folder Upload - Local to Cloud
+QUESTION HMW get files from the users laptop to the tenejo server instance? ACCEPTANCE   3 working (but super clunky is ok) prototypes Given a set of files on a users laptop, I can execute a process that moves those files to a directory on tenejo.curationexperts.com and I can ssh to the server and see the files on the server's local file system.  A recommendation on which solution to proceed with

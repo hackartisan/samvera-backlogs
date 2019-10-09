@@ -1,0 +1,8 @@
+Ingest "Vandermaelen Atlas" (pudl0064)
+Will ingest as a ScannedMap probably? Ping  - do we have necessary functionality for Atlases? Depends on #1786
+No PUDL collection page.
+I see this item ingested in pending state:     who should review this item?
+ I would say Vicki Principi would be the person to ask about this/complete it. She works with historic maps in RBSC as well.  I can email her for you. 
+ and  - Vicki P. will review and complete these items today (08/01). Thanks!
+  I just this. The Vandermaelen Atlas is in Figgy in a pending state because I was working on it awhile back. It is quite complex for a variety of reasons and wasn't completed. It's been on the backlog for awhile now.
+Outstanding work:  - Images need to be converted to individual scanned map children while maintaining structure. - Many of the pages in the Atlas were cataloged separately in Voyager have already been ingested into Figgy as individual sheets. These need to be moved into the atlas or deleted.   -    -  - Bound boxes need to assigned to images not cataloged individually.

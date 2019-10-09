@@ -1,0 +1,2 @@
+Use Fedora 4.7.5 in development
+We're using 4.7.5 in production, so let's match that in test and development.

@@ -1,0 +1,2 @@
+Display selected values from datalist
+Description Adds some additional Javascript interaction that enhances the usability of our datalist selectors. Because we cannot get the label value to display, this adds a span next to the datalist element that shows the label of the selected id. Example

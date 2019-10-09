@@ -1,0 +1,2 @@
+Update creator.rb
+Fixes #1206

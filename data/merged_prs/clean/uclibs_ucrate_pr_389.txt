@@ -1,0 +1,2 @@
+Remove extra text under open access visibility, update specs
+Fixes #372 Removes the text under open accessibility in the create work page. Updated specs to accommodate the change.

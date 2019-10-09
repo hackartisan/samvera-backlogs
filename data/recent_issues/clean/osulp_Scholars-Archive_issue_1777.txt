@@ -1,0 +1,2 @@
+Make the remove buttons on edit page uniform
+Descriptive summary Most fields use the Remove text but the nested fields use a trash can button. These should all be the same.  Standard fields:  Nested fields:   I think the trash can buttons look better. Opinion, ?

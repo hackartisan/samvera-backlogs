@@ -1,0 +1,2 @@
+Upload form: DOI field should be auto populated with the start of the DOI 
+At the moment, the field allows any information to be entered. This field should be auto-populated with the correct DOI format as below:

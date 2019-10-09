@@ -1,0 +1,4 @@
+facet a-z view needs more than just next-prev pagination
+little alphabet? first/last/page numbers?
+Pretty tricky to implement something useful 
+Talk about use cases for end users and admin workflows.

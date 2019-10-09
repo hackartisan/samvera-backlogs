@@ -1,0 +1,2 @@
+hiding required supplemental metadata does not remove it
+Closes #683

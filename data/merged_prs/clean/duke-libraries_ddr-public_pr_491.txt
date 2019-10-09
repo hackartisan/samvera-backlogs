@@ -1,0 +1,1 @@
+Use local params with dereferencing for access control queries

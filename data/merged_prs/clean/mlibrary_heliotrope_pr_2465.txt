@@ -1,0 +1,2 @@
+fix to tombstone index view
+Resolves 500 error caused by orphaned FileSets.

@@ -1,0 +1,2 @@
+Add TermsComponent to solrconfig, fixes #503
+Solr will need to be restarted on deploy.

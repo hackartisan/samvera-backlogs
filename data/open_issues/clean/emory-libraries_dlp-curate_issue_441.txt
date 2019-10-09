@@ -1,0 +1,8 @@
+Submitting a fileset via the UI results in MANY copies
+ENVIRONMENT:  RELEASE: v0.3.3 STEPS TO REPRODUCE  Find an existing work Attach one or more files or fillets  EXPECTED BEHAVIOR Each selected file is only attached once ACTUAL BEHAVIOR Each file is attached multiple times See 
+Did you attach a new file through the edit page of the work?  If so, I wasn't able to reproduce this error in curate test for:   ![Screen Shot 2019-08-12 at 8.51.53 AM.png](  
+-dce I experienced something similar recently - see #361, which I closed because I couldn't replicate it after a certain period of time.
+-m I tested again briefly on 8/18 in curate prod - so far no duplicates! But we may need to monitor this for a few days.
+-m I tested this again in curate prod (on my home machine). In Safari, I experienced the duplicate FileSets on this new work:   I then switched to Firefox, cleared cache etc. I did _not_ experience the bug on this new work:   Went back to Safari, cleared cache/history, and opened a new incognito browser session - did not experience the bug on this new work: 
+ can you put this back in either backlog/queued. I am not sure what the issue is here but I could see in the database that duplicates were inserted meaning multiple ajax requests were posted. I will look into this.
+Re-opening because I still occasionally see this in Safari. But, low priority to fix for now.

@@ -1,0 +1,2 @@
+UC Research Directory integration (epic)
+This is an epic issue to track and discuss the ways that Scholar can integrate with Research Directory Potential integrations Use RS API to populate Scholar profile pages  Original issue on scholar_uc_legacy: uclibs/scholar_uc_legacy#19 API Documentation :  Example of API return on a 6+2 query:   Use Scholar to store content uploaded to Research Directory  Create an ingest API that can be used by RS Users in RS would see a direct link to the file stored in Scholar

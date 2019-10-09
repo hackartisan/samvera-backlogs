@@ -1,0 +1,2 @@
+SRU: fix cylinder query
+Fixes ALMA-646. From the JIRA ticket: I learned 2 things from submitting this problem to Ex Libris.  1. You can report this type of problem directly to the Developers Forum, at:  which is what Ex Libris asked me to do 2. The reply I got from the Developers Forum is that the SRU alma.all_for_ui works but you have to remove "" from the query otherwise it returns no results:   cc  

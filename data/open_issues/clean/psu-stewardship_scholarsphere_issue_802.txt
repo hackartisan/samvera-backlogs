@@ -1,0 +1,2 @@
+Can't upload avatar pictures
+I'm getting: "Avatar Failed to manipulate with MiniMagick, maybe it is not an image? Original Error: ImageMagick/GraphicsMagick is not installed" when I try to upload an image for my avatar in my profile.

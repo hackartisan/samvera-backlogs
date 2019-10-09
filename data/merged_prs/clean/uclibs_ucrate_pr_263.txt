@@ -1,0 +1,2 @@
+Adds flash message to datasets page.
+Fixes #259 ; refs #issuenumber Adds flash message to datasets page. This change adds the flash message from scholar in to the ucrate.  Originally it looked like scholar implemented this functionality in a concern, however I found code in a reopened controller.  It looks like the controller code was the code actually showing the flash message, so I've implemented that here. Changes proposed in this pull request:  Adds flash message to datasets page.

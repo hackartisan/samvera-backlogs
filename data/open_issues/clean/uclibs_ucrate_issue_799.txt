@@ -1,0 +1,3 @@
+Export as a Refworks Citation
+(moved from uclibs/scholar_uc_legacy#1177) Descriptive summary I want to: have an option to cite using RefWorks.  So that: I am able to export a particular work's citation into RefWorks citation management system. #Acceptance criteria RefWorks options appears alongside EndNote, Zotero, Mendeley on show page for a work.
+Depends on author ordering

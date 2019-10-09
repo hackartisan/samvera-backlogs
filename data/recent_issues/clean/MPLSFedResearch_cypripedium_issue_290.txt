@@ -1,0 +1,2 @@
+Put AWS instances on elastic IPs
+Currently, restarting MPLSFedResearch's EC2 instances can result in a changed IP address.   Move these to use elastic IPs so this stops happening.  Update cypripedium deploy code so deploys will work with the new IPs

@@ -1,0 +1,2 @@
+use 'ignore_query: true' to ignore the locale part of the path in spec
+This should be functionally equivalent to #633, but makes the code a bit cleaner by passing the ignore_query: true argument to the capybara assertion method, instead of stripping the query parameters with a regex. I wouldn't have bothered, but I had already been looking at the issue and discovered this option around the same time  submitted her PR633.

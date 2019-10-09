@@ -1,0 +1,8 @@
+Batch export of metadata records
+Batch export of metadata records from Hyrax for MA preservation and push contents to OSF SHARE repository, fields should include:  selected descriptive metadata (title, creator and etc) adminset, Fedora resource URI Fileset URI where binaries located (for creating Bags)
+  what is the status of this issue?
+This is irrelevant now because SA@OSU support OAI, although it could be an useful feature probably for MS3.
+I disagree that this is irrelevant, as not all descriptive metadata is exposed by OAI. URIs are not included. And if this is for preservation at all, it should include system and technical metadata (admin sets, etc.). Moving this to MS3
+  status update on this issue, please?
+This function is an improvement to Hyrax out of box. I think we may include it for the discussion of the next sprint.
+related to #1726 

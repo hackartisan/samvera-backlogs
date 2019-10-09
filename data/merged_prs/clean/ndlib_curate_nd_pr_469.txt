@@ -1,0 +1,2 @@
+468 display book authors/LCSH in search result
+Improved search result display for Document type Book objects. Went through logic with  before deploying but wouldn't hurt to have another pair of eyes on it.

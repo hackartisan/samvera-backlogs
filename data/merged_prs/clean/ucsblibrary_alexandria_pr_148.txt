@@ -1,0 +1,2 @@
+ApplicationHelper#linkify: fix URI replace regexp
+Fixes DIGREPO-887.

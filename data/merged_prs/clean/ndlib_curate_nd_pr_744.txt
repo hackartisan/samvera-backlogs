@@ -1,0 +1,2 @@
+Revert "DLTP-1513 Fix Reindex collections"
+This reverts commit 8c2ba16.

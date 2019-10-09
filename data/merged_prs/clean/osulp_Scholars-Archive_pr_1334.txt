@@ -1,0 +1,2 @@
+tinyMCE ui to properly provide image attachment, bugfix until upstream fixed
+fixes #1156 This is a bugfix related to samvera/hyrax#2273. Overriding this partial should be removed as soon as that issue is fixed.

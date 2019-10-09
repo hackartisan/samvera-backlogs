@@ -1,0 +1,2 @@
+Error when saving DOI on production
+Descriptive summary DOI's don't save on production scholar undefined method permanent_url_for Expected behavior DOI's should save Related work uclibs/scholar_uc_legacy@a68c377

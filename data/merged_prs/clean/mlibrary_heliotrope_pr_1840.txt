@@ -1,0 +1,2 @@
+HELIO-1511 epub search for "fixed width"/"page image" epubs
+(Search for "america") This isn't totally perfect yet, but I'd like to get this work into the next release so heb ingested epubs will be indexed correctly in sqlite. (if it doesn't make it this release it's not the end of the world).

@@ -1,0 +1,2 @@
+Persist manifest with db
+This caches the manifest in the db instead of redis. This will allow the manifests to be cached on disk instead of just in-memory.

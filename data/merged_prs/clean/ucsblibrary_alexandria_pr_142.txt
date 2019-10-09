@@ -1,0 +1,2 @@
+updates contact us form and FAQs
+Made several updates based on feedback regarding ADRL contact form emails. Contact Us form updated to remove "Copyright information" as a drop-down option and to add language/links to district users to FAQ page. FAQ page updated with more descriptive information about embargo messages, updated information about MIL/Collaboratory, and capitalization of "linked data."

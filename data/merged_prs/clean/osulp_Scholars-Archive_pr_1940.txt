@@ -1,0 +1,2 @@
+update select on etds, grad project and undergrad.
+Fixes #1925

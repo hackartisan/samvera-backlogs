@@ -1,0 +1,2 @@
+Worktype fetched labels from Getty are not in English
+Descriptive summary Worktype Labels being fetched are not in English. Example:  Expected behavior Labels should be in English

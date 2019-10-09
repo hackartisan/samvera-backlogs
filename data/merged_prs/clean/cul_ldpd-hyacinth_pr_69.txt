@@ -1,0 +1,1 @@
+Adding first_published_at to internal fields hash

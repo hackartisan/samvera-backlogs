@@ -1,0 +1,2 @@
+Adds a solr.TextField for case insensitive text searches
+Resolves #1883

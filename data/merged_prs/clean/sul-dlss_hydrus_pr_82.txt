@@ -1,0 +1,2 @@
+Move gems out of the assets group
+This is how things are done in Rails 4.  This may be the cause of: Sprockets::FileNotFound: couldn't find file 'bootstrap'  that we see when deploying via capistrano

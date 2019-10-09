@@ -1,0 +1,1 @@
+fix clean task when ark:/ prefix was added

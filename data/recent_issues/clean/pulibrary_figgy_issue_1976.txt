@@ -1,0 +1,2 @@
+Write a blog post on making Valkyrie applications
+Focus on how apps can continue to use elements of the Samvera stack

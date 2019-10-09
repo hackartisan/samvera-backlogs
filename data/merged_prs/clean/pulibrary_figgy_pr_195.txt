@@ -1,0 +1,2 @@
+Add Ephemera Folder Workflow
+Also DRYs this up a bit to make it easier to add another workflow later.

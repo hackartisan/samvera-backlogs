@@ -1,0 +1,2 @@
+Creator facet - more gives network error
+Descriptive summary Clicking "more" on the Creator facet displays network error instead of a list of creators. (Due to new ordering.) Expected behavior Click on "more," get list of creators for the displayed results. Actual behavior Click on "more," get:  Steps to reproduce the behavior From any results page in SA, click on the Creator facet, then click "more."

@@ -1,0 +1,4 @@
+Better error message for user role management
+If you log in as an admin user and go to the 'Manage users' page for a press, and then fill out the form with bad data, there is one generic error message instead of a specific error message for each type of error.  "There was a problem saving the user role(s). " The Role model has validations for users that don't exist in the system yet, or trying to re-add a user to the same press, with specific error messages.  We should display those errors to the user so that they know what is wrong with their form. ACCEPTANCE CRITERIA:   If I try to add a user who hasn't signed up yet, I should see the 'User must sign up first' message.  If I try to re-add the same user to a press, I should see the 'already a member of this press' message.
+Related to #231.  
+Deal with this when we begin working on an admin dashboard.

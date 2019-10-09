@@ -1,0 +1,1 @@
+No reason to see upload link when not logged in.

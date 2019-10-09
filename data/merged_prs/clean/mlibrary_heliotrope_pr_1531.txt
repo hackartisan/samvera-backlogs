@@ -1,0 +1,2 @@
+line graph of monograph pageviews over time
+Resolves #595

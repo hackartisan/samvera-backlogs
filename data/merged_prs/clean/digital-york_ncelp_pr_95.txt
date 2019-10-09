@@ -1,0 +1,2 @@
+Homepage ui improvements
+resolves #82 #92 #87 #90 #91

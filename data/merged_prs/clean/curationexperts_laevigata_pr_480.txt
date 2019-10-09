@@ -1,0 +1,2 @@
+Fix changes_required notification
+Fixes #468 Fixes #469

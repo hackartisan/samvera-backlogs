@@ -1,0 +1,2 @@
+Fixing bugs with agent import
+Description There were a number of issues with the Agent process.  Editing an agent blew up (see image below) csv files created by excel included the BOM character which caused the id label not to be parsed correctly, the labels on export were titleized, and the formatting was off on the display. Connected to #843 Connected to #820 Changes  Added BOM encoding Fixed bug with agent vs agent_resource in the params removed the titleize from the export  Import screen formatting  Before parameter change:  After Parameter change:

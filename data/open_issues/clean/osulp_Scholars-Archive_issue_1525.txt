@@ -1,0 +1,2 @@
+Set up IIIF server for universal viewer
+It seems like universal viewer requires having an IIIF server setup and configured in the hyrax configuration file.

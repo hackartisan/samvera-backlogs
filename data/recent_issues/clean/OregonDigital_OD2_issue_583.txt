@@ -1,0 +1,2 @@
+Slack message from CCI when master branch test fails
+Integrate a notify_on_failure message to the master branch to send a message to the oregon_digital channel when tests fail.  

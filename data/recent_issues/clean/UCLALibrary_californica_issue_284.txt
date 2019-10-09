@@ -1,0 +1,2 @@
+Correct copyright metadata values
+The correct value is in the CSV. UCLA has not yet adopted rightsstatements.org so that metadata approach is not allowed at this time. Acceptance Criteria   The value in the metadata for all items is the string value "copyrighted"  The metadata does NOT include a rightsstatement.org URI.  Change the value stored for rights_statement to ""

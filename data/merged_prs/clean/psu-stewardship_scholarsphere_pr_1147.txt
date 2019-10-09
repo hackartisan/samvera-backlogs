@@ -1,0 +1,2 @@
+adding in DOI service using ezid
+Adding a Check box into the Work New & Edit Screen to create a DOI on save.  This form does not show on the Collection or the Batch upload, which could be a next step. Refs #1147

@@ -1,0 +1,2 @@
+remove educator researcher buttons
+Fixes #592

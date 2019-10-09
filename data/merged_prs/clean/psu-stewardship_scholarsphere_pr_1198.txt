@@ -1,0 +1,2 @@
+Accessibility of Fileset Permissions Visibility 
+Moves the labels and radio buttons into an unordered list and makes adjustments to the styles. Overrides the form permissions embargo and lease partials from Curation Concerns to address the multiple labels and accessibility. Removes  in header with  and a help class to address HTML and accessibility for color contrast. Adds i18n for help block and representative media statement. refs #1142

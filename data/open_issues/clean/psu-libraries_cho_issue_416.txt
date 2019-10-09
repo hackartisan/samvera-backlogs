@@ -1,0 +1,2 @@
+Assign Curated Collection when GUI or Batch Uploading to Library or Archival Collection
+As a repository manager, I would like to assign curated collections when batch uploading works to library or archival collections, So that I can do both in bulk at the same time, saving me from having to do it through the GUI. Enhancement of #409

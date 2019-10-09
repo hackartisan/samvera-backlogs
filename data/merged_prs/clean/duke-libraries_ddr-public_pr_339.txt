@@ -1,0 +1,1 @@
+Corrected item count for portal browse button. Fixes #338

@@ -1,0 +1,1 @@
+Adding auth for LDP connection fixes #1451

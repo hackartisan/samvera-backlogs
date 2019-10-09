@@ -1,0 +1,2 @@
+Added test case to validate the correctness of downloading the html content files.
+See  The corrupted html content files issue is caused by the failing of deflating the gzip inflated response body. The problem is gone when turning off the gzip inflation at damsrepo now.

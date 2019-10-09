@@ -1,0 +1,2 @@
+Redirect ActiveFedora::ObjectNotFoundError to 404
+This will stop the application from generating an error every time someone hits an invalid object ID. Connected to #232

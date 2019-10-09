@@ -1,0 +1,2 @@
+Updates to the README to be more community friendly
+Resolves #1325 Please read, review and provide feedback on what is missing or could be taken out. FWIW, it is much easier to read at  Wiki pages that have been updated in relation to the README:  

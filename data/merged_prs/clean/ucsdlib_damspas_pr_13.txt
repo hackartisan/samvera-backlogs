@@ -1,0 +1,2 @@
+Feature/rake task
+Esme, You could run: rake authorities, which should do the following jobs:  Create config/authorities directory. Pull countryInfo.txt from genome.org Extract the wanted information Write to YAML file according to QA required format. Thanks for reviewing!

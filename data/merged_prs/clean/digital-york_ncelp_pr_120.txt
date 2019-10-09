@@ -1,0 +1,2 @@
+add alt/title text for file type icons
+resolves #113

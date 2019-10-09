@@ -1,0 +1,2 @@
+Converge Language URIs to only use ISO639-2
+To simplify and better integrate Language values, especially in facets, we can converge them all to be from ISO639-2.

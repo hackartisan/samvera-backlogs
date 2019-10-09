@@ -1,0 +1,2 @@
+clean up coverage loose-ends
+spent the morning adding coverage in some spots where a spec or two was missing.

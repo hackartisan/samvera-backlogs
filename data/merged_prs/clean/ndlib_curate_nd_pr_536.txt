@@ -1,0 +1,1 @@
+DLTP-578 Change label for Affiliation in Curate

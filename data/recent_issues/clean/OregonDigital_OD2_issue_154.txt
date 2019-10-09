@@ -1,0 +1,2 @@
+#show metadata fields 
+Descriptive summary Metadata field titles need to be set properly on the show page. An example of the current labels can be seen on  See the form label field in the MAP, could be that the field title just needs a .humanize

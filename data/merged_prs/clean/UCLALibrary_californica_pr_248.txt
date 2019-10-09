@@ -1,0 +1,2 @@
+Add solr replication options to configs
+This configures the solrconfig.xml file to accept replication requests. There is also a solrconfig_replica.xml file that is used by the other server and will be replicated after the initial core is created on the other server. This also removes the solr/conf/ directory, which has default Blacklight config files that aren't used by Hyrax

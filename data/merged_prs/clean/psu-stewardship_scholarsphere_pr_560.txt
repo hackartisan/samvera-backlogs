@@ -1,0 +1,2 @@
+Don't Merge! Caching solr downloads on Travis
+Testing out solr caching in travis so we avoid the bandwidth limit. We could also do this with Fedora an potentially speed-up the build.

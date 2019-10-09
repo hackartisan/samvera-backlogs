@@ -1,0 +1,2 @@
+Updating Sufia and GenericFile spec
+In updating to the latest Sufia, there was some refactoring in GenericFile that was causing tests to fail.  In looking further, most of GenericFile's current spec tests are identical to Sufia's.  Here's what it looks like if we remove the overlap.   There's a lot of overlap here that I've removed.  Is it safe to assume that the real integration is tested in the features, or do we need to duplicate/modify/extend the unit tests in here?

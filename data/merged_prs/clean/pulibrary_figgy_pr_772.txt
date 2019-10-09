@@ -1,0 +1,2 @@
+Revert "Dont create empty updated at (#733)"
+This reverts commit 7f41078.

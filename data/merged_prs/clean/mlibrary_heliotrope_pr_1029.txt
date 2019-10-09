@@ -1,0 +1,2 @@
+Fixes #1017 'Read' link for epubs on the press catalog page
+Hyrax is appending "locale=lang" to all urls by default, so building urls using raw strings isn't going to work anymore. It also turns out that "subdomin" is a reserved term by the rails url helpers,  so we'll use "publisher" as the param name.

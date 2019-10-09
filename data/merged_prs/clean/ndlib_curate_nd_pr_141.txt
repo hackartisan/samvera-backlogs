@@ -1,0 +1,2 @@
+Senior Thesis view should be consistent with other work type
+DLTP-241

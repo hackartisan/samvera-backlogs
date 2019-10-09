@@ -1,0 +1,2 @@
+Notify user if errors happen during submission
+This commit will catch errors during the submission and set an error state in the formStore. That changes the display from the spinner to an error notification. Connected to #1447

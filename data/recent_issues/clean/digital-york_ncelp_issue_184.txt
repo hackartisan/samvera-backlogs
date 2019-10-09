@@ -1,0 +1,2 @@
+Make collections functional
+We want to be able to use the collections feature on the Resource Portal. For this we need the following changes to be made: 1. Add an Add to collection button on the Resource details page (in the circled row below).  2. Make collections discoverable. They are set to discoverable in the collection type settings, but visibility as a facet has been disabled. 3.  Add collections to the homepage. Maybe we could have something like below with our Featured Works - TBC  4. Make some aesthetic changes to the Collection page view. Default:  Mock up

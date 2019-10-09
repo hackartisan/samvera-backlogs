@@ -1,0 +1,2 @@
+Upgrading to omniauth 1.2
+Removing stub feature tests and duplicate sign_in_developer methods Fixes DHH-587

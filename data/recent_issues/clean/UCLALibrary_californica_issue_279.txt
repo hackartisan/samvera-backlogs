@@ -1,0 +1,2 @@
+Mgmt: Add Photographer to Californica
+Add a photographer attribute for the Work class:    A Work object can have a photographer field   The predicate for it is   The label for it is "Photographer"  It appears on the item's show page in californica  Given a CSV with a name.photographer column:   importing this CSV creates objects with the values in the photographer attribute.  if desired, see the metadata mappings spreadsheet here: 

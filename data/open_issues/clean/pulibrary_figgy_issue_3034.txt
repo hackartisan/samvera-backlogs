@@ -1,0 +1,4 @@
+Error when reindexing: Client error: Request Entity Too Large
+Even with a 500 record batch size, I'm seeing a lot of Client error: Request Entity Too Large errors.
+I'm pretty sure  said these are coming from datadog and don't worry about it. Is there a way to quiet them down?
+That would be great — and it seems like we could silence the appropriate logger if we just need to suppress that.  But I'm also seeing:  ``` ==I, [2019-05-16T09:30:42.747113 #8072]  INFO -- : Reindexing 6000 individually due to errors during batch indexing ```  So I think some of the errors may have been real errors.

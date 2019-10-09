@@ -1,0 +1,2 @@
+use @presenter.page_title in all share links that include a title
+Very quick fix to ensure that markdown is removed from all share links that include a title.

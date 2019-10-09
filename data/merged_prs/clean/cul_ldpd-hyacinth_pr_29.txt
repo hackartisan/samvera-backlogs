@@ -1,0 +1,2 @@
+Add functionality to create datacite metadata; Add doi class.
+This pull request contains the following:  Code that will generate the datacite () xml file used to push metadata to the EZID server. The Doi class, which encapsulates a few data members. Since there is no functionality besides attribute readers, there is no associated spec file for this class.  The branch represented by this pull request was successfully cap deploy'ed to the dev instance.

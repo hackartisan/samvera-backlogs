@@ -1,0 +1,2 @@
+Kill the help menu
+The items present in the help menu have been moved elsewhere, making it redundant.

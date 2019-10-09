@@ -1,0 +1,2 @@
+add config to enable admin stats
+fix #343

@@ -1,0 +1,2 @@
+Update unauthorized image placeholder
+This updates the placeholder image to visually match the "Embargo" image that is displayed on the show page for ETDs that are restricted.

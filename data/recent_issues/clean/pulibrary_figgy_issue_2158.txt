@@ -1,0 +1,2 @@
+Collection-like Numismatic entities
+Several numismatics entities are similar to collections:  Finds (4 items) Departments (14 items) Accessions (780 items)  Should these have the same UI that collections do now?  For Accessions in particular, should there be a different UI to handle the larger scale, or will 780 items work in a select menu? Child of #2025

@@ -1,0 +1,2 @@
+Get all members of Library collection
+refers to #750 Perform a second solr query to get all of the members of a collection. (prior attempt to read through and accumulate all of the pages was not loading new pages reliably.)

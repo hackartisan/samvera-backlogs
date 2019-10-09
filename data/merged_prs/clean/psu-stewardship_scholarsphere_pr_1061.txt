@@ -1,0 +1,2 @@
+Additional properties to Person, ref #961
+Adds email, PSU id, and Orcid id to the Person model so we can store these values when users want to add them.

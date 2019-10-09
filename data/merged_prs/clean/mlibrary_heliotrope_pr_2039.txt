@@ -1,0 +1,2 @@
+HELIO-2210 update jekyll for CVE-2018-17567
+This branch is on staging and the "keep" dirs in /public are fine.

@@ -1,0 +1,2 @@
+Determine display of audio reserve links from blackboard
+where will this live? figgy? dpul? etc? does wowza have a player? If not, UV?  child of #1986

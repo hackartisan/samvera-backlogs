@@ -1,0 +1,1 @@
+HELIO-2074 remove temporary working directories for "minimal" epubs

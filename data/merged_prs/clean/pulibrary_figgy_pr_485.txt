@@ -1,0 +1,1 @@
+Add change set persister to clean structure nodes on delete, fixes #204

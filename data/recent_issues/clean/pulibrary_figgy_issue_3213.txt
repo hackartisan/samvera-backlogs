@@ -1,0 +1,2 @@
+Periodic Test Failure
+1) NumismaticsImportService#ingest_issue creates a new Issue with member Coins from each file      Failure/Error: expect(first_coin.decorate.decorated_file_sets).not_to be_empty        expected `[].empty?` to return false, got true      # ./spec/services/numismatics_import_service_spec.rb:35:in `block (3 levels) in <top (required)>'      # ./spec/support/with_queue_adapter.rb:7:in `block in with_queue_adapter'

@@ -1,0 +1,2 @@
+adds sidekiq admin UI
+fixes #310

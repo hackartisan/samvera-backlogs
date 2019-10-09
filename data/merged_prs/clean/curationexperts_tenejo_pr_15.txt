@@ -1,0 +1,2 @@
+Include serve static files in the sample .env
+We need to set this flag to true in production for riiif/Universal Viewer.

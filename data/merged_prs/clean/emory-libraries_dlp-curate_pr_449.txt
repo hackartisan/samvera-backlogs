@@ -1,0 +1,2 @@
+Test cap ec2 gem
+This commit will allow for deploying directly from the developer's laptop. The developer will still need to have a tki token and be on VPN, and AWS_DEFAULT_PROFILE or AWS_PROFILE will need to be set To deploy: capistrano production deploy capistrano p deploy To check status of ec2's cap p ec2:status

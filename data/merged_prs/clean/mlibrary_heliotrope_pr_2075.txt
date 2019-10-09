@@ -1,0 +1,2 @@
+Resolves HELIO-2262: Add identifier, name, and noid to components table
+Now Products, Components, Individuals, and Institutions all have identifier and name attributes.

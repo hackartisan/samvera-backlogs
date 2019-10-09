@@ -1,0 +1,2 @@
+Refactored a spec to speed it up. Story #673.
+I rewrote the spec to create fewer FileSet records in fedora. Before changes, the spec took 25-27 seconds on my laptop. After changes, it takes 8-10 seconds.

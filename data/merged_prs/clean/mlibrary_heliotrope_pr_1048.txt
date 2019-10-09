@@ -1,0 +1,2 @@
+force use of real user for import
+Resolves #1038

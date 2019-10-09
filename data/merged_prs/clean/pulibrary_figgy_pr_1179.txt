@@ -1,0 +1,2 @@
+Add job for regenerating derivatives
+Adds RegenerateDerivativesJob to clean up existing derivatives before creating new ones. The FileSetsController derivatives method triggers this job instead of create derivatives job.  Closes #1168

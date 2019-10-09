@@ -1,0 +1,2 @@
+Orcid upgrade
+updating orcid gem to local copy @fff478eeed09c4ba2aa4dfa21e7bc22788f30a86 Initial commit for orcid upgrade @a2381dc7df265a2b8f396ebcad1b57e1df8f478d updating rspec dependency @deb181c71b49af4d51f9045647128675cea0f9ae Updating doi link as gem underneath has changed @dad202d893e8f2568fe2dab5a087bb55c93e3190 Fixing failing spec @a368aad7970f6d802f8af448ae3e98aa3175d7e4 orcid gem update @e711e9a54d315659ecdd4af67db5204144b311e4

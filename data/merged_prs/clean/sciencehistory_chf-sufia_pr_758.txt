@@ -1,0 +1,2 @@
+Fix show page for work with more than one member
+ I think this got overlooked in some refactoring. Please take a close look and make sure this matches your understanding of the current state of the codebase!

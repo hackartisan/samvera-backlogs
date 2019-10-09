@@ -1,0 +1,2 @@
+Assign some work types to collections
+Descriptive summary Some work types will need to automatically be placed into certain collections. When one of these work types is saved, the work should be assigned to it's proper collection. Related work Sorta Related: #1606

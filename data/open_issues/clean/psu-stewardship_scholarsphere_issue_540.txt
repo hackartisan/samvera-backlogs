@@ -1,0 +1,2 @@
+Private visibility on agreement page
+Add the private label missing on the agreement page of ScholarSphere.

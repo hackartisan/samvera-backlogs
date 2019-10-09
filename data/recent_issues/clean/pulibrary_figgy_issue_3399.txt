@@ -1,0 +1,2 @@
+Order Manager Apply Changes Button doesn't unlock after a save
+To Reproduce:  Go into order manager, edit label, "Apply Changes" Edit label again, "Apply Changes" will be disabled (stop sign symbol when you try to click it)  Reported by Dan. Current workaround is to only do one set of changes and then reload, but he's scared to do a bunch of work that's wasted.

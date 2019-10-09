@@ -1,0 +1,2 @@
+Updating locabulary dependency
+$ bundle update locabulary

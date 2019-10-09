@@ -1,0 +1,2 @@
+Use BRANCH_NAME or BRANCH to deploy
+BRANCH_NAME is commonly used in many of our code bases and I'm in the habit of using it. Let's keep it for backward compatibility because it causes unexpected problems if it isn't enabled and one tries to use it.

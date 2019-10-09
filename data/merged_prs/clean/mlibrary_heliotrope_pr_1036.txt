@@ -1,0 +1,2 @@
+Resolves #894, Resolves #909, User login/logout routing
+Travis now builds /public via Jekyll on bin/setup.

@@ -1,0 +1,4 @@
+Search History Displays Autocomplete Steps from the Search Bar
+When I search for the word "roll" from the Search History page and set the criteria to All Fields, the history displays each step of the autocomplete in the list of searches. ro - rol - roll - All Fields: roll
+This could be related to how the autocomplete is implemented. See #536.
+Moving ticket to the backlog for further investigation in the future. We've turned of the autocomplete feature to "solve" the search history issue and the accessibility issues.

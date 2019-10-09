@@ -1,0 +1,2 @@
+Hiding counter param in the object view url. (DHH-635)
+Based on #80 -- working around semi-broken object metadata updates Adding controller tests and feature tests that use test-created sample records Adding feature test to make sure pager isn't displayed on direct-linked pages

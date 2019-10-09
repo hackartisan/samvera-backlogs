@@ -1,0 +1,2 @@
+Degree fields caching
+Fixes #812 Fixes #717 Relates #485

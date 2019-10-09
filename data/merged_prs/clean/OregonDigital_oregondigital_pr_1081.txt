@@ -1,0 +1,2 @@
+Feature/cvs
+Start of work to better show what Vocabularies and Controlled Vocabularies we have set up in OD. For now these aren't linked from anywhere, though they could first go on the new Admin page once that is merged in. I'd also like to somehow link the CV page from the Ingest Form, possibly alongside each form field once one is selected. Here's what the pages look like right now:

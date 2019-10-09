@@ -1,0 +1,2 @@
+Add Honors College Workflow
+honors college requires a workflow similar to the graduate school, but we want the labels for workflow steps to reflect honors college rather than grad school.

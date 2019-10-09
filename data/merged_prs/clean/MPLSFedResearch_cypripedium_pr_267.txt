@@ -1,0 +1,2 @@
+Display certain collections on the home page (instead of 5 random collections, which is the hyrax default).
+Connected to #256

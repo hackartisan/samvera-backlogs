@@ -1,0 +1,2 @@
+Link DOIs to preferred resolver (fixes #582)
+1st try to solve #582.

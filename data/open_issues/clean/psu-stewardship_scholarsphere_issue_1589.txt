@@ -1,0 +1,8 @@
+Support for the Ingest of Large Data Files
+Write a script that will grab the files from a staging server (NFS mount). Take a package and process it in SS.
+The RIP team will have a NFS mount from their local systems to a prep space on Isilon storage. This will enable them to obtain hard drives from folks and then copy relevant data over to Isilon and begin curating them (we may be able to provide a Globus transfer of the data as well, but this will likely need a bit more work and this work is not dependent on a Globus endpoint being complete). Once RIP team has completed the curation process they can move the files that are to be published in ScholarSphere into a staging area for ingest**. DSRD team will write a script that moves files from this staging area into ScholarSphere. This script will upload into ScholarSphere bypassing the web form, which we believe will be more stable for large files. At this point we believe the threshold for this process is 10GB per file. We cannot handle anything larger at this point, and you can have a larger collection than 10GB, but no file within the collection can exceed 10GB.
+Work will need to be created first by RePub and the folder structure on the staging server will need to be named with the same ID as the work, so that we can programmatically ingest the data into the correct work.
+![Image from iOS (1)]( 
+Start off by running the script manually instead of a cronjob and discover more about the process before automating.
+Directory structure would look like: ``` 1234xyz/   README.md   dataset.dat   paper.pdf   other.mp3 ``` Where the work is present as 
+Add  for easier management of the jobs being created. 

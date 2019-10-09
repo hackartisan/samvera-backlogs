@@ -1,0 +1,2 @@
+WC5 - Demystify AWS billing
+Collect questions and talk with Northwestern (M. Klein’s group) Set a monthly meeting about billing We will set AWS billing alarms on account @ $750 Set up notifications in Slack for when Kubernetes is setting up a new instance Adjust the instance types we use to get the optimal match for our workload Look for ways to add spot EC2 spot/reserved instances for EKS to target /use.

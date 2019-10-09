@@ -1,0 +1,2 @@
+Update to Hyrax v2.1.0.rc3
+Fixes #211 Updates the application to use the latest Hyrax release candidate.  This update required no changes to overrides or specs. Also ran a bundle update File changes from RC2 to RC3: ...v2.1.0.rc3

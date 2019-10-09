@@ -1,0 +1,2 @@
+Validate URI fields
+Using the metadata spreadsheet Emily gave us, identify and validate fields that take URI data.   Enable URI validation  Expand or update the form's system test to try URI validation.

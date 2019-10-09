@@ -1,0 +1,2 @@
+Removed repeated/duplicated names from the search result page
+See 

@@ -1,0 +1,2 @@
+Details page: order of terms
+The order in which selected terms appear on the Resource details page does not make sense to me. For example, for the Pedagogical focus field, you would expect the terms to appear in alphabetical order.  Similarly, for the Target age range field, you would expect the terms to appear in numerical order (as they are listed on the upload form):

@@ -1,0 +1,2 @@
+Fix Selenium errors on Travis
+Fixes #537 Adds sudo mount -o remount,size=32G /run/shm to .travis.yml.  Seems to fix the Selenium::WebDriver::Error::NoSuchDriverError errors. Also downgrades chromedriver-helper to < 2.0 because they've pinned it like that in Hyrax to resolve errors. Refs freeCodeCamp/testable-projects-fcc#324

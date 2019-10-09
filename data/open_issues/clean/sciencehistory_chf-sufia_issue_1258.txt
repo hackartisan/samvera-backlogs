@@ -1,0 +1,2 @@
+[Science History Institute Digital Collections/production] ArgumentError: No image type definition found for dl_medium?no_content_disposition=false
+Backtrace line 231 of [PROJECT_ROOT]/app/services/chf/create_derivatives_on_s3_service.rb: get_type_defn line 84 of [PROJECT_ROOT]/app/services/chf/create_derivatives_on_s3_service.rb: s3_path line 100 of [PROJECT_ROOT]/app/services/chf/create_derivatives_on_s3_service.rb: s3_url  View full backtrace and more info at honeybadger.io

@@ -1,0 +1,2 @@
+Remove OR2018 reference in header
+Fixes #23

@@ -1,0 +1,2 @@
+437 add retention policy to policy page
+Claiming issue 437 @bbe85b725846e9517deb5f24273cf38eff283104 relates to #437 $ ./script/start-issue 437 [skip ci] Add Retention and Review Policy page @d71784e9ddd6bc9a238b0a74f1b59e14e2442381 Left out sentence referring to Revision and Withdrawal Policy, and Content Format Preservation and Migration Policies since they do not yet exist. Closing issue 437 @b1f938f97f4d0963b2f479849868c385415324f4 Closes #437 $ ./script/close-issue 437

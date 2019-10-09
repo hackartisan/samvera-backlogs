@@ -1,0 +1,2 @@
+Samvera Connect Poster outline
+Done when A first draft outline includes:    Problem statement: i.e. some version of "What kind of ingest performance can I expect from Hyrax w/ ActiveFedora?"... only better phrased.  Why? i.e. what's in it for us, as well as the community?  What tests are being performed, how, and what metrics we're measuring.  How we want to present the data, i.e. graphs,  What conclusions do we hope to draw?  What recommendation do we hope to make?

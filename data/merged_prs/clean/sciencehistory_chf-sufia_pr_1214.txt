@@ -1,0 +1,2 @@
+Fix oral histories citations
+closed #1169

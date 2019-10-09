@@ -1,0 +1,2 @@
+Add graduation_year field
+In addition to graduation_date, we need a simple year that can be used by legacy data for display on the show page and used for year based search and facet. Addresses #166 and #306

@@ -1,0 +1,2 @@
+Fix logical structure for scanned maps
+Closes #2377

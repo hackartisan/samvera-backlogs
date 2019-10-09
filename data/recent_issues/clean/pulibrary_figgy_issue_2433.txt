@@ -1,0 +1,2 @@
+What's the difference between a "Collection" and an "Archival Media Collection"?
+Names have been based on what kind of workflow things are going thorough; and what models we're using on the back end. How can we reorganize the process?

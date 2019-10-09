@@ -1,0 +1,2 @@
+Update Spanish and Chinese translations
+This just updates our Spanish and Chinese translations to with changes we made recently to English translations.

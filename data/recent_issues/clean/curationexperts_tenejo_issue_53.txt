@@ -1,0 +1,2 @@
+Auto Deploy to cd server on CI success
+ACCEPTANCE   Provision a new tenejo-cd server  Configure CI to deploy whenever the test suite passes  Add the server to the wiki page at 

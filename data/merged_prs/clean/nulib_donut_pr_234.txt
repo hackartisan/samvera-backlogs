@@ -1,0 +1,2 @@
+override FileSetActor to reload file_set
+Fixes nulib/next-generation-repository#380 Fixes nulib/next-generation-repository#327 Override the FileSetActor.attach_to_work so that we can add a file_set.reload Otherwise (dev environment + UI upload only) the actor has the wrong copy of the file_set and the characterization info is overwritten in solr. This is causing previews and UniversalViewer not to display on the work page and the characterization info not to display on the FileSet page until the file set is reindexed. I was not able to reproduce in Hyrax.

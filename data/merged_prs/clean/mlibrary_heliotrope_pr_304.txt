@@ -1,0 +1,2 @@
+replace AF queries with solr in the monograph_search_builder, #290
+Resolves #290

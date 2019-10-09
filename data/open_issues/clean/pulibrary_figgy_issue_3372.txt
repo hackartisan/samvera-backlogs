@@ -1,0 +1,1 @@
+Investigate capistrano task to tunnel into RabbitMQ and open the console

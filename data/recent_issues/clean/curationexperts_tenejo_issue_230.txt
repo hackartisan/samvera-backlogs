@@ -1,0 +1,2 @@
+Error when submitting Tenjo contact form
+The following error in Honeybadger is happening when someone submits the contact form (bots are hitting the form): Errno::ECONNREFUSED in hyrax/contact_form#create Connection refused - connect(2) for "localhost" port 25  localhost:25 is the SMTP port, so the application is trying to send an email. We should   Disable the contact form & the route that POSTs an email  or   Setup an email server and put a captcha on the form

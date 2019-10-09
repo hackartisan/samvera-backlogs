@@ -1,0 +1,2 @@
+Allow Child Works to inherit metadata from parent works
+Use Case: upload a parent work with descriptive metadata, upload a number of child works, but inherit some of the metadata from the parent work (e.g. Creator, Title). We probably need to discuss the size of this issue, what metadata should be inherited by default (if any), and whether it is worth the amount of work required to complete.

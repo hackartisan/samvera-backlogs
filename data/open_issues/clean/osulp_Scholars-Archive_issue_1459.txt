@@ -1,0 +1,2 @@
+pagination facet buttons and limit fixes
+increase the facet limit to 100000 (tested manually on production to be performant) (  The "Next" button and "Last Page" seems to be miscalculating what the last page would be 327 for Subjects, but the last page is actually 2588. (

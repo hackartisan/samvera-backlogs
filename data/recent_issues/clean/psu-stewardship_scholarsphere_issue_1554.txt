@@ -1,0 +1,1 @@
+Batch edit of creator does not fill in email

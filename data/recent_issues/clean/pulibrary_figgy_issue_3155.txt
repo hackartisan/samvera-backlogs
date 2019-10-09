@@ -1,0 +1,2 @@
+Automatically update PULFA resource metadata
+Re-implement #2324

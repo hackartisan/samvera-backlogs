@@ -1,0 +1,2 @@
+Sorting Search Results
+As a user, I want to sort search results by title, date created, date published, creator, and relevance, So that I can better find what I'm looking for. Henry P. Additional user story from Catherine A. As an instructor/student user I want the ability to reorder search results based on metadata fields so that I can browse search results in various ways.

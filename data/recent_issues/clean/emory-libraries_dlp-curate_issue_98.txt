@@ -1,0 +1,2 @@
+Add CI setup documentation
+Document where the basic setup came from  Document where additional setup came from.

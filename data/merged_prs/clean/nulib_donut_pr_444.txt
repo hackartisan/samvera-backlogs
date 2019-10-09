@@ -1,0 +1,2 @@
+Also look for en-us labels
+Fixes nulib/next-generation-repository#855 Fixes nulib/next-generation-repository#765 We'll need to clear the Label.Cache for affected uri's after the code is deployed and then resave/reindex the affected records.

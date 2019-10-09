@@ -1,0 +1,6 @@
+May need to set status of back-end uploaded item
+Should Status be set to "Deposited" to match with the result of manually creating an item, i.e. through the UI?
+Also, do items need to be added to the Default Admin set?
+The issue in the previous comment has been spun off as #44 
+The status is not being set because unlike items uploaded through the UI, which go through a workflow (the [Default workflow]( unless configured otherwise), items uploaded via the ingest_etd task are not going through a workflow.
+Moving this out of 0.1.  Although it may be difficult (not impossible though) to apply to already-uploaded items, it doesn't seem to cause any issues.  It is possible that the underlying cause is the same as the reason why items aren't being automatically indexed upon upload via script.  Either way, this can be investigated after 0.1. 

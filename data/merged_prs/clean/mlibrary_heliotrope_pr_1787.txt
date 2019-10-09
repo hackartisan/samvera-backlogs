@@ -1,0 +1,2 @@
+EPUB reader citation control
+Resolves #1786

@@ -1,0 +1,2 @@
+2404_aptrust_clean_up8
+Cleaning up the bag name by adding fulcrum.org. to beginning of name in the method that checks if the bag is deposited (update_db_aptrust_status(record)).

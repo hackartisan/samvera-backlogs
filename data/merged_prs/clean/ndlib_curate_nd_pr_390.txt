@@ -1,0 +1,2 @@
+387 missing space in collaborator help text
+Fixed typo, then found same typo in a second location and fixed that as well.

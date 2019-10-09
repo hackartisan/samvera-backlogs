@@ -1,0 +1,2 @@
+2525_make_aptrust_upload_tracking_table
+Adds: a migration for aptrust_uploads table a model aptrust_upload.rb an updated db/schema.rb a spec/factories/aptrust_uploads.rb a spec/models/aptrust_upload_spec.rb rubocop and specs pass

@@ -1,0 +1,1 @@
+Remove pending now that we truned off JS errors

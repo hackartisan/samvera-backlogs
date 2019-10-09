@@ -1,0 +1,2 @@
+[wip] move Document model to new Publication model
+rename all Documents files  update app/models/publication.rb to match initial metadata profile  update app/forms/publication_form.rb to match initial metadata profile  update app/indexers/publication_indexer.rb

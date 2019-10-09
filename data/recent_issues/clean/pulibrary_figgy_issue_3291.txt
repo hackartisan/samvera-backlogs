@@ -1,0 +1,2 @@
+OCR jobs when queued by bulk update are going into Default queue
+They should stay in super_low.

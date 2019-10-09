@@ -1,0 +1,2 @@
+Remove Hyrax default hard-coded Description on work show page
+Descriptive summary Hyrax ships with a hard-coded Description field on a work show page, included below the viewer. See  "So much stuff 1" is the Description, and also shows up again with the rest of the metadata fields. While it will be moved in the future, we don't need it appearing twice. Expected behavior Description content only appears once. Related work #99 - potential new view for show page

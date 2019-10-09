@@ -1,0 +1,2 @@
+adds dspace routes
+fixes #1006

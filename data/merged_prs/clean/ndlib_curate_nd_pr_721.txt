@@ -1,0 +1,2 @@
+Fix "mysql Incorrect string value: '\xE2\x9C\x93"\x0As" error
+Fix "mysql Incorrect string value: '\xE2\x9C\x93"\x0As" error 3de2ec2 Problem was that the default character set in mariadb was not being set to utf8. Added a custom config to the docker compose that will set this every time mariadb starts

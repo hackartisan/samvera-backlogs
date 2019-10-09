@@ -1,0 +1,2 @@
+Work Show Page: In right column, add Print button
+Descriptive summary In the right column, add a Print button. For now this can activate the system's print dialog. Later this may be a larger feature giving options for what exactly gets printed. Wireframe mockup:  (Information compiled by POSM group from updated wireframes) Expected behavior Print button activates system print dialog.

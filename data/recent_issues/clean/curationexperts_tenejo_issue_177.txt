@@ -1,0 +1,2 @@
+Check for valid rights statements
+Since submitting an invalid license statement causes an application error, it's a safe bet that submitting an invalid rights statement will do the same thing.   Check that any rights statement submitted is one of the controlled vocabulary options expected by Hyrax and raise an error if it isn't

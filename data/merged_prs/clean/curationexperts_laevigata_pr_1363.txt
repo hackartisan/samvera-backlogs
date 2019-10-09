@@ -1,0 +1,2 @@
+displaying saved degree
+This commit displays saved degree data, it if exists. If not the choice option is selected for the user.

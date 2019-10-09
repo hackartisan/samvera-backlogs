@@ -1,0 +1,1 @@
+Enable insertion of DOI (minus 'doi:' label) into MODS

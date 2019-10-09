@@ -1,0 +1,6 @@
+smart validation based on required field and value being included
+
+more descriptive info?  
+This ticket may actually be done. 
+We can now choose what we want to validate based on an object that describes specific validation requirements. 
+ should this be closed?

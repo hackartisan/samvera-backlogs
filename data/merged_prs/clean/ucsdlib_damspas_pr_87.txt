@@ -1,0 +1,2 @@
+Feature and solr indexing tests (DHH-646)
+Fixing feature tests to work around limitations of object building and metadata processing Consolidating solr indexing tests Fixing all pending tests  Fixes 

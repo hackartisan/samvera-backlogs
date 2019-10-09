@@ -1,0 +1,2 @@
+Allow additional document types
+Updates Curate to allow specifying additional document types from a YAML file. Fixes #321

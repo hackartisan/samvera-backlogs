@@ -1,0 +1,2 @@
+Adding money as a genre
+Fixes #1170

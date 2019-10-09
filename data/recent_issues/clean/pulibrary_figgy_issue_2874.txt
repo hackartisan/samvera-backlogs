@@ -1,0 +1,2 @@
+Audio player should have a way to automatically start playing on open
+Requested by Dan. Doesn't seem necessary for his workflow or requested by students - it was a recommendation based on functionality in other viewers.

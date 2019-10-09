@@ -1,0 +1,2 @@
+Change text on 'Organize Assets' button, add different versions for s…
+Closes #164

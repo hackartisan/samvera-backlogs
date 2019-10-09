@@ -1,0 +1,2 @@
+replace collections yml with yml that include communities and collections redirect
+fix #1015

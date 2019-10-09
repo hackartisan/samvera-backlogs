@@ -1,0 +1,2 @@
+Update bootstrap-sass gem to >= 3.4.1
+Descriptive summary Github is reporting a vulnerability in the bootstrap-sass gem:  Follow the instructions above to pin the gem to >= 3.4.1 and run a bundle update bootstrap-sass

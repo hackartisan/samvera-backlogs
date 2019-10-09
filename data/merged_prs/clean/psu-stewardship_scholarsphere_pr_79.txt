@@ -1,0 +1,2 @@
+404 errors
+Fixes  by rendering 404 on ActiveFedora::RecordNotFound

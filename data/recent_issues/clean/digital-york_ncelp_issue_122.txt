@@ -1,0 +1,2 @@
+OASIS / IRIS field not visible when filled in
+The OASIS field is now not visible when there is content. Sorry, I tested whether it disappeared when empty, but not if appeared when filled. Screenshot below has content in the field, so should appear.

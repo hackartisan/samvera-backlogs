@@ -1,0 +1,2 @@
+Issue form reorg
+Reorganize the Numismatic Issue form/show page to match the order of the existing application:  department object type denomination metal shape color edge first date/last date date of object non-CD date ruler region/state/city obverse figure, symbol, part, orientation, description, relationship, legend reverse figure, symbol, part, orientation, description, relationship, legend attributes (textarea) notes  Child of #2025

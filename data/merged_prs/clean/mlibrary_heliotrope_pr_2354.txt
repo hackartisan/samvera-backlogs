@@ -1,0 +1,2 @@
+HELIO-2655 Add crossref submission api endpoint
+Using a token and some xml I'm able to use this to post to test.crossref.org using curl.

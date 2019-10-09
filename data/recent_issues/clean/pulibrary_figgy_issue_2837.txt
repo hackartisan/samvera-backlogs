@@ -1,0 +1,2 @@
+Google Drive download errors
+Errors such as the following: [ActiveJob] [BrowseEverythingIngestJob] [f7cfbc9c-9fc3-489f-b668-217b4a1b8cec] FileAppender: Failed to append the new file Image00035.tif for [...]: BrowseEverything::Retriever: Failed to download [...]?alt=media: Status Code: 403  were encountered when a user attempted to upload files from a Google Drive account from April 1st onwards.

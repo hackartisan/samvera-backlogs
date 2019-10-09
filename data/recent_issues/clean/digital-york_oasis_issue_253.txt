@@ -1,0 +1,2 @@
+Bundle update breaks the application
+Adding 'clamav' into Gemfile and running a bundle install will break application with the following error message:

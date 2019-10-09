@@ -1,0 +1,2 @@
+Loosen restrictions for capistrano version
+I'm tired of tripping on this every time there's a minor capistrano update

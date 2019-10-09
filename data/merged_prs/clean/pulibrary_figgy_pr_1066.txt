@@ -1,0 +1,2 @@
+Ensures that the FileManager interface is offered for `SimpleResources`
+Resolves #1029

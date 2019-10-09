@@ -1,0 +1,2 @@
+Remove arguments from `multi_index_persist` stub
+Another attempt to fix the intermittent spec failure

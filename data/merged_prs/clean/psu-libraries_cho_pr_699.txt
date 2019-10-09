@@ -1,0 +1,2 @@
+Store extracted text on the file set
+Description Perform text extraction when uploading files. Connected to #652 TODOs  failures in extraction are ignored for now (see #700 for follow-up)

@@ -1,0 +1,2 @@
+Staff-only fields on show, closes #367
+Note additional of global staff_user? helper method, recommend using this instead of checking current_user.present? to express semantics better, and allow easier changes in future.

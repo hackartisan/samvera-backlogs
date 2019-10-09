@@ -1,0 +1,1 @@
+Update README with aws-cli and minio information

@@ -1,0 +1,2 @@
+HELIO-2265 add indexes to the counter_reports table
+See notes in HELIO-2265

@@ -1,0 +1,2 @@
+HELIO-2091 - change binding to respect turbolinks
+Resolve HELIO-2091 By changing the binding to wait for turbolinks to load, the JS function closeMessage() becomes executable when the DOM or window does not actually re-load; this modification appears to fix the issue of being unable to close the message window upon login or logout, or other thinks that utilize turbolinks.

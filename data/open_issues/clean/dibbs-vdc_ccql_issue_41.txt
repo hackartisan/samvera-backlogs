@@ -1,0 +1,5 @@
+Start Rspec Testing
+We should eventually start looking into writing some automated tests for this application. Right now, there aren't any. Here's a potential place to start:  This would be good to help robustness and documentation for transition.
+Also, I created a basic wiki page for running the rspec tests.    
+I didn't get very far, but at least I have some tests now.  Merging into master.
+I originally thought to merge to master, but I forgot about some code changes relating to an issue that isn't closed yet (Issue #73).  This branch should only be merged once that issue is closed. So, I'm revering the merge and reopening this.

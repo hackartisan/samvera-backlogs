@@ -1,0 +1,2 @@
+Repository manager and administrative function enhancements
+This improves access to and navigation of repository administrative functions. Administrative functions have moved to a menu item. Addresses most of: Trello card

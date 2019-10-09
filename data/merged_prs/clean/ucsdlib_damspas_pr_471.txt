@@ -1,0 +1,2 @@
+Remove download link for simple ucsd-only object
+Fixes #461 Local Checklist   Tests written and passing locally?  Code style checked?  QA-ed locally?  Rebased with master branch?  Configuration updated (if needed)?  Documentation updated (if needed)?  What does this PR do? Remove download function for UCSD-only video objects Why are we doing this? Any context of related work? References #461 /developers - please review

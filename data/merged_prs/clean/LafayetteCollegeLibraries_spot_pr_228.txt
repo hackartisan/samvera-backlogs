@@ -1,0 +1,2 @@
+quick fix for universal viewer
+for some reason, the universal viewer files included with the pul_uv_rails gem are not showing up, causing our image viewer to render blank. it's been temporarily fixed by cloning the repository into public/universalviewer and checking out thev2.0.1 branch (the version used by the princeton gem). this ensures that the public/universalviewer directory is shared across deployments so we don't have to repeat the whole dance each time.

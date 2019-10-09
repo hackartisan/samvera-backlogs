@@ -1,0 +1,2 @@
+Remove X-Frame-Options as default header.
+Fixes #1215

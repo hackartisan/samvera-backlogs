@@ -1,0 +1,2 @@
+add a browse button to the main search bar
+Fixes #247

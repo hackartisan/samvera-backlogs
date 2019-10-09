@@ -1,0 +1,2 @@
+Update transactions to use rejection class
+Updates transaction operations to use the Rejection class for errors including their corresponding tests. Description Fixes #643

@@ -1,0 +1,2 @@
+overriding the image derivative types to not include tiff
+Yes I know that the test may be considered in the wrong place, but I did not want to spin up the entire rails environment to just check  the contents of an array.  I figured items in config "could" be tested in the config test.

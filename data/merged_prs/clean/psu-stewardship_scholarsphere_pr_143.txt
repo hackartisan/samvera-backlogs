@@ -1,0 +1,2 @@
+Update solr rake tasks, fixes #137
+Addresses the problems in #137 by removing unneeded tasks and updating the syntax of others.

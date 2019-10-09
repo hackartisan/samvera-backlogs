@@ -1,0 +1,1 @@
+DLTP-338 prevent robots from accessing help_requests

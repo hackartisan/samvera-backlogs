@@ -1,0 +1,2 @@
+Adds a fallback of Arial to the UV theme.
+I should probably create a custom theme instead of this, but I can't figure it out and all the documentation is gone since V3. Closes #928

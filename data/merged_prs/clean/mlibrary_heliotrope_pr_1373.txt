@@ -1,0 +1,2 @@
+Resolves #1372, update ruby version and start using rbenv-aliases
+Because A&E is using rbenv-aliases on their machines we should probably start using it too in development to keep things consistant. This PR starts the usage of rbenv-aliases for development as well as updating ruby to 2.4 (2.4.2 specifically). Developers should install  and get ruby 2.4 On a mac I think this should be something like: brew install rbenv-aliases rbenv install 2.4.2 rbenv alias 2.4 --auto

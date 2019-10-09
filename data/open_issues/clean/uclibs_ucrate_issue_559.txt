@@ -1,0 +1,14 @@
+Works not saving when a virus is found in one of the files
+Descriptive summary (tested on scholar-qa) When creating a work and using the test virus string, Scholar detects the virus, but when the user clicks the Save button an HTTP ERROR 400 is returned. Not sure if this is isolated to scholar-qa, or production mode, or is present in all environments.
+Confirmed this is on local.
+ 
+  
+
+ 
+
+I am able to bundle with ClamAV 0.100.2.
+The 404 error occurs when trying to add multiple files with one of them being a virus and the other clean.
+Invalid or incomplete POST params Started POST "/concern/generic_works?locale=en" for 127.0.0.1 at 2019-02-20 12:28:18 -0500    Rack::QueryParser::ParameterTypeError (expected Hash (got Array) for param `title'):
+We chose to use the save_work form validation to catch any virus error messages displayed by the FileUploader.  If the FileUploader is displaying an error message, then the user will not be able to hit the SAVE button.  It will be greyed out until the user manually deletes the infected file from the uploader interface.  I started a branch:   This branch demonstrates the starting principles of this strategy.    We still need to: - [ ] Overwrite the save_work_control from hyrax in our application.   - [ ] Introduce safe_file into the application. - [ ] Get them both in the asset pipeline successfully. - [ ] Make sure the javascript code is good. - [ ] Adjust the labels. - [ ] Test for batch upload - [ ] Write test.    
+There is also another branch where I tried to extend the java classes and not do a full overwrite.  
+Useful links:    

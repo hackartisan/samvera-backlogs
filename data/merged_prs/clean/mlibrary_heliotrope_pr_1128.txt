@@ -1,0 +1,2 @@
+Resolves #1108 'Add a redirection control field to FileSets'.
+Resolves #1108.

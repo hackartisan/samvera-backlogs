@@ -1,0 +1,2 @@
+determine catalog#index metadata to display
+we get 5 items to display on the index. i chose the order kind of randomly, so let's think it out.

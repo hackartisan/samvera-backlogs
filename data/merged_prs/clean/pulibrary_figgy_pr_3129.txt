@@ -1,0 +1,2 @@
+Generates the `posterCanvas` property for IIIFv3 Manifests where Recordings have image FileSets
+Advances #3075

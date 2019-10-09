@@ -1,0 +1,2 @@
+Make ARK generation more fault tolerant
+Wrap ARK/EZID API calls so errors can be caught and logged without raising an exception.

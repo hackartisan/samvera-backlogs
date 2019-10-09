@@ -1,0 +1,2 @@
+Fedora S3 connection - confirm performance characteristics
+Note: A/I from the DCE Infrastructure meeting

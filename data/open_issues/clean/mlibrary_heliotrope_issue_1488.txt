@@ -1,0 +1,2 @@
+Search across all monographs in a publisher
+Full text will be indexed by chapter (as the Solr document).   We need figure out how to relate chapters from the same book in search results display.

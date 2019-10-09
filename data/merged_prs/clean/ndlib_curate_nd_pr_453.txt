@@ -1,0 +1,2 @@
+Replace complicated bash stuff with awk one liner
+Figuring out the next build identifier can be done using a one line awk script. This replaces a much more complicated bash process. As you can see, this is extremely critical.  😃

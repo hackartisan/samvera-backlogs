@@ -1,0 +1,3 @@
+Batch edit for items in a collection
+As a user, I would like to be able to batch edit the metadata for items in in a collection to more efficiently manage it.
+Add same batch edit interface that we have in my works to the collection edit page.  The edit button should show next to the Remove From Collection button

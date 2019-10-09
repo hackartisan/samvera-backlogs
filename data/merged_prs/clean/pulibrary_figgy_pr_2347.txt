@@ -1,0 +1,2 @@
+Add finding aids updater with rake tasks, cron and queuing
+pending ansible requirements fixes #2324

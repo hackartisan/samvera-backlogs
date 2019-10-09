@@ -1,0 +1,2 @@
+Add Figaro for secrets management
+Introduce more secure secrets management. In addtion it harmonise different dev enviroment.

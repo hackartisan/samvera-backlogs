@@ -1,0 +1,2 @@
+Enable link to statistics within the admin page
+Returning to the statistics page from other pages in the administrative view page wasn't possible because the link was missing. Reverting our override and using the Sufia page fixes this. Connected to #1175

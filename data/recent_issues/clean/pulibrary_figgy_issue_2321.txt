@@ -1,0 +1,2 @@
+Facet to work type: Recording
+there is a related issue somewhere about displaying the changeset somehow on different types of scanned resources but I can't find it right now.

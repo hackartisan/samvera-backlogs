@@ -1,0 +1,2 @@
+Add ESLint for the OrderManager and other Vue Components
+Currently Jest is used to provide the testing of components, mutators, and actions, but none this code is linted.   has recommended that we follow the Standard styleguide, but notes that there is an alternative offered by AirBnB.

@@ -1,0 +1,1 @@
+Reload record when failed to fix the potential cause of missing solr field. DHH-605

@@ -1,0 +1,2 @@
+Changes to logo
+Resolves #87  Replace SVG with PNG Move image from CSS background to HTML

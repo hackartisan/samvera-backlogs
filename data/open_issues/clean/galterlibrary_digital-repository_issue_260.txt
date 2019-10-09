@@ -1,0 +1,2 @@
+Problem with `show_only_collections'
+Sufia::SearchBuilder can't find Sufia::SearchBuilder::Collection, this is because Collection needs to be changed to ::Collection in show_only_collections

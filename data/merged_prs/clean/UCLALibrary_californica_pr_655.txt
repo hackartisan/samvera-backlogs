@@ -1,0 +1,2 @@
+disable parallel import of CSVRows
+Since parallel execution of CsvRowImportJob is currently not working, this executes it inline while we decide what to do.

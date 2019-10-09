@@ -1,0 +1,5 @@
+Support for Markdown in Descriptive Metadata, Text Blocks
+As a metadata librarian, I want to apply some basic formatting and linking in descriptive metadata, so that I can organize the content and provide a better user experience. Markdown preferred over HTML/CSS due to the simplicity of the syntax. Makes it easier to work with exported metadata. Extra points if markdown syntax can be turned on/off for export.
+
+    What do you think of markdown syntax in metadata?
+I'm not opposed to it.

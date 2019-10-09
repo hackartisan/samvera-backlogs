@@ -1,0 +1,2 @@
+Add more descriptive labels for date range form fields
+fixes #841 I didn't use parenthesis because the meaning seems clear without them and I think fewer characters is better

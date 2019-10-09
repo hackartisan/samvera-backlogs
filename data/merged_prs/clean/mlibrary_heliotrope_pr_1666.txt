@@ -1,0 +1,2 @@
+Addresses #1665 Remove Switch Language Dropdown.
+Leaving code, but commented out.

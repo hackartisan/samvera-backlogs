@@ -1,0 +1,2 @@
+added missing indexer to collection model
+fixes #1735  It turns out that hyrax now has a separate indexer for the Collection model. See the new collection template:  The metadata for collections in the template is now based on 

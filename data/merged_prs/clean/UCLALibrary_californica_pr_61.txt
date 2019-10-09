@@ -1,0 +1,2 @@
+Parameterize fedora and solr dev configs
+Adding FEDORA_DEVELOPMENT_URL and SOLR_DEVELOPMENT_URL ENV variables. Changing the default Fedora port back to the 8984 that DCE prefers (the VM will use the ENV vars).

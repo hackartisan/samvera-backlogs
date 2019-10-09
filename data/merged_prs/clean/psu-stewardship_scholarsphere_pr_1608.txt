@@ -1,0 +1,2 @@
+Opt Out Email text fixes
+Updates the greeting to use  instead of the blank given name. Adds instructions on how to opt out of the monthly email.

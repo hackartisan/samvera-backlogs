@@ -1,0 +1,2 @@
+Add branding for a2ru
+Resolves HELIO-2794

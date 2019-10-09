@@ -1,0 +1,2 @@
+Consolidate sitefinity info to repo
+The SiteFinity GDJA website and the Repository need to be joined into one and the drop down menus and their contents transferred from the SiteFinity.

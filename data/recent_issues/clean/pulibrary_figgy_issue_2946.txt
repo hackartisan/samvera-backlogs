@@ -1,0 +1,2 @@
+Handle failed fixity checks which later succeeded in the fixity dashboard
+Currently, Events may be created with the FAILURE status in response to a failed fixity check.  At some point when a fixity check is enqueued for the same FileMetadata node and PreservationObject which then passes (creating an Event with the status SUCCESS), the previous failures should not be rendered on the dashboard.  Please see #2922 (review)

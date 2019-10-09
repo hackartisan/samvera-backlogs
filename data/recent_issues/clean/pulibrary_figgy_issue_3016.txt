@@ -1,0 +1,2 @@
+LA bag ingest - Rita Guibert Collection resource with no component id
+One item in the Rita Guibert Collection of Latin American Authors came through with no title, presumably because it couldn't find a component id.  

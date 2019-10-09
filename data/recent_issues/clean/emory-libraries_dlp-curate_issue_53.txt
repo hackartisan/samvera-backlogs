@@ -1,0 +1,2 @@
+Setup rubocop
+Figure out a good rubocop pattern  Configure dlp-curate to use rubocop

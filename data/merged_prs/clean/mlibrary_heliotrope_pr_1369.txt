@@ -1,0 +1,2 @@
+monograph catalog access control
+Resolves #1286

@@ -1,0 +1,2 @@
+Changed the required fields so that only title is required. Story #114.
+We had a problem where records that were created by the importer were marked as 'invalid' by the edit form because they were missing some required fields.  After discussion, we decided that the only required field should be title.  Records created by the importer should be considered 'valid' by the form.

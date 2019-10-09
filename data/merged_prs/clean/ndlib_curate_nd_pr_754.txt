@@ -1,0 +1,2 @@
+Curate Admins Manage All Groups
+Fixes  Ensures that all Curate repository administrators have the ability to view and manage all groups. While they previously had the ability granted via the ability class, the index view prevented viewing of any groups you aren't a member of. Before Change Repository with two groups, manager OR non-manager index view  After Change Repository with two groups,  manager index view  Manager show view for group without belonging to it

@@ -1,0 +1,2 @@
+Adds degree fields without grantor to 'other'
+Fixes #1301 This adds the degree fields to the "Other" worktype. This was a bit of a chore since the other work type serves as the base for all other work types. Adding it to other meant we had to remove them from the etd work type since they would flow through but also make sure they didnt show up in the article and oer work types. Also needed to make sure it got indexed properly and the properties needed to exist on the default work type model. Other needs to work for these as well so that work needed to be ported over.

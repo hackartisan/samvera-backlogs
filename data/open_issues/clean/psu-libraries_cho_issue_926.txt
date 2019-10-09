@@ -1,0 +1,2 @@
+How to configure the indexing of linked field Agent and Role
+Within the catalog controller there is a todo for configuring the linked field role indexing instead of hard coding it.  Blocked by #821

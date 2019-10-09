@@ -1,0 +1,2 @@
+Improve monogram selection process
+Ideally the monogram can be selected from a gallery of monogram thumbnails and new monograms can be created from the issue form.

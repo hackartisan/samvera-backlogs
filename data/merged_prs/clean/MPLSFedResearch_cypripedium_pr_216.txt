@@ -1,0 +1,2 @@
+Removed solr suggest sections from solr config.
+The hyrax upgrade notes strongly recommend disabling the suggest behavior because of performance issues.  For more info, see:  Connected to #195

@@ -1,0 +1,2 @@
+Provide credentials for dor-services-app
+Fixes #291

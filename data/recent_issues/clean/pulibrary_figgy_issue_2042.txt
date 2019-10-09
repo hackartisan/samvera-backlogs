@@ -1,0 +1,2 @@
+[Figgy/production] TypeError: no implicit conversion of String into Integer
+Backtrace line 15 of [PROJECT_ROOT]/app/services/voyager_updater/dump.rb: [] line 15 of [PROJECT_ROOT]/app/services/voyager_updater/dump.rb: block in update_ids line 15 of [PROJECT_ROOT]/app/services/voyager_updater/dump.rb: map  View full backtrace and more info at honeybadger.io

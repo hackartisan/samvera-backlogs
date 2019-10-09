@@ -1,0 +1,2 @@
+QA/authority enhancements
+Suggestions from Mark:  Re-configure our Library vocab to be local (add URIs and terms for Emory Libraries only) Investigate options to configure multiple authorities to a single field Can also add inactive entries to a local vocab to support deprecated terms, but not allow users to enter them moving forward

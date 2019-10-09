@@ -1,0 +1,2 @@
+Add EZID API classes
+Code copied from hypatia and modified, with modifications kept at a minimum. Rspec tests were added.

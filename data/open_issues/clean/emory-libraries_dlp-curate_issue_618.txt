@@ -1,0 +1,2 @@
+Investigate Cantaloupe performance for high-res images
+If we continue to serve out high res TIF files, investigate ways to increase load time (can take 5-20 seconds to load an image in the viewer)

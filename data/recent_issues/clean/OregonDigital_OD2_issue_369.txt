@@ -1,0 +1,2 @@
+Set up service that interfaces with BG and submits URI on persist.
+Descriptive summary This is Plan B. We will have a generic service which can take a subject and interfaces with Blazegraph via triplestore adapter. It should sit in the middle of persist and for each attribute on the object, if it is a valid URI, it will put it into blazegraph using insert

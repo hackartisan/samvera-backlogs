@@ -1,0 +1,2 @@
+Ensuring that derivative FileMetadata is deleted from FileSets when IngestIntermediateFileJob appends an intermediate file for a resource
+When testing #1592, it was discovered that FileMetadata for the original derivatives of a Resource were not deleted once an intermediate file was appended by IngestIntermediateFileJob, and the derivatives were regenerated.

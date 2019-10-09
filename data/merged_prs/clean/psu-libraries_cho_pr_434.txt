@@ -1,0 +1,2 @@
+Define core fields and schema fields
+Description References ticket: #322 Using a csv file, import the data dictionary fields for a development or production instance, and create/assign the metadata fields to each of the schemas. Why was this necessary? We needed to create a full list of fields for every schema. Changes Are there any major changes in this PR that will change the release process? No Checklist   i18n enabled  adequate test coverage  accessible interface

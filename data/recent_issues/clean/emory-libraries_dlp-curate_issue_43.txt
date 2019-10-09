@@ -1,0 +1,2 @@
+Investigate use of SOLR Cloud for Cor environment
+ please update this ticket

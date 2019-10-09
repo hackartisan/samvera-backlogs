@@ -1,0 +1,2 @@
+Dockerize app
+Transitions SA to fully dockerized, see README for details.

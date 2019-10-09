@@ -1,0 +1,2 @@
+DIGREPO-777: generate thumbnails during ingest
+Don't merge; still testing.

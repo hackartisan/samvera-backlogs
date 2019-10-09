@@ -1,0 +1,2 @@
+Skip authorization check on the login controller
+Remove a feature test about login, as we no longer accept username/password credentials

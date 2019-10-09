@@ -1,0 +1,2 @@
+unicode in epj1 vs hyrax test
+see what unicode errors exist, see how to fix them.

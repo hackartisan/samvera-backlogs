@@ -1,0 +1,2 @@
+Feature/configure search field
+Fixes #272

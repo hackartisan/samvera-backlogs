@@ -1,0 +1,2 @@
+Index path to the thumbnail for works and file sets
+Description Connected to #741 Adds a NullFileSetRepresentative for works that have no file sets, as well as adds better test coverage to our existing indexers.

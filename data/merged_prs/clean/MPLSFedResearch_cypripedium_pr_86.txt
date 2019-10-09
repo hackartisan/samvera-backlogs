@@ -1,0 +1,2 @@
+Add items to their collection when importing
+This commit adds a Contentdm::Collection class that finds or creates a collection with a specified title. The title is specified in the export XML. Closes #75

@@ -1,0 +1,2 @@
+HELIO-2294 Multi-institutional COUNTER reports for platform/press admin
+Some of the reports for all institutions can be a little slow, 2 minutes or so. Should be ok in the near term, but eventually we'll need to try something else.

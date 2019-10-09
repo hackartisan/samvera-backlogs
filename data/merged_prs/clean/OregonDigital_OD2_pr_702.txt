@@ -1,0 +1,2 @@
+Fix beeline-ruby namespacing
+Fixes #701

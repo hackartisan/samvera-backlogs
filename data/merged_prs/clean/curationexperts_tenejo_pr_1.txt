@@ -1,0 +1,1 @@
+Add `hydra-role-management` for database authentication

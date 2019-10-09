@@ -1,0 +1,2 @@
+HELIO-2556 - hotfix CSS changes for rekihaku
+This is 2.34.4 in production.

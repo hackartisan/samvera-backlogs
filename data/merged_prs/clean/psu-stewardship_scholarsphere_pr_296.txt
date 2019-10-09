@@ -1,0 +1,2 @@
+GenericFile (now GenericWork and FileSet) thumbnail_spec.rb
+Replaced the tests for GenericFile thumbnail with tests for GenericWork and FileSet thumbnails. Notice that with Sufia 7 we don't generate a thumbnail for the GenericWorks, but instead we pick one from the FileSet. In Sufia 7 we generate thumbnails at the FileSet level. I am not replicating some of the tests that we were doing for different kind of files at the GenericFile level in Sufia 6 since those tests are now covered in CurationConcerns 

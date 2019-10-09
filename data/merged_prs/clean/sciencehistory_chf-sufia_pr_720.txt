@@ -1,0 +1,2 @@
+avoid expensive application_name call
+It turns out calling Sufia helper application_name is quite expensive, too expensive to do twice per member on a page that could have hundreds of members. Sufia::SufiaHelperBehavior#application_name We could have tried to figure out why it was expensive and optimized it, but we don't need it enough to be worth the time at present. PR'd to riiif branch, because this .erb code changed it's location between master and riiif, didn't want to deal with the merge.

@@ -1,0 +1,2 @@
+remove unnecessary override of file manager partial
+Fixes #668 (this will merge into release) This override was introduced in #646, but it throws an error and isn't actually needed.  The File Manager button already properly preserves the language translation choice.

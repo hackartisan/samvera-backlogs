@@ -1,0 +1,2 @@
+adding in legacy ids field
+fixes  i left the legacy identifiers field editable since i figured it'd be nice for users of the app to be able to add/edit without having to go through the devs, but i'm open to changing it

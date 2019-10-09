@@ -1,0 +1,2 @@
+Add authority select to subject controlled vocabulary
+As it stands right now, there are still issues with this.  FAST authority not grabbing label correctly (through the UI, through batch it works)   - can we merge this and break FAST problems out into separate issue? Unless you see the problem?

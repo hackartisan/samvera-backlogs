@@ -1,0 +1,2 @@
+Redirect to collection when adding new works, ref #702
+If the user specified a collection to add new works to, it was redirecting to the dashboard instead of the collection and it was not obvious that the new works had been added. If a collection has been specified in the parameters hash, we redirect to the collection after the works have been successfully created.

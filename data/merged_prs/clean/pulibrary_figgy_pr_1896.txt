@@ -1,0 +1,2 @@
+Don't re-query for filesets in ManifestBuilder
+Should improve efficiency of manifest generation significantly. Discovered via datadog: 

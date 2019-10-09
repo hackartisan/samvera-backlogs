@@ -1,0 +1,2 @@
+Use the ActorStack when importing records
+The Hyrax ActorStack manages pre- and post-ingsest processing for new items. This includes setting system managed dates, attaching files, initializing workflow, etc... This plugs our bulk ingest process into the californica-wide default stack to ensure full processing happens for new items. Closes #161.

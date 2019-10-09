@@ -1,0 +1,2 @@
+add metadata to iiif manifests
+we'll need to update this initializer config line, since it currently only uses the title (if that): 

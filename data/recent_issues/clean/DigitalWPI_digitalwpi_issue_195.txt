@@ -1,0 +1,2 @@
+Security vulnerabilities
+Github complains about the following gems. devise opened on Mar 20 by GitHub • Gemfile.lock moderate severity actionview opened on Mar 13 by GitHub • Gemfile.lock critical severity activejob opened on Feb 28 by GitHub • Gemfile.lock moderate severity bootstrap-sass opened on Feb 22 by GitHub • Gemfile.lock moderate severit

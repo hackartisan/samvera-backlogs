@@ -1,0 +1,2 @@
+Resolves HELIO-2006: Book Count Overlap Bug
+doesn't scale but   does!

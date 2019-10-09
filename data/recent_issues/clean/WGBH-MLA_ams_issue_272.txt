@@ -1,0 +1,2 @@
+Add controlled vocabulary on EssenceTrack.playbackspeedunitsofmeasure
+Description: As a cataloger, I need to be able to choose a units of measure term from a controlled vocabulary for the Essence Track Playback speed units of measure, so that I make sure I'm using the same terms as everyone else. Done when:   Essence Track Playback speed units of measure has a controlled vocabulary  That vocabulary has terms: RPM and Inches per Second

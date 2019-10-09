@@ -1,0 +1,2 @@
+Update Name of Publication and Curation Services in ScholarSphere
+Under User Support on the Help page of ScholarSphere, the documentation refers to Publication and Curation Services. The group is now called,"Research Informatics and Publishing." We should make a sweep through the system for all references to the old name of the group and make updates.

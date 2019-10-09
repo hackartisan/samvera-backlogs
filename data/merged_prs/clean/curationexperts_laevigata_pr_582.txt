@@ -1,0 +1,2 @@
+Always render an ETD for its depositor
+Fixes #575

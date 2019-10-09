@@ -1,0 +1,2 @@
+Problem uploading subsequent version of a file
+I tried to load a subsequent version of the file at  I would like to replace the PPT file with a PDF, but the process would not complete.  It stalls when loading the new file.

@@ -1,0 +1,2 @@
+filename mismatch between DSpace and Hyrax
+The bitstream name in DSpace should be mapped to label_ssim of fileset in Hyrax, but it is not a exact match in some cases, e.g.:  DSpace: *pnw590.pdf,  Hyrax: _pnw590.pdf Dspace: CVX - Canvasä<8b>¢ ¥ó¢ Friend_geoFINAL.pdf, Hyrax: CVX_-_Canvas____Friend_geoFINAL.pdf We get start with the error logs of legacy stats processing, and identify the pattern or deal with the issue manually.

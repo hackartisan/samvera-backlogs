@@ -1,0 +1,2 @@
+Only search for .tif and .TIF coin images during import
+There are also jpegs, pngs, and psds in the directories. Filter these out and only import files with .tif and .TIF extensions. 

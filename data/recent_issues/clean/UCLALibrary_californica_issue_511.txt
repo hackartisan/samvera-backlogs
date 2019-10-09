@@ -1,0 +1,2 @@
+Document CSV fields and requirements
+STORY As a librarian preparing a CSV for ingest, I would like documentation of the supported fields, so that I can know I'm creating the file correctly. ACCEPTANCE   The application provides a link to a static page that describes the structure of a CSV import file   Required fields in the file  Optional fields in the file  Single valued fields  Valid values for any controlled fields  How to enter multiple values in a field  Any other information that helps me construct a CSV for ingest    EXAMPLES  

@@ -1,0 +1,2 @@
+Browse everything test
+Fixes #1093 This test attaches two files to a new work via a BrowseEverything::Driver::ScihistS3  hooked up to a stubbed s3 client. We can try using s3.put_object and s3.get_object, which would be a lot less hacky than stub_request.

@@ -1,0 +1,2 @@
+Bump SA forward to the latest 2.x release of hyrax
+Hyrax 2.x has a fix and many improvements that SA would benefit from (at least in part the LDP conflict fix) 

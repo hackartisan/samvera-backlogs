@@ -1,0 +1,2 @@
+Update FAQ
+Reorder questions. Revise answers. Add more questions. Add link to OSF. There are no code changes in this PR.

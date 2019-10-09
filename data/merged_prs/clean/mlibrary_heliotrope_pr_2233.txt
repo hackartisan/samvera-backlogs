@@ -1,0 +1,1 @@
+HELIO-2488 minor format change to rake task

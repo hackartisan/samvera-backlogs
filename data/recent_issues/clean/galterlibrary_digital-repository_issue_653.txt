@@ -1,0 +1,2 @@
+Disable new relic monitoring for our staging environment
+We exceed our licensed limits.

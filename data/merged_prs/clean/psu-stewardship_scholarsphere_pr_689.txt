@@ -1,0 +1,2 @@
+Update rubyzip to 1.2.1
+Patches due to  Note: Duplicates 536529a because a hotfix merge was not possible.

@@ -1,0 +1,2 @@
+VoyagerUpdateJob does not refresh metadata
+VoyagerUpdateJob does not refresh metadata. refresh_remote_metadata should be set to "1" instead of true: 

@@ -1,0 +1,2 @@
+Port over locale files for multiple work types from Scholar.
+Fixes #222 This ports over the locale files from scholar to ucrate.

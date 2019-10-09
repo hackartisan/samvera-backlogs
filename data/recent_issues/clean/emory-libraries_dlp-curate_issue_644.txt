@@ -1,0 +1,2 @@
+Create Ansible role for backup and restoring solr
+Attached efs shared storage to each solr instance  Create ansible role that exports to efs and also imports into solr  Possibly store the exports in s3 instead of leaving them on the efs mount

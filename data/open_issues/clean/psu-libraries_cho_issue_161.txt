@@ -1,0 +1,9 @@
+Track Collection-Level Administrative Metadata
+As a digital collections librarian, I would like to track collection-level metadata in CHO, So that I can track all collection information in one place. Example of collection metadata (as opposed to object metadata):   Would also like to upload all related project documentation, such as MOUs with 3rd parties and other licenses. Need MOU expiration field and ability to query on this so we can get new MOUs/Licenses in place when needed.
+This information will essentially be key => value pairs for metadata to associate with a collection to display on the backend in an administrative interface for a repo manager. This is non-public information. We will have to attach files to this as well, and discuss if there is a need for additional workflow to this. We made need to break this down further.
+  Reminder per our 11/3 meeting that we might need a metadata dictionary to define the admin metadata.
+If we need to scale back for MVP, we can go with a core set of fields and expand later. - ID (this might end up being part of the descriptive CoreMAP) - Curator - DPLA Harvest (if we end up tracking this another way, that's okay) - Date sent to APTrust - Date sent to DPN - Third party content (yes/no) - Third parties - Notes
+Draft reference for admin metadata; will be superseded by data dictionary: 
+Related: #351
+This user story is a sub-component of the epic #66 
+Moving this to MVP-8, refinement to give  time to work on the admin metadata schema.

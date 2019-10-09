@@ -1,0 +1,2 @@
+Fixes the unstable test suite for `NumismaticProvenanceDecorator`
+Fixing the unstable test suite for NumismaticProvenanceDecorator (ports a solution from  offered  in #2965)

@@ -1,0 +1,1 @@
+updates locales/en.yml to include Letter in Type of Work

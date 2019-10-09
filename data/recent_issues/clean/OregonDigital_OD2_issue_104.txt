@@ -1,0 +1,2 @@
+remove unnecessary configurations
+Descriptive summary Remove config/triplestore_adapter directory and files. These are carry over from how this was structured for a previous project. Blazegraph running on docker depends only on the config/blazegraph directory now. 

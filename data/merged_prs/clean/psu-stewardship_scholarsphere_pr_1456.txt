@@ -1,0 +1,2 @@
+Changing remote content to just access the disk instead of fedora
+Since we know where the data lives on disk, why ask fedora for it, just return the server copy

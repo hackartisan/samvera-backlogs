@@ -1,0 +1,2 @@
+Reduce size of Add User lookup field.
+Fixes #1522 40% width is pretty arbitrary, but large enough to handle longer email addresses in the box but not too big when screen size is smaller. Should target both User Collections (Sharing) and Admin Sets (Participants).

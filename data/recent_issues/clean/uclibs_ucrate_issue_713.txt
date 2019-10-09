@@ -1,0 +1,2 @@
+Research using a messaging server for RD integration
+Descriptive summary Research the pros, cons, costs, and feasibility of using a messaging server for our integration with Research Directory. Example solutions:  RabbitMQ ActiveMQ  This also depends on IT@UC's ability to implement a server.

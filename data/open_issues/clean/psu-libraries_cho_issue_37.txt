@@ -1,0 +1,4 @@
+Track Metadata Change History
+As a cataloger, I would like to be able to track metadata changes, So that I can see who made what changes and when. Additional user story from Ben G. As a metadata specialist, I would like the repository to track changes (last update by, last modified on) to metadata records so that I can view changes to metadata records over time. [Inclusive of all metadata -- collections, works, file sets, files, agent, etc.]
+This user story is requesting a change log rather than full-blown versioning with the ability to restore.
+Activity stream? #790 

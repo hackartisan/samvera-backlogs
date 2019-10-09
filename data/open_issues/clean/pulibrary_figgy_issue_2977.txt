@@ -1,0 +1,3 @@
+Improve the Rake queue management for Redis tasks
+Should users wish to cancel asynchronous jobs initiated using Rake, this cannot be easily done.
+There's a FAQ entry saying Sidekiq doesn't provide this functionality, and gives some guidance on implementing your own cancel function: 

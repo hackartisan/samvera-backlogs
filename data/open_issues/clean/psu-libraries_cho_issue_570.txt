@@ -1,0 +1,3 @@
+Embedded RDF Rights Statements on Work Page
+If present in the metadata, rightsstatements.org compliant rights statements should be expressed as embedded RDF so that they are machine-actionable.
+This is a component (implementation detail) of the epic #116 

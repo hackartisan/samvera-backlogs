@@ -1,0 +1,2 @@
+DIGREPO-834: standardize ingest logging
+Always write to a file instead of STDOUT so that Splunk can index it Make the file location /var/log on production instead of Rails.root/"current" so they're not deleted between deploys Run ingest in a detached process

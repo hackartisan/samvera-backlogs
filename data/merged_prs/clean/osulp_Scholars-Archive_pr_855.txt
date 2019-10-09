@@ -1,0 +1,2 @@
+added nested fields actor to set geo attributes
+moved set_geo method from controller behavior to new a actor so that it is also available in batch uploads references #790

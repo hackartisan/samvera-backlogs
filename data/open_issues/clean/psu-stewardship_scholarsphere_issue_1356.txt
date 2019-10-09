@@ -1,0 +1,2 @@
+Mapping OSF Category to Resource Type
+Here are the available Categories from the OSF UI:  We need to map these to the Resource Types in ScholarSphere

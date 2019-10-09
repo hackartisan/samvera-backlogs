@@ -1,0 +1,2 @@
+fix field labels on catalog view, etc
+Fixes #56 Fixes #57 Fixes #60 Fixes #61

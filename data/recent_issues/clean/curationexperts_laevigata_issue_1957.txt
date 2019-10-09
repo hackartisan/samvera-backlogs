@@ -1,0 +1,2 @@
+ETD Data Dump
+Following up on the ETD data dump from our least team meeting. We want all the same fields in the first CVS you provided plus the additional fields below. However, before you run it, if there are other fields available that you could include, can you tell us what they are so we can do a final review? FIELDS: all current fields in CSV previously provided plus the following: record id partnering agencies submission date Abstract TOC Freshdesk: 

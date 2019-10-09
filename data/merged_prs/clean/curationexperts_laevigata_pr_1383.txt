@@ -1,0 +1,2 @@
+Add vocab driven partnering agency
+This will display the correct partnering agencies if you select Rollins as your school, and will persist after you save. This commit only allows you to select one. Another PR will add the ability to add multiple. In the old UI it says you can only choose 3. I'll need to dermine if that's a hard requirement or just a limitation of the previous form. Related to #1367

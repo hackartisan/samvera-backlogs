@@ -1,0 +1,2 @@
+Use CopyPermissionsJob in CurationConcerns::PermissionsController
+Addresses #758 Changing visibility to private was resulting in Ldp::Gone errors due to bug in HydraHead. This provides a patch until we can upgrade to a new version of HydraHead by using a custom job that combines visibility and permissions changes into one job.

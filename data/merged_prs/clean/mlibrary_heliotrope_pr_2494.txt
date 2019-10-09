@@ -1,0 +1,2 @@
+tidy Leaflet pan control a la fullscreen control
+HELIO-2948

@@ -1,0 +1,2 @@
+Download button should not be present for embargoed items
+For embargoed items as currently implemented, the item thumbnail is the "default" thumbnail, which is okay, but the download button is still present.  Fortunately, pressing Download only downloads the default image, not the embargoed file, but having the button present could be misleading/confusing to the user - especially if that user doesn't know to scroll down and observe the "Embargo" tag on the file.  Fortunately, the file section at the bottom lacks a Download action, which is correct:

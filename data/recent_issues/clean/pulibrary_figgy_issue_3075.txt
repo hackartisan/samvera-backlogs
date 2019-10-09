@@ -1,0 +1,2 @@
+Recording manifests should display an attached image FileSet if there is one as the background of the viewer
+This means a Recording will have member_ids which are four FileSets: XML File/Image/Two sound Files. The manifest builder will say "I'm a recording, I have an image FileSet, make it my background. Don't do anything with the XML file."

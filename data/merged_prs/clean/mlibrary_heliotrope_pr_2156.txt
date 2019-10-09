@@ -1,0 +1,2 @@
+Resolves HELIO-2252: Incognito Sudo Actor
+Allow platform administrators to select any individual and/or any institution from the fulcrum dashboard to verify checkpoint access to products.

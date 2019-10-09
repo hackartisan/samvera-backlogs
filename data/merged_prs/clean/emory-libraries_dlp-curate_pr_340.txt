@@ -1,0 +1,2 @@
+Automate DCE account creation
+Also, add DCE continuous deployment server to deploy settings Connected to curationexperts#28

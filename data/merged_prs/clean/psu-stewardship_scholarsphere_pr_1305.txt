@@ -1,0 +1,2 @@
+removing unneeded ending div
+Additionally refactored form to make it more explicit that the div was unneeded Added a test for batch upload refs #1288

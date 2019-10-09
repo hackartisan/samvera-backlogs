@@ -1,0 +1,2 @@
+Add  OAI-PMH endpoint 
+This adds OAI-PMH  functionality to the repository. It also adds request specs that test basic OAI functionality. It adds the blacklight_oai_provider provider Gem and configures it so that there is a single set that contains all records with a title. The basic configuration in the gem will stay the same, but some details (admin email address) will probably need to be changed before going live.

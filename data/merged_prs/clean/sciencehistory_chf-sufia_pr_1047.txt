@@ -1,0 +1,2 @@
+WIP Batch edit changes
+Fixes #925 This is only a first try, and probably contains bugs. Obviously a screwed-up batch edit attempt could ruin a lot of metadata, so it's worth testing this really carefully.  I pulled method initialize_combined_fields from the superclass and modified it so it works with single-value fields. I'm also adding rights_holder and file_creator to this, as they seem to work largely the same way. Obviously we may not want them in the form, but I figured why not.

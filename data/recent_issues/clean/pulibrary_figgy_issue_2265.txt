@@ -1,0 +1,2 @@
+Resolve music reserve items with call numbers beginning "x-"
+We assume each track in such a "recording" exists in another recording with a regular call number. Should have the same filename. child of #2043

@@ -1,0 +1,2 @@
+Fixes documentation issues with rubocop
+Work toward fixing #193 This gets rid of 35 separate offenses of missing documentation for a class.

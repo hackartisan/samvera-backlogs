@@ -1,0 +1,2 @@
+Fix Blacklight deprecation warnings
+Fix locally and then disable in upstream: Deprecation.default_deprecation_behavior = :silence

@@ -1,0 +1,2 @@
+Fixing rdf:type of MadsAuthority class
+Related to 

@@ -1,0 +1,2 @@
+Send user notifications to followers when creating or deleting files
+A users' followers should be notified when files from the users they follow have been deleted or created. Currently, this is only happening when files are updated.

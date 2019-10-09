@@ -1,0 +1,2 @@
+Make $RAILS_ROOT/bin/* executable
+For command line access

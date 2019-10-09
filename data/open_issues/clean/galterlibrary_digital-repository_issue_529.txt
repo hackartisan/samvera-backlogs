@@ -1,0 +1,2 @@
+explore this option when we have articles in DH
+PubMed users can now see the icon that links to the full text deposited at an institutional repository (IR) using LinkOut. The LinkOut service allows you to link to full text, library holdings, and other relevant external resources from PubMed and other NCBI databases. The new institutional repository icons will link you to free full text of the article at an institutional repository that it is not available free from the journal or PMC. Source:  Ramune

@@ -1,0 +1,3 @@
+WC5 - Build out production OD2 environment
+
+At our last quarterly meeting, we discussed using S3 for binary storage in Fedora and a separate relational database for metadata storage. Our goal was to get everything off the Fedora container's file system. Check my quick note in #518 about setting this up.  Basically these should explain how to do it:  

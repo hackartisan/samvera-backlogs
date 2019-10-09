@@ -1,0 +1,2 @@
+Revert "WIP: Adding monograms with attached FileSets"
+This reverts commit 1a8e1f9.

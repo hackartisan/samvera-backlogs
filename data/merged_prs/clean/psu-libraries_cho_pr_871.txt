@@ -1,0 +1,2 @@
+Use correct use types in file fixtures
+Description Corrects a problem with the file fixtures used in file sets. The use types were not being correctly set. Additionally, refactors the FileFactory code in conjunction with the file set factory bot. Thanks to  for catching this!

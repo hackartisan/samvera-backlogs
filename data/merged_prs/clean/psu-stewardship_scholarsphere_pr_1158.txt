@@ -1,0 +1,2 @@
+Adding DOI parameters to check
+Allowing for optional parameters since the DOI handle is optional

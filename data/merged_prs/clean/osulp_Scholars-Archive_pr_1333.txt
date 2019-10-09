@@ -1,0 +1,2 @@
+added field_validation_service
+fixes #1332 Created FieldValidationService to handle validation for Other values provided for degree fields (degree_field, degree_name, degree_level, degree_grantors) so that it can be used both in the actor add_other_field_option_actor and the form validator other_option_degree_validator. The service also takes care of the validation logic and checks if it's an etd or non-etd (i.e. Default) and assigns the proper validation. related: #1301

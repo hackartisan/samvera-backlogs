@@ -1,0 +1,2 @@
+Generate HLS from intermediate WAV file.
+Closes #3076

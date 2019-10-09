@@ -1,0 +1,2 @@
+Resolves HELIO-2105 - add altmetric and dimensions badges
+Resolves HELIO-2105 Adds Altmetric and Dimensions badges to monograph catalog page and e-reader. Required addition to monograph presenter to strip formats from ISBNs.

@@ -1,0 +1,2 @@
+Thumbnails missing from works
+Thumbnails have disappeared for works created between 7/29 and 8/2, during which time curate production AWS configurations have changed. The following shows 2 works which were created successfully on 8/2, but after a re-build of the environment, thumbnails were then lost.

@@ -1,0 +1,2 @@
+Provides a route for dynamically generating Universal Viewer configuration settings
+Provides a proper solution for #2628 (which will ensure that external services, such as dpul.princeton.edu, can access the viewer with downloads disabled for Figgy resources)

@@ -1,0 +1,2 @@
+ui cleanup
+tackling a few of the milestone ui issues closes #137 closes #162 closes #194 closes #198 closes #199 closes #207

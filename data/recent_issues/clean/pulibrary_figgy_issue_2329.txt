@@ -1,0 +1,2 @@
+Start sending notifications to collection owners
+For each collection, send a weekly notification of items that are not complete Copy notification to Kim Leaman

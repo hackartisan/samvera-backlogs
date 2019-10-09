@@ -1,0 +1,2 @@
+Refactor cronjobs
+Cronjobs need some TLC. They seem to be shell scripts that call rake tasks, and sometimes report errors via email. Maybe we should have a consistent "interface" or process through which all jobs are run and make sure this is done in the same way for all the existing jobs.

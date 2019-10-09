@@ -1,0 +1,2 @@
+Accessibility improvements
+This ensure that each of the inputs has a correct label. It also adds additional aria attributes that will help navigation using screenreaders. Related to #1056

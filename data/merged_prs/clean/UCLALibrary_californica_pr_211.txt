@@ -1,0 +1,2 @@
+Added these fields to the mapping for the CSV importer:  rights_holder, medium, normalized_date.
+Connected to #146 Connected to #167 Connected to #153

@@ -1,0 +1,2 @@
+Batch edit sending of multiple fields never completes
+duplicate of #1178

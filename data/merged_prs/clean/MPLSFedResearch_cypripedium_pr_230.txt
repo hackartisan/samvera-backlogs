@@ -1,0 +1,2 @@
+Switch to zip for bags
+Preservica will only ingest bags that use zip compressed files. This changes the bagit archives that are exported to use zip instead of tar. Connected to #191

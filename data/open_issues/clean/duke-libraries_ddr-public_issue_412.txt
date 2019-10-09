@@ -1,0 +1,2 @@
+Facet search linking from item show pages -- scope of query
+Should clicking on metadata values in item records retrieve only items in that collection or across collections (digital collections or entire repository?). Currently, this is scoped to the collection

@@ -1,0 +1,2 @@
+uploading supplemental files and metadata
+This commit ties in the last pieces required to submit supplemental files to the Etds controller, so that it can work with the files and their metadata properly.

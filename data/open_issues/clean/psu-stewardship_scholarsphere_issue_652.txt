@@ -1,0 +1,2 @@
+application.yml should have development values for use of all test variable
+Even if they are bogus or the default values the application.yml should have variables for all items being used by the system in development and production mode.

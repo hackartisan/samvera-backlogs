@@ -1,0 +1,2 @@
+Release and Deploy Scholar 4.1.0
+Descriptive summary   Merge remaining PRs  Verify that the hyrax.en.yml, hyrax.es.yml, and hyrax.zh.yml files are in sync ( )  Create a release branch ()  Deploy to scholar-qa ()  Run db:seed and turn on registrations ()  Run through the manual test script ()  Wipe scholar-qa ()  Request a security scan ()  Update the changelog ()  Create a change request ()  Tag the release  Deploy to scholar.uc.edu  Create a blog post  Mark the change request as successful

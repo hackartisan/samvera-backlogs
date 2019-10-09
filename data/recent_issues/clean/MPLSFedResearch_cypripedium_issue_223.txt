@@ -1,0 +1,2 @@
+E-mail notifications
+STORY As a librarian, I’d like to be notified by email when my bags are ready for download. ACCEPTANCE When e-mail notifications are configured (and my id has an e-mail associated)   When my bagit export is done, I get an e-mail

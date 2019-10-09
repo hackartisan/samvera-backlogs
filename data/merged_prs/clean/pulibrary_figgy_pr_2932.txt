@@ -1,0 +1,2 @@
+Create events in response to Cloud Fixity
+Closes #2909

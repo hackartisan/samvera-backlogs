@@ -1,0 +1,2 @@
+Change case of oasis to OASIS
+Request for additional minor change to text of Downloader survey. After this changes are ready to be deployed to live service Resolves#44

@@ -1,0 +1,2 @@
+Ensures that EphemeraFolderDecorator#rendered_ocr_language handles invalid language codes
+Resolves #1346

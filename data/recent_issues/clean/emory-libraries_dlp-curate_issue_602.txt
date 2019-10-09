@@ -1,0 +1,2 @@
+duplicate entry NOID minter error - ticket 575
+This follows changes we made in ticket #575 to adjust the NOID scheme. I tried to create a new work in Curate prod and Curate test to see the new NOID suffix scheme. I get the following error in both environments:

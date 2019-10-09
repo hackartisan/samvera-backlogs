@@ -1,0 +1,2 @@
+System / Selenium tests failing due to some updates to Chrome
+Chrome updates causes Selenium tests to break, it looks like we can disable w3c mode to bypass it. Per some details I found in Stackoverflow:   As you are using ChromeDriver v75.x and Chrome v75.x and you are still seeing the same error, you need to pass the ExperimentalOption w3c as true exclusively as follows: capabilities = { "chromeOptions" => {'w3c' => true} }  Update the chrome options in the system test support: 

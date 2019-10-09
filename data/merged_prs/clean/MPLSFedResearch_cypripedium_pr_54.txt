@@ -1,0 +1,2 @@
+Start of a contentdm data importer
+Run rake import:contentdm to try it For now, import file is hard-coded For now, only title and creator are imported  Hi,  I wrote a very basic data importer based on the XML export we made before the holidays. Obviously this is far from complete, but I think it might be helpful to look at it together and talk about what you want from an importer, how we'll attach the files, how we'll quality check the data, etc. Take a look and let's talk about this at our next session.

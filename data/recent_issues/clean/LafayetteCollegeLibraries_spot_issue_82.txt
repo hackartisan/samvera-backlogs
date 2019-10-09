@@ -1,0 +1,2 @@
+expose fedora/solr front-end
+we should have these be accessible (but password protected)

@@ -1,0 +1,2 @@
+Modify SSO code to suit our needs
+Bug fixes for #181 and #4

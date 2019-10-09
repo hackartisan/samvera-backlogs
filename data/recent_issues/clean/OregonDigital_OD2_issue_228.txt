@@ -1,0 +1,2 @@
+Write user registration "survey" (really just registration through Qualtrics).
+Descriptive summary While the OD team collected some names during stakeholder interviews of those that would give time sitting down with prototypes, we'll want to grow that list and determine which of the four roles - editor, submitter, researcher, casual user - they can be . Expected behavior UO subscribes to Qualtrics survey system and a simple survey would be used to register these users for a pool for future communications about testing - respecting their time. Related work

@@ -1,0 +1,4 @@
+invalid destination status messages 
+please check on this since I have never seen it before. It's on this item: 
+?Only admins can see this. It's from the file characterization software. Safe to ignore unless there are some other issues?   Thanks,  Piotr Hebal ________________________________ From: Violeta Ilik <> Sent: Wednesday, June 14, 2017 11:16 AM To: galterlibrary/digital-repository Cc: Subscribed Subject: [galterlibrary/digital-repository] invalid destination status messages (#534)   please check on this since I have never seen it before. It's on this item: <>  [error1]<> [error2]<>  - You are receiving this because you are subscribed to this thread. Reply to this email directly, view it on GitHub<>, or mute the thread<>. 
+OK, since I have never seen it before I though we should look into it. I don't think it's causing any performance issues.

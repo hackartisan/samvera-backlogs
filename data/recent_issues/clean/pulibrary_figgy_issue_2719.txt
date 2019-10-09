@@ -1,0 +1,2 @@
+Display Call Number and part_of in search results index view
+Requested by Dan More fields may be needed - talk to him.

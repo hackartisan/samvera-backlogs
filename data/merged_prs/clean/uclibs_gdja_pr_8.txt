@@ -1,0 +1,2 @@
+add about partial to home page
+Fixes #6 Add partial with about text to homepage with styling. Changes proposed in this pull request:  add app/views/index.html.erb override add _about_gdja.html.erg partial with text add styling for about-gdja partial

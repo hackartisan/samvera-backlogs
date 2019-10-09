@@ -1,0 +1,2 @@
+Contact form message
+Includes commits for just CC'ing the submitter and a custom message.   If CC'ing is good enough, it's cleaner code and I can revert to that commit. Otherwise checkout app/views/oregon_digital/contact_mailer/contact.html.erb for the custom message.

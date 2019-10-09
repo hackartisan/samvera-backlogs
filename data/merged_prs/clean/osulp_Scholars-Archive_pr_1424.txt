@@ -1,0 +1,2 @@
+Feature/extended label for location
+Fixes #1401 Fixes #1400

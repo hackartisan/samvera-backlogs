@@ -1,0 +1,2 @@
+keep log of repository fixity checks
+essentially an active_model way of storing the information we're sending to the slack channel.  date/time run successes failures blob/json-array of the failing file_sets

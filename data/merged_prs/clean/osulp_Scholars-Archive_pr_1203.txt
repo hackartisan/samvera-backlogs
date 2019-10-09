@@ -1,0 +1,2 @@
+Default datatable pick set to 50
+Fixes #1132 I decided to tap into the code that is already altering the review submission page datatable.

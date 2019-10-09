@@ -1,0 +1,2 @@
+Automate exporting Toni Morrison collection as PDFs for reading room machines
+Blocked by #3170 We should automate the nightly export of the Toni Morrison collection as a local HTML finding aid with links to local PDFs.  This involves a few different tasks:  Exporting the Figgy objects as PDFs (see #3170) Adding DAO links to EAD pointing at the exported PDFs (also in #3170) Transforming the updated EAD to HTML (see pulibrary/pulfa-restricted#14)

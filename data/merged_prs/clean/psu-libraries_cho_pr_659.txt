@@ -1,0 +1,2 @@
+Clean out directories without removing them
+This makes the process of resetting the system easier because you don't remove the entire directory, you only remove its contents.

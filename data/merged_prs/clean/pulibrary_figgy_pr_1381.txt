@@ -1,0 +1,2 @@
+Update FileSet#mime_type to check preservation_file if there's no original_file
+fixes #1369

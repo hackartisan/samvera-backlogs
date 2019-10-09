@@ -1,0 +1,2 @@
+[WIP] Migrating the ProcessedEvent Class from Plum in order to ensure that Voyager updates are only processed once
+Resolves #1493

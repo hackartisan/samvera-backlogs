@@ -1,0 +1,2 @@
+Override uploader.js
+Requires some rearranging of the javascript so we can limit concurrent uploads to only 1 file at a time. This fixes #453 but it's not ideal. The ideal solution would be to have multiple concurrent uploads in our current deployment, however, I'm not sure if that possible give server setup, etc. If you all are okay with this, we can merge. You can try it out on QA. It doesn't slow things down too much to do one file at a time. Let me know what you think:   

@@ -1,0 +1,8 @@
+remove giant note on public visibility
+(in edit form)
+This was just teed up for us in hyrax  
+a Does that mean we don't want to bother doing it now in sufia? If so, do you think it's okay to close this?
+I guess I figured we would override the template in the meantime. But I won't cry if we close it for now.
+Is this still needed? Seems low priority or possibly even unnecessary now.  and a?
+I think it's low-pri, and will become trivially easy once we get onto hyrax.
+Ok. I guess I won't close it, but I'll move it back to backlog. Once we have a post-Hyrax milestone it can go there!

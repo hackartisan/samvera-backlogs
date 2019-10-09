@@ -1,0 +1,1 @@
+fixes blazegraph volume access for blazegraph user to write journal

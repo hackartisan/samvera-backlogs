@@ -1,0 +1,2 @@
+Changes institution_name to Emory Network.
+After:  Note: This changes the name in other places as well, including the terms of service.

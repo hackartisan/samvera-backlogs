@@ -1,0 +1,2 @@
+Display Unique GIS Metadata on Object Page for GIS Objects
+As a graduate student in GIS, I need to know what variables/attributes are present in the GIS data of the object I'm viewing, So that I know if this data is important to my research. Tara L. Examples:  ( ( (

@@ -1,0 +1,1 @@
+Update common_indexer gem to v0.3.2

@@ -1,0 +1,2 @@
+Allowing multi-file deposit on create
+Includes  renaming SeniorThesis#thesis_file to SeniorThesis#files supporting multiple files on upload adding a hint for how to select multiple files  IDR-139 #resolves

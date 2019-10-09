@@ -1,0 +1,2 @@
+Create embargoes and leases on file sets when creating new works
+Copies additional attributes down to the processes that are creating file sets for for new works. Fixes #1050

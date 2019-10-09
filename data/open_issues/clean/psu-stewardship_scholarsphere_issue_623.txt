@@ -1,0 +1,5 @@
+Curtail ShareNotify messages
+Each time a document is sent to Share, whether it is successful or not, there is a message posted to the file's activity log. Perhaps we shouldn't do this? Or stop posting when the file is successfully added?
+ Agreed. Think we have discussed it before too, but it wasn't a high priority.
+This is blocked by the Share Notify version 2.0 #622  We should cache which files have been sent to share and only send ones that have no yet been sent.  Create the schema  Populate and query the cache when data is sent to share
+This would just be an update to ScholarSphere.  We may put it in the gem later.

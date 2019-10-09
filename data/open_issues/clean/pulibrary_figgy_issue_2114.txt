@@ -1,0 +1,5 @@
+'Order manager' doesn't work with IE 11 running on windows 10, 8.1, 7. Also with IE 10 on windows 8.
+  reported an issue with the 'Order manager'. I tested it in BrowserStack.
+``` fetch is not found globally and no fetcher passed, to fix pass a fetch for your environment like  For example: import fetch from 'unfetch'; import { createHttpLink } from 'apollo-link-http'; const link = createHttpLink({ uri: '/graphql', fetch: fetch }); ```
+The  polyfill has stated support for IE releases 10+
+IE 10 doesn't work, IE 11 does.

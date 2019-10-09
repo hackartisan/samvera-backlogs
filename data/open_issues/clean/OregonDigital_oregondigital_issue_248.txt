@@ -1,0 +1,2 @@
+Enhance Contact Form
+There are a few ways to enhance the Contact Form   If someone is logged in, pre-fill their name and email.   If someone is viewing an item, pre-fill the Item ID and/or Set ID   Move contact email to environment variable

@@ -1,0 +1,5 @@
+Ability to search for terms in specific fields (Advanced Search)
+Currently, for example, users cannot search by the date field or title field.
+Ref. #125 re: Rights Statement and License as potential facets
+ seems like a good place to start.
+Goal is to produce links to scoped results

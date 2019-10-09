@@ -1,0 +1,2 @@
+Set visibility on import
+We want items to default to "open"/PUBLIC visibility when being imported. Setting this via the mapper ensures the attributes are present and set in the importer's custom actor stack. Connected to #1647

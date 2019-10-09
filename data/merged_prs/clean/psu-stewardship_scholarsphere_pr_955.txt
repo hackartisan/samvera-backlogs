@@ -1,0 +1,2 @@
+Setting collections to current object instead of empty array
+refs #953 Without this when a work is edited that already is part of a collection the relationship gets removed.

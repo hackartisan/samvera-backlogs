@@ -1,0 +1,2 @@
+Error when no collections exist
+ISSUE When I try to start a new CSV import and there are no collections available, the system just gives me a we're sorry but something went wrong error.

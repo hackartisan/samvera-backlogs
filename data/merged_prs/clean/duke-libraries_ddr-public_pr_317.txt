@@ -1,0 +1,2 @@
+Hotfix 2.2.1 - Adds item full text to default search
+Upgrades ddr-models to v2.4.8.   Let me know if you have concerns.  I do not believe this change will have a practical effect on any published collections b/c none AFAIK has extracted text for full text searching.

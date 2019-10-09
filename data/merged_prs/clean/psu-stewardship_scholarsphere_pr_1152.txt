@@ -1,0 +1,2 @@
+Deduplicate creators in batch update, ref #1095
+When editing creators in batch edit, duplicate creators were present in the edit form. Creators are deduplicated in BatchEditItem using their alias ids.

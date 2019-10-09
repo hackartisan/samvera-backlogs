@@ -1,0 +1,5 @@
+For AV materials, the UV title should be the title of the playlist in addition to the track
+
+![screen shot 2019-02-19 at 3 25 34 pm](  Dan would like the top to say "The Wiz : Original Soundtrack"
+This seems like the same issue as  — when we have multi-part manifests, we'd like the viewer title to be the top-level (collection) title, not the volume/track/part/etc. title.
+Similar, but MVWs do that because it's a collection and the top level just loads the lower level. AV is just a manifest and it does that just because. 

@@ -1,0 +1,4 @@
+Data Creation End Date
+From Ron --  It wasn't clear to me how I should enter the end date in the case where the data creation is complete (i.e. I want to create a begin and an end date).
+I looked at the metadata spreadsheet again, and source/usage section has ``YYYY-MM-DD or YY-MM-DD/YY-MM-DD``.  Is the second one a way to specify a begin and an end date?
+With Grace/Ron:  ```    Closed date-range:       YYYY-MM-DD/YYYY-MM-DD (eg 1997-07-16/1998-09-17) ```  ```    Open date-range:       YYYY-MM-DD/ (eg 1997-07-16/)       /YYYY-MM-DD (eg /1997-07-16) ```  

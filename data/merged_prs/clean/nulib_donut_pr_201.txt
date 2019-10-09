@@ -1,0 +1,2 @@
+Error handling and validation improvements
+Batch header validation: Adds Hyrax::ImageForm.required_fields checking Removed BOM character at beginning of CSV Require accession number in model Better error reporting at BatchItem level ApplicationHelper#accession_number_linker handles blank accession number in view updated specs Catch missing or blank resource_type in batch row Removed unnecessary _type handling in batch headers  Co-authored-by: Brendan Quinn 

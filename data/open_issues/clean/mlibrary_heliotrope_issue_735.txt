@@ -1,0 +1,3 @@
+Dashboard Publishers Index Page
+STORY As registered user with at least one admin role I should be able to list all presses I administer. ACCEPTANCE   There is a privileged presses page restricted to admins.  The page lists all presses that can be administered by the registered user.  The page lists all presses for a platform admin.
+Like this page, only restricted to platform admins, right?  

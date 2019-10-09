@@ -1,0 +1,2 @@
+Vagrant - refactor, provision MySQL
+Resolves #1056

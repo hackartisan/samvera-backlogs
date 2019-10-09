@@ -1,0 +1,1 @@
+Remove collection facet in favor of admin set facet; closes #114

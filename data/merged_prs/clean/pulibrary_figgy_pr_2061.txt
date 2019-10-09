@@ -1,0 +1,2 @@
+Adding Numismatics to home page and + menu, tweaking labels
+Fixes #2057

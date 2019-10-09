@@ -1,0 +1,3 @@
+Corrupt Source Files
+There are three images that are consistently failing to generate derivatives.  I verified that these files MD5s match the METS MD5s, and downloaded them to verify that they do not display correctly (two of them display the top half and then are blank, the third doesn't display at all):   volume "集驗良方3b", page 17 source file: pudl0003/tc83_2353/vol06/00000017.tif    volume "Vols. 9-10", page 1 source file: pudl0003/td33_1525/vol06/00000001.tif    volume "Vols. 14-15 (Misc. works)", page 15 source file: pudl0003/tc328_628/vol17/00000015.tif  Another file is corrupted, but works well enough to generate derivatives and display:   image 92 source file: pudl0112/4948841/00000092.tif
+Confirmed these are all still broken.  can these be reshot?

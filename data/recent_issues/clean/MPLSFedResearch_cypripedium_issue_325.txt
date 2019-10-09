@@ -1,0 +1,2 @@
+Make AMI snapshot once built
+There is an AMI snapshot of the final build  Child of #298

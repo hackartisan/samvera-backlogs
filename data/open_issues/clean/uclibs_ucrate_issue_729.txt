@@ -1,0 +1,2 @@
+Verify file order is preserved for bulk uploads
+(moved from uclibs/scholar_uc_legacy#1928) Descriptive summary File order on individual works loaded via bulk ingest (from the command line) should be predictable and can be controlled. This is supposedly working, but we should verify it to be sure.

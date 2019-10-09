@@ -1,0 +1,2 @@
+Allow Lisa to SSH to californica-dev
+As a project team member, I would like Lisa to be able to use Unix file command to verify that all tiff images are non-corrupt prior to import. Use this SSH key please:  Approval Criteria   Lisa can SSH into californica-dev

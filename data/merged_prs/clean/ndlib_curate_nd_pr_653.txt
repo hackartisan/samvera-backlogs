@@ -1,0 +1,2 @@
+Remove "registered" group when changing to public 
+When visibility goes to open access, the registered group was remaining with read access. While this didn't affect the actual visibility, it did cause the options to be checked incorrectly on the edit view's radio buttons. So this change overrides the "public_visibility!" method from Hydra::AccessControls to remove the registered group While adding the public group.

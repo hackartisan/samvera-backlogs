@@ -1,0 +1,2 @@
+Add total downloads stats to the admin stats page
+Add another stat to the existing page with the total number of downloads between the two given dates. Ex: FileDownloadStat.where(date: DateTime.parse('2016-07-01')..DateTime.parse('2017-07-01')).sum(&:downloads)

@@ -1,0 +1,2 @@
+Prevent leaking view contexts between tests
+hopefully fixes #1854

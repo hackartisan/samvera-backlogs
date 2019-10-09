@@ -1,0 +1,2 @@
+Refactor of views/monograph_catalog/index to use i18n.t.
+I deploy this branch to staging so you can compare staging with preview.

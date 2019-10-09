@@ -1,0 +1,2 @@
+generate journal worktype
+Fixes #11 Run generator for Journal worktype.

@@ -1,0 +1,4 @@
+Ingest "Cedid atlas tercümesi, the first Turkish atlas" (pudl0115)
+Notes: SHOULD WORK  Should we be ingesting Atlases as ScannedMaps?
+Files: 
+No PUDL collection page.

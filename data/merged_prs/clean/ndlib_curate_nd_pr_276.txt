@@ -1,0 +1,2 @@
+Forcing ETDs to be rendered through the common objects viewer
+Several ETDs do not render correctly via the show action under curation concerns. This change bypasses the problem rather instead of fixing it directly. Here are some examples:    

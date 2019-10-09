@@ -1,0 +1,2 @@
+addthis widget is throwing javascript errors
+It causes issues with our tests and maybe the functionality.

@@ -1,0 +1,2 @@
+Checksumming Files When Moving Between Servers (Including Ingest)
+As a digital preservation librarian, I would like checksums to be audited when files move from between servers, So that I can ensure content is not corrupted during a transfer. MD5 is sufficient for detecting transfer errors, cryptographic hash overboard here.

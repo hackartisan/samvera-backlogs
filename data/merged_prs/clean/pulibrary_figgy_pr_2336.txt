@@ -1,0 +1,2 @@
+Ensuring that nil AuthTokens are handled properly (i. e. without triggering errors)
+Resolves #2320

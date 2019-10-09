@@ -1,0 +1,2 @@
+Fix for subfields not displaying
+This fixes a bug with subfields not displaying. The URL was missing from the request. I added some checking to make sure we had the url, but forgot to add the URL to the request. Closes #1496

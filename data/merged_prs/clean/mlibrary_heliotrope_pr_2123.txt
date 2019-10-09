@@ -1,0 +1,2 @@
+Remove :rememberable and add authentication by identity provider
+This should resolve the RIAM issue of being redirect to UM Login after Shibboleth authentication.

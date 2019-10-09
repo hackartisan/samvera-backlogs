@@ -1,0 +1,2 @@
+Add automation using `whenever` to delete temp files
+This commit adds the whenever gem and follows the instructions at  clean up temp files. Closes #126

@@ -1,0 +1,2 @@
+Align Rollins programs with admin sets
+Add tests so we know we have an admin set for each option in the Rollins drop down menus. Ultimately, we need to check our admin set config info version control and really test against it so things can't get out of sync, but this should help in the meantime. Fixes #901

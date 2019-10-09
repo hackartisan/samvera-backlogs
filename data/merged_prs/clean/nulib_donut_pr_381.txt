@@ -1,0 +1,2 @@
+Index date_created and date_modified and other Image model properties in Elasticsearch
+partially fixes nulib/next-generation-repository#759 Adds to Elasticsearch indexing:  date_modified date_uploaded related_material scope_and_contents series table_of_contents based_near (Location) Adds subject_temporal to subject indexing

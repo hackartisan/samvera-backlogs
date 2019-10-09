@@ -1,0 +1,2 @@
+Only use active ids in controlled vocabularies
+Controlled vocabulary terms can be marked inactive by including active: false in their YAML specifications. To date, we have ignored this designation, but we must support inactive terms in order to import items with legacy terms. Using #select_active_options throughout ensures these inactive terms won't be incorrectly available to users in dropdown menus.

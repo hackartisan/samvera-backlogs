@@ -1,0 +1,2 @@
+Removing special characters from temporary file name
+refs #508 This changes the file name from "abc123_version1_my label.pdf" to "abc123_version1_my_label.pdf" which should make the command line derivative tools happier.

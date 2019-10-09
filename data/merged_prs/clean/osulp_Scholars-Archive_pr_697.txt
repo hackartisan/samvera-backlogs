@@ -1,0 +1,2 @@
+fixes LabelParserService bug
+fixes #696

@@ -1,0 +1,6 @@
+Linked Data Reuse
+As a metadata librarian, I want to be able to explore non-OAI-PMH reuse for our records. I need our fields to use predicates which describe the field as accurately as possible and not rely on labels. Ruth K-T
+Can you elaborate on "non-OAI-PMH reuse"
+ ⬆️ ?
+When it comes down to it, the ability to export our records as linked data/triples. I may need to turn those into something else, but if I have those I can.
+This is where Fedora could be of some use. Otherwise, we'd use a triplestore of some kind. If you want to think about some specific use cases that highlight what you'd want to do with the triples, that would be helpful. I'm 100% down with exporting linked data, but I'm more interested in the _why_ and for _for what_ areas. We have publicly-available linked data in Scholarsphere, [for example]( which is not completely correct, BTW, but we don't really do anything with it. We need to have linked data in CHO, but I would like to see concrete use cases as a reference for implementation.

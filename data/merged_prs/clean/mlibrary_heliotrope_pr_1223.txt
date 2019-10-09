@@ -1,0 +1,1 @@
+best-fit on x or y: take map aspect ratio into account

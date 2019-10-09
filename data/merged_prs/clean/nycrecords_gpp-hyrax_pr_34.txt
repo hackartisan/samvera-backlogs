@@ -1,0 +1,2 @@
+Feature/GPP-277: UI updates to record display page
+This PR updates the show page with UI changes and display metadata for NycGovernmentPublication. Used  for reference. Changes:  'shoulda/matchers' and Shoulda::Matchers.configure is added to rails_helper.rb for delegate_method.

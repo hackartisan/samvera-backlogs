@@ -1,0 +1,2 @@
+added degree_name local authority
+fixes #863 fixes #856

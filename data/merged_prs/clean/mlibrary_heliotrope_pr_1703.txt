@@ -1,0 +1,2 @@
+add EPUB representative epub_path URL
+Resolves #1410

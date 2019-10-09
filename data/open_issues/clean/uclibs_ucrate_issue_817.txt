@@ -1,0 +1,2 @@
+Different collection member counts on collection show page
+See  (private work) Showing 138 or 140 members, depending on where you look.

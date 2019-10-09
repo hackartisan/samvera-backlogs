@@ -1,0 +1,2 @@
+Truncate orm_resources table in test
+This prevents the test suite from failing to start after debugging a previous run. If you use byebug and then forcibly quit the debugger, there are artifacts leftover in the database that must be removed even before the application can start up.

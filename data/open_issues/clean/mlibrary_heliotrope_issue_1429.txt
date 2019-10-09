@@ -1,0 +1,2 @@
+Add disclaimer for OCR text/accessibility
+As a user, I should be alerted to the quality of the OCR text made available on an asset page. Use what Bentley does as an example:    Add disclaimer to asset page  Write up language regarding what the OCR text means and how it is derived (use variation of Bentley's language)  Create page to put this language on, link to it from OCR disclaimer

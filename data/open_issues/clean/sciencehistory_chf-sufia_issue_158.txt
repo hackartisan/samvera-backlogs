@@ -1,0 +1,3 @@
+set 'from' email address and name
+should be able to set in this config: 
+(applies to reset password emails I guess?)

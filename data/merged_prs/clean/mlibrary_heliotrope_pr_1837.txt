@@ -1,0 +1,2 @@
+creator/contributor 1 entry per line
+Resolves HELIO-1831

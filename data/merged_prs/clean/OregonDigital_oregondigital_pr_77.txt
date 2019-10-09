@@ -1,0 +1,2 @@
+Feature/viewer partials
+Implements per-model asset viewers Fixes #19

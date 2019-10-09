@@ -1,0 +1,2 @@
+Starting architecture documentation
+Initial draft of our functional goals for CurateND. Some of these functions will be provided by ancillary systems not contained in this repo. In that sense the scope of the document is a bit broad. However, when we talk about “CurateND” to our stakeholders we are talking about all of these systems as a whole as opposed to this particular Rails app.

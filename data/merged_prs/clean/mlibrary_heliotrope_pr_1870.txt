@@ -1,0 +1,2 @@
+Resolves HELIO-1911: doi, hdl, and identifier
+The script, ./lib/task/update_doi_hdl.rake, was written to print to standard output the Monograph/FileSet id and a statement of what needs to be changed but doesn't actually make the change.

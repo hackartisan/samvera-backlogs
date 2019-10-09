@@ -1,0 +1,2 @@
+Ignore manifest csv files
+Fixes #556 Adds vendor/*.csv to the .gitignore file

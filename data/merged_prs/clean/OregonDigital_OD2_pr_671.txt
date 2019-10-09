@@ -1,0 +1,2 @@
+Sets up initial work for footer
+Still needs social media and to set up the links for the link list Fixes #597

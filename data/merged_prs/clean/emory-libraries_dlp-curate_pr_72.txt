@@ -1,0 +1,2 @@
+circle ci, coveralls, and rubocop integration
+Added Circle Ci Added Coveralls Fixed ongoing Rubocop offenses Updated rubocop yml Closes #51

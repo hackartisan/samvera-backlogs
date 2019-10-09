@@ -1,0 +1,2 @@
+Generate derivatives for attached Audio Files
+Closes #3097

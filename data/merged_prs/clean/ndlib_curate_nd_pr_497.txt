@@ -1,0 +1,2 @@
+DLTP-478: As a Librarian I want a link to show if my collection is in DEC
+JIRA ticket Result:

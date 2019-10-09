@@ -1,0 +1,2 @@
+Fixes LDP Conflict issue
+samvera/hyrax#3128 Implemented the suggested solution

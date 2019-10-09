@@ -1,0 +1,2 @@
+changes to helptext and form labels
+Note - in the helptext i have some URLs but wasn't sure how to embed those as HTML links. WARNING:  worked on this and he doesn't know what he's doing.

@@ -1,0 +1,2 @@
+Reorder Images/Files
+As a repository manager, I want to re-order files/images, So that I can arrange files in a hierarchy that matches the original collection/item without re-uploading. Ann P.

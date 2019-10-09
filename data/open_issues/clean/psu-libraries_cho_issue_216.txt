@@ -1,0 +1,3 @@
+Support for nested collections
+As a curator who recently digitized an entire archival collection, I would like to be able to nest collections, To fully implement PCDM for hierarchical collections. Archival collections are organized into series and subseries, which may be viewed as sub-collections, which contain folders/containers/components of material at an object level.
+May not be necessary with works with filesets, nested works, and structured nested works.

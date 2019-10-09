@@ -1,0 +1,2 @@
+Make guest users have their roles checked.
+Closes #669

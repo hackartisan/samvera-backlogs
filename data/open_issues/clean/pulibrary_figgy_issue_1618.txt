@@ -1,0 +1,7 @@
+Ingest "Brittle books" (pudl0119)
+Notes: (w/ Vendor) These don't seem to be displayed anywhere. Migrate? Also, what does "w/ Vendor" mean? Ping  
+ mentioned there were ~140 titles ready to ingest, and I see roughly that many in the `pudl/pudl0119` directory.  I think these should be bulk ingested.
+Yes, as far as I know these should be ingested.
+I'm bulk-ingesting these now, and will run a script to set the visibility by date once they're loaded (this is available in the ingest forms, but not in the bulk ingest Rake task) 
+There are now 150 items in the Brittle Books collection:    I've made the post-1924 items private with the rights statement "In Copyright", but otherwise these are not improved (e.g., the pages aren't numbered, not displayed 2-up, etc.).  Should I just bulk-complete these, or can we get someone to number pages, etc.?
+Forgot to mention one more wrinkle: one item has a non-existent or suppressed bib (2826757).  I just set that item's title to the bib number.  Though it looks like it may be this item: 

@@ -1,0 +1,2 @@
+Limit total size of all files uploaded
+Enforces a limit when uploading files to a work. Total size of all files uploaded via BrowseEverything and local files cannot exceed a configured amount in bytes. Monitors the total size with a progress bar:  And shows an error when the limit is exceeded:

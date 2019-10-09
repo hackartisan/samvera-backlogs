@@ -1,0 +1,2 @@
+Add note to homepage about Hitchcock recordings
+I've "unfeatured" the two William Hitchcock works so they no longer show up on the public home page.  Can you add the text below to the HTML for the home page?  If possible, it should go below the Link to Oriental Art.  If it's easier, it can go below the links to Harry Mayo. The History of Western Civilization Lectures by William Hitchcock are currently available on the Library's SoundCloud site.

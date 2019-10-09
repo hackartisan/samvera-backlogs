@@ -1,0 +1,1 @@
+Upgrade Hyrax gem to 2.5.0

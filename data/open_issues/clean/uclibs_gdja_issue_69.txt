@@ -1,0 +1,2 @@
+Consolidate worktypes, diff by `format`
+A Format (instead of Type?) option needs to be added with the following options: Journal, Newspaper, Newsletter, Article? • Have only one work type • Use a variation of the genre field to let the submitter pick Journal, Newspaper, Newsletter, Article • name the field Format

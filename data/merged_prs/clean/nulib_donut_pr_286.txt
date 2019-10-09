@@ -1,0 +1,2 @@
+index iiif urls for filesets on image
+Fixes nulib/next-generation-repository#510  adds iiif urls for each member FileSet to solr doc for Image

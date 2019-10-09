@@ -1,0 +1,2 @@
+Propagate state from archival media collection, ensure children can mint ARKs
+resolves #1235

@@ -1,0 +1,2 @@
+Field labels are incorrect on some work show pages
+Descriptive summary Some fields have incorrect labels on the ETD show page. Steps to reproduce the behavior  Start a new ETD work add content into the Degree Program field add content into the Degree Date field fill out the other required fields Save the work  The show page will display  the Degree Program field as "Department" the Degree Date field as "Date Created"

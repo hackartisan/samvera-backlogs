@@ -1,0 +1,2 @@
+Investigate why Attach Child from View Work page does not function
+Related to epic #128 (Create/manage nested objects), the Attach Child from a View Work page doesn't function. We can create parent-child relationships from the Edit Work > Relationships tab, but this requires a search to locate the exact child object to attach. This may be problematic if we start to have a large number of child works titled things like "Volume 1" etc.

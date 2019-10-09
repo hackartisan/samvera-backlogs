@@ -1,0 +1,2 @@
+Update reindexer to retry records one at a time
+closes #2808

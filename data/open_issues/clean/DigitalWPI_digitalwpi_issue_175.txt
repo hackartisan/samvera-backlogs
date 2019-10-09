@@ -1,0 +1,2 @@
+research facet changes
+how hard is it to facet by custom things that arent a metadata field. look at emory also

@@ -1,0 +1,4 @@
+Prettify URLs
+As a book or publisher admin, I'd like my books and their assets to have readable URLs. These readable URLs could also help improve the usability of the site, marketing for the book and its supplemental materials, search engine, and google analytics (for filtering only books in views) for books.   Instead of displaying URLs with concern/file_sets/{{ NOID }}  create a pretty URL with the book name and asset title.  Allow platform, publisher, or book admins to customize this URL.
+Blocked until we discuss/determine what these URLs should look like.
+Valkyrie will have a way to store two names for an ID, which may help with this.

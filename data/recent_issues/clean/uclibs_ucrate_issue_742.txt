@@ -1,0 +1,2 @@
+Dockerize Scholar
+Descriptive summary Allow Scholar to be started in a Docker container.  This will allow people to easily try out Scholar or allow developers to easily get things running if they don't want to have to configure their host environments. A good example for this can be found in Hyku: samvera/hyku#1578

@@ -1,0 +1,2 @@
+Add footer to dashboard
+Connected to #144

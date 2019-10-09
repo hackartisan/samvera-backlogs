@@ -1,0 +1,2 @@
+Add NU-specific EXIF data to Hydra::PCDM::Work objects
+Store additional technical metadata on Hydra::PCDM::Work objects and display them in the FileSet view Adds Donut::CharacterizationService Adds Schemas::NorthwesternImageSchema Adds specs for CharacterizationJob, CharacterizationService and SolrDocument Overwrites Hyrax CharacterizeJob and FileSet::Characterization and CharacterizationBehavior classes

@@ -1,0 +1,2 @@
+Rake task to get riiif to preload originals
+eg, on app server: RAILS_ENV=production INTERNAL_RIIIF_URL= bundle exec rake chf:riiif:preload_originals Refs #675

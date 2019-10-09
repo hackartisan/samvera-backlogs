@@ -1,0 +1,2 @@
+Project Manifests should show Folders as members.
+Closes #423, closes #422.

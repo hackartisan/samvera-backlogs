@@ -1,0 +1,2 @@
+Images do not display in UV on figgy-staging
+There’s a problem with figgy-staging that I don’t understand. I thought it was just the coins I imported last night, but it appears in other resources as well. The UV fails to load image tiles, throwing this error: Tile a.Tile failed to load:  - error: Image load aborted  No clue why the domain and TLD are being dropped. The manifest looks fine to me.  No idea how long this has been happening. Related to the shift to NGINX? A Cantaloupe issue?

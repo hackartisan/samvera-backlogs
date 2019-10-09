@@ -1,0 +1,2 @@
+Extra output in RSpec tests
+Running the test suite produces a lot of false errors:  could not convert File Set content to UTF8 fs can't modify frozen String ERROR Synax errors: 92:1: FATAL: Premature end of data in tag RDF line 2 As well as additional informational output that might ought not to be displayed.

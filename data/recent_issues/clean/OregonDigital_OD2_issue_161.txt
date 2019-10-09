@@ -1,0 +1,2 @@
+Add Examples to Vocabularies tabs in MAP
+Add example values to Vocabularies and Controlled Vocabularies tabs in the MAP

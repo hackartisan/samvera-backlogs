@@ -1,0 +1,2 @@
+Better token handling
+The way the CSRF token was handled was changed to get the new system spec for submitting a an ETD to pass, but this caused problems in QA (where you need the CSRF token) this changes the token code so that it will work in prod while keeping the system spec passing.

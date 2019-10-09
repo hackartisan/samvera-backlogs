@@ -1,0 +1,2 @@
+Write feature test for searching a work
+Write search_curate_generic_work_spec.rb feature test

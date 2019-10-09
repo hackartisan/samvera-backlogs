@@ -1,0 +1,2 @@
+Remove remaining resque remnants
+Add back the gems that resque-web required that we had come to expect be part of our package.

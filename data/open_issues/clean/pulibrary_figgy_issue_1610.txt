@@ -1,0 +1,4 @@
+Ingest "Japanese maps" (pudl0092)
+These don't seem to be displayed anywhere. Migrate? Ping  
+I think these are mostly migrated:       I'm only seeing 1 of the 8 on the middle one (6773457) — are the rest ingested but not linked to the right ARK, or do they need to be ingested?
+I can't find them in figgy, so they probably need to be found and ingested.

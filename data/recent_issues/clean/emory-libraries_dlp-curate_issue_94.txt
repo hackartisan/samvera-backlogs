@@ -1,0 +1,2 @@
+Configure test server to use database authentication
+set DATABASE_AUTH env variable as true on test server  configure cap deploy to use admins.yml file under config/emory on test server instead of using the one that comes from github  specify admins in admins.yml file from ticket #36

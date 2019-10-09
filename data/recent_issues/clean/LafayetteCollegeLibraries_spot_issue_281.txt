@@ -1,0 +1,2 @@
+change 'download as zip' to 'download primary file'
+in hindsight, the most visible download option should be for the primary/original file, and exporting an object bundled with the metadata should be in the "additional options" dropdown.

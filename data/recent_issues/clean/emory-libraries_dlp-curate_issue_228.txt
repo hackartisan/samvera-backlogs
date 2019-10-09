@@ -1,0 +1,2 @@
+Build out Curate test environment in aws@emory account
+Build fedora-test in aws@emory account  Build util-test/solr environment in aws@emory account  Add security hardening from #241

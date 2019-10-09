@@ -1,0 +1,2 @@
+Add speedup commits from Valkyrie.
+Brings test suite down from > 30 to < 28s.

@@ -1,0 +1,2 @@
+Digital Filename metadata element not displaying
+With the last upgrade, the digital filename metadata element is no longer displaying on the work full display page (example:   We need to see this element in order to process Special Collections reproduction requests.  If is something you can restore? Thanks,  Sue

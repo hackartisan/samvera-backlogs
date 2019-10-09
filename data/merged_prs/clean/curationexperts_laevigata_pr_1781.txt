@@ -1,0 +1,2 @@
+displaying validation errors for Abstract and TOC
+This commit adds the display code for error messages for the Abstract and Table of Contents fields. Connected to #1765

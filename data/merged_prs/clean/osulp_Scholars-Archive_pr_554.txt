@@ -1,0 +1,2 @@
+Integrates CAS authentication for user creation.
+Fixes #515 This adds CAS user authentication into Scholars Archive, with this people will be able to login via CAS with their onid username and it will create a user account for them.

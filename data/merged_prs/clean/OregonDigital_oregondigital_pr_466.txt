@@ -1,0 +1,2 @@
+Fixes facets in set pages.
+Closes #465.

@@ -1,0 +1,2 @@
+Book object with many FileSets and Files attached does not process all files
+I created a sample book object in Curate prod that contains multiple FileSets including multiple FileSets representing pages of the book - each of which has 3 files assigned (Preservation Master, Extracted Text, Transcript). For this sample work, most of the FileSets appear to be incomplete, missing either:  Thumbnails Characterization information Indication that additional files have been added beyond the Preservation Master File  Sample book object: General Bounce

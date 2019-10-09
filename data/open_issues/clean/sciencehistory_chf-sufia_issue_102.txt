@@ -1,0 +1,5 @@
+Data validation: umbrella issue
+Bit more discussion needed before beginning. There are a variety of other GH Issues related, most in 'backlog'. needed a place for general notes / documentation. Some links that came up via IRC conversation 11/3/15:      
+Okay I've looked through this.  ActiveFedora validations are included as part of ActiveFedora::Base so anything we do should run through there.   Use validates: to do pre-fab validations (such as the ones listed in the rails guide); use validate: to define custom validations; here's a good example of that in sufia:   Not sure really whether we should split validations out into their own file; probably makes sense if it's going to be long. Looks like tests should still go in the model spec. 
+All validation-related tickets should be tagged with "validation" so they show up under 
+Thanks  ! I'll review the existing tickets so we can start setting some priorities going forward.  

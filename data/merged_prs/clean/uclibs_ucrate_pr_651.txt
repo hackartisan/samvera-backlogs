@@ -1,0 +1,2 @@
+switch from static to dynamic attributes in factories
+Fixes #648 Switch from static to dynamic attributes in factories to settle deprecation warning.

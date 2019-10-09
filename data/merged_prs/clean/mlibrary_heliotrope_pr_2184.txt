@@ -1,0 +1,1 @@
+Addresses HELIO-1987 Modify label text for Fulcrum Logo in embed views.

@@ -1,0 +1,2 @@
+Add Noid initializer
+Descriptive summary I believe we need to add this initializer: samvera/hyrax#3128 (comment) I've run into this problem a few times where I got the Ldp::Conflict, "Can't call create on an existing resource" error.  It can be temporarily fixed by cleaning Fedora, but we obviously can't do that in production.

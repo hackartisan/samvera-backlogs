@@ -1,0 +1,2 @@
+Look at  for useful security config
+ is a twitter library to configure headers sent by the app. Helps with a lot of the XSS tomfoolery

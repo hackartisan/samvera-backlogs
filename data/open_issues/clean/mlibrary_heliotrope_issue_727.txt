@@ -1,0 +1,2 @@
+Dashboard Publisher Show Page
+STORY As a registered user with at least one admin role I should be able to access a publisher show page of a publisher I administer. ACCEPTANCE   There is a privileged publisher page restricted to admins.  The page shows a publisher that can be administered by the registered user.  The page shows a publisher for a platform admin.

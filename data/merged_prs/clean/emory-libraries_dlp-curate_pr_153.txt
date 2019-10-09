@@ -1,0 +1,2 @@
+Adds metadata properties to hyrax form
+This commit adds our metadata properties to form. Also adds webdrivers gem (which includes selenium-webdriver) Closes #134

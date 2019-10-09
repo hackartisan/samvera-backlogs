@@ -1,0 +1,2 @@
+Add NumismaticPerson resource
+NumismaticPerson is a combination of the Person and Ruler tables in the old numismatics database. Also:  Fixes index view for accessions, finds, and places Links NumismaticPerson as ruler in NumismaticIssue Links NumismaticPerson as person in NumismaticAccession  Closes #2870

@@ -1,0 +1,2 @@
+Cache controlled vocabulary labels in the DB
+ControlledVocabularies::Base#preferred_label will be cached in the DB, indexed by rdf_subect ControlledVocabularies::Base#fetch will still always do a remote fetch, but it will be called far less often, and it will cache the resulting label. Image will fetch/cache any labels that aren't already in the cache in the before_save event.  partially fixes nulib/next-generation-repository#643

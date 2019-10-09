@@ -1,0 +1,2 @@
+CurateND's Fits is throwing errors for some PDFs
+See 

@@ -1,0 +1,2 @@
+Change alternate identifiers to Valkyrie IDs
+When importing works via CSV, we should accept alternate identifiers for identifying the work's home collection, but they should be converted to Valkyrie IDs when creating the work. Connected to #833

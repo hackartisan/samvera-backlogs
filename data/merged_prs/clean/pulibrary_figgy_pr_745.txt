@@ -1,0 +1,2 @@
+Ready for merge - Issue 580
+I think I just need to style this "pending uploads" dropdown a little better, but would like some feedback/objections.

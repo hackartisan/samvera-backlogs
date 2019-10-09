@@ -1,0 +1,2 @@
+Require ARKs during CSV Import
+ACCETPANCE   The ark is required in the CSV import and fails if a record doesn't contain an ark value  Requires #503

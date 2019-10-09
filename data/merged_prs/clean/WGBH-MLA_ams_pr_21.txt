@@ -1,0 +1,2 @@
+Uses env var for Devise mailer host
+Uses an environment variable to define mailer host for Devise.

@@ -1,0 +1,2 @@
+mark transcript as subtitles
+Resolves #1234

@@ -1,0 +1,2 @@
+Add VectorWork work type
+fixes #211, refs #223

@@ -1,0 +1,2 @@
+497 Ampersand displayed in page title.
+Resolves #497

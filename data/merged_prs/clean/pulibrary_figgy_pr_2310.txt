@@ -1,0 +1,2 @@
+Ensures that the OrderManager only attempts to render resource members with valid thumbnail URLs
+Resolves #2305

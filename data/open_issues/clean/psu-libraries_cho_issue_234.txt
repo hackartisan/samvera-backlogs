@@ -1,0 +1,3 @@
+OAI-PMH Object Converter
+Convert the a collection into OAI-PMH compliant format. Take the metadata (possibly in JSON) and convert it to the format needed by OAI-PMI
+Do not include metadata inherited from collections.

@@ -1,0 +1,2 @@
+[hydrus/prod] NoMethodError: undefined method `fixture_pids' for Hydrus:Module
+Backtrace line 83 of [PROJECT_ROOT]/app/mailers/hydrus_mailer.rb: ignore? line 48 of [PROJECT_ROOT]/app/mailers/hydrus_mailer.rb: item_deposit line 246 of [PROJECT_ROOT]/app/models/hydrus/item.rb: send_item_deposit_email_notification  View full backtrace and more info at honeybadger.io

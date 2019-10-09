@@ -1,0 +1,2 @@
+Ensures Filesets have a human-readable label
+Closes #144

@@ -1,0 +1,2 @@
+If the locale isn't recognized, default to English
+Fixes #806

@@ -1,0 +1,2 @@
+Db configurations
+Add pg gem Make live/staging DB config add secret key base from Figaro for prod set log level for producation specify Ruby version to 2.5.3 in .ruby-version

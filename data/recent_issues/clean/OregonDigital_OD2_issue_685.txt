@@ -1,0 +1,2 @@
+Search Results: List View: Create 'Add to My Shelf' checkbox on each result
+Descriptive summary On Search Results, List View, create a 'Add to My Shelf' checkbox for each result listed. Place in top-right of result 'container'. Wireframe mockup, List View:  (Information compiled by POSM group from updated wireframes) Expected behavior Each search result has a 'Add to My Shelf' checkbox. Related work #684 Accessibility Concerns Should probably be last in tab order for each search result.

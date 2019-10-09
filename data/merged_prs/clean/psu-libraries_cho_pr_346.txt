@@ -1,0 +1,2 @@
+Removing subject and author from catalog controller
+If the user wants a subject or author field they should define a DataDictionary field.  This refrence conflicted with the data dictionary fields

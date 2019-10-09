@@ -1,0 +1,2 @@
+Add custom visibility levels
+This allows you to choose additional visibilty levels that are synonomous with private. On the edit form these will be labeled with the new name and you can programmatically create them. On the show view these will display as private. In the future, the show view should reflect the actual granularity we want the permission levels to have. Connected to curationexperts/in-house#274

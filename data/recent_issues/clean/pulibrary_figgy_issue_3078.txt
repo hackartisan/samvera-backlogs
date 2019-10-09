@@ -1,0 +1,2 @@
+Refactor ArchivalMediaCollections to use a ChangeSet on a Collection object
+This should have a bag_path property which shows up on the edit screen, and it should index as both a Collection and an ArchivalMediaCollection

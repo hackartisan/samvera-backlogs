@@ -1,0 +1,2 @@
+improve work indexing of representative data
+With tests for edge cases I could think of. Ended up simpler code doing some TDD-ish dev, hooray. Tricky taking care of reindexing a work when it has a child work as a representative, and that child work's representative has changed. Have to put some expensive solr lookups in indexing. Tests are pretty slow, maybe another 30s to these new tests. Best I could come up with so far. Wary of mocking too much stuff that I'm not super confident won't change in a future version, causing tests to false pass.

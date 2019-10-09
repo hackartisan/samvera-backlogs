@@ -1,0 +1,2 @@
+Navbar: Add text “UO Login” to UO button and text “OSU Login” to OSU button, keep icons
+Descriptive summary Add text to help explain the login icons, after the icon to match the first one. Wireframe mockup:  (Information compiled by POSM group from updated wireframes) Expected behavior Each login icon has text with it. Related work Link to related tickets or prior related work here. Accessibility Concerns Add any information here to indicate any known or suspected accessibility issues for this ticket

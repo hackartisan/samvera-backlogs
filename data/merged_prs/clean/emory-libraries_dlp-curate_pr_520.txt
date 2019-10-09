@@ -1,0 +1,2 @@
+Alert the user of invalid rights_statements
+When a user uploads a CSV, check that all of the rights_statement values are legit. Alert the user up front if they aren't. Connected to curationexperts/in-house#245

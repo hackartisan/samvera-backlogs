@@ -1,0 +1,1 @@
+Resolves #1232, move epub indexing from services to lib

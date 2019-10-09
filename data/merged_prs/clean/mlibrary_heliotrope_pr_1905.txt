@@ -1,0 +1,2 @@
+HELIO-1953 don't show filters when a publisher has < 15 books
+HELIO-1954 only show the "publisher" filter for HEB Also changed the default sort to be different in "search" vs. "browse"

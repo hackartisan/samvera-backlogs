@@ -1,0 +1,2 @@
+exclude work_members_attributes from edit validation check
+Fixes: nulib/next-generation-repository#625

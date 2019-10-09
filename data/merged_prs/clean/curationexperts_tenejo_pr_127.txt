@@ -1,0 +1,2 @@
+Converted feature specs to system specs.
+Use rspec config use_transactional_fixtures instead of database cleaner gem. Connected to #101

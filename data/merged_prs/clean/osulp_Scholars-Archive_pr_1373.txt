@@ -1,0 +1,2 @@
+enforces word-break to make long metadata values behave
+fixes #1372

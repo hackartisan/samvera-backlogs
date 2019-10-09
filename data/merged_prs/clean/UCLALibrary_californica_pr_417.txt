@@ -1,0 +1,2 @@
+Address security issue in bootstrap-sass
+CVE-2019-8331 In Bootstrap 4 before 4.3.1 and Bootstrap 3 before 3.4.1, XSS is possible in the tooltip or popover data-template attribute. For more information, see: 

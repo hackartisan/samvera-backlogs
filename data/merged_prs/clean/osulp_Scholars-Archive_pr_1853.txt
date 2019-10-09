@@ -1,0 +1,2 @@
+transition from turbolinks to blacklight
+Blacklight on load Fixes #1805

@@ -1,0 +1,2 @@
+Add sidekiq web UI
+Mount it at /sidekiq Only someone who is logged in as an admin can reach it Connected to curationexperts#6

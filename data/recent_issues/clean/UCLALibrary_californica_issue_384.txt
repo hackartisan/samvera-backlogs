@@ -1,0 +1,2 @@
+Add docker-compose setup to californica, w/o cantaloupe
+Use the setup from andrewbenedictwallace/docker-samvera, w/o ursus bits child of UCLALibrary/amalgamated-samvera#240

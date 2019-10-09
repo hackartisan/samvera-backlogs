@@ -1,0 +1,2 @@
+Bundle update all gems and update ruby
+Descriptive summary It's time to do a bundle update and get us current on gems. Also update from rails 5.1.6.1 to 5.1.7 (may require updating  as well) Also update the ruby version to 2.5.5 (requires updating .ruby-version and .travis.yml)  This will require a ruby upgrade on the web servers during deploy

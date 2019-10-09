@@ -1,0 +1,4 @@
+Relationships metadata edit screen: "Child Work" autocomplete dropdown is broken.
+Go to:  Under Other Works in this Work, the "Child work" autocomplete menu appears to be broken.
+If you search for a blank string, the error message reads "ID cannot be empty." Tried searching for an ID instead of a title, to no avail. Note that the form does not specify what metadata we're supposed use to locate the child work.
+Note to self: to fix this in the console: ``` child = GenericWork.find('41687h49p') parent = GenericWork.find('d217qq75n') parent.members << child parent.ordered_members << child parent.save! ```

@@ -1,0 +1,1 @@
+Saving an interaction within the Review and Approval panel should redirect back to the Review Submissions page

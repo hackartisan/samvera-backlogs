@@ -1,0 +1,2 @@
+update SPOT_VERSION constant creation
+after deployment, we'll write a VERSION file to the root of the app + use that to define the SPOT_VERSION constant. it's convoluted, but i'd like to have a current version displayed on the site for debugging

@@ -1,0 +1,1 @@
+Positions check-mark relative and changes color to green

@@ -1,0 +1,2 @@
+Enable download of ExtractedText
+Resolves #1423

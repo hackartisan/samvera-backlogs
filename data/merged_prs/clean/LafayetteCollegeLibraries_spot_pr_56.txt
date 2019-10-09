@@ -1,0 +1,2 @@
+change Publication#editor predicate to bibo/editor
+we're already using RDF::Vocab::DC11.contributor for Publication#contributor, which causes a quiet warning:  this updates to use RDF::Vocab::BIBO.editor, which might be what we're looking for anyway

@@ -1,0 +1,8 @@
+User stats emails should not be sent on system other than prod
+Stage and QA likely have the same cron jobs as prod, which means they will send out emails on the same date as prod. We should not do this.
+TODO: * ensure cron job for `scholarsphere:stats:notify` only runs on the production jobs server
+what we usually do is have a global bit that turns off the mailer, or use something like `mailcatcher`  are we setting email on / off in the rails config someplace? 
+ No, mailler is on. I'm thinking we need to have another ENV key in `application.yml` that indicates what "environment" it is: qa, stage, prod, etc. But "environment" doesn't seem to be the right word.
+I'm usually more a fan of explicit config bits, instead of guessing based off env (this seems to be a rails anitpattern though)   i.e  ``` mailer:   enabled: true ```  in `application.yml`         
+there may also be a case where we want to sent the smtp server to something like mail catcher to get a view on what it _would_ have done? 
+The mailer still needs to be enabled so we can test things. We can just turn off the job under config/schedule.rb:31.

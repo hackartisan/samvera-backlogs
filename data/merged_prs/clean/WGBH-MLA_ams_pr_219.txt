@@ -1,0 +1,2 @@
+Adding config support for csv reader
+Please see attached sample files: Example_WGBH Physical Instantiation CSV Ingester.xlsx Example_WGBH CSV Ingester.xlsx

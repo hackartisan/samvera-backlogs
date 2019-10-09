@@ -1,0 +1,2 @@
+Adding /admin/queues to view Redis queue
+This URL is visible only to those authenticated as admins IDR-190 #resolve #resolves #resolved

@@ -1,0 +1,2 @@
+Add Start Canvas
+Closes #609

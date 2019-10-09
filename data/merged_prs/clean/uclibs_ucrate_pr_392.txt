@@ -1,0 +1,2 @@
+Removes TODOs from model spec test.
+Fixes #232 Present short summary (50 characters or less) These TODO's were copied over from the Scholar code.   It looks like this test coverage is now in Hyrax. Proxies - Callbacks are pulled out of the model and added to a transfer request actor. Removing test from model. samvera/hyrax@90d9b7f Featured Work - The test of featured works is done in the hyrax controller.  Removing test from model. This PR removes the commented out code in the model specs.

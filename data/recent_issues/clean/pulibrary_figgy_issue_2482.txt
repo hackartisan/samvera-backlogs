@@ -1,0 +1,2 @@
+JP2s are oversaturated
+ Found an image where the JP2 is significantly over-saturated compared to the TIFF original.  We experimented a little bit, but were not sure whether the TIFF -> JP2 conversion, or the JP2 -> PNG conversion was the main source of the problem.

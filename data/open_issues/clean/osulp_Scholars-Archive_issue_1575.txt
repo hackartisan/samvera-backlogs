@@ -1,0 +1,3 @@
+Collection showpage Results Per Page dropdown breaks
+Descriptive summary On the Collection showpage (see link below) the Results Per Page dropdown throws an error when the number of results selected exceeds the number of works in the collection.  Expected behavior Results will display, and if the number of results selected is more than the number of results in the collection, the contents of the entire collection will display. Actual behavior Page throws an error (see attached)
+checked this on Nurax and it is not an issue there.

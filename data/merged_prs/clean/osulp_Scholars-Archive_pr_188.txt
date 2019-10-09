@@ -1,0 +1,2 @@
+Index and display nested authors.
+Closes #185, closes #184

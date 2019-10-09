@@ -1,0 +1,1 @@
+Fix BrowseEverything S3 settings for EC2

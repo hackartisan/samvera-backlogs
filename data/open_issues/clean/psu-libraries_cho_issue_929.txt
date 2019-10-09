@@ -1,0 +1,2 @@
+Validate role and agent
+ There is a todo for validating the creator and role when they get linked together.  Should we be doing that?

@@ -1,0 +1,2 @@
+.ttl view should be available to administrators
+Although we've disabled .ttl views for the general public (because they might expose embargoed abstract and table of contents), they should work for admin users. However, there seems to be a bug (in Hyrax?) that is breaking the ttl display. Not yet fully investigated.

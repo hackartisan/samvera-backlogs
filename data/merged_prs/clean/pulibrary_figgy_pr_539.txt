@@ -1,0 +1,2 @@
+Removing unique constraint on user email field
+Fixes #460

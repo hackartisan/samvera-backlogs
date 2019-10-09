@@ -1,0 +1,2 @@
+Style publisher filters and gallery view
+Resolves HELIO-1934 Makes style and markup changes to the publisher filters and gallery views for books; adds a few accessibility fixes that were discovered during VPAT assessment. This branch is currently deployed to staging if you'd like to take a look:  

@@ -1,0 +1,2 @@
+Update solr config for dev
+I needed to make this update in order to run the rake hydrus:refreshfix command when following the current docker instructions.

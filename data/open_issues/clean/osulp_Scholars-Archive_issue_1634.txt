@@ -1,0 +1,3 @@
+Make Table of Contents field on form a multi-line text input, preserve linebreaks
+Descriptive summary Table of Contents field on forms should be changed to multi-line, to allow for better input. Linebreaks should be preserved after saving, and displayed correctly on the show page. Expected behavior Table of Contents should allow for multi-line input and preserve linebreaks, and show correctly on the item page. Actual behavior Table of Contents is all on one line and display can get mangled on the show page. Steps to reproduce the behavior  Create new item Add Table of Contents  Example 
+Should it be a single value field so that the order/display is controlled solely by the formatting someone inputs into the textarea (instead of being a multi-valued string input field)?

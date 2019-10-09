@@ -1,0 +1,2 @@
+Fields only appear on details page if they are filled in 
+Is it possible that we only have the IRIS icon and the OASIS section appear on the details page if they have been filled in?

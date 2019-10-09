@@ -1,0 +1,2 @@
+Restrict degree level drop-down list options
+Descriptive summary To encourage accuracy and make the deposit process earlier, limit the degree level drop-downs to the only correct choices for specific worktypes. Expected behavior ETDs:  Doctoral Master’s  Grad Projects:  Master’s  Undergrad Thesis/Projects:  Bachelor’s  Related work #1295

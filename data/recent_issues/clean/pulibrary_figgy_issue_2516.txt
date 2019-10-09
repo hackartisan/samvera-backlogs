@@ -1,0 +1,2 @@
+Check files with JHove
+It doesn't have to be done as part of the critical path of generating derivatives, but we should check file validity with JHove for the formats that are supported.

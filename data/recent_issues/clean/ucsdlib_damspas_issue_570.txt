@@ -1,0 +1,2 @@
+Batch update rights (override) for AROM collection
+Descriptive summary The Armed Revolutionary Organizations of Mexico was publicly released, but the objects are not displaying because copyright is unknown. Please add access override to release.

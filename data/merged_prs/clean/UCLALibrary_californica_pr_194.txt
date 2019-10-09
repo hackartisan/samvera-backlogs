@@ -1,0 +1,2 @@
+Initial FactoryBot factories for work and user
+Create a user and an admin user for use in tests Create a work factory for use in tests Use FFaker fake data to populate these Initial feature test for showing a work Connected to #63

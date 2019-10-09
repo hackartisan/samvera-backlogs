@@ -1,0 +1,2 @@
+Member thumbnail should link to member in parent context
+Fixes #146

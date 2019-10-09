@@ -1,0 +1,1 @@
+AMS2-339 Changing layout to with_themed_layout

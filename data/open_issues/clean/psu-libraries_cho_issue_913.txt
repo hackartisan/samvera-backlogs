@@ -1,0 +1,2 @@
+Ordering file sets and files
+File sets and currently ordered "by accident" as the order in which they are ingested from the CSV. It would be best to make this explicit and always order them according to their alternate id, aka. the Penn State id, derived from the work's PSU id and the page number/side. Files currently do not have an explicit ordering. Should we add one, and if so, what criteria should we use for this?

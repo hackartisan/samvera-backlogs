@@ -1,0 +1,2 @@
+Resolves HELIO-1845 Unable to logout in production
+Removed cosign logout redirect.

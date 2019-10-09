@@ -1,0 +1,2 @@
+Display flash / refresh new object form when source metadata id was bad
+[Figgy/production] URI::InvalidURIError: bad URI(is not URI?): CD- 34517q.xml Backtrace line 35 of [PROJECT_ROOT]/app/services/pul_metadata_services/client.rb: retrieve_from_pulfa line 14 of [PROJECT_ROOT]/app/services/pul_metadata_services/client.rb: retrieve line 44 of [PROJECT_ROOT]/app/models/remote_record.rb: client_result  View full backtrace and more info at honeybadger.io

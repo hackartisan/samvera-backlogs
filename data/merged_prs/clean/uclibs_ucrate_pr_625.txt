@@ -1,0 +1,2 @@
+Fix department facet
+Fixes #609 The code from #550 works, however after some testing I realized that the facet_field_names was not deleting when it was returning, so I looked over previous code and implemented an intermediary variable to return and make the changes to.

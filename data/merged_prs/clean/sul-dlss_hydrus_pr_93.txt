@@ -1,0 +1,1 @@
+Remove unused client certificate configs. Fixes #92

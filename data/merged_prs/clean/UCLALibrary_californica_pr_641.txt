@@ -1,0 +1,2 @@
+Fixed a bug with duplicate permissions. Jira 608
+The bug was that when you edit a Work record in the browser and change its visibility, and then apply the parent Work's visibility to the child FileSet records, in some situations, the resulting visibility for the FileSet records would be incorrect.

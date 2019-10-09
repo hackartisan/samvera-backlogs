@@ -1,0 +1,2 @@
+follow api for datatable in hyrax
+Fixes the code for the dropdown preset

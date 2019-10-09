@@ -1,0 +1,2 @@
+Zip download is broken again!!
+Work Zip Service is connecting with bad credentials. Should really just use content here.  Not sure why we are not.  This would take advantage of the efficiencies just garnered by reading the file from disk.

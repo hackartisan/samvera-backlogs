@@ -1,0 +1,2 @@
+SPIKE: derivative performance
+EXPERIMENT When making derivatives on enough files to get meaningful timings    Loading Imagemagick once and running it on all files in the folder    Loading Imagemagick multiple times, once for each individual file (like the actor stack would)    How many files do we need in our sample set

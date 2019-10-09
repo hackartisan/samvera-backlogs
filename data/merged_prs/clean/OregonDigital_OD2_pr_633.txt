@@ -1,0 +1,2 @@
+Adds print and license sections to work show page
+Fixes #612 Fixes #611 Fixes #628 We don't have access to font-awesome v5, so we can't add any of the CC or licensing icons.

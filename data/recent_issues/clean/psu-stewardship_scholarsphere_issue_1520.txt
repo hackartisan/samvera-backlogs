@@ -1,0 +1,2 @@
+BePress Reporting
+I thought we may have had something in here similar, but I wasn't able to find it. As a user I would like to receive a monthly report about how many times my files have been downloaded and my total downloads, via email, with a link to my dashboard. This is common in BePress. I'm attaching a screen shot of that. (may be worth noting this request came in from users).

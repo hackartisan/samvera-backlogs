@@ -1,0 +1,2 @@
+Change catalog controller to use new figgy_title fields
+Index ran successfully on prod on Friday. This pr has been deployed to staging and searching / display tested briefly. resolves #1837

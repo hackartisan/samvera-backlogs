@@ -1,0 +1,2 @@
+added force_migrate_ordered_metadata task
+fixes #1728 added rake task bundle exec rake scholars_archive:force_migrate_ordered_metadata to restart migration on works that were partially migrated (title and abstract were successfully migrated for a set of works):  This forces migration on creator, contributor and additional_information fields

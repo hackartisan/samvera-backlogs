@@ -1,0 +1,2 @@
+Replace schema_fields.yml with houndstooth?
+ discovered  which is a community model for modeling metadata requirements that could replace our schema_fields.yml or even the entire data dictionary. with a community-based approach. Can be round-tripped to CSV for easy maintenance by metadata managers and then back to YML for the app. We should consider this.

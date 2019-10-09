@@ -1,0 +1,2 @@
+Embedded viewer has empty space at the top
+I think it's because of the space for Playlists to have the title of the work there - there's no label for non-playlists.

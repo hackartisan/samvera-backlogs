@@ -1,0 +1,2 @@
+Change font size of download button
+Descriptive summary Increase font size on the Download file button for components, make equivalent to the size of View file.

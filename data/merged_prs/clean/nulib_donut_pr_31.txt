@@ -1,0 +1,2 @@
+Add ark minting for Image works
+Adds ARK minting support for Image works using an after_save callback. Production environment needs to set the following ENV variables: EZID_DEFAULT_SHOULDER, EZID_USER, EZID_PASSWORD, EZID_HOST, EZID_PORT, EZID_USE_SSL ezid-client added to the Gemfile, make sure to run bundle install locally.

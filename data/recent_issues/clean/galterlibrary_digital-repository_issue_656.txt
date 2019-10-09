@@ -1,0 +1,2 @@
+Remove Original Publisher
+Undo #384 Depends on #655 And rename "Digital Publisher" to "Publisher"

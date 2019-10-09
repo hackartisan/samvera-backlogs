@@ -1,0 +1,2 @@
+Fix rubocop errors in rubocop_fix_me.yml
+Descriptive summary This is technical debt which will have to be worked on overtime. Currently there are still approximately 500 errors in rubocop which have been silenced with the rubocop_fix_me.yml file. As files get fixed they can be removed from this file.

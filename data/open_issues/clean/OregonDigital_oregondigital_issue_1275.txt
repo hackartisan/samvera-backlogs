@@ -1,0 +1,2 @@
+Make Designer controlled (OSU only)
+Make the Designer field controlled like other Creator fields. An export was done in February, with 475 values, all from the Historic and Cultural Textile and Apparel Collection.  (more likely came in with recent batch upload there).   Find or create URIs for values  Change Designer field to be controlled  Change text strings to URIs

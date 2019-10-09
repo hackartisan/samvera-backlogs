@@ -1,0 +1,2 @@
+add Fulcrum favicons to asset pipeline
+Closes #379 Adds Fulcrum favicons (for a variety of devices) to app/assets/images/favicon/ to be precompiled and served from public/assets/favicon when deployed.

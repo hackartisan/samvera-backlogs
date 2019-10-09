@@ -1,0 +1,2 @@
+We are not logging user logins in the table as expected
+When a user logs in the user table should get updated to include a new date

@@ -1,0 +1,1 @@
+Fixed the spellcheck suggestions format error from SOLR 5. DHH-814

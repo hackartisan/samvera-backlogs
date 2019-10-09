@@ -1,0 +1,2 @@
+Add sidekiq-failures gem
+We'd like to see failures on the sidekiq dashboard. This adds a tab with a list of failures (by default limited to 1000, but that's configurable), but strangely doesn't link the failures count (like retries et al. are linked). Still, good enough for a first pass. Connected to #241

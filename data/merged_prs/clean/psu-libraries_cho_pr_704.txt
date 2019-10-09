@@ -1,0 +1,2 @@
+Default show page for file sets
+Utilizing solr document to access the link for the file set and hook into the default Blacklight show page. Updates the file set link in the work show page to link to file set show p[age and starts a test for the file set show page. Description Fixes #63 Why was this necessary? Stakeholders would like to be able to see, and in the future, edit file sets.

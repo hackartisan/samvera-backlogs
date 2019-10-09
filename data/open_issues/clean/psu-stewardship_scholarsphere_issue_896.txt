@@ -1,0 +1,3 @@
+Zotero Subscription service calls run which does not exists
+
+This is only used to add subscriptions to existing users.  If we had any production users besides patricia and myself this could be a blocker, but since we do not I think it is a nice to have.

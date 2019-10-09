@@ -1,0 +1,2 @@
+Feature/fix production issues
+Assets for the viewers weren't showing in production, this fixes that. Switches to Puma because there were upload timeout problems. Closes #142

@@ -1,0 +1,1 @@
+Remove click-thru for embargoed content.(DHH-780)

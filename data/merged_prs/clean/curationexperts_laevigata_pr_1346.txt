@@ -1,0 +1,2 @@
+Add Box UI to form
+This commit adds the box file picker to the form and sets up OAuth login. To get this running locally you'll need to setup the BOX_OAUTH_CLIENT_ID and BO_OAUTH_CLIENT_SECRET env variables. When you click on 'Add You Thesis From Box' you will be redirected to the Box login and then redirected back to the submission form. A Box file picker UI will then be in the UI. When you pick a file the box_redirect_controller will communicate with the Box servers and get the correct download URL. Future commits will use that URL to add the file to the InProgressEtd.

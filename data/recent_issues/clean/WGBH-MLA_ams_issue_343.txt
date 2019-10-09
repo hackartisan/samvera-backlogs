@@ -1,0 +1,2 @@
+Add View All Items in Batch to details view
+User Story As a user, I need to be able to get to all records in a batch from the  batch detail view, so that  I don't have to go back  to the batch list view to click that link Additional Information This got deleted from the details view, when that view got updated. Can we add it back? Done Looks Like A link in the batch information box at the top  of the batch details pages that takes the user to search results for all items in that batch.

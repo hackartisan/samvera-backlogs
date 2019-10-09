@@ -1,0 +1,2 @@
+Sidekiq & Deployment configuration
+This adds changes from DCE's fork that included Sidekiq and deployment configuration.

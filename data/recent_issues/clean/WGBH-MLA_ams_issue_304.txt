@@ -1,0 +1,2 @@
+Use updated hyrax-batch_ingest to get batch summary feature
+Batch summary feature shows: Summary of all batch items by status Breakdown of error type with a list of IDs for each type

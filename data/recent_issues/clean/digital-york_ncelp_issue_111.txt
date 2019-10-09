@@ -1,0 +1,2 @@
+Resource details page - fields only appear when filled in
+Can all the fields only appear when filled in, please? See for example, all the empty ones below.

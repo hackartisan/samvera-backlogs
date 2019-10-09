@@ -1,0 +1,2 @@
+Adds initializer for locale files
+This will require that the default CollectionType rake task will need to be re-run on edge and staging instances. rails hyrax:default_collection_types:create

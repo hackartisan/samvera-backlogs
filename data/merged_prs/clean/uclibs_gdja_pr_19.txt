@@ -1,0 +1,2 @@
+remove share button, add browse button
+Fixes #12 remove share button, add browse button

@@ -1,0 +1,2 @@
+Allow transition straight to complete in book workflow
+fixes #801

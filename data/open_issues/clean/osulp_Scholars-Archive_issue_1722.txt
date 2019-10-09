@@ -1,0 +1,6 @@
+Ask Google to crawl the site
+Descriptive summary Here's a link to make the request: 
+I logged in to Google Search Console and resubmitted our Sitemap file.  The date under the 'Coverage' section says 10/12/18 right now.
+ is there a way to check the progress in Google Search Console?  I checked out this dataset  in Google Scholars:   ![image](  and it looks like the metadata for the first entry is based on the `Cached` version from Hyrax 2.0.0, which still lists the old order for the `Creator` field:  
+Sort of. The URLs in the Sitemap are found, and I checked ("URL Inspection") on this one, it was indexed, but I requested it to be indexed again. No guarantee when Google Scholar would pick up the changes.
+  says: "Keep in mind that, since these papers are already included in Google Scholar, updating their bibliographic data will usually take 6-9 months from the time you provide it on your website."

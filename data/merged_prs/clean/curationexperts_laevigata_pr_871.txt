@@ -1,0 +1,2 @@
+Manage database credentials with dotenv
+Increase database connection pool to match default thread count for sidekiq. See explanation at 

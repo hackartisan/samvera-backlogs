@@ -1,0 +1,4 @@
+Send (delayed) collection reports for new collections
+When I create a new collection and ingest content, I would like to send the collection report to the collection owner(s) to alert them of new content to review.  But, since ingest and derivative generation can take several hours to complete, I would like to wait before sending the email (e.g., wait until the next morning, or until derivative processing is done).
+ Is someone asking for this is or is it just you asking?
+I think  asked for this?  Is that true? Is this needed?

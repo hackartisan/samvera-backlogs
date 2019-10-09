@@ -1,0 +1,2 @@
+Removing migration of collection creator in the controller
+Did a query on Production and all creators have been successfully migrated resp = ActiveFedora::SolrService.query('*:*', fq: 'has_model_ssim:Collection',fl:'id', rows: 1000) ids = resp.map{|resp| resp['id']} ids.reject{|id| collection = Collection.find(id); collection.creator[0].is_a?(Alias) || collection.creator[0].nil?}  Above code returned empty array

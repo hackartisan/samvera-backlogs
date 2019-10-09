@@ -1,0 +1,2 @@
+Batch create form should have scaler description and date_created fields
+Descriptive summary When viewing the batch create form, the description and date_created fields allow users to enter multiple values for those fields.  However, both fields should only allow a single value (like on the regular create work forms). We don't want the "Add another..." links to show for those fields.

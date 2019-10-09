@@ -1,0 +1,1 @@
+updated to_solr to set rights and license as facetable

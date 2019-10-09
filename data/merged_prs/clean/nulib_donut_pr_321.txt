@@ -1,0 +1,2 @@
+Common indexer
+Start indexing to ElasticSearch

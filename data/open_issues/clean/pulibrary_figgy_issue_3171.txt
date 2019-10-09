@@ -1,0 +1,2 @@
+Evaluate hyrax visibility PR as possible path toward removing Hydra::AccessControls
+If the approach in samvera/hyrax#3867 looks like it could work for us perhaps down the line it could be extracted somewhere for more people to use.

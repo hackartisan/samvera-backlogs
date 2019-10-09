@@ -1,0 +1,1 @@
+refactors service to use catalog search builder params and rsolr

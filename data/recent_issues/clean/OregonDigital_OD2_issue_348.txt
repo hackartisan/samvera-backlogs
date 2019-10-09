@@ -1,0 +1,2 @@
+:owner in GenericMetadata improperly configured
+Descriptive summary The Metadata Application Profile indicates that this property should be a multi-valued field, but it is configured as singular. Can we validate that the multi-valuedness of the configured metadata is matching the spec in the MAP? 

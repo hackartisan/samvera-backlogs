@@ -1,0 +1,2 @@
+Check that change in release notes adds a new message
+to prevent false positives on this check fixes #3267

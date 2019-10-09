@@ -1,0 +1,2 @@
+Story #1128: Don't consider subfield for AdminSet selection.
+Previously, choosing the correct AdminSet for an ETD record depended on school, department, and subfield.  At some point it was found to be too complicated, so the configuration in the production environment was streamlined so that AdminSet depends only on school and department. This commit removes the associated code, so that selection of AdminSet will depend on only school and department. Connected to #1128

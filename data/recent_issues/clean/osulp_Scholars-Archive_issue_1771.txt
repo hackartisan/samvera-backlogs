@@ -1,0 +1,2 @@
+Bulk Edits: Articles
+Bulk edits to clear up in_series metadata from migration. Batch 1:    has_journal  has_volume  has_number  in_series  Batch 2:    has_journal  has_volume  has_number  in_series

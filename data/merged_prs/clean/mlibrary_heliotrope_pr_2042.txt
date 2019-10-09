@@ -1,0 +1,2 @@
+Hotfix/disable stats tab
+Has commits from hotfix releases 2.22.2, 2.22.3 and 2.22.4

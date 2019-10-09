@@ -1,0 +1,2 @@
+Fix Department facet
+Descriptive summary It looks like there's a bug with the recent PR (#550) to have the Department facet only display when the College facet is selected. The Department facet appears to display all the time now.

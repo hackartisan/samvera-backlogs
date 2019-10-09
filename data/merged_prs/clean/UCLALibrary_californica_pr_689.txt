@@ -1,0 +1,1 @@
+add reindex to `rake californica:fix_missing:master_file_path`

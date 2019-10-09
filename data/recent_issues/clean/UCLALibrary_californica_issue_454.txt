@@ -1,0 +1,2 @@
+On Californica servers point /opt/uploads off the root partition
+This has been done on Prod using the NFS mounted NetApp space (1TB): /opt/uploads -> /opt/derivatives/uploads (owned by deploy:deploy). Do this on:    d-w-californica01    t-w-californica01    s-w-californicaweb01    p-w-californicaweb01   /opt/uploads is used when regenerating derivatives. Depending on the size of the input, this may cause the partition to fill. Cleanup is executed periodically via cron.

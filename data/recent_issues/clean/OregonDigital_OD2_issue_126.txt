@@ -1,0 +1,2 @@
+surface the deployed version to the front-end
+Descriptive summary Add the application version and/or deployed version to the front-end, this gives us the ability to verify what is deployed to staging/production at any given time. Expected behavior Add small text to the footer, using an environment variable set during the build/deployment process or to default to the OregonDigital::VERSION if the environment variable doesn't exist.

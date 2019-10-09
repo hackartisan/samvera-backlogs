@@ -1,0 +1,2 @@
+2019-1-pre.4
+updates dependencies (#259) updates to permission handling (#266)  adds a depositor role limits creation to depositor and admin roles only hides the dashboard from users who aren't able to deposit   rewrite Image derivative processing (#262) add rake task for generating derivatives (#262)   closes #265 closes #257

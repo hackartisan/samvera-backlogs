@@ -1,0 +1,3 @@
+Hide some Collection metadata fields
+Descriptive summary some of the metadata fields on collections are not useful in our context. suppressing them is the best way forward. Including:   keyword  license  publisher  identifier  resource type  implement nested label on related URL
+ can you update me on the status of this issue? looks liek some of this is done and merged, but not that last check box?

@@ -1,0 +1,2 @@
+Remove Coveralls
+CircleCI has access to the simplecov HTML report, and will now error if it drops below 100%.

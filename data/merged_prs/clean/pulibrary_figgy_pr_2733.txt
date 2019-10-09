@@ -1,0 +1,2 @@
+Letter Change Sets
+Depends on #2726 This enables some new functionality for nested forms, as well as an experimental method of grouping ChangeSet properties by feature. It's pretty similar to multiple inheritance, but all in one place - something to think about? The form looks like this:

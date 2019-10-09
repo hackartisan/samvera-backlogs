@@ -1,0 +1,2 @@
+Moving html metadata rendering to work attributes
+There is a two-fold reason for this:  We were encountering errors with senior thesis not correctly rendering. It keeps the html metadata of the work close to the attributes of that work.

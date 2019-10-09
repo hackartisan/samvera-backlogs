@@ -1,0 +1,2 @@
+Enable searching for labels
+Intended to fix #272. Also gets searchable fields up-to-date with the MAP  Is there more to #272 that this does not cover?

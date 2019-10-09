@@ -1,0 +1,2 @@
+Register new issues in ServiceNow with our contact form
+Currently, our contact form will create new issues in Jira. We'd like to move that ServiceNow. There are two ways to do this, either via API calls, or a custom form within SNow itself. We're currently inquiring as to which method is best: 

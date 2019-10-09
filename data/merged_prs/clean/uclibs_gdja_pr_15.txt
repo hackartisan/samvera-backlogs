@@ -1,0 +1,2 @@
+customize footer
+Fixes #9 Customizes footer. Changes proposed in this pull request:  Add links to gdja repo, uc libraries, copyright notice Add style tweak

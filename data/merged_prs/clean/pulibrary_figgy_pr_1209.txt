@@ -1,0 +1,2 @@
+Ensures that the property transliterated_title is exposed on forms for `EphemeraFolders`
+Resolves #1131

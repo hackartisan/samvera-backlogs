@@ -1,0 +1,2 @@
+disable right click over image object on asset page
+Closes #385

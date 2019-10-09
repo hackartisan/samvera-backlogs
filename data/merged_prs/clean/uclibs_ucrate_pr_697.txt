@@ -1,0 +1,2 @@
+Users shouldn't be able to self assign proxy rights
+Fixes #675  ; We don't want users to be able to assign themselves proxy rights.  We now prevent them from doing so.  If a user attempts to add themselves as a proxy they will see an error message explaining that they can't add themselves as a proxy.

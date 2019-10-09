@@ -1,0 +1,2 @@
+APPINT-2119: Added dce_fedora deploy target
+I've added a deploy file config/deploy/dce_fedora.rb for the dce-fedora.vmhost.psu.edu server. My understanding is that it would be better practice to merge this in and then remove it once the server goes away than leaving the change in a long-term feature branch, but any feedback is welcome (maybe this is a special case since it's a small, isolated change that isn't likely to have other associated code changes).

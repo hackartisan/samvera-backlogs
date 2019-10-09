@@ -1,0 +1,2 @@
+Relabels Open Access to Public 
+Overrides translation from Sufia and permission badge presenter from Curation Concerns. Rubocop fixes and updates spec test to replace open access with public. This change makes labeling more consistent in the interface and is more accurate with certain rights selections.

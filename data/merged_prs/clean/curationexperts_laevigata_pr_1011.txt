@@ -1,0 +1,2 @@
+ Suppress email deliveries to emails that will bounce
+Maintain a list of email addresses that should not receive deliveries Document how to add to it Clear mail delivery queue between test runs where this is necessary  Connected to #995

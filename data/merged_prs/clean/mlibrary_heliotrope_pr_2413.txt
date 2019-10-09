@@ -1,0 +1,2 @@
+allow full Creative Commons license names
+HELIO-2320

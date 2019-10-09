@@ -1,0 +1,2 @@
+Patrons would like to download both pages in viewer when view is 2 up/paged in figgy
+Can we get figgy to download both pages, when a viewer is displaying 2 up/paged versus individual pages (instead of switching viewer to individual and downloading each page individually)?

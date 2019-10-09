@@ -1,0 +1,2 @@
+Add edit access to 'catlu' for all records, fixes 370
+This is on top of #386, merge that first rake chf:data_fixes:add_catlu_access

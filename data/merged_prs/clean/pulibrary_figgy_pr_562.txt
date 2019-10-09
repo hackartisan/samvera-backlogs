@@ -1,0 +1,2 @@
+Manifest works even with bad thumbnail_id
+Closes #546.

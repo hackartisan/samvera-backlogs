@@ -1,0 +1,2 @@
+persist supplemental files metadata
+This commit makes sure we persist and display saved supplemental file metadata, following the same duplicate-prevention strategy we use with primary and supplemental files. It depends on the having the same object keys as the supplemental files array.

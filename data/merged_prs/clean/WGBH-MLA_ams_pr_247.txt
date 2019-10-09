@@ -1,0 +1,2 @@
+Formats asset#show action buttons
+Design approved by . This also gives more space for Asset titles.

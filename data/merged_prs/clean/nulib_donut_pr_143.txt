@@ -1,0 +1,2 @@
+Upgrade to latest hyrax-spec and require shared_examples
+Requires hyrax/spec/matchers and hyrax/spec/shared_examples in rails_helper.rb Removes a_model_with_hyrax_basic_metadata.rb local shared example, instead uses hyrax-spec version of this file.  Remember to run bundle install when testing locally.

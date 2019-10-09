@@ -1,0 +1,2 @@
+Make all form fields same format - corners rounded or not
+Descriptive summary We have a combination of formats - need to choose one and stick with it. Question: Rounded or square corners?   NOTE: Large box format is a Nurax issue:

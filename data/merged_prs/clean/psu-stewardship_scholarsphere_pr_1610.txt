@@ -1,0 +1,2 @@
+Updating versions for 3.9 release
+Updating the versions page in preparation for the 3.9 release.

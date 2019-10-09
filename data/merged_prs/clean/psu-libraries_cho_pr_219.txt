@@ -1,0 +1,2 @@
+Added newrelic gemfile for application monitoring
+Very minor change, just adding the newrelic_rpm gem to allow for performance monitoring. This will likely help with Adam's pursuit of small-files performance.

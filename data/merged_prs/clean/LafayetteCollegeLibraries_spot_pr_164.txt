@@ -1,0 +1,2 @@
+move ci tasks to circleci
+this seems to be the direction the community is going

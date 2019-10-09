@@ -1,0 +1,2 @@
+Add CSS override to remove blur on masthead image.
+This removes the top line on the masthead image, which was coming from the blur function. Since there's no text on top of the image, the blur isn't necessary.

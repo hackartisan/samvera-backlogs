@@ -1,0 +1,2 @@
+Metadata supplemental files 
+Hi , this is a very very rough working version of what we talked about earlier, more or less. It creates a structure like this "supplemental_file_metadata"=>{"0"=>{"filename"=>"5-MySuppFiles.png", "title"=>"foo"}, "1"=>{"filename"=>"9-ReviewSubmit_3.png", "title"=>"bar"}, "2"=>{"filename"=>"8-ReviewPreview_2-1.png", "title"=>"baz"}}. I'll continue working on it but just wanted to give you a chance to look at it, see what you think, see if it raises any red flags.

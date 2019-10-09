@@ -1,0 +1,4 @@
+Review localCollectionName values export for incorrect URIs or missing data
+An export of items with a localCollectionName was done on March 30.   UO items cleaned up  OSU items cleaned up   Review for things like missing Institution, URIs with typos or other missing info causing a mismatch.
+ There is a spreadsheet for corrections to UO localCollectionName entries in DigitalProjects/Metadata/OD2_Remediation/localCollectionName/localCollectionName_changes.xlsx
+There are several other mass corrections that came out of the localCollectionName scrape. There are spreadsheets in the DigitalProjects/Metadata/OD2_Remediation/localCollectionName folder:  Institution_changes.xlsx Missing_Identifiers.xlsx schnitzer-nitrate_dateChanges.xlsx Title_changes.xlsx

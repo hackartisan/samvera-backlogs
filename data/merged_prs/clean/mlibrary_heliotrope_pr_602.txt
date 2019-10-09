@@ -1,0 +1,2 @@
+Imported monographs are editable by press/platform admins
+Resolves #322 Monograph edit buttons are available to press/platform admin Resolves #181 Also made sure edit buttons are available for sections and file_sets. Right now only press/platform admins can see/use them. Press Admins can only create or update Monographs (not sections, file_sets). We'll need to add some more stories about specific Press Admin permissions for sections and file_sets.

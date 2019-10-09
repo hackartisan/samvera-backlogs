@@ -1,0 +1,2 @@
+Upgrades Hyrax gem to 2.5.1
+Fixes #760 Present short summary (50 characters or less) Upgrades the core hyrax gem to version 2.5.1. ...v2.5.1 Upgrades some of the application test. The manual test script should be completed before this is merged.

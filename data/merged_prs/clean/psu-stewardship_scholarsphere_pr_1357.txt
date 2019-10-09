@@ -1,0 +1,2 @@
+Convert a single object
+If we can convert a single object from internal to external files storage, instead of having to convert all of the objects of a given class, it will make it much faster to debug configuration issues.

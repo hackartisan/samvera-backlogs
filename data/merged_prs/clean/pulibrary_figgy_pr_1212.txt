@@ -1,0 +1,2 @@
+Extends the EphemeraFolder Model, Decorator, and ChangeSet for generating OCR from member Files
+Resolves #1159

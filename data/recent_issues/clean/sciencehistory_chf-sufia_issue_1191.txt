@@ -1,0 +1,2 @@
+Rake task for regenerating derivatives
+You would invoke it like this: cap production invoke:rake TASK=chf:regenerate_derivatives['n01dn01d'] n01dn01d is assumed to be the identifier of a GenericWork. If it isn't, throw a helpful error and exit. The task would iterate over all the filesets associated with the specified GenericWork and invoke the following for each: CHF::CreateDerivativesOnS3Service.new(file_set, file_set.id).call

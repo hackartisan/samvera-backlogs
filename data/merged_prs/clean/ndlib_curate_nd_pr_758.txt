@@ -1,0 +1,2 @@
+Add Use Permissions text
+ Add permission metadata field to add, show, and edit views for document, article, and dataset work types.

@@ -1,0 +1,2 @@
+Add cocoon for nested forms
+Adds Cocoon gem for nested forms. Adjust styling to mimic hydra-editor multivalued fields. Makes all nested resource forms a collection.  This is a departure from the existing nested form implementation. This fixes an issue with deleting a nested resource and improves the UI. The place property on numismatic issue is an example of a nested form where users can only add a single set of values.  This could also be enforced with a validator.

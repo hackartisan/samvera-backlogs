@@ -1,0 +1,9 @@
+Recording Manifests should have download links for an MP3 if one is attached to it
+
+The manifests are addressed in #3107 but there is a UV bug preventing them from showing up in the download link area: 
+There were some changes which were necessary to have the rendering links generated in the download dialogue for the Universal Viewer:   Unfortunately, I'm not finding that the renderings are being iterated through from the `Manifesto` package: 
+It's actually failing to retrieve the Range here, which might render the previous observation irrelevant: 
+Download options are now generated from Manifest, Canvas, and Range `rendering` values: ![image](  I still need to resolve the bugs for the grouping of options and disable the "Entire file" option when `renderings` are found.
+This is now working with  however the Manifests for Recordings with image FileSets (for associated thumbnails) still render a PDF for download:  ![image](  This needs to be removed.
+We need to implement these UV changes in Figgy to close this ticket. 
+The changes needed were merged upstream in  so I can proceed with this.

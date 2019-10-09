@@ -1,0 +1,2 @@
+Hid sets from catalog controller results.
+We may undo this later if we decide that sets should be shown.

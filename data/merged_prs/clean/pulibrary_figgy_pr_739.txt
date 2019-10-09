@@ -1,0 +1,2 @@
+Updating Gemfile to avoid incompatibility with pg 1.0.0
+See samvera/valkyrie#346

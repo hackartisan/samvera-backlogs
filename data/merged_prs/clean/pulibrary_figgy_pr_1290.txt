@@ -1,0 +1,2 @@
+Add intermediate and preservation files to file_set list view
+fixes #1284

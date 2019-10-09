@@ -1,0 +1,3 @@
+Fix VRA and CCO predicates in OD
+vra_ and cco_ predicates in op_ns have not been updated in OD from vra/ and cco/, thus these are showing up in raw statements.
+ Can this be addressed soon?

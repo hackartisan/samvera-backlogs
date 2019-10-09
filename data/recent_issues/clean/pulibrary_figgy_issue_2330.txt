@@ -1,0 +1,2 @@
+OrderManager should correct null thumbnail values
+Either unchecking this should ensure that a Resource does not have a thumbnail, or the checkbox should be disabled

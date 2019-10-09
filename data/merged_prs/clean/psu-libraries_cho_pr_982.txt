@@ -1,0 +1,2 @@
+Report Transaction errors in NewRelic, raise them in development
+Description Rejection can raise and report errors to NewRelic. These behaviors are determined by the current Rails environment:  Test: neither raise an error nor report to New Relic Dev: raise an error, but do not report to New Relic Prod: do not raise an error, but report to New Relic  Connected to #908 Changes  File processing in transactions has been moved to its own operation Rejection has been refactored to accept the actual Error object Removes the master catch block in ChangeSetPersister

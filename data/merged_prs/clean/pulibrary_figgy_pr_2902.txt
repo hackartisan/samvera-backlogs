@@ -1,0 +1,2 @@
+ Adds NumismaticSubject resource
+Adds NumismaticSubject resource Use nested NumismaticSubject in NumismaticIssue Rename nested resources in numismatic decorators to be less confusing Reorganize / alphabetize NumismaticIssue, Coin, NumismaticAccession decorators  Closes #2899

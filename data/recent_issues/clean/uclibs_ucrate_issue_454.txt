@@ -1,0 +1,2 @@
+Fix License field on collection show pages
+Descriptive summary Two problems on the collections show pages (both the dashboard collection show page and the public collection show page):  The license field is titled "Rights" instead of "License" The selected license is displayed as a URL instead of text

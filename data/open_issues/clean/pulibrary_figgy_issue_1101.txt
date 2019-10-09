@@ -1,0 +1,5 @@
+Add icons for different file types that are expected in Filemanager
+PDF, XML, Unknown, GeoTiff?, Vector/Shapefile? Anything else you can think of at the moment 
+Instead of "GeoTiff" or "Shapefile", I would be more general. "Raster" or "Vector", for instance. GeoTIFF and Shapefile are several of many file formats that we might ingest and I don't think we need an icon for all of them.
+ Can you expand on this? Is this so that there's a default icon identifying the type of file in the file manager for types which don't have a thumbnail?
+Yes, this is for any files that would typically not have a thumbnail. If it can have a thumbnail, it would be the default.

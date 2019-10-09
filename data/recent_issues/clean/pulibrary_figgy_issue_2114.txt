@@ -1,0 +1,2 @@
+'Order manager' doesn't work with IE 11 running on windows 10, 8.1, 7. Also with IE 10 on windows 8.
+  reported an issue with the 'Order manager'. I tested it in BrowserStack.

@@ -1,0 +1,2 @@
+Added the subject import and standard input steam Excel ingest templa…
+The purpose of this PR is to add the "subject import" and "standard input stream" Excel templates. The reason we want to move them to damspas is because DOMM and RDCP should be able to share these templates with researchers or anyone inside (or outside) the library, which we cannot do currently because dams-metadata is private. Changes proposed in this pull request:  Adding a directory in the root of the repo (/ingest_templates/), which hold the DAMS4 Excel templates  /developers - please review

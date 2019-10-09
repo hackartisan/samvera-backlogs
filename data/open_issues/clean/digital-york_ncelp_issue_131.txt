@@ -1,0 +1,5 @@
+Stop new works being featured automatically
+Any new upload seems to be added automatically to the featured works. Can we change that, please?
+I can't quite reproduce it, but there is something a little strange. New upload not featured in the box: <img width="1248" alt="Screenshot 2019-04-12 at 12 55 46" src="">  But  _Featured_  looks 'switched on' when you go to the details page <img width="1308" alt="Screenshot 2019-04-12 at 12 55 01" src="">  It's not a big thing, but it's a bit odd.
+This is on Safari. Do you want me to try on Chrome as well?
+No thanks, I've seen it before in Chrome. Might be a Hyrax bug.

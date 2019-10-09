@@ -1,0 +1,2 @@
+[WIP] Set local development environment
+Add congiguraiton steps to README Configure use of solr and fedora wrapper Confugure use of local Posgress DB Run DB shema migration

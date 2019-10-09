@@ -1,0 +1,2 @@
+change contact to mailto and 404 the form page
+fixes #596

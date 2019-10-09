@@ -1,0 +1,2 @@
+Expand more info tooltip to include links starting with http
+Expand more info tooltip to look for links starting with http Could tweak further to better disambiguate between internal (other related items) or external links and provide different messages.

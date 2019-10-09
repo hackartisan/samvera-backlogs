@@ -1,0 +1,2 @@
+Assign primary identifiers based on ark
+If a work does not have an identifier, give it one based on its ark value. Raise an error if it doesn't have an ark to use for this purpose. Connected to #492

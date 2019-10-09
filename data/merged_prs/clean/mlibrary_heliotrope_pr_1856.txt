@@ -1,0 +1,2 @@
+HELIO-1376 COUNTER report stats gathering
+I believe this will gather the stats we need for HELIO-1800, 

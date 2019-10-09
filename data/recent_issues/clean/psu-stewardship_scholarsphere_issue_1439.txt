@@ -1,0 +1,2 @@
+Get timing Numbers on test suite running
+What are the current numbers for how long the test suite runs Run the test suite locally and document the numbers Gather numbers from travis

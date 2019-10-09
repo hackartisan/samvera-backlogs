@@ -1,0 +1,2 @@
+Bookreader Improvements
+Fixes bookreader assets for development, hides useless buttons, fixes two page view, and improves how the document loads images. The second part is the biggest - this generates more derivatives per page in order to select the most appropriate size for their current zoom level. If they need more detail it ships up a bigger file for them to zoom in on.

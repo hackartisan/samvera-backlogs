@@ -1,0 +1,2 @@
+Update geo_works-derivatives to fix issue with geotiff headers
+Updates geo_works-derivatives gem Swaps out grayscale geotiff fixture with color geotiff.  Closes #1185

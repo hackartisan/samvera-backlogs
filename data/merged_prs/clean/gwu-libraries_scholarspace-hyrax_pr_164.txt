@@ -1,0 +1,1 @@
+Fixes #163 as well as bug with rights field ingest

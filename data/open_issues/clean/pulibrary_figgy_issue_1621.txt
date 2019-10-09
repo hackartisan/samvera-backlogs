@@ -1,0 +1,12 @@
+Ingest "Prosody (M. Martin)" (pudl0122 (dh))
+Note: No MODS/METS but could proabably be batch-ingested. Files:  Ingest: 2476633.mets 2507476.mets 2990729.mets
+
+There's totally structure in these, may have to look again and see if there's a METS file.
+ Can you look at this?
+These were done for a DH project but never added to pudl. As far as I know they could be ingested by the studios just like a new project. I suspect/assume that the images are already organized by bibid.
+ Even though these appear to have METS?
+Only a few do. I think we stopped making them when we realized they weren't going into PUDL
+ Okay. Three have METS. There's a total of seven on the Isilon. Are you saying we should disregard the structure for those three and just ingest these as if they're new items?
+Interesting...it looks like the structure the's there is just enough to make them renderable as MVWs in the PUDL. If that structure is useful, I can compile these, otherwise I don't think there's anything there to carry forward. Let me know.
+ I think it'd be nice to compile those. The structure looks pretty good to me on the first one.
+I've ingested the three METS files which were able to be generated. There are four more folders in the `pudl0122` directory, but some have structure I don't know how to deal with. IE, `2502701` has sub-folders `18th_318` and `18th_320` which each have volume subfolders underneath them. Pinged  on slack to ask.

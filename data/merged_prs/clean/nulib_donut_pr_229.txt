@@ -1,0 +1,2 @@
+Make creator and contributor properties controlled vocabularies
+Make creator and contributor properties controlled vocabularies Remove Importer::Factory::StringLiteralProcessor Use URIs instead of strings in contributor and creator fields in sample.csv

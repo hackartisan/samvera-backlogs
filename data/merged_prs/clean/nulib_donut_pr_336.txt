@@ -1,0 +1,1 @@
+Add elasticproxy to docker stack

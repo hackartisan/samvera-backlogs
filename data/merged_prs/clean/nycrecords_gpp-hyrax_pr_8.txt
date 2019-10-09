@@ -1,0 +1,2 @@
+Feature/GPP-261: Create Publication Deposit Workflow (Issues Fix)
+This PR implements email notifications on top of #5. Used documentation  as a reference. The following environment variables must be set in order for emails to work: SMTP_ADDRESS, SMTP_PORT, and ACTION_MAILER_HOST.

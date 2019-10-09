@@ -1,0 +1,2 @@
+Fetch FAST labels from the correct URL
+fixes nulib/next-generation-repository#944

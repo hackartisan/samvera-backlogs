@@ -1,0 +1,2 @@
+Update Buttons, Button Groups to Follow Primary, Secondary Design Pattern
+Search or Browse Button Background Color: # ebc100 Text Color: #333333 Primary Background Color: #2c76c7 Text Color: #ffffff Secondary Background Color: #ffffff Text Color: #757575 Border Color: #757575 Tertiary Text Color: #757575  Related to #960

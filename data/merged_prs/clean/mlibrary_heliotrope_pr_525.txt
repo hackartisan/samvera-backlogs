@@ -1,0 +1,2 @@
+modify permalink structure for jekyll blog posts 
+bug fix! do not use extensionless permalinks for blog posts so that  becomes  when generating the jekyll site

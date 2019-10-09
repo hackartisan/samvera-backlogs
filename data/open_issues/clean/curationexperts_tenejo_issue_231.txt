@@ -1,0 +1,3 @@
+Error when resetting password on Tenejo
+This error is occuring when attempting to reset your password on tenjo.curationexperts.com: ActionView::Template::Error: Missing host to link to! Please provide the :host parameter, set default_url_options[:host], or set :only_path to true     You should be able to reset your password
+This is happening because there isn't an email server.

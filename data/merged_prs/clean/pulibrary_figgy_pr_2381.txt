@@ -1,0 +1,2 @@
+RightsStatements helper to avoid URIs in code
+Closes #709

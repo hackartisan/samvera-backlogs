@@ -1,0 +1,2 @@
+updates to monograph metadata/edit UI
+Closes #253  Adds multi value ISBN fields to monograph to capture different format ISBNs alters labels for primary creator, contributor, press removes source and publisher field

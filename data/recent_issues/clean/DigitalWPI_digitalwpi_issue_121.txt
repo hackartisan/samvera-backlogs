@@ -1,0 +1,2 @@
+cap deploy:with_solr
+add a task in cap that copies over the solr/config/solrconfig.xml and solr/config/schema.xml files to the related data server.

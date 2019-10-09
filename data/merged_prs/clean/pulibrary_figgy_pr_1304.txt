@@ -1,0 +1,2 @@
+Bulk ingest
+Adds bulk ingest controller and views Modifies file appender so attached external metadata XML files don't get set as thumbnail  Closes #1273

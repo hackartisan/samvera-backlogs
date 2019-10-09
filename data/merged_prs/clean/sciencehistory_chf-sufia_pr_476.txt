@@ -1,0 +1,2 @@
+display okay even if no rights statement
+just skip display of large rights statement Closes #474

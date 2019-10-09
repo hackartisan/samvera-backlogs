@@ -1,0 +1,2 @@
+JS date scripts not validating 
+The ETDF scripts needed for date validation are not loading reliably in prod or test.

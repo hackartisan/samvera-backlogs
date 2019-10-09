@@ -1,0 +1,1 @@
+Added a spec to make sure student can't directly edit fields they shouldn't. Story #1370

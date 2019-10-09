@@ -1,0 +1,2 @@
+simple redirection for FileSets
+Resolves #1080

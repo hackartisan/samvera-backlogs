@@ -1,0 +1,2 @@
+Fixes - #270 Implemented mapping from DAMS4 to SHARE V2 API and updat…
+Fixes #270 Local Checklist   Tests written and passing locally?  Code style checked?  QA-ed locally?  Rebased with master branch?  Configuration updated (if needed)?  Documentation updated (if needed)?  What does this PR do?  Added support for mapping from DAMS4 to SHARE Version 2 schema. Updated push function due to SHARE Version 2 API changes. Refactored old SHARE mapping code to conform to Rubocop suggested expression, syntax and formatting.  /developers - please review

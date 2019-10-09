@@ -1,0 +1,2 @@
+DLTP-264 Classify works by college and department
+Adding department yml Creating ruby plain object to parse departments and methods to access them Spec for department Adding more spec and refactoring department Refactoring departments and spec as per design suggestion Moving department class and intializer to curate. This is only sample list and we will add more once I have all departments

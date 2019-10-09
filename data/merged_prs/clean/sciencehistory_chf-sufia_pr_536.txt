@@ -1,0 +1,2 @@
+synthentic category descriptions
+Closes #523 closes #522 closes #521 closes #520 closes #519 closes #518

@@ -1,0 +1,3 @@
+Minting CHO Identifiers
+Instead of using valkyrie resource ids CHO should mint opaque identifiers that are more human-friendly (shorter) and keep the valkyrie id completely behind the scenes. Can ARKs be repurposed here? Related: #22, #133
+Might be addressed with #64 and #22. 

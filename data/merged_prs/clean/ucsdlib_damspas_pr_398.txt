@@ -1,0 +1,2 @@
+Downgrade Ruby version to 2.3 series
+At the moment, we have our version of Rails pinned to the 4.2.7.x version, which doesn't support Ruby 2.4. To fix this in the least impactful way, we'll downgrade the version of Ruby to the latest in the 2.3 series. Going forward we could consider updating the Rails stack to 4.2.8+ which is the first to support Rails 2.4 /developers - please review

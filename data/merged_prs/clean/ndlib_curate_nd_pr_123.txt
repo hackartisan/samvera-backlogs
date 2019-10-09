@@ -1,0 +1,2 @@
+Updating show views to render formatted text as HTML
+Resolves DLTP-186 Brings CurateND-specific views up to date with ndlib/curate@b75a3e4.

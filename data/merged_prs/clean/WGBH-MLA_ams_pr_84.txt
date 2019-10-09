@@ -1,0 +1,2 @@
+small fixes
+fixes issues for console in production and add new locale for collections for 2.1.0

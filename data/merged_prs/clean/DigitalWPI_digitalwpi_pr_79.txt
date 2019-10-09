@@ -1,0 +1,2 @@
+Added geonames username
+Resolves #63

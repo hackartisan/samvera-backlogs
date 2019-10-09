@@ -1,0 +1,1 @@
+symlink hyrax initializer on server

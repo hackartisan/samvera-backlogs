@@ -1,0 +1,2 @@
+Presenter permission badge
+ this could maybe use a test for the new MemberPresenterFactory class, and a check for the missing badge in a feature spec - ?

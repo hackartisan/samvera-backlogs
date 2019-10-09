@@ -1,0 +1,2 @@
+Add legacy_identifier and abstract to importer
+Connected to curationexperts/in-house#214

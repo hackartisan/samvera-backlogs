@@ -1,0 +1,1 @@
+solr reindex intermittent spec is back

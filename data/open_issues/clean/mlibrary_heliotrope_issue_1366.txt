@@ -1,0 +1,2 @@
+Add a "Suggested Citation" for assets
+In addition to the permalink/citable link, as a user, I would like to know how best to cite an asset.   on the asset page, create a suggested citation section that contains the title, creator, book that the item is related to/its author, and permalink.  consult librarians for the best way to format the suggested citation.

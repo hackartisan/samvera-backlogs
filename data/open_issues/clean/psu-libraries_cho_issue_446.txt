@@ -1,0 +1,2 @@
+Add Work to Collection from Collection Landing Page
+Offer option to upload a work to a collection (non-curated) from the collection landing page. Need to offer options for work types. Would only be visible to users with specific roles, like admin.

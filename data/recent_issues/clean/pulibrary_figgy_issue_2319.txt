@@ -1,0 +1,2 @@
+Pasting a download link into an incognito window should deny_resource_access, not 500
+[Figgy/staging] NoMethodError: undefined method `token' for Ability::NilToken:Class Backtrace line 264 of [PROJECT_ROOT]/app/models/ability.rb: token_readable? line 235 of [PROJECT_ROOT]/app/models/ability.rb: block in proxy_parent_readable? line 235 of [PROJECT_ROOT]/app/models/ability.rb: map  View full backtrace and more info at honeybadger.io

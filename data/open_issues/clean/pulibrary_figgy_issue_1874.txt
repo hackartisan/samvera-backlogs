@@ -1,0 +1,2 @@
+enable optimistic locking
+there's a branch we can hopefully rebase and use: #1646

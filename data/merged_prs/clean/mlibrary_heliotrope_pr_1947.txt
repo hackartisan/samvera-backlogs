@@ -1,0 +1,2 @@
+mobile Safari offers to call ISBNs
+Resolves #HELIO-2028

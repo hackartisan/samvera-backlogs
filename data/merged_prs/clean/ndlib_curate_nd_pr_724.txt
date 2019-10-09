@@ -1,0 +1,2 @@
+Fix README testing instructions
+Fix README testing instructions e505594  Default rake task broke when we removed the travis task:  Changed rake to run ci instead, which expects dependencies to be started separately Added additional instructions to testing. Now describes how to start the test dependencies both with and without docker, similar to other sections Removed the prompt $ in the console examples. Was just getting in the way of copy/paste.

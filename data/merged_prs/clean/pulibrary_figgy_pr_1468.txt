@@ -1,0 +1,2 @@
+Change append_id to remove from old parent if there was one
+resolves #1456

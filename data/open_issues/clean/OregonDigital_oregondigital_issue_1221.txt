@@ -1,0 +1,2 @@
+primarySet link on show pages not working
+eg  because primarySet isn't indexed with label_sim this works though: 

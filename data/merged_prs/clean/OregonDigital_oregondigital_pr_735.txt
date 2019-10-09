@@ -1,0 +1,2 @@
+Add sorting by title.
+This is going to require reindexing everything. Closes #421 Do we want sorting by added/modified?

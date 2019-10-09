@@ -1,0 +1,2 @@
+Repair slide formatting
+Fixes #1177 Quick repair to slideshow

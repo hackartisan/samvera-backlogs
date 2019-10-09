@@ -1,0 +1,2 @@
+Investigation: solution to ordering relations
+ActiveTriples::Relation gives no guarantee of order on multi-valued fields. We have some fields where this won't be acceptable long-term, such as section_title and display_date. The splitting of creator and contributor fields was mostly done because of this problem too. So add authors and editors to the mix, naturally. Links:      decide on a solution to this relation-ordering problem (or decide to wait for the community to solve it!)

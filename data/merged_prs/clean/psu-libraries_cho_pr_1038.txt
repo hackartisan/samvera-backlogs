@@ -1,0 +1,2 @@
+Override Valkyrie::Persistence::Shared::JSONValueMapper::DateValue
+Description Allows iso8601 dates that do not have time stamps, such as 1956-12-31, to be returned as strings and not DateTime objects. This allow for EDTF date-style processing at other points in the application. Connected to #1035

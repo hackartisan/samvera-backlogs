@@ -1,0 +1,2 @@
+Create config files for environment variables on scholar-qa, production, curly
+Descriptive summary Depends on #491 Our replacement solution for Bamboo variables requires us to create a .env.development.local file or .env.production.local file to store the values of the application's variables on the server. The .env.development.local file for scholar-dev.uc.edu already exists. We should commit these files to a private repo on git.uc.edu for safe keeping.

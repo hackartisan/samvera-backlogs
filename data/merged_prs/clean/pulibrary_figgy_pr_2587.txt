@@ -1,0 +1,2 @@
+Extends the GraphQL Types::Resource in order to ensure that invalid IIIF manifest URLs are handled
+Resolved #2374

@@ -1,0 +1,2 @@
+Replacing YAML config with class constant
+The purpose of the YAML config was to allow other applications that mounted the Curate gem to configure their document types. Given that we have severed the relationship with the Curate gem, we no longer need a YAML configuration, additional initializer, and a fetch sequence. Prefer instead the constant.

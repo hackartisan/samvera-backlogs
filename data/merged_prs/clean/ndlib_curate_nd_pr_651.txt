@@ -1,0 +1,2 @@
+Remove word 'Show' from show page title
+"Show Page" is web dev jargon, and does not mean anything to our patrons.

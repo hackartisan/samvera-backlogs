@@ -1,0 +1,2 @@
+[Figgy/production] NoMethodError: undefined method `to_unsafe_h' for nil:NilClass
+Backtrace line 131 of [PROJECT_ROOT]/app/controllers/bulk_ingest_controller.rb: selected_files_param line 135 of [PROJECT_ROOT]/app/controllers/bulk_ingest_controller.rb: selected_cloud_files? line 27 of [PROJECT_ROOT]/app/controllers/bulk_ingest_controller.rb: browse_everything_files  View full backtrace and more info at honeybadger.io

@@ -1,0 +1,1 @@
+Set rows to 20 for children display; Closes #127

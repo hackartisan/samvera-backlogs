@@ -1,0 +1,1 @@
+Additional mime type thumbnails; Closes #406

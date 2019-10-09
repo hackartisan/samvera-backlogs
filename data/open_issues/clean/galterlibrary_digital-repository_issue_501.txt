@@ -1,0 +1,2 @@
+Look into botnet attack prevention if it ever happens again
+Cloudflare looks really good, but the upload size is limited to 200MB for the mid-tier plan, so I'm not sure it'll do: 

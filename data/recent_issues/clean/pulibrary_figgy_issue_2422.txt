@@ -1,0 +1,2 @@
+Order manager: shrinking the resources doesn't work well when there are no thumbnails
+ took a screenshot

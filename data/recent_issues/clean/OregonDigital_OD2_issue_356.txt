@@ -1,0 +1,2 @@
+[Wait] Add :original_filename property
+Descriptive summary Add :original_filename as a property with premis:originalName as the predicate:  For now use the full predicate in the definition, not RDF::Vocab::PREMIS. That actually references PREMIS v1, we want v3. The rest of the info on the MAP is updated. In OD1 the predicate used was  but this was never defined as a property. Expected behavior Original Filename is viewable/editable on the edit form. Don't include on show page. Don't have searchable from main search box. Related work #347

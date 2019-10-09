@@ -1,0 +1,2 @@
+remove config/role_map.yml
+I think this file is not actually used by our app, and can be deleted. Not totally sure, but as a start we'll see if tests still pass. Deleting dead code makes the project cleaner and more comprehensible, without false leads when trying to figure out what's going on.

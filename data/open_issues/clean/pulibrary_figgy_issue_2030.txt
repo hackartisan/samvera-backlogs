@@ -1,0 +1,2 @@
+Invalid link to download 1000-pixel JPEGs of very wide images
+Some very wide images (e.g., scrolls like  are generating 1000-pixel download images that include figgy_prod/figgy_prod/ when there should only be one figgy_prod.  The duplication does not appear in the manifest, so this may be in the UV code that builds the link.

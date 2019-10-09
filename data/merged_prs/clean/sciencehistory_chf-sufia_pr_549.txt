@@ -1,0 +1,2 @@
+Fix double-escaping of facet search links
+fixes #544 With override of curationconcerns class. :(

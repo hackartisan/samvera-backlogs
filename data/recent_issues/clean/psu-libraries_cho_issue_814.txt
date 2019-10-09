@@ -1,0 +1,2 @@
+Electron App to Create and Validate SIPs
+I've written Powershell scripts that will take output from our digital production team and create SIPs for CONTENTdm and am working on one for CHO. Presently there is no validation. Electron would be a nice way to put a GUI on the same type of logic, introduce validation, and perhaps even handle the transfer to ingest staging.

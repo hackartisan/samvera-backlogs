@@ -1,0 +1,2 @@
+NOID minter error after ticket 575
+Relates to work done in #575: Trying to create new works in curate 0.4.8 and curate-test 0.4.8 produces this error:

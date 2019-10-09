@@ -1,0 +1,2 @@
+Items in Library Notes collection not full-text indexed
+Many of the items deposited as part of the Library Notes collection ( appear to not be full-text indexed. A user reported searching for the article "Fantastic Find in the Lower Level" and was unable to find it, despite its availability in DigitalHub here -  Content from other deposits in this collection also appears to not be searchable, which makes the usefulness of this collection greatly diminished.

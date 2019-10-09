@@ -1,0 +1,2 @@
+PAIRING: Sort results by Title
+STORY As a researcher, I want to be able to sort search results by Title DETAILS ACCEPTANCE   The search results page has a sort by Title option (ascending & descending)  Child of #189

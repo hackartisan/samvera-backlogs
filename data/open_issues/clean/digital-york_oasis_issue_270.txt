@@ -1,0 +1,3 @@
+Change 'Topic' to 'Area of Research'
+  Is it possible to change the facet name from Topic to Area of research on OASIS? We would like to make it more consistent with the language on the Resource Portal.
+ As this was indicated to be quite easy, please do this.

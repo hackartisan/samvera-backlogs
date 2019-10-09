@@ -1,0 +1,2 @@
+update date modified format in admin workflows index view
+fixes #1497

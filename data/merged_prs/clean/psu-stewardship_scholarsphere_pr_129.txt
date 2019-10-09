@@ -1,0 +1,2 @@
+Fixes missing help option for collection creator
+Puts  work back in so that the creator helper works again in collections.

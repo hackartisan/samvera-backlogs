@@ -1,0 +1,2 @@
+Add call number to index, search fields
+resolves #1403

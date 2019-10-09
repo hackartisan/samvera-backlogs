@@ -1,0 +1,2 @@
+Securing servers with Traps
+Palo Alto Traps, is our antivirus / anti-malware / anti-exploit solution. Run the script that Eric gave in all our servers.

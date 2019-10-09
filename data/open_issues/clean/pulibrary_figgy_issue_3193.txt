@@ -1,0 +1,5 @@
+Audit Log: Figgy should log NetIDs when making changes
+We've recently noticed records without depositor populated, and seen edits where we wondered who made them. Some ideas for possible ways to address this:  Always set depositor when creating records, resorting to the first admin user if none is supplied on the command line (but when there is a logged-in user, we should always have it) Add a last modified by field and update any time a change is made Add an event with a depositor field any time a change is made
+I'm not sure "first admin user" is really informative; assuming that's an actual person they may not really have anything to do with a given deposit. Could we have some kind of "system" user or something?
+I'd be fine with creating a system user of some kind as a last resort in cases where we are loading records on the command-line.
+We'd like to store the changes that were made by a ChangeSet, if possible. However, doing so will probably require Valkyrie to add support for `Hash`.

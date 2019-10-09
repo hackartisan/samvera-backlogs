@@ -1,0 +1,2 @@
+Define resource and change set property types for fields
+Description Adds methods to DataDictionary::Field to return the specific Valkyrie::Type for a given field when it is assigned to either a resource or a change set. Connected to #443 Changes  adds change_set_property_type and resource_property_type methods to DataDictionary::Field fixes a latent bug in CsvDryRun where the change sets were returning singular values instead of multiple ones

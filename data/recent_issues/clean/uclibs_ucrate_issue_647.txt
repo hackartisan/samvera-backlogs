@@ -1,0 +1,2 @@
+New users are not being assigned Shibboleth attributes
+Descriptive summary When new users are logging into scholar.uc.edu for the first time, only their first and last names are being added to their profiles.  The rest of their Shibboleth attributes are missing (title, telephone, affiliation, department). Also, new users are receiving an email address of  instead of  I've figured out the problem and am implementing a fix now.

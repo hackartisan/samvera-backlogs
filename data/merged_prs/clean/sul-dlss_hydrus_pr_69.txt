@@ -1,0 +1,2 @@
+Rails4
+Fixes #58 Fixes #59 Fixes #26

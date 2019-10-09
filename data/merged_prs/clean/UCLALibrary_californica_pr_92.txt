@@ -1,0 +1,2 @@
+Bump Hyrax version to 2.2.2
+Fixes some XSS security issues in Hyrax.

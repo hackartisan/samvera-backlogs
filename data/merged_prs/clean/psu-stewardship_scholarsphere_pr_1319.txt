@@ -1,0 +1,2 @@
+APPINT-2371: Removed obsolete passenger code from scholarsphere codebase
+This PR removes obsolete passenger code from the config/deploy.rb.  has reconfigured how passenger gets installed and configured on the servers. The new method does not require specific configuration of a particular ruby version and instead uses the system ruby for passenger related functions. This change has made the related section of the deploy.rb obsolete, so this code has been removed. This change has been tested on qa and stage.

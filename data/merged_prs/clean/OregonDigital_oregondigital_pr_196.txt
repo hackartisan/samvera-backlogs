@@ -1,0 +1,2 @@
+Feature/refactor ingest spec
+Closes #135

@@ -1,0 +1,2 @@
+Change fedora dev port config to 8080
+Since we're using the ansible roles to provision our VM dev box, we have tomcat running at 8080 already (like we would in production). This change would also mirror the Solr config, which uses the same port for production and development, 8983. I'm going to ask for reviews from all the UCLA devs though to make sure this change doesn't break any of their stuff. We could also just set the FCREPO_DEVELOPMENT_PORT environmental variable on the VM if this proposal throws a wrench in someone else's dev environment.

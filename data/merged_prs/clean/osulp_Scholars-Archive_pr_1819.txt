@@ -1,0 +1,2 @@
+Fix migrate ordered creators cleanup task
+related to #1796  fixes sort bug in MigrateOrderedMetadataService adds force_dspace_order_metadata_for_members to cleanup creators in child members as well

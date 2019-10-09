@@ -1,0 +1,2 @@
+Use EncodingService in FileSetIndexer
+This commit changes the FileSetIndexer to use the EncodingService. This will ensure that whatever has been stored in 'all_text_timv' is converted to UTF-8. force_encoding will only treat the strings stored there as if they were UTF-8.

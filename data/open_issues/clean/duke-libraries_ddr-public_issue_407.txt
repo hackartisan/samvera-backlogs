@@ -1,0 +1,3 @@
+In search results show an item's component file types
+This came up in our meeting with DVS. They showed an example of results on data.gov that display colored pills with file extensions on items. I think something like this might be useful in search results to show what an item contains.
+Neat.  Might that be available via a collection-level configuration option?  It seems like it might be useful in other data collections.  It may be useful, too, as we begin formation migrations. 

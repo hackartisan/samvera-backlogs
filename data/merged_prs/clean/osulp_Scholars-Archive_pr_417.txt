@@ -1,0 +1,2 @@
+sets RAILS_ENV when executing rake tasks
+fixes #414

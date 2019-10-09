@@ -1,0 +1,2 @@
+There were bugs causing Resque to not fire.
+Fixed by  and related by .

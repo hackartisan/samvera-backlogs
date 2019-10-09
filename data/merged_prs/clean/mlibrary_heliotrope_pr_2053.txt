@@ -1,0 +1,2 @@
+HELIO-1482: batch creation workflow
+Resolves HELIO-1482

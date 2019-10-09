@@ -1,0 +1,2 @@
+Make sure all todo comments are ticketed
+We put in @todo comments for issues that need addressing later, but not all of them have tickets in Github. Done looks like: greping through the code, finding all the lines with @todo and making there there's a ticket, if needed, or removing the todo.

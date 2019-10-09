@@ -1,0 +1,2 @@
+update active-fedora to 11.5.4, and update all AF dependencies
+Perf improvement and bug fix in 11.5.4:  

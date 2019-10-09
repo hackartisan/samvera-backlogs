@@ -1,0 +1,2 @@
+Do not truncate the ARK in import logs
+Upgrade Darlingtonia to 3.2.2, which fixes a bug where it was assuming that the deduplication field would always be a multi-valued field. Because we are using ARK as our deduplication field, and it is not multi-valued, this was causing arks to be truncated in our import logs. Connected to #537

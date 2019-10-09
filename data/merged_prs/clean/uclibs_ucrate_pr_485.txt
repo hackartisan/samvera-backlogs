@@ -1,0 +1,2 @@
+Adds contextual help for proxy management.
+Add contextual help for proxy management and a test to confirm display.

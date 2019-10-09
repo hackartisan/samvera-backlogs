@@ -1,0 +1,2 @@
+DLTP-792 change chatty WARNING to DEBUG
+#589

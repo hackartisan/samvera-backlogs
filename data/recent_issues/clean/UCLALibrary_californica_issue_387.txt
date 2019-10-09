@@ -1,0 +1,2 @@
+Display items on Collection page
+Follow Hyrax implementation as a first pass at this We will iterate on the design once we have this starting point

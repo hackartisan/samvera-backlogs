@@ -1,0 +1,2 @@
+Improve GeoServer delete message behavior
+Better handles conditions where a vector file set's parent resource no longer exists or when the member files are missing. Sends two messages to GeoServer on every delete. One for the public workspace and one for the restricted workspace. This will help to reduce manual cleanup on GeoServer because of anomalous events in Figgy.  Tested this in staging, and was able to delete Vector Resources without error as well as a FileSet that had become separated from it's parent. Closes #1669

@@ -1,0 +1,2 @@
+Collection Facet Not Updated When Collection Title Is Changed
+When editing an existing collection title, the collection facet is not updated with the new title. The new title is indexed however because it can be searched.

@@ -1,0 +1,2 @@
+CSVManifestValidator - Validate data is present in required fields.
+This PR requires Item Ark, Object Type, and Title for all records (somewhat expanded scope since it was easy). Considered validating different fields for Work vs Collection, but decided that the Work-specific fields shouldn't block import if one row is missing them.  will raise a warning on other missing fields. connected to #527

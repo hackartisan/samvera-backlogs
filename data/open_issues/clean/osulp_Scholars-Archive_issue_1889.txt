@@ -1,0 +1,2 @@
+Exclude thumbnail files from Google Analytics tracking via Downloads Controller
+Descriptive summary At least some calls to display thumbnails pass them through the Downloads controller, which triggers our Google Analytics event with the staccato tracker. These don't need to be tracked this way.  Expected behavior Thumbnails are not tracked separately in Google Analytics. Actual behavior Thumbnails are tracked separately in Google Analytics.

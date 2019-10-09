@@ -1,0 +1,1 @@
+Upgrade rack-protection to address CVE-2018-7212

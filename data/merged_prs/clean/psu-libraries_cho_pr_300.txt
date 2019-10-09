@@ -1,0 +1,2 @@
+Adding controlled vocabulary factory and hooking it into the MAP
+Followed the pattern from the Display Transformation. If we like this pattern still I think I should also refactor the Validation to use it and possibly extract a generic Factory (As a next step). Also do we like the separate folders or should this all be under MAP?

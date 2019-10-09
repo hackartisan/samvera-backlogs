@@ -1,0 +1,2 @@
+Provide error logging when files cannot be successfully attached by importer
+When files have errors (corrupt, virus, etc.) that prevent them from being attached, ensure that the importer logs the issue for example see the following works   

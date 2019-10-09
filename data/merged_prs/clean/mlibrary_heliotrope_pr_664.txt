@@ -1,0 +1,1 @@
+Resolves #648, Resolves #649: change "chapter" to "section"

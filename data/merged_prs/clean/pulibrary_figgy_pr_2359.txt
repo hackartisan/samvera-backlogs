@@ -1,0 +1,2 @@
+Add & Apply ESLint to Vue.js Files
+This currently ignores our basic JS/ES6 files, but take care of all the Vue stuff which is actually hooked to webpacker. Closes #2332

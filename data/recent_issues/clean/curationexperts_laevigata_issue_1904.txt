@@ -1,0 +1,2 @@
+Release Lavegata
+Determine whether to include security fixes  Release prior to 6/20  We are not going to try to address the omniauth security issue in this release. See discussion at 

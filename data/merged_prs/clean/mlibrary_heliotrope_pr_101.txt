@@ -1,0 +1,1 @@
+Update curation_concerns to keep sections out of the files. Fixes #84

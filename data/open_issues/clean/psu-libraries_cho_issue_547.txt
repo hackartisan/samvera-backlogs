@@ -1,0 +1,2 @@
+Remove deprecated Blacklight code
+Running the test suite shows several deprecated methods including:  Blacklight::DefaultComponentConfiguration add_nav_action add_results_collection_tool add_show_tools_partial  These should be removed.

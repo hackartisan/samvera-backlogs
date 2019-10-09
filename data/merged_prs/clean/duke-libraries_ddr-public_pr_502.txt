@@ -1,0 +1,2 @@
+Prompt user to login if portal page has no documents
+This fixes the issue we see mostly on pre where a person goes to a restricted collection landing page (to preview it) and gets an error if they are not authenticated. Now they will be prompted to login and directed to the page if they're able to view it.

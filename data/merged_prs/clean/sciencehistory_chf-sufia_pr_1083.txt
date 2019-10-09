@@ -1,0 +1,2 @@
+Adjustments to the GDPR cookie accept banner
+Changing accept button colors (basic color is brand red and hover color is brand blue) Increasing height of accept button adding event.prevent default to cookie accept js function setting bottom nav color to white (might later set it to off-white.)

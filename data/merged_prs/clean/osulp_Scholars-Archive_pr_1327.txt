@@ -1,0 +1,2 @@
+updated add_other_field_option_actor to persist other options properly
+Updates the actor to persist other options values when available

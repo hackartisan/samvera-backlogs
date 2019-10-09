@@ -1,0 +1,2 @@
+Delete Old UMGs
+Once the new UMG is put into production, we can delete the scholarsphere-admin and scholarsphere-admin-viewers groups #1477

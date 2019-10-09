@@ -1,0 +1,2 @@
+Wrong Timestamp on Review Submissions Tab
+ISSUE   This can be an issue if an ETD is submitted close to midnight, where a reviewer may see an incorrect submission date on the Review Submissions tab. The correct date shows up elsewhere in the app. My uninformed guess is this date is based on UTC rather than EST time.  ACCEPTANCE   Ensure that submission dates are displayed in relation to EST time on the "Review Submission" tab of the application.

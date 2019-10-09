@@ -1,0 +1,1 @@
+Add progress bar to reindexer.

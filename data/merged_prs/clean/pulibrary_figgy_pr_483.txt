@@ -1,0 +1,2 @@
+Implements a `DeleteMembers` handler for removing Multi-Volume Works in the `PlumChangeSetPersister`
+Resolves #470

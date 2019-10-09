@@ -1,0 +1,2 @@
+pass user id to remove user. fixes #553
+not sure why, but it was previously passing the username instead.

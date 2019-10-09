@@ -1,0 +1,1 @@
+I should be able to restore a fileset from cloud preservation using its tombstone

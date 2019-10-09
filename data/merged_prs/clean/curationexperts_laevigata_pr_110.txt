@@ -1,0 +1,2 @@
+waffle.io Badge
+Merge this to receive a badge indicating the number of issues in the ready column on your waffle.io board at  This was requested by a real person (user bess) on waffle.io, we're not trying to spam you.

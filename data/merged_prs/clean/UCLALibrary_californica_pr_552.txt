@@ -1,0 +1,2 @@
+Use File Name in CSV headers instead of masterImageName
+Connected to #533

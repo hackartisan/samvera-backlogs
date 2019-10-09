@@ -1,0 +1,1 @@
+put solr/fcrepo PIDs where they belong

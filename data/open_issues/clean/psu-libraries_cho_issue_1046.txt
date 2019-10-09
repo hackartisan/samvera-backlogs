@@ -1,0 +1,2 @@
+Bookmarks, Search History, and Records Management
+Are we complying with policy UL-AD14 by storing user data like bookmarks and search history? Meet with Records Management to discuss the policy and how it applies to CHO. Originally part of #917

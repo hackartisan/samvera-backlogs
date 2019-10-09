@@ -1,0 +1,2 @@
+Authorized Link points to viewer
+Closes #2200

@@ -1,0 +1,3 @@
+Missing selected facet at the top of the facet list on My Works page
+If I have selected a facet from the "More" modal, I do not see the selected facet at the top of the list after the modal is closed, or even refreshed the page.
+ I can not reproduce the issue.  Can you try to repeat it on stage?  I want to know if we introduced this issue or if it was existing  I suspect it only occurs if the selected key is still in the more tab after selecting it.

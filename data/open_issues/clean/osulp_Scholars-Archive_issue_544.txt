@@ -1,0 +1,3 @@
+Enhance JavaScript for QA for a better user experience.
+Like maybe adding an in progress spinner that lets you know its searching. Also an error or alert suggesting it didnt or it didnt find anything.
+We should write some modular JS that adds/extends this functionality to the fields that get the `autocomplete` functionality. It would make it somewhat easier to create a PR for this to the community (rather than overriding the existing autocomplete JS)

@@ -1,0 +1,2 @@
+Cannot create a new collection
+It gives a blank page after clicking 'New collection'

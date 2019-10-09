@@ -1,0 +1,2 @@
+New features for application roles
+We need to have new features that can be granted to users with specific application roles.  edit OAI [#159] and other serialization and syndication settings [#99] run reports [#170, #171, #173, #174, #175, #176, #177] export objects and metadata via bag [#441, #442]  ensure the user cannot export metadata for works, file sets, or collections that they do not have access to (see #1018) ensure that collection manages and other admins can export metadata for all works, file sets and collections (see #1018)

@@ -1,0 +1,4 @@
+Clicking on 'other' does not open up text field
+Clicking the other option does not open up a text field for me for  Language being learnt Pedagogical focus Material for teachers
+It looks like a browser compatibility issue. Cannot reproduce the problem in Chrome 72.0.3626.121 and Firefox 65.0.2 (64-bit) on Windows PC.
+ Yes, I used Safari (Version 12.0 (14606.1.36.1.9)). Similar to the issue with OASIS.

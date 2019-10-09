@@ -1,0 +1,2 @@
+Update sprockets-rails
+This is in response to critical security issue CVE-2018-3760. Backports #1132.

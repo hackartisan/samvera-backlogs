@@ -1,0 +1,2 @@
+Work Show Page: Add 'Add to My Shelf' button
+Descriptive summary Add new "Add to My Shelf" button to top right of work show page. Wireframe mockup:  (Information compiled by POSM group from updated wireframes) Expected behavior 'Add to My Shelf' button in the top right of work show page makes it easy for users to to add works they view.

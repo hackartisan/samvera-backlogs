@@ -1,0 +1,1 @@
+Ensure collection form validates collection properties 

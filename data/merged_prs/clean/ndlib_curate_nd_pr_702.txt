@@ -1,0 +1,2 @@
+Search for items by group
+DLTP-1358: Search for items by group ff72c66  Added a facet for the groups that are available within the resultant set. Added a helper method to curate_helper to map group ids to the more user friendly group names Changed the "View All Content/My Content" from a form with radio buttons to links so that I could reconstruct the "All works" link to exclude any group filters Added seed data for two different groups for testing Updated README to instruct how to create the docker image with seed data pre-loaded

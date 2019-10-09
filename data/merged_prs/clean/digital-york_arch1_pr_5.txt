@@ -1,0 +1,2 @@
+New rake task for register 12 entries, various changes to models, some new elements, edits to index,form and entry.js to support changes
+I've documented all the changes here  everything is working AFAIK

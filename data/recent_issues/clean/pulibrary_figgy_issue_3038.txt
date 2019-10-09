@@ -1,0 +1,2 @@
+Research UV transcript support
+Decide how to include transcripts  Format: HTML, PDF, plaintext Encoding: UV has an example manifest:  (

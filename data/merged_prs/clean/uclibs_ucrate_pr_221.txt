@@ -1,0 +1,2 @@
+Generate Scholar work types.
+Fixes #218 Present short summary (50 characters or less) All of the works types are generated from Scholar@UC and test are passing.

@@ -1,0 +1,2 @@
+Draft SFTP upload documentation
+ACCEPTANCE   Provide documentation in a publicly accessible location that:   Describes the requirements to upload files to tenejo via SFTP  Describes process to upload files to tenejo to SFTP    NOTE:  For current purposes, it's OK to say something like "contact your Tenejo liaison for your SFTP account and password."  (by which we mean we can look them up in the in-house wiki

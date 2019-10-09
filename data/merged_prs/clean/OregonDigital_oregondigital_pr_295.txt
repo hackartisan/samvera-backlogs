@@ -1,0 +1,2 @@
+adding institution attribute to GenericCollection for future convenience
+This is probably worth a moment of discussion.  This attribute could go into GenericAsset, and putting it in the subclass sets a precedent that attributes can be extended. So this is proposed.  Looking for a +1.

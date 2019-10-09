@@ -1,0 +1,2 @@
+application version file
+Descriptive summary Including a version file for the application would assist in our deployment process, discussion/troubleshooting, and give us the ability to surface this information in a meaningful way to the end user. Expected behavior Include a VERSION file in the repository that is managed during milestone releases. Expectations:   the file must be a single line of text  the version text must only include a-z,0-9, low dash (_), dash (-), and period (.)  Example: MS1-0.10.1

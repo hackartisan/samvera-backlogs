@@ -1,0 +1,2 @@
+Feature/multi jp2 presentation
+Closes #493

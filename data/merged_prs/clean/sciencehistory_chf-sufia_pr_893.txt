@@ -1,0 +1,2 @@
+enforce access-hiding on show page, without trigger solr n+1
+previous version was doing a solr request for every single member, to get it's access control info :(

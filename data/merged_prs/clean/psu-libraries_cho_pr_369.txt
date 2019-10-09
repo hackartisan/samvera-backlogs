@@ -1,0 +1,2 @@
+Adding a validate and save that can function around a change set
+ here is an idea for encapsulating our desire to capture the exceptions in the persister and always returning a change set If you like this I can update the other controller to use this pattern too.

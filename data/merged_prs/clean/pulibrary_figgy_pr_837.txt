@@ -1,0 +1,2 @@
+Resolving styling issues affecting the visibility badges for child or member resources
+Resolves #830

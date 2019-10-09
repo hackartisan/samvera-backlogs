@@ -1,0 +1,9 @@
+Image files on set pages with dashes in filename don't work
+When images on a set page have a dash in the filename, they don't load due to a routing error. No route matches [GET] "/assets/sets/oimb/010-6872-11212011181502.jpg" Workaround is to switch dashes to an underscore.
+ Is this still a bug? Do we have an example? 
+ Yeah. No active example since workarounds were done. If you take any set page with an image, view just that image in the browser, add a dash into the filename, you'll get the routing error before file not found error. 
+use _ instead of - for now. but why is it broken? 
+Rails bug:  - We're just lucky enough to have this precise kind of issue.  Two workarounds: don't use hyphen _or_ shorten the filename. 
+Er, sprockets bug - Rails just happens to rely on sprockets 
+(Note that this could bite us on any asset file, not just images - css, fonts, JS, etc) 
+might need to update rails....depending on how much longer we're working with OD 

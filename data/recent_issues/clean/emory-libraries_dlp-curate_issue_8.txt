@@ -1,0 +1,2 @@
+Feature: Digital Preservation, Storage, & Monitoring
+Compliance with Emory Digital Preservation Policy and Archival Information Package specification Automated bit-level preservation activities including:  Checksum generation (SHA1, MD5Sum, and SHA256) Fixity checks for objects’ component files File format identification and validation Virus scanning and quarantine Automated generation of preservation event audits metadata   Support for manual preservation workflow sequences and associated metadata Digital object-level versioning support Preservation-quality storage

@@ -1,0 +1,2 @@
+Revert "Show school, department, and embargo length on edit screen"
+I think this PR broke the master build and no other PRs can be merged until it's fixed. I'm reverting this until we can discuss it and figure out what's going on. Reverts #1591

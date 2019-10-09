@@ -1,0 +1,2 @@
+Remove FindMembersWithInverseReferences
+The performance in production was abyssal. After spending a long time talking to people in the Postgres slack, it was determined the best way forward was to just assume one parent - the one that was asked for. If we ever need to ask for multiple, it'll be faster to just run multiple queries, wait for postgres to implement path traversal, or refactor how we store member ids.

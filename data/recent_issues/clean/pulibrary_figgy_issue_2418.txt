@@ -1,0 +1,2 @@
+Need to be able to search for track titles, creators, composors from playlist "add track" search box
+e.g. "hot five", an Armstrong ensemble

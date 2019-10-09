@@ -1,0 +1,2 @@
+The title wrapping in the Managed Works tab is too narrow.
+Descriptive summary When in the Dashboard and you have edit access to others works, you will see a 2nd tab on the Works Management page.  This tab says All Works or Works that I manage.  When viewing your managed works, the title is jammed in with narrow style.

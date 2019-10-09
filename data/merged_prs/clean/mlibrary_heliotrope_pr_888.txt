@@ -1,0 +1,2 @@
+don't ingest a file for external resources
+Resolves #886

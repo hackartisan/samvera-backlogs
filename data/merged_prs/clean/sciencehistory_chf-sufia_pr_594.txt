@@ -1,0 +1,2 @@
+Update featured collection copy, image
+The longer copy requires the image to swap over to a portrait aspect ratio at small screen sizes Fixes #580

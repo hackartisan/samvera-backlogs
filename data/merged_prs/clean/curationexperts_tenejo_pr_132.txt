@@ -1,0 +1,1 @@
+Renamed CSV headers to match labels in Hyrax UI. Story #90

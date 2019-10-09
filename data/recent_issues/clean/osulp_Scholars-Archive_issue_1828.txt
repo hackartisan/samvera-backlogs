@@ -1,0 +1,2 @@
+Force DOIs to resolve properly
+Descriptive summary Found two records with encoding problems -- the DOI is accurate and works if you copy/paste it but the link does not resolve if you click the external link.     Expected behavior The user clicks the DOI's external link and that opens the article page.  Actual behavior User clicks on pop-out link and gets this:   Steps to reproduce the behavior  Click on external link for either of these:  

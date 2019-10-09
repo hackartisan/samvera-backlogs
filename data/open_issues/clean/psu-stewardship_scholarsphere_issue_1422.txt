@@ -1,0 +1,2 @@
+Review Wiki Documentation and Clean it up
+There is a lot of stuff in the wiki. Some looks like its pretty old and at some point there is just perhaps too much. Discuss what should be removed/moved (if anything). It looks well organized but we should talk about organization too.

@@ -1,0 +1,3 @@
+Export Collections as Bags
+As a digital preservation librarian, I would like to export entire collection and its works in a single bag, So that I can send them to long-term preservation storage. Acceptance criteria:  works can be exported as LOC Bags works can be exported as APTrust Bags  5 TB bag-size limit, if over bags need to be split   export is triggered by GUI and transferred to pre-determined store (TBD) preservation masters and text files are included in the bag service masters are included in the bag if they were pre-supplied, but not if they were CHO generated all metadata is included as RDF  Related: #441
+Some of the acceptance criteria may be out of scope for CHO, but keeping this in to explore in future.

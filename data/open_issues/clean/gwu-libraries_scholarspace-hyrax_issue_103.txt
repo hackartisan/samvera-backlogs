@@ -1,0 +1,3 @@
+Consider adding captcha to contact form
+We are currently getting too many spam form submissions via scholarspace.library.gwu.edu 's contact form.
+I attempted to do this by simply inserting the script and the div tag as described at   .  The problem seems to be that the captcha result is not checked; i.e. the user can simply bypass it.  This appears to have been done successfully using   - which utilizes the `recaptcha` gem.

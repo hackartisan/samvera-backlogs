@@ -1,0 +1,2 @@
+Update to Hyrax 2.5.1
+Update the application to use Hyrax 2.5.1. Also update our copies of the Hyrax feature specs in spec/features/hyrax/ Document Changes between 2.3.3 -> 2.5.1 Update rails / ruby versions Examine/Document/Solve Application Overwrites Get stable 2.5.1 branch The goal is to get to Browse Everything 1.0.1 on Hyrax 2.5.2 by Samvera Connect.

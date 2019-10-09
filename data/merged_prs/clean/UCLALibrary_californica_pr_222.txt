@@ -1,0 +1,2 @@
+Refine database cleanup strategy
+This addresses latent order dependency in the test suite. Cleanup is more systematically handled by mixing the :truncation and :transaction cleanup strategies.

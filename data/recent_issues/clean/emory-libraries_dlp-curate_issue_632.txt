@@ -1,0 +1,2 @@
+Log events related to File Attach Job
+File Attach Job Message digest calculation File persisted: in the attach_file_to_work job: 

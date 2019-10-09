@@ -1,0 +1,4 @@
+Monograms need more info in the label
+Many of the monograms have the same description / title. We should probably add file name and monogram number. Also add these same columns to the index page so it's easier to sort.
+for example monogram file_name: m8851.jpg Is 8851 the monogram number or is there an additional number somewhere? There are some file_names where the letter is not in the beginning. 508m3.jpg
+We will add in the 'title' the 'file name' with the first import and after that they will use the 'title' attribute to add any extra info and make the monogram 'title' more descriptive.

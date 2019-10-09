@@ -1,0 +1,2 @@
+User profile page displays ucdepartment instead of department
+Fixes #525 Changes the dashboard profile view page to show the department, not the ucdepartment

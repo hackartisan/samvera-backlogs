@@ -1,0 +1,2 @@
+Draft removal
+This removes the DRAFT CSS from all pages role_map.yml.template is rearing its head again.  Didn't we decide to delete that?

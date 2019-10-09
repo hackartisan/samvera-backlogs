@@ -1,0 +1,2 @@
+Add Type URIs to OSU items
+Tens of thousands of OSU (non-SCARC) items don't have Type assigned. Spreadsheet is ready to go.  Art, Architecture and Design Columbia Gorge Discovery Center Historic and Cultural Textile and Apparel Collection Lincoln County Historical Society Archive The Fairbanks Fine Arts Print Collection The Middle East Water Collection The Siuslaw National Forest Collection

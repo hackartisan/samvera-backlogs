@@ -1,0 +1,2 @@
+Changed keyword field predicate per metadata spreadsheet
+Closes #300

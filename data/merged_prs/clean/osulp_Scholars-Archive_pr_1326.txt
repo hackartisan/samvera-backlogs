@@ -1,0 +1,2 @@
+Adds in buttons for selecting pages dynamically
+Looking for feedback. Refactoring I can see is creating a partial for the <li><a> elements cutting down on code duplication.

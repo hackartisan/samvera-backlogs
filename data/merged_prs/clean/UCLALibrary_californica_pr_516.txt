@@ -1,0 +1,2 @@
+Report missing headers in CSV file
+Wrote a Darlingtonia-style validator that will be used to perform several checks on the CSV file.  For now it just checks for missing headers, and adds an error message to the error stream if any headers are missing. Connected to #481

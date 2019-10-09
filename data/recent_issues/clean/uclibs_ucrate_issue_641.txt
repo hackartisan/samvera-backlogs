@@ -1,0 +1,2 @@
+Password reset email should come from 
+Descriptive summary When users try to use the password reset feature they receive an email from  This should be  instead We should be able to change it in the Devise initializer.

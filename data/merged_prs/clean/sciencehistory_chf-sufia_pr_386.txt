@@ -1,0 +1,2 @@
+rake task to fix String dates, fixes #322
+RAILS_ENV=production bundle exec rake chf:data_fix:fix_work_dates Still in progress on staging, seems to be taking hours, not sure if it really should be expected to?

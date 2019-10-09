@@ -1,0 +1,2 @@
+Edit Form: Description field should be labeled as "Description"
+Descriptive summary On the edit form, Description is still labeled as 'Abstract or Summary' the default out of Hyrax. Also need to update the help text. Expected behavior 'Description' label appears on the Description field.

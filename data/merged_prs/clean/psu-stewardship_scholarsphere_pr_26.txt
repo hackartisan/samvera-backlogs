@@ -1,0 +1,1 @@
+removed font and table options from tinymce

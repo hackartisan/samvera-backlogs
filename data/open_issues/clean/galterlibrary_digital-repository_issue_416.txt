@@ -1,0 +1,2 @@
+Admins can create collections for users
+Maybe from the uploaded file list?

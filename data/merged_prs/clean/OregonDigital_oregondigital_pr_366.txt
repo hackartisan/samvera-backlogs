@@ -1,0 +1,2 @@
+Improved Downloads Authorization
+Requires administrative permission to get the full-res from images and redirects to nginx for lower resolution derivatives that are sitting on disk. Disallows full resolution download of PDFs. Closes #365

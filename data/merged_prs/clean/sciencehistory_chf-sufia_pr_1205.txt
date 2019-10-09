@@ -1,0 +1,2 @@
+Adding a target=_blank to description links
+Uses nokogiri to add in the new link attribute. Note that the target=_blank is not stored, but added at display time; the tests reflect this. Fixes #1183

@@ -1,0 +1,2 @@
+Resolves #1620: Products, Components, Lessees
+This branch has been deployed to testing for your convenience.  Create and destroy routes have been nested for products/components, products/lessees, components/products, and lessees/products in addition to the standard resources routes for products, components, and lessees.  See route table for details.

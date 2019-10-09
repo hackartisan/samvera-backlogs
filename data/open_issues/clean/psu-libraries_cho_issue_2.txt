@@ -1,0 +1,2 @@
+IIIF Image API 2.*
+As a digital humanist, I would like to combine digital images from multiple repositories, So that I may re-use PSU content in my projects and works. Done looks like: IIIF Image API 2.* implementation, compliance level 2.

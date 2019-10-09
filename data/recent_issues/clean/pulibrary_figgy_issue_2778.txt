@@ -1,0 +1,2 @@
+Provide a way to prevent propagating visibility to a specific child
+Requested by  He has a record where later volumes of a MVW are in copyright and wants to make sure those child records stay private. We should generate a mockup of how to do this - either a checkbox or a radio button on child works that say "Inherit from Parent" seems like a good idea to me.

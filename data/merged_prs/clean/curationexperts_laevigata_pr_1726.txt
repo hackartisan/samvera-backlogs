@@ -1,0 +1,2 @@
+Change the program label to match admin_set.yml
+Connected to #1724

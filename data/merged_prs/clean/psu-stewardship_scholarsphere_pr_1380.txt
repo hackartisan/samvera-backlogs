@@ -1,0 +1,2 @@
+Removing Avatar
+Remove avatar from index page Remove Avatar from profile page Remove AVatar from edit page Co-authored-by: Mike Tribone 

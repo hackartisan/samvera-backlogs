@@ -1,0 +1,2 @@
+added https protocol for application helpers
+fixes #1056

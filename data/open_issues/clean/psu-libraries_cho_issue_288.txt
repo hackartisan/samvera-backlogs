@@ -1,0 +1,6 @@
+Basic CMS for Static Pages
+As a repository manager, I want to be able to easily edit static pages in CHO, So that I can make edits as needed, without having to wait for a deploy.
+
+I think Hyrax has this, not sure what they use.
+Hyrax, as well as Scholarsphere, uses tinymce:  which should work for your needs. It allows you to edit existing pages, but doesn't allow you to create new ones, i.e. like a blog-type site. Refinerycms looks good too. We can investigate and see if it's better.
+Related: #214 

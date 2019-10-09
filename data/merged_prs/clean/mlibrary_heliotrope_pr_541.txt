@@ -1,0 +1,2 @@
+Update to Curation Concerns 1.6.2
+I think this is ready to go. All tests pass and I've uploaded monographs, added sections, added file_sets. I've run the importer against it. I've test deployed it to staging. Resolves #402

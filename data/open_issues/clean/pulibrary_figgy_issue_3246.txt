@@ -1,0 +1,3 @@
+New Role: Limited to viewing/creating/editing in one collection
+Use case: external contributor to one collection. Should be able to:  create records attached to that collection and ingest files see other objects attached to that collection  Should not be able to:  delete anything view objects not attached to that collection
+Two ephemera projects currently have this use case coming up (LAE and SAE).  There are a few other instances where external contributors have been discussed for other collections (Cicognara, Geniza).

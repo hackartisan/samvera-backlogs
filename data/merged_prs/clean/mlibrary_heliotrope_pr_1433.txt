@@ -1,0 +1,2 @@
+fix Safari (webkit) play button
+Resolves #1401

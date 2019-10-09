@@ -1,0 +1,2 @@
+Add a Browse button on Homepage
+Catalog page currently is accessible only by clicking on the search button in homepage. Instead, have a browse button that redirects to the catalog page.

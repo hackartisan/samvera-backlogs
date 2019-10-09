@@ -1,0 +1,2 @@
+Add citations to NumismaticIssue
+Closes #2177  Adds ability to attach citations to Numismatic Issues. Improves styling on Citations panel.

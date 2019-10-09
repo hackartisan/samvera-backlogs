@@ -1,0 +1,2 @@
+Check connection validity every time.
+Closes #2416.

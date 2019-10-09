@@ -1,0 +1,2 @@
+Fix batch upload forms with nested fields
+fixes #1689  updated batch_upload_form to include missing ordered attributes added override for BatchCreateJob to set nested_ordered_title_attributes hash so that it is also based on the filename like title.

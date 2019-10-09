@@ -1,0 +1,1 @@
+Write manifest to S3 on the first request after every update

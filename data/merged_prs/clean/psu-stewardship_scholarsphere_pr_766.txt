@@ -1,0 +1,2 @@
+Redirect to user's collections dashboard upon delete, ref #740
+When deleting your collection, the application was redirecting back to the catalog page. This was not consistent with other delete behaviors that redirected back to the appropriate dashboard page. When a collection is deleted, whether successfully or not, it redirect back to the collections dashboard page with the appropriate message.

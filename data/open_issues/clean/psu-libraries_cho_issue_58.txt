@@ -1,0 +1,4 @@
+ability to re-define collections
+As a metadata specialist I would like to be able to re-define collections, so I can break them apart or combine them, in whole or in part, at any time.
+ What does this mean? Taking one collection and splitting it into two or more / merging one or more collections into a single collection?
+Take a larger collection and break it into smaller collections. 

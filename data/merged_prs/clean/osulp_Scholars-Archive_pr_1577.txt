@@ -1,0 +1,2 @@
+updated style for up and down arrows
+added css changes to align up and down buttons  Screenshot:

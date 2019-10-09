@@ -1,0 +1,2 @@
+added fix to generate citation pdf urls for child filesets
+fixes a bug on the show page view that fails to generate a download_url for citation_pdf_url (used for Google Scholar) when a representative_id is not set and the only member or first member in the list is a FileSet added an update to process default_url_options with https on production only

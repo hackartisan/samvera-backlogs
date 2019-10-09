@@ -1,0 +1,2 @@
+Resolves HELIO-2341: Upgrade to latest Checkpoint gem
+Removed Grants and PermissionService. Added Greensub and Authority services.

@@ -1,0 +1,1 @@
+Clarifying help text; removing string matching in error message tests

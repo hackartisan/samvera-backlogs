@@ -1,0 +1,2 @@
+Extend Box expiry time
+Use ENV['BOX_EXPIRY_TIME_IN_MINTUTES'] to set the expiry time for Box links. We've found that the default (1 hour) causes occassonal failures in box uploads.

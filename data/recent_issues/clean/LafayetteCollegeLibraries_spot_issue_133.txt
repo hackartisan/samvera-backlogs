@@ -1,0 +1,2 @@
+move okcomputer check to hyrax dashboard
+i feel like we could come up with a simple ui to integrate the okcomputer status checks into the dashboard. see  for an idea of how to get the data out

@@ -1,0 +1,5 @@
+Replace schema_fields.yml with houndstooth?
+ discovered  which is a community model for modeling metadata requirements that could replace our schema_fields.yml or even the entire data dictionary. with a community-based approach. Can be round-tripped to CSV for easy maintenance by metadata managers and then back to YML for the app. We should consider this.
+Would solve some other tickets, like controlling faceting in the data dictionary and hiding fields from public users.  Potential problems?   * Indicating required fields   * Wiring in work-type schemas   * Wiring in dry transactions   * Field mappings for serializations (export options as DC, VRA, etc.; OAI feed)   Related question: Do or will we need a metadata application profile when we are in production? In my mind, that's basically a human-readable version of this same sort of thing, with examples. But, that interpretation could be wrong and this type of profile may not be consistent with our work-type approach.
+Related Samvera WG has spun up,  is involved.   
+WG starts meeting in February 2019, expecting to take 2-4 months.

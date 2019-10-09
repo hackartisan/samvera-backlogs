@@ -1,0 +1,2 @@
+Docker Hub Account
+I think that it would be a good idea to have a UCL Docker Hub account so that we can keep multiple images for different versions, and for developer and non-developer.

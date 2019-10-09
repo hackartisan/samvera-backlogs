@@ -1,0 +1,2 @@
+update batch-loader for performance increase with collections
+all_thesis = Etd.where(:resource_type => 'thesis') col = Collection.find('thesis') all_thesis.each do |etd|     if not etd.member_of_collections.include? col         etd.member_of_collections = [col]     end end

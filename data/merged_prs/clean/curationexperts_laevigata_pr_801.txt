@@ -1,0 +1,1 @@
+adding thumbnail class to containing div in primary pdf show view

@@ -1,0 +1,2 @@
+Controllers should not error if there is an invalid change_set requested
+Related to #2722 If a user somehow requests an invalid change_set, they should get a flash message saying that, not a 500/Something Went Wrong error.

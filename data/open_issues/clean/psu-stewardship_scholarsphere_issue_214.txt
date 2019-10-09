@@ -1,0 +1,3 @@
+Large Text Files can cause issue with batch update
+I uploaded a 1.75G text file (not entirely likely to occur in real life) When batch update ran it extracted the text and then failed on sending the update to solr This error causes the item to be continuously processing and not editable. Here is the error in the resque queue:  Here is the stack trace: 
+If the file is larger than a certain size do not pass the text in for indexing in solr was a decision made with Dan and all 

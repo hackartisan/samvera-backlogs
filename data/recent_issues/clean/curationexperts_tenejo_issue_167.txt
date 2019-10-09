@@ -1,0 +1,2 @@
+Darlingtonia has a default logger
+This shouldn't use STDOUT by default  Tenejo shouldn't have to define a LogStream  class  I can set the log destination via an ENV variable  If I don't set it it goes to a reasonable default  Child of #72

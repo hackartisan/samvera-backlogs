@@ -1,0 +1,2 @@
+updates docker image, compose, services
+This brings SA up to date with docker-compose and in line with how OD2 behaves for development (which is better overall). Will require you to kill your docker volumes for SA and rebuild.

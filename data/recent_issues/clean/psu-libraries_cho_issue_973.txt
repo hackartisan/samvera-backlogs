@@ -1,0 +1,2 @@
+Add Valkyrie access controls to CHO
+Adds the Valkyrie::AccessControls module to collections and works, and verifies that both types of resources and persist and set edit groups, edit users, read groups, and read users.

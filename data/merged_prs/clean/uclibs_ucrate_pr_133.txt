@@ -1,0 +1,2 @@
+Add CHANGELOG.md
+Fixes #125 This covers the changes we made in the last sprint as well as the pre-sprint changes.

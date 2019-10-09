@@ -1,0 +1,2 @@
+Ensures that MVW thumbnails are rendered by using member FileSets rather than just member resources
+Fixes a bug discovered in #1425

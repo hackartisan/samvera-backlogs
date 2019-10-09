@@ -1,0 +1,2 @@
+loading json to form, beginning test
+This commit adds javascript that gets json data stored in a rails instance variable and populates the form with it, upon the loading of the form. If there is no javascript, ie the first time the user loads this form, the loading functions won't execute. It has a test that isn't passing, and we probably need to discuss integration tests soon.

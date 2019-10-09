@@ -1,0 +1,2 @@
+Import the "Personal or Corporate Name.photographer" column in CSVs to photographer
+Connected to CAL-648  Some DLCS collections use the field "Personal or Corporate Name.photographer" for the photographer name. This CSV column should import to the property "photographer" in californica. When I import a collection CSV that has data in the Personal or Corporate Name.photographer column, the data is saved to the "Photographer" (photographer) field.  Changes to be committed:  modified: app/importers/californica_mapper.rb modified: spec/importers/californica_mapper_spec.rb

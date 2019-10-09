@@ -1,0 +1,1 @@
+Add Dublin Core "Relation:isPartOf" field, with label Series

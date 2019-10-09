@@ -1,0 +1,1 @@
+Fix EZID gem deprecation, fixes #466

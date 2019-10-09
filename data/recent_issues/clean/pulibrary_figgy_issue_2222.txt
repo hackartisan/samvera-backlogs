@@ -1,0 +1,2 @@
+Coins should have Finds
+Find should be a select menu. Child of #2025

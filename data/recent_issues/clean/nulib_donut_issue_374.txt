@@ -1,0 +1,2 @@
+Add these metadata fields to the Indexer so they pull through to the React app
+Description  pointed out in nulib/next-generation-repository#749 that certain fields are not pulling through to the front end React app.   These need to get added to the indexer. Done Looks Like The React app displays the metadata items listed in the above ticket. To Do    Add the following fields to the Indexer:   Notes   Related material   Scope and contents   Series   Subject temporal   Table of contents   

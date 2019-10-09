@@ -1,0 +1,2 @@
+using formStore for submitting tab data
+ This commit splits the save, review and submit Etd tab functions into their own class, moves some more methods into the formStore and maintains state in the form Store object. I believe it's closer to what we want, please let me know.

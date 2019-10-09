@@ -1,0 +1,2 @@
+Allow users to replace their files more than once
+The first time a work is returned to the user via the workflow ("request changes"), the edit permissions on all attached files are set correctly and the files can be replaced. Unfortunately, that process of setting the file set permissions was not being called on subsequent edits and that meant the user could only replace their files once, and thereafter it would fail. This PR fixes this bug. We belive this is a but in underlying Hyrax and I'm also going to follow up with a bug report there. Connected to #1677

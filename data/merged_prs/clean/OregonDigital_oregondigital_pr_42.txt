@@ -1,0 +1,2 @@
+Feature/ip groups
+Adds IP groups and the frontend for managing them. Closes #16

@@ -1,0 +1,2 @@
+Search page a11y specs
+Fixes #733

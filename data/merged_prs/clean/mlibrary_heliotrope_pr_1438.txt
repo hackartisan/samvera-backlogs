@@ -1,0 +1,2 @@
+Resolves 1383, Allow child publisher to inherit parent publisher theme
+Resolves #1383

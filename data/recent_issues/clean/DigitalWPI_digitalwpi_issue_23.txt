@@ -1,0 +1,1 @@
+set up pipelines to push data from prod->QA with Capistrano

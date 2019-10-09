@@ -1,0 +1,1 @@
+Remove the Collections dt tag when there are no subcollections presented. DHH-779

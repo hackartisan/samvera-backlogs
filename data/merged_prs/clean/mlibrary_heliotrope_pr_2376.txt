@@ -1,0 +1,2 @@
+2404_aptrust_clean_up8
+A small clean up of date handling in rake task.

@@ -1,0 +1,2 @@
+Feature/bettertitles
+Fixes #977 A few views weren't updated since they're currently using the default views housed in the given gem. These include '/roles/new', '/roles/index', and '/reviewer' (using standard Blacklight catalog view).

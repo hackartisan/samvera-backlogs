@@ -1,0 +1,4 @@
+Make Donor controlled
+Remediate Donor strings to URIs.
+UO remediation work is done.   Dev work is needed to configure the field for URIs -- the existing URIs are still in raw statements. 
+OSU remediation progress:  - [ ] Search for name URIs and create new records as needed (spreadsheet work)   - [x] Columbia Gorge Discovery Center Photo Archive   - [ ] Historic and Cultural Textile and Apparel Collection (37 of 230 on 8/23)   - [x] Lincoln County Historical Society Archive   - [x] Oregon Hops & Brewing Archives   - [x] OSU SCARC   - [ ] The Fairbanks Fine Arts Print Collection (34 of 86 on 8/23)   - [x] The Middle East Water Collection - [ ] Add new name URIs to ONS - [ ] Scripted batch edits in OD   - [ ] Change donor strings to URIs   - [ ] Append non-URI donor info to descriptions

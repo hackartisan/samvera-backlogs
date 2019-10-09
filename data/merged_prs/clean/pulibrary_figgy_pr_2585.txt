@@ -1,0 +1,2 @@
+Ensures that cases where PULFA ARK updates raise errors
+Resolves #2577 by addressing the following:  Modifies IdentifierService to only mint/update ARKs for resources with updated titles when they have already been published Ensures that cases where PULFA ARK updates raise errors are handled by flashing an alert to clients and redirecting them to the edit form

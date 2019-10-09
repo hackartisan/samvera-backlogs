@@ -1,0 +1,2 @@
+make errors easier to consume/format
+Resolves #1197

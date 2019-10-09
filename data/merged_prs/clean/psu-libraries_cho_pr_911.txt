@@ -1,0 +1,2 @@
+Adding a new reindex task
+Utilizes the migration example code form valkyrie to reindex in solr from postgres

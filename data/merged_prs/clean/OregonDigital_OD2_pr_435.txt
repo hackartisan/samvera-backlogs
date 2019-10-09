@@ -1,0 +1,2 @@
+move duped code to base object
+Fixes #408

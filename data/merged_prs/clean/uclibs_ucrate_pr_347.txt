@@ -1,0 +1,2 @@
+Adds geo_subject to work type presenters.
+Fixes #344 Present short summary (50 characters or less) This is a follow up from comparing the presenters in scholar to the presenters in ucrate.  It looks like we missed the geo_subject delegation in some of our presenters.  This cleans up the presenters to be inline with Scholar.

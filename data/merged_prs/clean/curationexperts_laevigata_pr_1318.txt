@@ -1,0 +1,2 @@
+Story #1191: Make the committee members fields work with the new UI.
+I added a method to the model that allows you to add new data to the existing JSON data store.  This method will be used in the controller, and will eventually replace all the temporarily hard-coded data in the controller. The form to create an Etd record from an InProgressEtd record uses Rails-style nested attribute fields committee_chair_attributes and committee_members_attributes.  I fixed the spelling of committee_members_attributes in some places in the code.

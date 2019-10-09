@@ -1,0 +1,2 @@
+Handle errors in Google Cloud fixity checking
+Currently, if there is a fixity error when downloading and checking the checksum of a file, the client errors and no error is logged.  This can only happen in a couple of narrow circumstances:  Transitory errors in downloading a file (the vast majority of cases where this would happen) Bitrot in Google Cloud storage Mismatch between the Figgy and Google checksums for a file  We should catch and retry errors in order to confirm errors (and distinguish them from transitory downloading problems), so we can log them appropriately.

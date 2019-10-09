@@ -1,0 +1,2 @@
+Remove the footer from dashboard but show version info
+This removes the footer, but re-displays the information from the footer in the larger content area of the dashboard. Connected to #144

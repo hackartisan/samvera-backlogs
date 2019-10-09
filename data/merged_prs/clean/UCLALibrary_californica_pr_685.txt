@@ -1,0 +1,2 @@
+Warn on missing File Name
+Refactors CSVManifestValidator to allow use of mapped values Warns when the mapped File Name cannot be found on the disk

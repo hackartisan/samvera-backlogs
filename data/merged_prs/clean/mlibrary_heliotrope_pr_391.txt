@@ -1,0 +1,2 @@
+Update solr config for solr6 compatibility.
+units -> distanceUnits makes solr 6 happy. The units parameter name was deprecated in  solr 5.5 and removed in 6.0.

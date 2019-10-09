@@ -1,0 +1,2 @@
+Playlist model
+Metadata:  Label Visibility (default private) Access Token  Child of #2066

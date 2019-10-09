@@ -1,0 +1,5 @@
+Allow hierarchical facets
+Based on the IRIS XML schema, and the metadata items provided, we need to design an XML schema for OASIS project and implement it as a Ruby/Rails model.
+  is this still valid issue. If so we should add more information about outstanding work. if not, we should close this and create a documentation about our customised model so far and what more work is required to provide a hierarchical model.
+The [first iteration of the OASIS data model]( has been introduced.  It is expected that the model should be hierarchical in future. This will require [configuring Blacklight]( with [pivot facets]( (see example [BL configuration with labels]( Because those are controlled terms in OASIS project we will require to write mapping between terms IDs and labels and display correctly in Hyrax views similarly to work done at #59 and #110). 
+Two main fields that should include the hierarchy  - Language Features  (see spreadsheet)  - Proficiency of Learners  Can this be implemented with JS another way? The some interim solution could be adding hierarchical labels.

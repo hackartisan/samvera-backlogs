@@ -1,0 +1,2 @@
+Apply more groups to Blacklight permissions
+Fixes #755 Fixes #756 This makes sure the solrized groups and the groups the User object returns lines up with what Blacklight expects to restrict discover, read, and access permissions.

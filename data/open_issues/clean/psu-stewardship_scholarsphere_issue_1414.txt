@@ -1,0 +1,3 @@
+Remove highlight designation from user profile edit page
+There's text regarding "highlight designation" but it doesn't seem to do anything. Maybe it should be removed.
+Yes we should remove it.

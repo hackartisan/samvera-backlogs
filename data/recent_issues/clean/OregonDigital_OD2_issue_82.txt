@@ -1,0 +1,2 @@
+Write help text for metadata entry form and add to MAP
+OSU will focus on this since UO doesn't use the form much.

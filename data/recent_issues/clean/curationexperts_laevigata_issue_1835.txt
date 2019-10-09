@@ -1,0 +1,2 @@
+Data correction for hand migrated ETDs
+Five ETDs could not be migrated, and were recreated by hand. They need a corrected graduation date, the depositor changed from Fran to a new user, and to be approved: Spring 2010, "Bruehlman, Alyssa Kathleen", akbrueh,  Spring 2013, "Hughes, James L", jlhughe,  Spring 2015, "Stowell, Jen", jstowel,  Spring 2015, "Davis, Brian", bmdavi5,  Spring 2010, "Itzel, Jessica Annemarie", jitzel, 

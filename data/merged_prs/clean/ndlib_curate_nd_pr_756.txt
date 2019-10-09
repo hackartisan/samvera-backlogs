@@ -1,0 +1,1 @@
+Adds BrowserStack logo to join their open source program

@@ -1,0 +1,2 @@
+Don't error if a file's updated_at is empty.
+Backtrace line 68 of [PROJECT_ROOT]/app/controllers/downloads_controller.rb: prepare_file_headers line 16 of [PROJECT_ROOT]/app/controllers/downloads_controller.rb: send_content line 8 of [PROJECT_ROOT]/app/controllers/downloads_controller.rb: show  View full backtrace and more info at honeybadger.io

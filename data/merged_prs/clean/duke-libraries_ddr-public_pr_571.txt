@@ -1,0 +1,1 @@
+Updated rubyzip gem to address security notice. Closes DDR-1388

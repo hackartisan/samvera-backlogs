@@ -1,0 +1,2 @@
+index correct url for iiif manifest
+change from /info.json to /manifest.json

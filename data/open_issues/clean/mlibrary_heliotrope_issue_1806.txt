@@ -1,0 +1,2 @@
+Tabpanel headings should be available to assistive technology
+Now that headings are in tabpanels we should make sure that assistive technology display them when creating a document outline, or using common navigation tools. Currently, the headings are only included in the document outline if the tabpanel is toggled, because screen readers ignore elements that have display: none; applied to them.

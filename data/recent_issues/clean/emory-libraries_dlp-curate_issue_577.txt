@@ -1,0 +1,2 @@
+Transfer Medical Artifacts collection files to Cor staging
+Medical Artifacts file paths:  Estimated size: 36 GB Estimated counts: 240 (tifs)

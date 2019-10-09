@@ -1,0 +1,1 @@
+Replace subcollections list with Solr query for the collection landing page. DHH-770

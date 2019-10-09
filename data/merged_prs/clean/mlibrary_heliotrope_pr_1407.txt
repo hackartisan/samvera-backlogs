@@ -1,0 +1,1 @@
+Addresses #1406 logging out can cause 500 error.

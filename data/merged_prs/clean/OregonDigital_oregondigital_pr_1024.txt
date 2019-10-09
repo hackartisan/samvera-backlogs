@@ -1,0 +1,2 @@
+Feature/handle bad set
+fixes #1022

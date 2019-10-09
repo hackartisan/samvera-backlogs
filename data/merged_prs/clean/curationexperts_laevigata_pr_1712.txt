@@ -1,0 +1,2 @@
+Fix for partnering agencies
+This is a fix for not being able to continue the form without entering a parterning agency. Partnering agencies are required on the server and this was returning an an error if you didn't pick one for Rollins. On the other tabs we have a hidden input for no agency. This changes the agency component a little bit so that users can't end up not progressing if they don't enter an agency for rollins. Connected to #1709

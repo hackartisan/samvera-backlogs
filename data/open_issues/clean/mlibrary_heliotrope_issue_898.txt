@@ -1,0 +1,3 @@
+Check for broken links to externally-hosted files
+I would approach this by writing a cron job that could send warning e-mail, but I don't know if that fits with the heliotrope ecosystem.
+We might want to approach this like Notre Dame does. They have tests like this living outside of any application in it's own space:   This could also relate to phantomjs tests in general in #846

@@ -1,0 +1,2 @@
+Check show page for all fields indicated on wireframe
+ After we talked, I wanted to double check that we really are displaying all of the fields indicated by the wireframes on the show screen.

@@ -1,0 +1,2 @@
+Always be able to mint ids
+This is a fix for a bug in Hyrax where under certain circumstances the minter stops issuing new IDs, preventing new objects from being created. See samvera/hyrax#3128 for more details. Connected to #303

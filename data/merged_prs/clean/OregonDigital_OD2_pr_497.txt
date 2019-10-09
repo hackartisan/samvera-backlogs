@@ -1,0 +1,2 @@
+fixes lingering data in new methods
+Fixed #494

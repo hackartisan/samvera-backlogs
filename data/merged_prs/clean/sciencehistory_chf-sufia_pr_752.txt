@@ -1,0 +1,2 @@
+viewer has fallback url, with alert warning
+Fallback is the /downloads/$id?file=jpeg link as source. Tile-source-agnostic, just a viewer function.

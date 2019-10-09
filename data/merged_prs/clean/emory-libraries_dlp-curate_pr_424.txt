@@ -1,0 +1,2 @@
+Update CircleCI to use latest Samvera orb
+The orb release being referenced wasn't a valid release number according to   Trying the latest samvera/circleci-orb version to see if it fixes coveralls notifications.

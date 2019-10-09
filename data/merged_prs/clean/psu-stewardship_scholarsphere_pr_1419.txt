@@ -1,0 +1,2 @@
+Adding chmod during move to make sure everyone can read the file
+refs #1415

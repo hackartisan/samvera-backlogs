@@ -1,0 +1,2 @@
+playlist show page: Don't show table headings under track search until there are results
+Currently it looks like floating mystery words:

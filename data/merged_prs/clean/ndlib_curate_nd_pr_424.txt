@@ -1,0 +1,2 @@
+Removing random spec order in favor of a seed
+Tests started failing in travis. They were run in random order. So there must be a subset of tests that don't work. Related to #423

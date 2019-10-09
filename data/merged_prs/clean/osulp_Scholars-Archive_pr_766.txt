@@ -1,0 +1,2 @@
+Removes CC0 from GTD and Undergrad
+Fixes #710

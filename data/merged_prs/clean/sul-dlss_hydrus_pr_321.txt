@@ -1,0 +1,2 @@
+Start workflow after registration
+The dor-services-app no longer starts an initial workflow automatically

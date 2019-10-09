@@ -1,0 +1,1 @@
+Add page to display featured items for collections

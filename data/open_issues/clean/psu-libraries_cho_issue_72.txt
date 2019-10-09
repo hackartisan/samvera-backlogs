@@ -1,0 +1,2 @@
+Digital Exhibits - creation
+As a curator, I would like the ability to create uniform, standardized digital exhibits (via template/series of templates), utilizing CHO content, and also non-CHO content.

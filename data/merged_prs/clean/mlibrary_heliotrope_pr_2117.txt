@@ -1,0 +1,2 @@
+Addresses HELIO-2286 facet sort options
+Just makes it so HEB facets are sorted alphabetically, instead of by count.

@@ -1,0 +1,7 @@
+Model for URL as object
+Some collections have a URL as object rather than a file. (e.g. Oregon Explorer)
+: Do we have items that should link out, or just "external" collections? Do we want to keep our header around and open the URL in an iFrame or just go ahead and link out? 
+: I prefer just linking out rather than using an iFrame and our header with some sort of warning that the user is being redirected to an external website/service. 
+  Isn't there a way to check to see if we have any of these in CDM admin? I don't think we have any URLs as objects, but am double-checking with Larry.  
+There's a separate ticket for external audio/video: #596   Here's the breakdown of URL items in CONTENTdm:  2 - Baseball Centennial (audio/video) 6 - Building Oregon 2 - Oregon Explorer 16 - Oregon Latino Heritage 3 - OSU Archives ('Best of Archives') 58 - OSU Extension Oral Histories 
+UO collections: - 0 Building Oregon - Oregon Latino Heritage (videos) want to add videos directly   no files bigger than 350MB 

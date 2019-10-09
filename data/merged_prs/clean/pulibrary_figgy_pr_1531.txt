@@ -1,0 +1,1 @@
+fixes om persistence bug due to manifest resource @id value change

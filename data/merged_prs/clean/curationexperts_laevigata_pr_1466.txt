@@ -1,0 +1,2 @@
+Add My ETD menu item
+Allow a user to quickly find their own ETD from the top right user menu. Connected to #1433

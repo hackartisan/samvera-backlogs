@@ -1,0 +1,2 @@
+Add a deploy configuration for the Vagrant-Embark VM
+Copy the sandbox.rb capistrano deployment config and modify it to work with the Vagrant-Embark VM. Revise the copied sandbox deploy config to point at the Embark IP Use the IP address 192.168.33.33 instead of the embark.vagrant.test domain, because not everyone will have a domain plugin enabled for Vagrant. Connected to UCLALibrary/amalgamated-samvera#89

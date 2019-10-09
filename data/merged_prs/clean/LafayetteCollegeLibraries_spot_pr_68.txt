@@ -1,0 +1,2 @@
+identifier fixes
+allow Spot::Identifier to parse non-prefixed identifiers replace buggy (but nice looking) input with <select> element  add Spot::Identifier.prefix_label(prefix) and Spot::Identifier#prefix_label

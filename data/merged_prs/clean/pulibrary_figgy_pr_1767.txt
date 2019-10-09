@@ -1,0 +1,2 @@
+Graphql-powered OrderManager
+Rebased version (hopefully complete without errors) of #1762. This required some extreme git surgery which necessitated recreation on a new branch. The resolve merge conflict commits on the original branch were particularly nasty, which is why it made sense to start over.

@@ -1,0 +1,2 @@
+Updates to fix blacklight deprecation warnings
+This includes a view override and a catalog controller option to fix Blacklight deprecation warnings that are showing up in the logs. Related to #334

@@ -1,0 +1,2 @@
+Resolve issue 290 and 291:  Add link and new tab
+Resolves #290 and #291  New Supporting Journal tab page that can be editable Replace email link with Mailchimp service

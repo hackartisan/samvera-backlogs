@@ -1,0 +1,2 @@
+Log events for FileSet creation
+FileSet Save Replication (to S3) Fileset creation: after the fileset is saved: 

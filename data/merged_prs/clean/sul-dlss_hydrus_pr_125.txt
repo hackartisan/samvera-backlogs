@@ -1,0 +1,2 @@
+Redirects terminate the request cycle
+Fixes 

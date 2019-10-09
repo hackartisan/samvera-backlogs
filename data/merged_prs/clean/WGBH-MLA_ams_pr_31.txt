@@ -1,0 +1,1 @@
+AMS2-9 testing adminset with multiple user roles as managers

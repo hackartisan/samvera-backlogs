@@ -1,0 +1,2 @@
+add link to roles management in dashboard
+this is tucked away at /roles. probably not necessary at the outset, since i think we're only allowing library staff to log in to the app. but we'll eventually need to open that up and having role management navigatable would be useful.  minimal overhead: add a link to the dashboard more work: move the /roles views into the dashboard theme

@@ -1,0 +1,2 @@
+Upgrade to Hyrax 1.0-stable
+This fixes some workflow bugs Closes #228

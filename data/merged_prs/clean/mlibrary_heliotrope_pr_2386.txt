@@ -1,0 +1,1 @@
+HELIO-2741 Press control for automatic crossref component DOI creation

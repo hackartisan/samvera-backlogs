@@ -1,0 +1,2 @@
+Wordsmithing
+Per DLTP-1539, updating the language to explain starred/required fields.

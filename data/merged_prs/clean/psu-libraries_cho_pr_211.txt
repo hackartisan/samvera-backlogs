@@ -1,0 +1,2 @@
+Solr sync and other things
+I didn't have push rights to the repo so I had to fork. This syncs the solr configs and does a few other helpful things. 

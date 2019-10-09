@@ -1,0 +1,2 @@
+Child works should link to their parent work
+Descriptive summary A user viewing the public show page for a child work has no way of knowing there is a parent work or how to get to it. For child works, we should include a link to the parent under the Relationships section (the same section that shows what collections a work belongs to). The parent work can be found using work.member_of Example: Relationships In Collection:       Global Marine Biodiversity Archive Attached to Parent Work:       Link to Parent Work

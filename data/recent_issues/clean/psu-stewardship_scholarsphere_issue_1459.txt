@@ -1,0 +1,2 @@
+Minify JS for Production
+Currently in production we are serving full JS without minification. Figure out why it isn't be minified and perhaps ensure multiple copies of JS aren't being inserted. 

@@ -1,0 +1,2 @@
+Ensuring bags with invalid works do not validate
+Description Connected to #549 Ensures that when Import::Bag.valid? is called, it validates the works within it. Also refactors the validation steps so that files in the data root directory are reported as the work is validated. Changes  validates works when the bag is validated, re-validating as necessary invalid files in the data root are caught by the work renames redacted preservation files to match naming schema

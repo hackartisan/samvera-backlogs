@@ -1,0 +1,2 @@
+Ensure default admin set exists
+Before we create a collection, ensure default admin set and permission template exist. Otherwise, we get intermittent test failures for this one. Connected to curationexperts/in-house#194

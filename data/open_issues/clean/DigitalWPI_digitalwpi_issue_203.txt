@@ -1,0 +1,2 @@
+Tasks for Production deploy
+#202 Nagios  #200 Honeybadger  #199 Lograge  #204 Splunk (also, #214 send log files to Eric, to set up Splunk)  #205 Accessibility  #210 Ahoy & Blazer  #213 Securing servers with Traps  #197 Eager Load  Add more tasks!

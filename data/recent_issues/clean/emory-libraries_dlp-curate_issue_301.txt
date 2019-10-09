@@ -1,0 +1,2 @@
+Refactor attach_files_to_work test
+Remove write binary when opening file

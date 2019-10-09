@@ -1,0 +1,2 @@
+Remove the need for batch_id column in CSV
+Because the batch_id is the same for every item in a CSV import, we can remove the column. Batch zip files can be linked to a CSV either by naming the zip file the same as the CSV, or by proving a separate input in the CSV import for where the user can choose the zip file that corresponds to the CSV. Also need to update File Specs to remove batch_id once this is done -- assign to Nathan. [NT 2019-02-01] Related: #695

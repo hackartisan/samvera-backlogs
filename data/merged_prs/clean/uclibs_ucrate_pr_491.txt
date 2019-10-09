@@ -1,0 +1,2 @@
+Make needed changes for server deploys
+Fixes #433 Fixes #381 I can run through this with whomever reviews it. This branch is currently running on  Changes:  Add the dotenv gem and user environment variables in all the places that Scholar had bamboo variables Set up default variables with the .env.development and .env.test files Disable Spring because it gets in the way of setting environment variables Move over the scripts/ files from the scholar_uc repo.  This avoids us having to use the .bamboo and .sample files like we did in scholar_uc.

@@ -1,0 +1,2 @@
+Include submitter on work show page
+Fixes #524 Implements the original fix from 

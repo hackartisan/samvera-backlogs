@@ -1,0 +1,2 @@
+Raises errors for cases where FileSet derivatives cannot be loaded
+Resolves #132 by raising Valkyrie::Persistence::ObjectNotFoundError when derivatives cannot be loaded for a FileSet (and handles this by generating an empty  for the OpenSeadragon modal)

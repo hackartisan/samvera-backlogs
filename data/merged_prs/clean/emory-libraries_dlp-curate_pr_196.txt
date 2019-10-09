@@ -1,0 +1,2 @@
+WIP Adds webpacker and yarn
+Webpacker and yarn will replace the old Rails asset pipeline, and this gets us ahead of the curve. It also updates Hyrax to Beta 2.

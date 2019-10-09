@@ -1,0 +1,2 @@
+Add validation that source_metadata_identifier was an actual ID
+fixes #1321

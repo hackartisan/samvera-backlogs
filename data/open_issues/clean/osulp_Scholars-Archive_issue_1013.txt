@@ -1,0 +1,2 @@
+OAI, connect Set description to Admin Set abstract
+Currently there's no OAI Set Description configured (just title). This isn't critical, but some harvesters may display the description somewhere in their interface. This can pull from the Admin Set abstract/summary, though currently none of them have any values there.

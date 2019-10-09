@@ -1,0 +1,2 @@
+Update form helptext for Rights field
+Descriptive summary Update form help text for Rights to: "Apply 1 standardized rights statement. Explanations of the statements can be found at " This fixes the URL and removes the Creative Commons note, since those are in the License field.

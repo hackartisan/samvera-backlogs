@@ -1,0 +1,2 @@
+make title and creator single valued in edit form
+Use single_valued_form solution from escowles to make title and creator single valued in ETD edit form. This will likely be incorporated into Hyrax 2.x. Closes #160

@@ -1,0 +1,2 @@
+UV footer displays div.positionPlacemaker after ingesting scanned resources with the same bibID
+ 

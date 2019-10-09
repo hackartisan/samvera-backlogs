@@ -1,0 +1,2 @@
+add pdfjs viewer
+integrates PDF.js viewer for all PDF documents when present, highlights search query within PDF document  closes #12

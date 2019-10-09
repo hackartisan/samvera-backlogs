@@ -1,0 +1,1 @@
+Added collection to work before saving so collection ID will get indexed on the work. Story #128

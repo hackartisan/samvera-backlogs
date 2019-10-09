@@ -1,0 +1,2 @@
+Add ability to force suppressed resources to show in figgy index
+Children in a multi-volume resource (or in a MapSet) with bibids that are different from their parent resource need to be indexed so they can be searched. Also, it would be useful to have the ability to override index suppression for other edge cases.

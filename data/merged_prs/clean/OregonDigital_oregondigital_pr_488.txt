@@ -1,0 +1,2 @@
+Updated Compound Objects to behave as  says.
+Closes #86

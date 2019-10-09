@@ -1,0 +1,2 @@
+Updates to bootstrap and FactoryBot
+This updates bootstrap to address some security vulnerabilities as well as updates to all of our other gems, including FactoryBot, which includes some changes to static attributes. The Mini-Racer gem also replaces therubyracer, for more updated compatibility.

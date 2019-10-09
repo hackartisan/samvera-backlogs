@@ -1,0 +1,2 @@
+Add _label to Hyrax::ImagePresenter::TERMS and SolrDocument 
+Add _label to Hyrax::ImagePresenter::TERMS marc relators Add _label to SolrDocument attributes and methods

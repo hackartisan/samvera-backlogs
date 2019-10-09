@@ -1,0 +1,1 @@
+Replace crystal-clear icons with ddr-icons. Set icon based on display format.

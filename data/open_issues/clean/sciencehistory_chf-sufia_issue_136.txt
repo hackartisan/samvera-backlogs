@@ -1,0 +1,7 @@
+'place' fields should autocomplete with fast/geographic and fast/corporate
+depends on #81
+Why do we want to allow corporate names in the 'place' field?  Is FAST corporate vocab actually used for some geographic headings, or are we intentionally wanting to allow headings that aren't obviously geographic here?  Just trying to understand context. 
+If I'm remembering correctly, the latter--some curators wanted to be able to document the institution of origin as well, like Kodak or University of Chicago, that kinda thing.
+Thanks ! A corporate author like that, or whatever you want to call it, actually does make sense in a 'place' field, from your professional metadata perspective?
+Yep! Here's an example of Caltech being used: 
+tech note: rather than replace our JS so it can pull from two sources, as anna suggests in #81, we could instead write a new source for the `qa` gem that pulls from both fast vocabs and combines them, somehow. 

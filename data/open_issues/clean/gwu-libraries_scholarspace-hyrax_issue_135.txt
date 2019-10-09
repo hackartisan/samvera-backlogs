@@ -1,0 +1,2 @@
+Add ffmpeg install/config
+And config in config/initializers/hyrax.rb

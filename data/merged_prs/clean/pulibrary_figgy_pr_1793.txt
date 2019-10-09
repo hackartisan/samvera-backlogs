@@ -1,0 +1,2 @@
+Add photographer to SimpleResourceChangeSet
+Allows MODS import of photographers.

@@ -1,0 +1,2 @@
+add w3c option to selenium setup
+fixes #560

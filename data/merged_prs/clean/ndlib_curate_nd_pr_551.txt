@@ -1,0 +1,2 @@
+Make doi an alias for identifier
+Make doi an alias for identifier @ae883916a7f670ff50e54662baf83b813c89528f Correct sequence of alias methods @1e944c2ce154cfeb993820798c57bf1b372481a1

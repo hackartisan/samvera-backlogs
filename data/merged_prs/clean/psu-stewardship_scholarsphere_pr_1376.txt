@@ -1,0 +1,2 @@
+Removing zeros from the table after the user stats are tallied
+Remove Zeros Add a longer delay in test to get travis to pass more often

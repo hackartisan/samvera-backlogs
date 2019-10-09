@@ -1,0 +1,2 @@
+Creator Field Auto populate similar NU directory names
+i.e. Entering "Martin, John" keeps auto-populating "Martin, John Mitchell" from the NU directory.

@@ -1,0 +1,2 @@
+Add a workflow setup tag for RSpec
+This simplifies workflow setup by allowing a default :workflow tag, with optional arguments for workflow configuration.

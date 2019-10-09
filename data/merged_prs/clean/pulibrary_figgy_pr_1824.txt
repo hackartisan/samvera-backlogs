@@ -1,0 +1,2 @@
+Validate that PDFs exist in decorator
+Fixes #1821

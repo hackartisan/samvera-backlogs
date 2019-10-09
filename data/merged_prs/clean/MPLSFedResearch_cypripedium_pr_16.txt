@@ -1,0 +1,2 @@
+Revert "Add paper work type"
+This reverts commit 9e8e33c.

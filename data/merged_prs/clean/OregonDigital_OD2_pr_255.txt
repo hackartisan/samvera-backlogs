@@ -1,0 +1,2 @@
+update metadata per map changes
+In this context facetable is sim stored indexed multivalued Fixes #210

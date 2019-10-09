@@ -1,0 +1,2 @@
+Hard code fpici as an email cc default
+Notifications cc should be set via ENV['EMBARGO_NOTIFICATION_CC'] However, should that environment variable ever become un-set, we should have a sensible default in place. Connected to #1956

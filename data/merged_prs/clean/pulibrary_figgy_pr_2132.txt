@@ -1,0 +1,2 @@
+Add widget for adding Recordings to Playlists
+Closes #2098

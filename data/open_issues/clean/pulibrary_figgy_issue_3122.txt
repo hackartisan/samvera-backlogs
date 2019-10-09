@@ -1,0 +1,5 @@
+Switch to CircleCI image that has Chrome pre-installed
+a list of the updated ruby tags.  We updated pulmap with - image: circleci/ruby:2.4.6-node-browsers without including the extra chrome installation. also check 
+Is this a proposal to update which base Docker image we're using for Circle?
+I came across this when we updated pulmap; We updated the image not to include the extra step to install chrome.  
+yes, I think since the new images have the fix for chrome we could try to update them.

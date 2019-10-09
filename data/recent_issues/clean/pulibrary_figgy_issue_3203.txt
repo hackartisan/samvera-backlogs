@@ -1,0 +1,2 @@
+Title of Playlist should show in viewer in addition to the title of the track
+Requested by Dan

@@ -1,0 +1,2 @@
+Add temporary override to hide Explore Collections tab.
+Fixes #1385

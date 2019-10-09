@@ -1,0 +1,2 @@
+Add honeybadger
+We need a way to see errors that are being thrown in production, especially by background jobs.

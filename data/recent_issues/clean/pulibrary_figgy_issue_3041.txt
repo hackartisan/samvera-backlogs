@@ -1,0 +1,2 @@
+Add preservation support to a/v resources
+Do we want a whole Archival Media Collection package to be the unit of preservation, or each Media Resource? Implement by adding the preserve property.

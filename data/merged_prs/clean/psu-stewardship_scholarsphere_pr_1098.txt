@@ -1,0 +1,2 @@
+Shows and Hides the Remove Link for Creator Based on Number of Creators
+Adds javascript to show or hide the remove button based on the number of creators. Passes variable with inline style to show/hide to the creator partial.

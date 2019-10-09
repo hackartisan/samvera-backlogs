@@ -1,0 +1,1 @@
+Small adjustments to spacing related styles in sidebar

@@ -1,0 +1,2 @@
+Neaten front page appearance
+This neatens up the front page spacing by removing gaps around the footer and extraneous borders around the navbar image. This removes a blur filter that is being applied to the header image. It reduces the font size of the text in the footer so that it is not so prominent.

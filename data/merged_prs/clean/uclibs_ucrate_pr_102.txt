@@ -1,0 +1,2 @@
+Adds name in user.rb.
+Fixes #100

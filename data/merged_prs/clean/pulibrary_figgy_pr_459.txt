@@ -1,0 +1,2 @@
+Displaying 'New Category' header when adding a sub-vocab
+Fixes #312

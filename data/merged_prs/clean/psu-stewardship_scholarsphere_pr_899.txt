@@ -1,0 +1,2 @@
+Check removed permissions on works, ref #890
+When removing permissions from a work, the changes were not getting copied down to contained file sets. Overriding Sufia's controller to check for removed permissions fixes the issue.

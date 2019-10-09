@@ -1,0 +1,2 @@
+acquire WPI email for Hyrax
+we need to get an email address to send and recieve from for hyrax notifications and embargo related things.

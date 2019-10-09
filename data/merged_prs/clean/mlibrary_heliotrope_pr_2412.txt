@@ -1,0 +1,2 @@
+Addresses HELIO-1988 Fix display of filters when zooming only text.
+Found that (reverting to) use of the facet-count class rather than facet-pivot-count class allows the (e.g.,) format facets to display like the reasonably well-behaved section facets.

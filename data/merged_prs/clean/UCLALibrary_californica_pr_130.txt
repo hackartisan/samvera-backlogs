@@ -1,0 +1,1 @@
+Description field for CSV importer. Connected to #96

@@ -1,0 +1,4 @@
+Problem uploading subsequent version of a file
+I tried to load a subsequent version of the file at  I would like to replace the PPT file with a PDF, but the process would not complete.  It stalls when loading the new file.
+I am getting a pdf file for the latest version now. It must have taken some time to process in the background. If the "stall" part persists, we should handle appropriately.   Not sure if the '.pptx' is meant to be part of the name of this record/deposit, but that can be misleading too. Maybe we should be removing file extensions from automatic naming. 
+Thanks, Austin - really appreciate it! Have a great new year -- and see you in 2019! :-)

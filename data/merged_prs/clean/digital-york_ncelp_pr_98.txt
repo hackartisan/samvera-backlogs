@@ -1,0 +1,2 @@
+Detail page improvements
+resolves #93 resolves #94 resolves #86 resolves #84

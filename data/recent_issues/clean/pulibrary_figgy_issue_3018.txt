@@ -1,0 +1,2 @@
+LA bag ingest - Emir Rodriguez Monegal Papers resource with no component id
+One item in the Emir Rodriguez Monegal Papers came through with no title, presumably because it couldn't find a component id.  

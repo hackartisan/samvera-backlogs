@@ -1,0 +1,2 @@
+Retain provided collections when switching create pages, ref #860
+If you had previously selected a collection to which you were gong to add a batch of new works, the collection id is not retained if you switched to a single work creation page, and vice-versa. This provides helper methods that keep the collection id parameter in the url when changing between batch and single work creation.

@@ -1,0 +1,2 @@
+Adding New Relic tracer to Metrics::Collection
+Description Capture statistics from New Relic when we run our benchmark metrics. Why was this necessary? New Relic was not capturing any data when benchmarks were run. Adding the tracer to the process solves the issue. This was based on documentation from New Relic:  Changes Are there any major changes in this PR that will change the release process? No. Checklist   i18n enabled  adequate test coverage  accessible interface

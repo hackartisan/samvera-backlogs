@@ -1,0 +1,4 @@
+Not all DigitalInstantiations from Batches#show are shown in Assets details page
+Background: After ingest, when looking at /batches/[id], some Assets show that they have child DigitalInstantiations which aren't showing up when you go to the details page for the Asset.
+This is happening because for reasons unknown, some of the `PhysicalInstantiation` objects are _not_ getting added as `ordered` members of the `Asset` instance.  The result of this is that the `DigitalInstantiation` is missing from the display, because only the `ordered_members` are shown.  It's unclear why one `DigitalInstantiation` might be not getting added as an ordered member, while others are; the code to add the `DigitalInstantiation` to the `Asset` is the same (in the ingest gem and in the actor stack).
+ why did you reopen this? Is there additional work that needs to be done?

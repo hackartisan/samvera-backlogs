@@ -1,0 +1,2 @@
+Release 1.93.0
+Descriptive summary  Version: 1.93.0 Release Manager:  Product Owner and Reviewer:    (shared since Gabriela is out) Operations:    To Verify Tickets to review are noted in the release notes:  Related Deploys To handle support for proper created/modified dates: ucsdlib/damsrepo#94

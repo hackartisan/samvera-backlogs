@@ -1,0 +1,2 @@
+Filter out non ISO 19115 topic categories in Vector and Raster GeoBlacklight documents
+Closes #1427

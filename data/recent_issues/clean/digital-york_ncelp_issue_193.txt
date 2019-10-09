@@ -1,0 +1,2 @@
+Change which collections appear on homepage
+Can we change which collections appear in the box on the homepage? At the moment it looks like you see the 5 collections that were created first (i.e. the oldest). Would it be possible for us to specify which ones appear there (like the feature option)?

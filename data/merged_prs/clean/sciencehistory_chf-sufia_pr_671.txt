@@ -1,0 +1,2 @@
+Cast back to string before sending so as not to affect other field types
+grr. fixes bug introduced in #670.

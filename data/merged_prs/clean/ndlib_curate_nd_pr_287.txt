@@ -1,0 +1,2 @@
+Improving fault tolerance of ETD degree name
+Instead of requiring an exact match in order to render the degree, I'm opting to fallback to the given value. In this way, as we move from the abbreviations of ETD's degree names into the expanded ETD degree name both methods will work. ATTN: 

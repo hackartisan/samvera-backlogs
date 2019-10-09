@@ -1,0 +1,3 @@
+Pare down dashboard for "Shelf" or bookmarking functionality for Researcher role.
+Descriptive summary As a researcher, I want to bookmark and share collections, items, and searches that I've gathered. Expected behavior For the "authenticated_user" but not Submitter/Editor/Administrator (dubbed "Researcher"), the dashboard menu to the left will need to be pared down. Whether this is a role "below" Submitter or some anti-role as defined above might still be a decision. Regardless, that "Researcher" should not be presented with some dashboard menu items: under Activity/Your Activity, do not show  Transfers Manage Proxies  The dashboard menu will include a Searches menu item below Collections and Works. Related work Related mockup: 
+POSM review - closed

@@ -1,0 +1,2 @@
+Adding a model to store a singular field in the Base MAP. refs #15
+This is the basic model for storing information about a field in the Base MAP (Metadata Application Profile) Each field can have the following specified:  label field type requirement designation controlled vocabulary default value display name display transformation multiple validation

@@ -1,0 +1,2 @@
+Add code to list view partial sources in development mode
+Set the environement variable EXPLAIN_PARTIALS=true before starting your rails server in development mode to have additional comments included in your HTML source that show the file corresponding to each partial being rendered. Closes #198

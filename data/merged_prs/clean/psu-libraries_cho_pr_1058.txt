@@ -1,0 +1,2 @@
+Override HTML5 validations to match our UI pattern
+Description Using a stimulus controller, we change the default behavior of HTML5 browser validations so that they match the existing behaviors of our other remote validations. Before  After

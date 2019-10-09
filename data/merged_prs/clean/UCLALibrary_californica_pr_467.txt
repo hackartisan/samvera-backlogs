@@ -1,0 +1,2 @@
+Index the ARK on Collection records
+Added a CollectionIndexer class so that we can customize indexing for Collection records. Pulled the ARK and identifier indexing code into a separate module so that it could be used by both WorkIndexer and CollectionIndexer. Connected to #432

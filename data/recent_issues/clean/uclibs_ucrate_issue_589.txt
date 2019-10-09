@@ -1,0 +1,2 @@
+Run through the manual test script after everything is merged
+Descriptive summary After #577, #582, and #584 are merged, we need to run through the manual test script one more time.

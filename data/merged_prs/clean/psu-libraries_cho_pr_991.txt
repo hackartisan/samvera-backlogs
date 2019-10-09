@@ -1,0 +1,2 @@
+Can delete Agents only if they have no members
+Description If an Agent has any members (for example, works they're listed as a creator upon), the delete link is hidden. Otherwise the delete link is visible, with a javascript "are you sure...?" confirmation. Connected to #837 Changes  Add method to fetch member ids of an Agent Update Ability class to ensure an Agent has no members before allowing it to be deleted

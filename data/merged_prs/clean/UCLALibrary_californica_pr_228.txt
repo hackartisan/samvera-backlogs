@@ -1,0 +1,2 @@
+Add Coverage.geographic ->location mapping to the CSV ingest
+connects #102

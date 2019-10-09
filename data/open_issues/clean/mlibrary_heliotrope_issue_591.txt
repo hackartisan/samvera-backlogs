@@ -1,0 +1,4 @@
+Iterate on Previous/Next to be relevant to the asset list
+Breadcrumbs from search on asset page  Mouseover on previous/next reveals title  Change attribute renderers to preserve existing facets and search terms in their links, so that the current search is refined and not replaced entirely
+ I recall us deciding that this should be part of usability testing to see if this is what users really expect/want and I do see it listed on the Epic Usability Testing ticket 719 (as Next/Previous asset buttons). Do you think this ticket (591) should be closed and we should just recreate it, if it's determined to be needed, after usability testing?
+ I agree this one has aged a bit but I still think this is a useful ticket to keep around because it captures a few things we wanted to add to the previous/next buttons and highlight known usability issues, whether they come up in usability testing or not.

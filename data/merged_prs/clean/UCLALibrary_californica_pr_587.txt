@@ -1,0 +1,2 @@
+Only whitelist /opt/data for file attachments
+Fixes CAL-582

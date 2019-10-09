@@ -1,0 +1,2 @@
+Re-enable File Manager Affix
+Closes #65

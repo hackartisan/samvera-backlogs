@@ -1,0 +1,2 @@
+Don't save blacklight searches
+STORY Blacklight saves all searches in all sessions by default.  Hyrax does not provide a means to access this information, so saving it potentially consumes significant space (think web-crawlers and indexers).  We would like to disable the blacklight feature that saves search data. DETAILS See conversation in this blacklight PR projectblacklight/blacklight#1736 (comment)  ACCEPTANCE   Blacklight does not save search history (confirm by posting a screenshot from a live system showing console output of saved search counts = 0)

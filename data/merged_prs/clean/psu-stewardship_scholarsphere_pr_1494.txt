@@ -1,0 +1,2 @@
+Update Loofah
+The loofah gem needs updating because of  This PR requires #1491 be merged first.

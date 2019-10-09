@@ -1,0 +1,2 @@
+Mitigate cor- prefix and pair tree performance concerns
+Relates to #474. DCE recommended either reversing the string for Fedora, or removing the "cor-" prefix from the pair tree in Hyrax code. Currently, the minter ID template uses 'cor' as a prefix, which causes performance issues with Fedora, because of its pairtree node creation. Rather than changing the behavior of ActiveFedora, we should change our ID template to frontload the random bits.   Change the ID template to use 'cor' as a suffix  Update tests to conform to the new template.

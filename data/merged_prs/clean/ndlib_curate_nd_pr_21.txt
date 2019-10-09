@@ -1,0 +1,2 @@
+Improve the required field indicator
+i8n to the rescue!

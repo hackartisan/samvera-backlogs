@@ -1,0 +1,2 @@
+Avalon Media Player Not Loading on Staging
+The media is failing to load in the Avalon Media Player in AMS. It is being caused by an issue where we're using a YAML reserved character at the beginning of one of our Sony Ci credentials.  Done When * the Avalon Media Player plays media from Sony Ci on staging.

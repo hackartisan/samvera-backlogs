@@ -1,0 +1,2 @@
+Update copyright.html.erb
+Fixes #1013 and #1014

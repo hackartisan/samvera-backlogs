@@ -1,0 +1,2 @@
+2 separate Type facets showing up
+Descriptive summary There's currently 2 separate Type facets showing up. I believe this is because old index values are hanging around, and we need to reindex all works.   Expected behavior Only 1 Type facet

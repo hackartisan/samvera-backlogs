@@ -1,0 +1,4 @@
+Ephemera Folder form should warn when folder number has already been used within parent
+As captured during a meeting held on 12/08/17, at least a warning should be issued when duplicated Folder barcodes or numbers are entered
+There's a test for this here:   Weird that it's not working.
+I believe the original issue was with "Save and Create Another" — when it wasn't providing a flash message, they clicked the button several times because nothing seemed to happen.  So maybe we should consider validating uniqueness of these fields?

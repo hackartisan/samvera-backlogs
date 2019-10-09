@@ -1,0 +1,2 @@
+Auth Token should not query db when auth_token is null
+When I run Figgy in development mode, I see many lines out output like this:   CACHE AuthToken Load (0.2ms)  SELECT  "auth_tokens".* FROM "auth_tokens" WHERE "auth_tokens"."token" IS NULL LIMIT $1  [["LIMIT", 1]]  Figgy should only try to load auth tokens from the db when an auth_token parameter is provided by the client.

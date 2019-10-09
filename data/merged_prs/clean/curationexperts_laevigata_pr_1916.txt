@@ -1,0 +1,2 @@
+Environmental Studies --> Environmental Sciences
+Emory College has changed the name of a department from Environmental Studies to Environmental Sciences. Reflect this also in a system spec.

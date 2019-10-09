@@ -1,0 +1,2 @@
+Remove 'My Delegates' from menu
+DLTP-1359 :  The delegate feature is inadvised to use currently. Removed the 'My Delegates' from the Manage menu item to prevent new entries.

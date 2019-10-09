@@ -1,0 +1,2 @@
+adding clamav to aws group
+part of  and  to check and see if virus scanning is working, you basically need to check for the absence of this error message 

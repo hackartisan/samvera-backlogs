@@ -1,0 +1,2 @@
+Use raise_on_missing_translations
+This raises an error if we use a missing i18n translation.

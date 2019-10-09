@@ -1,0 +1,1 @@
+add fully encoded texts blog post to fulcrum

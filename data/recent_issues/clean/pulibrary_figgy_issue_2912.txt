@@ -1,0 +1,2 @@
+Create NumismaticNote resource
+Will be nested in NumismaticIssue. Properties:  type note

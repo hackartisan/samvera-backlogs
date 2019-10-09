@@ -1,0 +1,2 @@
+Cover more cases for work view permissions
+Fixes #756 Case: Work is suppressed for review & user is a reviewer with workflow permissions Access group permissions in solr document only present when work is suppressed, otherwise it's public. This should be ok since we can handle viewing works with cancan instead of blacklight. This might become a problem for searching. Case: Work is restricted to OSU or UO institution CanCan cannot ability applied to works with 'osu' or 'uo' visibility

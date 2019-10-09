@@ -1,0 +1,2 @@
+Store files in bags on the filesystem
+This commit changes the Pairtree class so that it stores files in a bag structure. The structure looks like: /repository/ms/t3/ka/bc/mst3kabc 1528492618/ ├── bag-info.txt ├── bagit.txt ├── data │   └── world.png ├── manifest-md5.txt ├── manifest-sha1.txt ├── tagmanifest-md5.txt └── tagmanifest-sha1.txt                                                              So you have as root repistory folder, a pairtree for the idenitifier, a unix timestamp for versioning, which is a bag. This change uses the ruby bagit library to create the bag: 

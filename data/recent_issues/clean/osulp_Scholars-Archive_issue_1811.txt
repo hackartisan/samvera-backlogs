@@ -1,0 +1,2 @@
+Make helptext wrap on edit page
+Descriptive summary The edit page helptext extends beyond the field and looks bad. Expected behavior Text has a set end point or continues along the field. Question: Should the text extend along the whole field or have a set point where it wraps? Actual behavior  Steps to reproduce the behavior  Access edit page on SA  Related work #1810

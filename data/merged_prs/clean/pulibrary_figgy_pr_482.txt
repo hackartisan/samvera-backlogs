@@ -1,0 +1,1 @@
+Include local_identifer in JSONLD output for Ephemera Folders

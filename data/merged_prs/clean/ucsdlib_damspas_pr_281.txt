@@ -1,0 +1,2 @@
+Add Contributing, PR, and Issue templates
+Remove existing Contributing as it's out of date Create Issue and PR templates  /developers

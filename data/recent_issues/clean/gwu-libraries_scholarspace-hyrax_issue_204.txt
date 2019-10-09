@@ -1,0 +1,2 @@
+Set up RIIIF image server
+Dependent on upgrading to Hyrax 2.1.0+ (#158) Follow 

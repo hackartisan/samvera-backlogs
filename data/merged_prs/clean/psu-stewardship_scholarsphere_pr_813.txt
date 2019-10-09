@@ -1,0 +1,2 @@
+rescue any error that occurs deleting the file
+The error occurs whenever you restart a job and can mask other exceptions being thrown in other parts of the code.

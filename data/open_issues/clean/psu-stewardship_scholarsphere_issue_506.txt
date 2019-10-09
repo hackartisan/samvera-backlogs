@@ -1,0 +1,4 @@
+QA Shares all Works in System to Users
+When I select the Works Shared with Me tab, I see 176 pages of works shared with me. I'm not that popular.
+![screen shot 2016-12-16 at 12 56 08 pm]( 
+This is happening because the user is an administrator.

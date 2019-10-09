@@ -1,0 +1,2 @@
+Permissions for Penn State
+If I add a person from Penn State and allow them to have special permissions, when Penn State only is selected it does not make much sense for the drop down to include view & download since they already have view and download privileges.

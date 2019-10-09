@@ -1,0 +1,2 @@
+link with characters is not displayed completely as active link 
+ The active link for the DOI on this page is not being properly displayed. It stops before the second parenthesis and so does not direct the user to the correct page. We need to make it a URL that is part of displayed metadata is completely displayed as an active link regardless of whether it has a close parens character (or non alphanumeric characters) in the link.

@@ -1,0 +1,1 @@
+Check media sync before checking range.

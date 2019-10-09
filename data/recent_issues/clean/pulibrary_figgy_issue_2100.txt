@@ -1,0 +1,2 @@
+NumismaticIssue and Coin search visibility
+Alan mentioned wanting to have the Coin resources visible to the end user while hiding the Numismatic issue. Child of #2025

@@ -1,0 +1,2 @@
+Use different predicates for the three copyright questions
+Closes #405

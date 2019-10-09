@@ -1,0 +1,1 @@
+HELIO-2531 Update bootstrap-sass gem

@@ -1,0 +1,2 @@
+SSH Access to CHO Servers for CHO PO
+As CHO product owner, I would like to be able to SSH to CHO servers, So that I can clear out files, check logs, and perform other similar activities without taking up the dev team's time. Some future tickets like #825 and #829 will help with these issues, but in the meantime, SSH would allow me to do what I need to. Also, there may be other, similar things in the future.

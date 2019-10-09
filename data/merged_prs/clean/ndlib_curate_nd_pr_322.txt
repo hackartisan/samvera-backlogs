@@ -1,0 +1,2 @@
+Including markdown editor for text areas
+Abstracts and descriptions are parsed as markdown. However, there is no way for patrons to know this and we give them no tools to use to help format their text. This PR includes SimpleMDE as a rich text editor.  Trello card

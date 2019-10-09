@@ -1,0 +1,2 @@
+Greg's Floobits for RubyMine configuration
+One Floo to rule them all.

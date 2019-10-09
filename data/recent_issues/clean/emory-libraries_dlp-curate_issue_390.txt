@@ -1,0 +1,2 @@
+Testing revision: NOIDs not being minted
+NOIDs do not appear to be minted in prod or test: the Fedora UUID shows instead. Example:  

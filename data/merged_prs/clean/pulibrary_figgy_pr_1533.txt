@@ -1,0 +1,2 @@
+Add viewing hint to canvases.
+I'm not sure if UV uses these, but we store things like "non-paged" via the order manager and should utilize that in the manifest. If UV -does- use these, this might be a good way to do photo albums.

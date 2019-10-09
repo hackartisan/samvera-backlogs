@@ -1,0 +1,2 @@
+error cropping up with newspaper ingest
+this is popping up on the dev server (but i don't think locally) during ingesting, i think during the characterization process (this is a ghostscript error(?)) ERROR: Unable to process JPXDecode data. Page will be missing data.

@@ -1,0 +1,2 @@
+Research CloudWatch Metrics
+Reworking this ticket for CloudWatch metrics. Scrum team has decided on proceeding with CloudWatch for logging purposes. Cloudwatch also includes a wide array of resource monitoring. This ticket will research which measurements we need. This is a good resource for measurements   Research which measurements and metrics will be best for our EC2  Capture metrics in yaml file for implementing with ansible role

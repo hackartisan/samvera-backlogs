@@ -1,0 +1,1 @@
+[rubocop] fix most Metrics/LineLength violations in config/ and bin/

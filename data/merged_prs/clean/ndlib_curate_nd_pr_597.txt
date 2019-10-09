@@ -1,0 +1,2 @@
+Ensuring osfProjectIdentifier indexed as string
+DLTP-823

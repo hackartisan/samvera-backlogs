@@ -1,0 +1,2 @@
+Using an upstream bug resolution in order to ensure that file system paths for `browse-everything` with punctuation can be resolved
+Originally reported by  and scoped within samvera/browse-everything#204

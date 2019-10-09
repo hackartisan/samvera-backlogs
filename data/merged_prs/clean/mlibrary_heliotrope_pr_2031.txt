@@ -1,0 +1,2 @@
+COUNTER tr_t1 unacceptably slow in production
+Temporarily exclude the tr_t1 report.

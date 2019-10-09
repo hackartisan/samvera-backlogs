@@ -1,0 +1,2 @@
+Removing etd from self deposit
+ the QA process encountered a problem with @50007102ba2b229541116a9143b59b13833db05b. I believe these changes are what was needed. Revert "removing etd from self deposit" @db3ddc9be4dc91f295dad438605f5d0694d03241 This reverts commit 5000710. Updating documentation and ETD deposit behavior @e272c00137efb7593317fe1f0569fbecf3aa2fc2  Adding explanation about how the constituent parts work together Ensuring ETDs are not part of the testing deposit (though that is not a burning need)

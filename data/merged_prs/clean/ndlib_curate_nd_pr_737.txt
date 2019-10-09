@@ -1,0 +1,2 @@
+Edit versions expects single file
+Fixes DLTP-1517 Multiple uploads are allow when adding files, but when changing a file only one can be changed at a time. Since the actor expects to replace a single file, it now picks up the first file from the array. The form is also changed to not allow multiple files to be uploaded in this case.

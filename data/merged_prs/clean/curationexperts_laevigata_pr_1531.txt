@@ -1,0 +1,2 @@
+Possible fix for affiliation not showing up
+If I remove the reject keys method from save and submit the data is persisted on the server and in savedData. Removing the method doesn't appear to have any side effects.

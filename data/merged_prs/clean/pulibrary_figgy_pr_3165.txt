@@ -1,0 +1,2 @@
+BrowseEverythingIngestJob rescues from not-found IDs
+Closes #2438

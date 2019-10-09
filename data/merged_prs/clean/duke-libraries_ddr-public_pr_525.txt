@@ -1,0 +1,1 @@
+Verify collection slug and return 404 if invalid; Add byebug

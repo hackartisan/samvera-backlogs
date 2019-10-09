@@ -1,0 +1,2 @@
+Fixity display isn't showing failed events
+See  It should have 1 failure.

@@ -1,0 +1,2 @@
+Refactor controlled vocab form partials
+We have a number of partials in app/views/records/edit_fields that are thin wrappers around ControlledVocabulary which seems redundant.  Maybe we should create a partial to DRY this up and make sure we always remember to do things like sort the values by label?

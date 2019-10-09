@@ -1,0 +1,2 @@
+Normalize display typeface size
+Updating header sizes on homepage and key root-level pages.

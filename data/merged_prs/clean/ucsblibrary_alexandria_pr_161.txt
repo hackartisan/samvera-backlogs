@@ -1,0 +1,2 @@
+OAI-PMH: export collections as sets
+Closes DIGREPO-899.

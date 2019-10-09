@@ -1,0 +1,2 @@
+Feature/css for compound objects
+For new compound objects, added small CSS truncation.

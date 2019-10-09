@@ -1,0 +1,2 @@
+/login works as sign_in path
+This is one way to get it to work anyway. /users/sign_in still works too. Not sure which will be used for internal route-generating. We can fine-tune this later, but this at least gets /login working so we can announce the new hostname URL with the easier path at the same time.

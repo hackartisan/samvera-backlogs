@@ -1,0 +1,2 @@
+Synthetic Cateogry landing pages
+With more control of titles of synth categories. The synthetic_category_param is unset, no longer allow query params to set category limits on ordinary results page, instead you use the category landing pages, woot.

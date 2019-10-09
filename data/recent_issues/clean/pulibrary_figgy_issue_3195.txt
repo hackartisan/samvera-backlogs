@@ -1,0 +1,2 @@
+Can't Bulk Complete Simple Resources
+I tried to bulk complete PUDL0100 (Arabic film posters), but got an error.  I tried to complete one item manually to debug, and got an error saying the title was missing, and it kicked me into the edit form (despite saying the edit form was disabled for resources with imported metadata).

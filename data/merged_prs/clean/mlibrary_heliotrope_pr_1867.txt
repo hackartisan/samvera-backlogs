@@ -1,0 +1,1 @@
+discard creator text after second comma

@@ -1,0 +1,2 @@
+File Selection Label and Browse Button with Screen Reader
+When testing New Work functionality using the GUI with a screen reader user, the label for the browsing your local drive for files to select was missed. Perhaps use a fieldsetwith the button to better label file selection or place the <input> inside of the label.

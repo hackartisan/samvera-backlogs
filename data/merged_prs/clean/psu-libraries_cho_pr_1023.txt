@@ -1,0 +1,2 @@
+Fix Chrome testing issues in Travis
+Description Updates the webdriver gem and Travis configs to use xvfb during Chrome browser-based tests. Headless options are removed, as full Chrome window will open upon testing. Follows the instructions outlined in  for enabling xvfb for tests that require a GUI. This may make running the locally break, as the version of Chrome you have installed could affect the success or failure of the test.

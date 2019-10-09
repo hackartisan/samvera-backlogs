@@ -1,0 +1,2 @@
+Removes default values
+#1257 Should be merged first since this will break the forms on the purchased e resource until that PR is merged. This is just an enhancement for that to remove the bum default values on the purchased e resources.

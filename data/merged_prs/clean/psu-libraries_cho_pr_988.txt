@@ -1,0 +1,2 @@
+Adds Fieldset to Upload Button for Better Accessibility
+Adds a fieldset to organize the label for the file browse and upload functionality of the form for better accessibility. Description During user accessibility testing, the user didn't immediately find the upload button among all of the metadata fields. Suggestion was to add a fieldset to make it more noticeable and navigable. Connected to #867 Changes  Adds fieldset and legend

@@ -1,0 +1,2 @@
+Rollback sidekiq for redis commands
+Fixes #1223

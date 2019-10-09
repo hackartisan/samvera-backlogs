@@ -1,0 +1,2 @@
+Ingest "Numismatics" (pudl0049)
+We've decided to migrate these, but they may have a custom data model. These weren't in PUDL before, so we can likely delay. On hold until data model discussions.

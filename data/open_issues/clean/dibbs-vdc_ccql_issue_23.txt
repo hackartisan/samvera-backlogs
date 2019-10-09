@@ -1,0 +1,3 @@
+Ingest of a directory/folder (Directory Structure)
+Based on a test by Penn State, when ingesting a folder or director, the structure of the directory is lost.  We need to discuss how to preserve both the structure of a directory/folder and also how to preserve file names that are used by the researcher.
+This might be a useful link to start with:   Also, a mention of nested collections, which sounds relevant:  This functionality may be added with Hyrax 2.1.0

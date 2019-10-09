@@ -1,0 +1,2 @@
+change product name to Scholar@UC in hyrax.en.yml
+Fixes #243 Changed product_name from 'UCrate' to 'Scholar@UC'

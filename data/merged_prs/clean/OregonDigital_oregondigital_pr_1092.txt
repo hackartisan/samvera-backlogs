@@ -1,0 +1,2 @@
+Update Format URI in ingest and specs
+Also updated webmock for format URI fetch. Added check for existing Format URI on Ingest. Fixes #1088 Fixes #942

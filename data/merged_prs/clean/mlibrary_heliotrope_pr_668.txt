@@ -1,0 +1,2 @@
+Prev/Next links for Monograph FileSets
+Resolves #586

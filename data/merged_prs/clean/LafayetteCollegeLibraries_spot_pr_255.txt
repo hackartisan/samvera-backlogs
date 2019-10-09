@@ -1,0 +1,2 @@
+upgrade nokogiri
+per CVE-2019-5477, bumps nokogiri to 1.10.4

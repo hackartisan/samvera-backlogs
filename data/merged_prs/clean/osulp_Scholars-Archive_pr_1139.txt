@@ -1,0 +1,2 @@
+added validation for related items
+implemented validate method for nested_related_items (ended up moving it to the add_other_field_option_actor.rb so that it works together with other validation methods in this actor) fixed app/views/hyrax/base/_form.html.erb to display error messages at the top of the form (rebased from latest build of hyrax) added a new partial app/views/hyrax/base/_form_scholars_archive_error.html.erb that contains error messages related to our validation methods in add_other_field_option_actor.rb and enabled it at app/views/hyrax/base/_form.html.erb

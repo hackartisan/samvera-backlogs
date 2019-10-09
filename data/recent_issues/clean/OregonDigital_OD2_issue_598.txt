@@ -1,0 +1,2 @@
+[Design Needed]Search: Add Advanced Search and New? Start Here links below search box
+Descriptive summary Below the search box, add an 'Advanced Search' link (inactive) left aligned and a 'New? Start Here' link, right-aligned, that can go to a placeholder page created in Hyrax. Wireframe mockup:  (Information compiled by POSM group from updated wireframes) Expected behavior These 2 links should be below the search box on every page. Related work Loosely related to #595

@@ -1,0 +1,1 @@
+Remove supplemental file from cached data.  Connected to #1755

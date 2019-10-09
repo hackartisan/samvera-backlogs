@@ -1,0 +1,2 @@
+Fix auto-fill for the publisher field
+After troubleshooting with , the issue seemed to come from the fact that the setPublisher file wasn't being loaded when the user tried to edit the file. This was due to the way that it used to load via turbolinks. This was changed to whenever a page loaded, and voila.

@@ -1,0 +1,2 @@
+deployment needs to symlink the collection branding images
+Descriptive summary Collection headers and icon images are stored in a directory on the server that isn't persistent between deployments.   Move branding directory to shared (persistent) storage  Add symlink to deployment  Only for the next deployment that includes this PR; manually symlink the public/branding as this won't automatically occur until the following deployment

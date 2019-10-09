@@ -1,0 +1,3 @@
+Accessibility testing
+We need to run Accessibility tests before going to production. Especially during UI/UX design and dev.
+ 

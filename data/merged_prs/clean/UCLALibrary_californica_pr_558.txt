@@ -1,0 +1,2 @@
+Validate CSV via browser uploaded file
+Be able to upload a CSV via the browser Validate the CSV against Californica's required fields Raise an error if there are missing required headers Raise a warning if there are unrecognized headers  Connected to #503

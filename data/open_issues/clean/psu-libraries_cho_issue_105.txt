@@ -1,0 +1,3 @@
+Collection-Specific Metadata Displays
+As a metadata manager/collection curator, I'd like to be able to set which fields display in a results page in the public view, so users can sort by fields relevant to that collection, not just the default fields. Linda B.
+Actuate only when searching from the collection show page?

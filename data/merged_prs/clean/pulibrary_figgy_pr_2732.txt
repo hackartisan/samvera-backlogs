@@ -1,0 +1,2 @@
+Remove artist attribute from the numismatic issue
+closes #2714

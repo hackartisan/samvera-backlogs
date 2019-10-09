@@ -1,0 +1,2 @@
+Load support files in test suite
+This turns on auto-loading for the support directory.

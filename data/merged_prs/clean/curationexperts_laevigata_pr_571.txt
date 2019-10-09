@@ -1,0 +1,2 @@
+Schedule jobs with whenever.
+Make it easier to demo daily jobs. Run fixity service daily Fixes #541 Fixes #527 Fixes #526

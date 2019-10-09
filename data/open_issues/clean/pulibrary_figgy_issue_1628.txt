@@ -1,0 +1,8 @@
+Ingest "Persian periodicals" (pudl0136)
+Notes: (In Progress)  Who is this in progress by?
+No PUDL collection page.
+I don't know about anybody working on this.  Given that it's a periodical, maybe  ?
+I'm not working on any PUDL projects.
+ Sorry for the shorthand Github messages — I was doing a second round of triage on the roughly 60 PUDL collections that still need to be migrated.  This collection, and several other periodical collections, might be good candidates for migrating to Veridian.  Do you have time to talk about how we should handle these?  I'm mostly free this week if you have time.
+The Persian Periodicals are something we've been pecking away at when Muhanad isn't working on ACO. Kim Leaman has been de facto project manager on this. They require some post-imaging processing requiring language proficiency, so the Isilon has just been a holding place for these.
+ I'm free all day today; we could talk this afternoon, or before/after the IT Suite meeting tomorrow at 1:30.  What works for you?

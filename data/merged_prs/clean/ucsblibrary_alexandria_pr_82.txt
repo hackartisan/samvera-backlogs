@@ -1,0 +1,1 @@
+Rakefile: ensure rake has access to lib modules

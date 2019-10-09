@@ -1,0 +1,2 @@
+Burn down the rubocop technical debt
+Descriptive summary .rubocop_fixme.yml has a list of exclusions for various style offenses. Each of these files need to be inspected to evaluate if there are clean and clear fixes to the offending code. In the cases that there aren't, arguably good, fixes for the offending code then we should surround those individual lines with a rubocop style disable. How to disable a specific portion of code; # rubocop:disable Metric/LineLength "blkj ---- SOME SUPER LONG LINE ----AsdfasfdDQFe" # rubocop:enable Metric/LineLength

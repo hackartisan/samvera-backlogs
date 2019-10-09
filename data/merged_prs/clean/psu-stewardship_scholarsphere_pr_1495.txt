@@ -1,0 +1,2 @@
+Use DataCite to mint DOIs
+Updates the ezid-client gem to support the EZ API and adds the required credentials for authentication. We can still continue to use the current EZID API by using the appropriate EZID_HOST and corresponding user, password, and handle. When the time comes to switch to using DataCite's EZ API, we specify the DateCite hostname, as well as corresponding user, password, and new handle. Connected to #1237

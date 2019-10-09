@@ -1,0 +1,2 @@
+Verify that deleting a file deletes all versions
+Does this delete the entire directory.  Let's verify it.

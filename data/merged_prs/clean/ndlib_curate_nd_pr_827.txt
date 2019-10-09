@@ -1,0 +1,2 @@
+Move Api::QueryBuilder
+Move query builder out of the items controller and into a service.

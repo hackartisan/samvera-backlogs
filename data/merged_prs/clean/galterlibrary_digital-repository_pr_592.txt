@@ -1,0 +1,2 @@
+Add altmetric donut
+Pending altmetric approval for our production and staging sites. closes #574.

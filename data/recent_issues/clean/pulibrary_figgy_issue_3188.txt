@@ -1,0 +1,2 @@
+Convert imaginary places from ScannedMap to ScannedResource
+     Note: Ensure these get removed from the maps portal, and show up in the catalog.

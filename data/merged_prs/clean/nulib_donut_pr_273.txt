@@ -1,0 +1,2 @@
+adds accession_number and id to all_fields for search
+Fixes  nulib/next-generation-repository#485  Allow users to locate works by entering id or accession number into search box

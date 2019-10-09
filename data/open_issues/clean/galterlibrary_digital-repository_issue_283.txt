@@ -1,0 +1,1 @@
+Convert single-member collections to indexable GenericFiles

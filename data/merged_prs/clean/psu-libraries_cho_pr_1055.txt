@@ -1,0 +1,2 @@
+More robust collection image path generation
+Description The original code I'd written to generate a URL for the collection representative images was a little too tricky for its own good and appeared to get confused with the symlinked directory in production. This new version is dumber, which in this case should be a good thing. Connected to #897

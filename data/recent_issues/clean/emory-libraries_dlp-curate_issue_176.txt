@@ -1,0 +1,2 @@
+Create Role(s) for Installing Java through S3
+Oracle Java changing the way you can download from their servers on 4/16/2019. As a consequence the UCLA role that installs Java is no longer working. This is a good opportunity to create a role that install Java from a bucket in s3.   Create role to manage s3 bucket  Create role to manage IAM role and give it permissions to access the s3 bucket  Rebuild EC2s with new IAM role  Test out java install with binaries being in s3

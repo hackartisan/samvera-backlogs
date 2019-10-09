@@ -1,0 +1,2 @@
+[Science History Institute Digital Collections/production] ActiveFedora::ActiveFedoraError: Model mismatch. Expected Hydra::AccessControls::Permission. Got: ActiveFedora::Base
+Backtrace View full backtrace and more info at honeybadger.io

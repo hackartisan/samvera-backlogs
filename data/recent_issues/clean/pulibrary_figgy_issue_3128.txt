@@ -1,0 +1,2 @@
+Enable OAI-PMH harvesting from clients
+This was requested by one user, and would appear to be readily supported by the usage of 

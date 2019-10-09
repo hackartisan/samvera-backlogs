@@ -1,0 +1,2 @@
+rubocop multiple expectations
+per agreement on slack, disable rubocop rule prohibiting multiple expectations

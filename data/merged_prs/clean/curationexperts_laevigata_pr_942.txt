@@ -1,0 +1,2 @@
+Support multiple original files in migration
+Some legacy objects have multiple original files. In this case, all of these files need to migrate.

@@ -1,0 +1,2 @@
+Bug/#574 Some users are confused when a a new work says no files are attached
+Fixes #574; Present short summary (50 characters or less) Changed text of the message explaining files are being processed to avoid having users add multiple copies of the same files by accident.

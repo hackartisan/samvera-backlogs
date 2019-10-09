@@ -1,0 +1,2 @@
+Rake task to reindex all works
+We currently have a Rake task to reindex all records.  But it would be nice to have a task to reindex all works (i.e., everything except FileSets) which would be much faster when reindexing for improvements not applicable to FileSets.

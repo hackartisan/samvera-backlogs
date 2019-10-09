@@ -1,0 +1,2 @@
+Alphabetize the research fields.
+Fixes #294

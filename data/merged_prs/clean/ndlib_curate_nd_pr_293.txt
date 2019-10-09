@@ -1,0 +1,2 @@
+Adding gem meta_request to enable RailsPanel
+RailsPanel code Chrome Extension

@@ -1,0 +1,2 @@
+Resolves #1187: EPub Class
+I added a rake task to the ci rake task: :lib_spec. The lib directory now has it's own spec directory.

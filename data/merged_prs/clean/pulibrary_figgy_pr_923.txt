@@ -1,0 +1,2 @@
+Adds BibId to Filemanager
+Fixes #669

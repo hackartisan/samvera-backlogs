@@ -1,0 +1,2 @@
+Two ingest errors
+While looking into another error, I noticed two errors that look like real problems: CheckFixityJob:  CharacterizationJob:  In both cases, it looks like the files were not ingested successfully.

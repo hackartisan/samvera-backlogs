@@ -1,0 +1,2 @@
+Removing redundant uploads controllers
+I believe these were draft work and have been replaced.

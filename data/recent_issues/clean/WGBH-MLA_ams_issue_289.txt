@@ -1,0 +1,2 @@
+Not all DigitalInstantiations from Batches#show are shown in Assets details page
+Background: After ingest, when looking at /batches/[id], some Assets show that they have child DigitalInstantiations which aren't showing up when you go to the details page for the Asset.

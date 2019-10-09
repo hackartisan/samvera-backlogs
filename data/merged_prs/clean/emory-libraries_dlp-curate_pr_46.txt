@@ -1,0 +1,2 @@
+Setup cap deploy
+Cap deploy for dlp-curate Connected to #29

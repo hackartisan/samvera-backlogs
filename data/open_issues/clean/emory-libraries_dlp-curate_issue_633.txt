@@ -1,0 +1,2 @@
+Log event for Virus Check
+Virus Check: after the checker service runs: 

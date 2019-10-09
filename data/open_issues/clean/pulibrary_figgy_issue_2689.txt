@@ -1,0 +1,2 @@
+Use wayfinders instead of decorators where possible
+There will be lots of places in the code that need this change. But it's important to do so we can get to a consistent state. child of #2691

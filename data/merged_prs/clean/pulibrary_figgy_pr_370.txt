@@ -1,0 +1,2 @@
+Index ephemera boxes' collection for ephemera folders
+Fixes #365

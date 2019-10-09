@@ -1,0 +1,2 @@
+Add link to Catalog for Source Identifier.
+Closes #695

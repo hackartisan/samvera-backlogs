@@ -1,0 +1,2 @@
+migration problem tracker
+not really sure where to put this, but piggy-backing off of #4, let's track some migration things that i don't wanna forget.    item id issue     cap-0468 image quality is super janky (see:  not sure if this is on the original.

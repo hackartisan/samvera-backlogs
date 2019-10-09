@@ -1,0 +1,2 @@
+Add repository field to Work
+This commit adds the repository field to the work with the modsrdf:locationCopySubLocation predicate. This commit introduces the WorkMetadata schema class which is part of a pattern used in Mahonia:  Connected to #100

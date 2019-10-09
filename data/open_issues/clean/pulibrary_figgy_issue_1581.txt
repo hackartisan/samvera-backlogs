@@ -1,0 +1,9 @@
+Ingest Western Americana (pudl0017)
+Notes: MODS for photos, MARC for Albums; WC54 and 55 have album-level MARC and photo-level MODS :-( Details:  Depends on #1675 Depends on #1674
+Files: 
+I think we should split this into an epic. The files are split into sub-sections:  8892958: We can just ingest it. c0199: We can just ingest this. c0622: We can just ingest it c0938: We can just ingest it c1353: We can ingest it c1357: We can ingest it C1398: We can ingest it C1407: We can ingest it wc004: We can ingest it WC054: This needs its own ticket. WC055: This needs its own ticket. WC064: This needs its own ticket.
+  What does "cxxxx" and "wcxxxx" signify?
+I blew up each sub-section into individual tickets in case some of the albums have complex viewing use cases.
+ You mean the "c" and "wc" in front of the numbers?  Those are part of the collection numbers assigned by Rare Books.  I always assumed the "c" was for collection.  I just called 5 RB people to ask for details but I can't get anybody this morning.
+ Yeah. If it doesn't have some special significance we have to deal with then I won't worry about it.
+Yeah, I've already just assumed they were different series of accession numbers. The info should be carried forward, but I don't think there's a need to parse it in any special way.  -Js  Sent via mobile. Please excuse typos, brevity, etc.  On Wed, Aug 22, 2018, 4:24 PM Trey Pendragon <> wrote:  >  <> Yeah. If it doesn't have some > special significance we have to deal with then I won't worry about it. > > — > You are receiving this because you were mentioned. > Reply to this email directly, view it on GitHub > <>, > or mute the thread > <> > . > 

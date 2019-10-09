@@ -1,0 +1,2 @@
+Related Links do not display with title field
+I found a hydrus record where the descMD contained a link to a related item, but it wasn’t displaying on the PURL. I assume this is because they had left the title field blank and only added the URL. As these aren’t required fields, the app will presumably let you do this, no problem. But it is a problem if it doesn’t display. Is there a good JIRA queue for that somewhere so it gets captured? I have corrected this so I don't have a concrete example, but it looked basically like this:             </title>                 

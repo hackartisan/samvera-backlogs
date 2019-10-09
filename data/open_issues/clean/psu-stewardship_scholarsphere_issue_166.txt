@@ -1,0 +1,5 @@
+Invalid user
+There is a username "" in the system that looks suspicious. This might be a bug (or a hacking attempt?). We should get rid of this user and prevent its creation in the future. According to the stats page, the user was created on 5/6/2015 Also, the user page does not return an error (e.g. user not found) when an invalid user is used. For example, you can go to  and not realize that this not a valid user.
+fixed by  
+Should clean up invalid users in production created by this issue 
+The following users exists in production with no files and no email.  I think these may be invalid users.  mqs5772 files: 0 dqs5090 files: 0 soa5279 files: 0  files: 0  files: 0 jat5589 files: 0 cbw5144 files: 0 dmc5867 files: 0 kir5239 files: 0 

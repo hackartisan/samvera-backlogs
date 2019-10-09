@@ -1,0 +1,2 @@
+adding contributor multi authority field, but missing viaf
+fixes  It looks like QA doesn't have out of the box support for viaf, but it looks like QA supports various ways of implementing other authorities. I created  to track adding VIAF

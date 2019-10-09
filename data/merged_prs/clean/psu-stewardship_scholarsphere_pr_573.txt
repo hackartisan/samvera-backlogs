@@ -1,0 +1,2 @@
+Making sure that multiple matches for batch upload and singular upload.
+fixes #501

@@ -1,0 +1,1 @@
+Resources should create a Tombstone when they're deleted

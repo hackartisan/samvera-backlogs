@@ -1,0 +1,1 @@
+When exporting an object to a bag, store the updated_at as the original resource's created_at/updated_at, but keep a bag_updated_at/bag_created_at for informational purposes.

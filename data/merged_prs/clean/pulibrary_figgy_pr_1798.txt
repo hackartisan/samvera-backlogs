@@ -1,0 +1,2 @@
+Updating rubyzip to release 1.2.2
+Addresses 

@@ -1,0 +1,2 @@
+Correctly encode the URL for translated facets, ref #998
+Facets that were translated from their original input, such as titleized or downcased, were not correctly rendered as urls for facet links. This changes TranslatedFacetAttributeRenderer to not use any additional html rewriting methods to generate the url.

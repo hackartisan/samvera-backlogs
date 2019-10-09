@@ -1,0 +1,2 @@
+Work Show Page: Item+Metadata downloads
+Descriptive summary #615 Added direct download links for items. Links are still needed for Metadata exported as a CSV, the item + CSV metadata (zipped), and the high resolution original + CSV metadata (zipped). Expected behavior  Download link for metadata provides export of work metadata as CSV Download link for item(s) + metadata provides a zip with above CSV and item image(s)  Related work #615 Accessibility Concerns N/A

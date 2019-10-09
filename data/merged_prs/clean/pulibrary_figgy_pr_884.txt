@@ -1,0 +1,2 @@
+Vue Filemanager now sets startCanvas on load
+fixes #883

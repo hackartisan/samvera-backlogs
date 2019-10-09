@@ -1,0 +1,1 @@
+Adds Registrar data query to Graduation Service.

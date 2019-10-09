@@ -1,0 +1,2 @@
+Add antivirus detection (clamav)
+Descriptive summary Install clamav bits on the Dockerfile and enable it in the initializer. Expected behavior Hyrax actors will perform antivirus detection on uploaded files. Related work The Dockerfile on Nurax has clamav installed and configured for the container:  clamav initializer :  Gemfile: 

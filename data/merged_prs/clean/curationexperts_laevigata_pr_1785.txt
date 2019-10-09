@@ -1,0 +1,2 @@
+returning and displaying user-friendly etd submission errors
+This commit adds some code that will catch, display and log Etd submission errors. It will display the error messages in a user-friendly way (formatted, as a sentence) and includes the suggestion to contact the Etd submission help department via an email link. It also logs the error as 'Create from IPE', error type and current user. Closes #1723.

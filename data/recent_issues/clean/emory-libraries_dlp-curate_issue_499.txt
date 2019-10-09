@@ -1,0 +1,2 @@
+Time boxed preservation workflow implementation
+Create preservation workflow model  Add curate work property  Write functional and unit tests  Assess approach after 1 day of implementation

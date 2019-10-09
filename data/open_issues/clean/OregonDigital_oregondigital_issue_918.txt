@@ -1,0 +1,4 @@
+folklore cleanup
+ I printed two json files for subjects that I think need to go in opns: could you look at them/take over if they look ok? one field seemed to be all personal names and one field seemed to be mostly corporate names. Nathan also mentioned that at some later date it might be nice to get them into getty... json and lists used to create json are in DigitalProjects/bags/opns_uris/folklore and for the remaining field, all of the terms were found on LOC, so I'm just going to swap those out.
+ I'll take a look now. Thank you! 
+ looks like there may be a lot of folklore terms that still need to be added to opns before we can harvest 

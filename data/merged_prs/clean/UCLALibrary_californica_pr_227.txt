@@ -1,0 +1,2 @@
+Add a service to reindex to another server
+This commit includes a service that reindexes the contents of the repository to another solr server. It is intended to be used with a Rake task. Connected to #214

@@ -1,0 +1,2 @@
+temp_file_cleanup.bash is attempting to cleanup mini in ruby-build
+In the log file you can see that we are attempting to cleanup files not just at the top level /tmp directory but also below.  I wonder if this is causing any harm? rm: cannot remove `/tmp/ruby-build.20160503120123.10192/ruby-2.3.1/gems/minitest-5.8.3/test/minitest': Is a directory

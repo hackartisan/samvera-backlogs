@@ -1,0 +1,2 @@
+Update link text for members of a collection
+gives number of members, uses word "items" instead of "members", which was confusing fixes #1781

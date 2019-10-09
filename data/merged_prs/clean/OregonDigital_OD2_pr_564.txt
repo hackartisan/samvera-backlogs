@@ -1,0 +1,2 @@
+Move collections routes to after Hyrax engine mount
+Fixes #547

@@ -1,0 +1,2 @@
+Rename properties
+Properties are plural if multiple: true Exceptions: title, creator- because of Hyrax; preservation_workflow- because it's in development   Properties should be alphabetized in translations, work model, and collection model.   Labels should always be singular, and have the form property_name (Display Label)

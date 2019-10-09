@@ -1,0 +1,2 @@
+Enable Media type to be controlled
+Descriptive summary Hopefully we can fully utilize what hyrax provides for controlled vocabulary support to quickly add controlled vocab fields, starting with media type. This includes  making a media type controlled vocabulary object configuring the properties to use that object in the metadata telling the form to change that uri into a activetriples::relation indexing using the deep indexing service presenter to present label instead of uri  Related #267

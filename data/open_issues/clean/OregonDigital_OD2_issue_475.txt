@@ -1,0 +1,3 @@
+UO login works but persists - will not logout
+Descriptive summary After successful UO login, cannot log back out. Cookie issue? Cached credentials? Expected behavior Can use logout link to exit session. Related work #173 is related
+Update: I get the toast message "Signed out successfully" in Chrome/Firefox, then when I click on the UO Login link (even after closing the tab), I get the "Successfully authenticated from saml account" toast without going through shib. When I logout, I get the "Signed out successfully" toast, but can immediately get logged back in without a reauth pass through shib. Expected behavior is that I would be forced to reauthenticate, true?

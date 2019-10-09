@@ -1,0 +1,2 @@
+Collection and Collection Type Names truncated in some views
+When editing a Collection or a Collection Type, the name of the collection is truncated to the first letter only: Curate prod:  Compared to Nurax stable:

@@ -1,0 +1,2 @@
+Analyze cookie usage for notification under GDPR compliance.
+Descriptive summary As a user of Oregon Digital, I want to be informed of the OD system's use of cookies in my browser(s). Expected behavior Per GDPR compliance, we'll need to analyze OD2's potential use of browser cookies against Nurax and OD1's current use and notify users of that. In OD1, _ga cookie is for Google Analytics... does that still apply? Related work Related to #53

@@ -1,0 +1,2 @@
+Feature/set crosswalk transform
+This makes it so when set is crosswalked from Fedora-Rels it strips off the info:fedora/ namespace. Also made some of the class definitions temporary in the shared specs.

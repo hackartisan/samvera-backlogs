@@ -1,0 +1,2 @@
+Change GeoBlacklight document dct_source_sm field name
+Change GeoBlacklight document field dct_source_sm to dc_source_sm to match upstream GeoBlacklight schema.  

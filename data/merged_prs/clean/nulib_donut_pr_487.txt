@@ -1,0 +1,2 @@
+Add link to wiki page about Collection Type indexing from Readme
+Make it easier to find information about Collection Type indexing (restricted to NUL Collection(s) in Elasticsearch ) by linking to the wiki from the readme

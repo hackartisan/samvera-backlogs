@@ -1,0 +1,2 @@
+MP3 generation from WAV files
+FFmpeg or LAME?

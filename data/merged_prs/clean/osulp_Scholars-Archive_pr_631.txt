@@ -1,0 +1,2 @@
+Sets abstract to proper label
+Fixes #558

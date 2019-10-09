@@ -1,0 +1,2 @@
+Dltp 748 add author to main search
+Claiming issue DLTP-748 @1c9348b4a668f4d3c3b0cfc9bb086309c8965a13 $ ./script/start-issue DLTP-748 [skip ci] Adding author field to catalog search @d5c89e7606f5dbc492c613aec5e5d25f2d9958c3 Closing issue DLTP-748 @27702abee71d888a52942baee1748e2d6779ff57 $ ./script/close-issue DLTP-748

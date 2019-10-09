@@ -1,0 +1,1 @@
+Correct documentation of the collection_images rake task

@@ -1,0 +1,3 @@
+Editing Large Collections
+As a metadata specialist, I would like to the UI for editing collections to work with very large collections, So that I don't have to scroll endlessly or through many pages to edit a large collection. This is an artifact from CONTENTdm where the project client limits the number of records on a page. Makes it very difficult to edit metadata for large collections.
+Moving to backlog, anticipating most metadata editing will be offline via CSV.

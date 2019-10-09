@@ -1,0 +1,2 @@
+Naming Extracted Text File
+Extracted text files are currently named by appending "_text.txt" to the existing filename. Instead of appending, this should replace the period and extension. E.g. "test.pdf" becomes "test_text.txt" NOT "test.pdf_text.txt" Related: #652

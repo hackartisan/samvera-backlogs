@@ -1,0 +1,2 @@
+remove Able Player's interactive transcript
+Resolves #745

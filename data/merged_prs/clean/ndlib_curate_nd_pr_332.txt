@@ -1,0 +1,2 @@
+Fix SVG logo scaling in Safari/Mobile Safari
+Solution derived from: 

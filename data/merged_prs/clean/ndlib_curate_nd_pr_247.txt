@@ -1,0 +1,2 @@
+Adding plum analytics details widget to show page
+The JavaScript is globally included—not ideal but functional. Addresses #215

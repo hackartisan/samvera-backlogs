@@ -1,0 +1,2 @@
+Bug fixes for ProQuest
+Match on PhD regardless of capitalization or punctuation At ProQuest submission time, state should be published, not approved

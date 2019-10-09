@@ -1,0 +1,2 @@
+Replacing "Open Access" with "Public"
+Change every instance of the "Open Access" access rights badge to read "Public". Also change the "Open Access with Embargo" to "Embargo then Public". This will span show pages and edit pages.  In addition, I found a form inconsistency in which some forms rendered "Public" with a badge/label and others did not. For these cases, I opted to normalize rendering "Public" with a badge/label. DLTP-1540 Related to ndlib/sipity#1183

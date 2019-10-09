@@ -1,0 +1,1 @@
+Resolves #722: Display an EPUB3 asset on its own show page

@@ -1,0 +1,4 @@
+Research using a messaging server for RD integration
+Descriptive summary Research the pros, cons, costs, and feasibility of using a messaging server for our integration with Research Directory. Example solutions:  RabbitMQ ActiveMQ  This also depends on IT@UC's ability to implement a server.
+Some resources:            
+Research (5/16) -  RabbitMQ ( - Open source ( - Smart broker/dumb consumer - Good documentation (especially for rails) - Well supported in Ruby - Supports multiple protocols - Free  ActiveMQ ( - Open source ( (issues @  - Smart broker/dumb consumer - Seems to only allow STOMP ( - Free  Research (5/17) -  Apache Kafka ( - Open source ( (issues @  - Dumb broker/smart consumer - Different type of messaging server, potentially could hold messages indefinitely - Potential of 1 million messages per second - Meant for simple setups (no complex routing) - Guide to use in Rails ( - Free

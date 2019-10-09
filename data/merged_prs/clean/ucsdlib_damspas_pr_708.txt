@@ -1,0 +1,2 @@
+github: do not automatically close PR issue
+Fixes #707 /developers - please review

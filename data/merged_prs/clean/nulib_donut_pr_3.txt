@@ -1,0 +1,2 @@
+Add omniauth support
+This PR adds omniauth signon via Northwestern University's SSO service. Make sure to run bundle install locally to pick up changes to the Gemfile. Set up dev authentication using instructions in the wiki.

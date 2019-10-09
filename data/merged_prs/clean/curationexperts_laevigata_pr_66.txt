@@ -1,0 +1,2 @@
+Initial capification
+Closes #4.  -dce please confirm that if you check out this branch and do BRANCH_NAME=capify bundle exec cap aws deploy the code deploys for you.

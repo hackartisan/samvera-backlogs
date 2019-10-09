@@ -1,0 +1,2 @@
+School changes when an ETD is edited
+When editing some ETDs, the school shown on the edit form is different from the school on the ETD's show page, and when the edited record is saved, the school changes. Examples:  (Emory College --> Candler)  (Rollins --> Candler)  (Laney --> Candler)

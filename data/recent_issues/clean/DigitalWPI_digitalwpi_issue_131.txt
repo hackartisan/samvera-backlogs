@@ -1,0 +1,2 @@
+recursive collection permission access
+finish up in ability.rb might add call to ability funcs here:  change views: 

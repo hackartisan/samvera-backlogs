@@ -1,0 +1,2 @@
+Fix for the search bar being on the left
+Closes #574 Closes #573

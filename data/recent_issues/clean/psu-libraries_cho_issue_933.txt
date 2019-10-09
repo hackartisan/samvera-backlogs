@@ -1,0 +1,2 @@
+Utilize polymorphic_path for edit path
+Can we use something better than an if statement to decide on the path? 

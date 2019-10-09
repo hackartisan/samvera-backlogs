@@ -1,0 +1,2 @@
+Program and Department issue
+There are some grey areas regarding the Program and Department. As far as I was told, a student can belong to only one program but can belong to multiple departments. Eg., Robotics program is part of Electrical, Mechanical and computer science departments. Identify all the Programs and all the Departments such that during the ETD submission, a user can choose these from a drop down menu.

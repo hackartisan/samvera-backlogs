@@ -1,0 +1,2 @@
+Add configuration options for PDN; closes #228, closes #273, closes #306, closes #318
+Adds date sort options (asc and desc). Sets the relevance sort tiebreaker to date. Adds optional configurations to support the PDR.  To require authentication add the following to config/local_env.yml: REQUIRE_AUTHENTICATION: "true" To set a custom logo add the following to config/local_env.yml: DDR_LOGO: "ddr/ddr-pdn-logo.png"

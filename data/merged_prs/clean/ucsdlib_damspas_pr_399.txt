@@ -1,0 +1,2 @@
+sync circle-ci ruby version with rbenv .ruby-version
+Changes proposed in this pull request:  sync .ruby-version and circle-ci ruby versions to 2.3.6 also remove extra test suite run. rspec is already configured to run in the circle-ci dashboard, so removing the test/post/bundle exec rspec lines in the config file which is causing a second run of the test suite  /developers - please review

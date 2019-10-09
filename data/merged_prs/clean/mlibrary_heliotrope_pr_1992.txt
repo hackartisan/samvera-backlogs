@@ -1,0 +1,2 @@
+Add markup and style new outline for monograph catalog TOC
+Resolves HELIO-2044

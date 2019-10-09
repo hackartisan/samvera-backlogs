@@ -1,0 +1,2 @@
+Enable ordering on all data dictionary properties
+Description Uses the latest features from Valkyrie to ensure all properties that are defined dynamically via DataDictionary are ordered by default. Changes Are there any major changes in this PR that will change the release process? No Checklist   i18n enabled  adequate test coverage  accessible interface

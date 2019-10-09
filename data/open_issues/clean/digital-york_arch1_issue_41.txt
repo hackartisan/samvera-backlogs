@@ -1,0 +1,2 @@
+Missing data
+With Register 15, folios 1-13: we have found that particularly on the verso side of each folio, all the details in the first entry are present, but for the other entries, only partial data is present. Marianne definitely completed work on all those folios, and the same result occurs if you look at the migrated data. The same thing has happened in Register 9B, between f. 555r and f. 569r.

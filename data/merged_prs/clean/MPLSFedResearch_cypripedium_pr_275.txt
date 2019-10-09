@@ -1,0 +1,2 @@
+Fix a spec that was failing intermittently.
+There is a known problem with Hyrax apps that causes Ldp errors.  There is a working group that will fix the problem in future versions of Hyrax.  See discussion here: samvera/hyrax#3128 For the specs that were intermittently failing, I cleaned before the specs to prevent clashes with existing records. Connected to #273

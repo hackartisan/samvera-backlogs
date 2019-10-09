@@ -1,0 +1,2 @@
+Add numismatic issue to home page and "+" button menu
+Child of #2025

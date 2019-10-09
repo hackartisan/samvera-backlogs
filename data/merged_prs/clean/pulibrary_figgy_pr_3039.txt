@@ -1,0 +1,2 @@
+Make show-page action buttons sticky
+fixes #3009

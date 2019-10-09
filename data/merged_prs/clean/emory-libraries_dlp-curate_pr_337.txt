@@ -1,0 +1,2 @@
+Database auth in production
+ Would it be okay if we use database authentication on our systems instead of getting shibboleth set up? It would let us get to the building of the importer much more quickly.

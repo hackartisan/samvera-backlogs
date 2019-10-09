@@ -1,0 +1,2 @@
+Refactor add_admin_role rake task to use env variable
+Run rake donut:add_admin_role ADMIN_USER[your NetID] or rake donut:seed ADMIN_USER=[your NetID] ADMIN_EMAIL=[your email]

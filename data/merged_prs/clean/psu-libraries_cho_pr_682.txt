@@ -1,0 +1,2 @@
+Import factory directory for building test fixtures
+Description The tmp directory was getting a little crowded with all the sample bags. This also cleans up our tmp directory before rspec is run.

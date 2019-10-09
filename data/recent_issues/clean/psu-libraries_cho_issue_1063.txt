@@ -1,0 +1,2 @@
+Submit preservation-files only bags, request derivatives
+As a repository manager, I would like to be able to import bags that include only preservation, preservation_redacted, or in some cases (media) service files, and let CHO generate derivative service, access, and thumbnail files, So that I can more easily migrate legacy collections and import large collections without having to organize and rename or generate a large number of files ahead of time myself. Blocked by #548 This might look like a checkbox on the GUI or tag file in the bag.

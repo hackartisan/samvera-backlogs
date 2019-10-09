@@ -1,0 +1,2 @@
+Ensures that the OrderManager handles thumbnails erroneously set to null values
+Resolves #2330

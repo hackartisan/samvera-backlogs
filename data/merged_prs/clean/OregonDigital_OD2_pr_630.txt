@@ -1,0 +1,2 @@
+move solrize deeper to work for all vocabs
+This just updates resource to use the language lable, so all vocabs adhere to this.

@@ -1,0 +1,2 @@
+Set search params for groups
+Remove access controls from search parameters only for managers. Fixes DLTP-1593

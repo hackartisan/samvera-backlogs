@@ -1,0 +1,2 @@
+Feature/remove label help text
+Fixes #1641

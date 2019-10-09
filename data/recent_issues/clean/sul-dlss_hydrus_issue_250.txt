@@ -1,0 +1,2 @@
+[hydrus/stage] Dor::WorkflowException: Failed to retrieve resource: put  (HTTP status 404)
+Backtrace line 27 of [PROJECT_ROOT]/app/models/hydrus/processable.rb: update_workflow_status line 14 of [PROJECT_ROOT]/app/models/hydrus/processable.rb: complete_workflow_step line 128 of [PROJECT_ROOT]/app/models/hydrus/item.rb: submit_for_approval  View full backtrace and more info at honeybadger.io

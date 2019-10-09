@@ -1,0 +1,2 @@
+Ability to add multiple filsets through the form
+Repeat form_files so that user can add multiple filesets through the form  Add field to every fileset for user to select if it is primary or supplementary  Edit job to save fileset primary/supplemental selection  Edit job test so that multiple filesets can be created each with multiple files  Add feature test for adding multiple filesets through the form

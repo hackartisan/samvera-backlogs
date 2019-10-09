@@ -1,0 +1,1 @@
+Treat configured link_to_search field value as code; closes #239

@@ -1,0 +1,1 @@
+AMS2-318 Adding icon for accordion

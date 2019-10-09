@@ -1,0 +1,11 @@
+Ingest UO Pres
+
+this sample used dynamic lookups for names, but I'm pretty sure SS has a sheet of vetted uris, hopefullly including geoname uris (skipping for now) 
+  "HC_421\x_UA16_Box38\x_Office_of_President.bx38.1" .   "Report on Student Unrest: Altercation in Erb Memorial Union" .   "1 p. A typewritten report dated April 8, 1970 describing the events of an altercation between white and black students and a non-student individual at the Erb Memorial Union on the University of Oregon campus." .   "1" .    .    .    .   "Erb Memorial Union (Eugene, Or.)" .   "Eugene (Or.). Police Dept" .   "1970-04-08" .    .   "University of Oregon" .    .    .   "UA 16;" .   "38" .   "Student Unrest - Report on Student Unrest (1 of 3)" .    .   "English;" .   "Print version available;" .    .    .    . 
+Yes, there is a spreadsheet on Google Drive linked data_working folder:  
+  "HC_421\x_UA16_Box38\x_Office_of_President.bx38.1" .   "Report on Student Unrest: Altercation in Erb Memorial Union" .   "1 p. A typewritten report dated April 8, 1970 describing the events of an altercation between white and black students and a non-student individual at the Erb Memorial Union on the University of Oregon campus." .   "1" .    .    .    .    .    .   "1970-04-08" .    .   "University of Oregon" .    .    .    .   "UA 16;" .   "38" .   "Student Unrest - Report on Student Unrest (1 of 3)" .    .    .   "Print version available;" .    .    .    . 
+Above is the most recent version of the .nt. One thing I noticed, it's a compound object with a type (text) but no format. is that correct? 
+ Everything should have a format.  
+ingested, for example  
+reingested, having changed opns/ns/people to dct:subject, rdam and exif predicate fixes 
+Raw statements: license, creator, contributor      .    .      .    .    . 

@@ -1,0 +1,2 @@
+Remove Search Scholar@UC label
+After reviewing the 2.3.3 update from hyrax, it was noticed that they added a label to help with accessibility. However the label is unnecessary for us, and caused a visibility issue. We have removed it from the browse page for another accessibility scan, however it may cause other issues. I know that it is on the "My Works" page, however it could also be on other pages.

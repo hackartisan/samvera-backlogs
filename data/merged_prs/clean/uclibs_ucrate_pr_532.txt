@@ -1,0 +1,2 @@
+Use "Items in this Collection" on collection show pages
+Fixes #528 Changes the wording on the Collection page from "Works" to "Items in this Collection"

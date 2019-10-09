@@ -1,0 +1,3 @@
+Ingest "GA treasures" (pudl0130)
+Notes: Various problems (includes rowlandson)   Can you expand on "various problems"? I assume we attempted to ingest this and something went wrong?
+This looks like 7 items: * 1 with a bib number that is ingested:  * 1 with a suppressed bib number: 3051613 * 3 with bib numbers that could be ingested: 5240761  6109684  8555444 * 2 without bib numbers: gc060/ga_2014_01072 gc060/ga_2014_01073

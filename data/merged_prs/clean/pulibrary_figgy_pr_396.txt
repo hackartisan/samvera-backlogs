@@ -1,0 +1,2 @@
+Handling RTL titles in header
+Fixes #330

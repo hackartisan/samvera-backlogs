@@ -1,0 +1,2 @@
+Defaults facets and filters on catalog#index to closed
+Closes AMS-2 517.

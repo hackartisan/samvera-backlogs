@@ -1,0 +1,2 @@
+Change meta tag og:description mapping
+The default meta tag for og:description <meta property="og:description" content="TEST DESCRIPTION"/>  is mapped to :description and would probably be better as :abstract, or possibly both.

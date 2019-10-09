@@ -1,0 +1,2 @@
+Validate Files Metadata Match
+STORY As a librarian, I would like the system to confirm that there is a 1:1 match between my files and metadata ACCEPTANCE   The system proceeds to the next stage of the import process if all the rows in my CSV have matching files  The system tells me if I have rows of metadata that it cannot match to files in the folder  The system tells me if I have files in the folder that are not listed in my CSV  NOTE: If there is a mismatch, the user can opt to continue to the next stage.

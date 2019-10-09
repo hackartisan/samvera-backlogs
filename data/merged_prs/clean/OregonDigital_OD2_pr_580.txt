@@ -1,0 +1,2 @@
+update od2 initializers and hyrax-migrator gem
+update hyrax-migrator gem update hyrax-migrator initializers for new config settings and environment variables add FileIdentityActor actor (to get checksums) to actor_stack

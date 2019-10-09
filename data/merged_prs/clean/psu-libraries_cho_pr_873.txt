@@ -1,0 +1,2 @@
+Updating Rails to 5.1.6
+Description This includes an update to actionview which addresses CVE-2019-5418

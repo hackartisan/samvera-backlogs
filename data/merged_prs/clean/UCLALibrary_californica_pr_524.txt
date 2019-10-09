@@ -1,0 +1,2 @@
+Ark values are not editable
+Allow an Ark to be set via the new work form, but once an object has an ark do not allow it to be edited from the form -- make it readonly. Connected to #456

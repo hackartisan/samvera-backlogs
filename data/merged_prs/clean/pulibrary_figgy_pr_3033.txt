@@ -1,0 +1,2 @@
+Add Rake task to reindex everything except FileSets
+Add Rake task to reindex everything but FileSets Reduces batch size to 500 to avoid Request Entity Too Large errors  Fixes #3031

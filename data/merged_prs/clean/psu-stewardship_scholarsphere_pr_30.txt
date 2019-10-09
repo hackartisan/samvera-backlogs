@@ -1,0 +1,2 @@
+updated select2 dropdown version
+fixes 

@@ -1,0 +1,2 @@
+Feature/keep hyrax expected methods
+fixes #1633

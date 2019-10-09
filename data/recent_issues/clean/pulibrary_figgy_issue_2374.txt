@@ -1,0 +1,2 @@
+[Figgy/production] NoMethodError: undefined method `gsub' for nil:NilClass
+Backtrace line 59 of [PROJECT_ROOT]/app/graphql/types/resource.rb: thumbnail line 20 of [PROJECT_ROOT]/app/controllers/graphql_controller.rb: block in execute line 113 of [PROJECT_ROOT]/app/change_set_persisters/change_set_persister.rb: block (2 levels) in buffer_into_index  View full backtrace and more info at honeybadger.io

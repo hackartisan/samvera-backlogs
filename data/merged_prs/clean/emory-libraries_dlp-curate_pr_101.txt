@@ -1,0 +1,2 @@
+Change configuration of deploy.rb for admins.yml 
+This commit reworks the deploy.rb file, it should be cleaner with less lines and it adds a new linked directory which will house our admins.yml file

@@ -1,0 +1,2 @@
+Complete transition to schema based metadata
+ISSUE We appear to define the same predicates in both   This results in warnings like Same predicate ( used for properties post_graduation_email and post_graduation_email Same predicate ( used for properties graduation_year and graduation_date Same predicate ( used for properties graduation_date and graduation_date Same predicate ( used for properties hidden and hidden  ACCEPTANCE   All custom attribute <-> predicate mappings are made in the schema  No duplicate definitions exist in the model

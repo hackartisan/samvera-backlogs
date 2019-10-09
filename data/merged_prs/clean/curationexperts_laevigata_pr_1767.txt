@@ -1,0 +1,2 @@
+Display the subfield label in submit tab
+This changes the display of the submit tab to show the subfield label and not the ID. Connected to #1748

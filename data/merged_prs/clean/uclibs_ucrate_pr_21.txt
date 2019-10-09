@@ -1,0 +1,2 @@
+Add Travis CI
+closes #9

@@ -1,0 +1,2 @@
+add lafayette directory authority service?
+is there a campus authority we can use to look up names + departments via an email address? the immediate use-case for this would be to fill in a "research help contact" field on Collections, per the metadata model (see #165 (comment)). this could also be useful for fleshing out "user accounts" for proxy-deposited works, though we're not there yet.

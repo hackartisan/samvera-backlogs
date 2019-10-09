@@ -1,0 +1,2 @@
+Disable puppt run during the application deployment
+The servers were upgraded to puppet 3.7, and it is not stable yet. Mark asked me to disable the puppet step in the deployment so that the deployment will work while they fix the issues. /cc 

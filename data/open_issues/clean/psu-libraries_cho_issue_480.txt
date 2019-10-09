@@ -1,0 +1,4 @@
+Storing unicode in Postgres
+Attempting to save certain unicode characters in the description of a work results in: PG::UntranslatableCharacter: ERROR:  unsupported Unicode escape sequence DETAIL:  \u0000 cannot be converted to text. This was discovered while using the Faker gem to write random sequences of mixed ascii and unicode characters to a work's description.
+It would be good to have a solution for this in the app. I can almost guarantee that at some point, people will copy/paste into descriptive metadata fields and they may paste in mixed encodings. (Character encoding has been a thorn in my side for many years!) Depending on what it takes to solve, this may not be MVP though. (Don't want us taken down a rabbit hole when it's unlikely users will be doing the copy/paste thing in MVP.)
+Absolutely agree, unicode needs to be a feature. I think we can investigate and see what's at stake, then decide from there where the solution needs to be.

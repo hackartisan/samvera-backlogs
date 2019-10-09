@@ -1,0 +1,2 @@
+Add roles and update README
+Run bundle install and rake db:migrate to test locally. A few steps to add yourself as an admin user (also in the README):  Sign in to the app at  In a terminal run rake generate_roles Then run rake add_admin_role (this uses User.last which will likely be you b/c first step) That's it you're an admin!

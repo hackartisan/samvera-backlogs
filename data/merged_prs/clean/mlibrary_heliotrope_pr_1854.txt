@@ -1,0 +1,2 @@
+Resolves HELIO-1877 Institutional's Shibboleth EntityId And Embedded
+Directory Service

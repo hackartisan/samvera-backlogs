@@ -1,0 +1,2 @@
+Add api route to return trx status
+Implements /api/uploads/:tid/status to return the current status for a given transaction id Enhances spec expectations for uploads_controller to validate the json responses.

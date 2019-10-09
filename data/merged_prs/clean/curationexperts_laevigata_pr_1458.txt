@@ -1,0 +1,2 @@
+Change the styling of the nav tabs
+These were links before. This commit changes them into buttons so we don't get interference with Turbolinks. This includes the styling to get them to look the same as before as well.

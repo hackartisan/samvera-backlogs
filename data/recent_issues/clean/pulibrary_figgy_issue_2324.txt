@@ -1,0 +1,2 @@
+Auto-refresh imported metadata from finding aids
+Finding aids change frequently. Manually refreshing this data is not do-able for archives staff. depends on #2339

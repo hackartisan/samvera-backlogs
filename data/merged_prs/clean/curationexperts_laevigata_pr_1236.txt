@@ -1,0 +1,2 @@
+Turn off coverage for CI builds with old form
+Coverage reports on the parallel builds was not useful since it varied depending on which build reported to coveralls when. We decided to just disable coveralls for the (soon to be legacy?) mainline.

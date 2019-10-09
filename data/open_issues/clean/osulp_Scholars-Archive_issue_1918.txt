@@ -1,0 +1,16 @@
+Bulk Edits: 19 Aug 2019
+This is a large one -- 23K+ changes. Direct link to relevant tab:   SA Bulk Edits 19 Aug 2019
+ For the first 235 items, you probably want to clear all values under `alt_title` right? Right now there is a bug that prevents clearing all values in a field. PR  will fix the issue, so I'll get this one deployed to master on Monday in prep for the bulk edit.
+ Yes, that is correct. Thank you!
+Started running bulk edit for "SA Bulk Edits 19 Aug 2019"
+ I've  updated `alt_title` in my copy before exporting and starting the script. With the update now in place, we can now use an empty cell (like it was done in the past) under the `to` column along with `*` under `from` to indicate that we want to clear all values in a property. ![image]( 
+Completed/Pending edits in "SA Bulk Edits 19 Aug 2019":  - [x] (8/20/19) First run failed with `rbuf_fill` error (related to memory issues), but it processed the first 875 items. Fields updated: `alt_title`, `in_series`, and `publisher` - [x] (8/26/19) `SA_Bulk_Edits_19_Aug_2019_batch2.csv` (500 items processed): Fields updated: `publisher` - [x] (8/22/19) `SA_Bulk_Edits_19_Aug_2019_batch3.csv` (500 items processed): Fields updated: `publisher` - [x] (9/09/19) SA_Bulk_Edits_19_Aug_2019_batch4.csv (500 items processed): Fields updated: publisher - [ ] Pending: 35 batches of 500 items (`SA_Bulk_Edits_19_Aug_2019_batch4.csv` to `SA_Bulk_Edits_19_Aug_2019_batch36.csv`) are ready to run at `tmp/bulk_edits/8-20-19`. _Note_: I have these on hold for now until  is ready on production
+Started running the 4th small batch (500 items) for "SA_Bulk_Edits_19_Aug_2019_batch4.csv". Batch size of 500 seems to be working well so far (they take about a couple of hours to complete). Will increase the batch size after the next deploy.
+SA_Bulk_Edits_19_Aug_2019_batch4.csv (500 items processed) finished successfully
+These batches finished successfully today (1500 items processed): - SA_Bulk_Edits_19_Aug_2019_batch5.csv (publisher updates) - SA_Bulk_Edits_19_Aug_2019_batch6.csv (publisher updates) - SA_Bulk_Edits_19_Aug_2019_batch7.csv (publisher updates)
+Ran batch `SA_Bulk_Edits_19_Aug_2019_batch8.csv` today, but many failed due to an issue related to empty embargo history values on some works previously migrated from dspace  Made a new list with this issue at `SA_Bulk_Edits_19_Aug_2019_batch8_d.csv`. Will run this batch when  (fixes  gets merged and deployed to production.
+Completed `SA_Bulk_Edits_19_Aug_2019_batch8_d.csv` (more publisher updates) today. Bulk edit task finished successfully.
+Now running task for next batch `SA_Bulk_Edits_19_Aug_2019_batch9.csv` (500 more publisher updates). **Update**: SA_Bulk_Edits_19_Aug_2019_batch9 finished successfully.
+Successfully completed 3500 more publisher updates:  `SA_Bulk_Edits_19_Aug_2019_batch10.csv` through `SA_Bulk_Edits_19_Aug_2019_batch16.csv`
+Successfully completed 4000 more publisher updates on 10/02/2019:  `SA_Bulk_Edits_19_Aug_2019_batch17.csv` through `SA_Bulk_Edits_19_Aug_2019_batch24.csv`
+Successfully completed 1500 more published updates today:  `SA_Bulk_Edits_19_Aug_2019_batch25.csv` through `SA_Bulk_Edits_19_Aug_2019_batch27.csv`

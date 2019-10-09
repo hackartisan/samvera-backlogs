@@ -1,0 +1,2 @@
+Upgrade nokogiri and pg
+Nokogiri needs an update to respond to security issue CVE-2019-5477 pg (postgres) should be at 1.0+ now that it works with our rails version  Connected to #1946

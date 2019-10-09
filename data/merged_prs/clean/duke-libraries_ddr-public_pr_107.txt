@@ -1,0 +1,2 @@
+Version 1.0.11
+Upgrades ddr-models to version 1.13.1 (closes #106)

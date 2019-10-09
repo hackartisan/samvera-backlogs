@@ -1,0 +1,2 @@
+stop indexing location
+fixes  i think this cleans out most stuff related to the geo_point

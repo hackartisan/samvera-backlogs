@@ -1,0 +1,2 @@
+HELIO-2241 - add styles for rekihaku
+Adds branding for Rekihaku

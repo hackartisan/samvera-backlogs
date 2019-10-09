@@ -1,0 +1,2 @@
+Resolves #1020: Fix to publisher edit, subdomain, and monograph links
+... and a little bit of refactoring.

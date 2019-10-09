@@ -1,0 +1,2 @@
+Shibboleth sets the email as the header
+This adjusts our test headers so they do the same

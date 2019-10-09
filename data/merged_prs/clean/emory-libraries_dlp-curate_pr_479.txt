@@ -1,0 +1,2 @@
+Ensure deposit permissions are set for the collection
+Manage permissions are being set, but deposit permissions also need to be set so that admins can add to collections from the UI. As written the UI only checks for the deposit permission. See: 

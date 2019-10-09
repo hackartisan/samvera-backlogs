@@ -1,0 +1,2 @@
+Adding index of work for readme
+Changes:  updated tests to include a file with the readme to make them more realistic updated the parent_needs_reindex? method to include reindex for readme addition removed additional updates to the index that were no longer needed in the test

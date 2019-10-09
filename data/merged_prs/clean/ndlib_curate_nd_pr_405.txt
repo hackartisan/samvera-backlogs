@@ -1,0 +1,2 @@
+404 server error when uploading new image file
+Submitting a form for a work with more than one individual editor caused an application editor. The _linked_record_editors partial was on updated improperly in 0462056.

@@ -1,0 +1,2 @@
+Make corrections to the DOI link on work show pages
+Descriptive summary Datacite made 2 recommendations for the DOI link we display on our work show pages:  change http to https remove the dx. from the url  Current example  Expected example  The change probably needs to happen in the hydra-remote_identifier gem.

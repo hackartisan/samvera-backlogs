@@ -1,0 +1,2 @@
+Single Title and Subtitle for Collections
+Adds subtitle term to collection form, redefines title method to grab first title, addresses multiple titles, adds subtitle to the primary terms on the form, and adds the subtitle as a new property in the model. Adds the subtitle field to the collection show page, adds the collection subtitle partial, delegates subtitle to solr in the collection presenter. Updates create and edit spec test to test for subtitle. Fixes style error in test for the collection presenter and adds subtitle to the collection form test.

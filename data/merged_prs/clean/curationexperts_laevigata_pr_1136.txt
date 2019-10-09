@@ -1,0 +1,2 @@
+Add vue libraries to yarn bundle
+This should only be merged after #1134 Add vue-turbolinks, axios, and vue-axios to the yarn bundle This commit adds libraries neccessary for the dynamic dropown for schools on the Etd submission form. After this commit you'll need to run yarn install

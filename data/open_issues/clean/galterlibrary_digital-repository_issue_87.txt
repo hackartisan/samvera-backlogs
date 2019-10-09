@@ -1,0 +1,3 @@
+Automatically select a thumbnail for a GVB collection
+So it's not just a default collection thing.
+From commandline: `montage pic1 pic2 pic3 pic4 -geometry 84x84+1+1 -border 2 -tile 2x2 result.jpg`   

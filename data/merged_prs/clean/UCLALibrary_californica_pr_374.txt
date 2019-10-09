@@ -1,0 +1,2 @@
+Upgrade solr_wrapper
+This addresses a bug where the most recent versions of solr won't download in dev and test environments.

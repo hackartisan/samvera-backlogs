@@ -1,0 +1,2 @@
+Rake task to migrate Redis data to Sufia 7.2
+I've tested this with production data copied locally, but it probably needs some more vetting.

@@ -1,0 +1,2 @@
+Rake task to reindex all work and collection records
+Connected to #256   Uses a solr query to find a list of IDs to reindex.   Re-indexing is batched by model.   Added Collection records to the list of models to reindex.   Added timestamps to print statements so user will have a better sense of how far along the task is.

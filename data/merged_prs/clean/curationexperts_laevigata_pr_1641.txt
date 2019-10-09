@@ -1,0 +1,2 @@
+display legacy language when editing legacy etd
+This commit ensures legacy Language items will be displayed as the selected item when editing a legacy Etd.

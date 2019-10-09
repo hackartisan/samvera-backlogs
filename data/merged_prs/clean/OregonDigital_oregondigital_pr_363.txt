@@ -1,0 +1,1 @@
+Fixed no title resulting in a leading pipe.

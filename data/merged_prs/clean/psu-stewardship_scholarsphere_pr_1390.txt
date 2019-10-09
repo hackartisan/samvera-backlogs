@@ -1,0 +1,2 @@
+Fix timestamp format
+We don't want spaces in our filenames so use a timestamp format that adds a leading zero to days.

@@ -1,0 +1,2 @@
+Move scholar_uc_legacy wiki content to ucrate
+Descriptive summary Move over the relevant content from  to  Content that is specific to scholar_uc_legacy or no longer needed can be left where it is.

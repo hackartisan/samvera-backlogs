@@ -1,0 +1,2 @@
+Move ClamAV gem to production group
+This prevents devs from having to install ClamAV locally in order to get the environment to load.

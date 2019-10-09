@@ -1,0 +1,4 @@
+directory API for user type, until persons API is ready
+see #1426 see #1427 Establish an approved API application at:  API call to the public directory can return a primaryAffiliation which has values (Employee, Other, Retiree, Student, or Unknown). Caveat Users who choose to be confidential in Banner will not have this information. {username} Currently I am registered as an owner of an API application that could be used for this integration.
+ can  you recommend a qa test?
+I can't really think of one, we aren't surfacing the effect of this code aside from if you were a student (in which case you'd only see the ETD, Undergrad, and Other Scholarly Content worktypes.

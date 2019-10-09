@@ -1,0 +1,2 @@
+Revision for Tech MD: DROID on prod
+Relates to ticket #283. PUID identification is missing from FITS when tested in test and prod, but we have seen it in local/development environments. Devanshu noted that DROID may not be running on PROD, which is where PUID is extracted from.

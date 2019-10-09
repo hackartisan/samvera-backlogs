@@ -1,0 +1,2 @@
+Updating Sinatra to address CVE-2018-7212
+This would go out with 3.4 at the end of the month, unless we want to hotfix this and do a release sooner.

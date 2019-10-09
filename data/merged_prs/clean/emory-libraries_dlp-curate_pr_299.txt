@@ -1,0 +1,2 @@
+Changes characterization_proxy from original_file to PMF
+Closes #282

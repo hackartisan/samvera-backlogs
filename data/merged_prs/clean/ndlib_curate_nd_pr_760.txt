@@ -1,0 +1,2 @@
+Fix show profile
+When the person doesn't have a user, the profile show fails due to Orcid lookup. Fixes DLTP-1602

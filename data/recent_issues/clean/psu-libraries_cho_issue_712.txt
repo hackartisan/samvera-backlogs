@@ -1,0 +1,2 @@
+Facet Navigation and Screen Reader(s)
+Putting a ref to projectblacklight/blacklight#1905 here as a reminder to fix this issue upstream.

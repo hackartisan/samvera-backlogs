@@ -1,0 +1,2 @@
+Refactor MetadataDetails to simplify object structure
+Removes one level of structure from metadata details. Refactors tests correspondingly.

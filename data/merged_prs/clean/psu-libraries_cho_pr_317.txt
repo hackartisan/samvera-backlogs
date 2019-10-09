@@ -1,0 +1,2 @@
+Fixing new to load the form
+When the item is not a change set you get 'ActionView::Template::Error (undefined method 'errors' for #<MetadataApplicationProfile::Field...'

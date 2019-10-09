@@ -1,0 +1,2 @@
+Create Ansible Role to manage the Backup/Restoring of Curate/Fedora/S3
+Bess has contacted me about the need to backup and restore curate after the Langmuir Collection Since our system utilizes multiple server architecture, RDS and S3 it's going to be more involved to backup all of this and restore it. The best way forward will be an ansible role to manage all of this.   Develop ansible role that will backup curate's mysql database  Role should also utilized fedora's backup tools

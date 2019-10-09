@@ -1,0 +1,1 @@
+update mailer to use new domain name, fixes #604

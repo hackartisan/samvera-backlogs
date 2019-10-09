@@ -1,0 +1,2 @@
+related url report as csv
+rake chf:related_url_csv[/path/to/output.csv] fixes #344

@@ -1,0 +1,2 @@
+Fix Turbolinks event propagation
+Turoblinks will trigger event binding on the buttons each time you visit the works page. To stop that you need to remove the binding with 'stopPropogration'. This was causing errors by triggering multiple bag jobs each time a user clicked on the button. This also re-factors the bag_ui object to be less repetitive. Connected to #261

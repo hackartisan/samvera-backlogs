@@ -1,0 +1,2 @@
+LA bag ingest - Juan García Ponce Papers resource with no component id
+One item in the Juan García Ponce Papers came through with no title, presumably because it couldn't find a component id.  

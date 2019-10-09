@@ -1,0 +1,6 @@
+Ingest bayonne but keep them private with a note
+It wasn't ingested initially due to confusion. It's in the ingest staging directory on the server, in the file for pudl0090 and it's called bayonne.mets
+ says "ingest Bayonne and just keep it private with a note."
+I guess we should keep this private via a "takedown" workflow status, and a workflow note. Not sure exactly what the note should say except that takedown was required.
+Isn't it "complete" and "private" and the fact that it was taken down is just a fluke of history on us accidentally not making it private?
+That makes sense! Is the note still a workflow note? Do we have any other kind of note?

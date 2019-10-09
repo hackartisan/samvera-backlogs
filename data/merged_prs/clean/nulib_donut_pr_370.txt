@@ -1,0 +1,2 @@
+update language predicate to match jens spreadsheet
+fixes  when saving a record and filling out the language field, the predicate shows up as a dc/terms/language predicate now.

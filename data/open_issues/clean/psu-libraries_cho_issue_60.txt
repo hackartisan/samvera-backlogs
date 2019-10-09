@@ -1,0 +1,6 @@
+show multiple relationships for an object
+As a researcher, I would like to know whether a digitized object I am reviewing is part of a larger collection/grouping so that I can seek and identify possibly related items. Ben G.
+There is a need to differentiate between home collection and display collection. Also that we should have a tree for the home collection. Display collection should just be a list.
+Background: 
+What does done look like: I can click links that take me to the different collections that this work belongs to. I can do this from multiple places, such as the show page and the search results.
+Blocked by #59

@@ -1,0 +1,7 @@
+Change "from" field in the "reset password instructions" email
+At the reset password page, if you enter your email you will eventually get a message from “”. This could definitely be something more friendly. Maybe "".
+Good catch. Maybe we even reveal our ` address, to use a real address? 
+Sure!
+Did a quick check, the devise.rb has the mail sender set to config.mailer_sender = "
+Yeah, I thought I remembered that actually. But  you have actually tested it and found that other email address? Weird! 
+Correct - I had Mary Mark Ockerbloom forward me the e-mail she got and that was the sender email.

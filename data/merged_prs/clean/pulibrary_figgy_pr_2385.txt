@@ -1,0 +1,2 @@
+Change label for template title to "Template Name"
+fixes #1564

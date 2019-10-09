@@ -1,0 +1,2 @@
+Fix UI on Gallery, Masonry, and Slideshow Views in Blacklight
+Display of thumbnails in Blacklight gallery, masonry, and slideshow views needs to be fixed.

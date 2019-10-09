@@ -1,0 +1,2 @@
+Adding Coveralls
+Checks for test coverage on PRs and commits.

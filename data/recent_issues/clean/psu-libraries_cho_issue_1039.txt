@@ -1,0 +1,2 @@
+Configure and deploy jobs server
+Our jobs server should be setup to run transactions as async. jobs.

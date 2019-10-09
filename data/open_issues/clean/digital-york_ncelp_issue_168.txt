@@ -1,0 +1,7 @@
+Unexpected symbols in file name
+The file name for the following resource shows unexpected symbols  The original text is: L'éléphant géant Maybe the apostrophe and diacritics are the culprits?
+Similar issue occurs with L'école: 
+  could you give me you thoughts on this?
+This looks as a know Hyrax bug in series 2.x - see this [upstream hyrax issue]( Here are our options: 1. **Active** - Add this to our future NCELP sprint. Fix it and contribute change upstream to Hyrax code base. 2. **Easy** - Wait for somebody else fixing this and apply changes to our Hyrax once this is available. 3. **Interim work around**  - Use a file edit option and re-type title with correct accents. This is post upload action and will increase a burden on the admin site. 
+See my comments on GH issue. BTW, I have corrected file name on this file object so it shows ok now.  S  On Wed, 3 Jul 2019 at 13:54, IAlferink <> wrote:  > Similar issue occurs with L'école: >  > > — > You are receiving this because you are subscribed to this thread. > Reply to this email directly, view it on GitHub > <>, > or mute the thread > <> > . >   --  Sebastian Pałucha Technology Strategy Leader Collections Services Information Services LFA/237, Harry Fairhurst building University of York Heslington, York YO10 5DD <> +44 (0)1904 324083 
+Thanks for this. We'll use the work around for now and I'll check with Emma how important this is to fix.

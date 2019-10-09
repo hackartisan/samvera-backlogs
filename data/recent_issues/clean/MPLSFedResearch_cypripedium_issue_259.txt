@@ -1,0 +1,2 @@
+Nothing displays if I select more than 10 works per page
+STEPS TO REPRODUCE  Login as an administrator Go to the dashboard View the All Works tab Select "50" under the "Show x per page" dropdown  tested on  release: title="9c1a8779ed7bf7e025e79f78d894fbdcdaecd9a1 EXPECTED RESULTS I should see as many or more works as I see when I have 10 items per page selected ACTUAL RESULTS I don't see any works displayed ACCEPTANCE   When I select more than 10 works per page, I see the expected number of works (the maximum of the total number of works or the limit selected per page)

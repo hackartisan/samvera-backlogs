@@ -1,0 +1,2 @@
+Use yaml file for curation_concerns server settings
+If this seems like a good approach, I will make the changes upstream in curation_concerns itself and open a PR there.

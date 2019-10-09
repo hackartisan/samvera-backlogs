@@ -1,0 +1,2 @@
+Update robots.txt to disallow indexing
+Descriptive summary There's no need for any items on staging to be indexed by search engines, so let's disallow indexing in robots.txt. Expected behavior Indexing disallowed so our testing and seed items don't show up in any results.

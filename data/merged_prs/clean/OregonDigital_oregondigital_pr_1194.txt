@@ -1,0 +1,2 @@
+Added :facetable to Contributor
+Fixes #1193

@@ -1,0 +1,2 @@
+Adding visibility facet and creator display to search results
+Fixes #3269

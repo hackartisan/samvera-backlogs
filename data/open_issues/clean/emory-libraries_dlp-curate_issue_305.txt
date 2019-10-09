@@ -1,0 +1,4 @@
+Deletion of uploaded files from S3
+Investigate Ruby AWS bindings, particularly the S3 functions  Add a delete callback to FileSets so they delete all their files in S3 when they are deleted.
+ Is this still a pre-migrate issue?
+ I don't think it is anymore, so I will move it to Backlog and remove that label

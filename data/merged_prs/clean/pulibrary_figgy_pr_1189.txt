@@ -1,0 +1,2 @@
+Correct geo derivative srid directive for vector and raster files
+Closes #1187

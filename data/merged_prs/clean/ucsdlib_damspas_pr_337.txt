@@ -1,0 +1,2 @@
+Update audio player to use hls streaming
+Fixes #335 ; refs #335 Update audio player to use HLS streaming protocol. /developers - please review

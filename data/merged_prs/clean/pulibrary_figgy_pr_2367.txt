@@ -1,0 +1,2 @@
+Don't load children to render OrderManager
+Children are pulled in dynamically as part of the JS, it's not necessary to load them here and will just unnecessarily slow things down.

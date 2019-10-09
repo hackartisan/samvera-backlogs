@@ -1,0 +1,2 @@
+Added Translator to Creator.
+Fixes #844

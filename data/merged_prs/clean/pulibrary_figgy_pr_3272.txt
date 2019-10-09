@@ -1,0 +1,2 @@
+Updating the UniversalViewer to support the new posterImageExpanded config. value
+Resolves #3075 fully by building the Universal Viewer using my branch on UniversalViewer/universalviewer#674

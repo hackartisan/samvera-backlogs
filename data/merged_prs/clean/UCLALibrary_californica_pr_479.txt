@@ -1,0 +1,2 @@
+Upgrade to Hyrax 2.5.0
+This includes several important bug fixes, most importantly for us it fixes the bug where thumbnails weren't appearing for collection objects in search results. Connected to #429

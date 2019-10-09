@@ -1,0 +1,1 @@
+email addresses/usernames are breaking onto 2 lines on user profile pages

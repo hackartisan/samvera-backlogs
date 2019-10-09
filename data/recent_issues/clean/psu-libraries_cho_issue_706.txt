@@ -1,0 +1,2 @@
+Use Data Dictionary display name as the csv heading
+Currently, the attribute's method name or the dictionary's label is used for the csv header. This might create confusion now that alternate_id is used instead of identifier. We could use the display name as the csv header to more closely align the displayed label for the field with its csv counterpart. Related to #491

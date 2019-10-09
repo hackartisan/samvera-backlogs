@@ -1,0 +1,2 @@
+Add ability for admins to manage roles.
+Fixes #117

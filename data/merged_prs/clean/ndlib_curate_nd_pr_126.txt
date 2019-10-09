@@ -1,0 +1,2 @@
+error page with help request form for and normalize errors in one template
+It support 500, 502, 404, 413 and 422 error status adding spec and fixing bug with static pages controller

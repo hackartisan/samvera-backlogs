@@ -1,0 +1,2 @@
+Revert the change for video tag for complex object
+Update circle ci config Fix video player for complex object. DHH-841 Update qa config.

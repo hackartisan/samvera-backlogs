@@ -1,0 +1,1 @@
+Don't run OCR with a blank OCR Language.

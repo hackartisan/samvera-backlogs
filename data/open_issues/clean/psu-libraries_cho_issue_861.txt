@@ -1,0 +1,2 @@
+Date Facet Enhancement
+As a historian, I would like to be able to facet my browse/search by various date ranges, So that I can segment results by time period and drill down from broad to specific periods. Done looks like a date facet where dates are categorized into hierarchical ranges, with the highest levels including all works in lower ranges. Only results-contextually relevant ranges should be displayed. Hierarchies should be collapsible. Example below, give as many levels as possible!  millennia  century  decade  year  month  day            Enhancement to #860

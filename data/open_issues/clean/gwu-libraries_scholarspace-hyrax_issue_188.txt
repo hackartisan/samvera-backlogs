@@ -1,0 +1,4 @@
+Patch to avoid Ldp::Conflict
+As per samvera/hyrax#3128 (comment) , action to fix is:  Add to your hyrax app... /config/initializers/noid_rails.rb ::Noid::Rails.config.identifier_in_use = lambda do |id|  ActiveFedora::Base.exists?(id) || ActiveFedora::Base.gone?(id) end
+Consider Hyrax upgrade first - our 2.0.1 based app doesn't have a `config/initializers/noid_rails.rb` - need to look into whether to create this, or whether subsequent versions of Hyrax will result in one being generated.
+Was this fixed in the upgrade to Hyrax 2.5? 

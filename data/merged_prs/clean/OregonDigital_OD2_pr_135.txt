@@ -1,0 +1,2 @@
+fixes empty tmp/pids bug and makes entrypoint a single script
+Fixes a bug that  ran into where a fresh repo didn't include the tmp/pids directory and caused docker to fail startup. Creates a single entrypoint script to run any bootstrap needs for development and test environments

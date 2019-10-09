@@ -1,0 +1,1 @@
+share console to VM host, removes endless warnings

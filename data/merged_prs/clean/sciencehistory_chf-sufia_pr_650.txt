@@ -1,0 +1,2 @@
+non-viewable members hidden on work show page and in viewer
+Closes #575

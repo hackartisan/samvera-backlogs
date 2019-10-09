@@ -1,0 +1,2 @@
+Clarify access level when viewing repository objects
+These changes are trying to accomplish two things:  Display the access control status taking the current date into consideration Expose the embargo date if an embargo is being enforced  We cannot divulge any attributes of a private repository object that may include personally identifiable information, including :title. However, we should always be able to disclose the access controls placed on an object as well as an embargo date, if present. Fixes #266 Fixes #271

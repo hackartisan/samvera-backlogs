@@ -1,0 +1,2 @@
+Implement one sample Curate user permission group for testing
+Create a sample permission group which is not at the Administrator level  Create a sample Collection  Assign permission group to a test Collection [through the UI?]  Example group info below: Group Name: Repository Managers Collection-level Role: Manager Users to add: Tiffany Miles (currently has access as Registered User level)

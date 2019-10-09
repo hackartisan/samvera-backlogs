@@ -1,0 +1,2 @@
+Adding thumbnail-centric search view
+Search results can now be rendered as a detailed list or as a grid of thumbnails. Addresses #225.

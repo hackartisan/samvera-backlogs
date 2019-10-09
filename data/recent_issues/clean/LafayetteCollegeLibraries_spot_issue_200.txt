@@ -1,0 +1,2 @@
+add ldr collections to config/collections.yml
+we should have collections for:   faculty publications  bytes and books  gazette of american friends of lafayette  course catalogs  college administration  public safety  more?

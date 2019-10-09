@@ -1,0 +1,2 @@
+Updating File Upload notice
+We do support larger files, but it requires special assistance. The previous message was confusing, whereas this message is direct.

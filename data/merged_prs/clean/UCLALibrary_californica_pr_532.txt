@@ -1,0 +1,2 @@
+Refactored code for readability
+For validating the CSV file, we have required headers and allowed headers.  I thought it was awkward that the required headers were in the validator class, and the allowed headers were in the mapper class.  So, I moved the required headers over to the mapper.  In the future, if a developer needs to add a new column to the CSV file, they'll have to edit the mapper, so it makes sense to put the required/allowed headers near the place the new columns will go. Connected to #481

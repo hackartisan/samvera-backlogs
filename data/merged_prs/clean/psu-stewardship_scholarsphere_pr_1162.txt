@@ -1,0 +1,2 @@
+Format title and creators for EZId, ref #1160
+We were sending unformatted arrays to EzId which weren't displayed correctly. When creating EzId resources, we need to send formatted titles and creators.

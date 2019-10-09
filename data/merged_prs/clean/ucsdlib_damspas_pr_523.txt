@@ -1,0 +1,2 @@
+Updated access label for mixed objects collection
+Local Checklist   Tests written and passing locally?  Code style checked?  QA-ed locally?  Rebased with master branch?  Configuration updated (if needed)?  Documentation updated (if needed)?  What does this PR do? Change the condition to allow local user to see the access label for collection page when the collection has mixed objects. /developers - please review

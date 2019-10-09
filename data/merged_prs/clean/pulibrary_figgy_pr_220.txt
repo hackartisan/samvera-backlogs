@@ -1,0 +1,2 @@
+Add shipped date to boxes.
+Closes #206.

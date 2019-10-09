@@ -1,0 +1,2 @@
+handle get thumbnail
+fixes #1010

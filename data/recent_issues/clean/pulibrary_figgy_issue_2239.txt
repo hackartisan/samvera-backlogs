@@ -1,0 +1,2 @@
+Some scanned maps have manifests canvases with 0 height and 0 width
+These were maps that had corrupted tiffs which were replaced. Could this be an issue with cached manifests? 

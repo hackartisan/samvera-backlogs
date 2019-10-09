@@ -1,0 +1,2 @@
+Change IngestMetsJob to error if there's no collection
+instead of creating one, which led to race conditions resulting in multiple identical collections being created. fixes #1689

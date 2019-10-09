@@ -1,0 +1,2 @@
+update facet order
+using 's suggested order:  Collection Resource Type Publisher Organization Division Academic Department Subject Keyword Language Location Year  but also adds creator below publisher, as that facet exists in the current LDR closes #193

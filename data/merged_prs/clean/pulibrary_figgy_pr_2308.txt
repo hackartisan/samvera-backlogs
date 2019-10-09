@@ -1,0 +1,2 @@
+Only set fileset title from embedded metadata; not file metadata label
+fixes #2306

@@ -1,0 +1,2 @@
+ProQuest export fixes
+Exported package should be named as upload_*.zip Exported XML file should be named as *_DATA.xml Page number should default to 1 if page number cannot be determined. Add publishing_option and embargo_code to DISS_submission Add DISS_processing_code Put supplemental files in their own directory Sample data rake task should run background jobs inline Fixes #737

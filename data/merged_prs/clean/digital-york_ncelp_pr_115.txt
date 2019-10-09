@@ -1,0 +1,2 @@
+Issue 110 homepage round corners
+resolves #110

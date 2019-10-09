@@ -1,0 +1,2 @@
+Description appears before header
+For the Hours of prior instruction field the description appear before the header instead of after. Please, change these around.

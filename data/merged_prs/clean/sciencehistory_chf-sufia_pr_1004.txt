@@ -1,0 +1,2 @@
+new genre term 'Publications'
+Closes #993

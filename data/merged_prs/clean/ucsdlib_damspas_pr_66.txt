@@ -1,0 +1,2 @@
+Minting DOIs with damsrepo call (DM-53)
+Call damsrepo to mint DOIs Cleaning up redundant code for making damsrepo calls  Fixes 

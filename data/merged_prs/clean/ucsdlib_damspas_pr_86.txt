@@ -1,0 +1,2 @@
+Adding support for internalOnly note property (DHH-640)
+Any note with internalOnly = 'true' is suppressed from public view Internal notes are displayed at the bottom of the curator display  Fixes 

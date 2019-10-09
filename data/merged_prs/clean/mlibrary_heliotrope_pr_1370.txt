@@ -1,0 +1,2 @@
+various accessibility fixes for cozy-sun-bear
+Resolves #1361 Adds aria-labels and labels where needed to meet WCAG2.0A guidelines.

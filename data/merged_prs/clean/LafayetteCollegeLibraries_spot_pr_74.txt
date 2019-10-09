@@ -1,0 +1,2 @@
+update based_near predicate to dct:spatial
+closes #72

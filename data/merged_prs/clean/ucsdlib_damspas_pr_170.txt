@@ -1,0 +1,2 @@
+add solr and fedora cleanup for test suite
+Currently, or test suite doesn't fully clean up after itself. Some documents remain in Solr, for example. This update more intentionally clears out solr and fedora before and after the test suite runs. Note that newer versions of active fedora have a Cleaner class built to do this, unfortunately we can't take advantage of that given the version of AF we're pinned to.

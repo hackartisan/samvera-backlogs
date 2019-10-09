@@ -1,0 +1,2 @@
+Use common indexer v0.3.1 with all_titles and all_subjects
+fixes nulib/next-generation-repository#879

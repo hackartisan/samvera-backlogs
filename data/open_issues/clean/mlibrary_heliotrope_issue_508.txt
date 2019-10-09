@@ -1,0 +1,3 @@
+sort year facet results sort order
+Right now we're not using the sort date for anything, bar extracting the year part for the facet itself. We should use it as follows:   when a user clicks on the year facet, the results should default to being sorted by the full sort date, unless a pre-existing sort has been chosen and thus is present in the URL params  the sort order dropdown should be changed to include sort date as an option. It should probably be called something else ("artifact creation date"?)  the dropdown should show that the items have been sorted when the year facet has been used
+Do it the way fishwrappr does it:  

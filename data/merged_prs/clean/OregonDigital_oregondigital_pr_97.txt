@@ -1,0 +1,2 @@
+Feature/deploy
+For a developer to deploy they'll need an updated app.yml with deployment settings and their public key needs to be set on the server to allow authorization. You can see the deploy at 

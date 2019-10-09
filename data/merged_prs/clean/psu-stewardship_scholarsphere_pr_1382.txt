@@ -1,0 +1,2 @@
+Update Niftany and our rubocop_todo list
+Includes disabling the RSpec/BeforeAfterAll rule in Rubocop.

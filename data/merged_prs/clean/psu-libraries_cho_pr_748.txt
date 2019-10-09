@@ -1,0 +1,2 @@
+Display thumbnails in search results and show views
+Description Using Blacklight's features and overriding them where needed, we're displaying thumbnails on search results and show views for works and file sets. Connected to #740 Changes  creates custom Blacklight presenters moves files storage to the public directory for easier linking indexes a thumbnail's path in the work and file set identifies representative file sets for works

@@ -1,0 +1,2 @@
+Changes to logo + fedora.yml port correction
+Resolves #87

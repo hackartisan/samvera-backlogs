@@ -1,0 +1,2 @@
+Hyrax 1.0.0.alpha
+hyrax 1.0.0 alpha along with our CI updates

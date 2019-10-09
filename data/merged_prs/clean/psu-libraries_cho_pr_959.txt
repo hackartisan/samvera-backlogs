@@ -1,0 +1,2 @@
+Use polymorphic solr_document path for show links
+Description Links to the show page should reference the catalog path, via Blacklight's solr document, and not the postgres Valkyrie object. Connected to #478

@@ -1,0 +1,2 @@
+index + display permalink
+split out from #269 so that we can take time to get Handle minting straightened out. this indexes a permalink when an hdl identifier is present + displays it on the catalog + item views. closes #268

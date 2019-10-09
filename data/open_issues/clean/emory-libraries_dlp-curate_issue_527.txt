@@ -1,0 +1,4 @@
+Display Preservation Workflow Fields
+
+ you may have seen these already, but I think these may be the most relevant ideas I had for UI options so far.   [Creating workflow metadata on a brand new work -- assigning Workflow Metadata]( (Accession or Ingest only)  [View-Only display of existing Workflow Metadata on a work](  [Editing an existing Work - assigning Workflow Metadata]( : editing still somewhat TBD in terms of when that would be allowed, and who could see these options. Providing here just for examples of something we may need later in 0.5.
+ Can you get the screenshot of the work completed by lunch so we can close out testing this issue?

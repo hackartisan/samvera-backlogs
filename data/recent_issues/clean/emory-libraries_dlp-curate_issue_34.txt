@@ -1,0 +1,2 @@
+Set up IIIF/streaming server
+Discussed in 12/12 release planning meeting for 0.1

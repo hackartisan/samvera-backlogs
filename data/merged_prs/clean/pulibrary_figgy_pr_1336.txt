@@ -1,0 +1,2 @@
+ Send updated message after extracting external geo metadata
+Sends a record_updated message after extracting external geo metadata. Sends UPDATED geoblacklight event message when a member is updated instead of MEMBER_UPDATED  Closes #1335

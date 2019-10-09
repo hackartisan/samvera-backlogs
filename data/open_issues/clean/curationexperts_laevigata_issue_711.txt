@@ -1,0 +1,4 @@
+Virus check notifications not being sent in production
+On staging-etd and qa-etd, uploaded virus files are being deleted, but no notification is being sent   Ensure a notification is sent when a virus is detected  Improve logging so it's easier to determine whether virus checking is working in a production environment  Ensure virus detection and notification happens for browse-everything uploaded files as well as locally uploaded files
+Currently, notifications are being sent when a certain exception is encountered. However, because of the way background jobs is running in production vs the way it's run in development and test, that exception is never encountered. I need to re-think how we detect that a virus has been encountered and trigger the notification. I have a local branch where I've made progress but this will have to wait for our next release.
+Do we want to refactor the clamby code to look more like  ?

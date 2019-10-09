@@ -1,0 +1,2 @@
+Remove LC Control Number (LCCN) predicate
+This was never used and can be removed from the system (including ingest form)

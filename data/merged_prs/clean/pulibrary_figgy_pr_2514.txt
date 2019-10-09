@@ -1,0 +1,2 @@
+Add UV loading bar.
+Renders a loading bar (slightly modified from 

@@ -1,0 +1,2 @@
+If I delete a preserved FileSet, I should have a way in the File Manager to see it and re-instate it from Preservation.
+Implementation Details:  We should keep some sort of tombstone for deleted FileSets in the database attached to the parent resource with information about where the file is stored in preservation (we'll need a GCS metageneration #, since the file will be only in versioned storage). The tombstone should also have the label from the FileSet and maybe the original_filename, and the date it was deleted (possibly derived from created_at or updated_at).

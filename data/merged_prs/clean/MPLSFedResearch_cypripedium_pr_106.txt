@@ -1,0 +1,1 @@
+Changed the Content DM Record class to handle both Strings and Arrays for property values.

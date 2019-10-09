@@ -1,0 +1,2 @@
+Downloading TIFFs requires Princeton login
+Julie reports that downloading TIFFs from  only works for Princeton people.

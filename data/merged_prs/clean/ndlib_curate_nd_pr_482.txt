@@ -1,0 +1,2 @@
+Adding fault tolerance for representative image
+The assumption that we attempt to load the image from SOLR but allow for an exception to be thrown on the find is rather awkward. This change wraps the rendering logic with a rescue clause to not disrupt the users viewing experience. Possible issues:  If there is a missing SOLR we won't provide a link to the download

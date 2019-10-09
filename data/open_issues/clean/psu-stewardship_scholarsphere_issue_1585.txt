@@ -1,0 +1,5 @@
+Representative Thumbnail does not appear on the Work
+When I create a new work or edit an existing work and choose the representative thumbnail, the image isn't displayed on the work show page. The representative media thumbnail is shown. The representative thumbnail does appear in the search and on collections.
+<img width="1171" alt="image" src=""> 
+<img width="1183" alt="image" src=""> 
+<img width="897" alt="image" src=""> 

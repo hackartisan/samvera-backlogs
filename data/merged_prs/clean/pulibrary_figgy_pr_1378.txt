@@ -1,0 +1,2 @@
+Set member_of_collection_ids to empty array instead of nil
+When no collections are selected in bulk ingest, the controller should set member_of_collection_ids  to an empty array instead of a nil value. Setting it to nil raises an exception. Closes #1375

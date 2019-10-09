@@ -1,0 +1,2 @@
+Add search to API
+Supports text search params:  q=basic+text&search_field=all_fields  Supports additional filtering by:  type= model or document subtype editor= edit access person creator= depositor  Includes standard pagination options:  page= specify current page rows= specify items per page  Flexible results set  Always shows pid, title, type. Always shows fields included in filtered options. Includes option to specify additional fields to show: -depositor -creator -language  Sample search results

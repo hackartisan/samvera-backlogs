@@ -1,0 +1,2 @@
+Don't show cached file name on edit screen
+This does additional clear when saving works so that cached file information is not persisted when it shouldn't be. This also includes a fix for the start over button showing up the edit screen. Connected to #1642 Connected to #1667 Connected to #1631

@@ -1,0 +1,2 @@
+updated migrate_creators task to check for works with no handles corr…
+updated migrate_creators so that it can update works with no handles if nested_ordered_creator_label_ssim is present, then it should skip the update and go to the next one

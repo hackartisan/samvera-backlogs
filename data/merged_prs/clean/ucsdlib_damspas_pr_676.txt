@@ -1,0 +1,2 @@
+Add title attribute to image tag
+Fixes #648 Local Checklist   Tests written and passing locally?  Code style checked?  QA-ed locally?  Rebased with master branch?  Configuration updated (if needed)?  Documentation updated (if needed)?  What does this PR do? Display object title when hover an image. Why are we doing this? Any context of related work? References #648 Where should a reviewer start? It's deployed to QA and approved by Gabriela. Screenshots  /developers - please review

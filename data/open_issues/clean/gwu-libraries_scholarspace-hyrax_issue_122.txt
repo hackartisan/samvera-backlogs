@@ -1,0 +1,2 @@
+Ability to sort by more fields
+Ability to sort by more fields, including at least:  Title Date created (essential for serials and other continuing resources, like the Faculty Senate minutes, which currently are 822 docs that can't be sorted in any meaningful way 

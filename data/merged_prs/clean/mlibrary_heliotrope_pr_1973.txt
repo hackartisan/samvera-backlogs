@@ -1,0 +1,1 @@
+Addresses HELIO-2087 combining chars not displaying on catalog pages

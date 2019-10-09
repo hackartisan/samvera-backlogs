@@ -1,0 +1,2 @@
+change datatype of json field from nvarchar to varchar
+The SQL datatype nvarchar is not accepted by Postgres, so this commit alters the type of the column in which we store a JSON representation of the data in an InProgressEtd to varchar. Addresses #1153.

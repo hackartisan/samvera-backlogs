@@ -1,0 +1,3 @@
+Batch edit of creator does not fill in email
+
+![Screen Shot 2019-03-01 at 10.49.21 AM.png](

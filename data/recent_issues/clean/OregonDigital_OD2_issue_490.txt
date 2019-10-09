@@ -1,0 +1,2 @@
+Display labels instead of URIs in search results.
+Descriptive summary Search results display uris for controlled vocab fields instead of labels

@@ -1,0 +1,2 @@
+Chainging to announcement color to not invoke error
+Old error inducing color  New Highlight yellow color

@@ -1,0 +1,1 @@
+HELIO-2074 Create and use "minimal" epubs for fixed-width layout epubs

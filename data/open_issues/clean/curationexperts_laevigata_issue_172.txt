@@ -1,0 +1,2 @@
+Keywords should be normalized
+As a researcher, when I'm looking for materials on a given subject, I want to see everything for a given keyword. The keyword facet shouldn't give different results for "medicine ", "medicine", and "Medicine  ".   If I enter two ETDs, which have almost but not quite the same keyword, ensure that keyword is normalized.  See  for broken behavior.

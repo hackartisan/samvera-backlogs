@@ -1,0 +1,2 @@
+Work Show Page: adjust CSS in Collection Information to accommodate long item filenames
+Descriptive summary Collection Information column on the work show page gets wonky when an item has a long filename. Expected behavior Items box either stretches to accommodate, or truncates/wraps filename Related work Visible after work done in #610 Accessibility Concerns The link to the item details is currently the OD filename - should it be the item title instead? Would this give us more flexibility in wrapping it, and more legibility for screen reader users? Example:

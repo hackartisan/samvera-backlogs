@@ -1,0 +1,1 @@
+When you edit the title of an ETD, the title of the primary attached file should also be updated. Story #830

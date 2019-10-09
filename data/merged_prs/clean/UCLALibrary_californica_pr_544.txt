@@ -1,0 +1,2 @@
+Add read-only mode emergency recovery procedure to README
+ For you 😄

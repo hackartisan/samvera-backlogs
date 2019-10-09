@@ -1,0 +1,3 @@
+Implement Bulk Virus Checking
+Still needs to be written: When we conducted performance testing on virus scanning we discovered that there is very high overhead launching the virus scanner separately for each file See #49 for details ACCEPTANCE   I can virus scan all the files in a given directory  Any infected files are deleted  I get a hyrax notification of any files that were infected telling me:   The filename  the fact that the file was deleted  how to proceed
+I think this might not need to be implemented. ClamAV is running as a service on our servers and the `clamby` configuration is set to use the daemon version. This means that the clamav scan won't be started and stopped over and over again when doing an import.

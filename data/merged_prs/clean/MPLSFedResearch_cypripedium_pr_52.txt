@@ -1,0 +1,1 @@
+Removed Share Your Work button when not logged in.

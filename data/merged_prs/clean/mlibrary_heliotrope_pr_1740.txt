@@ -1,0 +1,2 @@
+use Hyrax CitationsBehavior
+Resolves #1547

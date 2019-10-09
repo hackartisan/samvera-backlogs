@@ -1,0 +1,4 @@
+Embedded Annotations
+As a scholar, I want extensive annotations, In order to understand obscure references and allow me to more effectively interpret the document I am studying. I will know this is done when definitions for people, places and events are seamlessly integrated with the digital materials on the site. Eric N. Assumes that someone will create the annotations.
+[Annotation-based enrichment of Digital Objects using open-source frameworks](
+We can use IIIF annotations.  has expressed interest in [Elucidate](

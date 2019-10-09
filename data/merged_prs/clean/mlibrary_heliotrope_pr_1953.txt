@@ -1,0 +1,2 @@
+Addresses HELIO-1995 Filter Discovery Service Institutions by Product
+Based on an extensive Slack conversation with . I left some vestiges of the Shibboleths controller in place because it seemed to have an existing test written against it.

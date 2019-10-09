@@ -1,0 +1,2 @@
+Ensures user ID uniqueness
+Resolves #934

@@ -1,0 +1,5 @@
+MVWs show a link instead of an image in the members thumbnail column
+In the members list for MVWs, the thumbnail column should include an image, but it currently displays the link instead:  See 
+They show links because the thumbnails have not been set for the child works. If you look at the example above, I set a thumbnail in the order manager for the first child and it displays as it should.
+ I thought we were defaulting to the first page if there wasn't a thumbnail set.  Are we not doing that?
+I'm guessing we're not, or that logic is no longer working. I've noticed this for a long time with scanned maps. I've also seen this happen recently with the "East Asian Library Tables of Contents" collection. Perhaps there were some problems when these items were ingested?   

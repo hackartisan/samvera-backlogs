@@ -1,0 +1,2 @@
+Install PsuDir gem
+Closes #1242 and #392 Using the PsuDir gem, we can remove our local LdapUser and LdapDisambiguate models. This also includes an update to the Namae gem.

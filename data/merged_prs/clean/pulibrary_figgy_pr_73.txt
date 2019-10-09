@@ -1,0 +1,2 @@
+Store imported attributes in a nested record.
+Closes #8

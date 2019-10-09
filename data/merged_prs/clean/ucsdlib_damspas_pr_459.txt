@@ -1,0 +1,2 @@
+Template updates
+Changes proposed in this pull request:  Add editorconfig template from DeveloperGuides Add updated PR template from DeveloperGuides  /developers - please review

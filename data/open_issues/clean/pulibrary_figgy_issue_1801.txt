@@ -1,0 +1,2 @@
+Migrate coverage to new valkyrie resource
+Coverage should be stored as a valkyrie resource and live app/values. Change the name from coverage to coverage_box. Update GeoBlacklight document generator. How do we pull in coverage from bibdata?

@@ -1,0 +1,2 @@
+Add the ability to change the depositor
+Connected to #979 Allows an administrator to change the depositor information on a work. Changes can be copied to down to the contained file sets. Co-authored-by: Adam Wead 

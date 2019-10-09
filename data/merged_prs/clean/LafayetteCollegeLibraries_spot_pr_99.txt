@@ -1,0 +1,2 @@
+setup capistrano for (actual) dev deployment
+we did some capistrano work way back when (looks like may 2018: ed147a4) but now we have a for-real dev server so let's get our cap tasks in shape for this closes #40 closes #89

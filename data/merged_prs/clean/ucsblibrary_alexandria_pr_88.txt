@@ -1,0 +1,1 @@
+DIGREPO-859: don't index blank restriction fields

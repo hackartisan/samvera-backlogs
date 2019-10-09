@@ -1,0 +1,2 @@
+Check email settings for Emory production
+During our most recent run of the Emory registrar data, Fran did not receive any emails.   Check whether emails were sent  Check that mail configuration is set up as expected  Re-send graduation emails if necessary

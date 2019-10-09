@@ -1,0 +1,2 @@
+Configure BrowseEverything to use OneDrive by Microsoft
+Descriptive summary OneDrive is replacing Box.com as the file cloud provider for the university.   We will need to make OneDrive an option in the "Add cloud files." Expected behavior When I select Add cloud files, I see OneDrive as an option. I should be prompted for authentication credentials. I should be able to add these files during work creation or edit. Actual behavior It is not available as a cloud provider. Related work 

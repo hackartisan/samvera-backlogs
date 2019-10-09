@@ -1,0 +1,2 @@
+Travis CI updates
+Don't build against ruby 2.4 Use this project's badge on the readme  Fixes #2

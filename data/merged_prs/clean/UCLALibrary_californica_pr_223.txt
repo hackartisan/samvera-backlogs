@@ -1,0 +1,2 @@
+Make sure new fields are on edit form. Story #207
+Connected to #207

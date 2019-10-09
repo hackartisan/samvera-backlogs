@@ -1,0 +1,2 @@
+update mappers
+there's been some changes to the metadata model that we're now out of sync with. this should remediate that. see  for a text-based listing of all the properties + mappings/remediations needed. todos   ldr mapper  magazine mapper  newspaper mapper  shakespeare mapper  change Publication#based_near to Publication#place?  add Publication#rights_holder property   closes #124

@@ -1,0 +1,1 @@
+Fixing the pdf link and file format problem. DHH-489

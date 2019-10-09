@@ -1,0 +1,2 @@
+rights_granted_creative_commons final clean up
+Resolves HELIO-2147

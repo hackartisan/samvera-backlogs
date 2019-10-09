@@ -1,0 +1,2 @@
+Add unique barcode validation for archival media ingest
+fixes #1291

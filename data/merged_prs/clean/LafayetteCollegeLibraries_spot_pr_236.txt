@@ -1,0 +1,2 @@
+downgrade hyrax to 2.5.1
+a couple reasons:  no word on an actual release timeline for Hyrax and we're quickly approaching production deployment the beta includes Valkyrie integration that isn't used + the version we were on was yanked, causing a bunch of CI errors

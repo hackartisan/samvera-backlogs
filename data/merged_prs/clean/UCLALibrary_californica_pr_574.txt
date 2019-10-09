@@ -1,0 +1,2 @@
+Update rake tasks to work with CsvImport class
+ I know I said we shouldn't use command line import anymore once the UI import was in place, and mostly I think that's true. However, having some rake commands for importing content makes launching a development environment much easier, and enables some tasks like performance benchmarking that would otherwise be more difficult. After some reflection, I decided to make sure that the ingest rake tasks still work. Connected to #569

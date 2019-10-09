@@ -1,0 +1,1 @@
+Display human-readable file size in file set show view, fixes #390

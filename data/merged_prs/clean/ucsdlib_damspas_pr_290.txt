@@ -1,0 +1,2 @@
+Fixes #287 - Make dams:license display publicly.
+Fixes #287 ; refs #287 Make dams:license displayed on the public object viewer Changes proposed in this pull request:  Move license partial out of the curator restricted view Added test  /developers - please review

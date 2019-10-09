@@ -1,0 +1,1 @@
+local sufia_data_path useful for dev boxes

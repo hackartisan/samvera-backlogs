@@ -1,0 +1,2 @@
+Added name formatting text to hints
+Added name formatting helptext to defaults: contributor contributor_advisor contributor_committeemember editor And honors_college_thesis: contributor_advisor

@@ -1,0 +1,1 @@
+Correct the imagemagick brew command for lcms and jp2s

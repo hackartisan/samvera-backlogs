@@ -1,0 +1,2 @@
+UI cleanup
+monograph page: change font for section titles; asset page: add white space to metadata tabs, place media in figures with figcaption for more semantic markup, no italics for caption text that is styled italic

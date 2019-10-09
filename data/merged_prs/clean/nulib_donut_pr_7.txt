@@ -1,0 +1,2 @@
+IIIF image support
+Adds support for IIIF using the following:  riiif gem iiif-manifest gem pul_uv_rails gem  includes Universal Viewer functionality    Make sure to run bundle install before testing locally.

@@ -1,0 +1,2 @@
+Mark viewer as embedded.
+The viewer's being embedded via an iFrame in Blackboard.

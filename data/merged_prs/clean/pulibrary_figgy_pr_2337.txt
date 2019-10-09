@@ -1,0 +1,2 @@
+Improves the handling for auth. token values in the CanCanCan abilities and tests for cases where the auth. token is parameter is present but the value absent in requests
+Resolves #2319

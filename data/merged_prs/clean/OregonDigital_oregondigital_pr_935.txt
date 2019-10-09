@@ -1,0 +1,2 @@
+Ensure @collection / @collections are never nil
+This may help with #878, and fixes what I think is a legitimate bug: non-index set controller actions are not getting the set context.

@@ -1,0 +1,2 @@
+:request vs. :feature specs for Capybara
+According to  "Capybara is no longer supported in request specs as of Capybara 2.0.0."  So that affects about 10 of our spec files.

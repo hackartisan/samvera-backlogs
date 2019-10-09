@@ -1,0 +1,1 @@
+Minor refactor to a spec for readability

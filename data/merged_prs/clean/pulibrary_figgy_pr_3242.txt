@@ -1,0 +1,2 @@
+Rename release_notes to all caps
+documented as all caps in the gem we used:  fixes #3240

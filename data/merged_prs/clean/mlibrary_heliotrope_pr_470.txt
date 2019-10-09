@@ -1,0 +1,1 @@
+Added 'passwd' task to roles rake file.

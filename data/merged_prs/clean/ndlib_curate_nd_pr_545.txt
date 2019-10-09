@@ -1,0 +1,2 @@
+Dltp 577 make abstract not required for 
+Claiming issue DLTP-577 @d2b8e6c75e4c70d747ade94772d0280d7dccc46b $ ./script/start-issue DLTP-577 [skip ci] Abstract is not required anymore for Document workType @05879d0a942a6ba3524c650bc30f75f3e6fc7b27 Closing issue DLTP-577 @cb6bad917ce3e040540411c6745a24502ecd9cf6 $ ./script/close-issue DLTP-577

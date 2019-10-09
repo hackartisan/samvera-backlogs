@@ -1,0 +1,2 @@
+Temporarily Replace Solr Cloud with a single Solr Instance
+Non-cloud Solr instance is available at solr-cor.library.emory.edu  Non-cloud Solr instance has dlp-curate's Solr config applied

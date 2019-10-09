@@ -1,0 +1,2 @@
+Extending the validation for bib. ID directory names within BulkIngestService#attach_dir
+Currently if a directory with the name 001 is encountered, it is treated as a valid bib. ID by BulkIngestService, but invalidated by the ScannedResourceChangeSet.  Discovered while addressing #1583

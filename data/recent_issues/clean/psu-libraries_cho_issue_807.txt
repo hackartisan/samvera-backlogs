@@ -1,0 +1,2 @@
+Viewing/Paging Works in a Collection
+When clicking into a work, in a collection with many works, there are no previous/next buttons to browse the collection. The user has to hit "back to search results", which if they landed right on the collection page, could be confusing language.  Related to #802?

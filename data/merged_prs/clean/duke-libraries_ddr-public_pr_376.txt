@@ -1,0 +1,1 @@
+Only use the multires thumbnail in the dpla feed.

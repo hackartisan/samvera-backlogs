@@ -1,0 +1,2 @@
+create basic worktypes for Generic and Image models
+Descriptive summary  asks to have these basic work types built initially for demonstration purpose and built upon as we complete the metadata application profile

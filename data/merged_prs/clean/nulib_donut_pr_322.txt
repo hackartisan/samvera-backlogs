@@ -1,0 +1,1 @@
+Update session and cache store to use Redis with 90 minute/30 day expiration respectively

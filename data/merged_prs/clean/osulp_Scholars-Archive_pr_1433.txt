@@ -1,0 +1,2 @@
+replaces keyword with subject on featured works and recent uploads
+fixes #1272

@@ -1,0 +1,2 @@
+Creast rest endpoint for Eproj2
+automated submission from epj2 to hyrax via rest or similar.   research and implement test version  implement in dev  push to test and try submission

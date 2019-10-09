@@ -1,0 +1,2 @@
+Add medium-sized image derivatives
+Closes #237

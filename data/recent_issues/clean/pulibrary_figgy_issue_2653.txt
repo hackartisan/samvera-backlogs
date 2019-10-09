@@ -1,0 +1,2 @@
+Playlists should support the structure manager
+Requested by Dan to support displaying really large plays.

@@ -1,0 +1,2 @@
+Mgmt: Edit form label for Normalized Date
+The label for the Normalized Date field in the edit form should be labeled as "Normalized Date"  This has been tested in californica-stage  See attached screen shot for what it looks like right now

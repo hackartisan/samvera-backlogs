@@ -1,0 +1,2 @@
+Preserve ETDs to MetaArchive LOCKSS
+Descriptive summary Preserve ETDs from 2017 to latest to MetaArchive LOCKSS. Steps to reproduce the behavior     Export ETD 2019 on BagIT    Create index file and upload Bags to AWS S3    Provide spreadsheet of Bag paths and work ids to MetaArchive; and inform them for a harvest    Make sure the harvest is successful

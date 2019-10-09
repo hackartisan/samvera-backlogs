@@ -1,0 +1,1 @@
+make sure publish only enabled after agreement checked

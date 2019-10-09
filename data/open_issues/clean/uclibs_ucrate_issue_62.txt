@@ -1,0 +1,2 @@
+Migrate handles from the DRC
+Descriptive summary The handle.net links used on the DRC need to be migrated to UCrate.  When someone clicks on an existing handle.net link, it should resolve to the new URL of that item in UCrate. New handles should also be created when a new item is added to UCrate. See the notes on the Trello card for a link to a handle gem. Trello: 

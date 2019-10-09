@@ -1,0 +1,1 @@
+rename and refactor rake tasks; closes #30

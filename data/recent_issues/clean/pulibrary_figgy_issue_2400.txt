@@ -1,0 +1,2 @@
+Ingest Blue Mountain Magazines
+Complex of METS/ALTO objects served in Veridian ( and TEI-encoded transcriptions ( as part of a stand-alone project bluemountain.princeton.edu

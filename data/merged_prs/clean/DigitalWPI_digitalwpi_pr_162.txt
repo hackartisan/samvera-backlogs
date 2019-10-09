@@ -1,0 +1,2 @@
+task server sidekiq configuration
+sidekiq and redis configuration to support task server

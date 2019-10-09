@@ -1,0 +1,4 @@
+Embargoes
+We have a collection that needs to be embargoed for years.  We should be able to ingest them with an embargo instead of marking them private (or managing them outside of the repo until the embargo expires).
+ Which collection is it that needs embargo'd? Should embargos auto-expire or require manual intervention?
+The ACLU (MC001) files have been digitized but have a 5 year embargo.  I think the embargo expiration should trigger a notification to the collection owner to review the materials and confirm they can be public.

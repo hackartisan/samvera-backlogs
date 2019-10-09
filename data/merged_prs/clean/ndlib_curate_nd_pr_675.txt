@@ -1,0 +1,2 @@
+Bugfix for works with LinkedResources
+DLTP-1344: Bugfix for works with LinkedResources 9def716  The new paginated method for retrieving generic files was not filtering to just GenericFile type. Added additional filter to only query for GenericFiles

@@ -1,0 +1,2 @@
+Change ucrate to scholar@uc
+Fixes #394 Fixes #400 Change all "UCrate" labels and references to "Scholar", "Scholar@UC"

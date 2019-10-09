@@ -1,0 +1,2 @@
+Add favicon.ico & robots.txt
+To improve logs, add favicon.ico & robots.txt favicon.ico to avoid red herring.

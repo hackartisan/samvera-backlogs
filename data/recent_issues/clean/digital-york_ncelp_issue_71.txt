@@ -1,0 +1,2 @@
+Add info to Resource details page
+Can we add the information for Complete description  and Materials for teachers to the Resource details page? Complete description can go under the title (see top arrow) and Materials for teachers can go under Type / prose of resource (second arrow).

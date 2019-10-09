@@ -1,0 +1,2 @@
+Add free text Date Created field
+The current dcterms:created (aka, Date Created) field takes only years (YYYY). We should create an additional Date Created (free text) that can accommodate full dates and irregular dates, such as:   1830-05   1830-05-21   1830-??-21   circa 1950   1930 - 1934   January - March 1921   1910 or 1919

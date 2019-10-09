@@ -1,0 +1,2 @@
+Make list of supported oEmbed external sources
+Descriptive summary We should make a list of supported oEmbed sources that we can confirm will work in the system. Include: OSU MediaSpace (Kaltura), YouTube, Vimeo, others? Related work #75

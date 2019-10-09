@@ -1,0 +1,2 @@
+moving WorkObject into a namespace
+This allows for additinal WorkObject related items to not need the workObject prefix in thier class name refs #204  Doing this so I can add a Template to the WorkObject set of things.

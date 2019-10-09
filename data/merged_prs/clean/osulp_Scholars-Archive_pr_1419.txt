@@ -1,0 +1,2 @@
+Adds description field to dataset if admin
+Fixes #1391

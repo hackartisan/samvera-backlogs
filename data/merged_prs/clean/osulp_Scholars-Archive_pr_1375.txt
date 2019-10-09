@@ -1,0 +1,2 @@
+Add Description to edit form for admins.
+Fixes #899 This adds Description to the very bottom of the edit form, for admins only. It's already showing at the top of item show pages. I also updated the Metadata Application Profile to reflect the current situation. I'm in favor of moving existing values in dce:description somewhere else more appropriate, but that will take more investigation.

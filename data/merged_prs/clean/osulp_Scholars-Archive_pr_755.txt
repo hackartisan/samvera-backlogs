@@ -1,0 +1,2 @@
+set proper recipients in workflow configs and email notification objects
+Updated ChangesRequiredNotification and DepositReceivedNotification to send the emails to the user who initiated deposit only Updated PendingReviewNotification to send the emails to the approving role only (the user who made the deposit should get the DepositReceivedNotification email instead) Added diagrams for One Step and Graduate Thesis and Dissertation Workflows: 

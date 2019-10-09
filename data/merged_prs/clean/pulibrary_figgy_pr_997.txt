@@ -1,0 +1,2 @@
+Ensures that only Collection titles are featured within the IIIF Manifest metadata
+Discovered while attempting to resolve pulibrary/pomegranate#336

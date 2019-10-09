@@ -1,0 +1,2 @@
+Document fulfilment functionality
+All-hands feedback from RBSC staff who will be staging items for private reading room viewing: would like documentation of fulfillment functionality:  Known-item search (searching by ids/title) Downloading PDF and/or TIFF page images

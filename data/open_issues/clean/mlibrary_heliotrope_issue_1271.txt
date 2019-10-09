@@ -1,0 +1,2 @@
+Investigate Cypress
+Roger Espinosa [16:05] Has anyone heard of Cypress?  Cypress.io Documentation Writing Your First Test What You’ll Learn How to start testing a new project in Cypress. What passing and failing tests look like. Testing web navigation, DOM querying, and writing assertions. Add a ... Seth Johnson [16:11] Huh, never heard of it. I'm not crazy about installing an app (as it says to do) but it also says it integrates with travis CI. Seem like it could be worth investigating.

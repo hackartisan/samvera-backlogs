@@ -1,0 +1,2 @@
+Cap changes
+Description Updated Capistrano and related gems; fixed linking issues in nfs share; and revised passenger restarts to be like other hosts. Connected to #APPINT-2783 Changes  bullet-point list of changes, if needed

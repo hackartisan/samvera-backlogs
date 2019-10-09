@@ -1,0 +1,2 @@
+Type should have only one value
+29 items have 2 Type URIs (Image and Text). UO only

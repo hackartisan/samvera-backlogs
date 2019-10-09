@@ -1,0 +1,2 @@
+Languages gets exported as one field 
+Description: As an exporter, I need language fields in Physical Instantiations and Essence Tracks to get concatenated and exported as 1 field, so that the PBCore xml is valid. Requires #269 Done when:   On export, an asset that has a Physical Instantiation with multiple language values, the xml has one instantiationLanguage element in the Physical Instantiation.  The value in the instantiationLanguage element is 3-letter codes with a ; as delimiter (as required by PBCore).

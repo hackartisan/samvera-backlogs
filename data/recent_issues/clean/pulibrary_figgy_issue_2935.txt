@@ -1,0 +1,2 @@
+Updates to NumismaticReference
+NumismaticReference needs some changes to be compatible with exisiting data.  Author should be a linked person_id. Add replaces property.

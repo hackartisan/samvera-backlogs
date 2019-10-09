@@ -1,0 +1,2 @@
+Bugfixes dw
+Fix for DLTP-9 and partial work on DLTP-51 (format white space and add links to text on abstract text on show page).

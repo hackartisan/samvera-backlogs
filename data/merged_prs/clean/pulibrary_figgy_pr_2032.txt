@@ -1,0 +1,2 @@
+Use iiif v3 for audio resources
+resolves #2007

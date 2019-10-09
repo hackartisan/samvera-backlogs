@@ -1,0 +1,2 @@
+Remove action removing slashes from id
+prepend_before_action { params[:id].delete!('/') } is causing problems for Adam. Removing for now since we're not using yet,  can reimplement when he's ready.

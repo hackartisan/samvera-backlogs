@@ -1,0 +1,2 @@
+Implement a solution for extracted_text files 
+Based on investigation from ticket #454, implement a solution for being able to attach extracted_text files to a fileset successfully.

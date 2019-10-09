@@ -1,0 +1,2 @@
+Webgl/bug fixes and loading WebGL on e-reader init
+Various bug fixes with resizing; reverts mobile detection; adds needed functions to monograph 3d model tab to break keyboard trapping; Also, resolves #1622

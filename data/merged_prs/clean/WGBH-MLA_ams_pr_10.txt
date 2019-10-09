@@ -1,0 +1,2 @@
+Adds link to change password to menu
+NOTE: this PR is missing an integration test, but I added it as part of the acceptance criteria for fixing bug AMS2-72

@@ -1,0 +1,2 @@
+Error when clicking on 'view all collections'
+When I click on View all collections  on the homepage. I get the following error message:

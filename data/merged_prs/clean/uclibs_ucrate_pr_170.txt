@@ -1,0 +1,2 @@
+add collection export link
+Fixes #160 Add the Manage Exports link in side bar. Add test to check if the link exist.

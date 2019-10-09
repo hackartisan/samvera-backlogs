@@ -1,0 +1,2 @@
+add fields to MetaDB collection items to retain project information
+things like:  project name project initiator (faculty lead(s)?) project identifier (could this just be fitted into "identifier"?)

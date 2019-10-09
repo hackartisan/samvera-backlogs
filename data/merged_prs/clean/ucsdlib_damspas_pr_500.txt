@@ -1,0 +1,2 @@
+Fixes #467 - Allow UCSD local users to download videos icons for UCSD IP/metadata-only collections.
+Fixes #467 Local Checklist   Tests written and passing locally?  Code style checked?  QA-ed locally?  Rebased with master branch?  Configuration updated (if needed)?  Documentation updated (if needed)?  What does this PR do? Allow UCSD local users to download videos icons for UCSD IP/metadata-only collections, which is required for icon display in the search result page. Why are we doing this? Any context of related work? References #466, #483 /developers - please review

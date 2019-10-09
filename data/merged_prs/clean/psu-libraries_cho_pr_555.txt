@@ -1,0 +1,2 @@
+Updating Sinatra
+Addresses security issue 

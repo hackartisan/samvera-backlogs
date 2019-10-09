@@ -1,0 +1,2 @@
+Add hydra-role-management and admin role
+Fixes #92 Add the hydra-role-management gem and needed configuration to support admin users

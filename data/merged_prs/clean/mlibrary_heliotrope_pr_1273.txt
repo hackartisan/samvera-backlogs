@@ -1,0 +1,2 @@
+embed view links back to Fulcrum asset
+Resolves #1214

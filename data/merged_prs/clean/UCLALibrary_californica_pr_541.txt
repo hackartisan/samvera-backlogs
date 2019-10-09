@@ -1,0 +1,2 @@
+Update start-app.sh
+Add port binding like in ursus.

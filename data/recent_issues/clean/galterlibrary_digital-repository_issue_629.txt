@@ -1,0 +1,2 @@
+In item record make subjects (LoC and MeSH) hyperlinked (similar to keywords)
+We noticed that in item records, there are some fields that are hyper linked. When you click on the keyword, it becomes a search term and pulls up other records with that keyword. We are wondering if this same thing can be done for the Subject MeSH or Subject Library of Congress fields.

@@ -1,0 +1,2 @@
+Local collection name drop down text should be relevant
+Descriptive summary Prompt text on Local Collection appears to be the prompt text from Geonames and should be specific to the field in question. Expected behavior Drop down should have prompt text that reads: "Search for a Local Collection"

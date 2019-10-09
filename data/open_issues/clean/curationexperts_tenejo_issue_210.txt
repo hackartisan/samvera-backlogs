@@ -1,0 +1,2 @@
+CSV Validation should warn on bad visibility values
+ACCEPTANCE   The application should issue a warning for any row that has a visibility value that is not in the acceptable list

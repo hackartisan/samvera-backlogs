@@ -1,0 +1,2 @@
+Storage Report
+As a repository manager, I would like to know the amount of storage used overall, by collection, by depositor, by library, So that I may include the information in other reports about CHO.

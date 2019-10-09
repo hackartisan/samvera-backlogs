@@ -1,0 +1,2 @@
+Makes title alpha and reverse alpha sortable
+Fixes #667

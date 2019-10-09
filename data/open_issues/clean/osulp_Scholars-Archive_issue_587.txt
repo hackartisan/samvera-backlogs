@@ -1,0 +1,3 @@
+CrossRef FundRef funder DOIs need JSON support for fetching labels
+The CrossRef FundRef funder DOIs have an API, but currently don't support content-negotiation like other DOIs, so we can't directly get JSON-LD or N-Triples. In order for fetch to work, the JSON will have to be retrieved and the label(s) pulled out. This DOI:  has an HTML Redirect to:  which gives a JSON result. This is very similar to getting support for ITIS.gov (JSON) in Oregon Digital: 
+related to #586 

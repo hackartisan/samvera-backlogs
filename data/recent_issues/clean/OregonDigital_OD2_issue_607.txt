@@ -1,0 +1,2 @@
+Work Show Page: change page layout below viewer
+Descriptive summary Below the Universal Viewer section, change the page layout, keep 2 columns but make the left side larger instead of the right one. Wireframe mockup:  (Information compiled by POSM group from updated wireframes) Expected behavior Metadata display will stay in the larger section, but will be on the left. See mockup.

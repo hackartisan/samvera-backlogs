@@ -1,0 +1,2 @@
+Remove the about_page
+This page isn't working at present and all the useful functionality is in okcomputer. Fixes #12

@@ -1,0 +1,2 @@
+Implements an Event Resource and a ReportCloudFixity Mutation
+Advances #2804, and please note that this will require that UUIDs be generated for FileMetadata IDs before they are persisted.

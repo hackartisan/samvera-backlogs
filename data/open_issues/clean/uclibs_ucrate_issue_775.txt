@@ -1,0 +1,2 @@
+Scholar Curly and Dev RIIIF
+Riiif on Curly and Dev are both having issues. Derivatives work, but Riiif doesn't find the image. We know that the folder that the files should be put in hasn't been touched since late 2018.

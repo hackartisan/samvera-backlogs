@@ -1,0 +1,2 @@
+Resolves #1602: Paywall REST API Specification
+$ bundle exec yardoc $ bundle exec yard server localhost:8808/docs/API

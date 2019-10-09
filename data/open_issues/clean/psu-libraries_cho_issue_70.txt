@@ -1,0 +1,4 @@
+View 3D items
+As a user I would like to view 3D items
+Great example of 3D viewer here. There are a lot of variables though, there isn't really a standard yet for 3d scans. 
+The universal viewer supports this, but probably with specific formats. This is an example using gltf:  

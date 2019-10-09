@@ -1,0 +1,2 @@
+Set visibility private for hidden objects
+When an object is marked "hidden" set its visibility to private. When it is unhidden, set visibility back to open. Also apply hidden visibility to attached file sets. Fixes #1408 Fixes #303  This is the solution we talked about today. I think it's not great that "un-hiding" a work sets it and its files back to "open", but I'm hoping it's good enough for now. Can we just explain that if you decide to "un-hide" something, but you still want to embargo part of it, you'll need to go set the embargo separately?

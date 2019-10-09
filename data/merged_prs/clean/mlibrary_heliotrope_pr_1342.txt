@@ -1,0 +1,2 @@
+Fixes #1324, move error pages to where rails expects them to be
+I've tested this on staging and it's working fine.

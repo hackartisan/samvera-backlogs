@@ -1,0 +1,1 @@
+Removes Article from the list of resource types.

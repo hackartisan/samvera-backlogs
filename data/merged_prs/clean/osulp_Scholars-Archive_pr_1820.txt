@@ -1,0 +1,2 @@
+refactor logger and fix undefined method
+related to #1796 moving rescue, including logger info, up to the main task to catch other issues when forcing a migration

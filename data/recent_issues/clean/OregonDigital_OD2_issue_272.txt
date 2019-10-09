@@ -1,0 +1,2 @@
+[3] Enable searching for labels in catalog controller.
+Descriptive summary There will be some extra work involved to configure the system to search the controlled fields properly. Verify that all the searching works for each field. that means searching throughout the system, review page, search bar, facets, etc.

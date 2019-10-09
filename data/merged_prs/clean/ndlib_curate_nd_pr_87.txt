@@ -1,0 +1,2 @@
+Pages for error messages
+Self-contained HTML pages for common HTTP error codes.

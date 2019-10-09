@@ -1,0 +1,2 @@
+Adds necessary step to readme setup
+cp config.example.yml config.yml necessary for setup.

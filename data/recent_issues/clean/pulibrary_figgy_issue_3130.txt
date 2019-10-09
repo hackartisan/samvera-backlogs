@@ -1,0 +1,2 @@
+Links in PDF cover page should go to public-facing sites
+Currently, PDF cover pages include a link to the Figgy object, which directs users to a staff-facing application.  We should use the public-facing URL for the object, either the ARK URL or the Catalog/Finding Aids/etc. URLs they point to.

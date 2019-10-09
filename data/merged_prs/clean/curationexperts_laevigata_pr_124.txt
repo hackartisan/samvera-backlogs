@@ -1,0 +1,2 @@
+Update the Solr version.
+Force the test solr_wrapper to use 6.5.1,  released today.

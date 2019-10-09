@@ -1,0 +1,2 @@
+Form for adding creators to works or collections
+Description Enables adding a creator to a work or collection via the GUI. Connected to #733 Changes  includes a MockRDF class for mocking large RDF vocabularies across the entire test suite

@@ -1,0 +1,1 @@
+Fixing the direct object link when the referrer is not a search. DHH-582

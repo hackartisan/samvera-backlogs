@@ -1,0 +1,5 @@
+Download an entire book-like object AND multi-sided/compound objects
+As a graduate student, I want to download an entire book-like object in one file, So that it I can download the entire object and not just a single page.
+Previously it depended on how something was uploaded. In some cases they have to download each page. Can they choose the size? Not the original but the large size derivative. Zip file on the fly? Intent is to merge them into a PDF. Pre-supply PDF for download. Designating PCDM model. Can maybe use a suffix to identify.   Future iteration be selective about choosing the download. Not MVP. If rights allow they have access to the full object.
+When ingesting book/book-like objects, a PDF of the full object will be included in the fileset. A download button on the viewer may use this file to offer a complete download.
+This can be addressed in the Universal Viewer (#187) so that the manifest identifies the representative fileset and offers a pdf download of the entire book.

@@ -1,0 +1,2 @@
+Add (local/remote) status tasks
+adds a rake task (rake spot:status) and a capistrano task (cap <env> spot:status) to run OkComputer checks + print the results to the CLI. helpful if something goes down + getting to the admin dashboard isn't possible / a hassle.

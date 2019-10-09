@@ -1,0 +1,2 @@
+Addresses HELIO-2226 favicons
+New branch with Michigan and Lever Press omitted. These can be reinstated if and when we have square aspect ratio assets to base them on.

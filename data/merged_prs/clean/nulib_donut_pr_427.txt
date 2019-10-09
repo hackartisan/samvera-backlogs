@@ -1,0 +1,2 @@
+Use common_indexer v0.3.3 for full_text indexing
+fixes nulib/next-gen-front-end-react#293

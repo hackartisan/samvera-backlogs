@@ -1,0 +1,2 @@
+Use the datastreams hash accessor rather than send
+There is no RELS-EXT method on the object. Fixes #243

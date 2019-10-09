@@ -1,0 +1,2 @@
+Add Basic Media Resource
+Closes #780

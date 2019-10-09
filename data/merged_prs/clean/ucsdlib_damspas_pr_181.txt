@@ -1,0 +1,1 @@
+Fixing collection list alignment issue.(DHH-791)

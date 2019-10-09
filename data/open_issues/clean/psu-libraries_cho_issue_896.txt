@@ -1,0 +1,5 @@
+Elegant display of core fields in a collection
+TBD. Child of #483
+Per #997  - Only display public core fields with collection descriptive metadata - Add "Collection Information" label to collection descriptive metadata
+Blocked by #102 
+interface-inventory-cho.key

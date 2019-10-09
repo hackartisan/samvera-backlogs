@@ -1,0 +1,2 @@
+Resolves HELIO-2574: Remove 'handle' field from components table.
+Best to do this before HELIO-2529: Restricting Monograph Featured Representatives.

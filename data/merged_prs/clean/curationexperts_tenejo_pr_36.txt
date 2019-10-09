@@ -1,0 +1,1 @@
+Upgrade hyrax to 2.4

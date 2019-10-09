@@ -1,0 +1,2 @@
+Fix CircleCI Coverage Check
+The easiest way to fix this is probably to manually specify an older version of ActiveSupport, but #3295 would also fix this.

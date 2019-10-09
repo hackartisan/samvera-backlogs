@@ -1,0 +1,2 @@
+Scanned maps duplicate `label` field for cases where multiple maps are cataloged for a single sheet
+ exposes a Manifest generated containing identical labels for all maps which comprise a single sheet (please see   Perhaps the 856 entries in the MARC record can be used to generate better labels for disambiguating between these individual maps.

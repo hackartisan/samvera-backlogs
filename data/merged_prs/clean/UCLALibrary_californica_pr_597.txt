@@ -1,0 +1,1 @@
+add human_readable_resource_type_sim to support faceting (URS-380)

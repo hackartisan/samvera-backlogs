@@ -1,0 +1,2 @@
+QA to a vocabulary with redirects 
+Descriptive summary If a controlled vocabulary forces too many redirects from the original URL, OD2 gets an error on the backend. In the provided example, the url is pasted without HTTPS F, [2019-02-22T19:21:54.723747 #41] FATAL -- : [454a6a5e-c0cd-4871-bf8b-fcbfb50b87d0] FaradayMiddleware::RedirectLimitReached (too many redirects; last one to: 

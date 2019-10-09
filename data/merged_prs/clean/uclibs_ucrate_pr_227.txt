@@ -1,0 +1,2 @@
+Port over Scholar's permalinks feature
+Fixes #207  Added permalinks_presenter in 'collections_controller.rb', 'profiles_controller.rb', 'file_sets_controller.rb', and work types controller Ported partial permalink. Added partial to 'layouts/hyrax.html.erb' Added link in feature spec of type works, collections and user profile.

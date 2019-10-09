@@ -1,0 +1,2 @@
+New Hydra::AccessControl objects are being created with /new
+If I visit the new work creation page, /concern/generic_works/new, a Hydra::AccessControl is created in Fedora and indexed in Solr. It is unclear whether this resource is later used if in fact a work is created, but simply visiting the page should not result in a new resource being created in Fedora.

@@ -1,0 +1,2 @@
+Match DCE standard capybara setup
+Put capybara config in its own file. Configure to match what we did for ursus, which is the emerging DCE standard.

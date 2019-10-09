@@ -1,0 +1,2 @@
+Refactor User model class
+user.rb is quite long and could use some refactoring for clarity.

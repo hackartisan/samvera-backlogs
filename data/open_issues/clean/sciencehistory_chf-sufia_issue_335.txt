@@ -1,0 +1,4 @@
+move a file to another work
+
+This is related to #336. Again, it replaces the need to delete and reupload the file.
+De-prioritized looking ahead to Kithe - moved to Backlog 5/22/2019

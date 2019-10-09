@@ -1,0 +1,2 @@
+FileSets support reordering in creation form
+Research drag-and-drop options for reordering.  Provide a dropdown (or drag-and-drop) for each fileset that allows the user to select an order  If using a dropdown, ensure an order cannot be selected more than once.  Create/update a system test to reorder filesets.

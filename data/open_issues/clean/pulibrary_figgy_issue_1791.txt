@@ -1,0 +1,2 @@
+ArkWithTitle should display
+Currently it looks like  although data is [5] pry(main)> r.part_of => [#<ArkWithTitle id=nil internal_resource="ArkWithTitle" created_at=nil updated_at=nil new_record=true title="Historical Photograph Collection, Grounds and Buildings Series, circa 1850-1980" identifier="">]

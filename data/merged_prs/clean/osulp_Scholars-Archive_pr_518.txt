@@ -1,0 +1,2 @@
+adds configuration for server side derivative generation bugfix
+fixes #517

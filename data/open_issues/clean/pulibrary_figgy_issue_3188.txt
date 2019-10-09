@@ -1,0 +1,5 @@
+Convert imaginary places from ScannedMap to ScannedResource
+     Note: Ensure these get removed from the maps portal, and show up in the catalog.
+You just need to believe really hard  
+they should probably be handled differently under a full moon
+Completed so they appear in the catalog. Should still be converted to ScannedResource so the ARK points to appropriate location.

@@ -1,0 +1,2 @@
+Fileset Buttons to Match other Button in System
+Description Updates the edit screen for file sets to match Bootstrap style buttons. Connected to #868 Changes  adds Bootstrap class for buttons to fileset form and edit

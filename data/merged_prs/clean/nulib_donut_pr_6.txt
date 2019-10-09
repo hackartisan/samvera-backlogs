@@ -1,0 +1,2 @@
+Add geonames configuration for questioning_authority functionality
+For local development, add a registered geonames user to settings.local.yml with the geonames_username key, e.g. geonames_username: geonames_test_user. This is just a configuration for built-in Hyrax functionality in web forms using questioning_authority functionality that relies upon the Geonames service, e.g. the Location field in the Images work type. Note: the user must have the "free web service" option enabled from 

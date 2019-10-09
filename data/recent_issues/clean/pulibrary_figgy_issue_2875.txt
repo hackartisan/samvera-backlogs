@@ -1,0 +1,2 @@
+read-only mode breaks searching
+[Figgy/production] ActiveRecord::StatementInvalid: PG::InsufficientPrivilege: ERROR:  permission denied for relation searches: INSERT INTO "searches" ("query_params", "created_at", "updated_at") VALUES ($1, $2, $3) RETURNING "id" Backtrace View full backtrace and more info at honeybadger.io

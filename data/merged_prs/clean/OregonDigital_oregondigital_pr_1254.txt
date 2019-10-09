@@ -1,0 +1,2 @@
+Remove initialize and assign_subject that auto-creates URIs in Creator CV.
+Fixes #1253 Strings are rejected as not being in the CV now.

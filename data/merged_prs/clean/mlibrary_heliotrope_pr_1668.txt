@@ -1,0 +1,2 @@
+display a message on monograph catalog page
+Resolves #1661 Display a message on monograph catalog page when a monograph has a webgl file associated with it All users see:  IE/Mobile/Tablet users see:

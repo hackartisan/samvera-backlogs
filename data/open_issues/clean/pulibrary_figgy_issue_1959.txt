@@ -1,0 +1,5 @@
+Sort by creation date of resource itself, not figgy object
+regarding grounds & buildings collection, user comments "I also have questions about the sorting on the Figgy back end view. They are not helpful, the creation date is the actual creation of the file in figgy."
+I sort by figgy's date created all the time - maybe add "Sort by Date Created" and "Sort by Date Ingested"?
+To sort by date_created I fear we will need to more structured date encoding; perhaps a nested object that encompasses date and date range. We'll also need to figure out what the sort date should be on an object with a date range. We'll need to enforce dates being only numeric; there should be some other way to designate things like approximate dates.
+I wonder if this is really useful as a tool in Figgy too? Like...why is it important to sort by "date created" vs just title even? Is it that they need SOME consistent sort, or that they're comparing lists of items with similar sorts, or what?

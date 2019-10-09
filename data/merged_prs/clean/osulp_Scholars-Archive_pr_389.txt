@@ -1,0 +1,2 @@
+Fix/rspec
+fixes #384 fixes #390

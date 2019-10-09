@@ -1,0 +1,2 @@
+Updating publish target page; Fixing front-end permissions
+Switched response codes from 422 to 400 in order to try to standardize our http error codes across applications (per a conversation with Eric). Regenerated rubocop todo Changing serialization of abilities with symbols to mimic class names Fixing issue with customized subject method for front-end permissions Making the default doi_priority 100 (the lowest value). Adding is_allowed_doi_target and doi_priority to publish target form

@@ -1,0 +1,3 @@
+Allow local (db) authentication for the outside users
+
+remember this is not a promised feature. just said we will explore. 

@@ -1,0 +1,2 @@
+Benchmark tests for collections and works
+Description Fixes: #448 Takes existing benchmark code from a rake task and moves it into cho/metrics where it can be tested.  creates a new benchmark for creating works with a 50 MB (or other custom sized) file uses Faker gem to fill-out metadata fields  Changes Are there any major changes in this PR that will change the release process? No, but we could leverage the benchmark tests to run automatically for each release. Checklist   i18n enabled  adequate test coverage  accessible interface

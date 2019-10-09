@@ -1,0 +1,2 @@
+adds new buttons to placeholder pages
+Fixes #598

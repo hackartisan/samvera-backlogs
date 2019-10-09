@@ -1,0 +1,2 @@
+Technical Metadata Extraction
+Ensure the Characterization Job adds all the appropriate technical metadata to the File

@@ -1,0 +1,2 @@
+Failures during text extraction are not logged
+ It is also not logged here:  Likely this code should be extracted into a step so that it can be reused in multiple operations.

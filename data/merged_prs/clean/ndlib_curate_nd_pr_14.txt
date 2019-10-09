@@ -1,0 +1,2 @@
+Enabling multiple values for authors
+This includes tweaking the end to end specs to account for multiple authors. As well as extracting the repeat field behavior. IDR-176 #resolve

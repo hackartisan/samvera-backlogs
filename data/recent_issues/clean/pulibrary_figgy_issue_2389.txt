@@ -1,0 +1,2 @@
+Imported Recordings & Selections should import course IDs they came from
+It should store these in part_of, so they can be easily looked at as a batch. Child of #2043

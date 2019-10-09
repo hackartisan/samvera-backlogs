@@ -1,0 +1,2 @@
+Remove number_in_accession from the accession change_set
+Closes #2240

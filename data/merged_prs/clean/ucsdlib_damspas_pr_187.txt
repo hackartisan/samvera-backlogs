@@ -1,0 +1,1 @@
+Added subfix to the facet titles for scientific name and common name. DHH-804

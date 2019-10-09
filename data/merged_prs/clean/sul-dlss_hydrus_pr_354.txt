@@ -1,0 +1,2 @@
+Dump poorly named and unnecessary hash arg when opening versions
+It has already been removed in dor-services-app: sul-dlss/dor-services-app#349

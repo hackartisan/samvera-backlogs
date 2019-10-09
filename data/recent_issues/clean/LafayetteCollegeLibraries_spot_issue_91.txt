@@ -1,0 +1,2 @@
+update descriptive text for form fields
+a lot of the form fields have empty help-text elements. see en.simple_form.hints.defaults in config/locales/hyrax.en.yml

@@ -1,0 +1,2 @@
+Issue 194 make parent collection subtle
+resolves #194

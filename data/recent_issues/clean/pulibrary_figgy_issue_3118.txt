@@ -1,0 +1,2 @@
+Handle Restricted Content in viewer
+For Toni Morrison papers:   If the user is logged into Figgy and has staff or admin role, display digital content  If a user's IP address is in a whitelist,  and they are logged in with a "reading room" role, then display the digital content  Otherwise, do not display the viewer

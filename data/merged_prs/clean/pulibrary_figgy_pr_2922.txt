@@ -1,0 +1,2 @@
+Integrates cloud fixity statuses into the fixity dashboard display
+Resolves #2910 by addressing the following:  Implements the FindCloudFixityFailures and FindCloudFixityChecked custom queries Integrates cloud fixity statuses into the dashboard display

@@ -1,0 +1,2 @@
+Create new job superclass for Valkyrie helper methods
+Many of the job classes have similar methods defined for accessing Valkyrie, e.g., more than a dozen have a metadata_adapter helper method.  Should we create a new job superclass these can be subclasses of to avoid these duplicative methods?

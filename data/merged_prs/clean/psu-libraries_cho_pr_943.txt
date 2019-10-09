@@ -1,0 +1,2 @@
+Installing eslint
+Description Uses the standard settings for linting JS files. Connected to #797 Note I'm punting on Travis integration because we'll likely be moving to CircleCI and that has better options for building Ruby+Node apps.

@@ -1,0 +1,2 @@
+adding in presenter for csv view
+This PR adds a presenter that allows the index to be viewed (exported) as csv. Note there were no changes to the controller to allow for the additional format.  Rails forwards to the correct views based on format. If we like this pattern of thin controller  and view that uses a presenter we may want to refactor the index views for the json code that was auto generated for us to use a presenter also. That said the code that was generated is fairly slick in that is uses the same partial for a single item and for each item in the array.

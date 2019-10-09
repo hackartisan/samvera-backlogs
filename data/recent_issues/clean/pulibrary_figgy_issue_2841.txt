@@ -1,0 +1,2 @@
+Rake task to mark all objects in a collection for preservation
+Add a rake task that allows assigning a preservation policy to all objects in a collection.  Ultimately this is going to be added to the bulk edit screen (see #2842). See #2821 (comment)

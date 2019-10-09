@@ -1,0 +1,6 @@
+view entire book/book-like object
+As an end user, I need to be able to view the entire book-like object, as well as individual pages, in the browser, so I can study it as a complete object (and see where the pages that match my search fit into the context of the entire book.)
+Does this also mean PDF? 
+ You only mention search in the so I can part, are you implying that when you reach a book from search, you want to see the pages that contain your search query, as well as the option to view the entire book?
+Book or book-like object. Page turning app. Plum has something similar. There used to be a lot of interest in page turners in the community. IIIF page turners and some demos. Unsure about the magic to make it work. Emulates the analog experience.  May affect the batch import based on the page turner.
+Achieved with #187 ?

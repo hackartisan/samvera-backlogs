@@ -1,0 +1,1 @@
+Fixed creative commons icon to css class association.

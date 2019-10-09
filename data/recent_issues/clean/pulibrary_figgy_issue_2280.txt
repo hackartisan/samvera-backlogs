@@ -1,0 +1,2 @@
+Add configuration for map sets that draws four images on a single canvas
+Many older, large maps were photographed in four parts. IIIF manifest can assemble them in the correct order on a single canvas. [a,b,c,d] =  a | b              -----              c | d

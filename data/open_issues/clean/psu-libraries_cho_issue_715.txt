@@ -1,0 +1,2 @@
+Default field display name to titleized label
+In the CatalogController we can call field.display_name without having to check for nil if we just default all fields' display names to their label, ex. label_name becomes "Label Name" We could look at some magic in dry struct, or update the display name property directly so that it would never be nil in the first place.

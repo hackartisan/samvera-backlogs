@@ -1,0 +1,2 @@
+Lined up fields on ingest form and added keyword flavortext
+Fixes #194 and Fixes #204

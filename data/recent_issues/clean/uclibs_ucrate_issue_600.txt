@@ -1,0 +1,2 @@
+Add a "last modified" date to work show pages
+Descriptive summary Add a "Last modified" date to work show pages.  Scholar 3.x has this on the show page, but it is missing from 4.x. The format should be Last modified: 11/08/2018.  See the example screenshot below for where the text should appear. In Scholar 3.x, app/views/hyrax/base/show.html.erb has <%= t('.last_modified', value: @presenter.date_modified) %>

@@ -1,0 +1,2 @@
+Display fixity status on resources
+Fixes #3023

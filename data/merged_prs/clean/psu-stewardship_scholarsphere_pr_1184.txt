@@ -1,0 +1,2 @@
+Adding ReCAPTCHA to email form to stop spam
+Uses Google's ReCAPTCHA service to stop spam from getting through via our contact form. Configuration of the service is documented here:  And the server configs have been updated, as noted in:  This has been tested in QA, but still requires some UI work and accessibility verification.

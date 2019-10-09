@@ -1,0 +1,2 @@
+displays representative media for datasets
+Fixes #1713

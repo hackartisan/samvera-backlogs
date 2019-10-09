@@ -1,0 +1,2 @@
+Ensure library collection type exists on all curate systems
+Create it easily with an idempotent rake task Run this task whenever we deploy, so we always have the expected collection type to work with  Connected to #383

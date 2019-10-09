@@ -1,0 +1,2 @@
+Setup GeoNames account and enable Geonames
+ create account and enable it the application. Test it well. Create a wiki page that documents us to remember to enable in qa and production.

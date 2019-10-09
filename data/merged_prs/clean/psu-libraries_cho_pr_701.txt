@@ -1,0 +1,2 @@
+Index and search extracted text content
+Description Takes the extracted text from a file set and indexes into Solr and returns any works that contain the extracted text within them. Connected to #653 Follow up work identified in #702

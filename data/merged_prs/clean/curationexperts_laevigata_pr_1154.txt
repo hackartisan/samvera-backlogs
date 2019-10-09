@@ -1,0 +1,2 @@
+Yarn rake task fix
+There is a bug in the current version of the webpacker gem that interferes with our capistrano deployment. See: rails/webpacker#810 This adds a rake task which overrides the one provided by the gem so that yarn is called from the system version and not a binstub.

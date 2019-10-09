@@ -1,0 +1,5 @@
+ezid 500 when object tries to mint id on pdf save
+[Figgy/production] Ezid::Error: internal server error Backtrace line 32 of [PROJECT_ROOT]/app/services/identifier_service.rb: mint_identifier line 7 of [PROJECT_ROOT]/app/services/identifier_service.rb: mint_or_update line 21 of [PROJECT_ROOT]/app/change_set_persisters/change_set_persister/mint_identifier.rb: mint_identifier  View full backtrace and more info at honeybadger.io
+This is confusing because the object had state "complete" -- why didn't it mint an id on that state change? Instead the object was trying to mint an id at time of pdf generation.  The object in question successfully minted an ID when I requested the pdf again. However, do we need to do an inventory to ensure all our complete objects have ARKs?
+We should run an inventory and also add a test to make sure if ARK minting fails it rolls back that transaction
+just got this link from Monika  -- we should document it somewhere; maybe pul_the_hard_way

@@ -1,0 +1,2 @@
+Change Discovery to Visibility
+Fixes #768 Changes a YAML file to display visibility instead of discovery for collections. Modified a spec test as well.

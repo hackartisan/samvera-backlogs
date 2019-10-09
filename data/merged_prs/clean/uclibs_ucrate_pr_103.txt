@@ -1,0 +1,2 @@
+Add Shibboleth integration
+Fixes #57 Adds login integration with central UC Shibboleth system. Changes proposed in this pull request:  Integrate Shibboleth login

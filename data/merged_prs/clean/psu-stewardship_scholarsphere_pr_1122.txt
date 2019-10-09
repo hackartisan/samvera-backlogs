@@ -1,0 +1,2 @@
+treating initials differently depending on where they are
+I'm not sure I am in love with this fix for #1121 but it is better than what we have now. We are either matching too much, or not enough with the current code. W. Piggy would match Miss Wonderful Piggy which is not a very accurate match M. Wonderful Piggy would not match Miss Wonderful Piggy, which seems like it should match. The fix include adding a space after the initial to match for exact match like "W. Piggy" would match "W Piggy", but would not match "Wilbur Piggy" or "Frances W Piggy"

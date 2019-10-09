@@ -1,0 +1,2 @@
+'Moving image' selection proper order
+Closes #252

@@ -1,0 +1,2 @@
+BrowseEverything is ingesting non-existent BMP files from Google Drive
+This behavior was reported by a user: I have some files that I am uploading from google drive that are originally tiffs but are ingesting as bmps. Anyone have any idea why that might be happening?  this record   The BMPs appear to have been uploaded with TIFFs:  The user confirms that these BMP files do not exist in the Google Drive Folder.

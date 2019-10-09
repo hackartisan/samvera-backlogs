@@ -1,0 +1,2 @@
+ Duplicate Configure Fedora to store deposited files in S3 and complete testing 
+Additional note from 8/5 joint sprint planning meeting

@@ -1,0 +1,2 @@
+check #usage-stats exists before drawing
+Resolves #1615

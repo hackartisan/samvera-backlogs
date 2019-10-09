@@ -1,0 +1,2 @@
+Upgrade to Hyrax 2.2.3
+Also bumping the Gemfile requirement, since there are security vulnerabilities prior to 2.2.2.

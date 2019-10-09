@@ -1,0 +1,2 @@
+Feature/handle cv free entry exception
+Closes #194 and closes #193

@@ -1,0 +1,1 @@
+pins to a version of net-http-persistent that works properly with triplestore-adapter

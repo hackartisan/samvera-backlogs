@@ -1,0 +1,2 @@
+Add ffmpeg processing
+Descriptive summary Install necessary bits to docker image to run ffmpeg and add it to the hyrax initializer Related work Hyrax initializer:  Dockerfile install ffmpeg: 

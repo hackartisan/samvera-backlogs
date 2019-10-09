@@ -1,0 +1,2 @@
+Port Scholar featured content functionality and partials
+Fixes #182 Port over featured content functionality from Scholar. Changes proposed in this pull request:  Add hyrax homepage partial overrides Add FeaturedCollection MVC Specs

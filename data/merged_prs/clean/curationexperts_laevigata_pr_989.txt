@@ -1,0 +1,2 @@
+Return a 404 for unmatched routes
+Currently we create an error message and a stack trace every time someone requests an unknown route. Since we're getting crawled by search engines and security scans, this happens a lot and it makes our log files less useful than they might be. When we get a request for an unrecognized route, just return a 404 and move on. Connected to #987

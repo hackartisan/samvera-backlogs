@@ -1,0 +1,2 @@
+Prevents new users from getting an account
+Closes #133

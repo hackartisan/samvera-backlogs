@@ -1,0 +1,2 @@
+Make series multi-valued for ephemera folders
+fixes #844

@@ -1,0 +1,2 @@
+Revert "Merge pull request #2012 from mlibrary/2168_Checkpoint_DB"
+This reverts commit 6de486c, reversing changes made to 0732337.

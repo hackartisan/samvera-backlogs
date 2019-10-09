@@ -1,0 +1,2 @@
+Select a new featured collection, work, and researcher
+Descriptive summary It's probably time to rotate the Featured Researcher, Featured Collection, and Featured Work items on the Scholar home page to new content. We should be able to update these without a deploy. First step is to identify a new user, collection, and work to showcase on the home page. Moved from uclibs/scholar_uc_legacy#1954

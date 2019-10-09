@@ -1,0 +1,2 @@
+Hide downloader type in recently uploaded list
+Hide downloaders in the recently uploaded list in the homepage.

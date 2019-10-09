@@ -1,0 +1,2 @@
+Remove or rename references to plum
+Closes #1252 Closes #1247 Closes #1249 Closes #1250 Closes #1248 Closes #1253

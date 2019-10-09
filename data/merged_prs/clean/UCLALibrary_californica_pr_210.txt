@@ -1,0 +1,2 @@
+Log errors and number of records processed
+If an exception happens during processing, log it and keep going Record the number of records expected and the number actually processed Clean up any log files created during testing  Connected to #202

@@ -1,0 +1,2 @@
+Make rewrite generator respect reviewed status.
+Closes #542

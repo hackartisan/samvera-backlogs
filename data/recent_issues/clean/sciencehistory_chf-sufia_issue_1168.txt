@@ -1,0 +1,2 @@
+PDF thumbnail conversion command is failing
+Several oral history PDF's (r494vm198; gh93h041p; n583xw033; 8623hz61d; 5d86p124w; rn3012327 ) are causing create_derivatives_on_s3_service to fail. The failing command is: convert -density 400 -colorspace sRGB -thumbnail 206x -unsharp 0x3.0 -define jpeg:size\=416x -alpha remove -quality 85 -bordercolor \#050939 -border 1 /tmp/chf-sufia/derivatives-working/fileset_v692t709j_20181012-10097-130gwwz/original\[0\] /tmp/chf-sufia/derivatives-working/fileset_v692t709j_20181012-10097-130gwwz/thumb_standard.jpg The Honeybadger error is : 

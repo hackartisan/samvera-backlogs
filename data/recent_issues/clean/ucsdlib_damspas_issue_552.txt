@@ -1,0 +1,2 @@
+Investigate spike in statistics and exclude IP peak
+Descriptive summary October's statistics are showing a huge peak for Oct. 23. Investigate to determine what should be excluded from the spike.

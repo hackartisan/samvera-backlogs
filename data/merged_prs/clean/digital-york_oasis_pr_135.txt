@@ -1,0 +1,2 @@
+Add rake task to refresh thumbnails dates
+Fixes thumbnails bug #132

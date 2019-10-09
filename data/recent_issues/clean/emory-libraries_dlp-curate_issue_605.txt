@@ -1,0 +1,2 @@
+Homepage error when Featured Work is enabled
+If I select a work to be featured on the homepage using the basic Hyrax UI option, an application error is displayed.

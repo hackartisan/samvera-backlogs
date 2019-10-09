@@ -1,0 +1,2 @@
+Support for deploying tagged releases to stage server via jenkins
+Based on a tagged release, this will trigger a curl command to execute a jenkins deploy. Required by UCLALibrary/amalgamated-samvera#115

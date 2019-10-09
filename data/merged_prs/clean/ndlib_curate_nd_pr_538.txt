@@ -1,0 +1,2 @@
+Dltp 562 cannot click on department filt
+Claiming issue dltp-562 @6fe917e033720a75fb6c12ef75c113f73f757efc $ ./script/start-issue dltp-562 [skip ci] Make department filter clickable @01505002aa0ba5bd9254ee2d71653c4841d2b449 Closing issue dltp-562 @311a0cd24be906e2c7e5b18433778394020ea4ca $ ./script/close-issue dltp-562

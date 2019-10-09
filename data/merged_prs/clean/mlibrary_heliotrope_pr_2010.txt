@@ -1,0 +1,2 @@
+add unexpected column warning
+Resolves HELIO-2142

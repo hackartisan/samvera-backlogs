@@ -1,0 +1,6 @@
+Show Relationships in Search Results
+As a researcher, I would like the search results to tell me when an object is part of a larger collection/grouping, so that I can easily identified possibly related materials. Ben G. Related: #60
+For display, the concern is not the direct parent but rather than top level parent.
+Background: 
+Collection membership is already displayed in the search results. Should subworks in a nested work be displayed in search results (incase which this ticket applies) or should the search results only include the partner works/nested work themselves?
+Related to #60, which is an epic. This might be a component of that epic.

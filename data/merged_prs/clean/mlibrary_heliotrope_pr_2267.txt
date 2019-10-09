@@ -1,0 +1,2 @@
+Resolves HELIO-1464, HELIO-2512, HELIO-2515
+Resolves HELIO-1464 Removes leftover CSS and cleans up ancillary CSS files no longer used; We no longer have a view for monographs that only have supplemental materials - all monographs are using the same view. Resolves HELIO-2512 Overrides Hyrax's override of Bootstrap - use the Hyrax way because it is more accessible, but don't also use Bootstrap's content Resolves HELIO-2515 Modify fulcrum CSS so that buttons with larger text like "Partner with Us" adjust their height dynamically

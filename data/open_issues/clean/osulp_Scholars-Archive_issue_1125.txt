@@ -1,0 +1,1 @@
+Slow response when selecting the Review Submissions link in dashboard

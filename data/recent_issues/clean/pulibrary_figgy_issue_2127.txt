@@ -1,0 +1,2 @@
+Numismatic Finds
+Models/etc. for numismatic finds (locations where coins were found), linked to from Coins. Attributes from db:  Place date find number (auto-incrementing sequence) feature locus description  N.b., there are only 4 rows in the database. Child of #2025

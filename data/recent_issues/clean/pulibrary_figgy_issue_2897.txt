@@ -1,0 +1,2 @@
+Files uploaded to GCS should be validated via MD5
+Unsure what the API for this should be like - Valkyrie doesn't really support this. The library will though: 

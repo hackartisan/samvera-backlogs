@@ -1,0 +1,2 @@
+switch change your password to help
+Fixes #590

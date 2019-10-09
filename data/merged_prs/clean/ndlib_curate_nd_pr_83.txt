@@ -1,0 +1,2 @@
+Adding application/_thumbnails partial
+To ensure that the thumbnails partial can be found in most every context, I'm adding them directly to app/views/application This is a change that is part of Curate as well, but has yet to be merged and is on a branch significantly further along than ours. Closes #81

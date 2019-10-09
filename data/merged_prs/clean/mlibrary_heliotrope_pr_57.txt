@@ -1,0 +1,2 @@
+Implement initial Monograph metadata fields
+A first pass at #53. Adds initial Monograph metadata fields to the Monograph controller, model, and to the catalog view and the create/edit form. Overrides default labels of initial metadata fields with human readable labels.

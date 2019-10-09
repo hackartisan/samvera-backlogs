@@ -1,0 +1,2 @@
+Fileset_id points to a child work
+I find it happens at least with one work:  where file_set_id points to a work vq27zn63h. So when we try to get the fileset name using 'label_ssim' with id 'vq27zn63h', it will fail. The actual fileset is  under vq27zn63h. We can fix these errors manually in Rails Console if it only happens to few works.

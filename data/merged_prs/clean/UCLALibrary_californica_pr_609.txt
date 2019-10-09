@@ -1,0 +1,2 @@
+Record page sequence in a PageOrder object
+During import, record a page's sequence in a PageOrder object. This will make the page order for a given manuscript easy to recalcuate. Once a manuscript import is complete, we'll query for all that mss's PageOrder objects, sort them by sequence, and use that to set the order of the pages.

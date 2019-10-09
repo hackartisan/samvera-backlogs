@@ -1,0 +1,2 @@
+Revert "Replace `sass-rails` with `sassc-rails`"
+This reverts commit b098c1f.

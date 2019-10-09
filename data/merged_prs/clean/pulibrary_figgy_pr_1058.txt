@@ -1,0 +1,2 @@
+Adding objects imported from METS to collections referenced in IsPartOf relation
+Fixes #1056

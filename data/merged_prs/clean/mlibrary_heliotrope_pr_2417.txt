@@ -1,0 +1,2 @@
+add fix for extract job
+Two changes:  Conor noted that the tar data directory contents weren't correct. This was because the bag was been tar'd before the extract was complete because the extract was changed to be a job. He suggested a fix which works well. lib/export/exporter.rb L89. The other change was to the production credentials so that it s3 upload to APTrust now works in production.

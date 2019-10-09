@@ -1,0 +1,1 @@
+Do not assume images/ddr-portals already exists; Closes #303

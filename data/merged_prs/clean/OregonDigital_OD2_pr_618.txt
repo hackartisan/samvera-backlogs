@@ -1,0 +1,2 @@
+Add axe-matcher gem and configure aXe automated accessibility testing
+Fixes #535 So far the homepage and work show page are all that are covered. Work show has a bit more work, but it's one minor rule and a color question that may be addressed with themeing later.

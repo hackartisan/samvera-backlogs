@@ -1,0 +1,2 @@
+Clicking Show on Edit Form (Without Changes) Throws Error
+Clicking Show at the bottom of the edit form on collections and works returns a page not found error. It seems the link just drops edit from the URL, but it should be replacing works|archival-collection|library-collection with catalog too. This:  Instead of this: 

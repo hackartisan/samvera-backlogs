@@ -1,0 +1,2 @@
+sitemaps in shared directory, handle tombstoned FileSets
+HELIO-2790

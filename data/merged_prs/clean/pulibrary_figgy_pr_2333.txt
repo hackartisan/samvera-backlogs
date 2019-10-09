@@ -1,0 +1,2 @@
+Fix bounding box display on geo resource edit page
+Closes #2328

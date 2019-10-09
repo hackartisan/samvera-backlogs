@@ -1,0 +1,2 @@
+Fix 'Agent must exist' validation error
+When using multi-threaded concurrence (Sidekiq) and RDBMS (MySQL) we were had a situation where Sipity::Agent for a given user had been created in one thread, but was not accessible from another thread. In this situation the necessary Sipity::Agent could niether be retrieved, nor created, resulting in a nil value that would then result in the validation error. Here we just synchronously create the Sipity::Agent before scheduling jobs.

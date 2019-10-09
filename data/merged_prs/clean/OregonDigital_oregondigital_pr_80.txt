@@ -1,0 +1,2 @@
+Locked guard to a version that works with Vagrant shared folders.
+This just makes my life easier.

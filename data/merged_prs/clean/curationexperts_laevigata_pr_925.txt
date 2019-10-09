@@ -1,0 +1,2 @@
+Box remote URLs sometimes result in an error
+Sometimes a user attaches a file via box, and then when the background job attempts to retrieve the file it results in an error page. Instead of attaching the error page to the object, recognize that an error has occurred and raise an exception. Additionally, send a notification to the depositor informing them of the problem and asking them to re-submit the file. Fixes #919

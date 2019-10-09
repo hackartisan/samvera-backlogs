@@ -1,0 +1,2 @@
+Configure solr stop words and synonyms
+Synonyms, in particular, should be updated for Penn State and regional terms. 

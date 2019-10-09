@@ -1,0 +1,1 @@
+hide prev or next facet browse links if disabled

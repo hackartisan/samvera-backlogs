@@ -1,0 +1,3 @@
+Now that state propagates to members, remove extra logic
+Given #1339 we should be able to remove some logic around checking parent workflow states from indexing and maybe also the search builder and maybe also Ability Pending confirmation that the migration was run on prod
+e.g. I think this spec should be deleted, and the behavior of reindexing children, since they will save/reindex themselves on state change. 

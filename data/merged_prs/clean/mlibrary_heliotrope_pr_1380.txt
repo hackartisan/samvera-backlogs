@@ -1,0 +1,2 @@
+add updated navigation slider to e-reader footer
+Resolves #1378

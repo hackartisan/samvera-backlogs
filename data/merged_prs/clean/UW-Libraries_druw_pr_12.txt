@@ -1,0 +1,2 @@
+Fix Search Limit dropdown on Browse page.
+#11

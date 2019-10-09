@@ -1,0 +1,2 @@
+Exclude Tombstones from search results.
+Closes #3360.

@@ -1,0 +1,2 @@
+Dev setup
+Adds description, pretty picture, and developer setup instructions to README.md Closes #2

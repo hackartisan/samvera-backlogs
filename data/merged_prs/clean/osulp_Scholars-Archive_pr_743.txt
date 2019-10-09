@@ -1,0 +1,2 @@
+updated create method on AddOtherFieldOptionActor
+fixes #742

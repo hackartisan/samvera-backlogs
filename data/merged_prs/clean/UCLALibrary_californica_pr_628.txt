@@ -1,0 +1,2 @@
+Decrease logging level in production
+california-dev is still running out of disk space because the logs. This will reduce the logging level in prod to error.

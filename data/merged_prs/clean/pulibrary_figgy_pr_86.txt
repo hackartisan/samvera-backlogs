@@ -1,0 +1,2 @@
+Set thumbnail ID on appending.
+Closes #84

@@ -1,0 +1,2 @@
+Fixes CSS for Large Image Viewer.
+Closes #370

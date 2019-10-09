@@ -1,0 +1,6 @@
+Embargo lifting notifications
+Move specific variable settings to use ENV in the config.yml for use on production.
+Does Hyrax send a notification when an embargo is lifted?
+There are no notification services set up for embargo lifting. In the EmbargoHelper, however, there is a method that will update the visibility of the expired embargoes. It can be found here:   `#Destroy` doesnt seem like the proper description of lifting the embargo and updating, but that is the method that handles that.   Work that needs to be done would be create a new notifier service that hooks into the embargo lifting method and sends off a notification/email. We would also need to set up that cron job which would run the EmbargoHelper method to update the expired embargoes. 
+This may be related/help, there's an Actor but currently no EmbargosController: 
+It is. I posted a comment in hyrax about that ticket as well as notifications being pushed out for embargoes. I'll continue to monitor this topic and see what comes of it.

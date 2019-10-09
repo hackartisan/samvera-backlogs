@@ -1,0 +1,2 @@
+Import resource_type from CSV file.  Connected to #157
+Connected to #157

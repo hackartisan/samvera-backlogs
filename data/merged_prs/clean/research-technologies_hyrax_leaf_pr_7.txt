@@ -1,0 +1,2 @@
+Docker3
+Adds docker to hyrax_leaf, with the ability to add a gem to vendor/* and run it's install generator

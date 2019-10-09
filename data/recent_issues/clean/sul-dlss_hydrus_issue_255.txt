@@ -1,0 +1,2 @@
+[hydrus/stage] Dor::WorkflowException: Failed to retrieve resource: put  (HTTP status 500)
+Backtrace line 63 of [PROJECT_ROOT]/app/models/hydrus/processable.rb: start_assembly_wf line 53 of [PROJECT_ROOT]/app/models/hydrus/processable.rb: start_common_assembly line 241 of [PROJECT_ROOT]/app/models/hydrus/collection.rb: block in open  View full backtrace and more info at honeybadger.io

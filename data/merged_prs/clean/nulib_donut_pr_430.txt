@@ -1,0 +1,2 @@
+Remove deprecated StandardFilterFactory Solr filters from Solr config
+StandardFilterFactory filters were deprecated in Solr 7. Removing these filters will prevent an error when upgrading to Solr 8. See projectblacklight/blacklight#2017 for more information.

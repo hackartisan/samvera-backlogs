@@ -1,0 +1,2 @@
+Edits fileset view page to add file details for additional files
+Closes #322

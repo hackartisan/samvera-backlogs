@@ -1,0 +1,2 @@
+Per-Resource Auth Tokens
+Every resource should have an access token that provides access to its manifest and the file downloads of its derivative filesets.  The access token should not be in the record's JSON-LD etc. Child of #1986

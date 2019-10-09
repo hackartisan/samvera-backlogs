@@ -1,0 +1,3 @@
+Consider enabling facets for Rights Statement and License
+For example, to allow users to search for only re-usable content with CC licenses.
+ does not feel this is needed for scholarly content - perhaps a future use case for photographs/iamges

@@ -1,0 +1,2 @@
+Fix for Safari 11 file upload
+This fixes an issue effecting Safari 11. There is a bug in Safari 11 that stops POST requests that have an empty file in the form.  This checks if you are using Safari 11 and deletes the form data that would be empty when you are uploading a file. Fixes #1513

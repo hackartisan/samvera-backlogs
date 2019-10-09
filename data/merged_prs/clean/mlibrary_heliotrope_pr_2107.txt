@@ -1,0 +1,2 @@
+yes_split section_title on semi-colon
+HELIO-2322

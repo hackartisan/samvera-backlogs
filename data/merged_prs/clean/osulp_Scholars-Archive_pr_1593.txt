@@ -1,0 +1,1 @@
+updated solr query in migrate_creators

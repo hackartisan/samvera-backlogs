@@ -1,0 +1,2 @@
+555 Adds sony_ci_api gem
+Note: The sony_ci_api gem requires config/ci.yml with our Sony Ci credentials to be passed in to it. We will need to add that file to the servers for this to work on edge and staging.

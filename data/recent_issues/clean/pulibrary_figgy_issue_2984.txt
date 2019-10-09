@@ -1,0 +1,2 @@
+Remove thumbnail_id from numismatic accession
+Not needed. 

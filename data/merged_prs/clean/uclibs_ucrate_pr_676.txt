@@ -1,0 +1,2 @@
+upgrade the riiif 1.1 gem to riiif 2.0
+Fixes #601

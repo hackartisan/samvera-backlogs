@@ -1,0 +1,2 @@
+Set visibility when expiring an embargo
+We were relying on #deactivate_embargo! to do this work, but it explictly does not affect visibility. We set the visibility to the #visibility_after_embargo explictly, since we are already filtering by the date passed into the task. Related to #977. See also: samvera/hyrax#2657 This is a backport of #1122

@@ -1,0 +1,2 @@
+Non-admin users cannot upload a csv
+On curation  - Tenejo master; Updated 27 September 2019 As a non-admin user, when I go to the dashboard I can click on the "import content from a csv" and then I get a message "You are not authorized to access this page". ACCEPTANCE   Non-admin users should not see a batch upload link in the dashboard

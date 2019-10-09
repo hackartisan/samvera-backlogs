@@ -1,0 +1,2 @@
+Bootlint, CSS styles, dashboard, and visual tidyness 
+Breaks up Sass nesting and updates code for new style. Adds comments, switches uppercase hex values to lower per style, removes values prefixed 0., spacing per style. Adds container fluid and moves row to another DIV for bootlint. Overrides homepage.html.erb and adds col-sm-5 and col-md-6 for bootlint and better display. Refactors the heading greeting and removes the hover states from the icons. Inspiration:  Resolves #279 and #418

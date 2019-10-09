@@ -1,0 +1,2 @@
+rewrite image derivative processing
+it was supposed to be so easy! i had it in my head that running file_set.create_derivatives would have run the command on every class found in Hyrax::DerivativeService.services, but Hyrax::DerivativeService.for(file_set) will return the first valid service only. SO this creates a new service that iterates through a couple of sub-services so we'll get thumbnails for Images as well as access master tiffs. this also adds a rake task for regenerating derivatives bundle exec rails spot:create_derivatives[<file set id>]

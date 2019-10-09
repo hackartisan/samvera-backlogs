@@ -1,0 +1,2 @@
+Separate unicorn config file for test environment
+unicorn.rb was routing all requests in development mode, when typically they showed up in terminal. Using a different file for test, keeps the rspec output clean, and preserves the expected behavior when running bundle exec rails s in your console.  is this what you had in mind?

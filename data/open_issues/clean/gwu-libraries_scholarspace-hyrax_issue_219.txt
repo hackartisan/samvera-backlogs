@@ -1,0 +1,2 @@
+Trim leading and trailing whitespace on entries
+Some metadata fields suffer from Copy/Paste whitespace added in front of or at the end of entries.  This can result in some metadata values appearing duplicated in facetting.

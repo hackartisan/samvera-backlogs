@@ -1,0 +1,2 @@
+Refactor CallbacksController#shibboleth
+Descriptive summary There are some small code tweaks needed in our Shibboleth implementation and the specs need to be beefed up a little it.   and  will refactor this together.

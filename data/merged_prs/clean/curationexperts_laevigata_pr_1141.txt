@@ -1,0 +1,2 @@
+Use defaults that don't require editing
+To simplify developer setup, let's just use relative paths to the temp directory.  In production, we don't generally put these files under RAILS_ROOT anyway and would be changing this to something more like /opt/uploads

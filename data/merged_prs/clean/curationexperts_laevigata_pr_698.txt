@@ -1,0 +1,2 @@
+Update legacy search message and add it to top of search results screen.
+Per request from 

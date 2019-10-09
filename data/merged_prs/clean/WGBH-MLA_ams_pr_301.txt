@@ -1,0 +1,2 @@
+Fixes undefined method gsub
+my fix for instantiation duration broke cases where duration is not there.

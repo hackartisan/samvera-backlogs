@@ -1,0 +1,2 @@
+Configuration to use external IIIF server
+Switching to use an external IIIF server is now handled via an environment variable. Set IIIF_SERVER_URL= in .env.production to use an external cantaloupe IIIF server Connected to #66

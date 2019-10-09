@@ -1,0 +1,2 @@
+Usernames in Referer header
+For example boockmi is in the referer header for some odd reason. We need to track this down and figure out why this is happening.

@@ -1,0 +1,2 @@
+docker: persist /opt/derivatives and /opt/uploads
+Needed for e.g. thumbnails. connected to UCLALibrary/ursus#239

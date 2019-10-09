@@ -1,0 +1,2 @@
+Update FITS testing to be version-agnostic
+Testing FITS locally should not have to rely on what version you have installed. The characterization test now checks the xml output from FITS with an xpath query.

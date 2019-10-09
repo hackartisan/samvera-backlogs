@@ -1,0 +1,2 @@
+Refactor reingest rake task
+Rename it (we're reingesting, not reindexing) Re-use already existing csv import logic Remove dead MODS importer task Ensure reingest task picks up local environment for library loading  Connected to #156

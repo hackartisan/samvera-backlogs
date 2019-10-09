@@ -1,0 +1,2 @@
+Adjusting rendering options for SimpleForm
+By changing the form builder from use :input imperative, I'm instead wrapping the input call with the aria-labelledby and aria-describedby. This is not a bullet-proof solution but delivers on what was requested. The included test is for a reference implementation and may not be reflective of the full test that we are after. References DLTP-324

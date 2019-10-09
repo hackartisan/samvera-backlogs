@@ -1,0 +1,2 @@
+Feature/fix style for dragging fields
+Fixes #1642

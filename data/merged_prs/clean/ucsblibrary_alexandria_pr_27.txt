@@ -1,0 +1,2 @@
+Importer::ETD: fix when run with `-m`
+When we provided metadata explicitly instead of by letting the SRU download it during the ingest, the importer failed to sort out the metadata that corresponds to the data passed with -d; instead it would just try to ingest all the metadata it was given.

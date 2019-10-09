@@ -1,0 +1,2 @@
+Items out of workflow
+Descriptive summary Many items in the IIFET 2018 and Honors College collections are out of the workflow. They should be in a workflow. Expected behavior This one was uploaded manually and is fine:  Actual behavior Out of workflow:  Spreadsheet listing all 1100+ items: 

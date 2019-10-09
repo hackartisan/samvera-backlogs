@@ -1,0 +1,2 @@
+Issue 73 make fields clickable
+resolves #73

@@ -1,0 +1,2 @@
+<i> tag creates hyperlinked text instead of italics in description field
+When utilizing italics tag in description field, text turns into highlighted blue/hover over underlined text, similar to how a hyperlink looks. Sample record below: 

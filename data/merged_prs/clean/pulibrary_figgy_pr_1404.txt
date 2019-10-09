@@ -1,0 +1,2 @@
+Uses the `FileAppender` to ingest PBCore XML and JPEG files within `IngestArchivalMediaBagJob`
+Resolves #1380

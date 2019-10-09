@@ -1,0 +1,2 @@
+ansible export extra needed environ vars
+extra environment variable are needed to be exported in ansible, jay has a list needed to be added to playbook and pushed

@@ -1,0 +1,2 @@
+Extends `ResourceDecorator::MetadataObject` in order to build IIIF Manifests using linked data terms
+Resolves #791

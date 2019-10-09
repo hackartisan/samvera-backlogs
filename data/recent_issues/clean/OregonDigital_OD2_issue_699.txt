@@ -1,0 +1,2 @@
+box_number is not inheriting from generic model on hyrax-migrator crosswalk
+Descriptive summary For some reason, box_number is not inheriting from generic model during hyrax-migrator crosswalk. I'm adding it to document for now. It probably isn't getting defined in  Expected behavior box_number should inherit from generic model Related work NA Accessibility Concerns NA

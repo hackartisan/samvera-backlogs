@@ -1,0 +1,2 @@
+Added link to JSON-LD rights file [ci skip]
+Closes #636

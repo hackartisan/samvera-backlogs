@@ -1,0 +1,2 @@
+supplemental data display bug fixes
+This commit ensures the supplemental files metadata is preserved and displayed when students add and remove files. Connected to #1634

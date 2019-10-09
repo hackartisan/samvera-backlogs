@@ -1,0 +1,2 @@
+Load controlled vocabs for Templates.
+Closes #279.

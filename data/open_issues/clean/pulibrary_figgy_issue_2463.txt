@@ -1,0 +1,3 @@
+Save and Ingest Another
+After ingesting an item, it would be nice to be able to ingest another item like it (same visibility/collections/etc.)
+Requested again during July 22 2019

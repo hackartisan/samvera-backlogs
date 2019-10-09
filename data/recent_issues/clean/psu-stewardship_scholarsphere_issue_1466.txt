@@ -1,0 +1,2 @@
+Refactor spec/features/batch_edit_spec test
+We have two tests "it edits a field and displays changes" and "displays the field's existing value" that could be refactored into one test.

@@ -1,0 +1,2 @@
+displaying etd school and department
+This commit ensures that a student's school and department choices are displayed when they edit their Etd. It also adds a line of code that was omitted in a recent rebase and should re-enable the spinner showing a student their submission was successfully sent and is underway.

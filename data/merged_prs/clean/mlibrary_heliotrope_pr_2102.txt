@@ -1,0 +1,1 @@
+HELIO-2317 Clear expired cache items

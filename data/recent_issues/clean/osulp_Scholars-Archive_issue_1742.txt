@@ -1,0 +1,2 @@
+sorting and views for search results are busted in collection views
+Descriptive summary when viewing a collection, the following issues emerge:   sorting by title or dates is not sorting anything (always returns the same result) Sorting by date uploaded works  mosaic and tile view do not properly label the collection (the collection ID is listed, not the title)  video/slideshow view should be suppressed  Expected behavior   sorting should sort as expected  views should have Title for the collection label if no other information shows (as in mosaic and tile views)

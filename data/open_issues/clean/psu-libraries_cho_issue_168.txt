@@ -1,0 +1,3 @@
+Generate Thumbnails
+As a repository manager, I would like CHO to automatically generate a thumbnail image, So that I don't have to manually upload one.
+This is for all types except for audio.  Generate it in some way and they can create a custom thumbnail later.  Assuming use of Hydra derivatives

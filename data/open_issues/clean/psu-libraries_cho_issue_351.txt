@@ -1,0 +1,2 @@
+Collection-level Administrative Files
+As a digital collections librarian, I would like to attach some administrative files to the collection object, So that I can better manage the collection. Administrative files may include legal agreements like an MOU, a PDF from a project management tool, or another file necessary to steward the digital collection. Related: #161

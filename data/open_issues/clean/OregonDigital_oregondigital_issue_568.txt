@@ -1,0 +1,2 @@
+Improve Bulk Ingest
+Bulk ingest needs to be reliable and handle failure states in a fixable and re-startable way.

@@ -1,0 +1,2 @@
+Added other deploy environments
+Description Add ability to deploy to stage and master Connected to APPINT-2757

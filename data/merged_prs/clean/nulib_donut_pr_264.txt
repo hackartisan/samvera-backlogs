@@ -1,0 +1,2 @@
+validates rights_statement and license
+Fixes: nulib/next-generation-repository#481   validates that rights_statement is present and in this list of active id's here:    validates that license is in the list of active id's here: 

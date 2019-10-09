@@ -1,0 +1,2 @@
+Add partnering agencies and refactor keywords
+This commit adds partnering agencies and keywords using the pattern that was put in place for committee chairs. This is to ensure that there aren't problems causing with indexing. There will need to be additional styling done on these before release. Related to #1432

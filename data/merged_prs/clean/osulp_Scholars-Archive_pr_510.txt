@@ -1,0 +1,2 @@
+[WIP] adds field for uploaded date
+reorders the fields (alphabetical) and then adds the date_uploaded per our Hyrax Work Types document

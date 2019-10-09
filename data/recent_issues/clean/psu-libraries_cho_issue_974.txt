@@ -1,0 +1,2 @@
+Implementing authenticated visibility
+When the user selects "PSU Access" as a visibility, then the resource should be restricted to only users who are authenticated to Penn State. TODO: If we follow the Hyrax paradigm, there would be a "authenticated" group that would be used to control this on the resource.

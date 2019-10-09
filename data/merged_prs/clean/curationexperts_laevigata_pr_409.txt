@@ -1,0 +1,2 @@
+Upgrade to hyrax 1.0.2
+Fixes #383 Fixes #274

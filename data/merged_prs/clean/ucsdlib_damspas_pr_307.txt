@@ -1,0 +1,2 @@
+Fixes #306 - updated the Disqus link to use https.
+Fixes #306 updated the Disqus link to use https. /developers - please review

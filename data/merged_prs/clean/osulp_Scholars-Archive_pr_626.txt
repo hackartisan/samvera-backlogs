@@ -1,0 +1,1 @@
+fixes production assets precompile not working with ES6 syntax

@@ -1,0 +1,5 @@
+EDTF work on collections not harvested by MWDL
+Dates from collections not selected for inclusion in MWDL/DPLA have not been remediated to conform to the EDTF standard. Included collections:   Art and Architecture Images (UO)  JSMA (UO)
+aa-images spreadsheet for date cleanup is DigitalProjects/Metadata/OD2_Remediation/aai_dates_cleanup/aai_dates_deduped.xlsx
+Last two groups of corrections for aai are in DigitalProjects/Metadata/OD2_Remediation/aai_dates_cleanup/aa-images-last.xlsx
+ Additional work in scrapes from other collections (all spreadsheets in DigitalProjects/Metadata/OD2_Remediation/dateScrapes/) - [x] arch-entourage (arch-entourage-dates.xlsx) - [x] schnitzer-mofa (schnitzer-mofa.xlsx) - [x] corazon-de-dixie (done by hand) - [x] texts-data (done by hand) - [x] uo-president (don by hand) - [x] easia (No corrections) - [x] maic (maic-dates.xlsx; looks like some got corrected but not all) - [x] wwdl

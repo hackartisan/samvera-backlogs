@@ -1,0 +1,2 @@
+A couple adjustments to audio functionality
+Adding audio/x-flac to recognized mime-types Using proper Rails path instead of hard-coded URL

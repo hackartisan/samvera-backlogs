@@ -1,0 +1,1 @@
+ Fixing collection facets missing from advanced search form. (DHH-751)

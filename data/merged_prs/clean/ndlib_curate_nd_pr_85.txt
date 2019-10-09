@@ -1,0 +1,2 @@
+Adding datasets/attributes view
+Closes #84

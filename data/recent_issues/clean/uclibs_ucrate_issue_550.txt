@@ -1,0 +1,2 @@
+Department facet should only show after College facet is selected
+Descriptive summary Note: this bug is on production Scholar too and is therefore not a blocker for Scholar 4.0. Expected behavior The Department facet should only show after the user has selected something from the College facet. Actual behavior The Department facet shows after the user has selected something from any facet.

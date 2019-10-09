@@ -1,0 +1,2 @@
+Implements Rake and Capistrano tasks for reindexing geospatial resources
+Resolves #2596

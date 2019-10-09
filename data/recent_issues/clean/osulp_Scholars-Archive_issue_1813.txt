@@ -1,0 +1,2 @@
+Production server monitoring and stability
+Descriptive summary Until we can move SA to a kubernetes infrastructure, we need some improvements to the production system for stability.   Monitor when soffice processes run "too long" and leave zombie processes behind, these should be killed off  Add log rotation to the tomcat logs to keep from chewing through disk space unnecessarily  Reduce log level in tomcat to INFO

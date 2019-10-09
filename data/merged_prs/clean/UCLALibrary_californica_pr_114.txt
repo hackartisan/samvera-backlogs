@@ -1,0 +1,2 @@
+Add `Work#genre` attribute implementation
+Implement a Genre term using the Europeana Data Model (EDM). Using the RDF::Vocab::EDM module (from the rdf-vocab gem) makes the URI-ref easier to maintain. Closes #64. Replaces #112

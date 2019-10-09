@@ -1,0 +1,2 @@
+Move sub-partials called by show_page_image to helper methods instead
+This actually seemed to have a pretty huge impact on performance for many-membered works. a curious if you can confirm/replicate this finding. I think it ends up not actually THAT much less legible by the end. With these additional perf PR's to riiif branch, I think there's a chance riiif branch may actually become FASTER than master branch at present!

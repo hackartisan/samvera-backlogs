@@ -1,0 +1,2 @@
+Log number of new objects created
+Darlingtonia, by default,   logs the number of new objects created successfully  logs the number of objects that failed during creation  Child of #72

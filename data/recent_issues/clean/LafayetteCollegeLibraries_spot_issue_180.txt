@@ -1,0 +1,2 @@
+split identifier into standard and local
+this was totally an oversight on my part. we need to expand Publication to have local_identifier and standard_identifier properties (in place of identifier) :standard_identifier  isbn issn handles  :local_identifier  legacy islandora ids internal local helpers (see lafayette_magazine) a copy of the object id (with noid: prefix)  both should point to dct:identifier as a predicate.

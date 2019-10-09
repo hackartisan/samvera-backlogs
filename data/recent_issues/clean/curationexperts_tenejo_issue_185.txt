@@ -1,0 +1,2 @@
+CSV import logging - record creation
+ACCEPTANCE   When an item is created, the logger logs a line that has batch id and record id in a single log line that can easily be machine parsed.  i.e. INFO -- : event_type: record_created, batch_id: 44, record_id: js956f837

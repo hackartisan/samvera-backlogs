@@ -1,0 +1,4 @@
+import of non-descriptive metadata
+As a metadata specialist, I need to be able to import non-descriptive metadata (administrative, technical, preservation) along with associated files, so I can capture and use metadata that's automatically generated during digitization.
+Needs further use case description as to format of metadata field. Premis? XML/RDF and file format? Import method?  Keep file or disperse as metadata? 
+We need the ability to import any metadata as CSV, JSON, XML/RDF that gets parsed out into object fields.

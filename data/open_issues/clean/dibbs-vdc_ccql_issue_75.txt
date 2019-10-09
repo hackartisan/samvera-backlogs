@@ -1,0 +1,2 @@
+Password reset URL is incorrect
+In the email sent after requesting a password reset, the domain of the reset link is localhost: 

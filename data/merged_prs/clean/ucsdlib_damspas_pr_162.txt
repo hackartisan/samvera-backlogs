@@ -1,0 +1,1 @@
+Added access control text to search results and object/collection views (DHH-753)

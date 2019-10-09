@@ -1,0 +1,2 @@
+Added button to home header for browsing ingested 'things'
+Fixes #49 Adds the button in for non admins to browse currently added 'things'. If we need to change any of the vocabulary used on the buttons, that is a quick and easy change.

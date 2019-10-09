@@ -1,0 +1,2 @@
+Collection manifests
+Closes #117

@@ -1,0 +1,3 @@
+Update to Rails 5
+Rails 4 is still supported, but at some point we'll want to upgrade.
+ I'm going to put this as an after PCDM.  We really need to get this code base into production. 

@@ -1,0 +1,2 @@
+Validate form input asynchronously
+Description Augments the ES6 fields controller to add validation functionality with a remote validate endpoint that returns the same custom error messages, only as a json response so we can update the UI immediately when there is any invalid input. Changes  ValidationsController for remote validating of input Validator js controller querying the rails controller changes to Fields js controller and UI elements for selecting the content and reporting outcomes introduces a dependency on jQuery

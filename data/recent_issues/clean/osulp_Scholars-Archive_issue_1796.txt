@@ -1,0 +1,2 @@
+Migrated creators 10+ out of order
+Descriptive summary After ordered fields were established, it turned out that order was not maintained for non-migrated items of 10+ terms, such as Creator. (#1773) It is a problem for migrated items as well. 9 is fine   As before, 10 creators is the magic number -- out of order   13 creators -- out of order   ALSO: Order was not maintained for Contributor, but there was only one item with 10+ entries so I fixed it manually. Related work #1773

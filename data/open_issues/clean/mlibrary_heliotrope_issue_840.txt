@@ -1,0 +1,2 @@
+Delete empty publishers
+As a Platform Admin, I can only delete a publisher if there is no content associated with it.

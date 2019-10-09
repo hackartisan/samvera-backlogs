@@ -1,0 +1,1 @@
+updates Hyrax gem to use 1-0-stable branch

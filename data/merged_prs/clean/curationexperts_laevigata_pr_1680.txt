@@ -1,0 +1,2 @@
+Fix for for edit form submission on Safari
+Safari has a known bug in version 11 that needs to be coded around for our form submissions. This commit adds a function that will remove blank file form submissions that cause the request to not be made in Safari 11. This will only be run when the user is using Safari 11. Adds a FormData polyfill for better Safari compatibilty. Connected to #1674

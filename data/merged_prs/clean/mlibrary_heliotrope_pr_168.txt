@@ -1,0 +1,2 @@
+Persist minter-state for development environments
+Moves minter-state from system /tmp which gets erased every boot to project tmp subdirectory so minter-state will persist in development. Also provides safer defaults for production settings for folks who deploy directly from the repo without using capistrano.

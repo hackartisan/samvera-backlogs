@@ -1,0 +1,2 @@
+WIP enhanced dev:data task taht can create child works
+eg NUM_PUBLIC_WORKS=1 NUM_PRIVATE_WORKS=0 NUM_CHILD_WORKS=196 NUM_FILESETS=498 TITLE_BASE=Ramelli-Like bundle exec rake dev:data[]

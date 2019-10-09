@@ -1,0 +1,2 @@
+Allow creating a playlist from some or all of a MediaReserve's tracks
+When viewing a list of tracks in a MediaReserve, I should be able to select one or more tracks, and then create a new playlist from them. Child of #2066

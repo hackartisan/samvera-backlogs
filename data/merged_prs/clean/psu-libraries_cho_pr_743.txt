@@ -1,0 +1,2 @@
+Gem updates to address security vulnerabilities
+Description Covers:  CVE-2018-16471 (rack) CVE-2018-16470 (rack) CVE-2018-16468 (loofah) also minor patch release and updates to other gems

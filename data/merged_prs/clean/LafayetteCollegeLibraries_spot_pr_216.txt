@@ -1,0 +1,2 @@
+publication model updates
+changes :place to :location adds :note property   add property to model + spec  add to form (+ batch form)  update mappers where appropriate  add to admin-only view (per MAP)  specs!     closes #213 closes #215

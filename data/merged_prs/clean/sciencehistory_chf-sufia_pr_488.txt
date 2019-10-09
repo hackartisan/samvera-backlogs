@@ -1,0 +1,2 @@
+Move generic_work translations to new generic_work locale file, fix #458
+fixes #458 The new file is broken out in support of per-work-type translations (e.g. if we want custom work types with custom metadata profiles for archives vs. oral histories). It was generated in the sufia 7.3 upgrade and I failed to fully attend to it. Not sure what to make of the old one now; it just has one translation in it but I guess that's fine?

@@ -1,0 +1,2 @@
+Reduce memory usage when running with Docker
+I normally run the application on a Linux host which doesn't require a VM. I tried running californica on a Windows host (which uses a VM) and needed to increase the default ram used by the VM from 2GB to 8GB to get the test suite to run. These changes will reduce the amount of memory used by Fedora and MySQL so that users on non-Linux systems will use less ram.

@@ -1,0 +1,2 @@
+Upgraded to hyrax 2.4.1
+resolves #77

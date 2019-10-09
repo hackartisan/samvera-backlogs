@@ -1,0 +1,2 @@
+Allow GraphQL to query for OCR Content.
+Will allow DPUL to pull all the OCR at once.

@@ -1,0 +1,2 @@
+security vulnerability, rack gem
+We found potential security vulnerabilities in your dependencies. 2 rack vulnerabilities found in Gemfile.lock

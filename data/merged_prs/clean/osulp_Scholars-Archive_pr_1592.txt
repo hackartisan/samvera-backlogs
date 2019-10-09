@@ -1,0 +1,2 @@
+Feature/error handlers in rake task for creators
+fixed undefined var time in nested_field.js.coffee added err handlers in rake task for creators

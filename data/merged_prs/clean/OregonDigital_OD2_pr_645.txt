@@ -1,0 +1,2 @@
+Add UO OSU and PD search scopes
+Fixes #595 Public domain is not hooked up for union searching and only returns CC0 works. This will require blacklight_advanced_search gem, which I believe we will be tackling later. Institution searches are filtered on the :institution metadata field, and respond to "University Of Oregon" and "Oregon State University" labels. unauthed

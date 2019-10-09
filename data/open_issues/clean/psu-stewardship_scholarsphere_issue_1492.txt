@@ -1,0 +1,3 @@
+Using node instead of therubyracer or mini_racer
+
+Using a gem such at therubyracer, or its newer cousin, mini_racer, provides some JS functions that the app would need. However, using NodeJS would also provide these features. One might provide more performance/maintainability versus the other. If chose to use node over the gem, we'd need to have that installed on our local and server systems.

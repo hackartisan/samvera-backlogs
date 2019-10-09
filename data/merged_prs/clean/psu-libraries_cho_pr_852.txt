@@ -1,0 +1,2 @@
+Adds the ability to update file sets through the UI
+Description Updates the tests and partials for the ability to update and edit file sets using the UI Connected to #633 Co-authored-by: Adam Wead 

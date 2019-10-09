@@ -1,0 +1,2 @@
+Passing collection membership using member_of_collection_ids
+Works around problem passing objects instead of strings  Fixes #769

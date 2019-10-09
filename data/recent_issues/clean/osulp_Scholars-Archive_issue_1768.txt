@@ -1,0 +1,2 @@
+Empty fields & no editing
+Encountered child items with empty contributor fields -- that should not be empty. Clicking the edit button goes to the ack broken message.  I looked the problem item ids up in Solr and they have nested_ordered_contributor fields but no contributor. Problem items (there are others):     Related: #1763

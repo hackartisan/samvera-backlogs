@@ -1,0 +1,2 @@
+UniversalViewer support for audiovisual media
+Currently, there is support for streaming video and audio using the UniversalViewer 2.0.2:   These might provide an embedded audio viewer for the audio reserves managed for the Mendel Music Library: #1986

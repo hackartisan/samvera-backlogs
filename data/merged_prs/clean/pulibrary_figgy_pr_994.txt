@@ -1,0 +1,2 @@
+Stub rabbit on CleanupDerivativesJob and CreateDerivativesJob
+Quiets bunny warnings when running tests. Closes #992

@@ -1,0 +1,2 @@
+ Allow users to choose vector and raster resource thumbnails
+Closes #1282 Closes #1327

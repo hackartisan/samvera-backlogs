@@ -1,0 +1,2 @@
+If the user enters an impossible date range, swap the dates.
+Fixes #1125 . We're already subclassing catalog#index , so I'm just swapping the parameters before we call super.

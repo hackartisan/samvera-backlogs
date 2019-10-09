@@ -1,0 +1,2 @@
+Add Controller tests
+Descriptive summary Validate that the OD2 controllers include behaviors, set curation_concern_type and proper presenter

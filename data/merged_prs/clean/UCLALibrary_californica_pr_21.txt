@@ -1,0 +1,2 @@
+Make travis-ci auto-deploy work for forked repos
+I've moved the key decryption inside the if block to test whether we're on master. This should stop things breaking if we get a PR from a forked repo.

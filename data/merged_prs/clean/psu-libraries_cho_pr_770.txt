@@ -1,0 +1,2 @@
+Fileset Show Page - Part 1
+Description Gets work title using inverse references and a query service via the Solr document because it is "easier" this way than trying to create a two directional relationship between the fileset and the work. Checks to see if there is a thumbnail since we are using the same show partial for filesets and works and displays one or two columns. Connected to #633

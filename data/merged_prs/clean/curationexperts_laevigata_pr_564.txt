@@ -1,0 +1,2 @@
+ensure tinyMCE sets content of toc and abstract on submission
+Fixes #545

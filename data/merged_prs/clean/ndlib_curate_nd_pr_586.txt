@@ -1,0 +1,2 @@
+Fixing OSF Archive spec for more explicit date
+Addresses 

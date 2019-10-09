@@ -1,0 +1,2 @@
+add error checks for type_of_material field within featured works box
+resolves #176

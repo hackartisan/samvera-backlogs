@@ -1,0 +1,2 @@
+Add auto_link_values helper method
+This auto_link_values helper method can be used to create links from dc.relation (or other) field values.

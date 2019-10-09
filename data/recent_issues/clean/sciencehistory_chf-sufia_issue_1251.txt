@@ -1,0 +1,2 @@
+Edit access for promoting child works
+I granted Ashley edit access to this record but she cannot promote anything to child works.  Does this mean I have to grant edit access to each individual file or did something go awry? 

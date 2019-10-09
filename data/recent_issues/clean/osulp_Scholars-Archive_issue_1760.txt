@@ -1,0 +1,2 @@
+Disable in-place migration before_action
+Descriptive summary The data migration for ordered metadata is complete, the before_action can be disabled to reduce load times.  Expected behavior The application doesn't need to check if a work has already been migrated.

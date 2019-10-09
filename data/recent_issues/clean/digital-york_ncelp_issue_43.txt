@@ -1,0 +1,2 @@
+Remove the affiliation field
+Can we remove the affiliation field, please? It doesn't really make much sense if it's separated from the Creator field.

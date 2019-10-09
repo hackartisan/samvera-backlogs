@@ -1,0 +1,2 @@
+update solr doc to exclude empty strings
+fixes #1709 It looks like this is happening for fields that contain only one empty string in the value like the case with conference_name = [""] For some reason, when the renderer checks for blank values, it doesn't hide it because [""].blank? evaluates to false instead of true. The renderer expects this to evaluate to true to hide the field:  This update cleans empty strings so we get [] instead of [""] for the presenter/attribute renderers.

@@ -1,0 +1,2 @@
+Update qa deploy config
+refs #279 Update qa config to deploy the app to multiple server /developers - please review

@@ -1,0 +1,2 @@
+Add 'text' as Type of Resource / Format to all Mexican Broadsides Batch 1 objects
+Descriptive summary The Type of Resource / Format value of "text" needs to be added to all Batch 1 objects in Mexican Broadsides:  I'm attaching an edited version of the ARK report for Batch 1, let me know if that works, or if you need just the bare ARK report. arkReport-mexican-broadsides-b1.xlsx

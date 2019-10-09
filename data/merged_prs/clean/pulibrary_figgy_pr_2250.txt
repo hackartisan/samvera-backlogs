@@ -1,0 +1,2 @@
+allows lux design tokens to be used as variables in figgy asset pipeline
+Simple tweak that allows any LUX Design Tokens(color, font size, spacing, etc) to be used as variables in the Rails asset pipeline.

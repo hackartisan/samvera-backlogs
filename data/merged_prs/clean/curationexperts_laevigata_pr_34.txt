@@ -1,0 +1,2 @@
+Add department, school, and degree to model and ETD creation form
+Addresses #16 -dce This is ready to merge I've been going through Adam's walk through at RepoCamp/ahc2017@4362435 It is super helpful. I found writing a capybara test for submitting an ETD to be a very useful exercise and unless you object I'd like to include that as part of what we cover for hydra camp. Seems like testing that the ETD submission form works as expected is a good thing to do first, before we start making changes to it. Also, it gives us a pattern to follow for submitting various kinds of ETDs.

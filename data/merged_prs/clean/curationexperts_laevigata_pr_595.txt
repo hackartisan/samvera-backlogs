@@ -1,0 +1,2 @@
+Added custom home page based on wireframes
+Closes #585

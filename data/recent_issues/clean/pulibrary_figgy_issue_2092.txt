@@ -1,0 +1,1 @@
+Playlists should show in search results, have a show page

@@ -1,0 +1,2 @@
+don't show asset download button if there asset can't be downloaded
+Resolves #305

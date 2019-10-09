@@ -1,0 +1,2 @@
+Sanitizing query parameters for index
+Closes DLPT-1039

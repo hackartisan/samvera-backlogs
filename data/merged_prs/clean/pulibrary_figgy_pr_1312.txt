@@ -1,0 +1,2 @@
+Use X-Accel-Redirect for NGINX download
+Greatly improves the efficiency of downloading of full-res images by delegating down to nginx. The request comes in, authorizes in Figgy, and then passes to an internal path in nginx for handling the request. This enables file resumption on server restart, HTTP Range requests, and download estimates when downloading in a browser.

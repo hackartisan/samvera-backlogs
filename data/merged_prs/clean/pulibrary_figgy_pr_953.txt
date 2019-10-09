@@ -1,0 +1,1 @@
+Add pul logo to manifest, fixes # 942

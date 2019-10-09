@@ -1,0 +1,2 @@
+Resolves HELIO-1886 Refactor Handle Service
+Also deletes all 'hdl' metadata references except: # TODO: Remove property after deleting property from Fedora. property :hdl, predicate: ::RDF::Vocab::Identifiers.hdl, multiple: false  See also HELIO-1896 Purge metadata from fulcrum.org Fedora instance.

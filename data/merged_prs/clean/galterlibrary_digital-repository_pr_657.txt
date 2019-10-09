@@ -1,0 +1,2 @@
+Disable Original Publisher field
+transfer the values to (Digital) Publisher field. closes #655

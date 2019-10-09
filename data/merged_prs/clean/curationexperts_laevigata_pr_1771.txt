@@ -1,0 +1,2 @@
+Prioritize Box downloads by putting them on the ingest queue
+Our strategy for downloading files from Box has changed in the new form. We no longer need to create a FileSet prior to running the download job. This saves time and prevents issues with InProgressEtd objects. To avoid leaving these jobs on the queue while the Box auth token times out, this puts them in the prioritized :ingest queue. Closes #1769

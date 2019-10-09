@@ -1,0 +1,2 @@
+Icon large rights statement under download button
+It currently just uses Hevetica for now. Our whole site just uses Helvetica. It ain't super pretty, but I think it makes more sense to wait till we make this whole page pretty after soft launch, then micro-design this particular element on a page that is otherwise still pretty messy and without really style determined. Closes #332

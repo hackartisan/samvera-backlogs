@@ -1,0 +1,2 @@
+Adds depositor name to notifications message body
+This commit adds display_name of the ETD depositor to messages in notifications so that all notifications are searchable via depositor name. Resolves emory-libraries/etd-issues#17 for now.

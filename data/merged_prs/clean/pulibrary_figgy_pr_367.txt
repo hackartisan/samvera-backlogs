@@ -1,0 +1,1 @@
+Allow multivalue descriptions on forms, resolves #338

@@ -1,0 +1,2 @@
+Remove turbolinks
+ Fixes #359

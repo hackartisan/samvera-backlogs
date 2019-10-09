@@ -1,0 +1,2 @@
+Confirm more complex av bag ingests correctly
+fixes #1387

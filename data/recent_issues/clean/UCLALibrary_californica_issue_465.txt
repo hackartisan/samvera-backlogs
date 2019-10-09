@@ -1,0 +1,2 @@
+Load Bennett Collection
+As a library staff member, I'd like to see more collections added to the new digital library system. Please load the new collection (Bennett). As a project member, I would also like to refine and test the documentation available here:    (Developed under #361) There are many steps to this process and different people needed for each one.  See the child tickets for details.

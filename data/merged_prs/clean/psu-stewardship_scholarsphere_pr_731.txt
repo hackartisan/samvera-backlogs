@@ -1,0 +1,2 @@
+Display recent items according to date uploaded, ref #670
+This avoids display of migrated items, which would be sorted according to the system's creation date. Instead we use date uploaded, which is assigned by Sufia at the time the original work or file was created.

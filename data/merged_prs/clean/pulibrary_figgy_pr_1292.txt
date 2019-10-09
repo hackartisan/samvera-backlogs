@@ -1,0 +1,1 @@
+Add component id uniqueness validator to prevent creation of another amc, fixes #1229

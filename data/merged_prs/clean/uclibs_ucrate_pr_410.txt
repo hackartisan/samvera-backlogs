@@ -1,0 +1,2 @@
+Check for presence and whitelist payload_concern param on batch upload
+Fixes #406 Checks for presence and validity of payload_concern params on batch upload :new action. If the param is absent or not valid, show a Not Found routing error. I attempted to override the new action in the controller but had difficulty because this is very form oriented and any new action override would result in error. Changes proposed in this pull request:  Add form builder function override to batch_uploads_controller.rb Add test to batch_uploads_controller_spec.rb

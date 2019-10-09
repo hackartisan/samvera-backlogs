@@ -1,0 +1,2 @@
+Speed up MemberValidator with a better query.
+Closes #1831

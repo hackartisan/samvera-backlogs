@@ -1,0 +1,2 @@
+contact form title
+Originally reported by: Edward Henry (Bitbucket: ethenry, GitHub: ethenry)  the webpage title of hte contact form is wrong   Bitbucket: 

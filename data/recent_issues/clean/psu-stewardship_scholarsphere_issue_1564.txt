@@ -1,0 +1,2 @@
+File Counts in Admin Stats seems off
+When I check the top file formats I'm getting a number that don't think is accurate. There appears to be more PDF files listed (over 17K), then the file count when I query Solr. If I query Solr by year for files I get  2012 321 2013 1170 2014 1954 2015 1321 2016 1677 2017 1808 2018 1413 2019 106 This total is 9970. I get those results using the query below (with a date that has been updated based on year I'm querying):   I think the count on file types is off, but not sure how/why. Screenshot below.

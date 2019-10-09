@@ -1,0 +1,2 @@
+gem updates
+Updated with: bundle update mini_magick --conservative bundle update nokogiri --conservative

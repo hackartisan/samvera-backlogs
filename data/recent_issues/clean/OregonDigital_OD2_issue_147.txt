@@ -1,0 +1,2 @@
+move GenericMetadata const out of included block
+Descriptive summary Having this included in multiple models causes unnecessary warnings on application startup. Move it outside of the included block.  Code that uses this should be referring to it directly as OregonDigital::GenericMetadata::PROPERTIES

@@ -1,0 +1,2 @@
+Record metadata for ARCH file 1
+When I have sequence number 1 and file ARCH, read the rest of the metadata from the row and update the work's metadata. Otherwise, do not update the metadata. Connected to curationexperts/in-house#262

@@ -1,0 +1,2 @@
+Remove My Highlights tab from My Listing
+My Highlights is not being used, we should remove it.

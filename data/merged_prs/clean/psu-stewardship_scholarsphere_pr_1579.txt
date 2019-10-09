@@ -1,0 +1,2 @@
+Downgrade to Ruby 2.4.6
+Ruby 2.6 was creating problems with cloud upload that wasn't apparent until regression testing. Ruby 2.5 had a different issue with CSV encoding: ruby/csv#23 We're trying out 2.4 to see if it's any better, but it may still have this issue. Ruby 2.4 EOL date: 2020-03-31 Connected to #1324

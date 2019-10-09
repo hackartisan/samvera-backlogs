@@ -1,0 +1,2 @@
+add config for test suite
+Closes AMS2-72

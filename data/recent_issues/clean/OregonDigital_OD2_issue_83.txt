@@ -1,0 +1,2 @@
+PMOP proposal / documentation: storage options for original files
+PMOP needs a general recommendation for how we store our large content files: things like an image's raw TIFF, an uncompressed AVI file, etc.

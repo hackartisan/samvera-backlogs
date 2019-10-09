@@ -1,0 +1,2 @@
+enabling display of language in edit of etd
+This commit makes sure the front end handle the data for language from an etd record, and contains a todo noting that we should do this in the model.

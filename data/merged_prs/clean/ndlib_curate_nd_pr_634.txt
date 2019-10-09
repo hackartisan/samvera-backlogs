@@ -1,0 +1,2 @@
+Add fedora log scanner script
+The goal is to capture how fedora is being used by all the DLT applications, especially legacy applications. This script is intended to be deployed by hand. Putting it here since this appears to be the general place for supporting scripts. (Not sure whether it belongs here or not, if there is a better place I'll put it there instead.)

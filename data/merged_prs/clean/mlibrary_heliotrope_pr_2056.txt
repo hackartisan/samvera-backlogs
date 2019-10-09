@@ -1,0 +1,2 @@
+Resolves HELIO-2232: Create product noid mapping table
+and a bit of refactoring.

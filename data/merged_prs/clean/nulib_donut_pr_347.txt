@@ -1,0 +1,2 @@
+index human readable version edtf date for front end to display
+Fixes nulib/next-generation-repository#638  also removed fileset_iiif_urls from index as they are not being used, and probably shouldn't since they don't currently respect visibility

@@ -1,0 +1,4 @@
+Sammelbands should have a "Type of Work" facet which says "Bound With"
+These are any records which have children that are both ScannedResources and FileSets.
+  Is the standard at Princeton "Bound-With" or "Sammelband"?
+Standard Princeton terminology is actually "bound with"

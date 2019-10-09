@@ -1,0 +1,2 @@
+Convert Celestial Maps from ScannedMap to ScannedResource
+Should these be converted into scanned resources?     Note: Ensure these are removed from the maps portal, and show up in the catalog.

@@ -1,0 +1,2 @@
+Improve user-facing messages for null thumbnails in the Order Manager
+Currently, users can set the thumbnails to a null value within the Order Manager by simply deselecting the thumbnail.  It would be a great improvement to indicate to the user that no thumbnail is set for a given resource when this is the state for the resource.

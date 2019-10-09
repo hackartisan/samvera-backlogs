@@ -1,0 +1,2 @@
+Add files defaults to work's access rights
+Change /generic_files/new to correctly preselect the parent work's visibility as the file's default visibility value. Closes 

@@ -1,0 +1,2 @@
+Add "Portion Note" as an editable field to Reserves objects.
+Requested by Dan to say this is "disk 1". Display portion note in the search results.

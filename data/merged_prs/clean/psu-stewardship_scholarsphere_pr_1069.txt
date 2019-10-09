@@ -1,0 +1,2 @@
+Renaming Person to Agent
+Just did a straight rename of almost every place Person was found to agent. The exception is the person permission that comes from hydra.

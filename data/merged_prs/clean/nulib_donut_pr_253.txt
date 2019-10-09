@@ -1,0 +1,1 @@
+Comment out copyFields in solr schema for speed

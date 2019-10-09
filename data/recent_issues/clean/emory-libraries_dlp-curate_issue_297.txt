@@ -1,0 +1,2 @@
+IIIF/Cantaloupe server build and integration
+Build out any IIIF server needed for curate in aws@emory  Integrate into code of curate prod and test

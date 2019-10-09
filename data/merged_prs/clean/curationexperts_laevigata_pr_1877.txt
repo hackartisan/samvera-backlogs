@@ -1,0 +1,2 @@
+Additional fix for school selection
+The check for determining if you were on the edit screen or submission screen was wrong. This changes that code so that the check is correct. Also includes a system spec for creating an ETD with the new UI. Connected to #1869

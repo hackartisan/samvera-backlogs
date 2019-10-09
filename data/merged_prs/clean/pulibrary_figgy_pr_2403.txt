@@ -1,0 +1,2 @@
+Replace holding location with rendered holding location on scanned resource show page
+fixes #1528

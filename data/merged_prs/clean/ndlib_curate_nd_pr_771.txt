@@ -1,0 +1,2 @@
+Fix docker build logger-1.2.8 error
+Fix docker build logger-1.2.8 error 9ae24a0 Performing a docker-compose build rails was producing the following error: The path '/bundle/lib/logger-1.2.8' does not exist. ERROR: Service 'rails' failed to build: The command '/bin/sh -c bundle install  --without headless --path /bundle' returned a non-zero code: 13 This gem is now in the app code, so we need to copy it into the bundle path so bundler can find it. See nahi/logger#3 and #765

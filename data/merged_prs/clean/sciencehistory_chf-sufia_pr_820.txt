@@ -1,0 +1,2 @@
+Improvements to lazyloading images and aspectratios
+See individual commits. Includes removing use of js lazy aspectratios in viewer thumbs, for hard-coded ones instead. I believe lazyloading with aspectratios should be working well here, and no longer will a direct to /viewer link on a many-membered work freeze up the browser for a while. One thing we might want to do that I have NOT done yet is replace the animated spinner with a static wait/progress icon of some kind. I think so many instances of that animated spinner on a page are putting stress on CPU. Ref #792 #793

@@ -1,0 +1,2 @@
+allow roles_management to add user if not exist
+previously, adding a user that does not exist to a role would result in an error that the user does not exist. this way, the workflow for adding a user to a role is:  user log in request access to role through some means (probably email/phone) another user assigns user to role  this PR changes the hydra-role-management controller to create the user record if it does not already exist, so that when the user logs in for the first time they will already have the role(s) needed. closes #201

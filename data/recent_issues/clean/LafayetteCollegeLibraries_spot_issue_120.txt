@@ -1,0 +1,2 @@
+restrict guest users to single account
+came up in the samvera slack (valkyrie channel): we might not want to treat guest users individually but instead have a single one. see:  # app/models/user.rb class User   # ...   def guest_user     @guest_user ||= User.where(guest: true).first || super   end end

@@ -1,0 +1,2 @@
+Fixed #521 - Include the collection link in UCSD IP/metadata-only object
+metadata for public users. Fixes #521 Local Checklist   Tests written and passing locally?  Code style checked?  QA-ed locally?  Rebased with master branch?  Configuration updated (if needed)?  Documentation updated (if needed)?  What does this PR do? Add the missing collection link to UCSD IP/metadata-only objects. Why are we doing this? Any context of related work? References #521 /developers - please review

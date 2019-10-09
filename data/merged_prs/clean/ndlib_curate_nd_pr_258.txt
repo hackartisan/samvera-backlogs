@@ -1,0 +1,2 @@
+Consolidate and lint JavaScript files
+Linting and rearranging JavaScript files in CurateND. This sets the stage for more dramatic refactoring later.

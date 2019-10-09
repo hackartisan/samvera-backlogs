@@ -1,0 +1,2 @@
+Mapping Metadata to Additional Schemas
+As a visual resources librarian, I need to export object metadata as VRA, So that I can share my data with other visual resource librarians/systems. Additional schemas: VRA Core, MODS? Related: #99

@@ -1,0 +1,5 @@
+Ephemera: "Save Draft" functionality
+There should be a way to save a draft which ignores required fields, and you can go back to it. When it saves, it should mark itself as a draft.
+alternate proposal: "required to publish" fields. make all fields not required, add validation to the final workflow step.
+More broadly, we have some divergence on what fields are required for initial record creation, and for publishing/completing.  Looking ahead to some upcoming projects, we may have more divergence on what fields to display.  Do we want to create separate models for some of these variations?
+A situation arose where we wanted to load images first, and then catalog from the images.  The "[required to publish](" proposal would handle this well, by allowing a draft record to be created by the imaging studio while ingesting the images, and then metadata to be added afterwards.

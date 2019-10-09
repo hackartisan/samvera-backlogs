@@ -1,0 +1,3 @@
+Monitoring and observability improvements
+Epic for monitoring and observability enhancements, continued from WC3.
+ whats the state of this?

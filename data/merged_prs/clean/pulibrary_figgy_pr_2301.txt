@@ -1,0 +1,2 @@
+Remove geoportal ingest job
+Closes #2300

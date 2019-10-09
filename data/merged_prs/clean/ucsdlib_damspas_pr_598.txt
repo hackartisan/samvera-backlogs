@@ -1,0 +1,2 @@
+configure email for staging and clear errors on job run
+Clear errors when running a job again, so we start from a clean place.

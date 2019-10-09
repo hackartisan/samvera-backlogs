@@ -1,0 +1,2 @@
+Use Namae for name parsing
+We should use the Namae gem for parsing agents. Related: #734

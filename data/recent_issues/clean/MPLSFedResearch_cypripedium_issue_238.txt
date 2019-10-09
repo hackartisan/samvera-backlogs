@@ -1,0 +1,2 @@
+Add bag ID / Title to notification message
+ISSUE When I export multiple bags, I'd like some way to distinguish between the different notifications (beyond the date & time stamp) ACCEPTANCE When I export one or more bags   Indicate the bag ID in the notification  [BONUS] display the item count in the notification

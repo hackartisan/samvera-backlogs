@@ -1,0 +1,2 @@
+Add works to a collection via rake
+Use the COLLECTION_ID environment variable to specify which collection newly ingested works should be added to. Connected to #395

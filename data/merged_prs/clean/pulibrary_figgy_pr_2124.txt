@@ -1,0 +1,2 @@
+Use playlist label as its title for indexing purposes
+resolves #2092

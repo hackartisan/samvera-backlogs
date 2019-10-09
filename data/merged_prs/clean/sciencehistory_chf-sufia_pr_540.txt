@@ -1,0 +1,1 @@
+sort additional titles on work show page. closes #527

@@ -1,0 +1,2 @@
+Need to be able to highlight works in a collection for the collection landing page
+Descriptive summary Collection landing page should have a  space where collection manager can highlight works in the collection (and unhighlight them) to be featured on the landing page.  can help us determine a sensical number of highlighted works for a collection landing page, but we're tentatively thinking 5-10 works Related Work
