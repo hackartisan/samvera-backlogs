@@ -12,3 +12,5 @@ end
 all_matches.flatten.group_by { |i| i }.map { |k,v| [k, v.count] }.to_h.sort_by { |k,v| v }.each do |mentions|
   puts(" #{mentions[1]}: #{mentions[0]}")
 end
+
+# TODO: clean email addresses, urls?
