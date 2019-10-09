@@ -17,28 +17,26 @@ end
 
 # TODO: clean email addresses, urls?
 
-def write_clean_document
-
-  @open_path = File.join(base_dir, "open_issues", "raw")
-  @recent_path = File.join(base_dir, "recent_issues", "raw")
-  @merged_path = File.join(base_dir, "merged_prs", "raw")
-  [@open_path, @recent_path, @merged_path].each do |path|
-    FileUtils.mkdir_p('data/*/clean')
+def write_clean_documents
+  ["open_issues", "recent_issues", "merged_prs"].each do |path|
+    FileUtils.mkdir_p("data/#{path}/clean")
   end
+
   blacklist = CSV.parse(File.read('usernames.csv'))
 
   Dir.glob("data/**/*.txt") do |fn|
     text = File.read(fn)
 
     blacklist.each do |term|
-      text.gsub(term, "")
+      text = text.gsub(term[0], "")
     end
 
     new_fn = fn.gsub('raw', 'clean')
     File.open(new_fn, 'w') do |f|
       f.write text
     end
+    puts new_fn
   end
-
-
 end
+
+write_clean_documents
