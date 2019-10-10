@@ -46,4 +46,5 @@ Individuals begin to show up as well. Need to clean up anything starting with
 `@`. Cleaning these may also get rid of some code, where instance variables are
 referenced.
 
+We created a cleaner.
 
