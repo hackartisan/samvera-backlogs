@@ -19,6 +19,24 @@ from time import time
 
 import numpy as np
 
+from nltk import download
+from nltk import word_tokenize
+from nltk.stem import WordNetLemmatizer
+download('popular')
+
+import string
+import re
+
+
+class LemmaTokenizer(object):
+    def __init__(self):
+        self.wnl = WordNetLemmatizer()
+
+    def __call__(self, doc):
+        return [self.wnl.lemmatize(t) for t in word_tokenize(doc)]
+
+def strip_punctuation(doc):
+    re.sub(string.punctuation, "", doc).lower()
 
 # Display progress logs on stdout
 logging.basicConfig(level=logging.INFO,
@@ -30,7 +48,7 @@ op.add_option("--lsa",
               dest="n_components", type="int",
               help="Preprocess documents with latent semantic analysis.")
 op.add_option("--no-minibatch",
-              action="store_false", dest="minibatch", default=True,
+              action="store_false", dest="minibatch", default=False,
               help="Use ordinary k-means algorithm (in batch mode).")
 op.add_option("--no-idf",
               action="store_false", dest="use_idf", default=True,
@@ -122,7 +140,9 @@ if opts.use_hashing:
 else:
     vectorizer = TfidfVectorizer(max_df=0.5, max_features=opts.n_features,
                                  min_df=2, stop_words=stopwords,
-                                 use_idf=opts.use_idf)
+                                 use_idf=opts.use_idf,
+                                 tokenizer=LemmaTokenizer(),
+                                 preprocessor=strip_punctuation)
 X = vectorizer.fit_transform(dataset.data)
 
 print("done in %fs" % (time() - t0))
