@@ -21,22 +21,36 @@ import numpy as np
 
 from nltk import download
 from nltk import word_tokenize
+from nltk.stem.porter import PorterStemmer
 from nltk.stem import WordNetLemmatizer
 download('popular')
 
 import string
 import re
 
+def stem_tokens(tokens, stemmer):
+    stemmed = []
+    for item in tokens:
+        stemmed.append(stemmer.lemmatize(item))
+    return stemmed
 
-class LemmaTokenizer(object):
-    def __init__(self):
-        self.wnl = WordNetLemmatizer()
+def tokenize(text):
+    stemmer = WordNetLemmatizer()
+    text = "".join([ch for ch in text if ch not in string.punctuation])
+    tokens = word_tokenize(text)
+    stems = stem_tokens(tokens, stemmer)
+    return stems
 
-    def __call__(self, doc):
-        return [self.wnl.lemmatize(t) for t in word_tokenize(doc)]
-
-def strip_punctuation(doc):
-    re.sub(string.punctuation, "", doc).lower()
+#class LemmaTokenizer(object):
+#    def __init__(self):
+#        self.wnl = WordNetLemmatizer()
+#
+#    def __call__(self, doc):
+#        return [self.wnl.lemmatize(t) for t in word_tokenize(doc)]
+#
+#def strip_punctuation(doc):
+#    import pdb; pdb.set_trace()
+#    re.sub(string.punctuation, "", doc).lower()
 
 # Display progress logs on stdout
 logging.basicConfig(level=logging.INFO,
@@ -95,7 +109,16 @@ base_stopwords = ["a", "about", "above", "after", "again", "against", "ain", "al
 corpus_stopwords = ["princeton", "pudl", "scholar", "uc", "scholar_uc_legacy",
         "uclibs", "figgy", "psu", "scholarsphere", "hydrus", "acceptance",
         "criteria"]
-stopwords = base_stopwords + corpus_stopwords
+stemmed_stopwords = ['abov', 'accept', 'ani', 'arent', 'becaus', 'befor',
+        'couldnt', 'didnt', 'doe', 'doesnt', 'dont', 'dure', 'figgi', 'ha',
+        'hadnt', 'hasnt', 'havent', 'hed', 'hell', 'hi', 'hydru', 'id', 'ill',
+        'im', 'isnt', 'ive', 'mightnt', 'mustnt', 'neednt', 'onc', 'onli',
+        'ourselv', 'scholarspher', 'scholaruclegaci', 'shant', 'shed', 'shell',
+        'shouldnt', 'shouldv', 'thatll', 'themselv', 'theyd', 'theyll', 'theyr',
+        'theyv', 'thi', 'uclib', 'veri', 'wa', 'wasnt', 'wed', 'well', 'werent',
+        'weve', 'whi', 'wont', 'wouldnt', 'youd', 'youll', 'yourselv', 'youv', 'becau', 'scholarsph']
+lemmatized_stopwords = ['criterion', 'hows', 'scholaruclegacy', 'shes', 'shouldve', 'thats', 'theyre', 'theyve', 'whats', 'whens', 'wheres', 'youre', 'youve']
+stopwords = base_stopwords + corpus_stopwords + stemmed_stopwords + lemmatized_stopwords
 
 def is_interactive():
     return not hasattr(sys.modules['__main__'], '__file__')
@@ -141,8 +164,7 @@ else:
     vectorizer = TfidfVectorizer(max_df=0.5, max_features=opts.n_features,
                                  min_df=2, stop_words=stopwords,
                                  use_idf=opts.use_idf,
-                                 tokenizer=LemmaTokenizer(),
-                                 preprocessor=strip_punctuation)
+                                 tokenizer=tokenize)
 X = vectorizer.fit_transform(dataset.data)
 
 print("done in %fs" % (time() - t0))

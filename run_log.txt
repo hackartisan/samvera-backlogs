@@ -62,9 +62,9 @@ Cluster 7: collection collections works work add metadata user like need able
 
 ### Notes
 
-No tokenizer.
+Need to do stemming.
 
-### Run 4
+## Run 4
 
 Top terms per cluster:
 Cluster 0: test : run work testing feature # hyrax collection coverage
@@ -78,4 +78,65 @@ Cluster 7: '' `` : ( ) ? ingest field > n't
 
 ### Notes
 
-Using the NLTK WordNetLemmatizer
+Using the NLTK WordNetLemmatizer. Clearly need to get rid of punctuation
+
+## Run 5
+
+Uses a porter stemmer
+
+Top terms per cluster:
+Cluster 0: search result page advanc text term user collect thi item
+Cluster 1: thi use user need work test add like imag updat
+Cluster 2: ingest note migrat collect ping record metadata thi anywher bulk
+Cluster 3: date facet sort field rang year thi edtf index modifi
+Cluster 4: file upload work thi metadata preserv set version fileset user
+Cluster 5: error backtrac line thi info messag fail work test file
+Cluster 6: collect work metadata thi user add page need creat like
+Cluster 7: page field work thi metadata download link display type item
+
+### Notes:
+
+We put punctuation stripping and stemming into a tokenizer method
+
+It's sort of hard to read some of the stemmed words; especially what is `thi`,
+which appears in many clusters?
+
+Try adding the stemmed stopwords back to the stopwords list
+
+## Run 6
+
+Top terms per cluster:
+Cluster 0: file upload work version set delet user use csv need
+Cluster 1: error page backtrac user line link work messag fail info
+Cluster 2: ingest metadata preserv note record file map migrat event collect
+Cluster 3: field metadata display valu requir use work data form relat
+Cluster 4: search result page advanc user text term collect work item
+Cluster 5: use user imag need add download like resourc updat link
+Cluster 6: collect work page user add metadata need item object creat
+Cluster 7: work test date embargo uri edit need item creat object
+
+## Notes:
+
+We added stemmed stopwords; looks much better.
+
+We'll also try a different lemmatizer:
+ - this run with PorterStemmer
+ - try with WordNetLemmatizer, which doesn't change any word that's not in its
+   dictionary
+
+
+## Run 7
+
+Top terms per cluster:
+Cluster 0: search result page advanced term text user facet like field
+Cluster 1: field metadata work form value type date vocabulary controlled need
+Cluster 2: collection work page user add item need object metadata able
+Cluster 3: test job run fixity rake task server work check testing
+Cluster 4: error backtrace line info message file 500 honeybadgerio page view
+Cluster 5: user page work add need link use item like object
+Cluster 6: image ingest iiif viewer thumbnail ping download anywhere tiff migrate
+Cluster 7: file work upload set preservation version user thumbnail metadata fileset
+
+### Notes:
+
+We are happy!
