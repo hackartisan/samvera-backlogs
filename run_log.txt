@@ -48,3 +48,34 @@ referenced.
 
 We created a cleaner.
 
+### Run 3
+
+Top terms per cluster:
+Cluster 0: use add need data like hyrax see work new user
+Cluster 1: page link user pages download admin publisher view viewer content
+Cluster 2: file files work fileset preservation metadata upload set thumbnail csv
+Cluster 3: ingest mets ingested bulk collection notes metadata migrate ping files
+Cluster 4: search results facet advanced text page terms date collection searching
+Cluster 5: metadata fields field work form related behavior edit use add
+Cluster 6: rb error app project_root backtrace line lib 500 honeybadger gems
+Cluster 7: collection collections works work add metadata user like need able
+
+### Notes
+
+No tokenizer.
+
+### Run 4
+
+Top terms per cluster:
+Cluster 0: test : run work testing feature # hyrax collection coverage
+Cluster 1: : ( # ) ? work user field need use
+Cluster 2: collection work metadata # ( ) user page add field
+Cluster 3: ` : [ ] > ' ( ) `` -
+Cluster 4: file work : upload set # ( bag ) version
+Cluster 5: page search result link user show : ( ) add
+Cluster 6: preservation metadata ) ( event file criterion context workflow object
+Cluster 7: '' `` : ( ) ? ingest field > n't
+
+### Notes
+
+Using the NLTK WordNetLemmatizer
