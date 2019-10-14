@@ -26,13 +26,14 @@ from nltk.stem import WordNetLemmatizer
 download('popular')
 
 import string
-import re
+
 
 def stem_tokens(tokens, stemmer):
     stemmed = []
     for item in tokens:
         stemmed.append(stemmer.lemmatize(item))
     return stemmed
+
 
 def tokenize(text):
     stemmer = WordNetLemmatizer()
@@ -41,16 +42,6 @@ def tokenize(text):
     stems = stem_tokens(tokens, stemmer)
     return stems
 
-#class LemmaTokenizer(object):
-#    def __init__(self):
-#        self.wnl = WordNetLemmatizer()
-#
-#    def __call__(self, doc):
-#        return [self.wnl.lemmatize(t) for t in word_tokenize(doc)]
-#
-#def strip_punctuation(doc):
-#    import pdb; pdb.set_trace()
-#    re.sub(string.punctuation, "", doc).lower()
 
 # Display progress logs on stdout
 logging.basicConfig(level=logging.INFO,
@@ -58,6 +49,7 @@ logging.basicConfig(level=logging.INFO,
 
 # parse commandline arguments
 op = OptionParser()
+op.add_option("--n", type="int", dest="n_clusters", default=8)
 op.add_option("--lsa",
               dest="n_components", type="int",
               help="Preprocess documents with latent semantic analysis.")
@@ -142,8 +134,6 @@ print("%d documents" % len(dataset.data))
 print()
 
 labels = dataset.target
-# true_k = np.unique(labels).shape[0]
-true_k = 8
 
 print("Extracting features from the training dataset "
       "using a sparse vectorizer")
@@ -196,10 +186,10 @@ if opts.n_components:
 # Do the actual clustering
 
 if opts.minibatch:
-    km = MiniBatchKMeans(n_clusters=true_k, init='k-means++', n_init=1,
+    km = MiniBatchKMeans(n_clusters=opts.n_clusters, init='k-means++', n_init=1,
                          init_size=1000, batch_size=1000, verbose=opts.verbose)
 else:
-    km = KMeans(n_clusters=true_k, init='k-means++', max_iter=100, n_init=10,
+    km = KMeans(n_clusters=opts.n_clusters, init='k-means++', max_iter=100, n_init=10,
                 verbose=opts.verbose)
 
 print("Clustering sparse data with %s" % km)
@@ -229,7 +219,8 @@ if not opts.use_hashing:
         order_centroids = km.cluster_centers_.argsort()[:, ::-1]
 
     terms = vectorizer.get_feature_names()
-    for i in range(true_k):
+    import pdb; pdb.set_trace()
+    for i in range(opts.n_clusters):
         print("Cluster %d:" % i, end='')
         for ind in order_centroids[i, :10]:
             print(' %s' % terms[ind], end='')

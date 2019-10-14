@@ -140,3 +140,75 @@ Cluster 7: file work upload set preservation version user thumbnail metadata fil
 ### Notes:
 
 We are happy!
+
+## Run 8
+
+Homogeneity: 1.000
+Completeness: 0.000
+V-measure: 0.000
+Adjusted Rand-Index: 0.000
+Silhouette Coefficient: 0.011
+
+Top terms per cluster:
+Cluster 0: field value controlled vocabulary form term label uris metadata add
+Cluster 1: embargo embargoed visibility expired work expiring notification object date prod
+Cluster 2: error backtrace line info 500 page file view honeybadgerio message
+Cluster 3: image thumbnail iiif viewer download page manifest file tiff object
+Cluster 4: resource type work page new child add object map wireframe
+Cluster 5: role user press registered collection admin page staff publisher restricted
+Cluster 6: metadata preservation work field file object event workflow record collection
+Cluster 7: ingest note migrate ping collection ingested aid finding record anywhere
+Cluster 8: file work set upload csv user need preservation bag large
+Cluster 9: work button page behavior related child show descriptive user summary
+Cluster 10: collection work page user add item like object need metadata
+Cluster 11: version file batch upload upgrade update one item need hyrax
+Cluster 12: user page add use need link like content see change
+Cluster 13: search result page advanced text term field facet searching user
+Cluster 14: date range facet year field edtf format sort created need
+Cluster 15: test run testing feature work accessibility coverage add travis error
+
+## Notes
+
+About half of these look like recognizably coherent.
+
+## Run 9
+
+Homogeneity: 1.000
+Completeness: 0.000
+V-measure: 0.000
+Adjusted Rand-Index: 0.000
+Silhouette Coefficient: 0.011
+
+Top terms per cluster:
+Cluster 0: vocabulary controlled term uris use local authority field metadata ephemera
+Cluster 1: readonly script mode arabic letter cap voyager working language pdfs
+Cluster 2: facet number result display collection list view sorting sort item
+Cluster 3: work collection need file export bag user feature set object
+Cluster 4: use version update data gem need handle hyrax upgrade server
+Cluster 5: embargo visibility expired expiring work object notification embargoed date item
+Cluster 6: doi work field batch link citation metadata version publisher record
+Cluster 7: link text form change summary please oasis page download contact
+Cluster 8: resource record title fedora 1 agent get name child data
+Cluster 9: map ephemera scanned resource note voyager ark convert case collection
+Cluster 10: page add content link edit item show home work user
+Cluster 11: thumbnail file set image representative work fileset resource display default
+Cluster 12: metadata work type field need schema new export collection data
+Cluster 13: csv row warning value import file header number type instantiation
+Cluster 14: image iiif viewer download tiff manifest file universal riiif work
+Cluster 15: file work upload version bag set user need directory size
+Cluster 16: error message 500 file log 404 work problem user back
+Cluster 17: preservation event metadata file context workflow object curate mapping occur
+Cluster 18: google analytics drive service statistic download file downloads browseeverything view
+Cluster 19: email job fixity notification check run send contact cron address
+Cluster 20: publisher delete admin platform entry asset page typography variable book
+Cluster 21: object backtrace line view honeybadgerio info full project child type
+Cluster 22: label uri uris location value geonames field language add form
+Cluster 23: field metadata value display required collection add form project work
+Cluster 24: ingest migrate ping note anywhere ingested collection bulk aid displayed
+Cluster 25: collection work page add user new metadata object group create
+Cluster 26: add url set related button user work citation behavior want
+Cluster 27: search result text advanced term page searching user field browse
+Cluster 28: date range edtf facet year format field sort yyyymmdd need
+Cluster 29: test run testing feature coverage travis collection accessibility mvp work
+Cluster 30: user dashboard group admin log role activity like collection logged
+Cluster 31: batch edit upload work item approval file editing need uploads
