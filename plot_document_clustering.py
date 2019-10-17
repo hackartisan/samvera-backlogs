@@ -27,22 +27,6 @@ download('popular')
 
 import string
 
-
-def stem_tokens(tokens, stemmer):
-    stemmed = []
-    for item in tokens:
-        stemmed.append(stemmer.lemmatize(item))
-    return stemmed
-
-
-def tokenize(text):
-    stemmer = WordNetLemmatizer()
-    text = "".join([ch for ch in text if ch not in string.punctuation])
-    tokens = word_tokenize(text)
-    stems = stem_tokens(tokens, stemmer)
-    return stems
-
-
 # Display progress logs on stdout
 logging.basicConfig(level=logging.INFO,
                     format='%(asctime)s %(levelname)s %(message)s')
@@ -71,6 +55,34 @@ op.add_option("--verbose",
 
 #print(__doc__)
 #op.print_help()
+
+def is_interactive():
+    return not hasattr(sys.modules['__main__'], '__file__')
+
+
+# work-around for Jupyter notebook and IPython console
+argv = [] if is_interactive() else sys.argv[1:]
+(opts, args) = op.parse_args(argv)
+if len(args) > 0:
+    op.error("this script takes no arguments.")
+    sys.exit(1)
+
+
+# #############################################################################
+# local processing rules
+
+def stem_tokens(tokens, stemmer):
+    stemmed = []
+    for item in tokens:
+        stemmed.append(stemmer.lemmatize(item))
+    return stemmed
+
+def tokenize(text):
+    stemmer = WordNetLemmatizer()
+    text = "".join([ch for ch in text if ch not in string.punctuation])
+    tokens = word_tokenize(text)
+    stems = stem_tokens(tokens, stemmer)
+    return stems
 
 base_stopwords = ["a", "about", "above", "after", "again", "against", "ain", "all",
         "am", "an", "and", "any", "are", "aren", "aren't", "as", "at", "be",
@@ -112,19 +124,10 @@ stemmed_stopwords = ['abov', 'accept', 'ani', 'arent', 'becaus', 'befor',
 lemmatized_stopwords = ['criterion', 'hows', 'scholaruclegacy', 'shes', 'shouldve', 'thats', 'theyre', 'theyve', 'whats', 'whens', 'wheres', 'youre', 'youve']
 stopwords = base_stopwords + corpus_stopwords + stemmed_stopwords + lemmatized_stopwords
 
-def is_interactive():
-    return not hasattr(sys.modules['__main__'], '__file__')
-
-
-# work-around for Jupyter notebook and IPython console
-argv = [] if is_interactive() else sys.argv[1:]
-(opts, args) = op.parse_args(argv)
-if len(args) > 0:
-    op.error("this script takes no arguments.")
-    sys.exit(1)
-
 
 # #############################################################################
+# main
+
 print("Loading open issues:")
 
 dataset = load_files("./data/open_issues/clean")
@@ -133,7 +136,7 @@ dataset = load_files("./data/open_issues/clean")
 print("%d documents" % len(dataset.data))
 print()
 
-labels = dataset.target
+#labels = dataset.target
 
 print("Extracting features from the training dataset "
       "using a sparse vectorizer")
@@ -198,16 +201,19 @@ km.fit(X)
 print("done in %0.3fs" % (time() - t0))
 print()
 
-print("Homogeneity: %0.3f" % metrics.homogeneity_score(labels, km.labels_))
-print("Completeness: %0.3f" % metrics.completeness_score(labels, km.labels_))
-print("V-measure: %0.3f" % metrics.v_measure_score(labels, km.labels_))
-print("Adjusted Rand-Index: %.3f"
-      % metrics.adjusted_rand_score(labels, km.labels_))
-print("Silhouette Coefficient: %0.3f"
-      % metrics.silhouette_score(X, km.labels_, sample_size=1000))
+# These metrics are irrelevant to the clustering we're doing
+# They depend on tuning to a training set where you know your categories ahead
+# of time
 
-print()
-
+#print("Homogeneity: %0.3f" % metrics.homogeneity_score(labels, km.labels_))
+#print("Completeness: %0.3f" % metrics.completeness_score(labels, km.labels_))
+#print("V-measure: %0.3f" % metrics.v_measure_score(labels, km.labels_))
+#print("Adjusted Rand-Index: %.3f"
+#      % metrics.adjusted_rand_score(labels, km.labels_))
+#print("Silhouette Coefficient: %0.3f"
+#      % metrics.silhouette_score(X, km.labels_, sample_size=1000))
+#
+#print()
 
 if not opts.use_hashing:
     print("Top terms per cluster:")
@@ -225,3 +231,5 @@ if not opts.use_hashing:
         for ind in order_centroids[i, :10]:
             print(' %s' % terms[ind], end='')
         print()
+
+# TODO: report members of each cluster
