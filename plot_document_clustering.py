@@ -217,8 +217,33 @@ print()
 #
 #print()
 
+
+def parse_filename(path):
+    fn = path.rpartition("/")[2]
+    pattern = '(.*)_(.*)_issue_(.*).txt'
+    result = re.match(pattern, fn)
+    repository = f'{result.group(1)}/{result.group(2)}'
+    issue_number = result.group(3)
+    return(repository, issue_number)
+
+
 if not opts.use_hashing:
     print("Top terms per cluster:")
+
+    tuples = zip(km.labels_, dataset.filenames)
+    cluster_sets = collections.defaultdict(list)
+    for t in tuples:
+        cluster_sets[t[0]].append(t[1])
+
+    # key: cluster_number, val: list of dicts
+    new_cluster_dict = collections.defaultdict(list)
+    for cluster_number, filenames in cluster_sets.items():
+        # key: repository name, val: list of issue numbers
+        issues_list = collections.defaultdict(list)
+        for fn in filenames:
+            repository, issue_number = parse_filename(fn)
+            issues_list[repository].append(issue_number)
+        new_cluster_dict[cluster_number] = issues_list
 
     if opts.n_components:
         original_space_centroids = svd.inverse_transform(km.cluster_centers_)
@@ -232,15 +257,9 @@ if not opts.use_hashing:
         for ind in order_centroids[i, :10]:
             print(' %s' % terms[ind], end='')
         print()
-
-# TODO: report members of each cluster
-dataset.filenames # ordered array of the file of each document
-km.labels_ # ordered array of the cluster number for each document
-
-tuples = zip(km.labels_, dataset.filenames)
-cluster_sets = collections.defaultdict(list)
-for t in tuples:
-    cluster_sets[t[0]].append(t[1])
+        for repository, issues_list in new_cluster_dict[i].items():
+            print(f'  {repository} ({len(issues_list)} issues): {", ".join(issues_list)}')
+        print()
 
 # Catagory 0:
 #   gwu-libraries_scholarspace-hyrax_issue_141.txt
@@ -255,22 +274,5 @@ for t in tuples:
 #     Figgy: 120 issues: #37, #128, #980
 #     CHO: 17 issues: #4, #30
 
-def parse_filename(path):
-    fn = path.rpartition("/")[2]
-    pattern = '(.*)_(.*)_issue_(.*).txt'
-    result = re.match(pattern, fn)
-    repository = f'{result.group(1)}/{result.group(2)}'
-    issue_number = result.group(3)
-    return(repository, issue_number)
-
-# key: cluster_number, val: list of dicts
-new_cluster_dict = collections.defaultdict(list)
-for cluster_number, filenames in cluster_sets.items():
-    # key: repository name, val: list of issue numbers
-    issues_list = collections.defaultdict(list)
-    for fn in filenames:
-        repository, issue_number = parse_filename(fn)
-        issues_list[repository].append(issue_number)
-    new_cluster_dict[cluster_number] = issues_list
 
 # TODO: print it out nice
