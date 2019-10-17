@@ -26,6 +26,8 @@ from nltk.stem import WordNetLemmatizer
 download('popular')
 
 import string
+import re
+import collections
 
 # Display progress logs on stdout
 logging.basicConfig(level=logging.INFO,
@@ -225,7 +227,6 @@ if not opts.use_hashing:
         order_centroids = km.cluster_centers_.argsort()[:, ::-1]
 
     terms = vectorizer.get_feature_names()
-    import pdb; pdb.set_trace()
     for i in range(opts.n_clusters):
         print("Cluster %d:" % i, end='')
         for ind in order_centroids[i, :10]:
@@ -233,3 +234,43 @@ if not opts.use_hashing:
         print()
 
 # TODO: report members of each cluster
+dataset.filenames # ordered array of the file of each document
+km.labels_ # ordered array of the cluster number for each document
+
+tuples = zip(km.labels_, dataset.filenames)
+cluster_sets = collections.defaultdict(list)
+for t in tuples:
+    cluster_sets[t[0]].append(t[1])
+
+# Catagory 0:
+#   gwu-libraries_scholarspace-hyrax_issue_141.txt
+#   OregonDigital_OD2_issue_751.txt
+
+# for each array in the category sets, it should be a dict with key: repository
+# name, val: issue numbers
+
+# anything before first unscore in our data is the org.
+
+# Category 0:
+#     Figgy: 120 issues: #37, #128, #980
+#     CHO: 17 issues: #4, #30
+
+def parse_filename(path):
+    fn = path.rpartition("/")[2]
+    pattern = '(.*)_(.*)_issue_(.*).txt'
+    result = re.match(pattern, fn)
+    repository = f'{result.group(1)}/{result.group(2)}'
+    issue_number = result.group(3)
+    return(repository, issue_number)
+
+# key: cluster_number, val: list of dicts
+new_cluster_dict = collections.defaultdict(list)
+for cluster_number, filenames in cluster_sets.items():
+    # key: repository name, val: list of issue numbers
+    issues_list = collections.defaultdict(list)
+    for fn in filenames:
+        repository, issue_number = parse_filename(fn)
+        issues_list[repository].append(issue_number)
+    new_cluster_dict[cluster_number] = issues_list
+
+# TODO: print it out nice
