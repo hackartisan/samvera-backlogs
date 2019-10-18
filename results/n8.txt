@@ -1,0 +1,266 @@
+Loading open issues:
+2377 documents
+
+Extracting features from the training dataset using a sparse vectorizer
+done in 4.559629s
+n_samples: 2377, n_features: 5328
+
+Clustering sparse data with KMeans(algorithm='auto', copy_x=True, init='k-means++', max_iter=100,
+       n_clusters=8, n_init=10, n_jobs=None, precompute_distances='auto',
+       random_state=None, tol=0.0001, verbose=False)
+done in 19.786s
+
+Top terms per cluster:
+Cluster 0: error test email job work run log message user server
+  gwu-libraries/scholarspace-hyrax (6 issues): 141, 95, 231, 191, 64, 13
+  dibbs-vdc/ccql (7 issues): 19, 72, 61, 70, 13, 75, 41
+  DigitalWPI/digitalwpi (8 issues): 158, 177, 103, 59, 205, 116, 155, 100
+  sciencehistory/chf-sufia (15 issues): 1165, 149, 1081, 340, 1199, 1233, 1075, 137, 158, 102, 284, 1263, 1148, 1286, 396
+  sul-dlss/hydrus (4 issues): 186, 142, 148, 205
+  psu-stewardship/scholarsphere (32 issues): 1330, 1178, 1553, 1556, 576, 1343, 1511, 1577, 225, 1524, 379, 763, 1442, 1521, 1546, 1520, 1509, 652, 1614, 1624, 148, 1554, 700, 849, 847, 1164, 270, 1408, 300, 1308, 1342, 1562
+  psu-libraries/cho (18 issues): 276, 958, 547, 848, 358, 773, 1039, 826, 1027, 311, 825, 1028, 866, 1037, 129, 566, 757, 846
+  OregonDigital/oregondigital (7 issues): 903, 910, 1086, 1087, 248, 913, 1223
+  curationexperts/tenejo (5 issues): 211, 72, 231, 212, 241
+  galterlibrary/digital-repository (10 issues): 423, 532, 668, 455, 534, 567, 607, 262, 604, 625
+  pulibrary/figgy (24 issues): 2978, 3368, 2810, 1563, 3172, 3396, 1903, 2878, 3354, 3265, 3390, 2598, 1973, 3034, 2431, 3282, 2660, 2388, 2487, 638, 617, 2539, 99, 3195
+  curationexperts/laevigata (5 issues): 828, 602, 1931, 711, 29
+  emory-libraries/dlp-curate (12 issues): 623, 605, 624, 640, 625, 633, 431, 404, 619, 103, 627, 635
+  osulp/Scholars-Archive (8 issues): 1516, 1381, 1894, 1813, 1880, 1918, 881, 1727
+  uclibs/ucrate (13 issues): 114, 559, 800, 706, 494, 797, 730, 681, 155, 819, 564, 121, 814
+  ndlib_curate/nd (6 issues): 331, 484, 341, 510, 269, 335
+  duke-libraries/ddr-public (5 issues): 130, 346, 472, 167, 174
+  mlibrary/heliotrope (7 issues): 112, 898, 1389, 1649, 1145, 1271, 1701
+  OregonDigital/OD2 (11 issues): 365, 183, 230, 621, 194, 187, 273, 247, 186, 137, 182
+  WGBH-MLA/ams (5 issues): 329, 336, 268, 266, 339
+  digital-york/arch1 (2 issues): 29, 34
+  digital-york/oasis (4 issues): 237, 241, 297, 263
+  UCSCLibrary/ucsc-library-digital-collections (3 issues): 56, 54, 39
+  digital-york/ncelp (2 issues): 210, 180
+  LafayetteCollegeLibraries/spot (5 issues): 122, 175, 188, 176, 226
+  UCLALibrary/californica (3 issues): 564, 510, 393
+  UB-Bern/solonline (1 issues): 13
+  research-technologies_hyrax/leaf (1 issues): 2
+
+Cluster 1: page view link publisher line backtrace user add object admin
+  mlibrary/heliotrope (20 issues): 1365, 732, 1486, 727, 826, 825, 824, 840, 737, 738, 1199, 1429, 735, 107, 511, 837, 915, 828, 819, 918
+  LafayetteCollegeLibraries/spot (5 issues): 187, 280, 36, 282, 284
+  uclibs/ucrate (6 issues): 165, 602, 780, 731, 758, 816
+  OregonDigital/oregondigital (8 issues): 432, 1249, 1221, 1090, 1278, 976, 1108, 1082
+  osulp/Scholars-Archive (9 issues): 323, 1135, 1271, 1821, 1137, 1133, 1459, 1801, 1887
+  curationexperts/tenejo (4 issues): 22, 86, 24, 242
+  gwu-libraries/scholarspace-hyrax (3 issues): 77, 133, 65
+  DigitalWPI/digitalwpi (2 issues): 220, 176
+  pulibrary/figgy (35 issues): 2707, 180, 2153, 1891, 1836, 3403, 2996, 3224, 639, 2835, 3409, 1916, 2257, 3331, 3010, 2674, 986, 3168, 2637, 1577, 542, 2822, 1534, 2062, 2642, 2991, 547, 1980, 3117, 3365, 2172, 1982, 3218, 3127, 1517
+  sciencehistory/chf-sufia (5 issues): 241, 1259, 985, 1260, 1258
+  psu-stewardship/scholarsphere (18 issues): 636, 944, 234, 440, 924, 889, 650, 503, 1400, 1418, 923, 1573, 260, 233, 1407, 1043, 540, 380
+  digital-york/ncelp (7 issues): 154, 167, 135, 156, 172, 214, 169
+  psu-libraries/cho (11 issues): 244, 246, 288, 243, 49, 74, 73, 564, 811, 46, 245
+  WGBH-MLA/ams (1 issues): 343
+  ndlib_curate/nd (2 issues): 367, 471
+  UCSCLibrary/ucsc-library-digital-collections (2 issues): 57, 80
+  galterlibrary/digital-repository (7 issues): 533, 314, 510, 371, 407, 560, 90
+  cul/ldpd-hyacinth (2 issues): 130, 133
+  emory-libraries/dlp-curate (1 issues): 464
+  digital-york/arch1 (1 issues): 37
+  duke-libraries/ddr-public (6 issues): 255, 301, 211, 415, 378, 403
+  sul-dlss/hydrus (2 issues): 251, 333
+  digital-york/oasis (1 issues): 283
+  OregonDigital/OD2 (3 issues): 646, 694, 332
+  UB-Bern/solonline (1 issues): 14
+
+Cluster 2: user work image need add use ingest item like resource
+  OregonDigital/OD2 (55 issues): 751, 362, 315, 522, 93, 38, 226, 266, 501, 794, 695, 159, 403, 225, 423, 760, 94, 304, 780, 167, 726, 643, 475, 739, 98, 759, 193, 26, 356, 53, 239, 752, 163, 272, 314, 341, 414, 749, 224, 343, 740, 231, 265, 264, 223, 693, 220, 471, 523, 529, 716, 95, 99, 567, 130
+  pulibrary/figgy (266 issues): 1714, 1405, 1986, 1263, 2691, 1032, 2448, 859, 2482, 1984, 3405, 1614, 2670, 1293, 1048, 2623, 3372, 1587, 3142, 3229, 2025, 3232, 3017, 3171, 1600, 2622, 2452, 1160, 2484, 2758, 1630, 941, 2011, 2651, 3132, 1734, 1749, 2881, 586, 2689, 3088, 2845, 1397, 2608, 1877, 1795, 1718, 1579, 1919, 2566, 2401, 2463, 2778, 2425, 1849, 2353, 2705, 1618, 3288, 1723, 1604, 1602, 2833, 1256, 2439, 1569, 1576, 1236, 1367, 3330, 3402, 2590, 2291, 3252, 1592, 3343, 3070, 2640, 2962, 1731, 2031, 3038, 2834, 1791, 1551, 1593, 2652, 2688, 3205, 1094, 1538, 853, 3234, 2280, 3063, 1624, 3128, 2610, 1713, 1999, 2483, 1626, 1870, 1805, 3411, 1546, 2370, 2503, 2977, 1667, 1591, 2706, 2400, 2394, 3295, 854, 1452, 1840, 3393, 1631, 2597, 1957, 1540, 1594, 2296, 2866, 2784, 1570, 1610, 3186, 3349, 2803, 3283, 2964, 3382, 2817, 2435, 2476, 2207, 1621, 2994, 2029, 1616, 2457, 3410, 1524, 2466, 1700, 1581, 1809, 1597, 1552, 2995, 2399, 3226, 2842, 2715, 1565, 2326, 3216, 3214, 1447, 2989, 623, 1611, 2461, 3187, 1547, 1488, 2486, 3189, 3191, 3273, 1724, 1719, 3122, 3404, 1157, 1585, 1590, 1625, 2430, 2690, 1554, 894, 1620, 2242, 2118, 633, 2671, 1449, 2631, 3323, 3300, 3185, 3003, 1844, 1878, 3190, 2407, 1100, 3256, 284, 2983, 3193, 1627, 1874, 1364, 1701, 2988, 2998, 3347, 3359, 1850, 2551, 1708, 973, 1797, 1801, 2459, 1902, 2511, 1623, 3379, 1582, 2797, 2993, 1589, 1690, 1653, 2114, 2602, 2802, 565, 1511, 1607, 2030, 2575, 1567, 3227, 3219, 1608, 1571, 3385, 2855, 2046, 3244, 179, 1974, 2089, 2020, 2506, 653, 3188, 2318, 2464, 2021, 1868, 2171, 247, 2796, 1811, 2402, 3384, 496, 1615
+  digital-york/oasis (19 issues): 155, 4, 148, 182, 159, 194, 127, 164, 282, 287, 286, 295, 160, 5, 294, 114, 270, 173, 288
+  psu-libraries/cho (116 issues): 3, 1008, 166, 95, 78, 963, 136, 694, 481, 7, 169, 233, 51, 442, 735, 1029, 91, 931, 222, 163, 180, 24, 901, 842, 849, 814, 146, 155, 889, 192, 285, 693, 969, 86, 927, 69, 71, 1017, 809, 147, 763, 312, 560, 574, 890, 729, 30, 692, 789, 165, 150, 754, 762, 190, 886, 712, 138, 441, 581, 45, 440, 139, 949, 891, 584, 152, 663, 444, 177, 995, 229, 480, 727, 90, 173, 137, 72, 570, 168, 784, 929, 933, 47, 68, 131, 151, 4, 144, 821, 26, 153, 948, 70, 48, 35, 790, 734, 738, 800, 538, 82, 92, 2, 201, 713, 187, 583, 805, 164, 114, 75, 36, 723, 1011, 569, 8
+  galterlibrary/digital-repository (54 issues): 239, 495, 585, 426, 320, 46, 326, 545, 386, 153, 352, 431, 611, 506, 492, 253, 684, 336, 547, 209, 227, 502, 343, 203, 376, 660, 658, 154, 460, 430, 630, 266, 570, 196, 123, 665, 450, 237, 202, 501, 146, 685, 520, 489, 529, 382, 633, 148, 432, 155, 421, 205, 345, 521
+  emory-libraries/dlp-curate (49 issues): 353, 626, 610, 332, 621, 574, 639, 608, 352, 161, 552, 312, 646, 93, 263, 491, 629, 357, 541, 471, 572, 644, 618, 560, 313, 315, 613, 631, 314, 409, 393, 645, 317, 261, 311, 620, 465, 609, 205, 118, 423, 391, 468, 360, 316, 221, 607, 586, 634
+  uclibs/ucrate (42 issues): 115, 62, 815, 612, 805, 739, 189, 239, 117, 752, 175, 238, 775, 452, 796, 713, 233, 353, 741, 673, 605, 722, 704, 803, 700, 738, 606, 635, 636, 794, 804, 684, 810, 702, 603, 811, 725, 604, 167, 799, 798, 341
+  mlibrary/heliotrope (35 issues): 1738, 1091, 1801, 1793, 740, 897, 484, 968, 303, 1806, 741, 1317, 389, 1690, 419, 858, 1245, 1508, 944, 271, 1481, 895, 841, 1453, 1606, 733, 478, 746, 1104, 813, 1336, 1528, 96, 1366, 1702
+  duke-libraries/ddr-public (12 issues): 388, 348, 75, 225, 246, 477, 390, 439, 344, 440, 146, 206
+  sciencehistory/chf-sufia (39 issues): 146, 854, 707, 148, 1163, 293, 1261, 1123, 243, 98, 748, 987, 339, 100, 1184, 1193, 1045, 966, 990, 978, 509, 268, 273, 200, 1175, 768, 1032, 81, 717, 150, 96, 933, 129, 1080, 1009, 1101, 1194, 105, 1117
+  psu-stewardship/scholarsphere (99 issues): 381, 241, 1092, 1569, 1559, 764, 1414, 901, 320, 1551, 325, 455, 697, 282, 230, 1536, 869, 322, 479, 1268, 1361, 1604, 391, 319, 1245, 1585, 323, 1625, 1591, 870, 1422, 506, 324, 1227, 939, 571, 199, 1582, 918, 872, 1063, 637, 1584, 1464, 1423, 303, 1571, 896, 359, 168, 1550, 620, 249, 1583, 1434, 1347, 1421, 743, 1356, 993, 945, 480, 756, 1359, 846, 228, 1586, 441, 1405, 1205, 1214, 1563, 1420, 1492, 1535, 521, 190, 1239, 609, 1505, 541, 802, 1417, 579, 1168, 1622, 286, 1269, 904, 1161, 1558, 1331, 672, 1611, 1243, 718, 1530, 1613, 544
+  dibbs-vdc/ccql (15 issues): 2, 20, 58, 23, 16, 73, 29, 56, 62, 64, 4, 31, 42, 51, 65
+  OregonDigital/oregondigital (53 issues): 1227, 1279, 405, 1180, 610, 960, 1049, 1245, 1031, 480, 570, 927, 333, 448, 574, 1241, 1208, 908, 1128, 843, 1044, 1219, 1043, 1247, 569, 614, 176, 1277, 941, 815, 1045, 1272, 1273, 1246, 1243, 1053, 1262, 1224, 1260, 691, 1228, 1280, 1230, 1271, 917, 898, 1189, 899, 1041, 552, 568, 897, 907
+  WGBH-MLA/ams (16 issues): 341, 289, 359, 303, 311, 263, 272, 265, 309, 298, 360, 340, 259, 338, 346, 264
+  osulp/Scholars-Archive (70 issues): 1809, 1505, 635, 1378, 1510, 586, 1650, 1511, 1427, 1706, 1380, 100, 1471, 1379, 1013, 1443, 1764, 1523, 1759, 716, 1100, 1512, 397, 1527, 1749, 521, 1493, 1374, 1519, 1521, 1361, 1407, 109, 1878, 1781, 1518, 808, 1125, 1529, 865, 544, 1531, 1517, 1428, 752, 1525, 1800, 1436, 587, 1426, 1134, 1722, 337, 1444, 1177, 1490, 1917, 1103, 720, 1919, 1694, 1524, 1515, 1889, 1513, 1053, 1514, 818, 1494, 1782
+  curationexperts/laevigata (26 issues): 307, 1733, 1336, 48, 142, 1805, 1076, 1334, 138, 1810, 1477, 202, 1809, 735, 1804, 139, 1335, 47, 172, 84, 137, 1424, 1806, 1811, 1807, 1625
+  gwu-libraries/scholarspace-hyrax (38 issues): 142, 39, 113, 85, 83, 138, 228, 11, 224, 152, 130, 86, 188, 135, 139, 187, 137, 204, 131, 68, 99, 114, 124, 185, 79, 109, 221, 31, 103, 168, 92, 67, 170, 96, 76, 125, 66, 63
+  research-technologies_hyrax/leaf (3 issues): 12, 1, 11
+  sul-dlss/hydrus (12 issues): 97, 27, 316, 207, 338, 307, 225, 284, 19, 23, 39, 22
+  LafayetteCollegeLibraries/spot (22 issues): 121, 114, 145, 107, 48, 4, 100, 246, 173, 24, 120, 288, 242, 190, 158, 160, 66, 11, 44, 159, 290, 263
+  DigitalWPI/digitalwpi (21 issues): 217, 160, 241, 172, 204, 203, 50, 127, 93, 180, 94, 126, 192, 243, 98, 210, 68, 240, 121, 129, 239
+  cul/ldpd-hyacinth (6 issues): 105, 119, 114, 97, 100, 131
+  UCLALibrary/californica (15 issues): 392, 274, 522, 12, 383, 232, 513, 353, 502, 491, 539, 415, 514, 570, 489
+  ndlib_curate/nd (12 issues): 278, 401, 730, 428, 458, 267, 328, 414, 353, 382, 475, 423
+  curationexperts/tenejo (15 issues): 21, 97, 40, 76, 20, 190, 149, 257, 222, 259, 55, 216, 16, 210, 188
+  UB-Bern/solonline (14 issues): 29, 3, 2, 27, 26, 47, 19, 25, 28, 41, 35, 15, 20, 43
+  ucsblibrary/alexandria (2 issues): 141, 134
+  uclibs/gdja (3 issues): 71, 41, 70
+  digital-york/arch1 (8 issues): 30, 33, 41, 28, 31, 32, 35, 26
+  digital-york/ncelp (16 issues): 211, 217, 170, 215, 11, 165, 205, 202, 216, 213, 212, 131, 155, 209, 41, 206
+  ucsdlib/damspas (5 issues): 684, 632, 691, 623, 677
+  UCSCLibrary/ucsc-library-digital-collections (6 issues): 18, 31, 71, 81, 24, 85
+  nulib/donut (1 issues): 449
+  MPLSFedResearch/cypripedium (1 issues): 343
+
+Cluster 3: collection work page user add item object need metadata search
+  dibbs-vdc/ccql (1 issues): 53
+  sciencehistory/chf-sufia (2 issues): 534, 349
+  psu-libraries/cho (57 issues): 684, 772, 205, 439, 133, 118, 719, 174, 997, 1006, 179, 810, 408, 455, 234, 416, 1018, 788, 94, 456, 194, 798, 181, 847, 1024, 1019, 1022, 85, 171, 483, 60, 259, 1025, 200, 206, 178, 957, 23, 61, 159, 175, 446, 896, 202, 409, 59, 58, 799, 125, 130, 128, 176, 351, 25, 1021, 216, 1007
+  pulibrary/figgy (26 issues): 1548, 2586, 2780, 1967, 1595, 2433, 3363, 3364, 1904, 3230, 1643, 1628, 1596, 2669, 1619, 1603, 2968, 1599, 1656, 1613, 2387, 3388, 1605, 395, 3246, 2862
+  galterlibrary/digital-repository (12 issues): 307, 416, 260, 87, 677, 299, 530, 283, 643, 648, 666, 379
+  OregonDigital/OD2 (16 issues): 43, 425, 44, 521, 47, 258, 792, 427, 761, 236, 217, 570, 185, 426, 589, 46
+  psu-stewardship/scholarsphere (11 issues): 1323, 665, 1552, 1307, 235, 780, 1547, 1226, 1332, 1094, 943
+  UCLALibrary/californica (6 issues): 490, 380, 568, 520, 482, 575
+  emory-libraries/dlp-curate (9 issues): 550, 551, 554, 275, 386, 548, 542, 612, 421
+  ucsdlib/damspas (3 issues): 660, 714, 653
+  LafayetteCollegeLibraries/spot (1 issues): 156
+  osulp/Scholars-Archive (8 issues): 1606, 1292, 1575, 1054, 966, 1605, 1742, 1281
+  uclibs/ucrate (9 issues): 76, 806, 685, 711, 817, 448, 59, 77, 807
+  OregonDigital/oregondigital (3 issues): 1258, 878, 572
+  UB-Bern/solonline (2 issues): 16, 5
+  DigitalWPI/digitalwpi (2 issues): 125, 242
+  ndlib_curate/nd (1 issues): 213
+  gwu-libraries/scholarspace-hyrax (3 issues): 102, 161, 232
+  UCSCLibrary/ucsc-library-digital-collections (1 issues): 84
+  duke-libraries/ddr-public (6 issues): 441, 412, 420, 256, 417, 135
+  sul-dlss/hydrus (2 issues): 164, 335
+  digital-york/ncelp (1 issues): 193
+
+Cluster 4: file work upload set thumbnail version user preservation need csv
+  psu-stewardship/scholarsphere (40 issues): 166, 900, 1578, 1564, 635, 1522, 1589, 742, 473, 509, 1619, 1225, 603, 545, 1358, 336, 269, 98, 1266, 1392, 243, 534, 1406, 214, 1590, 623, 221, 231, 1513, 1566, 220, 1543, 572, 1345, 471, 1344, 895, 1623, 825, 219
+  gwu-libraries/scholarspace-hyrax (7 issues): 233, 90, 111, 101, 207, 100, 72
+  uclibs/ucrate (9 issues): 750, 682, 707, 781, 703, 729, 686, 727, 679
+  psu-libraries/cho (39 issues): 892, 857, 598, 703, 83, 497, 170, 717, 930, 1063, 1054, 913, 77, 967, 691, 548, 228, 813, 227, 1034, 1060, 599, 210, 589, 595, 793, 637, 198, 154, 117, 685, 690, 559, 728, 862, 1026, 565, 828, 197
+  galterlibrary/digital-repository (14 issues): 33, 415, 383, 413, 650, 414, 417, 408, 640, 24, 458, 639, 638, 412
+  emory-libraries/dlp-curate (27 issues): 250, 305, 442, 248, 482, 258, 24, 296, 324, 289, 637, 285, 577, 549, 252, 287, 25, 209, 578, 288, 330, 632, 301, 291, 441, 217, 154
+  curationexperts/tenejo (8 issues): 67, 68, 17, 46, 37, 69, 134, 148
+  WGBH-MLA/ams (1 issues): 325
+  UCLALibrary/californica (6 issues): 394, 571, 408, 531, 404, 405
+  OregonDigital/OD2 (7 issues): 783, 51, 29, 222, 208, 60, 207
+  osulp/Scholars-Archive (7 issues): 1445, 1264, 1238, 1865, 1955, 1785, 1812
+  UB-Bern/solonline (1 issues): 4
+  UCSCLibrary/ucsc-library-digital-collections (1 issues): 27
+  pulibrary/figgy (23 issues): 2095, 2522, 1606, 549, 3139, 2516, 3053, 1737, 1918, 3016, 1101, 2903, 3018, 2939, 3329, 688, 673, 1757, 3378, 2863, 3332, 2268, 3006
+  digital-york/ncelp (2 issues): 168, 39
+  mlibrary/heliotrope (4 issues): 1446, 441, 25, 1506
+  digital-york/oasis (1 issues): 256
+  sciencehistory/chf-sufia (5 issues): 870, 638, 1135, 104, 335
+  LafayetteCollegeLibraries/spot (3 issues): 35, 189, 210
+  OregonDigital/oregondigital (1 issues): 583
+  ndlib_curate/nd (2 issues): 309, 427
+  dibbs-vdc/ccql (3 issues): 24, 43, 67
+  DigitalWPI/digitalwpi (1 issues): 214
+  UW-Libraries/druw (1 issues): 40
+  cul/ldpd-hyacinth (1 issues): 107
+
+Cluster 5: search result advanced page term text user field like item
+  duke-libraries/ddr-public (2 issues): 380, 407
+  LafayetteCollegeLibraries/spot (2 issues): 279, 131
+  mlibrary/heliotrope (4 issues): 1488, 319, 591, 1487
+  psu-libraries/cho (25 issues): 215, 43, 80, 132, 110, 909, 79, 41, 111, 76, 40, 134, 53, 537, 185, 109, 568, 1062, 116, 115, 1046, 156, 39, 1009, 808
+  psu-stewardship/scholarsphere (8 issues): 1231, 569, 1413, 1565, 885, 1093, 946, 1367
+  OregonDigital/OD2 (6 issues): 202, 763, 445, 328, 37, 52
+  pulibrary/figgy (8 issues): 2119, 2677, 3152, 1197, 1955, 2798, 3350, 3398
+  uclibs/gdja (1 issues): 65
+  osulp/Scholars-Archive (9 issues): 1475, 1960, 1473, 1502, 1152, 1450, 1408, 1479, 1506
+  digital-york/oasis (5 issues): 242, 22, 123, 205, 102
+  gwu-libraries/scholarspace-hyrax (5 issues): 123, 128, 127, 136, 129
+  UB-Bern/solonline (2 issues): 46, 45
+  OregonDigital/oregondigital (6 issues): 1042, 571, 1225, 804, 1218, 364
+  sciencehistory/chf-sufia (1 issues): 1136
+  UCLALibrary/californica (1 issues): 414
+  digital-york/ncelp (1 issues): 83
+  UCSCLibrary/ucsc-library-digital-collections (1 issues): 77
+  WGBH-MLA/ams (2 issues): 286, 262
+  emory-libraries/dlp-curate (1 issues): 622
+  curationexperts/tenejo (1 issues): 217
+  uclibs/ucrate (1 issues): 705
+  galterlibrary/digital-repository (1 issues): 350
+  digital-york/arch1 (1 issues): 38
+
+Cluster 6: field metadata work value form display record data need collection
+  digital-york/oasis (12 issues): 143, 117, 158, 38, 52, 46, 239, 78, 144, 1, 219, 277
+  curationexperts/tenejo (3 issues): 206, 160, 207
+  emory-libraries/dlp-curate (31 issues): 527, 503, 21, 462, 440, 467, 249, 218, 492, 286, 243, 351, 18, 382, 242, 206, 19, 219, 350, 630, 254, 273, 179, 615, 381, 616, 494, 178, 253, 463, 76
+  digital-york/ncelp (3 issues): 50, 23, 157
+  psu-libraries/cho (59 issues): 513, 21, 89, 715, 37, 695, 926, 145, 123, 107, 1043, 832, 863, 320, 998, 232, 157, 102, 844, 191, 816, 142, 674, 160, 127, 96, 19, 241, 806, 29, 55, 104, 54, 67, 18, 167, 161, 28, 484, 103, 888, 105, 1020, 108, 106, 286, 5, 1013, 689, 875, 188, 99, 214, 13, 517, 97, 803, 327, 1010
+  pulibrary/figgy (15 issues): 843, 1739, 1633, 2128, 1601, 2068, 1981, 1584, 1555, 2292, 1588, 2490, 1953, 2649, 2987
+  LafayetteCollegeLibraries/spot (8 issues): 166, 202, 127, 92, 161, 264, 13, 43
+  osulp/Scholars-Archive (28 issues): 1555, 1251, 837, 1810, 1055, 1933, 1328, 1546, 177, 1751, 1293, 1752, 1099, 1864, 1282, 1763, 718, 1799, 1630, 1440, 1680, 1580, 1423, 1811, 1721, 1634, 1777, 1863
+  UCLALibrary/californica (8 issues): 506, 360, 508, 283, 521, 509, 553, 507
+  OregonDigital/OD2 (15 issues): 500, 134, 269, 397, 41, 778, 50, 360, 764, 502, 793, 168, 39, 741, 359
+  UB-Bern/solonline (2 issues): 11, 12
+  sul-dlss/hydrus (2 issues): 43, 269
+  sciencehistory/chf-sufia (11 issues): 1254, 65, 101, 783, 1192, 338, 26, 1255, 136, 208, 147
+  UCSCLibrary/ucsc-library-digital-collections (2 issues): 64, 55
+  cul/ldpd-hyacinth (6 issues): 102, 129, 132, 101, 127, 128
+  mlibrary/heliotrope (7 issues): 760, 1792, 1527, 546, 1667, 1742, 1788
+  uclibs/ucrate (7 issues): 319, 802, 318, 795, 809, 607, 383
+  gwu-libraries/scholarspace-hyrax (4 issues): 223, 220, 219, 200
+  curationexperts/laevigata (2 issues): 435, 39
+  galterlibrary/digital-repository (6 issues): 339, 635, 57, 241, 419, 629
+  OregonDigital/oregondigital (7 issues): 1274, 802, 1275, 1276, 931, 918, 1052
+  ndlib_curate/nd (3 issues): 201, 467, 200
+  psu-stewardship/scholarsphere (7 issues): 343, 947, 1502, 1424, 1503, 1588, 1425
+  uclibs/gdja (1 issues): 69
+  dibbs-vdc/ccql (3 issues): 74, 39, 33
+  WGBH-MLA/ams (1 issues): 363
+  DigitalWPI/digitalwpi (1 issues): 175
+  duke-libraries/ddr-public (1 issues): 400
+
+Cluster 7: date embargo range year field collection work facet visibility need
+  pulibrary/figgy (6 issues): 782, 1956, 1959, 3245, 657, 2470
+  osulp/Scholars-Archive (13 issues): 1667, 1537, 1668, 1891, 1488, 1859, 312, 1536, 1946, 1294, 1474, 1779, 1916
+  curationexperts/laevigata (4 issues): 238, 1555, 1492, 1808
+  sul-dlss/hydrus (5 issues): 262, 280, 204, 342, 57
+  psu-libraries/cho (8 issues): 725, 781, 782, 861, 792, 860, 33, 724
+  gwu-libraries/scholarspace-hyrax (4 issues): 122, 57, 206, 199
+  psu-stewardship/scholarsphere (6 issues): 920, 676, 259, 1602, 1394, 677
+  OregonDigital/OD2 (3 issues): 371, 40, 372
+  mlibrary/heliotrope (4 issues): 270, 27, 508, 139
+  OregonDigital/oregondigital (4 issues): 968, 1259, 830, 537
+  duke-libraries/ddr-public (1 issues): 399
+  uclibs/ucrate (2 issues): 709, 801
+  galterlibrary/digital-repository (4 issues): 271, 381, 306, 78
+  dibbs-vdc/ccql (2 issues): 52, 60
+  UCSCLibrary/ucsc-library-digital-collections (2 issues): 74, 42
+  sciencehistory/chf-sufia (3 issues): 845, 4, 259
+  LafayetteCollegeLibraries/spot (1 issues): 132
+  digital-york/oasis (1 issues): 34
+  uclibs/gdja (1 issues): 68
+  DigitalWPI/digitalwpi (1 issues): 230
+
+Cluster 0:
+  error test email job work run log message user server
+  229 issues in 28 repositories
+
+Cluster 1:
+  page view link publisher line backtrace user add object admin
+  162 issues in 25 repositories
+
+Cluster 2:
+  user work image need add use ingest item like resource
+  1166 issues in 34 repositories
+
+Cluster 3:
+  collection work page user add item object need metadata search
+  182 issues in 22 repositories
+
+Cluster 4:
+  file work upload set thumbnail version user preservation need csv
+  214 issues in 25 repositories
+
+Cluster 5:
+  search result advanced page term text user field like item
+  94 issues in 23 repositories
+
+Cluster 6:
+  field metadata work value form display record data need collection
+  255 issues in 28 repositories
+
+Cluster 7:
+  date embargo range year field collection work facet visibility need
+  75 issues in 20 repositories
+
