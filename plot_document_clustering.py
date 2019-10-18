@@ -252,6 +252,7 @@ if not opts.use_hashing:
         order_centroids = km.cluster_centers_.argsort()[:, ::-1]
 
     terms = vectorizer.get_feature_names()
+    # print full report
     for i in range(opts.n_clusters):
         print("Cluster %d:" % i, end='')
         for ind in order_centroids[i, :10]:
@@ -261,18 +262,23 @@ if not opts.use_hashing:
             print(f'  {repository} ({len(issues_list)} issues): {", ".join(issues_list)}')
         print()
 
-# Catagory 0:
-#   gwu-libraries_scholarspace-hyrax_issue_141.txt
-#   OregonDigital_OD2_issue_751.txt
 
-# for each array in the category sets, it should be a dict with key: repository
-# name, val: issue numbers
+    # print summary like
+    # Cluster 0:
+    #   here are all the words in the cluster
+    #   258 issues in 7 repositories
 
-# anything before first unscore in our data is the org.
+    # i is the cluster number
+    for i in range(opts.n_clusters):
+        print("Cluster %d:" % i, end='\n')
+        print(' ', end='')
+        for ind in order_centroids[i, :10]:
+            print(f' %s' % terms[ind], end='')
+        # h is a dict keys: repo strings, vals: lists of issue #s
+        issues_per_cluster = 0
+        for l in new_cluster_dict[i].values():
+            issues_per_cluster += len(l)
+        print()
+        print(f'  {issues_per_cluster} issues in {len(new_cluster_dict[i].keys())} repositories')
+        print()
 
-# Category 0:
-#     Figgy: 120 issues: #37, #128, #980
-#     CHO: 17 issues: #4, #30
-
-
-# TODO: print it out nice
