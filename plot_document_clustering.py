@@ -222,7 +222,7 @@ print()
 
 def parse_filename(path):
     fn = path.rpartition("/")[2]
-    pattern = '(.*)_(.*)_pr_(.*).txt'
+    pattern = '(.*)_(.*)_issue_(.*).txt'
     result = re.match(pattern, fn)
     if result is None:
         return ['None', 'None']
