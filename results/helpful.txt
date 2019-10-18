@@ -1,0 +1,115 @@
+Helpful Clusters
+
+# Would a word cloud also answer our question? Maybe, but with this technique we
+# have pointers to actual issues.
+
+Cluster 39:
+  task rake fixity check file run cron running fedora job
+  29 issues in 11 repositories
+
+# IIIF
+Cluster 58:
+  image viewer riiif iiif 308 tiff jp2 f derivative work
+  49 issues in 18 repositories
+
+Cluster 30:
+  manifest url iiif link viewer collection mirador sammelband image like
+  36 issues in 13 repositories
+
+# Good cluster, but probably not usefule for inter-institutional colaboration
+Cluster 7:
+  server monitoring cap production deploy deployment task capistrano staging add
+  29 issues in 13 repositories
+
+# Full text search
+Cluster 9:
+  search text result searching pdf document extracted term full fulltext
+  26 issues in 14 repositories
+
+# User roles
+Cluster 12:
+  user dashboard press role page registered admin menu hyrax login
+  30 issues in 10 repositories
+
+# Preservation?
+Cluster 15:
+  bag visibility file validation work extracted import export archival badge
+  28 issues in 10 repositories
+
+# Thumbnail images, representative images
+Cluster 16:
+  thumbnail file image set blank representative fileset work resource manager
+  35 issues in 13 repositories
+
+# Embargoes
+Cluster 17:
+  embargo visibility expired work expiring notification embargoed object prod rake
+  26 issues in 11 repositories
+
+# Workers and resque
+Cluster 18:
+  job worker run derivative fixity server resque error new queue
+  26 issues in 12 repositories
+
+# Look at tickets, might be useful
+Cluster 21:
+  featured researcher block homepage entry option topic content work key
+  10 issues in 6 repositories
+
+# Linked data, SPARQL
+Cluster 23:
+  allow sufia rdf format triple regular user thing caption sparql
+  23 issues in 8 repositories
+
+# Blacklight range limit, date facets
+Cluster 26:
+  blacklight limit year fix range search autocomplete view facet byte
+  16 issues in 9 repositories
+
+Cluster 36:
+  facet date year sort result search decade az show field
+  25 issues in 14 repositories
+
+# User account interactions
+Cluster 27:
+  email password contact address reset send user notification form department
+  36 issues in 14 repositories
+
+# Universal Viewer, product owner
+Cluster 34:
+  object viewer video audio universal user like view digitized able
+  44 issues in 11 repositories
+
+# Browse Everything, product owner might be interested
+Cluster 44:
+  google drive file browseeverything meta oauth dropbox content browse transcription
+  19 issues in 9 repositories
+
+# Controlled vocabularies for places
+Cluster 43:
+  uris controlled geonames string osu vocabulary value move place location
+  16 issues in 5 repositories
+
+# Analytics
+Cluster 46:
+  analytics google call dashboard statistic view 507 424 tracked data
+  22 issues in 12 repositories
+
+Cluster 54:
+  report manager collection repository know may like statistic number analyticx
+  20 issues in 6 repositories
+
+# Controlled vocab
+Cluster 49:
+  term vocabulary controlled field search local use query deprecated json
+  28 issues in 13 repositories
+
+# File characterization
+Cluster 63:
+  fit config characterization file use update performance ffmpeg script currently
+  22 issues in 14 repositories
+
+# Front end
+Cluster 60:
+  label location uri accessibility element input add form field content
+  44 issues in 16 repositories

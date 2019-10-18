@@ -1,0 +1,31 @@
+Not Helpful Clusters
+
+# Institution specific language
+Cluster 1:
+  form update get put base rail changelog 8 unpaywall beavernetes
+  15 issues in 10 repositories
+
+# Too broad
+Cluster 2:
+  error file 500 message log 404 fatal info work import
+  66 issues in 21 repositories
+
+# Common words, too many issues
+Cluster 8:
+  add use data button link title need work set like
+  307 issues in 33 repositories
+
+# Word soup
+Cluster 19:
+  collection work page need search user add metadata object landing
+  109 issues in 21 repositories
+
+# Downloads, perhaps too broad
+Cluster 24:
+  download item button file link zip pdf downloads page user
+  40 issues in 13 repositories
+
+# Too general
+Cluster 35:
+  field metadata value collection form display data related dictionary add
+  86 issues in 21 repositories
