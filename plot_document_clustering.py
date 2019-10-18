@@ -36,6 +36,7 @@ logging.basicConfig(level=logging.INFO,
 # parse commandline arguments
 op = OptionParser()
 op.add_option("--n", type="int", dest="n_clusters", default=8)
+op.add_option("--files", dest="files_path", default="./data/open_issues/clean")
 op.add_option("--lsa",
               dest="n_components", type="int",
               help="Preprocess documents with latent semantic analysis.")
@@ -133,6 +134,7 @@ stopwords = base_stopwords + corpus_stopwords + stemmed_stopwords + lemmatized_s
 print("Loading open issues:")
 
 dataset = load_files("./data/open_issues/clean")
+dataset = load_files(opts.files_path)
 # TODO: Shuffle the data
 
 print("%d documents" % len(dataset.data))
@@ -222,6 +224,8 @@ def parse_filename(path):
     fn = path.rpartition("/")[2]
     pattern = '(.*)_(.*)_issue_(.*).txt'
     result = re.match(pattern, fn)
+    if result is None:
+        return ['None', 'None']
     repository = f'{result.group(1)}/{result.group(2)}'
     issue_number = result.group(3)
     return(repository, issue_number)
